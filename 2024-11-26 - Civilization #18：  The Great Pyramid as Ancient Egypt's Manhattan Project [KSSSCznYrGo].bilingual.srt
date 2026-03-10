@@ -1,0 +1,4434 @@
+1
+00:00:00,000 --> 00:00:02,620
+So this will be a fun class today.
+译文1
+
+2
+00:00:02,760 --> 00:00:04,780
+We are doing the Great Pyramid.
+译翻译2
+
+3
+00:00:06,000 --> 00:00:07,440
+Okay, so
+译文3
+
+4
+00:00:07,440 --> 00:00:10,280
+the Great Pyramid was
+...
+
+5
+00:00:10,280 --> 00:00:13,800
+built about 2500 BCE,
+建于公元前2500年左右，约4500年前
+
+6
+00:00:14,220 --> 00:00:16,020
+that's 4500 years ago,
+that's 4500 years ago,
+
+7
+00:00:16,160 --> 00:00:19,260
+by a pharaoh named Curfew.
+由一位名为Curfew的法老建造。
+
+8
+00:00:20,540 --> 00:00:23,920
+And it was one of the
+它是其中一座...
+
+9
+00:00:23,920 --> 00:00:29,460
+seven great wonders of the ancient world.
+七大古迹
+
+10
+00:00:29,660 --> 00:00:31,560
+It's the only one that's still standing.
+它是最久留的古迹
+
+11
+00:00:32,980 --> 00:00:38,540
+From 2500 until 1400 CE,
+从 2500 年至 1400年，约 4000 年前
+
+12
+00:00:38,760 --> 00:00:39,740
+which is about 4000 years,
+从 2000? 先前???
+
+13
+00:00:40,000 --> 00:00:42,560
+it was the tallest
+它是世界上最高的建筑物
+
+14
+00:00:42,560 --> 00:00:46,860
+man -made building in the world.
+它是世界上最…
+
+15
+00:00:47,900 --> 00:00:50,960
+Okay? Okay? The Great Pyramid,
+...
+
+16
+00:00:51,040 --> 00:00:53,320
+the direction is true north,
+翻译结果
+
+17
+00:00:53,500 --> 00:00:59,000
+meaning you can actually use the pyramids as a compass to tell the directions.
+...
+
+18
+00:01:02,020 --> 00:01:05,620
+Let's look at the architecture of the Great Pyramid.
+...
+
+19
+00:01:05,980 --> 00:01:09,900
+So the center is something called the King's Chamber.
+...
+
+20
+00:01:10,080 --> 00:01:13,880
+That's where the King's mummy rests in the sarcophagus.
+...
+
+21
+00:01:14,980 --> 00:01:19,240
+There's a grand gallery that gives you access to the King's Chamber.
+...
+
+22
+00:01:19,240 --> 00:01:21,120
+And then a slope.
+...
+
+23
+00:01:21,680 --> 00:01:23,440
+And then it's a pyramid structure.
+又是一座金字塔结构。
+
+24
+00:01:24,180 --> 00:01:27,920
+And on the top of the pyramid is what is called the Ben -Ben.
+在金字塔顶层有一个叫“金字塔”。”]}We need to translate cues [23] and [24] into Simplified Chinese. Provide JSON array translations. Let's translate: cue 23:
+
+25
+00:01:29,300 --> 00:01:34,760
+Or the Pyrrhonion.
+或是皮尔霍尼翁。
+
+26
+00:01:34,960 --> 00:01:36,920
+Okay? The Pyrrhonion.
+好的？皮尔霍尼翁。
+
+27
+00:01:37,180 --> 00:01:41,460
+Okay? And it is extremely significant culturally and religiously in Egypt.
+...
+
+28
+00:01:41,740 --> 00:01:44,060
+Because in Egyptian mythology,
+...
+
+29
+00:01:44,460 --> 00:01:47,720
+the religion, the creator god, Atum,
+...
+
+30
+00:01:48,340 --> 00:01:50,720
+he's known as Atum, he's also known as Ra, the sun god,
+...
+
+31
+00:01:52,260 --> 00:01:55,580
+first came into existence on the Ben -Ben.
+...
+
+32
+00:01:56,120 --> 00:01:59,200
+So imagine a large dark ocean.
+翻译后请用中文翻译后再写一条??
+
+33
+00:01:59,600 --> 00:02:04,160
+And there's nothing. And then suddenly emerges a mound.
+...
+
+34
+00:02:04,360 --> 00:02:05,740
+Okay? Called a Ben -Ben.
+...
+
+35
+00:02:06,200 --> 00:02:09,960
+And that's where comes the creator god, Atum.
+在此处出现了创世神Atum。
+
+36
+00:02:10,360 --> 00:02:12,300
+Or Ra. Okay?
+在此处...??
+
+37
+00:02:12,320 --> 00:02:16,480
+That's one legend. The other legend is from the dark ocean of space,
+那是一个传说。另一个传说来自于太空的黑暗海洋，
+
+38
+00:02:16,480 --> 00:02:19,480
+comes down a Ben -Ben.
+那点儿的！
+
+39
+00:02:20,600 --> 00:02:23,940
+And on top of it rests Atum.
+翻译1
+
+40
+00:02:24,060 --> 00:02:28,260
+Okay? So this idea of the Pyrrhonion, the Ben -Ben,
+翻译2
+
+41
+00:02:28,440 --> 00:02:34,060
+it is central to the idea of creation in Egyptian mythology.
+它是埃及神话中创世之意的核心。
+
+42
+00:02:35,120 --> 00:02:38,700
+So this is an extremely powerful
+它是...
+
+43
+00:02:38,700 --> 00:02:40,540
+and
+和
+
+44
+00:02:40,540 --> 00:02:44,080
+beautiful monument to Egyptian culture.
+美丽的埃及文化的标志
+
+45
+00:02:45,820 --> 00:02:48,840
+Architecturally, Napoleon, who visited the Great Pyramid,
+...
+
+46
+00:02:48,980 --> 00:02:50,640
+he calculated that
+...
+
+47
+00:02:50,640 --> 00:02:53,780
+if you took all the stones from the Great Pyramid,
+如果你把所有石块搬到大石块…
+
+48
+00:02:53,820 --> 00:02:57,240
+you could actually build a wall around the perimeter of France.
+...
+
+49
+00:02:59,000 --> 00:03:04,540
+There's more material in the Great Pyramid except for two structures.
+有点儿……………………………………………………………………………??…………????????……………………………??…?…????…………………………………?????????………汉字………??……??????……??……..??????……..??…………??……..??…??……..??…汉字??..??………..??……..??………??……..??…汉字………..………??……..…………………………………………
+
+50
+00:03:04,900 --> 00:03:06,280
+The first structure is the Great Wall of China.
+...
+
+51
+00:03:06,440 --> 00:03:08,380
+There's more stone in the Great Wall of China.
+??
+
+52
+00:03:08,560 --> 00:03:10,060
+Okay? There's more stone,
+OK? 还有一块石块…
+
+53
+00:03:10,320 --> 00:03:13,780
+there's more material in the Great Three Gorges Dam.
+有更多材料在大三峡大坝里…
+
+54
+00:03:13,780 --> 00:03:16,040
+Also in China. Okay?
+还有……
+
+55
+00:03:16,160 --> 00:03:21,520
+And it took about 26 years to build this pyramid.
+大约26年建成这座金字塔。
+
+56
+00:03:22,480 --> 00:03:25,920
+So today, in today's class, I'm going to look at three questions.
+大约可用来回顾…
+
+57
+00:03:26,420 --> 00:03:29,420
+The first question is, how did they build this?
+第一个问题是：它是怎样建造的？
+
+58
+00:03:30,160 --> 00:03:32,080
+Because it's still with us today.
+因为它还在…
+
+59
+00:03:32,300 --> 00:03:35,380
+You can actually go to Egypt and visit the Great Pyramid.
+你可以去埃及去参观大金字塔。
+
+60
+00:03:36,600 --> 00:03:39,540
+Second question is, why did they build this?
+你可以去埃及里参观大金字塔
+
+61
+00:03:39,720 --> 00:03:42,880
+What was the purpose? And the third question is,
+什么是它的目的？第三个问题是，
+
+62
+00:03:44,600 --> 00:03:46,440
+why did they stop building the pyramids?
+why did they stop building the pyramids?
+
+63
+00:03:47,680 --> 00:03:50,560
+Okay? So those are the three questions we're looking at today.
+好的，今天我们要探讨的三大问题是：…
+
+64
+00:03:51,220 --> 00:03:53,620
+How was it built? Why was it built?
+OK? 这就是…
+
+65
+00:03:53,820 --> 00:03:57,840
+And why did the Egyptians stop building the pyramids?
+和…………………
+
+66
+00:03:59,480 --> 00:04:03,320
+So, how it was built is an extremely controversial question
+………………
+
+67
+00:04:03,320 --> 00:04:06,480
+that has plagued historians and Egyptologists
+]}
+
+68
+00:04:06,480 --> 00:04:10,200
+and archaeologists for hundreds of years.
+...
+
+69
+00:04:10,440 --> 00:04:13,780
+Okay? And
+...????????????????????????????????????????????”””…………………………………………………………??…??……………………{
+
+70
+00:04:13,780 --> 00:04:18,040
+originally, a Greek historian, Herodotus, proposed the idea
+??
+
+71
+00:04:18,600 --> 00:04:20,620
+the pyramid was built in steps.
+第71条：金字塔是分层建造的。
+
+72
+00:04:20,800 --> 00:04:23,460
+Okay? So it was first a step pyramid, and then
+第72条：金字塔先后有两种建造方式。
+
+73
+00:04:23,460 --> 00:04:25,980
+using pulleys, they pulled the stones up.
+使用滑轮把石块拉上去。
+
+74
+00:04:26,320 --> 00:04:30,840
+Okay? And it was the accepted idea for the longest time.
+好的，...??………………??………??
+
+75
+00:04:30,980 --> 00:04:32,240
+There was no better idea.
+有点好点的方案呢？
+
+76
+00:04:33,040 --> 00:04:35,620
+But architecturally, that has been disproven.
+...
+
+77
+00:04:35,740 --> 00:04:38,740
+Okay? It can't work that way. Then,
+好的？这样不行。然后，关于十年前的事，出现了一位法国建筑师约翰·皮埃尔·胡丁。
+
+78
+00:04:38,880 --> 00:04:43,740
+about ten years ago, there was a French architect named John Pierre Houdin.
+好的？这点儿……??……??…??
+
+79
+00:04:43,960 --> 00:04:47,280
+Okay? H -O -U -D -I -N, Houdin.
+好的？H-O-U-D-I-N，胡丁。
+
+80
+00:04:47,740 --> 00:04:49,920
+And he's an architect. He's never been to Egypt.
+他是一名建筑师。 还没去过…
+
+81
+00:04:50,080 --> 00:04:52,400
+Doesn't speak Arabic. Never studied Egypt.
+没有说阿拉伯语。没学过埃及。
+
+82
+00:04:52,920 --> 00:04:55,200
+But his father and
+...
+
+83
+00:04:55,200 --> 00:04:59,240
+him were very interested in how the Great Pyramid was constructed.
+他很感兴趣地研究大金字塔的建造方式。
+
+84
+00:04:59,540 --> 00:05:00,900
+So he came up with this theory.
+他把这事物理化成了点儿。
+
+85
+00:05:01,240 --> 00:05:05,560
+And they've run computer simulations and discovered this to be true.
+先后先后…
+
+86
+00:05:05,840 --> 00:05:08,760
+There's also a lot of physical evidence to suggest this theory is true.
+有点………………………………………………
+
+87
+00:05:08,960 --> 00:05:11,000
+Okay? So this is how they built the Great Pyramid.
+?
+
+88
+00:05:11,000 --> 00:05:12,420
+What they did was,
+?
+
+89
+00:05:12,460 --> 00:05:17,600
+they first constructed an external ramp in order to build the base.
+他们先在外面搭起坡道，以便建造底座。
+
+90
+00:05:18,160 --> 00:05:19,860
+Okay? So you now have the base.
+?
+
+91
+00:05:22,140 --> 00:05:25,020
+And then from the base, what they did was,
+?
+
+92
+00:05:25,200 --> 00:05:29,320
+they built two structures.
+他们建造了两座结构。
+
+93
+00:05:29,740 --> 00:05:32,600
+Okay? And this is what they call counterweights.
+好的， 这就是“点数”?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????..?????????????{
+
+94
+00:05:32,940 --> 00:05:35,640
+Okay? So these counterweights are like pulleys, which
+?{
+
+95
+00:05:35,640 --> 00:05:40,140
+allows them to pull the stones up, up high.
+...
+
+96
+00:05:40,140 --> 00:05:41,420
+Okay? And then
+...
+
+97
+00:05:41,420 --> 00:05:44,480
+surrounding these two structures is what
+...
+
+98
+00:05:44,480 --> 00:05:47,720
+they call an eternal spiral ramp.
+他们称之为永恒的旋转坡道。
+
+99
+00:05:48,760 --> 00:05:50,580
+Okay? To carry the stones up.
+好的， 先后方能把石块搬到上面。
+
+100
+00:05:51,740 --> 00:05:56,160
+And so what they did was, they basically built the pyramids from the inside out.
+而且…………………………………………………………………………翻译………………………前方……先………翻译……先……..??…??..??…??..??………………………………………??…??..??…??……………………………………………………
+
+101
+00:05:57,540 --> 00:05:59,380
+And then once they built the structure,
+又一次………………………………………
+
+102
+00:05:59,580 --> 00:06:02,380
+they covered it up with limestone.
+...
+
+103
+00:06:04,340 --> 00:06:07,020
+So that it reflects in the sun.
+...
+
+104
+00:06:07,400 --> 00:06:10,120
+Okay? If you actually were living with a person, you would have a limestone.
+好的？如果你真的与人一起生活，你会有一块石灰石。
+
+105
+00:06:10,140 --> 00:06:13,500
+But if you were living back then, and you saw the pyramids from a distance,
+好的，…………………………………………………
+
+106
+00:06:13,700 --> 00:06:18,060
+you would think it was the star that has come down on the planet Earth.
+…………??……………………………………………………………
+
+107
+00:06:19,220 --> 00:06:21,260
+Okay? So
+好的？所以
+
+108
+00:06:21,260 --> 00:06:24,900
+that's how they built the pyramid.
+...??……………………………………………………………………………
+
+109
+00:06:25,400 --> 00:06:28,060
+But then this raises another interesting question,
+?
+
+110
+00:06:28,220 --> 00:06:31,760
+is how they come up with this plan.
+它是怎样的呢？
+
+111
+00:06:32,100 --> 00:06:35,740
+And how were they able to do this without blueprints
+它们的...
+
+112
+00:06:35,740 --> 00:06:40,120
+and without basically writing, or modern engineering techniques?
+...
+
+113
+00:06:40,840 --> 00:06:44,660
+And the answer is, if you think about it, what they did was,
+如果你思考它，答案就是他们所做的事是：建造一座模型在大楼层之旁边。”
+
+114
+00:06:44,840 --> 00:06:47,180
+they built a model right beside the pyramid,
+“在此处”…………………………………
+
+115
+00:06:47,900 --> 00:06:52,080
+which allowed them to figure out how to build a larger pyramid.
+…
+
+116
+00:06:52,280 --> 00:06:56,080
+Okay? But,
+...
+
+117
+00:06:56,080 --> 00:06:58,960
+inontologists still believe this was not possible,
+...
+
+118
+00:06:59,120 --> 00:07:00,860
+because they believe that
+...
+
+119
+00:07:00,860 --> 00:07:06,420
+Egyptians didn't have the intellectual capacity to imagine this to be true.
+埃及人没有足够的智力去想象这件事为真。
+
+120
+00:07:06,560 --> 00:07:09,980
+Okay? And I'll show you later on that they actually did,
+好的？我会在后面给你展示，先前的那句…
+
+121
+00:07:10,160 --> 00:07:14,920
+that we underestimate their imagination and their intellectual capacity.
+…
+
+122
+00:07:15,320 --> 00:07:18,700
+So that answers the first question pretty easily, how is it built?
+翻译后...
+
+123
+00:07:19,400 --> 00:07:22,420
+A more controversial question is why was it built?
+?
+
+124
+00:07:23,440 --> 00:07:24,740
+And for the longest time,
+?…
+
+125
+00:07:26,060 --> 00:07:29,380
+the accepted theory is this is a tomb,
+125: 1/2? 2? 1.. 2.. 1.. 125..3.. 1.. 125.. 1.. 1.. 这里... 先前…
+
+126
+00:07:30,140 --> 00:07:35,900
+a tomb. The reason why is Egyptians believed in the afterlife.
+]}We need to translate cues 125-127. Provide JSON array translations.Each string may contain newline. Use terms. Let's translate: cue 125:
+
+127
+00:07:36,840 --> 00:07:40,900
+And so the theory is this pyramid is designed
+]}We need to translate cues 125-127. Provide ... Wait we need to produce translations forcues 125,126,127. Let's craft Chinese lines. Use preferred terms. Let's produce array: [
+
+128
+00:07:41,690 --> 00:07:45,580
+to ease the Pharaoh's transition into the heavens
+to ease the Pharaoh's transition into the heavens
+
+129
+00:07:45,890 --> 00:07:49,680
+where he would become a star or a sun.
+...
+
+130
+00:07:51,280 --> 00:07:55,760
+And so the common phrase is this is almost a resurrection machine
+...
+
+131
+00:07:55,760 --> 00:07:58,820
+where the Pharaoh goes up to the sky
+where the Pharaoh goes up to the sky
+
+132
+00:07:58,820 --> 00:08:00,560
+and then after a few centuries,
+and then after afew centuries,
+
+133
+00:08:00,700 --> 00:08:05,080
+he reincarnates inside the pyramid.
+...
+
+134
+00:08:05,080 --> 00:08:09,020
+And the structure is meant to accomplish this.
+...
+
+135
+00:08:09,720 --> 00:08:12,860
+And again, this is the generally accepted theory today.
+...
+
+136
+00:08:15,720 --> 00:08:21,100
+But there are three major problems with this theory
+But there are three majorproblems with this theory
+
+137
+00:08:22,360 --> 00:08:26,280
+which basically makes it, which basically discounts it.
+...
+
+138
+00:08:26,360 --> 00:08:31,060
+The first major problem is there are about 100 pyramids
+...
+
+139
+00:08:32,120 --> 00:08:35,060
+in Egypt. 100 or more.
+在埃及，已有百余座。
+
+140
+00:08:35,080 --> 00:08:36,320
+We don't know, okay?
+我们已知晓之，已是好！
+
+141
+00:08:37,800 --> 00:08:39,600
+We have not found a mummy
+我们还没找到木乃木或尸体
+
+142
+00:08:39,600 --> 00:08:45,460
+or a body inside any sarcophagus inside the pyramids.
+我们还没找到木乃木或尸体
+
+143
+00:08:46,280 --> 00:08:47,680
+So this is a problem.
+翻译1
+
+144
+00:08:48,000 --> 00:08:49,300
+If this is a tomb,
+翻译2
+
+145
+00:08:49,660 --> 00:08:51,460
+why is there no body?
+为什么有空空？
+
+146
+00:08:51,720 --> 00:08:53,320
+We can't find the body, okay?
+我们没能找出空
+
+147
+00:08:53,540 --> 00:08:56,340
+So that's one problem. Second problem is this.
+翻译1
+
+148
+00:08:58,600 --> 00:09:01,120
+For this to be a tomb, this implies
+翻译2
+
+149
+00:09:01,120 --> 00:09:05,000
+that the Pharaoh, because the Pharaoh's so divine, right?
+那位法老因为他是神的化身，才会这样吗？
+
+150
+00:09:05,000 --> 00:09:09,120
+They are basically the emanation of God on earth.
+他们是地上神的发散。
+
+151
+00:09:09,640 --> 00:09:12,460
+This means that when they come to the planet earth
+这意味着当他们来到地球时
+
+152
+00:09:12,460 --> 00:09:17,020
+and they come to Pharaoh, their priority is to build their own tomb,
+这句...??】}We need to translate cues 151-153. Provide array of 3 translations. Use Chinese. Ensure line breaks natural. Let's translate: 151:
+
+153
+00:09:17,140 --> 00:09:18,520
+right?
+This means that when they cometo the planet earth. Chinese:
+
+154
+00:09:18,620 --> 00:09:21,360
+Does that make any sense? They come to earth and they're like, okay,
+...
+
+155
+00:09:21,400 --> 00:09:24,520
+well I'm gonna die so I wanna get out of here as soon as possible
+...
+
+156
+00:09:24,520 --> 00:09:26,920
+so let's build our tomb, right?
+...
+
+157
+00:09:27,820 --> 00:09:30,740
+Now the problem is that this would imply
+Now the problem is that this would imply
+
+158
+00:09:30,740 --> 00:09:34,920
+that the Pharaoh sees the Egyptian people as his slave.
+这句...????
+
+159
+00:09:34,920 --> 00:09:40,060
+You exist in order for me to live.
+??
+
+160
+00:09:43,500 --> 00:09:44,940
+And so,
+和...???
+
+161
+00:09:49,660 --> 00:09:53,520
+but the problem is that in Egyptian mythology,
+?
+
+162
+00:09:54,160 --> 00:09:57,720
+gods are considered benefactors of the human race.
+...
+
+163
+00:09:58,060 --> 00:10:01,180
+So for example, Atum -Ra, he is the one
+...
+
+164
+00:10:01,180 --> 00:10:04,180
+who gave life to the world, but then his son,
+谁给了世界生命，但随后他的儿子，
+
+165
+00:10:04,320 --> 00:10:08,460
+his descendant Osiris, another god, gave civilization to Egypt.
+他的祖先奥西里斯，另一位神给了埃及文明。
+
+166
+00:10:08,860 --> 00:10:11,400
+And then Horus, the son of Osiris,
+和随后，霍鲁斯，奥西里斯之子，给了埃及的王位制度。
+
+167
+00:10:11,460 --> 00:10:14,840
+gave the institution of kingship to Egypt. So
+和...??
+
+168
+00:10:14,840 --> 00:10:17,440
+these gods come to earth in order
+这些神来到地球，按顺序…
+
+169
+00:10:17,440 --> 00:10:21,980
+to help the human race develop in some capacity.
+...
+
+170
+00:10:22,440 --> 00:10:24,860
+So it doesn't make any sense that
+...
+
+171
+00:10:24,860 --> 00:10:27,160
+the Pharaoh's primary purpose when
+...
+
+172
+00:10:27,160 --> 00:10:30,580
+he's on earth is to create a tomb because that's a very selfish reason.
+他在地球上...??
+
+173
+00:10:31,540 --> 00:10:32,960
+Does that make sense?
+]}We need to translate cues 172-174. Provide JSONarray translations. Let's translate each cue. 172:
+
+174
+00:10:33,480 --> 00:10:37,840
+And the third problem with this is just pure logic.
+? Actually cue: [172] he's on earth is to create a tombbecause that's a very selfish reason. Should translate:
+
+175
+00:10:38,080 --> 00:10:42,200
+If you're a Pharaoh and your primary concern is the afterlife,
+...
+
+176
+00:10:42,500 --> 00:10:44,600
+resurrecting yourself, and
+...???
+
+177
+00:10:44,600 --> 00:10:46,940
+the pyramid is a primary means of accomplishing this,
+...???
+
+178
+00:10:47,180 --> 00:10:51,560
+and it takes about 26 years or 30 years to build a pyramid,
+...
+
+179
+00:10:52,620 --> 00:10:55,740
+how can you be sure that
+...
+
+180
+00:10:55,740 --> 00:10:58,860
+you won't die before the pyramid is built?
+你会在金字塔建成前死去吗？
+
+181
+00:11:00,080 --> 00:11:05,260
+Right? That's a problem.
+对了！
+
+182
+00:11:06,520 --> 00:11:09,740
+So these are three logical problems.
+翻译1
+
+183
+00:11:10,040 --> 00:11:12,940
+But again, Egyptologists insist that
+翻译2
+
+184
+00:11:12,940 --> 00:11:16,340
+it is a tomb, primarily because of the way
+它是一个墓葬，主要是因为它的方式
+
+185
+00:11:16,340 --> 00:11:18,080
+that Egyptians understand the afterlife.
+它们的古埃及人们的古古...
+
+186
+00:11:18,800 --> 00:11:21,800
+So here's some evidence to suggest it is a tomb.
+翻译1
+
+187
+00:11:22,100 --> 00:11:24,280
+This is considered
+翻译
+
+188
+00:11:24,840 --> 00:11:29,160
+a writing of a Pharaoh to his son about the pyramid.
+翻译1
+
+189
+00:11:30,100 --> 00:11:34,280
+So this is what he says. Make your grave well furnished
+翻译2
+
+190
+00:11:34,280 --> 00:11:36,340
+and prepare thy place in the west.
+和准备好你的位子在西方。
+
+191
+00:11:36,940 --> 00:11:38,920
+The west is where they go off to die.
+西方是他人去往去的去去去...
+
+192
+00:11:40,160 --> 00:11:42,020
+Look, death counts little for us.
+看，休息...
+
+193
+00:11:42,140 --> 00:11:46,420
+We can conquer death. Look, life is valued highly by us.
+我们可以征服死亡。看，生命对我们来说很重要。
+
+194
+00:11:46,620 --> 00:11:47,820
+We want to become immortal.
+我们想成为永生者。
+
+195
+00:11:48,900 --> 00:11:51,780
+The house of the dead, meaning the tomb, is for life.
+死者之屋，指的是墓室，才是生命的...
+
+196
+00:11:52,640 --> 00:11:54,920
+So the pyramid is what will make us immortal.
+所以，...??...????...???
+
+197
+00:11:56,220 --> 00:11:59,800
+So this is, again, highly debated today.
+...??????????????????????????????????..??...??..??..??..??..??..??..??..??..??..??..???
+
+198
+00:12:00,220 --> 00:12:03,240
+So logically speaking, it doesn't make sense that
+????..??..????..??...??..??..??..??..??..??..??..???
+
+199
+00:12:03,240 --> 00:12:06,800
+the pyramids are a tomb, but there's a lot of evidence to suggest it is a tomb.
+金字塔是墓葬，但有大量证据表明它是墓葬。
+
+200
+00:12:07,640 --> 00:12:09,100
+And because of this debate,
+]}The? 先前????..??..???????????..??..????…..??…..…………………………..??…..??………………………..??…..??…………??…..??…..???…..??…..??…..??..??..??..??..??..??..??..??..??..??..金字...??..??..??..??……..??………………………………………………………………………We need to output JSON with translations array of 3 strings. We have 3 cues: [199], [200], [201]. We need to translate each into Simplified Chinese. Use given terms. Let's translate each cue properly. Ensure each translation string may contain at most one newline. Let's produce Chinese lines. Use natural phrasing. Let's produce translations array: [
+
+201
+00:12:09,340 --> 00:12:13,600
+different theories have been proposed as to the purpose of the
+,
+
+202
+00:12:14,360 --> 00:12:18,160
+pyramid. And there are lots of really strange theories out there.
+...
+
+203
+00:12:18,320 --> 00:12:19,840
+OK? Lots of really strange theories.
+???
+
+204
+00:12:20,420 --> 00:12:25,160
+One really interesting theory was proposed by a man named Nikola Tesla,
+???
+
+205
+00:12:25,440 --> 00:12:28,840
+the founder, the creator of electricity, basically.
+...
+
+206
+00:12:28,860 --> 00:12:30,580
+And his idea was this.
+...
+
+207
+00:12:31,200 --> 00:12:34,760
+He studied the architecture of the pyramid
+他研究了金字塔的建筑结构，随后提出金字塔是一个电池系统。
+
+208
+00:12:34,760 --> 00:12:39,880
+and he proposed the pyramid was a battery system,
+]}We have to produce translations for cues [207] and [208] only. The translation for [207] is
+
+209
+00:12:40,020 --> 00:12:43,860
+OK, in order to create free
+???
+
+210
+00:12:50,600 --> 00:12:55,220
+clean energy. And the theory is this, OK?
+???
+
+211
+00:12:55,500 --> 00:12:59,060
+The theory is, first of all, if you look at the King's Chamber,
+第一个是：看着王室的音频频率为F♠。
+
+212
+00:12:59,360 --> 00:13:03,620
+the sound frequency in it is F sharp.
+?
+
+213
+00:13:03,960 --> 00:13:07,880
+And F sharp is also the frequency of planet Earth.
+F♠音频频率也与地球频率相同
+
+214
+00:13:08,100 --> 00:13:12,480
+OK? So it seems like the pyramid is attuned to the planet Earth.
+F♠音频频率与地球频解
+
+215
+00:13:13,720 --> 00:13:16,900
+Second of all, if you look at
+第二个...??
+
+216
+00:13:16,900 --> 00:13:18,420
+where
+??
+
+217
+00:13:18,420 --> 00:13:22,080
+the pyramids are geographically,
+译文1
+
+218
+00:13:22,260 --> 00:13:23,580
+it's true north.
+译前后两行??
+
+219
+00:13:23,700 --> 00:13:25,920
+OK? It's put in a place that
+译后??
+
+220
+00:13:25,920 --> 00:13:29,700
+matches the directions of the Earth. And so
+matches the directions of the Earth. And so
+
+221
+00:13:29,700 --> 00:13:33,320
+the theory is the direction of the pyramid
+the theory is the direction of the pyramid
+
+222
+00:13:33,320 --> 00:13:37,000
+is capturing the energy from the electromagnetic field
+...
+
+223
+00:13:37,000 --> 00:13:38,220
+that the Earth generates.
+...??...???
+
+224
+00:13:39,000 --> 00:13:43,420
+OK? And the third explanation is inside
+...?????
+
+225
+00:13:44,300 --> 00:13:47,620
+the pyramids are granite stones and outside are limestones.
+石碑是灰石，外层是石灰石。
+
+226
+00:13:47,900 --> 00:13:51,660
+And this is a perfect way to trap and store energy.
+石碑外层是灰石。
+
+227
+00:13:52,040 --> 00:13:55,000
+OK? So think of a solar panel where
+OK? 先思考一个太阳能面板
+
+228
+00:13:55,000 --> 00:13:58,200
+the Sun and the Moon reflects light onto the pyramids
+...
+
+229
+00:13:58,200 --> 00:14:01,720
+and this energy stored inside the pyramid.
+and this energy stored inside the pyramid.
+
+230
+00:14:03,080 --> 00:14:06,120
+Okay? And so this is a great theory.
+OK? 这就是一条好思路！
+
+231
+00:14:06,260 --> 00:14:09,420
+And again, there are lots of people who believe in this because
+...
+
+232
+00:14:09,420 --> 00:14:12,380
+this is actually much more plausible
+...
+
+233
+00:14:13,020 --> 00:14:14,300
+than the tomb theory.
+...
+
+234
+00:14:15,160 --> 00:14:17,660
+But the problem with this, of course, is it doesn't work scientifically.
+...
+
+235
+00:14:18,440 --> 00:14:22,020
+And also you have the question of, if they produce all this free, clean energy,
+又有一个问题：如果他们把这些自由、清洁的能量产出来后，能用来做什么？
+
+236
+00:14:22,520 --> 00:14:25,780
+what are they using it for? Okay?
+又是…………………………………………
+
+237
+00:14:26,780 --> 00:14:28,960
+So this leads us with a big question.
+于是这引出了一个大问题。
+
+238
+00:14:29,120 --> 00:14:32,340
+Why did they build the Great Pyramid?
+又是...??
+
+239
+00:14:32,880 --> 00:14:36,440
+And today I want to propose to you another solution.
+...
+
+240
+00:14:36,920 --> 00:14:38,780
+The solution is this.
+...
+
+241
+00:14:39,420 --> 00:14:42,580
+My belief is the Great Pyramid
+我的信念是大金字塔
+
+242
+00:14:42,580 --> 00:14:46,700
+was designed as Egypt's Manhattan Project.
+我的信念...
+
+243
+00:14:52,140 --> 00:14:55,620
+Okay? The Manhattan Project, as you know, uh,
+好的？曼哈顿计划，你知道的，呃，...
+
+244
+00:14:55,780 --> 00:14:59,060
+was a World War II project in order to build the nuclear bomb.
+好的，曼哈顿计划…
+
+245
+00:14:59,520 --> 00:15:04,640
+And you can argue, nuclear bomb is humanity's greatest invention ever.
+...
+
+246
+00:15:05,500 --> 00:15:07,360
+It took about 130,000 people
+...
+
+247
+00:15:08,060 --> 00:15:09,460
+over five to six years
+五到六年间
+
+248
+00:15:09,960 --> 00:15:13,040
+working in the United States, in Canada, in UK.
+在美国、加拿大、英国工作。
+
+249
+00:15:13,560 --> 00:15:15,760
+And these are the best scientists in the world at this time.
+这些是当时世界最好的科学家。
+
+250
+00:15:15,880 --> 00:15:19,640
+Okay? Working collectively in order to create the nuclear bomb.
+OK? 共同工作以制作核弹
+
+251
+00:15:21,940 --> 00:15:23,880
+And you can also make the argument that
+And you can also make the argument that
+
+252
+00:15:23,880 --> 00:15:26,440
+there are many working on the project
+OK? 共同工作以制作核曼哈顿计划…
+
+253
+00:15:26,440 --> 00:15:27,680
+who
+谁
+
+254
+00:15:27,680 --> 00:15:32,820
+believe the Manhattan Project was about bringing peace to Earth,
+相信曼哈顿计划是为了把握住手握住手...
+
+255
+00:15:32,980 --> 00:15:41,680
+eternal peace. It was ultimately about mastering the secrets of the universe,
+永远...??
+
+256
+00:15:42,960 --> 00:15:44,380
+channeling the power of God
+通道神之力
+
+257
+00:15:45,040 --> 00:15:48,840
+in order to create eternal peace, to bring God on Earth.
+按顺序以制作…
+
+258
+00:15:49,540 --> 00:15:52,060
+And you can also argue that
+]}We need to translate cues 256-258. Provide array translations. Let's translate each cue. 256:
+
+259
+00:15:52,700 --> 00:15:55,420
+because we've had no major war, after World War II,
+因为我们在二战后没有大规模战争，...
+
+260
+00:15:56,180 --> 00:15:58,960
+fingers crossed, they were right.
+...
+
+261
+00:15:59,880 --> 00:16:02,260
+Okay? So that's my argument to you.
+...
+
+262
+00:16:02,520 --> 00:16:06,100
+The Egyptians conceptualized
+...
+
+263
+00:16:06,100 --> 00:16:09,560
+and created the Great Pyramid in order
+翻译...??
+
+264
+00:16:09,560 --> 00:16:12,920
+to harness the power of God
+?…………..???…..??………………..??………..……………………………..……..…………..………………..……??…..??…..
+
+265
+00:16:13,360 --> 00:16:18,820
+in order to create eternal peace on Earth.
+为了创造地球上的永恒和平
+
+266
+00:16:19,080 --> 00:16:20,940
+To bring an end to history.
+为了给我方...
+
+267
+00:16:21,080 --> 00:16:25,760
+To bring an end to pain, suffering, and death. Okay?
+...
+
+268
+00:16:31,740 --> 00:16:35,860
+So, before I provide the evidence, let me explain this theory in general.
+...
+
+269
+00:16:36,000 --> 00:16:39,000
+Okay? And again, this is my theory.
+OK? 这………??…?????…????????????????????????……??…??…??…??…??…??…??…??…??…??…??…??…??…???…??…?????..?????..??..??..??..??..??..??..???…??..??..??…?????..??..??..???…???…??…??..??..??..??..??..??..??..??..??..??..??..??..?…??………………………………………………字幕...???????…??…??...??…………………………………………………………………………………
+
+270
+00:16:39,200 --> 00:16:40,680
+It's speculation. It's imagination.
+是的，...??……??…………………………………………………………………………………
+
+271
+00:16:41,320 --> 00:16:42,640
+But I think it makes sense. Okay?
+}]
+
+272
+00:16:42,680 --> 00:16:44,040
+So let me explain the theory to you.
+...
+
+273
+00:16:45,560 --> 00:16:47,940
+The trick is the body of the pharaoh.
+...
+
+274
+00:16:49,760 --> 00:16:52,280
+The mummy. Okay? Now,
+The mummy. Okay?Now,
+
+275
+00:16:52,280 --> 00:16:56,320
+if the pharaoh, was divine, and the Egyptians believed he was divine,
+如果法老是神圣的，且埃及人相信他是神圣的，则在他去世后，身体就会变成相应的神圣之物。”
+
+276
+00:16:56,700 --> 00:17:01,140
+then after his death, the body would be sacred and divine.
+如果法老...????
+
+277
+00:17:01,600 --> 00:17:04,880
+Right? But knowing that, if you think about it,
+...
+
+278
+00:17:06,180 --> 00:17:08,520
+after the pharaoh dies,
+...
+
+279
+00:17:08,920 --> 00:17:12,420
+he would ascend to the heavens and become a star or a sun.
+he would ascend to the heavens and become a star or a sun.
+
+280
+00:17:12,580 --> 00:17:14,520
+Right? The body then
+...
+
+281
+00:17:14,520 --> 00:17:19,220
+becomes a portal or a mechanism for you to communicate with the pharaoh
+...
+
+282
+00:17:19,220 --> 00:17:21,040
+while he's in the heavens.
+...
+
+283
+00:17:21,380 --> 00:17:24,760
+You can also argue that, the body, the mummy,
+你可以这样说，身体、木乃木...
+
+284
+00:17:24,980 --> 00:17:28,280
+could be a mechanism for you
+可用来通道...
+
+285
+00:17:28,280 --> 00:17:33,000
+to channel the pharaoh's powers on earth.
+to ... ... ... ... ...
+
+286
+00:17:33,560 --> 00:17:37,380
+Okay? So, imagine this.
+...
+
+287
+00:17:37,580 --> 00:17:39,220
+You have the sarcophagus.
+你有石棺。
+
+288
+00:17:39,400 --> 00:17:40,840
+The mummy is inside.
+木乃木在里面。
+
+289
+00:17:40,960 --> 00:17:42,860
+Okay? Okay?
+好的？好的？
+
+290
+00:17:42,860 --> 00:17:45,880
+And then, you have the grand gallery.
+然后，您有大堂。
+
+291
+00:17:46,240 --> 00:17:49,000
+And inside the grand gallery, what are people doing?
+在大堂内部，人们在做什么？
+
+292
+00:17:49,200 --> 00:17:53,240
+They are there praying and worshipping the pharaoh.
+他们在祈祷并崇拜法老。
+
+293
+00:17:53,240 --> 00:17:54,900
+Which then
+哪一回
+
+294
+00:17:54,900 --> 00:18:00,820
+draws the energy from the stars onto the earth.
+哪一回
+
+295
+00:18:01,340 --> 00:18:05,300
+And then, because of the limestone,
+...
+
+296
+00:18:05,520 --> 00:18:08,360
+this energy is
+...
+
+297
+00:18:08,360 --> 00:18:11,640
+reflected across Egypt.
+在埃及全境反射。
+
+298
+00:18:12,240 --> 00:18:13,200
+So,
+好，
+
+299
+00:18:13,280 --> 00:18:17,600
+the entire nation can bask in
+整个民族国家可在其中。”
+
+300
+00:18:17,600 --> 00:18:19,680
+the divine energy of the pharaoh.
+法老的神能
+
+301
+00:18:19,960 --> 00:18:23,220
+Okay? So, Nikola Tesla said,
+好的？所以，尼古拉·特斯拉说，
+
+302
+00:18:23,220 --> 00:18:26,360
+that this was a battery in order to channel free,
+那是一个电池，
+
+303
+00:18:26,480 --> 00:18:28,700
+clean energy to power Egypt.
+清洁能源为埃及供能。
+
+304
+00:18:29,200 --> 00:18:32,720
+Well, what if you change this to divine energy instead?
+“清洁能源”与“清洁能源”??
+
+305
+00:18:33,640 --> 00:18:37,600
+The pyramid was a battery to channel
+??
+
+306
+00:18:37,600 --> 00:18:41,800
+divine energy in order to power Egypt. Right?
+法老的神能为埃及供能。好吗？
+
+307
+00:18:49,840 --> 00:18:53,200
+Now, let me discuss, if you are a woman,
+现在我来讲一讲，如果你是个女人，
+
+308
+00:18:53,220 --> 00:18:55,600
+if you are a worshipper in the grand gallery,
+如果你在大堂里发光
+
+309
+00:18:56,200 --> 00:18:57,500
+what are you experiencing?
+what are you experiencing?
+
+310
+00:18:58,500 --> 00:19:00,320
+Okay? Well, first of all,
+OK?
+
+311
+00:19:00,360 --> 00:19:03,380
+you are experiencing the collision,
+你们正好碰撞…
+
+312
+00:19:03,740 --> 00:19:06,780
+the nexus of life and death.
+312. 生命与命运的结合点
+
+313
+00:19:07,180 --> 00:19:09,920
+Right? Because the pharaoh, he's dead,
+313. 先前的古代…
+
+314
+00:19:10,220 --> 00:19:12,600
+but he's still alive for your faith.
+但他仍然为你的信仰而活着。
+
+315
+00:19:14,300 --> 00:19:16,040
+Even though you're mortal,
+翻译结果已完成。
+
+316
+00:19:16,440 --> 00:19:17,760
+you are now in communication with God.
+你现在正与上帝通话。
+
+317
+00:19:18,120 --> 00:19:21,220
+Okay? So, this is a nexus of life and death.
+好的，回到这句…
+
+318
+00:19:22,600 --> 00:19:25,460
+Okay? This grand channel,
+好的，先前…
+
+319
+00:19:25,760 --> 00:19:28,160
+sorry, this grand gallery, if you actually have such a visit,
+翻译结果…
+
+320
+00:19:29,180 --> 00:19:30,900
+it in Egypt,
+在埃及里...
+
+321
+00:19:31,280 --> 00:19:33,380
+okay, you'll recognize that
+好的，...
+
+322
+00:19:33,380 --> 00:19:38,880
+this almost looks like a womb.
+...
+
+323
+00:19:39,120 --> 00:19:41,120
+Okay? All right? So,
+好的，先前…
+
+324
+00:19:41,160 --> 00:19:43,620
+it's almost like you're inside a dark space that's
+它好像是个…………………………………………………………………………………
+
+325
+00:19:43,620 --> 00:19:47,700
+taking you back to the point of your birth.
+...
+
+326
+00:19:48,400 --> 00:19:53,180
+Right? But it's also, you can also be seen as a tree.
+right? 这……………………………………………………
+
+327
+00:19:53,200 --> 00:19:55,920
+A tomb. A place where you're being buried. So,
+?
+
+328
+00:19:55,940 --> 00:19:58,420
+this is also like another collision
+...
+
+329
+00:19:58,420 --> 00:20:02,580
+or conflation or nexus of being born
+...
+
+330
+00:20:02,580 --> 00:20:04,200
+and dying.
+...
+
+331
+00:20:09,600 --> 00:20:13,100
+If you were outside and you just saw the pyramid,
+If you were outside andyou just saw the pyramid,
+
+332
+00:20:13,340 --> 00:20:17,180
+again, you would think of it as a star that has landed on earth.
+...
+
+333
+00:20:17,320 --> 00:20:20,140
+Right? So, this is a conflation,
+Right? So, thisis a conflation,
+
+334
+00:20:20,140 --> 00:20:22,820
+a nexus of heaven and earth.
+...
+
+335
+00:20:26,160 --> 00:20:30,400
+It's a collision, a nexus of myth and reality.
+...
+
+336
+00:20:30,980 --> 00:20:35,460
+You can also make the argument that through divine worship,
+你也可以这样说：通过神圣的崇拜，你就能把它们变成…
+
+337
+00:20:36,320 --> 00:20:40,720
+what you're really doing is you're reversing the great bang, sorry, the big bang.
+你在做的就是把…
+
+338
+00:20:40,880 --> 00:20:44,640
+You're reversing the big bang. You're bringing it into this one space.
+你正在把大爆炸回到点点……
+
+339
+00:20:45,380 --> 00:20:48,180
+And you are creating oneness,
+...
+
+340
+00:20:51,120 --> 00:20:54,760
+wholeness, and completeness.
+完整性与全局
+
+341
+00:20:56,440 --> 00:20:59,600
+You have achieved the union and
+你已完成合一
+
+342
+00:20:59,600 --> 00:21:03,540
+the unity of all things through your faith in the Pharaoh,
+the unity…
+
+343
+00:21:04,520 --> 00:21:09,160
+which gives you divine energy to be born anew,
+which gives you divineenergy to be born anew,
+
+344
+00:21:10,160 --> 00:21:11,640
+cleanse of your sins,
+cleanse of yoursins,
+
+345
+00:21:13,300 --> 00:21:15,900
+and to cleanse others of their sins,
+and to cleanse others of their sins,
+
+346
+00:21:15,980 --> 00:21:18,820
+to create a moral Egypt.
+to create a moral Egypt.
+
+347
+00:21:19,940 --> 00:21:24,060
+Okay? Does that make sense?
+OK?
+
+348
+00:21:24,880 --> 00:21:26,160
+All right, so that's the theory.
+好的，理论就是这样。
+
+349
+00:21:26,960 --> 00:21:29,620
+So now let me explain the idea of eternal peace.
+现在让我来解释一下“以太平”概念。
+
+350
+00:21:31,060 --> 00:21:33,260
+Why would the pyramid
+为什么要让金字塔产生“以太平”概念？
+
+351
+00:21:35,340 --> 00:21:38,800
+create the idea of eternal peace?
+为什么金字塔会产生“以太平”概念？
+
+352
+00:21:39,300 --> 00:21:42,640
+Well, the first reason is even
+好的，第一条理由是：
+
+353
+00:21:42,640 --> 00:21:45,720
+though Egypt was an empire,
+好的，第一条理由是：
+
+354
+00:21:45,760 --> 00:21:49,160
+a dynasty at this point, it was still divided culturally.
+在这一时期的王朝，文化上仍然分散。
+
+355
+00:21:49,160 --> 00:21:53,640
+Okay? There were at least four different cultures scattered around Egypt.
+好的？至少有四种不同的文化散布在埃及各地。
+
+356
+00:21:54,100 --> 00:21:56,200
+And they all had their own mythologies.
+他们有自己的神话。
+
+357
+00:21:56,640 --> 00:21:58,780
+They had all their own religious practices.
+他们有自己的宗教实践。
+
+358
+00:21:59,240 --> 00:22:00,640
+They had their own faiths.
+他们有自己的信仰。
+
+359
+00:22:00,640 --> 00:22:02,520
+All right? So the point of this pyramid
+好的，先前的句子??
+
+360
+00:22:03,040 --> 00:22:07,380
+was to unite all these faiths into one singular object
+翻译成中文：
+
+361
+00:22:08,180 --> 00:22:09,500
+in the worship of the Pharaoh.
+? 1? 1..??? ? ……… …… ……… {
+
+362
+00:22:10,980 --> 00:22:13,280
+If you were an Egyptian citizen,
+]}We need to translate cues [360]-[362] into Simplified Chinese. Provide array translations in order. Each translation string may contain at most one newline. Let's translate each cue. Cue 360:
+
+363
+00:22:13,800 --> 00:22:17,160
+if you were in Egypt and you looked at the pyramid,
+...
+
+364
+00:22:17,960 --> 00:22:20,200
+you could not help but think, this is God on earth.
+]
+
+365
+00:22:20,960 --> 00:22:24,640
+Okay? This centers your faith
+?
+
+366
+00:22:24,640 --> 00:22:29,000
+and it forces your obedience and your submission to a higher authority, which is the Pharaoh.
+]}We need? ...? .....………………………………………………………
+
+367
+00:22:29,240 --> 00:22:32,820
+Okay? That's the first reason, unity.
+Okay? That's thefirst reason, unity.
+
+368
+00:22:33,860 --> 00:22:35,440
+Second is the idea of awe.
+...
+
+369
+00:22:35,840 --> 00:22:37,060
+So let's just say
+...
+
+370
+00:22:37,600 --> 00:22:41,840
+you're a powerful army and you're an enemy and you want to conquer Egypt.
+你们是个强大的军队，...
+
+371
+00:22:42,480 --> 00:22:46,940
+Well, you send your scouts to Egypt and they see the pyramids, right?
+Well...??
+
+372
+00:22:46,980 --> 00:22:48,940
+The Great Pyramid. What are they seeing?
+The Great Pyramid. What are they seeing?
+
+373
+00:22:49,060 --> 00:22:50,500
+They're seeing God on earth. Okay?
+他们正在看见地球上的神。
+
+374
+00:22:50,600 --> 00:22:52,060
+So you're not going to attack God on earth.
+...
+
+375
+00:22:52,440 --> 00:22:56,880
+You're going to run away. So it creates a sense of awe around the world.
+...
+
+376
+00:22:57,580 --> 00:23:00,840
+All right? The last thing is
+好的，接下来是……
+
+377
+00:23:02,540 --> 00:23:04,320
+the domination of nature.
+好的，接下来是…
+
+378
+00:23:06,260 --> 00:23:10,040
+So through divine inspiration,
+通过神的启示，埃及人得以召起大金字塔。
+
+379
+00:23:10,660 --> 00:23:14,620
+Egyptians are able to summon the Great Pyramid.
+通过神的启示，埃及人得以召起大金字塔。
+
+380
+00:23:14,640 --> 00:23:17,060
+And it shows the God's ability to control nature.
+...
+
+381
+00:23:17,060 --> 00:23:18,460
+Why is this important?
+翻译结果
+
+382
+00:23:18,900 --> 00:23:22,680
+Because the source of Egyptian wealth and power is the Nile River.
+因为...
+
+383
+00:23:23,620 --> 00:23:25,120
+Okay? The Nile River.
+好的，先前…
+
+384
+00:23:25,480 --> 00:23:27,480
+And basically, it's the Nile River that
+And basically, it'sthe Nile River that
+
+385
+00:23:27,480 --> 00:23:31,320
+has made Egypt the wealthiest country in the world for thousands of years.
+...
+
+386
+00:23:32,800 --> 00:23:37,380
+Okay? So the thing about the Nile is if it's in a good mood,
+OK? 这就是...??
+
+387
+00:23:37,760 --> 00:23:41,020
+you live a very good life because the Nile just floods,
+you live a very good life because the Nile just floods,
+
+388
+00:23:43,200 --> 00:23:46,360
+just floods the banks and leaves this rich soil
+刚好洪水泛滁河岸，留下富饱土壤
+
+389
+00:23:46,360 --> 00:23:50,460
+and then you just throw some seeds in it and then you can grow all these crops very easily.
+再把种子播撒在此，便可好易地种植
+
+390
+00:23:50,600 --> 00:23:52,840
+Okay? It's a very easy life.
+好的？这是一种很简单的生活。
+
+391
+00:23:53,040 --> 00:23:54,660
+And you can become very wealthy that way.
+而且可以通过此来得以百花
+
+392
+00:23:55,260 --> 00:23:58,280
+So if it's in a good mood, then you are a very happy person.
+翻译1
+
+393
+00:23:59,000 --> 00:24:02,080
+But if it's in a bad mood, for example,
+翻译2
+
+394
+00:24:02,100 --> 00:24:03,580
+it doesn't flood or it floods too much,
+它不泛滁河岸或泛滁河岸过多
+
+395
+00:24:03,720 --> 00:24:07,720
+you could die of salvation or of drowning. Okay?
+它们可用来回到…
+
+396
+00:24:08,340 --> 00:24:13,720
+So it's very important for you to be able to control the moods of the gods.
+所以你们要能掌控神的心情非常重要。
+
+397
+00:24:14,520 --> 00:24:16,240
+And that's what the pyramid is meant to do.
+而且…
+
+398
+00:24:17,940 --> 00:24:22,080
+The Egyptian word for Egypt is Kemet,
+埃及的词语是Kemet，意为黑土。
+
+399
+00:24:24,220 --> 00:24:26,380
+which basically means black earth.
+埃及的词语…
+
+400
+00:24:26,720 --> 00:24:30,940
+So the source of all life in Egypt is the soil,
+...
+
+401
+00:24:31,060 --> 00:24:32,480
+the black earth.
+...
+
+402
+00:24:33,360 --> 00:24:37,500
+Okay? So let's go back to this quotation.
+...
+
+403
+00:24:37,860 --> 00:24:42,800
+And now we can actually understand it in a different way.
+现在我们可以用另一种方式理解它了。
+
+404
+00:24:43,100 --> 00:24:47,780
+Right? Make your grave well furnished and prepare thy place in the west.
+右？把它们的墓穴装饰好，准备好在西方的地方。
+
+405
+00:24:47,840 --> 00:24:51,100
+That's fine. Now, look, death counts little for us.
+好的，先前…
+
+406
+00:24:51,720 --> 00:24:54,000
+We're gods. We're pharaohs.
+我们是神。我们是法老。
+
+407
+00:24:54,040 --> 00:24:56,860
+We will never die, so we don't worry about death.
+我们永不死，便可不必再说死亡。
+
+408
+00:24:57,120 --> 00:24:58,600
+We don't have to worry about dying.
+我们不必再说…
+
+409
+00:24:58,920 --> 00:25:02,600
+Okay? Look, life is valued highly by us.
+好的？看，生命对我们来说很重要。
+
+410
+00:25:02,840 --> 00:25:06,360
+What is life? Life, our humans, the Egyptian people.
+什么是生命？生命，咱们人类，埃及人。
+
+411
+00:25:06,840 --> 00:25:12,520
+Our concern as pharaohs is for the well -being of the Egyptian people.
+咱们作为法老的关心是为咱们的埃及人。
+
+412
+00:25:12,800 --> 00:25:14,820
+So that's our primary responsibility.
+所以这就是我们的主要职责。
+
+413
+00:25:16,420 --> 00:25:21,160
+Okay? The house of the dead, the pyramid, is for life.
+好的？ 亡者之屋，金字塔为生命之用。
+
+414
+00:25:21,740 --> 00:25:25,680
+The pyramid is our legacy to the Egyptian people.
+金字塔是我们对埃及人之遗产。
+
+415
+00:25:26,340 --> 00:25:29,120
+It is our benevolence.
+它是我们的善意。
+
+416
+00:25:29,160 --> 00:25:34,260
+It is our generosity. It is how we will make Egypt eternal
+它是……
+
+417
+00:25:34,260 --> 00:25:36,280
+and stable and prosperous.
+...
+
+418
+00:25:37,580 --> 00:25:42,200
+Okay? So that's my theory of what the pyramid is.
+好的？这就是我关于金字塔的理论。
+
+419
+00:25:42,320 --> 00:25:43,800
+It is really the Manhattan Project.
+它是个别名的“曼哈顿计划”。”
+
+420
+00:25:43,800 --> 00:25:47,440
+An attempt by the pharaohs to bring eternal peace.
+“金字塔”一词的金字塔。”
+
+421
+00:25:50,220 --> 00:25:55,920
+Okay, any questions about this idea before I elaborate on it
+好的，先说一下这个想法，先给我点儿...
+
+422
+00:25:55,920 --> 00:25:57,740
+and present the evidence for it?
+...
+
+423
+00:26:02,560 --> 00:26:05,220
+Any questions about this?
+...
+
+424
+00:26:06,040 --> 00:26:08,220
+You guys don't find this controversial?
+你们觉得这有点争议吗？
+
+425
+00:26:11,660 --> 00:26:13,780
+Are you confused by any of this?
+你们对这有点困惑吗？
+
+426
+00:26:13,800 --> 00:26:16,140
+Do you want to challenge me before I present the evidence?
+你们想在我展示证据之前先来挑战我吗？
+
+427
+00:26:21,780 --> 00:26:24,320
+Okay, all right. So let me start presenting the evidence, okay?
+好的，先说...
+
+428
+00:26:25,860 --> 00:26:28,160
+So the first piece of evidence
+好的，...
+
+429
+00:26:29,840 --> 00:26:32,520
+is, again, Egyptian mythology.
+好的...
+
+430
+00:26:33,940 --> 00:26:37,020
+All right? So in Egyptian mythology,
+好的？在埃及神话里，是这样：…
+
+431
+00:26:37,360 --> 00:26:41,580
+and it's very different from other mythologies we'll study in the future, like that of Mesopotamia,
+…
+
+432
+00:26:42,920 --> 00:26:47,140
+the gods give everything to the people.
+…
+
+433
+00:26:47,340 --> 00:26:49,320
+Okay? The people don't really do anything.
+好的？人们并不真正做什么。
+
+434
+00:26:50,280 --> 00:26:52,000
+Ra gives life.
+拉给了生命。
+
+435
+00:26:52,360 --> 00:26:56,000
+Osiris gives civilization. Horus provides the kingship.
+奥西里斯赐予文明。霍鲁斯则赐给王位。
+
+436
+00:26:56,640 --> 00:26:59,940
+Okay? So the Egyptian understanding
+好的？埃及人对神的理解是：如果他们好好地崇拜神，神就会回报。
+
+437
+00:27:00,800 --> 00:27:05,960
+of the relationship with the gods is basically if they worship the gods well enough,
+好的，...…
+
+438
+00:27:06,160 --> 00:27:07,540
+the gods will always reward them.
+好的，…
+
+439
+00:27:08,400 --> 00:27:11,480
+Okay? So the idea, like, the,
+好的？所以，像是……
+
+440
+00:27:11,520 --> 00:27:17,200
+you know, the gods will make the people build tombs doesn't really make any sense.
+你们知道，…
+
+441
+00:27:17,500 --> 00:27:18,760
+Okay? It makes more sense.
+好的，…
+
+442
+00:27:18,880 --> 00:27:24,780
+The pharaoh is helping the Egyptians achieve eternal peace
+...
+
+443
+00:27:25,320 --> 00:27:28,500
+by inspiring them to build the pyramid.
+通过激发他们建造金字塔来完成的。
+
+444
+00:27:29,380 --> 00:27:33,100
+Okay? The second thing is
+OK?第二个是
+
+445
+00:27:33,100 --> 00:27:36,500
+the architectural quality
+建筑质量
+
+446
+00:27:39,760 --> 00:27:41,120
+of the pyramid.
+金字塔的建筑质量
+
+447
+00:27:41,440 --> 00:27:43,420
+Now, there is a misconception,
+现在，出现了一个误解，是金字塔由工人建造的。”
+
+448
+00:27:43,860 --> 00:27:46,480
+a myth, that pyramids were built by slaves.
+现在的...
+
+449
+00:27:47,580 --> 00:27:50,420
+They just had slaves, they used slaves,
+他们只用奴隶，使用过奴隶，但却没有用来做宗教用途。
+
+450
+00:27:50,560 --> 00:27:52,700
+but they never used slaves for religious purposes.
+他们只用了奴隱，使用过劳工，又能给我...
+
+451
+00:27:53,540 --> 00:27:57,360
+Right? Because slaves, you can't really trust slaves.
+...
+
+452
+00:27:57,800 --> 00:28:01,620
+So it was tens of thousands of laborers
+...
+
+453
+00:28:01,620 --> 00:28:03,280
+who built the pyramid together.
+...
+
+454
+00:28:03,660 --> 00:28:07,080
+And it's a complete mystery to people
+...
+
+455
+00:28:08,740 --> 00:28:12,340
+how they're able to achieve such a miraculous building.
+他们能实现这种“可”…??
+
+456
+00:28:12,880 --> 00:28:15,860
+Okay? And so the answer is this.
+OK???
+
+457
+00:28:16,380 --> 00:28:18,900
+Let's think about for the past thousand years.
+让我们回顾过去一千年。
+
+458
+00:28:19,280 --> 00:28:24,640
+The most impressive buildings in the world are usually churches,
+最 好 的 古 建 建筑 古 建筑 古…
+
+459
+00:28:26,260 --> 00:28:27,960
+temples, mosques, right?
+最 好……
+
+460
+00:28:28,620 --> 00:28:30,160
+So that just demonstrates
+所以这就证明了
+
+461
+00:28:30,630 --> 00:28:38,080
+the power of religious devotion in the act of creation. So
+宗教奉献在创作中的力量
+
+462
+00:28:38,080 --> 00:28:43,940
+if the Egyptians saw the pyramids as the ultimate temple,
+如果埃及人把古金字塔...
+
+463
+00:28:44,120 --> 00:28:48,160
+as bringing God on earth,
+把它们带到地球上，
+
+464
+00:28:48,380 --> 00:28:51,400
+you can imagine every one of them would
+你可以想象每个他/她/它都能做…
+
+465
+00:28:51,400 --> 00:28:55,020
+work very hard in order to do their best.
+每个……………………
+
+466
+00:28:55,300 --> 00:28:57,440
+Does that make sense? Okay?
+...
+
+467
+00:28:58,100 --> 00:29:01,960
+The third is the idea of the cult of the skull.
+...
+
+468
+00:29:01,960 --> 00:29:04,700
+So around this time, and throughout the world,
+...
+
+469
+00:29:06,040 --> 00:29:08,440
+people practiced ancestors of worship.
+人们曾经常进行祖先崇拜。
+
+470
+00:29:09,640 --> 00:29:12,060
+So the way they did that usually is
+于是他们的做法通常是：…
+
+471
+00:29:14,000 --> 00:29:17,800
+maybe they have an ancestor who was well regarded.
+或许多先祖被视为佳良。
+
+472
+00:29:18,120 --> 00:29:19,500
+They would keep a skull around.
+...
+
+473
+00:29:19,660 --> 00:29:21,300
+They would decorate it with clay and ochre.
+...
+
+474
+00:29:21,800 --> 00:29:27,540
+And they would use this skull as maybe a portal into the outer world,
+...
+
+475
+00:29:27,660 --> 00:29:31,860
+into the spirit world, in order to draw inspiration, to draw good luck from this.
+进入灵界，以此汲取灵感，汲取好运。
+
+476
+00:29:31,860 --> 00:29:34,460
+Okay? So the idea that
+好的，~??????????????????????????????????????????????????????
+
+477
+00:29:34,460 --> 00:29:37,240
+they would use the Pharaoh's body as
+?? ?? ?? -?? ??????????????…
+
+478
+00:29:37,240 --> 00:29:41,040
+a portal into the heavens is a very,
+一条通往天界的通道
+
+479
+00:29:41,120 --> 00:29:44,640
+would be a very common idea at that time.
+...
+
+480
+00:29:45,260 --> 00:29:47,500
+All right? And then
+...
+
+481
+00:29:47,500 --> 00:29:50,760
+you have cave paintings.
+...??...??..??..??..??..??..??..??..??..??..??..??..??..??…
+
+482
+00:29:51,700 --> 00:29:55,620
+So remember way back, way earlier in the semester,
+...??..??..??..????..???…
+
+483
+00:29:55,820 --> 00:29:57,860
+we looked at Ice Age cave paintings.
+我们在冰河时代的洞穴画作中观察过。
+
+484
+00:29:58,420 --> 00:30:00,560
+Inside, so these paintings inside caves.
+在洞穴内部，画作在其中。”
+
+485
+00:30:00,660 --> 00:30:04,800
+And we discussed these paintings were a means of religious worship,
+...
+
+486
+00:30:04,980 --> 00:30:10,520
+of bringing the spirit world into our world,
+]}We need to translate cues 485 and 486. Provide JSON with translations array. Let's translate. Cue 485:
+
+487
+00:30:10,640 --> 00:30:12,860
+connecting the two, okay,
+连接两者，好的，在庆祝生命与猎捕之时。
+
+488
+00:30:13,540 --> 00:30:16,200
+in order to celebrate life and hunting.
+连接两者，好的，在庆祝…
+
+489
+00:30:16,920 --> 00:30:20,760
+Okay? Then you have a place like Gopalapet Thetple,
+好的，...
+
+490
+00:30:20,800 --> 00:30:23,920
+which is considered one of the earliest temples.
+...
+
+491
+00:30:25,380 --> 00:30:29,260
+Okay? Remember it is a religious monument on top of a hill,
+OK? 先前……
+
+492
+00:30:29,420 --> 00:30:31,040
+okay, which,
+?……..???
+
+493
+00:30:31,040 --> 00:30:36,220
+would be also another way for you to connect our world with the heavens.
+493: 1/2? 1/We? ..??
+
+494
+00:30:36,480 --> 00:30:40,320
+And for your worship, draw divine energy from the heavens.
+?
+
+495
+00:30:40,660 --> 00:30:42,900
+Okay? So this, in other words,
+…
+
+496
+00:30:43,040 --> 00:30:47,060
+there's a pattern of humans
+有一种模式，先人类在宗教祭祀中把灵界与人间相连。
+
+497
+00:30:47,820 --> 00:30:53,400
+trying to connect the spirit world with our world through religious worship.
+先前………????
+
+498
+00:30:53,600 --> 00:30:55,700
+And the pyramid represents
+?
+
+499
+00:30:56,580 --> 00:30:58,960
+the ultimate temple.
+...
+
+500
+00:30:59,740 --> 00:31:00,960
+Okay? Does that make sense?
+...
+
+501
+00:31:01,880 --> 00:31:04,380
+So the pyramid is a continuation
+...
+
+502
+00:31:05,400 --> 00:31:09,640
+of this sort of religious devotion and worship and religious practice.
+此类宗教奉献与礼拜的宗教实践的...
+
+503
+00:31:12,440 --> 00:31:14,640
+Okay? All right.
+好的，...
+
+504
+00:31:15,440 --> 00:31:18,720
+Okay. Any questions before I move on?
+好的，...
+
+505
+00:31:27,520 --> 00:31:31,820
+Okay. So now the last question is,
+好的。现在最后一个问题是，
+
+506
+00:31:32,120 --> 00:31:33,860
+why did they stop building a pyramid?
+为什么他们建造了?
+
+507
+00:31:36,880 --> 00:31:39,720
+And there's a very good reason why they stopped building a pyramid.
+这句...
+
+508
+00:31:39,960 --> 00:31:44,000
+Because remember, this pyramid was about creating eternal peace,
+因为记得，这座金字塔是为了创造永恒的和平，让神们满意，统一世界。
+
+509
+00:31:45,560 --> 00:31:49,080
+pleasing the gods, unifying the world.
+对吗？这就是个理论。
+
+510
+00:31:49,780 --> 00:31:51,400
+Right? That's a theory.
+Right? That's atheory.
+
+511
+00:31:51,640 --> 00:31:53,360
+The problem is this theory doesn't work.
+译文1
+
+512
+00:31:53,660 --> 00:31:57,200
+Because in about 2200 BCE,
+译文2
+
+513
+00:31:58,940 --> 00:32:01,300
+the 4.2,
+译文3
+
+514
+00:32:02,800 --> 00:32:06,820
+4.2 kilo year event happened.
+4.2千年事件发生。
+
+515
+00:32:07,320 --> 00:32:10,120
+Okay? Think of this as a mini ice age,
+好的？把它想成一个小型冰期，
+
+516
+00:32:10,300 --> 00:32:13,840
+where for about 100 years, there's a drought in Egypt.
+在约100年里，埃及有旱
+
+517
+00:32:15,980 --> 00:32:17,420
+Well, that's a problem, right?
+好的，那是个问题，对吧？
+
+518
+00:32:17,540 --> 00:32:19,200
+Because the entire point of the pyramid,
+因为整个金字塔的要点，
+
+519
+00:32:19,580 --> 00:32:21,760
+why people sacrificed themselves so
+为什么人们会自我奉献
+
+520
+00:32:21,760 --> 00:32:23,660
+hard to work on the pyramid,
+在金字塔上工作很难，
+
+521
+00:32:23,840 --> 00:32:27,180
+was to prevent a drought in Egypt.
+为了防止埃及旱而建造，
+
+522
+00:32:27,740 --> 00:32:31,360
+Right? It was to control the Nile.
+对了。
+
+523
+00:32:31,540 --> 00:32:35,400
+And they failed. So this creates, first of all, a crisis of faith.
+和他们失败了。于是这首先产生了一个信仰的危机。
+
+524
+00:32:36,300 --> 00:32:37,440
+Okay? A crisis of faith.
+好的，信仰之类的事情好好！
+
+525
+00:32:40,240 --> 00:32:44,120
+Many now are forced to reject their faith in the Pharaoh.
+多多方位的方位方位！
+
+526
+00:32:44,360 --> 00:32:46,860
+And now you see the rise of the priesthood.
+现在我们来看看祭司阶层的崛起。
+
+527
+00:32:46,960 --> 00:32:48,520
+Okay? And other gods as well.
+好的，先前的记事？
+
+528
+00:32:48,800 --> 00:32:52,920
+So the first major reason why they stopped building the pyramids is a crisis of faith.
+其后…
+
+529
+00:32:55,100 --> 00:32:59,280
+Second problem is, in order to build the pyramids,
+第二个问题是，为了建造金字塔，你需要一个金字塔经济。
+
+530
+00:32:59,400 --> 00:33:01,040
+you need a pyramid economy.
+好的，金字塔经济！
+
+531
+00:33:01,940 --> 00:33:03,280
+Okay? A pyramid economy.
+Okay? A pyramideconomy.
+
+532
+00:33:06,120 --> 00:33:10,000
+And what the pyramid economy represents is centralized planning, right?
+好的，金字塔经济的...…
+
+533
+00:33:10,080 --> 00:33:14,840
+Centralization. The Pharaoh
+...…
+
+534
+00:33:14,840 --> 00:33:20,320
+and his palace are able to coordinate all the resources
+]}We need to?……?…?…?…?…?…?………?………………………………
+
+535
+00:33:21,220 --> 00:33:25,680
+of the state in order to create the pyramids.
+状态的建造金字塔的工作
+
+536
+00:33:25,820 --> 00:33:27,020
+We need to build the pyramids. And we know
+我们需要建造金字塔，且我们知道
+
+537
+00:33:27,380 --> 00:33:29,760
+that when you have a centralization, you have three problems.
+当有中央化时，才有三种问题。
+
+538
+00:33:30,020 --> 00:33:33,640
+The first is inequality. So if you're part of this planned economy,
+第一个是不平等。若你在此计划经济中…
+
+539
+00:33:33,860 --> 00:33:35,220
+you do very well for yourself.
+?………..???..??..……
+
+540
+00:33:35,460 --> 00:33:36,900
+Okay? But if you're not,
+………..??…..??..……
+
+541
+00:33:37,880 --> 00:33:39,820
+then you become poor.
+然后你会变得贫穷。
+
+542
+00:33:40,060 --> 00:33:41,940
+Okay? So inequality is a huge issue.
+好的？于是空缺是个大问题。
+
+543
+00:33:42,160 --> 00:33:43,880
+But you also have a problem of corruption,
+但又有个别的…
+
+544
+00:33:45,020 --> 00:33:48,760
+where people in the system,
+在系统里的人，
+
+545
+00:33:52,040 --> 00:33:54,760
+they want to steal because it's just easier to do.
+他们想偷，因为很容易做到。
+
+546
+00:33:54,880 --> 00:33:57,000
+Okay? And the third problem is just waste.
+好的？第三个问题就是浪费。
+
+547
+00:33:57,280 --> 00:34:01,240
+It's not very efficient. So basically, a pyramid economy
+它不太高效。于是，金字塔经济就是全然的空耗。
+
+548
+00:34:01,860 --> 00:34:03,620
+is just a complete waste of resources.
+再来，金字金字塔…
+
+549
+00:34:04,940 --> 00:34:07,420
+All right? And the third problem is this.
+他…
+
+550
+00:34:07,540 --> 00:34:09,400
+Okay? And this is actually a much more...
+好的？这实际上更...
+
+551
+00:34:10,760 --> 00:34:13,100
+Okay? This is a huge problem.
+好的， 这大概是个大问题。
+
+552
+00:34:13,240 --> 00:34:18,300
+Okay? This idea of a nihilistic religious belief.
+好的， 这点儿…
+
+553
+00:34:21,140 --> 00:34:24,200
+What this religious saying is,
+这句宗教话语是，
+
+554
+00:34:24,200 --> 00:34:26,100
+life doesn't matter.
+生命不重要。
+
+555
+00:34:26,380 --> 00:34:28,140
+It's death that matters.
+死亡才是关键。
+
+556
+00:34:28,500 --> 00:34:33,940
+It's death that allows us to be like God, to be eternal. Right?
+它是死亡让我们像神一样，永恒。对吗？
+
+557
+00:34:34,700 --> 00:34:40,000
+In order to ensure our ascent into godhood,
+为了确保我们登上神位，
+
+558
+00:34:40,300 --> 00:34:42,900
+one, we have to be close to the Pharaoh.
+一旦我们与法老接近，
+
+559
+00:34:43,180 --> 00:34:44,760
+Okay? We have to be loyal to the Pharaoh.
+好的？我们要忠于法老。
+
+560
+00:34:45,300 --> 00:34:46,240
+But two,
+但有两点。
+
+561
+00:34:46,740 --> 00:34:51,960
+we have to ensure we obtain a lot of wealth in our life.
+我们要在生前获得多点财富。
+
+562
+00:34:52,120 --> 00:34:54,320
+Okay? So basically,
+好的？所以基本上，
+
+563
+00:34:54,360 --> 00:34:58,660
+what Egypt was doing during the pyramid economy was taking all its grain,
+好的，...????
+
+564
+00:34:58,860 --> 00:35:00,580
+all its resources, and then
+...
+
+565
+00:35:00,580 --> 00:35:03,620
+selling it overseas in order to bring back precious metals that
+把它卖到海外以便把贵金属运回去，他们可以把它们装进墓葬里，以便把它们放入…】}We need to translate cues 565-567. Provide three translations. EnsureChinese natural. Use terms: selling it overseas in order to bring back precious metals that. Let's craft. 565:
+
+566
+00:35:03,620 --> 00:35:07,120
+they could put in their graves so that they could take these precious metals,
+Actually cue 565:
+
+567
+00:35:07,340 --> 00:35:09,460
+gold, jewelry, into the afterlife with them.
+? Wait context: [565] selling it overseas in orderto bring back precious metals that. So translation:
+
+568
+00:35:10,400 --> 00:35:12,900
+Okay? So basically,
+好的？所以基本上，
+
+569
+00:35:13,080 --> 00:35:17,220
+they were just taking all this tremendous wealth of Egypt,
+他们正好把埃及的这份丰厚财富全部拿来，
+
+570
+00:35:17,340 --> 00:35:20,360
+almost unlimited wealth of Egypt, and just squandering it,
+几乎无穷无尽的埃及财富，正好把它们放在…
+
+571
+00:35:20,540 --> 00:35:24,900
+gambling it away, basically, and then, they were just taking all this precious wealth and the promise of an eternal afterlife.
+把它卖到海外以便把贵金属运回去，
+
+572
+00:35:26,680 --> 00:35:29,140
+And they really didn't care about the here and now.
+基本上他们把这份丰厚的埃及财富全部拿来，
+
+573
+00:35:29,260 --> 00:35:31,960
+They didn't care about building a great nation.
+基本上是把它们放进墓葬里以便把它们放入…
+
+574
+00:35:32,560 --> 00:35:36,780
+They really weren't concerned about ensuring everyone was well off
+他们很久?…??????????????????????????…
+
+575
+00:35:36,780 --> 00:35:39,800
+and prosperous and happy in a nation.
+...
+
+576
+00:35:40,460 --> 00:35:43,440
+Okay? So you had an elite who
+...
+
+577
+00:35:43,440 --> 00:35:46,420
+was concerned about abusing the power in order to steal
+was concerned about abusingthe power in order to steal
+
+578
+00:35:46,420 --> 00:35:50,260
+as much money as possible in order to ensure a good afterlife.
+as much money as possible in order to ensure a good afterlife.
+
+579
+00:35:50,260 --> 00:35:53,520
+Okay? And this is the three major reasons
+...
+
+580
+00:35:55,060 --> 00:35:57,260
+why they stopped building the pyramids.
+为什么他们停止建造金字塔？
+
+581
+00:35:57,480 --> 00:35:59,420
+Okay? One, because it's a crisis of faith.
+好的，先说一件事：先前…
+
+582
+00:35:59,720 --> 00:36:00,920
+It doesn't really work.
+...
+
+583
+00:36:01,460 --> 00:36:04,680
+Second is, the centralization creates
+第二个是，中央化产生
+
+584
+00:36:05,260 --> 00:36:06,840
+inequality, corruption, and waste.
+不等式，...
+
+585
+00:36:07,160 --> 00:36:12,080
+And third is, religious belief can only lead to
+...
+
+586
+00:36:13,660 --> 00:36:16,160
+the corruption of the state and tyranny.
+...
+
+587
+00:36:16,720 --> 00:36:18,240
+Okay? So,
+OK? 先前…
+
+588
+00:36:19,220 --> 00:36:23,940
+I answered those questions. Any questions before I continue?
+我回答了这些问题。接下来请先…
+
+589
+00:36:28,760 --> 00:36:29,920
+Okay.
+OK
+
+590
+00:36:50,240 --> 00:36:53,820
+think of the scale of time that the Egyptians,
+思考埃及人所用的时间尺度。
+
+591
+00:36:54,080 --> 00:36:55,320
+they struck against.
+...
+
+592
+00:36:56,100 --> 00:36:57,540
+maybe, do you use this
+...
+
+593
+00:36:58,080 --> 00:37:00,320
+as part of the and think of that
+...
+
+594
+00:37:00,980 --> 00:37:04,020
+in terms of the space of the time that
+...
+
+595
+00:37:04,020 --> 00:37:07,240
+they're going to be even at 200 years,
+...
+
+596
+00:37:07,340 --> 00:37:11,800
+can you imagine if you could imagine every year the color of
+可想象每一年颜色的样子
+
+597
+00:37:11,800 --> 00:37:13,080
+that map? Right.
+那张地图？好吧。
+
+598
+00:37:13,220 --> 00:37:14,560
+So, yeah, that's a great point.
+...
+
+599
+00:37:14,680 --> 00:37:16,920
+Okay? So, you're actually right that even though
+好的，...
+
+600
+00:37:16,920 --> 00:37:19,620
+they stopped building pyramids, this civilization
+...
+
+601
+00:37:20,240 --> 00:37:21,500
+could go on for another 2,000 years.
+...
+
+602
+00:37:21,780 --> 00:37:24,540
+And it was still for the majority of that,
+它仍然是那一大部分的产物，
+
+603
+00:37:25,220 --> 00:37:27,900
+a very prosperous, stable nation.
+它还在那一大部分里。”
+
+604
+00:37:28,260 --> 00:37:30,640
+That was basically the hegemon of the Western world.
+那基本上是西方世界的霸权。
+
+605
+00:37:31,440 --> 00:37:34,560
+Okay? So, this is the Old Kingdom.
+好的？这就是古王国。
+
+606
+00:37:35,340 --> 00:37:38,820
+That's what they, the Old Kingdom focused on building the pyramids,
+translations
+
+607
+00:37:38,920 --> 00:37:43,820
+but the Middle Kingdom and New Kingdom would also have a lot of glory as,
+]}We need to translate cues 606 and 607. Provide JSON with translations array. Let's translate: cue 606:
+
+608
+00:37:43,860 --> 00:37:48,060
+as well. So, I don't mean to denigrate
+...
+
+609
+00:37:48,720 --> 00:37:50,100
+the society. Okay?
+...
+
+610
+00:37:50,240 --> 00:37:54,140
+I'm just pointing out some logical flaws in the society
+...
+
+611
+00:37:54,140 --> 00:37:56,200
+that will lead to their
+...
+
+612
+00:37:56,820 --> 00:37:58,840
+eventual decay.
+...
+
+613
+00:37:59,160 --> 00:38:01,980
+Because, even though
+...
+
+614
+00:38:03,120 --> 00:38:06,780
+the Old Kingdom will collapse, the society is very resilient.
+旧王国将崩溃，社会非常有韧性。
+
+615
+00:38:07,100 --> 00:38:09,060
+So, as I said,
+我刚才说过，
+
+616
+00:38:09,300 --> 00:38:14,280
+the Old Kingdom will be replaced by the Middle Kingdom after a large civil war.
+旧王国将被大内战后中王国所替代。
+
+617
+00:38:14,760 --> 00:38:19,320
+Also, they will make changes to society that will make society much more stable.
+...
+
+618
+00:38:19,480 --> 00:38:21,300
+And the main reason for the major change is to
+618. 主要原因是把法王的中央集权交给…
+
+619
+00:38:22,080 --> 00:38:25,420
+take all the centralized powers of the pharaoh and
+619. 1/2?
+
+620
+00:38:25,420 --> 00:38:28,860
+then devolve it into the priesthood and creating a priest bureaucracy.
+先把它交给祭司，形成祭司官僚。
+
+621
+00:38:29,660 --> 00:38:34,740
+Okay? Which is very much like the Confucian bureaucracy in China. And
+...
+
+622
+00:38:34,740 --> 00:38:40,460
+they will also start importing new ideas from overseas.
+...
+
+623
+00:38:40,840 --> 00:38:44,880
+So, I apologize if I'm implying
+...
+
+624
+00:38:44,880 --> 00:38:46,320
+that this is the end of Egypt.
+...
+
+625
+00:38:46,420 --> 00:38:48,880
+It's not. After the Old Kingdom,
+...
+
+626
+00:38:49,020 --> 00:38:52,880
+after they stopped building the pyramids, they started building the pyramids you will have a new flourishing of creativity
+...
+
+627
+00:38:52,880 --> 00:38:54,940
+and innovation in Egypt.
+and innovation in Egypt.
+
+628
+00:38:55,240 --> 00:38:59,700
+But, they stopped perceiving the pyramids as the end of beyond.
+...
+
+629
+00:39:00,140 --> 00:39:04,240
+Whereas, and the point I want to make is, during the Old Kingdom, they did perceive
+Whereas, and the point I want to make is,during the Old Kingdom, they did perceive
+
+630
+00:39:04,960 --> 00:39:07,000
+the pyramids as the Manhattan Project.
+...
+
+631
+00:39:07,220 --> 00:39:11,940
+Okay? They really thought if we build this thing, then there will be eternal peace.
+好的？他们真的认为如果我们建造这件事，才会有个好久的...??
+
+632
+00:39:12,340 --> 00:39:14,920
+And you can also make the argument that the
+...
+
+633
+00:39:15,880 --> 00:39:20,420
+Israelites were not because
+?? ?? ?? ?? ?? ?? 1 ?? ?? ?? 古 ?? 古 ?? 1 ...??? ? ???????????????……??…??…………………………………………………………………………………
+
+634
+00:39:20,420 --> 00:39:22,580
+there's the Tower of Babel story, right?
+...
+
+635
+00:39:22,680 --> 00:39:25,740
+The Tower of Babel story where
+...
+
+636
+00:39:27,140 --> 00:39:30,760
+the humans are erroringly trying to build a
+人类错误地尝试建造一座高塔以至天，跟着…
+
+637
+00:39:32,760 --> 00:39:35,500
+tower up to heaven to be with God, right?
+人类...
+
+638
+00:39:35,660 --> 00:39:37,460
+And you can argue that's what the pyramid is.
+可以说，金字塔就是它的意思。
+
+639
+00:39:38,640 --> 00:39:42,440
+And God laughs at them and mocks them and
+And God laughs at them and mocks them and
+
+640
+00:39:43,300 --> 00:39:46,800
+they never succeed and then God punishes them by
+they never succeed and then God punishes them by
+
+641
+00:39:47,660 --> 00:39:49,060
+making them speak different languages.
+...
+
+642
+00:39:51,860 --> 00:39:54,100
+Right? I have another question.
+???
+
+643
+00:39:54,340 --> 00:39:55,980
+Sure. Sorry, it might be really hard to answer.
+...
+
+644
+00:39:57,460 --> 00:40:02,180
+So, it seems to get to around the common narrative of the.
+So, it seems to get to aroundthe common narrative of the.
+
+645
+00:40:02,900 --> 00:40:05,260
+Did you know like the Egyptians
+...
+
+646
+00:40:05,780 --> 00:40:08,420
+spoke themselves about the pyramids at that point?
+他们在那时点自述金字塔的事吗？
+
+647
+00:40:09,160 --> 00:40:12,220
+There's no motivation that they've gone and lost them.
+还有没有什么动机去把它们搬到去的那点？
+
+648
+00:40:12,380 --> 00:40:13,740
+Did they have a different Okay.
+他们有不同吗？
+
+649
+00:40:14,340 --> 00:40:16,360
+So, this is a great question, okay?
+好的，先说吧。
+
+650
+00:40:16,600 --> 00:40:20,060
+What do the Egyptians remember about the Great Pyramid?
+埃及人记得大金字塔的事是什么？
+
+651
+00:40:20,640 --> 00:40:24,260
+So, Herodotus was writing about 400 B.C., okay?
+于是，赫罗多德在公元前400年左右写下这件事。
+
+652
+00:40:25,040 --> 00:40:27,900
+And this is about 2,000 years after the Great Pyramid.
+大约两千年后，金字塔的故事再次出现。
+
+653
+00:40:28,240 --> 00:40:32,900
+And Herodotus travels around Egypt and he's a basically a historian, he's a journalist.
+大约两千年后，金字塔的金字塔…
+
+654
+00:40:33,340 --> 00:40:36,320
+He wants to know how they built the Great Pyramid.
+他想知道他们是怎样建造金字塔的。
+
+655
+00:40:36,700 --> 00:40:38,140
+And what he discovers is
+]}We need to translate cues 654 and 655. Provide JSON array translations. Ensure Chinesenatural. Use preferred terms? Not needed. Provide two translations. Let's craft: cue 654:
+
+656
+00:40:38,660 --> 00:40:42,180
+the Egyptians don't know. Not only do they not know,
+埃及人不知晓。不是仅仅知道而已，
+
+657
+00:40:42,440 --> 00:40:44,760
+but they don't even know how to rebuild one.
+but they don't even know how to rebuild one.
+
+658
+00:40:45,140 --> 00:40:48,100
+Okay? If you ask the Egyptian in 400 B.C., can you build a pyramid?
+...
+
+659
+00:40:48,260 --> 00:40:50,520
+They've lost their expertise. Okay?
+...??……..???…..??……???…..??…………………………………………………………………………
+
+660
+00:40:50,740 --> 00:40:54,620
+And so, let me elaborate on this.
+...???………..??…..?………..??…..……..………………………………………………………………………..??…..………..……?………..…………………………………………………??……..……..………………...??..………..…………………………………………
+
+661
+00:40:55,020 --> 00:40:57,000
+When I talk about the pyramid economy,
+...
+
+662
+00:40:57,500 --> 00:40:59,380
+I'm talking about three things. I'm talking about specialization,
+...
+
+663
+00:41:00,160 --> 00:41:05,580
+right? Just massive specialization,
+...
+
+664
+00:41:05,680 --> 00:41:08,640
+including how to carve granite,
+包括雕刻花岗岩的方式
+
+665
+00:41:08,740 --> 00:41:10,820
+how to move granite,
+雕刻花岗岩的雕刻方式
+
+666
+00:41:11,660 --> 00:41:13,540
+how to do measurements, okay?
+雕刻花段落?
+
+667
+00:41:13,740 --> 00:41:15,080
+You have specialization going on.
+你正在进行专业化。
+
+668
+00:41:15,280 --> 00:41:17,360
+Then you have something called industrialization.
+然后是一个叫做工业化的过程。
+
+669
+00:41:19,000 --> 00:41:22,120
+Which is basically creating a memory of this knowledge.
+这就是把这段知识记住了。
+
+670
+00:41:22,340 --> 00:41:25,260
+And you do that through, by passing this knowledge to your sons
+通过把这知识传给你的儿子、孙子，或许多的工坊，完成的。
+
+671
+00:41:25,260 --> 00:41:27,380
+and your grandsons and to,
+通过把……………
+
+672
+00:41:27,860 --> 00:41:30,280
+maybe in a guild or workshop, okay?
+...
+
+673
+00:41:30,920 --> 00:41:32,380
+And then you also have systemization.
+...
+
+674
+00:41:35,000 --> 00:41:37,840
+Which is to say, you have to bring all these pieces together.
+...
+
+675
+00:41:39,080 --> 00:41:41,160
+Okay? So, the pyramid economy
+...
+
+676
+00:41:41,780 --> 00:41:45,380
+was extremely complex because you need all three things to happen
+非常复杂，因为需要三件事同时发生
+
+677
+00:41:46,120 --> 00:41:48,720
+at the same time. Specialization and systemization.
+非常复杂，需三件事一同出现
+
+678
+00:41:50,140 --> 00:41:54,680
+You can also argue the man who created this system, the pyramid economy, his name is Imhotat.
+...
+
+679
+00:41:55,880 --> 00:41:58,740
+Okay? And he's revered in Egypt as
+...
+
+680
+00:41:59,400 --> 00:42:00,800
+a divine figure.
+一个神秘的形象。
+
+681
+00:42:00,980 --> 00:42:04,240
+Okay? I mean, he was a, basically, grand vizier to the Pharaoh.
+好的，先说他是个大官员。
+
+682
+00:42:05,320 --> 00:42:07,200
+He was royalty, but he was a man.
+他是王室之人，但他是人。
+
+683
+00:42:07,840 --> 00:42:11,220
+But he was able to contribute so much to Egypt
+他能贡献很大??
+
+684
+00:42:11,220 --> 00:42:12,920
+that they deified him, basically.
+...
+
+685
+00:42:13,420 --> 00:42:16,040
+Okay? And you can argue like his major contribution
+OK? 先后?????????????????????????????
+
+686
+00:42:17,380 --> 00:42:21,500
+was in creating this pyramid economy that are all three elements.
+...
+
+687
+00:42:21,620 --> 00:42:24,320
+Specialization, institutionalization, and
+专化、机构化，和
+
+688
+00:42:24,880 --> 00:42:26,100
+systemization. Okay?
+系统化。好吧？
+
+689
+00:42:26,180 --> 00:42:29,200
+Because it's actually very hard to put the pieces together.
+...
+
+690
+00:42:29,340 --> 00:42:30,580
+You need writing, a writing system.
+...
+
+691
+00:42:30,920 --> 00:42:34,080
+You need a financial system.
+...
+
+692
+00:42:34,440 --> 00:42:35,960
+You need a lot, a lot of elements.
+你需要很多元素。
+
+693
+00:42:36,060 --> 00:42:38,120
+Okay? I'm making this sound a lot easier
+好的，我把它变得更简单。
+
+694
+00:42:38,720 --> 00:42:40,460
+than it really is.
+比它真正的样子...
+
+695
+00:42:40,600 --> 00:42:42,600
+Okay? So, that's the first thing.
+...
+
+696
+00:42:42,920 --> 00:42:45,640
+Very complex. Second thing is, remember,
+非常复杂。第二件事是，记得，
+
+697
+00:42:45,800 --> 00:42:50,520
+for the Egyptians and for the Pharaoh, the pyramids represented God and Earth.
+对埃及人和法老来说，金字塔代表着神与地球。
+
+698
+00:42:50,840 --> 00:42:52,860
+Right? So, there has to be
+对吧？所以，必须有
+
+699
+00:42:53,340 --> 00:42:58,000
+mystery and secrecy around the building of the pyramid.
+神秘与建筑的...
+
+700
+00:42:58,120 --> 00:42:59,620
+Right? So, as I said,
+Right? So, as Isaid,
+
+701
+00:42:59,740 --> 00:43:04,180
+what makes the most sense is for them to build these models around the pyramid
+翻译：
+
+702
+00:43:04,180 --> 00:43:08,280
+so that these working teams would know where to go at what time.
+so that these working teams would know where to go at what time.
+
+703
+00:43:08,360 --> 00:43:11,400
+Okay? But after they build the pyramids,
+OK? 之后...??
+
+704
+00:43:11,460 --> 00:43:15,500
+it would make sense for them to destroy all records in order to maintain
+...
+
+705
+00:43:15,980 --> 00:43:18,160
+a sense of divinity and inspiration.
+??
+
+706
+00:43:19,160 --> 00:43:21,840
+Right? They're trying to create awe
+Right? They're trying to create awe
+
+707
+00:43:21,840 --> 00:43:24,540
+and fear and inspiration.
+和...??
+
+708
+00:43:26,160 --> 00:43:27,600
+So, they would not want
+所以，...
+
+709
+00:43:28,420 --> 00:43:30,740
+for people to, like, know how to build the pyramids.
+...
+
+710
+00:43:30,820 --> 00:43:34,280
+They would think this has to be a gift from God, from the Pharaoh.
+他们会把这件事归于神的礼物，来自于古老的王国。
+
+711
+00:43:35,420 --> 00:43:37,000
+Okay? Does that make sense?
+OK???
+
+712
+00:43:38,040 --> 00:43:39,680
+Okay. But that's a great question.
+好的。那是个很好的问题。
+
+713
+00:43:39,740 --> 00:43:41,060
+Thanks. Okay.
+谢谢。好的。
+
+714
+00:43:41,300 --> 00:43:43,080
+Any more questions before I move on?
+还有什么问题吗？
+
+715
+00:43:53,180 --> 00:43:55,620
+Okay. That's a great question.
+好的，先前一句的语句已翻成“好的，先前一句...”
+
+716
+00:43:55,800 --> 00:43:57,140
+Where was the mummy of the Pharaoh?
+...
+
+717
+00:43:57,340 --> 00:44:00,140
+Okay. So, in this theory,
+好的，先前...
+
+718
+00:44:00,980 --> 00:44:03,800
+you have to understand what matters is not the pyramid.
+...
+
+719
+00:44:03,940 --> 00:44:06,000
+What matters is the body, the Pharaoh.
+What matters is the body, the Pharaoh.
+
+720
+00:44:06,340 --> 00:44:08,780
+Right? Because it's the Pharaoh's body that's sacred in the vine.
+右？因为...
+
+721
+00:44:09,820 --> 00:44:12,860
+So, if it's sacred in the vine, then you need a priesthood,
+So, if it's sacred in the vine, then you need a priesthood,
+
+722
+00:44:12,880 --> 00:44:15,320
+a cult of the Pharaoh to secure
+...
+
+723
+00:44:15,820 --> 00:44:18,160
+and take care of the body. Okay?
+...
+
+724
+00:44:18,660 --> 00:44:20,800
+Does that make sense? So, in other words,
+翻译结果
+
+725
+00:44:22,160 --> 00:44:23,840
+there had to be a team
+there had to bea team
+
+726
+00:44:24,380 --> 00:44:27,020
+taking care of the Pharaoh's body, the mummy.
+taking ... ?? ???
+
+727
+00:44:29,400 --> 00:44:32,980
+And that ensure, first and foremost, its safety.
+...
+
+728
+00:44:33,200 --> 00:44:34,560
+Okay? So,
+...
+
+729
+00:44:34,620 --> 00:44:38,480
+the Great Pyramid was part of a complex called the Giza complex.
+the Great Pyramid…
+
+730
+00:44:38,760 --> 00:44:40,080
+So, there are actually two other pyramids.
+...
+
+731
+00:44:40,220 --> 00:44:44,000
+And then around the pyramids are these tombs of people
+翻译：
+
+732
+00:44:44,000 --> 00:44:46,780
+who worked for the Pharaoh but who were not the Pharaoh.
+谁为法老工作，却不是法老本人。
+
+733
+00:44:46,800 --> 00:44:50,820
+is the vine. Okay? And you can make the argument what they're trying to do is create a constellation.
+藤蔓是...
+
+734
+00:44:51,660 --> 00:44:56,180
+Right? Because when you look at the sky, stars don't travel by themselves, they travel in constellations.
+...
+
+735
+00:44:56,440 --> 00:44:58,600
+So, it makes sense for the son and
+...
+
+736
+00:44:58,600 --> 00:45:01,480
+the grandson to be buried alongside curfew
+第736条...
+
+737
+00:45:01,480 --> 00:45:03,660
+but as lesser deities,
+...
+
+738
+00:45:03,760 --> 00:45:09,240
+as lesser pyramids to show the Egyptian people the harmony,
+作为小型金字塔展示给埃及人，展示其和谐、平衡与系统之序。
+
+739
+00:45:09,320 --> 00:45:12,100
+balance, and order of the system.
+作为小型金字塔，展示给埃及人以示其和谐、平衡与系统顺序
+
+740
+00:45:13,040 --> 00:45:15,260
+Okay? And
+...
+
+741
+00:45:15,800 --> 00:45:17,100
+what's great is
+...
+
+742
+00:45:18,060 --> 00:45:19,900
+it ensures loyalty
+it ensures loyalty
+
+743
+00:45:20,480 --> 00:45:23,560
+of people working for the Pharaoh because you're loyal,
+...
+
+744
+00:45:23,800 --> 00:45:26,160
+you're granted a tomb
+...
+
+745
+00:45:26,800 --> 00:45:28,180
+around the Pharaoh which
+...
+
+746
+00:45:28,180 --> 00:45:31,700
+guarantees your ascension into the eternal afterlife.
+...
+
+747
+00:45:32,080 --> 00:45:33,880
+So, you can be eternally with
+...
+
+748
+00:45:34,640 --> 00:45:35,940
+the Pharaoh.
+法老。
+
+749
+00:45:36,120 --> 00:45:39,820
+Okay? So, this is a system of morality basically.
+好的？这基本是一个道德体系。
+
+750
+00:45:43,320 --> 00:45:46,640
+Right? So, this is fine
+右？所以这就好了
+
+751
+00:45:46,800 --> 00:45:50,400
+because there's lots of protections for the Pharaoh, right?
+右? 这就好啦
+
+752
+00:45:50,540 --> 00:45:52,760
+He's surrounded by many different
+他在多种不同的...
+
+753
+00:45:53,600 --> 00:45:56,140
+systems. But, when
+...
+
+754
+00:45:56,140 --> 00:45:59,180
+the system was breaking down, it was clear
+系统已在破碎，...
+
+755
+00:45:59,180 --> 00:46:01,920
+that Egypt was breaking into civil war,
+...
+
+756
+00:46:02,120 --> 00:46:06,840
+then the cult of the Pharaoh had a responsibility to take the body
+然后，神殿里有个神秘的…
+
+757
+00:46:06,840 --> 00:46:10,180
+and place it somewhere that no one could find it.
+...
+
+758
+00:46:10,700 --> 00:46:13,800
+Right? Because again, what matters in this system is not the pyramid,
+右？因为又...
+
+759
+00:46:14,020 --> 00:46:15,660
+what matters is the body.
+...
+
+760
+00:46:15,660 --> 00:46:19,880
+The body is what gives the pyramids energy and power.
+主体给金字塔能量与能量
+
+761
+00:46:20,620 --> 00:46:23,240
+So, they have to protect that body at all costs.
+主体…
+
+762
+00:46:23,640 --> 00:46:28,760
+So, the reason why we can't find the body is they made sure we cannot find the body.
+...
+
+763
+00:46:28,900 --> 00:46:32,280
+Right? Because the body is the mechanism,
+右？因为主体是机制，它是法老复活的门户。
+
+764
+00:46:32,520 --> 00:46:34,700
+the portal by which the Pharaoh will resurrect himself.
+如果我们有了它，就能控制法老。
+
+765
+00:46:35,140 --> 00:46:37,320
+If we have that, then we control the Pharaoh.
+If we have that, thenwe control the Pharaoh.
+
+766
+00:46:37,500 --> 00:46:40,160
+We control God. Okay?
+我们控制上帝。好吗？
+
+767
+00:46:40,920 --> 00:46:44,880
+Does that make sense? So, they must have a secret cave
+它们………………
+
+768
+00:46:45,430 --> 00:46:48,140
+or places where they put these bodies and
+?
+
+769
+00:46:48,140 --> 00:46:50,920
+the purpose is to ensure they can never be found.
+目的是确保它们永不被发现。
+
+770
+00:46:52,160 --> 00:46:53,360
+Okay, so great question.
+好的，先说个大问题。
+
+771
+00:46:53,500 --> 00:46:57,220
+Thank you. Any more questions before I finish the class?
+谢谢。上课结束前还有其他问题吗？
+
+772
+00:47:29,580 --> 00:47:31,740
+Okay. So,
+好的。
+
+773
+00:47:32,740 --> 00:47:34,580
+what's inside the pyramid? So,
+好的，...……………
+
+774
+00:47:35,260 --> 00:47:38,440
+first of all, the pyramids have been around for about 45 hundred years.
+好的……………
+
+775
+00:47:40,200 --> 00:47:44,440
+And, tomb raiding was a huge problem in the
+在……里，墓室被掠夺是个大问题。
+
+776
+00:47:45,140 --> 00:47:47,360
+early what's actually in the pyramids
+在早期的...??…??…??…??…
+
+777
+00:47:48,580 --> 00:47:51,060
+we are not, we can't be sure about.
+可不??…??…??…??…??…????
+
+778
+00:47:51,260 --> 00:47:55,400
+Right? Because of time, because of tomb raiding.
+右？因为时间，因墓室被掠夺。
+
+779
+00:47:55,660 --> 00:47:59,020
+Okay? We,
+好的？我们…
+
+780
+00:47:59,200 --> 00:48:01,940
+we didn't find that much inside the pyramid.
+我们在大楼里…
+
+781
+00:48:02,520 --> 00:48:04,200
+Okay? There were no
+Okay? There wereno
+
+782
+00:48:05,000 --> 00:48:09,380
+pictures, artwork. There were very few hieroglyphics inside the Great Pyramid.
+图片，艺术品。大金字塔内几乎没有象形文字。
+
+783
+00:48:09,480 --> 00:48:11,060
+There were hieroglyphics and paintings
+图片与画作。大金字塔内有几幅象形文字。
+
+784
+00:48:14,580 --> 00:48:17,920
+which I think gives even more credence to my theory that
+哪一…
+
+785
+00:48:17,920 --> 00:48:21,540
+this was meant to be a temple of worship.
+...
+
+786
+00:48:22,540 --> 00:48:25,220
+Okay? And,
+好的？还有，
+
+787
+00:48:25,340 --> 00:48:28,980
+this is also why people believe it's a tomb because there's so few artwork.
+这也是为什么人们认为它是墓葬，因为它有几乎没有画作。
+
+788
+00:48:29,120 --> 00:48:33,300
+If you, if it were a temple instead, you would imagine it, there would be a lot of artwork.
+如果你想象它是寺庙的话，便会有很多画作。
+
+789
+00:48:34,240 --> 00:48:36,680
+Okay? Okay.
+好的，先前！
+
+790
+00:48:36,720 --> 00:48:37,940
+Any more questions before I
+还有什么问题吗，我要开始结束课了？
+
+791
+00:48:38,980 --> 00:48:43,640
+finish the class? Are you guys clear so far?
+我方…
+
+792
+00:48:43,760 --> 00:48:47,500
+All right. So, I want to finish the class with a different question
+翻译：
+
+793
+00:48:47,500 --> 00:48:48,720
+which is,
+?
+
+794
+00:48:50,020 --> 00:48:53,160
+why is it like my interpretation is
+为什么它像我的解释一样
+
+795
+00:48:53,160 --> 00:48:56,300
+so radically different from the mainstream academic interpretation?
+为什么我方...
+
+796
+00:48:56,980 --> 00:49:01,640
+Okay? And, I want to propose the way
+好的？我想先说一下，我的意思是：我方...
+
+797
+00:49:01,640 --> 00:49:06,320
+that our minds work today are radically different from the way
+好的，先给我一个点数！
+
+798
+00:49:06,320 --> 00:49:09,520
+that the minds of people like the Egyptians worked.
+...
+
+799
+00:49:09,600 --> 00:49:13,840
+Okay? For three reasons. Today, the Egyptian people had a
+好的？有三点原因。今天的埃及人有一种前文字思维。
+
+800
+00:49:18,780 --> 00:49:21,660
+pre -literate mind.
+他们也有前科学思维。
+
+801
+00:49:22,440 --> 00:49:26,320
+They also had a pre -science mind.
+They also had apre -science mind.
+
+802
+00:49:26,780 --> 00:49:28,800
+Also, pre -capitalistic.
+又是前...
+
+803
+00:49:31,220 --> 00:49:33,420
+Okay? So, let me explain.
+好吧...
+
+804
+00:49:34,520 --> 00:49:36,060
+Pre -literate is very simple.
+前...
+
+805
+00:49:36,160 --> 00:49:37,880
+It just means they didn't read and write.
+它只是意味着他们没有读写。
+
+806
+00:49:38,180 --> 00:49:41,360
+They just spoke. And,
+他们只说话而已。
+
+807
+00:49:41,440 --> 00:49:43,300
+we are taught to read and write.
+我们被教会读写。
+
+808
+00:49:44,300 --> 00:49:48,000
+literate mind is more powerful than the oral mind.
+口头思维比文字思维更强大。
+
+809
+00:49:48,640 --> 00:49:50,280
+But, that's not true. Okay?
+但这不对。
+
+810
+00:49:50,540 --> 00:49:52,660
+If you think about it, the oral mind
+如果你想想，口头思维...
+
+811
+00:49:53,460 --> 00:49:55,520
+works through imagination.
+通过想象发挥作用。
+
+812
+00:49:56,040 --> 00:50:00,280
+The oral mind is capable of tremendous memory.
+口头思维能记住大量信息。
+
+813
+00:50:00,440 --> 00:50:04,080
+Because back then, in order to do anything, you have to memorize a lot of information.
+因为当时要做任何事，先得记住大量信息。
+
+814
+00:50:04,780 --> 00:50:06,120
+Now, we can just
+现在我们可以直接
+
+815
+00:50:07,060 --> 00:50:08,320
+go online. Right?
+去在线吧。好吗？
+
+816
+00:50:09,100 --> 00:50:13,060
+So, their minds, even though they were pre -literate, they were much more
+所以，前面…??
+
+817
+00:50:13,550 --> 00:50:17,000
+imaginative than we are today.
+想象力比我们今天更强。
+
+818
+00:50:17,420 --> 00:50:18,820
+And, their memories were stronger.
+记忆更强大。
+
+819
+00:50:19,420 --> 00:50:22,880
+That's why they were able to build a great pyramid.
+那就是他们能建造大金字塔的原因。
+
+820
+00:50:22,960 --> 00:50:26,040
+Because everyone was able to memorize the model and
+那是因为大家都能记住模型。
+
+821
+00:50:26,040 --> 00:50:29,840
+figure out his or her place inside the structure.
+在结构中找出他/她的位置。
+
+822
+00:50:30,760 --> 00:50:32,460
+They were also able to imagine
+他们也能...
+
+823
+00:50:33,420 --> 00:50:36,160
+in their heads the great pyramid.
+在他们的脑中，伟大的金字塔。
+
+824
+00:50:36,400 --> 00:50:38,800
+Remember, Homer and Virgil.
+记得哈姆罗？
+
+825
+00:50:39,200 --> 00:50:40,880
+The way that children learned
+孩子们学习可视化的方式是通过记忆它们。
+
+826
+00:50:41,680 --> 00:50:43,800
+to visualize was by memorizing them.
+孩子们可视化的方式是记住了。”
+
+827
+00:50:44,080 --> 00:50:45,280
+And you can do that.
+你可以做到这一点。
+
+828
+00:50:45,440 --> 00:50:49,400
+There are people today who memorize the Koran and who memorize the Torah.
+今天有些人记住了可数的字数。”]}We need to translate cues [827] and [828] into Simplified Chinese. Useprevious context? We have earlier translations for similar lines. Let's translate: [827]
+
+829
+00:50:50,500 --> 00:50:52,560
+It takes some time, but you're able to do that.
+它需要一些时间，但你能做到这一点。
+
+830
+00:50:53,200 --> 00:50:56,540
+So, back then, they were able to build the pyramid
+于是，回到那时，他们能够建造金字塔。
+
+831
+00:50:56,540 --> 00:51:00,320
+because they were able to visualize the pyramid in their minds.
+因为他们能在脑中可视化金字塔。
+
+832
+00:51:01,240 --> 00:51:03,360
+And you can do that with a pre -literate mind.
+...
+
+833
+00:51:04,320 --> 00:51:08,760
+Okay? Second is the idea of pre -science.
+Okay? Second is theidea of pre -science.
+
+834
+00:51:09,560 --> 00:51:10,760
+So, in today's world,
+]}We need to translate cues [833] and [834] into Simplified Chinese. We have previous translations? We need to produce JSON with translations array of two strings. Let's translate: [833]
+
+835
+00:51:11,300 --> 00:51:13,280
+we, science is our god.
+...
+
+836
+00:51:13,540 --> 00:51:18,120
+Okay? So, in school, you're taught the scientific method, which is basically
+...
+
+837
+00:51:19,180 --> 00:51:23,600
+you collect information, then you synthesize it, then you write your thesis.
+你收集信息，然后合成，再写论文。
+
+838
+00:51:23,700 --> 00:51:25,780
+Okay? It's a step -by -step logical process.
+好的？这是一步步的逻辑过程。
+
+839
+00:51:27,220 --> 00:51:30,040
+But, if you're, if you're a pre -scientific mind,
+???
+
+840
+00:51:30,620 --> 00:51:31,900
+then where do you get your ideas from?
+???
+
+841
+00:51:33,520 --> 00:51:37,300
+You get your ideas through divine inspiration, through God, right?
+你通过神灵感悟得到灵感，...??…
+
+842
+00:51:37,920 --> 00:51:40,440
+So, you can make the argument, like back then,
+]}We need to translate cues 841 and 842. Provide JSON array translations. Ensure Chinese translation natural. Let's translate: cue 841:
+
+843
+00:51:40,620 --> 00:51:43,740
+they were capable of these grand ideas
+...???
+
+844
+00:51:45,060 --> 00:51:46,800
+that we're not capable of today because
+...??..
+
+845
+00:51:46,800 --> 00:51:50,120
+we're locked in by the discipline of science.
+...??????????..??..??..??..??..??..??..??..??..??…
+
+846
+00:51:51,060 --> 00:51:54,380
+The other problem with science is it's very materialistic,
+...??..??..??..??..??...??..??...??..??..??..??..??..??..??..??..??…
+
+847
+00:51:54,520 --> 00:51:56,740
+meaning we're focused on the here and now.
+...
+
+848
+00:51:56,880 --> 00:52:02,540
+We're focused on what we can see as opposed to what we feel or what we believe.
+...????????..??..??..??...??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..???
+
+849
+00:52:03,560 --> 00:52:06,420
+Right? So, when
+...??????..??..???????..??..???..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..???
+
+850
+00:52:06,420 --> 00:52:11,920
+we look at the pyramid, we're always about what was built instead of like what were they feeling
+我们看着金字塔，先是先前的建筑物，才会有点儿…
+
+851
+00:52:12,380 --> 00:52:15,240
+when they were building this. And that's a huge difference.
+...
+
+852
+00:52:16,580 --> 00:52:19,480
+And the third difference is pre -capitalistic.
+第三点差异是前资本主义的差异。
+
+853
+00:52:20,060 --> 00:52:22,080
+Today, we do things to make money.
+今天我们把事情做成了…
+
+854
+00:52:22,140 --> 00:52:24,760
+We come to school because we want to get a job
+我们来到学校是因为想要上班
+
+855
+00:52:25,260 --> 00:52:27,180
+because we want to make money and we want to buy things.
+...
+
+856
+00:52:27,540 --> 00:52:30,160
+Okay? It's a very utilitarian mindset.
+好的？这是一种非常实用主义的思维。
+
+857
+00:52:31,660 --> 00:52:36,080
+But, for most of human history, most civilizations were not capitalistic.
+但…我想把……
+
+858
+00:52:36,140 --> 00:52:39,280
+They were religious They were focused on community.
+他们是宗教的，他们专注于社区。
+
+859
+00:52:39,940 --> 00:52:44,120
+They were focused on what they could contribute to the betterment of the people around them.
+他们专注于他们能为周围人们的好事做贡献。
+
+860
+00:52:44,440 --> 00:52:47,520
+They were concerned about their relationship with God.
+他们关注与上帝的关系。
+
+861
+00:52:48,820 --> 00:52:51,840
+They were concerned about how to create peace in the world.
+他们关注如何在世界上创造和平。
+
+862
+00:52:51,980 --> 00:52:54,640
+They were asking big questions like what is good and what is evil?
+他们在问大问题：什么是好，什么是坏？
+
+863
+00:52:54,740 --> 00:52:57,280
+What is justice? What is fairness?
+???
+
+864
+00:52:57,420 --> 00:53:01,980
+What is justice? And so,
+????
+
+865
+00:53:03,520 --> 00:53:07,560
+they were much more focused on building the world and the pyramid
+他们更专注于建造世界与金字塔
+
+866
+00:53:08,300 --> 00:53:10,980
+as a way to build community and peace
+又一段落地字句…
+
+867
+00:53:10,980 --> 00:53:13,740
+and eternity on earth.
+...
+
+868
+00:53:14,660 --> 00:53:18,360
+Okay? So, in other words, what's interesting is even
+好的？所以，换个说法：...
+
+869
+00:53:18,360 --> 00:53:20,880
+though we are much more technologically advanced,
+...
+
+870
+00:53:21,580 --> 00:53:23,480
+we're much wealthier than the Egyptians,
+...
+
+871
+00:53:23,840 --> 00:53:26,120
+we don't have the imagination,
+...
+
+872
+00:53:26,500 --> 00:53:29,740
+we don't have the will to build something like the Great Pyramid again.
+...
+
+873
+00:53:30,700 --> 00:53:32,380
+Okay? And
+...
+
+874
+00:53:32,380 --> 00:53:36,880
+that's why I think even today the Great Pyramid captures imagination
+那就是我认为即使今天大金字塔仍能激发想象力
+
+875
+00:53:36,880 --> 00:53:40,580
+and it's a great representation of so many people around the world because it's really beyond our own imagination.
+它又是大字塔的又一种大写字字的写字写字
+
+876
+00:53:40,980 --> 00:53:43,960
+It really shows the limitations of our own imagination.
+其可写写可写可写可写可地写写可写可写…
+
+877
+00:53:45,520 --> 00:53:47,580
+All right? Okay.
+好的。
+
+878
+00:53:47,680 --> 00:53:49,240
+That's it. Any questions?
+就是这样。还有什么问题吗？
+
+879
+00:53:58,840 --> 00:54:02,100
+Okay. Yeah.
+好的。
+
+880
+00:54:02,300 --> 00:54:04,920
+Let's all be intuitive in free science here.
+让我们在这里自由科学中直观吧。
+
+881
+00:54:05,000 --> 00:54:07,280
+Yeah. Yeah. Yeah.
+好的，好的，好的。
+
+882
+00:54:08,980 --> 00:54:13,420
+Okay. So, this begins the Bronze Age.
+好的。
+
+883
+00:54:13,580 --> 00:54:15,580
+Okay? This is part of the Bronze Age.
+好的？这属于青铜时代的一部分。
+
+884
+00:54:15,740 --> 00:54:17,760
+Egypt is the greatest civilization of the Bronze Age.
+埃及是青铜时代最伟大的文明。
+
+885
+00:54:18,800 --> 00:54:22,480
+Next class we'll look at Mesopotamia and the Innis Valley civilization.
+下一节课我们将看一下美索不达和印尼斯河谷文明。
+
+886
+00:54:23,000 --> 00:54:24,880
+Okay? So, there are three great Bronze Age civilizations.
+好的？于是有三大青铜时代文明。
+
+887
+00:54:25,400 --> 00:54:29,500
+Egypt, Mesopotamia and the Innis Valley. Okay?
+埃尔·埃尔…

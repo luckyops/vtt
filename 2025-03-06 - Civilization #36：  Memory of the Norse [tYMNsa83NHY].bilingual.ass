@@ -1,0 +1,1263 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:03.62,English,,0,0,0,,Good morning. So today we continue the Vikings.\N{\rChinese}早安。今天我们继续学习维京人。
+Dialogue: 0,0:00:04.10,0:00:07.90,English,,0,0,0,,And this morning we will look at their worldview,\N{\rChinese}今天早上我们来看看他们的世界观，
+Dialogue: 0,0:00:08.24,0:00:09.58,English,,0,0,0,,their cultural system.\N{\rChinese}以及他们的文化体系。
+Dialogue: 0,0:00:11.32,0:00:14.00,English,,0,0,0,,And as I mentioned last class,\N{\rChinese}如上节所说，
+Dialogue: 0,0:00:14.10,0:00:15.66,English,,0,0,0,,I do believe that\N{\rChinese}我确实认为，
+Dialogue: 0,0:00:15.66,0:00:21.16,English,,0,0,0,,the Viking culture is truly one of the outstanding cultures in Western civilization.\N{\rChinese}维京文化是西方文明中杰出的文化之一。
+Dialogue: 0,0:00:21.72,0:00:23.44,English,,0,0,0,,The problem though\N{\rChinese}问题是我们对维京文化其实了解得很少。
+Dialogue: 0,0:00:23.44,0:00:26.70,English,,0,0,0,,is we know actually very\N{\rChinese}我们对维京文化的了解其实很少。
+Dialogue: 0,0:00:26.70,0:00:29.60,English,,0,0,0,,little about the Viking culture.\N{\rChinese}我们对维京文化的了解其实很少。
+Dialogue: 0,0:00:30.00,0:00:31.46,English,,0,0,0,,And there are certain reasons for that.\N{\rChinese}还有一些原因可以解释这一点。
+Dialogue: 0,0:00:32.19,0:00:34.18,English,,0,0,0,,The first reason is that\N{\rChinese}第一个原因是它们本来就是有目的的口头传统。
+Dialogue: 0,0:00:34.18,0:00:37.44,English,,0,0,0,,they were purposefully an oral tradition.\N{\rChinese}they were purposefully an oral tradition.
+Dialogue: 0,0:00:38.36,0:00:41.26,English,,0,0,0,,So it is our prejudice, it is our belief\N{\rChinese}于是我们就有了偏见，认为
+Dialogue: 0,0:00:41.26,0:00:42.64,English,,0,0,0,,that\N{\rChinese}是的
+Dialogue: 0,0:00:42.64,0:00:47.36,English,,0,0,0,,a literary culture is superior to an oral tradition.\N{\rChinese}文学文化优于口头传统。
+Dialogue: 0,0:00:47.56,0:00:49.20,English,,0,0,0,,It's harder to read and write.\N{\rChinese}读写更难一点。
+Dialogue: 0,0:00:49.88,0:00:53.10,English,,0,0,0,,But what we forget is that when\N{\rChinese}但我们忘记的是，当我们从口头传统过渡到文字文化时，…
+Dialogue: 0,0:00:53.10,0:00:56.42,English,,0,0,0,,we transition from an oral tradition to a literary culture,\N{\rChinese}we transition from an oral tradition to a literary culture,
+Dialogue: 0,0:00:56.66,0:00:58.72,English,,0,0,0,,we lose a lot in the process.\N{\rChinese}我们在这个过程中失去很多东西。
+Dialogue: 0,0:01:00.00,0:01:02.34,English,,0,0,0,,And there are many cultures that\N{\rChinese}还有许多文化拥有读写的能力，却选择不去。
+Dialogue: 0,0:01:02.34,0:01:06.00,English,,0,0,0,,have the capacity to read and write, but they chose not to.\N{\rChinese}have the capacity to read andwrite, but they chose not to.
+Dialogue: 0,0:01:06.18,0:01:07.30,English,,0,0,0,,Because for them,\N{\rChinese}因为对他们来说，
+Dialogue: 0,0:01:07.30,0:01:10.14,English,,0,0,0,,it was much more important to preserve their\N{\rChinese}口头传统比采用文字文化更重要。
+Dialogue: 0,0:01:10.14,0:01:14.14,English,,0,0,0,,oral tradition than it was to adopt a literary culture.\N{\rChinese}他们更注重保存口头传统。
+Dialogue: 0,0:01:14.98,0:01:17.46,English,,0,0,0,,And as I explained in today's lecture,\N{\rChinese}如我在今天的讲座中所说，
+Dialogue: 0,0:01:17.78,0:01:22.66,English,,0,0,0,,there are many actually good reasons why you would want to preserve an oral tradition.\N{\rChinese}实际上有许多好理由让你想保存口头传统。
+Dialogue: 0,0:01:23.00,0:01:24.28,English,,0,0,0,,That's the first reason.\N{\rChinese}这就是第一个理由。
+Dialogue: 0,0:01:24.46,0:01:27.54,English,,0,0,0,,The Vikings were purposely an oral tradition culture.\N{\rChinese}维京人有意保持口头传统文化。
+Dialogue: 0,0:01:27.96,0:01:29.94,English,,0,0,0,,The second reason is that...\N{\rChinese}第二个理由是……
+Dialogue: 0,0:01:30.00,0:01:34.44,English,,0,0,0,,Eventually the Vikings would convert to Christianity.\N{\rChinese}最终，维京人会皈依基督教。
+Dialogue: 0,0:01:34.88,0:01:38.72,English,,0,0,0,,And in this conversion process, which would take generations,\N{\rChinese}在这段转换过程中，历经数代，
+Dialogue: 0,0:01:39.22,0:01:44.04,English,,0,0,0,,they had to abandon a lot of their tradition\N{\rChinese}他们不得不放弃许多传统
+Dialogue: 0,0:01:44.04,0:01:45.26,English,,0,0,0,,and heritage.\N{\rChinese}与遗产。
+Dialogue: 0,0:01:45.36,0:01:48.26,English,,0,0,0,,Including their mythologies\N{\rChinese}包括他们的神话
+Dialogue: 0,0:01:48.26,0:01:51.58,English,,0,0,0,,and their historical memory.\N{\rChinese}和他们的历史记忆。
+Dialogue: 0,0:01:54.58,0:01:59.98,English,,0,0,0,,The Vikings were perceived as barbarians by the Christians.\N{\rChinese}维京人被基督徒视为蛮族。
+Dialogue: 0,0:02:01.08,0:02:02.56,English,,0,0,0,,And because\N{\rChinese}并且因为
+Dialogue: 0,0:02:02.56,0:02:06.52,English,,0,0,0,,of the traumatic Viking encounters with Europe,\N{\rChinese}因与欧洲的创伤性维京相遇，
+Dialogue: 0,0:02:06.70,0:02:09.02,English,,0,0,0,,there was an intention,\N{\rChinese}有意图，
+Dialogue: 0,0:02:09.28,0:02:13.26,English,,0,0,0,,a purpose in trying to eradicate the Viking memory.\N{\rChinese}试图消除维京记忆的目的。
+Dialogue: 0,0:02:16.14,0:02:19.26,English,,0,0,0,,So please keep in mind that\N{\rChinese}请记住，我们对维京人了解不多。
+Dialogue: 0,0:02:19.26,0:02:21.18,English,,0,0,0,,we don't know that much about the Vikings.\N{\rChinese}我们对维京人了解不多。
+Dialogue: 0,0:02:21.50,0:02:25.96,English,,0,0,0,,What we do know about the Vikings comes from two sources.\N{\rChinese}我们对维京人的了解来自两个来源。
+Dialogue: 0,0:02:26.20,0:02:27.74,English,,0,0,0,,The first is archaeology.\N{\rChinese}第一个是考古学。
+Dialogue: 0,0:02:27.90,0:02:29.62,English,,0,0,0,,We basically dug up their graves.\N{\rChinese}我们基本上挖掘了他们的坟墓。
+Dialogue: 0,0:02:29.98,0:02:31.52,English,,0,0,0,,Some of their graves, not all of their graves.\N{\rChinese}我们挖掘了一部分坟墓，不是全部。
+Dialogue: 0,0:02:31.78,0:02:34.00,English,,0,0,0,,And through their graves,\N{\rChinese}通过他们的坟墓，
+Dialogue: 0,0:02:34.02,0:02:37.84,English,,0,0,0,,we're able to reconstruct some of their culture.\N{\rChinese}我们能够重建他们的一部分文化。
+Dialogue: 0,0:02:38.66,0:02:47.56,English,,0,0,0,,But the main source of our understanding is through Norse mythology. Unfortunately,\N{\rChinese}但我们了解的主要来源是北欧神话。不幸的是，
+Dialogue: 0,0:02:47.56,0:02:53.22,English,,0,0,0,,we only have a fraction of their entire mythology.\N{\rChinese}我们只拥有他们完整神话的一部分。
+Dialogue: 0,0:02:53.66,0:02:55.16,English,,0,0,0,,Their mythology is vast,\N{\rChinese}他们的神话非常丰富。
+Dialogue: 0,0:02:55.54,0:02:57.48,English,,0,0,0,,it's grand, it's epic, it's beautiful.\N{\rChinese}它宏伟、壮丽、优美。
+Dialogue: 0,0:02:57.84,0:02:59.84,English,,0,0,0,,But we only have a fraction of that.\N{\rChinese}但我们只拥有其中的一部分。
+Dialogue: 0,0:02:59.98,0:03:02.34,English,,0,0,0,,And unfortunately, over time,\N{\rChinese}而且不幸的是，随着时间的推移，
+Dialogue: 0,0:03:02.74,0:03:05.86,English,,0,0,0,,Christians, Christian intellectuals,\N{\rChinese}基督徒，基督徒知识分子，
+Dialogue: 0,0:03:05.86,0:03:08.96,English,,0,0,0,,want to sanctify\N{\rChinese}想要圣化
+Dialogue: 0,0:03:08.96,0:03:13.32,English,,0,0,0,,or purify the Norse mythology.\N{\rChinese}或净化北欧神话。
+Dialogue: 0,0:03:13.68,0:03:16.72,English,,0,0,0,,Because the Norse mythology is extremely violent and sexual.\N{\rChinese}因为北欧神话极其暴力与性欲。
+Dialogue: 0,0:03:16.98,0:03:18.50,English,,0,0,0,,And so they basically clean it up.\N{\rChinese}于是他们基本把它清理干净。
+Dialogue: 0,0:03:18.86,0:03:20.08,English,,0,0,0,,Which means that\N{\rChinese}这意味着
+Dialogue: 0,0:03:20.08,0:03:24.82,English,,0,0,0,,a lot of what we have has been interpreted through Christian lens.\N{\rChinese}大量我们已有的内容已通过基督徒视角诠释。
+Dialogue: 0,0:03:25.90,0:03:28.68,English,,0,0,0,,So please be careful about that, okay?\N{\rChinese}请注意这一点，好吗？
+Dialogue: 0,0:03:29.98,0:03:33.66,English,,0,0,0,,I will try my best to reconstruct the Viking worldview.\N{\rChinese}我会尽力重建维京人的世界观。
+Dialogue: 0,0:03:34.04,0:03:38.22,English,,0,0,0,,But please understand there are severe constraints and limitations.\N{\rChinese}请理解有很大限制与约束。
+Dialogue: 0,0:03:38.92,0:03:43.30,English,,0,0,0,,And the way I will reconstruct the Viking worldview is by comparing\N{\rChinese}我重建维京世界观的方式是通过比较。
+Dialogue: 0,0:03:43.30,0:03:47.42,English,,0,0,0,,and contrasting it with other mythologies, other civilizations, other cultures.\N{\rChinese}并与其他神话、文明、文化进行对照。
+Dialogue: 0,0:03:48.38,0:03:52.28,English,,0,0,0,,And by using literary interpretation.\N{\rChinese}并通过文学诠释来实现。
+Dialogue: 0,0:03:54.22,0:03:56.68,English,,0,0,0,,And ultimately by using my imagination,\N{\rChinese}最终通过我的想象来完成。
+Dialogue: 0,0:03:57.04,0:03:59.16,English,,0,0,0,,okay? So please take what I say.\N{\rChinese}好的，请听我说。
+Dialogue: 0,0:03:59.98,0:04:02.88,English,,0,0,0,,With a grain of salt. Be skeptical, be suspicious, ask questions,\N{\rChinese}加一点盐味。先怀疑，再怀疑，问问题，
+Dialogue: 0,0:04:03.02,0:04:05.72,English,,0,0,0,,challenge me where you feel you need to, okay?\N{\rChinese}再来，我来挑战你，随你需要，行吗？
+Dialogue: 0,0:04:05.88,0:04:08.58,English,,0,0,0,,Alright, so let's get started. Alright,\N{\rChinese}好了，开始吧。
+Dialogue: 0,0:04:08.68,0:04:11.76,English,,0,0,0,,let's look at the Viking\N{\rChinese}让我们看看维京人的
+Dialogue: 0,0:04:11.76,0:04:15.66,English,,0,0,0,,tradition in contrast to the Greeks\N{\rChinese}传统与希腊人和罗马人的对比，行吗？
+Dialogue: 0,0:04:15.66,0:04:20.34,English,,0,0,0,,and the Romans, okay? So the Greeks, how did they see the world?\N{\rChinese}那么希腊人，他们是怎么看世界的？
+Dialogue: 0,0:04:23.38,0:04:29.14,English,,0,0,0,,Remember, their idea of the community was the idea of the polis.\N{\rChinese}记住，他们对社区的想法就是城邦的概念。
+Dialogue: 0,0:04:31.36,0:04:35.12,English,,0,0,0,,The polis gives us our word for politics.\N{\rChinese}城邦给了我们政治一词。
+Dialogue: 0,0:04:35.38,0:04:38.28,English,,0,0,0,,And the idea is that the community is a group of men,\N{\rChinese}而这个概念是，社区是由一群人组成的。
+Dialogue: 0,0:04:38.42,0:04:41.56,English,,0,0,0,,only men, who come together to debate and\N{\rChinese}只有人，聚在一起讨论并
+Dialogue: 0,0:04:41.56,0:04:43.98,English,,0,0,0,,argue for the future of the community.\N{\rChinese}为社区的未来辩论。
+Dialogue: 0,0:04:44.56,0:04:48.72,English,,0,0,0,,And as such, the individual is someone\N{\rChinese}因而，个体即是一个人
+Dialogue: 0,0:04:48.72,0:04:50.84,English,,0,0,0,,who stands out, okay?\N{\rChinese}谁能脱颖而出，明白吗？
+Dialogue: 0,0:04:51.00,0:04:54.56,English,,0,0,0,,The word they use is eudaimonia or arete.\N{\rChinese}他们用的词是eudaimonia或arete。
+Dialogue: 0,0:04:56.14,0:04:57.86,English,,0,0,0,,Eudaimonia means flourishing.\N{\rChinese}Eudaimonia就是繁荣。
+Dialogue: 0,0:04:58.04,0:04:59.96,English,,0,0,0,,You can only flourish if you stand out.\N{\rChinese}只有在脱颖而出时才会繁荣。
+Dialogue: 0,0:04:59.96,0:05:01.30,English,,0,0,0,,You stand out among a group of men.\N{\rChinese}你在一群人中脱颖而出。
+Dialogue: 0,0:05:01.52,0:05:05.06,English,,0,0,0,,Arete is proving your excellence among a group of men.\N{\rChinese}arete证明你在一群人中的卓越。
+Dialogue: 0,0:05:05.50,0:05:10.62,English,,0,0,0,,And so, I'll give you two examples of this Greek worldview.\N{\rChinese}于是，我给你举两个希腊世界观的例子。
+Dialogue: 0,0:05:10.98,0:05:15.22,English,,0,0,0,,So the first is Achilles from the Iliad.\N{\rChinese}第一个是《伊利亚特》里的阿基琉斯。
+Dialogue: 0,0:05:15.66,0:05:19.42,English,,0,0,0,,Remember, in the Iliad, Achilles tells everyone,\N{\rChinese}记住，在《伊利亚特》中，阿基琉斯对大家说…
+Dialogue: 0,0:05:19.74,0:05:24.66,English,,0,0,0,,I am in Troy to seek personal glory.\N{\rChinese}我在特洛伊是为了个人荣耀。
+Dialogue: 0,0:05:25.04,0:05:29.36,English,,0,0,0,,I don't care about the Greeks. I don't care about Helen or Troy.\N{\rChinese}我不在乎希腊人，也不在乎海伦或特洛伊。
+Dialogue: 0,0:05:29.96,0:05:31.76,English,,0,0,0,,I don't care about what others think.\N{\rChinese}我不在乎别人怎么想。
+Dialogue: 0,0:05:31.88,0:05:34.06,English,,0,0,0,,I just want to stand out.\N{\rChinese}我只想出众。
+Dialogue: 0,0:05:34.20,0:05:36.58,English,,0,0,0,,I care about my own personal glory.\N{\rChinese}我在乎自己的个人荣耀。
+Dialogue: 0,0:05:36.94,0:05:41.26,English,,0,0,0,,And that's why he's willing to let Hector\N{\rChinese}这就是他愿意让赫克托尔的原因。
+Dialogue: 0,0:05:41.26,0:05:44.50,English,,0,0,0,,and the Trojans almost destroy the Greek army.\N{\rChinese}并且特洛伊人几乎消灭了希腊军队。
+Dialogue: 0,0:05:45.50,0:05:46.92,English,,0,0,0,,Okay, so that's one example.\N{\rChinese}好的，这就是一个例子。
+Dialogue: 0,0:05:47.06,0:05:51.78,English,,0,0,0,,Another example is from Herodotus, his book Historiis.\N{\rChinese}另一个例子来自赫罗多德的《历史》一书。
+Dialogue: 0,0:05:51.86,0:05:56.36,English,,0,0,0,,It has to do with the Athenian leader Themisicles.\N{\rChinese}这与雅典领袖泰米西克斯有关。
+Dialogue: 0,0:05:57.08,0:05:59.94,English,,0,0,0,,Okay, so this is the year 480 B.C.\N{\rChinese}好的，这就是公元前480年。
+Dialogue: 0,0:06:01.14,0:06:02.42,English,,0,0,0,,BC and\N{\rChinese}公元前480年。
+Dialogue: 0,0:06:02.42,0:06:08.02,English,,0,0,0,,in the year 480 BCE the Persians are invading the Greek mainland.\N{\rChinese}公元前480年，波斯人入侵希腊本土。
+Dialogue: 0,0:06:08.30,0:06:12.86,English,,0,0,0,,Sparta, Athens have united against the Persians.\N{\rChinese}斯巴达与雅典联手对抗波斯。
+Dialogue: 0,0:06:12.90,0:06:16.82,English,,0,0,0,,The Persians burned down Athens and the Athenian people are on their ships.\N{\rChinese}波斯焚烧雅典，雅人乘船逃离。
+Dialogue: 0,0:06:17.00,0:06:20.32,English,,0,0,0,,At this point the Spartans who\N{\rChinese}此时，掌握军权的斯巴达人
+Dialogue: 0,0:06:20.32,0:06:23.48,English,,0,0,0,,are in command of the military and\N{\rChinese}和雅典人展开激烈争论。
+Dialogue: 0,0:06:23.48,0:06:25.14,English,,0,0,0,,the Athenians have a huge argument.\N{\rChinese}两方争执各自主张。
+Dialogue: 0,0:06:25.40,0:06:27.36,English,,0,0,0,,The Athenians want to challenge\N{\rChinese}雅典人想在海上挑战波斯人
+Dialogue: 0,0:06:27.36,0:06:31.46,English,,0,0,0,,the Persians on the sea\N{\rChinese}并击败他们的海军。
+Dialogue: 0,0:06:31.46,0:06:35.10,English,,0,0,0,,and defeat them and defeat their Navy.\N{\rChinese}并将其海军打败。
+Dialogue: 0,0:06:35.76,0:06:39.68,English,,0,0,0,,The Spartans want to use their Navy to protect their homeland,\N{\rChinese}斯巴达人想用海军保卫本土，伯罗奔尼亚，抵御波斯入侵。
+Dialogue: 0,0:06:40.02,0:06:42.56,English,,0,0,0,,the Peloponnese, against the Persian invasion\N{\rChinese}他们未能达成协议。
+Dialogue: 0,0:06:42.56,0:06:45.92,English,,0,0,0,,and they cannot come to an agreement.\N{\rChinese}and they cannot come to an agreement.
+Dialogue: 0,0:06:46.38,0:06:50.76,English,,0,0,0,,So what Themistocles does is he sends a spy,\N{\rChinese}于是色米斯托克勒斯所做的就是派遣间谍，
+Dialogue: 0,0:06:50.94,0:06:53.92,English,,0,0,0,,a servant, to the king of the Persians and\N{\rChinese}一名仆人，送往波斯王那里并且
+Dialogue: 0,0:06:53.92,0:06:55.02,English,,0,0,0,,tell him, hey,\N{\rChinese}告诉他，嗨，
+Dialogue: 0,0:06:55.02,0:07:00.76,English,,0,0,0,,the entire Greek Navy is stationed in Salamis.\N{\rChinese}整个希腊海军驻扎在萨拉米斯。
+Dialogue: 0,0:07:01.90,0:07:06.26,English,,0,0,0,,But they're about to run away from you.\N{\rChinese}但他们正准备从你那里逃走。
+Dialogue: 0,0:07:06.40,0:07:11.80,English,,0,0,0,,So here's a great chance to send your entire Persian Navy to crush the Greek Navy once\N{\rChinese}于是这是一次好机会，把整个波斯海军派去粉碎希腊海军。
+Dialogue: 0,0:07:11.80,0:07:14.06,English,,0,0,0,,and for all. And that's what the king does.\N{\rChinese}并且如此，国王所作的就是这样。
+Dialogue: 0,0:07:14.66,0:07:18.00,English,,0,0,0,,And at the Battle of Salamis the Athenians\N{\rChinese}在萨拉米斯之战，雅典人和斯巴达人...
+Dialogue: 0,0:07:18.00,0:07:21.38,English,,0,0,0,,and the Spartans destroy the Persian Navy\N{\rChinese}雅典人和斯巴达人摧毁波斯海军
+Dialogue: 0,0:07:21.38,0:07:24.34,English,,0,0,0,,and turn the course of not only the war,\N{\rChinese}并改变战争的进程，并改变俄国历史的进程，
+Dialogue: 0,0:07:24.50,0:07:28.14,English,,0,0,0,,but of Russian history because if the Persians hadn't won that day, then\N{\rChinese}因为如果波斯人那天没赢，我们就会生活在波斯影响的世界，而不是希腊影响的世界。
+Dialogue: 0,0:07:28.14,0:07:34.04,English,,0,0,0,,we would be living in a Persian influenced world as opposed to a Greek influenced world.\N{\rChinese}我们将会在波斯影响的世界里生活，而不是希腊影响的世界。
+Dialogue: 0,0:07:34.50,0:07:37.64,English,,0,0,0,,OK? But if you think about it, what Achilles and\N{\rChinese}好的？但如果你想想看，阿基琉斯和菲米克塞斯在做的事就是我们所说的起义、叛国或背叛。
+Dialogue: 0,0:07:37.64,0:07:40.64,English,,0,0,0,,Phymexes are doing is what we\N{\rChinese}我们会把它们称作起义、叛国或背叛。
+Dialogue: 0,0:07:40.64,0:07:44.48,English,,0,0,0,,would call sedition or treason or betrayal.\N{\rChinese}would call sedition or treason or betrayal.
+Dialogue: 0,0:07:44.76,0:07:47.04,English,,0,0,0,,OK? But that's just the Greek worldview.\N{\rChinese}好的？但那只是希腊的世界观。
+Dialogue: 0,0:07:47.94,0:07:53.18,English,,0,0,0,,The Romans had a very different perspective.\N{\rChinese}罗马人有着截然不同的视角。
+Dialogue: 0,0:07:53.18,0:07:57.74,English,,0,0,0,,They understood community as fundamentally about tradition.\N{\rChinese}他们把社区理解为根本在传统之中。
+Dialogue: 0,0:07:59.98,0:08:01.22,English,,0,0,0,,And as such,\N{\rChinese}而且如此，
+Dialogue: 0,0:08:01.24,0:08:03.90,English,,0,0,0,,the individual had to be\N{\rChinese}个体必须是
+Dialogue: 0,0:08:03.90,0:08:07.36,English,,0,0,0,,pious to the tradition,\N{\rChinese}对传统虔诚的
+Dialogue: 0,0:08:07.54,0:08:09.40,English,,0,0,0,,had to be loyal to the tradition.\N{\rChinese}个体必须忠于传统。
+Dialogue: 0,0:08:09.76,0:08:11.22,English,,0,0,0,,They used the word piety.\N{\rChinese}他们用“虔诚”一词。
+Dialogue: 0,0:08:11.98,0:08:16.36,English,,0,0,0,,Now, in China, we have a concept called filial piety.\N{\rChinese}现在，在中国，我们有一个叫做“孝顺”的概念。
+Dialogue: 0,0:08:16.92,0:08:18.60,English,,0,0,0,,Guys, this is very important.\N{\rChinese}伙计们，这很重要。
+Dialogue: 0,0:08:19.00,0:08:20.32,English,,0,0,0,,Completely opposite.\N{\rChinese}完全相反。
+Dialogue: 0,0:08:20.32,0:08:22.02,English,,0,0,0,,In China,\N{\rChinese}在中国，
+Dialogue: 0,0:08:22.18,0:08:26.10,English,,0,0,0,,filial piety means obedience to your father.\N{\rChinese}孝顺是对父亲的服从。
+Dialogue: 0,0:08:26.42,0:08:28.56,English,,0,0,0,,What your father says is right.\N{\rChinese}父亲说的就是对的。
+Dialogue: 0,0:08:30.68,0:08:32.90,English,,0,0,0,,That's what it means. But in Rome,\N{\rChinese}这就是它的意思。但在罗马，
+Dialogue: 0,0:08:33.12,0:08:38.12,English,,0,0,0,,piety means loyalty to the traditions of Rome.\N{\rChinese}孝顺是对罗马传统的忠诚。
+Dialogue: 0,0:08:38.44,0:08:40.94,English,,0,0,0,,So the classic example is Julius Caesar.\N{\rChinese}经典例子是朱利叶斯·凯撒。
+Dialogue: 0,0:08:41.57,0:08:44.00,English,,0,0,0,,Julius Caesar wanted to be king.\N{\rChinese}朱利叶斯·凯撒想成为国王。
+Dialogue: 0,0:08:44.12,0:08:46.50,English,,0,0,0,,He was about to break a lot of Roman traditions.\N{\rChinese}他即将打破许多罗马传统。
+Dialogue: 0,0:08:46.96,0:08:49.12,English,,0,0,0,,So his friends, including...\N{\rChinese}于是他的朋友们，包括……
+Dialogue: 0,0:08:49.12,0:08:53.68,English,,0,0,0,,... His biological son, Marcus Brutus, killed him.\N{\rChinese}他的亲生儿子马鲁斯·布鲁图斯将他杀死。
+Dialogue: 0,0:08:54.78,0:09:00.04,English,,0,0,0,,It was more important for Marcus Brutus to be loyal to the traditions of Rome than to\N{\rChinese}马鲁斯·布鲁图斯更重要的是对罗马传统的忠诚，而不是对父亲的忠诚。
+Dialogue: 0,0:09:01.28,0:09:03.28,English,,0,0,0,,be loyal to his father.\N{\rChinese}于是这就是罗马传统。
+Dialogue: 0,0:09:04.22,0:09:05.94,English,,0,0,0,,So that's the Roman tradition.\N{\rChinese}So that's the Roman tradition.
+Dialogue: 0,0:09:07.10,0:09:08.94,English,,0,0,0,,Then you have the Viking tradition.\N{\rChinese}然后你会得到维京传统。
+Dialogue: 0,0:09:10.74,0:09:13.44,English,,0,0,0,,For the Vikings, and this is very interesting,\N{\rChinese}对于维京人来说，这一点非常有趣，
+Dialogue: 0,0:09:13.64,0:09:16.18,English,,0,0,0,,the community is a set of stories.\N{\rChinese}社区就是一组故事。
+Dialogue: 0,0:09:19.50,0:09:22.10,English,,0,0,0,,And stories are not the same as tradition.\N{\rChinese}故事并非传统相同。
+Dialogue: 0,0:09:22.82,0:09:26.92,English,,0,0,0,,Tradition is what is past.\N{\rChinese}传统是过去的事物。
+Dialogue: 0,0:09:27.68,0:09:29.36,English,,0,0,0,,It is what is written down.\N{\rChinese}它是被记录下来的东西。
+Dialogue: 0,0:09:30.30,0:09:33.18,English,,0,0,0,,Stories are memories that are living.\N{\rChinese}故事是活生生的记忆。
+Dialogue: 0,0:09:33.70,0:09:36.24,English,,0,0,0,,That which a community tells about itself.\N{\rChinese}那是社区对自己的叙述。
+Dialogue: 0,0:09:36.62,0:09:40.98,English,,0,0,0,,And therefore, there is a flexibility to these stories.\N{\rChinese}因此，故事具有灵活性。
+Dialogue: 0,0:09:41.34,0:09:44.20,English,,0,0,0,,They can be reimagined over and over.\N{\rChinese}它们可以一遍又一遍地重新想象。
+Dialogue: 0,0:09:44.40,0:09:46.16,English,,0,0,0,,The basic structure... the outline is the same.\N{\rChinese}基本结构……大纲相同。
+Dialogue: 0,0:09:46.16,0:09:50.94,English,,0,0,0,,But the community has to constantly relive\N{\rChinese}但社区必须不断再体验。
+Dialogue: 0,0:09:50.94,0:09:52.34,English,,0,0,0,,and reimagine these stories.\N{\rChinese}并重新想象这些故事。
+Dialogue: 0,0:09:52.72,0:09:57.56,English,,0,0,0,,And therefore, the individual is a person\N{\rChinese}因此，个体就是一个人
+Dialogue: 0,0:09:57.56,0:10:01.88,English,,0,0,0,,who acts out these stories.\N{\rChinese}并把这些故事演绎出来
+Dialogue: 0,0:10:02.32,0:10:03.26,English,,0,0,0,,And\N{\rChinese}并
+Dialogue: 0,0:10:03.26,0:10:08.78,English,,0,0,0,,he acts out these stories either through ritual,\N{\rChinese}他通过仪式把这些故事演绎出来，
+Dialogue: 0,0:10:09.04,0:10:12.42,English,,0,0,0,,either through adventure, or exploration.\N{\rChinese}通过冒险或探索来实现。
+Dialogue: 0,0:10:12.98,0:10:16.14,English,,0,0,0,,So this is a hard idea to understand.\N{\rChinese}这就是一个难以理解的概念。
+Dialogue: 0,0:10:16.14,0:10:19.40,English,,0,0,0,,How is this different from the Roman tradition?\N{\rChinese}这与罗马传统有什么不同？
+Dialogue: 0,0:10:19.80,0:10:25.28,English,,0,0,0,,But let me tell you a story to illustrate this Viking culture.\N{\rChinese}让我给你讲个故事来说明这种维京文化。
+Dialogue: 0,0:10:26.12,0:10:28.92,English,,0,0,0,,So 30 years ago, a long time ago,\N{\rChinese}于是三十年前，久远的过去，我正与新朋友共进午餐。
+Dialogue: 0,0:10:29.14,0:10:32.12,English,,0,0,0,,I was having lunch with a new friend.\N{\rChinese}我正与新朋友共进午餐。
+Dialogue: 0,0:10:32.42,0:10:35.28,English,,0,0,0,,And he went to a very good school called Georgetown.\N{\rChinese}他就读了一所很好的学校，叫乔治城大学。
+Dialogue: 0,0:10:35.62,0:10:37.08,English,,0,0,0,,It's based in Washington, D.C.\N{\rChinese}它位于华盛顿特区。
+Dialogue: 0,0:10:37.46,0:10:39.04,English,,0,0,0,,And it's where Bill Clinton went.\N{\rChinese}它就是比尔·克林顿去的地方。
+Dialogue: 0,0:10:39.18,0:10:44.76,English,,0,0,0,,This is where a lot of the Washington foreign policy elite go to school.\N{\rChinese}这里是许多华盛顿外交政策精英去读书的地方。
+Dialogue: 0,0:10:45.64,0:10:49.08,English,,0,0,0,,And he went to a very good school called Georgetown. And he told me that at Georgetown,\N{\rChinese}他就读了一所很好的学校，叫乔治城大学。他告诉我，乔治城大学有一个传统，学生之间的竞赛。
+Dialogue: 0,0:10:49.44,0:10:53.88,English,,0,0,0,,there's a tradition, a competition among undergraduates.\N{\rChinese}有一个传统，学生之间的竞赛。
+Dialogue: 0,0:10:54.22,0:10:56.38,English,,0,0,0,,And the competition is who\N{\rChinese}竞赛是……
+Dialogue: 0,0:10:56.38,0:11:01.08,English,,0,0,0,,can go the furthest to do the most useless thing.\N{\rChinese}可以走得最远去做最无用的事。
+Dialogue: 0,0:11:02.08,0:11:04.72,English,,0,0,0,,And a lot of undergraduates participate in this competition.\N{\rChinese}许多本科生都参加这场竞赛。
+Dialogue: 0,0:11:05.16,0:11:09.40,English,,0,0,0,,So what my friend and his friend did was one day they got in a car.\N{\rChinese}于是我和我的朋友那天上车去了。
+Dialogue: 0,0:11:09.50,0:11:12.72,English,,0,0,0,,They drove 12 hours to Canada, the Canadian border.\N{\rChinese}他们开车12小时到达加拿大边境。
+Dialogue: 0,0:11:12.88,0:11:14.18,English,,0,0,0,,They crossed the Canadian border.\N{\rChinese}他们越过加拿大边境。
+Dialogue: 0,0:11:14.44,0:11:15.92,English,,0,0,0,,Then they got out of the car.\N{\rChinese}随后他们下车。
+Dialogue: 0,0:11:16.14,0:11:19.00,English,,0,0,0,,And went into the forest to take a piss.\N{\rChinese}然后他们进入森林去撒尿。
+Dialogue: 0,0:11:19.72,0:11:23.12,English,,0,0,0,,Then they got back in the car and drove all the way back to Georgetown.\N{\rChinese}随后他们又上车，开车一路回到乔治城。
+Dialogue: 0,0:11:23.38,0:11:26.60,English,,0,0,0,,They spent 24 hours driving so\N{\rChinese}他们花了24小时开车回去。
+Dialogue: 0,0:11:26.60,0:11:29.94,English,,0,0,0,,that they could take a piss in Canada.\N{\rChinese}他们能在加拿大撒尿。
+Dialogue: 0,0:11:30.64,0:11:35.04,English,,0,0,0,,Okay? Now you think this sounds really stupid.\N{\rChinese}好吧？现在你觉得这听起来很傻。
+Dialogue: 0,0:11:35.28,0:11:39.62,English,,0,0,0,,But the most interesting thing about the story is that it is memorable.\N{\rChinese}但这件事最有趣的地方在于它很容易记住。
+Dialogue: 0,0:11:40.54,0:11:41.78,English,,0,0,0,,Right? Memorable.\N{\rChinese}对吧？记住了。
+Dialogue: 0,0:11:42.98,0:11:45.14,English,,0,0,0,,And what this means is that...\N{\rChinese}这意味着……
+Dialogue: 0,0:11:46.14,0:11:48.68,English,,0,0,0,,50 years after they graduate from Georgetown,\N{\rChinese}五十年后他们从乔治城毕业。
+Dialogue: 0,0:11:49.02,0:11:52.10,English,,0,0,0,,people will still remember what they did.\N{\rChinese}人们仍会记得他们所做的事。
+Dialogue: 0,0:11:52.44,0:11:56.56,English,,0,0,0,,Not only that, but they'll tell their friends, they'll tell their colleagues, they'll tell their children.\N{\rChinese}不只是如此，他们还会告诉朋友、同事、孩子。
+Dialogue: 0,0:11:56.74,0:11:59.72,English,,0,0,0,,So this memory will persist over time.\N{\rChinese}于是这记忆会随时间延续。
+Dialogue: 0,0:12:02.80,0:12:06.52,English,,0,0,0,,No one should remember who got the best grades at Georgetown that year.\N{\rChinese}没有人会记得那年乔治城的最佳成绩是谁的。
+Dialogue: 0,0:12:07.12,0:12:09.50,English,,0,0,0,,No one should remember who had the most money, who\N{\rChinese}没有人会记得谁拥有最多的钱，谁在一生中赚得最多。
+Dialogue: 0,0:12:09.50,0:12:13.52,English,,0,0,0,,made the most money in his or her life.\N{\rChinese}没有人会记得谁拥有最多的钱，谁在一生中赚得最多。
+Dialogue: 0,0:12:13.68,0:12:16.64,English,,0,0,0,,Okay? But everyone should remember these two guys who\N{\rChinese}好的？但大家都要记住这两个人，他们……
+Dialogue: 0,0:12:16.64,0:12:19.12,English,,0,0,0,,got in their car and drove 24 hours just so that\N{\rChinese}他们上车开了24小时，只是为了……
+Dialogue: 0,0:12:19.12,0:12:21.46,English,,0,0,0,,they can go to Canada to take a piss.\N{\rChinese}他们可以去加拿大去撒个尿。
+Dialogue: 0,0:12:22.22,0:12:24.16,English,,0,0,0,,Alright? So that is Viking culture.\N{\rChinese}好了？所以这就是维京文化。
+Dialogue: 0,0:12:24.38,0:12:29.34,English,,0,0,0,,It's not about winning glory or protecting tradition.\N{\rChinese}这不是关于赢得荣耀或守护传统。
+Dialogue: 0,0:12:29.52,0:12:32.10,English,,0,0,0,,It's about doing what is shocking,\N{\rChinese}这关乎做出令人震惊的事。
+Dialogue: 0,0:12:32.34,0:12:36.96,English,,0,0,0,,what is new, what will add to the imagination\N{\rChinese}什么新鲜事，什么会增添想象
+Dialogue: 0,0:12:36.96,0:12:39.08,English,,0,0,0,,and the memory of the community.\N{\rChinese}以及社区的记忆
+Dialogue: 0,0:12:40.42,0:12:42.98,English,,0,0,0,,Okay? Does that make sense? Alright.\N{\rChinese}好的？那有道理吗？好了。
+Dialogue: 0,0:12:42.98,0:12:48.60,English,,0,0,0,,So their main memory is of course their mythology.\N{\rChinese}所以他们的主要记忆当然是他们的神话。
+Dialogue: 0,0:12:48.94,0:12:52.18,English,,0,0,0,,Norse mythology. And Norse mythology, I would argue,\N{\rChinese}北欧神话。再说北欧神话，我想说，
+Dialogue: 0,0:12:52.42,0:12:55.88,English,,0,0,0,,is the greatest mythology\N{\rChinese}是最伟大的神话。
+Dialogue: 0,0:12:55.88,0:12:58.42,English,,0,0,0,,in human history.\N{\rChinese}在人的历史中。
+Dialogue: 0,0:12:58.56,0:13:00.32,English,,0,0,0,,We still have it today.\N{\rChinese}我们今天仍然拥有它。
+Dialogue: 0,0:13:00.82,0:13:03.70,English,,0,0,0,,Okay? You might have seen these Marvel movies, right?\N{\rChinese}好吧？你可能看过这些漫威电影，对吧？
+Dialogue: 0,0:13:04.02,0:13:06.26,English,,0,0,0,,Thor, the Thor series.\N{\rChinese}Thor，雷神系列。
+Dialogue: 0,0:13:07.84,0:13:10.56,English,,0,0,0,,There are a lot of TV shows based on the Vikings.\N{\rChinese}有许多以维京为题材的电视剧。
+Dialogue: 0,0:13:10.88,0:13:12.96,English,,0,0,0,,So the Viking culture, the Norse mythology, is based on the Vikings.\N{\rChinese}因此，维京文化与北欧神话都源自维京人。
+Dialogue: 0,0:13:12.96,0:13:14.48,English,,0,0,0,,It's still celebrated today.\N{\rChinese}它至今仍被庆祝。
+Dialogue: 0,0:13:14.94,0:13:18.40,English,,0,0,0,,Okay? So let me explain to you why I would argue\N{\rChinese}好吧？让我来解释一下，我之所以这么说的原因是。
+Dialogue: 0,0:13:18.40,0:13:22.40,English,,0,0,0,,that Norse mythology is probably the\N{\rChinese}北欧神话大概是。
+Dialogue: 0,0:13:22.40,0:13:25.52,English,,0,0,0,,greatest cosmological system we have.\N{\rChinese}我们拥有的最宏大的宇宙系统。
+Dialogue: 0,0:13:26.02,0:13:29.18,English,,0,0,0,,Okay. So first it's grand.\N{\rChinese}好的。首先它很宏大。
+Dialogue: 0,0:13:30.66,0:13:33.36,English,,0,0,0,,In this mythology there are nine realms.\N{\rChinese}在这神话里有九个世界。
+Dialogue: 0,0:13:33.58,0:13:36.84,English,,0,0,0,,Okay? One, two, three, four,\N{\rChinese}好吧？一、二、三、四，
+Dialogue: 0,0:13:37.04,0:13:39.42,English,,0,0,0,,five, six, seven, eight, nine.\N{\rChinese}五、六、七、八、九。
+Dialogue: 0,0:13:39.72,0:13:42.66,English,,0,0,0,,And it's all connected by a world tree.\N{\rChinese}并且它们都通过一棵世界树相连。
+Dialogue: 0,0:13:42.66,0:13:44.46,English,,0,0,0,,Called Idrisel. Okay?\N{\rChinese}称为伊德里塞尔。好吧？
+Dialogue: 0,0:13:44.56,0:13:46.54,English,,0,0,0,,No one knows what this world tree looks like.\N{\rChinese}没有人知道这棵世界树长什么样。
+Dialogue: 0,0:13:46.66,0:13:50.36,English,,0,0,0,,But it's basically the equivalent of God in this system.\N{\rChinese}但它基本相当于这个体系里的上帝。
+Dialogue: 0,0:13:50.90,0:13:52.42,English,,0,0,0,,Okay? And in this,\N{\rChinese}好吧？在这个里，
+Dialogue: 0,0:13:52.60,0:13:56.40,English,,0,0,0,,in Idrisel there are three gods\N{\rChinese}在伊德里塞尔有三位神
+Dialogue: 0,0:13:56.40,0:14:01.06,English,,0,0,0,,who control the fate and destiny of the world called the Nons.\N{\rChinese}他们掌控着被称为Nons的世界的命运与宿命
+Dialogue: 0,0:14:01.20,0:14:03.16,English,,0,0,0,,Okay? So it's very grand and epic.\N{\rChinese}好吧？所以它非常宏大而史诗。
+Dialogue: 0,0:14:03.54,0:14:08.06,English,,0,0,0,,Also, what's important to understand is there's nothing outside this universe.\N{\rChinese}另外，重要的是要明白，宇宙之外没有任何东西。
+Dialogue: 0,0:14:08.40,0:14:09.98,English,,0,0,0,,Okay? This is it.\N{\rChinese}好吧？这就是了。
+Dialogue: 0,0:14:11.54,0:14:13.78,English,,0,0,0,,Second. The second is that it's complete.\N{\rChinese}第二点。第二点是它完整。
+Dialogue: 0,0:14:16.22,0:14:19.90,English,,0,0,0,,What I mean by that is it has a beginning and it has an end.\N{\rChinese}我所说的意思是它有开始也有结束。
+Dialogue: 0,0:14:20.34,0:14:23.20,English,,0,0,0,,Okay? The beginning is there's a rift\N{\rChinese}好的？开始就是有裂缝。
+Dialogue: 0,0:14:23.20,0:14:28.32,English,,0,0,0,,and from the rift steps a frost giant named Imar.\N{\rChinese}并且从裂缝中出现了一个名叫伊玛尔的霜巨人。
+Dialogue: 0,0:14:28.96,0:14:31.96,English,,0,0,0,,And then comes a cow, a cosmic cow,\N{\rChinese}随后出现了一头宇宙之牛，宇宙之牛。
+Dialogue: 0,0:14:32.16,0:14:34.92,English,,0,0,0,,who then licks the ice and that\N{\rChinese}它随后舔舌冰面，随后舔舌冰面。
+Dialogue: 0,0:14:34.92,0:14:37.46,English,,0,0,0,,releases another god who\N{\rChinese}释放另一位神祇，随后会诞生另一位神祇。
+Dialogue: 0,0:14:37.46,0:14:40.34,English,,0,0,0,,will eventually give birth to another god.\N{\rChinese}随后诞生另一位神祇。
+Dialogue: 0,0:14:40.34,0:14:43.32,English,,0,0,0,,Who will give birth to the three major gods including Odin.\N{\rChinese}随后诞生三位主神，其中包括奥丁。
+Dialogue: 0,0:14:43.48,0:14:46.52,English,,0,0,0,,And these three major gods will kill Imar and\N{\rChinese}这些三位主神将杀死伊玛尔并
+Dialogue: 0,0:14:46.52,0:14:49.68,English,,0,0,0,,from Imar's carcass they will build the universe.\N{\rChinese}从伊玛尔尸体中建造宇宙
+Dialogue: 0,0:14:50.00,0:14:51.86,English,,0,0,0,,Okay? That's the beginning.\N{\rChinese}好了？这就是开始。
+Dialogue: 0,0:14:52.12,0:14:54.86,English,,0,0,0,,But there's also an end. And the end is what I call,\N{\rChinese}但也有一个结局。那就是我所说的，
+Dialogue: 0,0:14:55.04,0:14:57.00,English,,0,0,0,,what's what they call Ragnarok.\N{\rChinese}那就是他们所说的，拉格纳罗克。
+Dialogue: 0,0:14:59.96,0:15:03.64,English,,0,0,0,,Ragnarok. And Ragnarok is the end of everything.\N{\rChinese}拉格纳罗克。拉格纳罗克就是一切的终结。
+Dialogue: 0,0:15:03.96,0:15:06.76,English,,0,0,0,,It is a final battle between the gods.\N{\rChinese}它是一场神祇之间的终极之战。
+Dialogue: 0,0:15:06.92,0:15:08.20,English,,0,0,0,,What we'll call the Ishir.\N{\rChinese}我们称之为伊希尔。
+Dialogue: 0,0:15:08.28,0:15:13.12,English,,0,0,0,,Okay? So Odin is the all father,\N{\rChinese}好了？于是奥丁是全父。
+Dialogue: 0,0:15:13.24,0:15:15.74,English,,0,0,0,,the main god. But in all children are called the Ishir.\N{\rChinese}主神。又有一群被称作伊希尔的孩子。
+Dialogue: 0,0:15:15.82,0:15:21.58,English,,0,0,0,,Okay? The Ishir will fight a final cosmic battle between them\N{\rChinese}好了？伊希尔将与他们与敌人展开终极宇宙之战。
+Dialogue: 0,0:15:21.58,0:15:23.06,English,,0,0,0,,and their enemies. And\N{\rChinese}and their enemies. And
+Dialogue: 0,0:15:23.06,0:15:27.02,English,,0,0,0,,in this final battle everything will die.\N{\rChinese}在这场终极之战中，一切都将消亡。
+Dialogue: 0,0:15:27.78,0:15:29.96,English,,0,0,0,,Nothing will be left. Okay?\N{\rChinese}什么也不剩。好了？
+Dialogue: 0,0:15:30.56,0:15:33.82,English,,0,0,0,,Then that's it. Now,\N{\rChinese}就这样。现在，
+Dialogue: 0,0:15:33.82,0:15:38.46,English,,0,0,0,,as I mentioned, the Christian tradition will take the story.\N{\rChinese}正如我所说，基督教传统会接手这个故事。
+Dialogue: 0,0:15:38.46,0:15:40.86,English,,0,0,0,,And adapt it for its own ends.\N{\rChinese}然后再按自己的需要改编。
+Dialogue: 0,0:15:41.10,0:15:43.92,English,,0,0,0,,So in the Christian tradition Ragnarok does happen.\N{\rChinese}于是，在基督教传统里，拉格纳罗克确实发生了。
+Dialogue: 0,0:15:44.08,0:15:49.04,English,,0,0,0,,But guess what? After the end of the world two humans,\N{\rChinese}但你猜怎么了？世界结束后，两个凡人，一男一女，将从废墟中出现。
+Dialogue: 0,0:15:49.36,0:15:52.04,English,,0,0,0,,a man and a woman, will emerge from the destruction.\N{\rChinese}他们将重新构造世界。
+Dialogue: 0,0:15:52.36,0:15:54.22,English,,0,0,0,,And reconstitute the world.\N{\rChinese}And reconstitutethe world.
+Dialogue: 0,0:15:54.34,0:15:56.48,English,,0,0,0,,Okay? That's the Christian tradition.\N{\rChinese}好的？这就是基督教传统。
+Dialogue: 0,0:15:56.64,0:15:59.26,English,,0,0,0,,In the Norse tradition everything ends.\N{\rChinese}在北欧传统里，一切都以此结束。
+Dialogue: 0,0:16:00.38,0:16:04.46,English,,0,0,0,,And you may think to yourself, oh, well this sounds extremely pessimistic.\N{\rChinese}你可能会想，哦，这听起来很悲观。
+Dialogue: 0,0:16:05.22,0:16:08.30,English,,0,0,0,,But that's only because we're looking at it from our perspective.\N{\rChinese}但那只是因为我们从自己的视角来看。
+Dialogue: 0,0:16:08.30,0:16:11.96,English,,0,0,0,,From the perspective of the Vikings the end of the world means\N{\rChinese}从维京人的视角看，世界的终结意味着……
+Dialogue: 0,0:16:11.96,0:16:16.16,English,,0,0,0,,that you must cherish every single day.\N{\rChinese}于是你必须珍惜每一天。
+Dialogue: 0,0:16:16.42,0:16:18.10,English,,0,0,0,,Live with honor.\N{\rChinese}与荣耀同行。
+Dialogue: 0,0:16:18.34,0:16:20.96,English,,0,0,0,,Live with glory. Live with courage.\N{\rChinese}与光荣同行，勇敢同行。
+Dialogue: 0,0:16:25.24,0:16:26.70,English,,0,0,0,,Cherish every moment.\N{\rChinese}珍惜每一刻。
+Dialogue: 0,0:16:28.18,0:16:29.94,English,,0,0,0,,Okay? And that's the idea.\N{\rChinese}好的？这就是意思。
+Dialogue: 0,0:16:31.06,0:16:34.22,English,,0,0,0,,The third thing about Norse mythology is that it's unified.\N{\rChinese}关于北欧神话的第三点是它是统一的。
+Dialogue: 0,0:16:35.54,0:16:37.62,English,,0,0,0,,So all the characters.\N{\rChinese}所以所有角色都在同一体系内。
+Dialogue: 0,0:16:37.62,0:16:38.90,English,,0,0,0,,Everything that\N{\rChinese}一切发生的事都包含在这神话之中。
+Dialogue: 0,0:16:38.90,0:16:42.68,English,,0,0,0,,happens is contained within this mythology.\N{\rChinese}并为这神话的发展作出了贡献。
+Dialogue: 0,0:16:43.00,0:16:46.18,English,,0,0,0,,And contributes to development of this mythology.\N{\rChinese}And contributes to development of this mythology.
+Dialogue: 0,0:16:46.58,0:16:49.22,English,,0,0,0,,So this mythology not only includes gods.\N{\rChinese}所以这神话不仅包含神祇。
+Dialogue: 0,0:16:49.54,0:16:50.80,English,,0,0,0,,But also includes humans.\N{\rChinese}而且也包含人类。
+Dialogue: 0,0:16:51.08,0:16:53.68,English,,0,0,0,,Okay? Who\N{\rChinese}好的吗？谁？
+Dialogue: 0,0:16:53.68,0:16:56.50,English,,0,0,0,,are champions of the gods.\N{\rChinese}是神的冠军。
+Dialogue: 0,0:16:56.96,0:17:00.68,English,,0,0,0,,So there's a very famous love story within this mythology.\N{\rChinese}于是这神话中有一段非常著名的爱情故事。
+Dialogue: 0,0:17:00.72,0:17:05.02,English,,0,0,0,,Between a human named Sigard.\N{\rChinese}一位名叫西加德的人类之间。
+Dialogue: 0,0:17:06.12,0:17:08.00,English,,0,0,0,,And a Valkyrie.\N{\rChinese}并且有一位女武士。
+Dialogue: 0,0:17:08.20,0:17:10.90,English,,0,0,0,,Who is a servant of the gods.\N{\rChinese}她是神的仆人。
+Dialogue: 0,0:17:11.18,0:17:14.12,English,,0,0,0,,Named Brumhilde.\N{\rChinese}名为布鲁姆希德。
+Dialogue: 0,0:17:16.50,0:17:19.00,English,,0,0,0,,Eventually what will happen is that\N{\rChinese}最终会发生的事是……
+Dialogue: 0,0:17:19.00,0:17:21.72,English,,0,0,0,,there will be a very famous German composer named Wagner.\N{\rChinese}会出现一位非常著名的德国作曲家——瓦格纳。
+Dialogue: 0,0:17:22.00,0:17:26.50,English,,0,0,0,,Who will take the story of Sigard, Brumhilde and this entire Norse mythology.\N{\rChinese}他将把西加德、布鲁姆希德以及整个北欧神话搬上舞台。
+Dialogue: 0,0:17:26.80,0:17:30.10,English,,0,0,0,,And construct something called the Ring Cycle.\N{\rChinese}并构造出名为环形周期的作品。
+Dialogue: 0,0:17:31.02,0:17:35.00,English,,0,0,0,,Which is the most famous opera in German history.\N{\rChinese}它是德国历史上最著名的歌剧。
+Dialogue: 0,0:17:35.00,0:17:39.84,English,,0,0,0,,And this becomes one of the foundations of modern German culture.\N{\rChinese}这成为现代德国文化的基石之一。
+Dialogue: 0,0:17:40.42,0:17:43.08,English,,0,0,0,,This Norse mythology will also become\N{\rChinese}这段北欧神话也将成为托尔金史诗《指环王》的灵感。
+Dialogue: 0,0:17:43.08,0:17:48.50,English,,0,0,0,,the inspiration for Tolkien's epic called Lord of the Rings.\N{\rChinese}好的？所以。
+Dialogue: 0,0:17:51.76,0:17:54.26,English,,0,0,0,,Okay? So\N{\rChinese}Okay? So
+Dialogue: 0,0:17:54.26,0:17:55.46,English,,0,0,0,,these are the two most obvious\N{\rChinese}这些是北欧神话至今仍影响我们世界的两个最明显例子。
+Dialogue: 0,0:17:55.46,0:17:58.62,English,,0,0,0,,examples of how Norse\N{\rChinese}这些是北欧神话至今仍影响我们世界的两个最明显例子。
+Dialogue: 0,0:17:58.62,0:18:01.98,English,,0,0,0,,mythology still impacts our world today.\N{\rChinese}这些是北欧神话至今仍影响我们世界的两个最明显例子。
+Dialogue: 0,0:18:02.18,0:18:04.38,English,,0,0,0,,Okay? And as we go along the semester.\N{\rChinese}好的？接下来学期继续。
+Dialogue: 0,0:18:04.38,0:18:06.12,English,,0,0,0,,I will show other influences.\N{\rChinese}我会展示其他影响。
+Dialogue: 0,0:18:08.02,0:18:09.56,English,,0,0,0,,Alright? So\N{\rChinese}好的？那就开始吧。
+Dialogue: 0,0:18:09.56,0:18:12.74,English,,0,0,0,,what Norse mythology is trying\N{\rChinese}北欧神话所要表达的是什么
+Dialogue: 0,0:18:12.74,0:18:17.44,English,,0,0,0,,to do is create community among the Vikings.\N{\rChinese}做的事是让维京人形成社区。
+Dialogue: 0,0:18:17.64,0:18:19.74,English,,0,0,0,,And instill certain values.\N{\rChinese}并灌输某些价值观。
+Dialogue: 0,0:18:20.22,0:18:23.20,English,,0,0,0,,Okay? The three major values that\N{\rChinese}好的？这三大价值观是……
+Dialogue: 0,0:18:23.20,0:18:26.56,English,,0,0,0,,these stories manifest and express are.\N{\rChinese}这些故事所体现并表达的三大价值观是……
+Dialogue: 0,0:18:27.08,0:18:31.98,English,,0,0,0,,Courage. The courage to explore.\N{\rChinese}勇气。探索的勇气。
+Dialogue: 0,0:18:32.26,0:18:34.30,English,,0,0,0,,The courage to seek what is new.\N{\rChinese}寻找新事物的勇气。
+Dialogue: 0,0:18:34.38,0:18:37.94,English,,0,0,0,,And unknown. To venture forth into the unknown.\N{\rChinese}并且未知。踏入未知之旅。
+Dialogue: 0,0:18:38.22,0:18:42.04,English,,0,0,0,,Because Vikings are mainly explorers and adventurers.\N{\rChinese}因为维京人主要是探险者与冒险家。
+Dialogue: 0,0:18:43.50,0:18:48.72,English,,0,0,0,,Raiding is only a small part of their community.\N{\rChinese}掠夺只是他们社群的一小部分。
+Dialogue: 0,0:18:48.98,0:18:52.00,English,,0,0,0,,Okay? Second is the idea of loyalty.\N{\rChinese}好？第二个是忠诚的概念。
+Dialogue: 0,0:18:52.56,0:18:56.50,English,,0,0,0,,And this is a very important concept.\N{\rChinese}而这是一项非常重要的概念。
+Dialogue: 0,0:18:56.90,0:18:59.12,English,,0,0,0,,When you go out on new adventures.\N{\rChinese}当你踏上新的冒险之旅时。
+Dialogue: 0,0:18:59.44,0:19:01.64,English,,0,0,0,,You usually go out with your brothers.\N{\rChinese}你通常会和兄弟们一起出发。
+Dialogue: 0,0:19:01.84,0:19:03.48,English,,0,0,0,,Your friends. Okay?\N{\rChinese}你的朋友们。好？
+Dialogue: 0,0:19:03.48,0:19:06.48,English,,0,0,0,,It's like a band of brothers. So you have to survive.\N{\rChinese}像一支兄弟团体。你得先存活。
+Dialogue: 0,0:19:06.76,0:19:09.68,English,,0,0,0,,You have to be willing to die for them.\N{\rChinese}你得愿意为他们赴死。
+Dialogue: 0,0:19:09.88,0:19:11.18,English,,0,0,0,,You have to die for each other.\N{\rChinese}你得为彼此赴死。
+Dialogue: 0,0:19:11.86,0:19:15.64,English,,0,0,0,,If the survival of the group requires you to make the ultimate sacrifice.\N{\rChinese}如果集体生存需要你作出终极牺牲。
+Dialogue: 0,0:19:16.22,0:19:17.98,English,,0,0,0,,You have to do so. Okay?\N{\rChinese}你得这么做。好？
+Dialogue: 0,0:19:17.98,0:19:20.84,English,,0,0,0,,Loyalty. Loyalty means love for each other.\N{\rChinese}忠诚。忠诚即彼此相爱。
+Dialogue: 0,0:19:21.12,0:19:22.58,English,,0,0,0,,It does not mean obedience.\N{\rChinese}它并不意味着服从。
+Dialogue: 0,0:19:23.26,0:19:25.40,English,,0,0,0,,Remember in the Viking world it is very egalitarian.\N{\rChinese}记住，在维京世界里很平等。
+Dialogue: 0,0:19:26.00,0:19:27.20,English,,0,0,0,,There's very little hierarchy.\N{\rChinese}层级很少。
+Dialogue: 0,0:19:27.78,0:19:29.06,English,,0,0,0,,Okay? There are high status people.\N{\rChinese}好的？有高阶层的人。
+Dialogue: 0,0:19:29.52,0:19:32.48,English,,0,0,0,,But they are high status because they are proving themselves worthier.\N{\rChinese}但他们之所以高阶，是因为他们证明自己更值得。
+Dialogue: 0,0:19:32.48,0:19:34.16,English,,0,0,0,,Than the others.\N{\rChinese}比其他人更值得。
+Dialogue: 0,0:19:34.34,0:19:36.62,English,,0,0,0,,Because they are braver. Because they are stronger.\N{\rChinese}因为他们更勇敢。因为他们更强壮。
+Dialogue: 0,0:19:36.84,0:19:38.76,English,,0,0,0,,Because they are more clever. Okay?\N{\rChinese}因为他们更聪明。好吗？
+Dialogue: 0,0:19:39.20,0:19:42.68,English,,0,0,0,,The last Viking value is resourcefulness.\N{\rChinese}最后一个维京价值是机智。
+Dialogue: 0,0:19:47.40,0:19:49.04,English,,0,0,0,,So the idea here is.\N{\rChinese}所以这里的意思是。
+Dialogue: 0,0:19:49.54,0:19:51.90,English,,0,0,0,,When you venture off into the unknown.\N{\rChinese}当你踏入未知之时。
+Dialogue: 0,0:19:52.64,0:19:55.16,English,,0,0,0,,You cannot know what to expect.\N{\rChinese}你无法预料会遇到什么。
+Dialogue: 0,0:19:55.36,0:19:57.72,English,,0,0,0,,You can't plan ahead. You can't be strategic.\N{\rChinese}你不能提前计划。你不能做战略。
+Dialogue: 0,0:19:59.18,0:20:01.40,English,,0,0,0,,So you can only be resourceful.\N{\rChinese}于是你只能机智。
+Dialogue: 0,0:20:01.40,0:20:05.72,English,,0,0,0,,Meaning you must respond to the danger as it arises.\N{\rChinese}意思是你必须在危险出现时立即应对。
+Dialogue: 0,0:20:06.24,0:20:09.06,English,,0,0,0,,You have to be very, what we call, quick -witted.\N{\rChinese}你必须非常机灵——我们称之为快活。”
+Dialogue: 0,0:20:10.44,0:20:12.24,English,,0,0,0,,You have to have street smarts.\N{\rChinese}你得有街头智慧。”
+Dialogue: 0,0:20:12.26,0:20:16.40,English,,0,0,0,,So these are the three main values or ideas\N{\rChinese}于是这三点即是主要价值或观念。”
+Dialogue: 0,0:20:16.40,0:20:19.44,English,,0,0,0,,that Norse mythology is trying to express\N{\rChinese}那北欧神话正试图表达的事物
+Dialogue: 0,0:20:19.44,0:20:22.22,English,,0,0,0,,and instill in the people.\N{\rChinese}并在人民中灌注之意
+Dialogue: 0,0:20:23.08,0:20:26.42,English,,0,0,0,,So that's a general introduction to Viking culture.\N{\rChinese}于是这便是维京文化的概括性介绍
+Dialogue: 0,0:20:26.42,0:20:29.94,English,,0,0,0,,Now what I will do is I will provide evidence\N{\rChinese}现在我将提供证据
+Dialogue: 0,0:20:29.94,0:20:33.10,English,,0,0,0,,and examples for this argument.\N{\rChinese}以及例子来支撑这个论点
+Dialogue: 0,0:20:33.46,0:20:35.16,English,,0,0,0,,Okay? Alright.\N{\rChinese}好的？好的。
+Dialogue: 0,0:20:35.68,0:20:39.56,English,,0,0,0,,But, is this clear to you guys?\N{\rChinese}但这对你们来说清楚吗？
+Dialogue: 0,0:20:40.36,0:20:43.34,English,,0,0,0,,Okay. Alright, so now let's do the PPT.\N{\rChinese}好的。好了，现在我们来做PPT。
+Dialogue: 0,0:20:48.38,0:20:51.92,English,,0,0,0,,And look at the evidence\N{\rChinese}再看一下证据。
+Dialogue: 0,0:20:51.92,0:20:53.44,English,,0,0,0,,and the examples.\N{\rChinese}以及例子。
+Dialogue: 0,0:20:55.12,0:20:56.72,English,,0,0,0,,Okay. Okay. Alright.\N{\rChinese}好的。好的。好了。
+Dialogue: 0,0:20:56.84,0:20:58.18,English,,0,0,0,,The Viking worldview.\N{\rChinese}维京人的世界观。
+Dialogue: 0,0:20:59.16,0:21:02.22,English,,0,0,0,,Alright. First thing I need you guys to understand is\N{\rChinese}好的。首先我想让你们明白的是
+Dialogue: 0,0:21:02.22,0:21:05.38,English,,0,0,0,,that every culture, every society,\N{\rChinese}每个文化、每个社会，
+Dialogue: 0,0:21:05.50,0:21:09.54,English,,0,0,0,,fundamentally asks itself three questions.\N{\rChinese}本质上都会问自己三个问题。
+Dialogue: 0,0:21:10.46,0:21:13.68,English,,0,0,0,,That this painting from Paul Gauguin captures.\N{\rChinese}那幅由保罗·高更绘制的画作所捕捉的画面。
+Dialogue: 0,0:21:13.92,0:21:15.50,English,,0,0,0,,Okay? Where do we come from?\N{\rChinese}好的？我们从哪里来？
+Dialogue: 0,0:21:15.66,0:21:17.66,English,,0,0,0,,What are we? Where are we going?\N{\rChinese}我们是什么？我们要去哪里？
+Dialogue: 0,0:21:17.80,0:21:20.80,English,,0,0,0,,Every culture is trying to grapple with these three questions.\N{\rChinese}每个文化都在努力回答这三个问题。
+Dialogue: 0,0:21:21.04,0:21:23.44,English,,0,0,0,,Paul Gauguin, I'm not sure if you know who he is.\N{\rChinese}保罗·高更，我不确定你是否知道他是谁。
+Dialogue: 0,0:21:23.56,0:21:25.24,English,,0,0,0,,He is a very famous French artist.\N{\rChinese}他是一位非常著名的法国艺术家。
+Dialogue: 0,0:21:25.24,0:21:28.12,English,,0,0,0,,He started off actually as a financier, a stockbroker.\N{\rChinese}他最初是个金融家，股票经纪人。
+Dialogue: 0,0:21:28.34,0:21:33.60,English,,0,0,0,,And then he basically became disgusted with the material lifestyle of modern society.\N{\rChinese}随后他对现代社会的物质生活方式基本感到厌倦。
+Dialogue: 0,0:21:33.90,0:21:37.64,English,,0,0,0,,So he got on a boat and went to Tahiti where he painted.\N{\rChinese}于是他登船前往塔希提，去那里作画。
+Dialogue: 0,0:21:37.92,0:21:40.44,English,,0,0,0,,He interacted with the natives.\N{\rChinese}他与当地人互动。
+Dialogue: 0,0:21:40.84,0:21:45.10,English,,0,0,0,,And through this interaction, he began to grapple with what it means to be a human.\N{\rChinese}通过这种互动，他开始思考人类的意义。
+Dialogue: 0,0:21:45.24,0:21:46.44,English,,0,0,0,,What is the human project?\N{\rChinese}人类的项目是什么？
+Dialogue: 0,0:21:46.80,0:21:48.02,English,,0,0,0,,And what he believes and\N{\rChinese}他所相信的以及他认为大多数人类学家所相信的是要问这三个问题。
+Dialogue: 0,0:21:48.02,0:21:51.32,English,,0,0,0,,what most actually anthropologists believe is to be\N{\rChinese}他所相信的以及他认为大多数人类学家所相信的是要问这三个问题。
+Dialogue: 0,0:21:51.32,0:21:54.04,English,,0,0,0,,human is to ask these three questions.\N{\rChinese}他所相信的以及他认为大多数人类学家所相信的是要问这三个问题。
+Dialogue: 0,0:21:55.46,0:21:56.66,English,,0,0,0,,Where do we come from?\N{\rChinese}我们从哪里来？
+Dialogue: 0,0:21:56.76,0:21:58.80,English,,0,0,0,,Why are we here? Where are we going?\N{\rChinese}我们为什么在这里？我们要去哪里？
+Dialogue: 0,0:21:59.06,0:22:03.38,English,,0,0,0,,Okay? And that's ultimately what Norse mythology is trying to grapple with as well.\N{\rChinese}好的？这正是北欧神话试图探讨的核心。
+Dialogue: 0,0:22:06.36,0:22:10.18,English,,0,0,0,,Okay. So again, we know our evidence,\N{\rChinese}好的。再说一次，我们的证据是……
+Dialogue: 0,0:22:10.26,0:22:12.64,English,,0,0,0,,our understanding of the Vikings comes from archaeology.\N{\rChinese}我们对维京人的了解来自考古学。
+Dialogue: 0,0:22:13.14,0:22:14.98,English,,0,0,0,,So we are able to dig up their graves.\N{\rChinese}于是我们就能挖掘他们的坟墓。
+Dialogue: 0,0:22:15.10,0:22:18.06,English,,0,0,0,,And what we discover is, and it's very interesting,\N{\rChinese}而我们发现的事，且非常有趣，
+Dialogue: 0,0:22:18.12,0:22:21.84,English,,0,0,0,,is that each grave is unique.\N{\rChinese}每个坟墓都是独一的。
+Dialogue: 0,0:22:23.24,0:22:25.88,English,,0,0,0,,Okay? And it seems that\N{\rChinese}好？看起来是这样。
+Dialogue: 0,0:22:25.88,0:22:29.56,English,,0,0,0,,each grave in its own way is telling a story about\N{\rChinese}每个坟墓以自己的方式讲述着这人的故事。
+Dialogue: 0,0:22:29.56,0:22:30.72,English,,0,0,0,,who this person is.\N{\rChinese}这坟墓的样子就是……
+Dialogue: 0,0:22:31.47,0:22:33.80,English,,0,0,0,,It's like this grave was not meant\N{\rChinese}It's like this grave was not meant
+Dialogue: 0,0:22:33.80,0:22:38.78,English,,0,0,0,,just to send this individual into the afterworld,\N{\rChinese}仅仅是把这人送入来世
+Dialogue: 0,0:22:38.90,0:22:42.52,English,,0,0,0,,but also to remember him or her\N{\rChinese}也为了记住他或她
+Dialogue: 0,0:22:42.52,0:22:45.74,English,,0,0,0,,and his or her achievements in life.\N{\rChinese}以及他或她生前的成就
+Dialogue: 0,0:22:46.00,0:22:47.08,English,,0,0,0,,Okay? So\N{\rChinese}好的？那么
+Dialogue: 0,0:22:47.08,0:22:51.50,English,,0,0,0,,let's look at some\N{\rChinese}让我们看看
+Dialogue: 0,0:22:51.50,0:22:53.58,English,,0,0,0,,reconstruction of these graves.\N{\rChinese}这些坟墓的重建
+Dialogue: 0,0:22:53.62,0:22:54.84,English,,0,0,0,,Okay? And as you can see,\N{\rChinese}好的？正如你所见，
+Dialogue: 0,0:22:55.02,0:22:58.70,English,,0,0,0,,this woman is buried with tools,\N{\rChinese}这位女子与工具一起葬于此，
+Dialogue: 0,0:22:59.12,0:23:03.30,English,,0,0,0,,an arrow, as well as a dead horse.\N{\rChinese}一支箭以及一匹已死的马也随葬。
+Dialogue: 0,0:23:04.16,0:23:06.74,English,,0,0,0,,So we're not able to reconstruct her story,\N{\rChinese}于是我们无法重建她的故事，
+Dialogue: 0,0:23:07.04,0:23:09.58,English,,0,0,0,,but obviously those who\N{\rChinese}但显然那些认识她的人确切知道故事所代表的意义。
+Dialogue: 0,0:23:09.58,0:23:13.62,English,,0,0,0,,knew her knew exactly what the story represented.\N{\rChinese}knew her knew exactly what the story represented.
+Dialogue: 0,0:23:13.88,0:23:18.50,English,,0,0,0,,Okay? This is another example\N{\rChinese}好的？这又是一个例子
+Dialogue: 0,0:23:18.50,0:23:20.76,English,,0,0,0,,where a man is buried with his ship.\N{\rChinese}在这里，一个人被葬在他的船里
+Dialogue: 0,0:23:20.76,0:23:26.04,English,,0,0,0,,The Vikings are the only society to bury people in ships.\N{\rChinese}维京人是唯一把人葬在船里的社会
+Dialogue: 0,0:23:28.56,0:23:29.78,English,,0,0,0,,Another example.\N{\rChinese}另一个例子。
+Dialogue: 0,0:23:29.98,0:23:31.78,English,,0,0,0,,And as you can see, they're all unique.\N{\rChinese}正如你所见，它们各不相同。
+Dialogue: 0,0:23:31.96,0:23:35.96,English,,0,0,0,,In fact, what's really interesting for us is to appreciate\N{\rChinese}事实上，对我们来说真正有趣的，是欣赏……
+Dialogue: 0,0:23:35.96,0:23:41.34,English,,0,0,0,,that funerals were the most important aspect of Viking society.\N{\rChinese}那时葬礼是维京社会最重要的方面。
+Dialogue: 0,0:23:41.80,0:23:43.74,English,,0,0,0,,It's what brought the community together.\N{\rChinese}它把社区团结在一起。
+Dialogue: 0,0:23:44.28,0:23:46.46,English,,0,0,0,,And it was what they remembered the most.\N{\rChinese}而它们最记得的就是这一点。
+Dialogue: 0,0:23:46.68,0:23:50.36,English,,0,0,0,,It is funerals are what contributed to historical memory.\N{\rChinese}葬礼是构成历史记忆的关键。
+Dialogue: 0,0:23:50.36,0:23:52.52,English,,0,0,0,,And as you can see,\N{\rChinese}正如你所见，
+Dialogue: 0,0:23:52.68,0:23:54.96,English,,0,0,0,,this funeral is extremely elaborate,\N{\rChinese}这场葬礼极为繁复。
+Dialogue: 0,0:23:55.28,0:23:57.74,English,,0,0,0,,involving a lot of animal sacrifice.\N{\rChinese}涉及大量动物祭祀。
+Dialogue: 0,0:23:57.96,0:24:00.30,English,,0,0,0,,These horses are being gathered up to be sacrificed.\N{\rChinese}这些马被聚集起来进行祭祀。
+Dialogue: 0,0:24:00.76,0:24:02.10,English,,0,0,0,,There's also human sacrifice.\N{\rChinese}还有人祭。
+Dialogue: 0,0:24:02.74,0:24:06.66,English,,0,0,0,,And these funerals can last for a long time, 10 days.\N{\rChinese}并且这些葬礼可持续十天之久。
+Dialogue: 0,0:24:08.16,0:24:11.24,English,,0,0,0,,Okay? So again, because\N{\rChinese}好的？再说一次，因为
+Dialogue: 0,0:24:11.24,0:24:14.92,English,,0,0,0,,the Vikings never wrote anything down, we actually don't know\N{\rChinese}维京人从未曾记载，实际上我们并不知晓。
+Dialogue: 0,0:24:14.92,0:24:17.04,English,,0,0,0,,that much about these funerals.\N{\rChinese}关于这些葬礼的事就到此为止。
+Dialogue: 0,0:24:17.14,0:24:19.80,English,,0,0,0,,In fact, we only have one.\N{\rChinese}实际上我们只有一条记录。
+Dialogue: 0,0:24:19.80,0:24:23.16,English,,0,0,0,,One historical record of a funeral.\N{\rChinese}一条关于葬礼的历史记录。
+Dialogue: 0,0:24:23.66,0:24:27.46,English,,0,0,0,,Okay? And this happened in the Viking Rus.\N{\rChinese}好的？这件事发生在维京鲁斯。
+Dialogue: 0,0:24:27.58,0:24:30.76,English,,0,0,0,,Okay? So this is Eastern, the Eastern world near the Volga.\N{\rChinese}好的？这就是东部，伏尔加附近的东部世界。
+Dialogue: 0,0:24:31.34,0:24:36.06,English,,0,0,0,,And it was written down by a Muslim diplomat\N{\rChinese}并且这被一名穆斯林外交官记载。
+Dialogue: 0,0:24:36.06,0:24:39.32,English,,0,0,0,,and traveler by the name of Ahmad ibn Badlan.\N{\rChinese}并且一名旅行者，名为阿赫马德·伊本·巴德兰。
+Dialogue: 0,0:24:39.66,0:24:42.04,English,,0,0,0,,Okay? And he is from the Abbasid Caliphate.\N{\rChinese}好？他来自阿拔斯王朝。
+Dialogue: 0,0:24:42.90,0:24:47.92,English,,0,0,0,,And he is in the Viking world in order to negotiate a treaty of trade.\N{\rChinese}好？他来到维京世界，目的是谈判贸易条约。
+Dialogue: 0,0:24:48.06,0:24:50.42,English,,0,0,0,,Okay? The Abbasids and the Vikings traded a lot.\N{\rChinese}好的？阿拔斯王朝和维京人交易频繁。
+Dialogue: 0,0:24:50.66,0:24:52.02,English,,0,0,0,,And as an honored guest,\N{\rChinese}而且作为贵宾，
+Dialogue: 0,0:24:52.32,0:24:58.14,English,,0,0,0,,the Vikings invited him to a funeral of a deceased chieftain or king.\N{\rChinese}维京人邀请他参加一位已故领袖或王的葬礼。
+Dialogue: 0,0:24:58.54,0:25:03.14,English,,0,0,0,,All right? Now, there are certain things about this funeral that's important for us.\N{\rChinese}好的？现在，有些关于这场葬礼的事对我们很重要。
+Dialogue: 0,0:25:03.28,0:25:06.18,English,,0,0,0,,The first thing is that it would last 10 days.\N{\rChinese}第一点是它会持续十天。
+Dialogue: 0,0:25:06.62,0:25:09.34,English,,0,0,0,,Okay? It's a very elaborate affair that\N{\rChinese}好的？这是一场非常精心的仪式。
+Dialogue: 0,0:25:09.34,0:25:12.70,English,,0,0,0,,requires a lot of choreography and coronation.\N{\rChinese}需要大量舞蹈与加冕。
+Dialogue: 0,0:25:13.16,0:25:16.48,English,,0,0,0,,The second thing is that...\N{\rChinese}第二点是……
+Dialogue: 0,0:25:18.22,0:25:22.90,English,,0,0,0,,A third of the man's wealth was spent on the funeral expenses.\N{\rChinese}三分之一的财富用于葬礼费用。
+Dialogue: 0,0:25:23.18,0:25:25.00,English,,0,0,0,,So basically, a feast for everyone.\N{\rChinese}所以基本上，大家都有盛宴。
+Dialogue: 0,0:25:25.54,0:25:29.00,English,,0,0,0,,Okay? A third was spent on his funeral clothes\N{\rChinese}好吧？三分之一的费用用于他的葬礼服装。
+Dialogue: 0,0:25:29.00,0:25:31.10,English,,0,0,0,,that was tailor -made for him.\N{\rChinese}那套服装是为他量身定做的。
+Dialogue: 0,0:25:31.24,0:25:33.16,English,,0,0,0,,So this is like the best clothes.\N{\rChinese}于是这就是最好的衣服。
+Dialogue: 0,0:25:33.44,0:25:36.22,English,,0,0,0,,And a third was given to his wife.\N{\rChinese}又有三分之一给了他的妻子。
+Dialogue: 0,0:25:36.54,0:25:39.60,English,,0,0,0,,What this tells us is, first of all, this man,\N{\rChinese}这说明了，首先，这个人……
+Dialogue: 0,0:25:39.70,0:25:42.12,English,,0,0,0,,even though he was high status, he didn't have that much wealth.\N{\rChinese}即使他身份高贵，却并不富有。
+Dialogue: 0,0:25:42.30,0:25:44.20,English,,0,0,0,,Right? And second of all,\N{\rChinese}对吧？其次，
+Dialogue: 0,0:25:44.28,0:25:47.28,English,,0,0,0,,the Vikings are a very egalitarian society.\N{\rChinese}维京人是个非常平等的社会。
+Dialogue: 0,0:25:47.92,0:25:51.38,English,,0,0,0,,And the third thing that's important for us, they didn't care that much about wealth.\N{\rChinese}还有第三点很重要：他们并不太在意财富。
+Dialogue: 0,0:25:51.48,0:25:53.12,English,,0,0,0,,Period. Right?\N{\rChinese}点。对吧？
+Dialogue: 0,0:25:53.78,0:25:55.76,English,,0,0,0,,They spent a third on the funeral.\N{\rChinese}他们在葬礼上花了三分之一。
+Dialogue: 0,0:25:55.86,0:25:57.88,English,,0,0,0,,They just burned away the money.\N{\rChinese}他们把钱都烧掉了。
+Dialogue: 0,0:25:58.28,0:25:59.74,English,,0,0,0,,Okay. So\N{\rChinese}好的。
+Dialogue: 0,0:25:59.74,0:26:03.94,English,,0,0,0,,what's also important for us to remember is there is a funeral director.\N{\rChinese}还有一点很重要：有个葬礼导演。
+Dialogue: 0,0:26:04.26,0:26:05.90,English,,0,0,0,,There's a woman who\N{\rChinese}有个女人……
+Dialogue: 0,0:26:05.90,0:26:09.18,English,,0,0,0,,Ibn Fanlin calls the Angel of Death,\N{\rChinese}伊本·法林称之为死亡天使，
+Dialogue: 0,0:26:09.42,0:26:13.54,English,,0,0,0,,who is coordinating and orchestrating this funeral.\N{\rChinese}他正在统筹并安排这场葬礼。
+Dialogue: 0,0:26:14.78,0:26:17.26,English,,0,0,0,,During the course of this funeral, there are...\N{\rChinese}在葬礼进行期间，出现了……
+Dialogue: 0,0:26:17.26,0:26:19.58,English,,0,0,0,,There are things that happen that actually disgust him.\N{\rChinese}有些事发生了，真让他觉得好吃惊。
+Dialogue: 0,0:26:19.92,0:26:22.44,English,,0,0,0,,Okay? So before we continue,\N{\rChinese}好的？那我们继续之前，
+Dialogue: 0,0:26:22.70,0:26:26.92,English,,0,0,0,,please keep in mind that Ibn Fanlin, he's an observer.\N{\rChinese}请记住伊本·法林是个观察者。
+Dialogue: 0,0:26:27.30,0:26:29.76,English,,0,0,0,,He doesn't speak the language. He doesn't know culture.\N{\rChinese}他不会说这门话，也不懂这门文化。
+Dialogue: 0,0:26:30.02,0:26:32.12,English,,0,0,0,,So he doesn't exactly know what's going on.\N{\rChinese}于是他不太清楚到底发生了什么。
+Dialogue: 0,0:26:32.38,0:26:34.42,English,,0,0,0,,Second of all, he's a Muslim.\N{\rChinese}第二点，他是穆斯林。
+Dialogue: 0,0:26:34.60,0:26:37.88,English,,0,0,0,,So he has his own cultural worldview that\N{\rChinese}于是他有自己的文化视角，且
+Dialogue: 0,0:26:37.88,0:26:41.08,English,,0,0,0,,is in conflict with the Viking worldview.\N{\rChinese}与维京视角相冲突。
+Dialogue: 0,0:26:41.54,0:26:45.52,English,,0,0,0,,The third thing is he is writing this down after the fact.\N{\rChinese}第三点是他在事后把这写下来。
+Dialogue: 0,0:26:45.52,0:26:48.40,English,,0,0,0,,And if you do that, what often happens is that\N{\rChinese}如果你这么做，往往会出现的情况是
+Dialogue: 0,0:26:48.40,0:26:50.70,English,,0,0,0,,you will misremember a lot of things.\N{\rChinese}你会记错很多事。
+Dialogue: 0,0:26:50.94,0:26:56.12,English,,0,0,0,,So please take his description with a grain of salt,\N{\rChinese}请把他的描述当作参考，略加留意，稍加怀疑。
+Dialogue: 0,0:26:56.20,0:27:00.58,English,,0,0,0,,with some skepticism. But also, please remember that we have no choice in the matter.\N{\rChinese}请记住，我们对此事没有选择。
+Dialogue: 0,0:27:00.66,0:27:05.64,English,,0,0,0,,This is the only written record of a Viking funeral from this time.\N{\rChinese}这是该时期唯一的维京葬礼书面记录。
+Dialogue: 0,0:27:05.96,0:27:08.86,English,,0,0,0,,Okay? So we have absolutely no choice in the matter.\N{\rChinese}好的？我们对此事完全没有选择。
+Dialogue: 0,0:27:09.00,0:27:11.62,English,,0,0,0,,So let's look at what he writes and then\N{\rChinese}于是我们先看他写的，然后再尝试重建维京文化。
+Dialogue: 0,0:27:11.62,0:27:14.80,English,,0,0,0,,try to reconstruct the Viking culture.\N{\rChinese}接着我们再去重建维京文化。
+Dialogue: 0,0:27:14.80,0:27:16.84,English,,0,0,0,,And understanding. Okay.\N{\rChinese}并且理解。好的。
+Dialogue: 0,0:27:16.90,0:27:20.34,English,,0,0,0,,So first thing he says is, They cut a dog in two\N{\rChinese}首先他说的是：他们把一只狗切成两半。
+Dialogue: 0,0:27:20.34,0:27:24.60,English,,0,0,0,,and threw the halves into the boat and placed the man's weapons beside him.\N{\rChinese}他们把两半扔进船里，并把人的武器放在他旁边。
+Dialogue: 0,0:27:24.90,0:27:28.10,English,,0,0,0,,Okay? So again, they are celebrating his life.\N{\rChinese}好的？所以又是他们在庆祝他的生命。
+Dialogue: 0,0:27:28.20,0:27:29.46,English,,0,0,0,,They are memorizing his life.\N{\rChinese}他们正在记住他的生涯。
+Dialogue: 0,0:27:30.46,0:27:33.62,English,,0,0,0,,They had two horses run themselves sweaty, cut them to pieces,\N{\rChinese}他们让两匹马自己跑到汗流满身，切成块状。
+Dialogue: 0,0:27:33.72,0:27:35.72,English,,0,0,0,,and threw the meat into the ship.\N{\rChinese}把肉扔进船里。
+Dialogue: 0,0:27:35.86,0:27:38.54,English,,0,0,0,,Finally, they killed two cows, a hen, and a cock and\N{\rChinese}最后，他们杀了两头牛、一只母鸡和一只公鸡，并同样处理它们。
+Dialogue: 0,0:27:38.54,0:27:40.66,English,,0,0,0,,did the same with them.\N{\rChinese}did the same with them.
+Dialogue: 0,0:27:40.78,0:27:44.16,English,,0,0,0,,Okay? So not only are they remembering him, but they're giving him supplies.\N{\rChinese}好的吗？所以他们不仅在记住他，还给他补给。
+Dialogue: 0,0:27:45.24,0:27:48.62,English,,0,0,0,,To help to sustain him as he ventures\N{\rChinese}为了帮助他在踏上旅程时维持。
+Dialogue: 0,0:27:48.62,0:27:50.22,English,,0,0,0,,and voyages into the afterworld.\N{\rChinese}并航行进入来世。
+Dialogue: 0,0:27:50.96,0:27:52.32,English,,0,0,0,,Now this is interesting.\N{\rChinese}现在这很有趣。
+Dialogue: 0,0:27:52.48,0:27:53.98,English,,0,0,0,,They ask for a human sacrifice.\N{\rChinese}他们要人祭。
+Dialogue: 0,0:27:54.42,0:27:56.62,English,,0,0,0,,And a slave girl volunteers.\N{\rChinese}一名奴女自愿。
+Dialogue: 0,0:27:57.44,0:27:59.36,English,,0,0,0,,Volunteers. Okay? Clearly she didn't volunteer.\N{\rChinese}自愿。好的吗？显然她并未自愿。
+Dialogue: 0,0:27:59.68,0:28:03.00,English,,0,0,0,,But she volunteers. And let's see what happens.\N{\rChinese}但她自愿。让我们看看会怎样。
+Dialogue: 0,0:28:03.66,0:28:07.32,English,,0,0,0,,Meanwhile, the slave girl went from one tent to the other\N{\rChinese}与此同时，奴女从一帐篷走到另一帐篷。
+Dialogue: 0,0:28:07.32,0:28:10.44,English,,0,0,0,,and had sexual intercourse with the master of each.\N{\rChinese}与各自主人发生性关系。
+Dialogue: 0,0:28:10.66,0:28:14.78,English,,0,0,0,,Every man told her, Tell your master that I have done this purely out of love.\N{\rChinese}每个男人对她说，告诉你的主人，我之所以做这件事完全是出于爱。
+Dialogue: 0,0:28:14.78,0:28:16.10,English,,0,0,0,,I have done this out of love for you.\N{\rChinese}我之所以做这件事完全是出于对你的爱。
+Dialogue: 0,0:28:16.22,0:28:18.08,English,,0,0,0,,Okay, it's not, this is incorrect.\N{\rChinese}好的，没错，这个是正确的。
+Dialogue: 0,0:28:18.26,0:28:19.70,English,,0,0,0,,It should be for him. Alright?\N{\rChinese}应该是给他的。好了？
+Dialogue: 0,0:28:19.80,0:28:21.88,English,,0,0,0,,So this is really confusing for us.\N{\rChinese}这对我们来说真的很困惑。
+Dialogue: 0,0:28:22.34,0:28:26.54,English,,0,0,0,,It's a funeral and they're having sex with the woman\N{\rChinese}这是一场葬礼，他们正与即将被祭祀的女子发生性关系。
+Dialogue: 0,0:28:26.54,0:28:31.20,English,,0,0,0,,who is about to be sacrificed. So we don't have, we have absolutely no idea what's going on.\N{\rChinese}于是我们完全不知道发生了什么。
+Dialogue: 0,0:28:31.40,0:28:34.16,English,,0,0,0,,But I'm going to make a guess.\N{\rChinese}但我打算做个猜测。
+Dialogue: 0,0:28:34.28,0:28:36.04,English,,0,0,0,,I'm going to use my imagination. Okay?\N{\rChinese}我打算用想象力。好吗？
+Dialogue: 0,0:28:36.64,0:28:39.10,English,,0,0,0,,First, it's important for us to understand who the slave girl is.\N{\rChinese}首先，我们要弄清奴隶女孩是谁。
+Dialogue: 0,0:28:39.78,0:28:41.00,English,,0,0,0,,She's not a normal person.\N{\rChinese}她不是普通人。
+Dialogue: 0,0:28:41.74,0:28:43.64,English,,0,0,0,,I believe, I would argue that\N{\rChinese}我认为，我会说
+Dialogue: 0,0:28:43.64,0:28:48.08,English,,0,0,0,,she must be the lover of the deceased chieftain.\N{\rChinese}她一定是已故领袖的情人。
+Dialogue: 0,0:28:48.32,0:28:49.64,English,,0,0,0,,Why? Okay.\N{\rChinese}为什么？
+Dialogue: 0,0:28:50.46,0:28:54.52,English,,0,0,0,,Here's the logic. Um, remember the Iliad.\N{\rChinese}这里是逻辑。嗯，记得《伊利亚特》吗？
+Dialogue: 0,0:28:54.68,0:28:56.04,English,,0,0,0,,Okay? In the Iliad,\N{\rChinese}好？在《伊利亚特》中，
+Dialogue: 0,0:28:56.16,0:29:01.08,English,,0,0,0,,the entire story begins with a problem.\N{\rChinese}整个故事从一个问题开始。
+Dialogue: 0,0:29:01.28,0:29:04.48,English,,0,0,0,,The problem is that Agamemnon, the leader of the Greeks,\N{\rChinese}问题是，阿伽门农，希腊人之首领，
+Dialogue: 0,0:29:04.62,0:29:07.28,English,,0,0,0,,he has kidnapped a girl\N{\rChinese}他绑走了一个女孩
+Dialogue: 0,0:29:07.28,0:29:11.40,English,,0,0,0,,who happens to be the daughter of a high priest, Apolo.\N{\rChinese}她恰好是高祭司阿波罗的女儿
+Dialogue: 0,0:29:12.02,0:29:14.62,English,,0,0,0,,And the king, and the priest comes to him and says,\N{\rChinese}王和祭司来找他说，
+Dialogue: 0,0:29:15.20,0:29:19.18,English,,0,0,0,,I will give you all the gold in the world, but please give me back my daughter.\N{\rChinese}我会把天下所有黄金都给你，但请把我的女儿还给我。
+Dialogue: 0,0:29:19.84,0:29:23.00,English,,0,0,0,,And all the Greeks are said, Oh, you should do that, Agamemnon.\N{\rChinese}于是众希腊人说，阿伽门农，你就这么做吧。
+Dialogue: 0,0:29:23.22,0:29:24.70,English,,0,0,0,,Please give back the daughter.\N{\rChinese}请把女儿还给我。
+Dialogue: 0,0:29:24.88,0:29:26.64,English,,0,0,0,,Okay? That's just the custom of war.\N{\rChinese}好的？这就是战争的习俗。
+Dialogue: 0,0:29:27.22,0:29:29.82,English,,0,0,0,,If a father can ransom the daughter, you have to return her.\N{\rChinese}若父亲能赎回女儿，你就得还给她。
+Dialogue: 0,0:29:30.16,0:29:31.60,English,,0,0,0,,But Agamemnon says this,\N{\rChinese}但阿伽门农说：
+Dialogue: 0,0:29:32.18,0:29:35.16,English,,0,0,0,,I'm not going to return her because I love her.\N{\rChinese}我不打算还给她，因为我爱她。
+Dialogue: 0,0:29:35.56,0:29:37.22,English,,0,0,0,,I love her more than my wife.\N{\rChinese}我比爱她还爱我的妻子。
+Dialogue: 0,0:29:39.72,0:29:43.70,English,,0,0,0,,And as a result, the high priest prays to Apolo,\N{\rChinese}于是大祭司向阿波罗祈祷，
+Dialogue: 0,0:29:43.86,0:29:46.88,English,,0,0,0,,who unleashes a deadly plague among the Greeks.\N{\rChinese}阿波罗随即在希腊人中掀起致命瘟疫。
+Dialogue: 0,0:29:47.00,0:29:50.62,English,,0,0,0,,The Greeks are dying. So finally, Achilles steps up\N{\rChinese}希腊人相继垂命。于是阿基琉斯终于上场。
+Dialogue: 0,0:29:50.62,0:29:53.92,English,,0,0,0,,and says to Agamemnon, you have to return the girl.\N{\rChinese}并对阿伽门农说，你得把女孩送回去。
+Dialogue: 0,0:29:54.84,0:29:57.60,English,,0,0,0,,All right? Now, Agamemnon has lost faith.\N{\rChinese}好的？现在，阿伽门农失去了信心。
+Dialogue: 0,0:29:57.84,0:30:01.64,English,,0,0,0,,So he says to Achilles, fine, I will return the girl\N{\rChinese}于是他对阿基琉斯说，好的，我会把女孩送回去。
+Dialogue: 0,0:30:01.64,0:30:04.38,English,,0,0,0,,that I love more than anything else in the world, but\N{\rChinese}我爱它胜过世间万物，但你必须把你的奴女送给我。
+Dialogue: 0,0:30:04.38,0:30:07.44,English,,0,0,0,,you must give me your girl, your slave girl.\N{\rChinese}于是阿基琉斯对此大为愤怒。
+Dialogue: 0,0:30:07.74,0:30:10.94,English,,0,0,0,,And Achilles gets so angry about this,\N{\rChinese}And Achilles getsso angry about this,
+Dialogue: 0,0:30:11.90,0:30:14.80,English,,0,0,0,,that he refused to fight for the Greeks,\N{\rChinese}他拒绝为希腊作战，于是特洛伊战争的灾祸就此而起。
+Dialogue: 0,0:30:14.92,0:30:17.46,English,,0,0,0,,which leads to the disaster of the Trojan War.\N{\rChinese}好了？那这又告诉我们什么？
+Dialogue: 0,0:30:18.02,0:30:19.64,English,,0,0,0,,Okay? So what is this telling us?\N{\rChinese}Okay? So what isthis telling us?
+Dialogue: 0,0:30:19.70,0:30:22.44,English,,0,0,0,,This is telling us that in this world,\N{\rChinese}这告诉我们，在这个世界里，
+Dialogue: 0,0:30:22.94,0:30:24.80,English,,0,0,0,,where these men are far from home,\N{\rChinese}在这些人离家很远的地方，
+Dialogue: 0,0:30:25.78,0:30:28.14,English,,0,0,0,,and they kidnap these slave girls,\N{\rChinese}他们绑架这些奴女。
+Dialogue: 0,0:30:28.82,0:30:30.26,English,,0,0,0,,they fall in love with them.\N{\rChinese}他们与之相恋。
+Dialogue: 0,0:30:31.10,0:30:33.26,English,,0,0,0,,And in the process of falling in love with them,\N{\rChinese}在相恋的过程中，
+Dialogue: 0,0:30:33.38,0:30:37.54,English,,0,0,0,,these great men confer status and power onto these slave girls.\N{\rChinese}这些伟人赋予奴女地位与权力。
+Dialogue: 0,0:30:37.76,0:30:40.12,English,,0,0,0,,Okay, does that make sense? All right?\N{\rChinese}好的，听得懂吗？行吗？
+Dialogue: 0,0:30:40.12,0:30:41.88,English,,0,0,0,,I know this is hard to understand, but\N{\rChinese}我知道这很难懂，但
+Dialogue: 0,0:30:41.88,0:30:45.30,English,,0,0,0,,the slave girl is not a normal girl.\N{\rChinese}奴女不是普通女孩。
+Dialogue: 0,0:30:45.54,0:30:47.58,English,,0,0,0,,She is the lover, the mistress,\N{\rChinese}她是情人，女主人，本质是已逝首领的妻子。
+Dialogue: 0,0:30:47.84,0:30:52.68,English,,0,0,0,,essentially the wife of the chieftain who's died.\N{\rChinese}好？于是又一问：她为何自愿自杀？
+Dialogue: 0,0:30:55.26,0:30:59.16,English,,0,0,0,,Okay? So another question then is, why has she volunteered to kill herself?\N{\rChinese}Okay? So another question then is, why has she volunteered to kill herself?
+Dialogue: 0,0:30:59.50,0:31:03.36,English,,0,0,0,,Okay, well, if we continue the logic, then I would argue that it's because\N{\rChinese}好的，继续推理，我认为是因为
+Dialogue: 0,0:31:03.96,0:31:07.74,English,,0,0,0,,without the man, she has no status and power in the community.\N{\rChinese}没有那个人，她在社区里就没有地位和陆权。
+Dialogue: 0,0:31:08.74,0:31:10.20,English,,0,0,0,,She'll go back to being a slave,\N{\rChinese}她会回到奴隶的身份。
+Dialogue: 0,0:31:10.96,0:31:12.70,English,,0,0,0,,and she might be ostracized.\N{\rChinese}并且她可能被放逐。
+Dialogue: 0,0:31:13.14,0:31:16.86,English,,0,0,0,,So by volunteering and sacrificing herself,\N{\rChinese}于是自愿并牺自我，
+Dialogue: 0,0:31:17.76,0:31:20.84,English,,0,0,0,,she will win status and power and\N{\rChinese}她将赢得地位与陆权。
+Dialogue: 0,0:31:20.84,0:31:25.10,English,,0,0,0,,honor for her children and for her relatives in the community.\N{\rChinese}为子孙和亲属赢得荣誉。
+Dialogue: 0,0:31:25.34,0:31:27.78,English,,0,0,0,,She will make her family part of that community.\N{\rChinese}她会把家人纳入社区。
+Dialogue: 0,0:31:28.18,0:31:29.68,English,,0,0,0,,Okay? That's why she does this.\N{\rChinese}好？这就是她这么做的原因。
+Dialogue: 0,0:31:30.52,0:31:33.96,English,,0,0,0,,Now then the question then is, okay, I don't get it now,\N{\rChinese}现在问题是，我现在不明白，
+Dialogue: 0,0:31:34.08,0:31:37.72,English,,0,0,0,,because if in fact the slave girl is a slave,\N{\rChinese}如果这位奴隶女孩确实是奴隶，
+Dialogue: 0,0:31:37.72,0:31:42.10,English,,0,0,0,,the chieftain's favorite mistress, and\N{\rChinese}酋长的宠妾
+Dialogue: 0,0:31:42.10,0:31:45.04,English,,0,0,0,,if this slave girl does\N{\rChinese}如果这位奴隶女孩真的做了
+Dialogue: 0,0:31:45.04,0:31:48.80,English,,0,0,0,,in fact love this man,\N{\rChinese}如果这位奴隶女孩真的爱上了这位男子
+Dialogue: 0,0:31:49.04,0:31:50.98,English,,0,0,0,,why is she having sex with everyone?\N{\rChinese}她为什么要和大家做事？
+Dialogue: 0,0:31:51.92,0:31:54.76,English,,0,0,0,,Okay, and the answer is,\N{\rChinese}好的，答案是，
+Dialogue: 0,0:31:56.30,0:32:02.08,English,,0,0,0,,in this world, gifts are very important.\N{\rChinese}在这个世界里，礼物非常重要。
+Dialogue: 0,0:32:02.54,0:32:05.62,English,,0,0,0,,Basically if you go to war and you win things, you have to share it with everyone.\N{\rChinese}基本上你去打仗赢得东西后，得与大家分享。
+Dialogue: 0,0:32:05.88,0:32:08.80,English,,0,0,0,,Okay? So what this deceased man is saying, now that\N{\rChinese}好的？那么这位已故去的男子现在说什么呢？
+Dialogue: 0,0:32:08.80,0:32:10.72,English,,0,0,0,,I'm dead, I give you one final gift.\N{\rChinese}我已去世，送你一份终极礼物。
+Dialogue: 0,0:32:10.96,0:32:14.18,English,,0,0,0,,And it's the greatest treasure that I can possibly give you,\N{\rChinese}这就是我能送给你的最大宝藏。
+Dialogue: 0,0:32:14.26,0:32:16.46,English,,0,0,0,,which is the woman I love.\N{\rChinese}我爱上的女人是她。
+Dialogue: 0,0:32:17.44,0:32:22.04,English,,0,0,0,,Okay? And that's why each man is forced to have sex with her.\N{\rChinese}好？所以每个男人都被迫与她做事。
+Dialogue: 0,0:32:22.12,0:32:25.96,English,,0,0,0,,And they tell this girl, when you go to your master,\N{\rChinese}他们告诉这女孩，当你去你主人的时候。
+Dialogue: 0,0:32:26.62,0:32:32.04,English,,0,0,0,,tell him, I only do this out of my love for him,\N{\rChinese}告诉他，我只是出于对他的爱才这么做，不是为了你。
+Dialogue: 0,0:32:32.20,0:32:33.96,English,,0,0,0,,not for you. I don't have sex with you.\N{\rChinese}我和你没有交往。
+Dialogue: 0,0:32:34.04,0:32:36.06,English,,0,0,0,,I do not want to have sex with you.\N{\rChinese}我也不想跟你交往。
+Dialogue: 0,0:32:36.18,0:32:39.54,English,,0,0,0,,But I will in order to celebrate him,\N{\rChinese}但我会为了庆祝他而做，
+Dialogue: 0,0:32:39.70,0:32:41.86,English,,0,0,0,,to honor him, to love him.\N{\rChinese}为了敬他，爱他。
+Dialogue: 0,0:32:44.04,0:32:57.18,English,,0,0,0,,Yes? So, June, that's a great question.\N{\rChinese}是吗？所以，六月，这是个好问题。
+Dialogue: 0,0:32:57.92,0:33:00.26,English,,0,0,0,,In their imagination, are they having sex with the dead master?\N{\rChinese}在他们的想象里，他们和已故主相交吗？
+Dialogue: 0,0:33:01.62,0:33:05.70,English,,0,0,0,,And, yes. You can make that argument, okay?\N{\rChinese}是的。你可以这么说，行吗？
+Dialogue: 0,0:33:06.18,0:33:07.42,English,,0,0,0,,Because remember, in this world,\N{\rChinese}因为记得，在这个世界里…
+Dialogue: 0,0:33:08.86,0:33:10.44,English,,0,0,0,,homosexuality is not, it doesn't exist.\N{\rChinese}同性恋不是，存在的。
+Dialogue: 0,0:33:10.90,0:33:12.94,English,,0,0,0,,It's very, it's okay for men to have sex with each other.\N{\rChinese}很好，男人之间可以做爱。
+Dialogue: 0,0:33:13.44,0:33:18.12,English,,0,0,0,,It's okay for men to have sex with, together with one woman.\N{\rChinese}男人之间可以做爱，也可以和一个女人一起做爱。
+Dialogue: 0,0:33:18.24,0:33:21.38,English,,0,0,0,,Okay? And that's how they create intimacy and bonding.\N{\rChinese}好的？这就是他们创造亲密与联结的方式。
+Dialogue: 0,0:33:21.56,0:33:23.06,English,,0,0,0,,Because remember, when you're out in war,\N{\rChinese}因为记得，当你在战场上，
+Dialogue: 0,0:33:23.78,0:33:25.96,English,,0,0,0,,you have to be able to make the ultimate sacrifice.\N{\rChinese}你必须能作出终极牺牲。
+Dialogue: 0,0:33:26.60,0:33:30.00,English,,0,0,0,,So you have to bond with your fellow soldiers.\N{\rChinese}于是你要与战友结缘。
+Dialogue: 0,0:33:30.26,0:33:32.64,English,,0,0,0,,And the best way to bond is through sex.\N{\rChinese}最好的结缘方式就是交配。
+Dialogue: 0,0:33:33.34,0:33:37.98,English,,0,0,0,,Okay? Sex with each other, but also sex with other women.\N{\rChinese}好？互相交配，也可与他人交配。
+Dialogue: 0,0:33:38.12,0:33:40.54,English,,0,0,0,,Okay? So, so, yeah.\N{\rChinese}好的？所以，嗯，没错。
+Dialogue: 0,0:33:40.80,0:33:42.22,English,,0,0,0,,So you can make that argument, okay?\N{\rChinese}这样你就能提出那个论点，行吗？
+Dialogue: 0,0:33:42.56,0:33:44.40,English,,0,0,0,,Again, I don't know what goes on in their heads.\N{\rChinese}再说一次，我不知道他们脑子里想的是什么。
+Dialogue: 0,0:33:44.92,0:33:49.02,English,,0,0,0,,But if you extend the logic, yes, then they think they're having sex with the master.\N{\rChinese}但如果你把逻辑延伸，没错，那他们就认为自己在和主人做爱。
+Dialogue: 0,0:33:49.18,0:33:52.42,English,,0,0,0,,For the girl. Alright?\N{\rChinese}给女孩的。好吧？
+Dialogue: 0,0:33:52.54,0:33:56.22,English,,0,0,0,,And that's why they say, I'm already doing this out of my love for,\N{\rChinese}这就是他们说的原因，我已经因为爱而这么做了。
+Dialogue: 0,0:33:56.84,0:33:58.80,English,,0,0,0,,for him. Not for you, but for him.\N{\rChinese}为他准备的。不是为你，而是为他。
+Dialogue: 0,0:34:00.66,0:34:05.22,English,,0,0,0,,Okay? Um, so let's continue, okay?\N{\rChinese}好吧？嗯，接着说，行吗？
+Dialogue: 0,0:34:06.34,0:34:09.24,English,,0,0,0,,In the afternoon, they moved the slave girl to something that\N{\rChinese}下午，他们把奴女移到……
+Dialogue: 0,0:34:09.24,0:34:13.62,English,,0,0,0,,looked like a doorframe, where she was lifted on the palms of the man three times.\N{\rChinese}看起来像门框，她被那男人的手掌抬起三次。
+Dialogue: 0,0:34:13.80,0:34:16.86,English,,0,0,0,,So the doorframe represents access to the afterworld.\N{\rChinese}于是门框象征通往来世的通道。
+Dialogue: 0,0:34:16.94,0:34:18.90,English,,0,0,0,,Okay? So she's being sacrificed now.\N{\rChinese}好了？现在她正被祭献。
+Dialogue: 0,0:34:19.44,0:34:21.96,English,,0,0,0,,The first time, she saw her father and mother.\N{\rChinese}第一次，她看见了父亲和母亲。
+Dialogue: 0,0:34:22.18,0:34:24.46,English,,0,0,0,,The second time, she saw all her deceased relatives.\N{\rChinese}第二次，她看见了所有已故去的亲属。
+Dialogue: 0,0:34:24.78,0:34:27.58,English,,0,0,0,,And the third time, she saw her master in paradise.\N{\rChinese}第三次，她看见了她的主人在天堂。
+Dialogue: 0,0:34:28.26,0:34:31.50,English,,0,0,0,,Okay? So what this is, is she,\N{\rChinese}好了？这就是她，
+Dialogue: 0,0:34:31.58,0:34:35.38,English,,0,0,0,,the slave girl, who is not, who is not part of the community.\N{\rChinese}奴隶女孩，未曾成为社区的一员。
+Dialogue: 0,0:34:35.60,0:34:37.72,English,,0,0,0,,What she's really doing is implanting\N{\rChinese}她真正做的事是植入。
+Dialogue: 0,0:34:37.72,0:34:42.92,English,,0,0,0,,her personal memory into the community as a whole.\N{\rChinese}把她的个人记忆融入整个社区。
+Dialogue: 0,0:34:43.08,0:34:45.42,English,,0,0,0,,She's making her family part of the community now.\N{\rChinese}她把家族纳入社区。
+Dialogue: 0,0:34:45.92,0:34:47.70,English,,0,0,0,,Right? She's talking about her past.\N{\rChinese}对吧？她在谈她的过去。
+Dialogue: 0,0:34:47.98,0:34:51.02,English,,0,0,0,,And everyone, again, this is a community event, everyone's observing.\N{\rChinese}又一次，大家都在场合，人人都在观赏。
+Dialogue: 0,0:34:51.34,0:34:52.64,English,,0,0,0,,Everyone can hear her.\N{\rChinese}人人都能听见她的声音。
+Dialogue: 0,0:34:53.42,0:34:55.56,English,,0,0,0,,Alright? So they know that after she dies,\N{\rChinese}好了？所以他们知道她死后，
+Dialogue: 0,0:34:55.70,0:35:00.02,English,,0,0,0,,they must honor her memory by honoring her relatives and family.\N{\rChinese}他们必须以祭祀亲属和家族来纪念她。
+Dialogue: 0,0:35:00.16,0:35:03.70,English,,0,0,0,,Okay? There it was green\N{\rChinese}好了？那时是绿色的。
+Dialogue: 0,0:35:03.70,0:35:06.72,English,,0,0,0,,and beautiful, and together with him, she saw men and young people.\N{\rChinese}又美丽，和他一起，她看见了男人和年轻人。
+Dialogue: 0,0:35:06.82,0:35:09.46,English,,0,0,0,,She saw her master beckon for her, and\N{\rChinese}她看见主人招手给她，随后被送来一只鸡，她把鸡宰了，随后把它投进船里。
+Dialogue: 0,0:35:09.46,0:35:12.66,English,,0,0,0,,she was brought a chicken, which she, which she decasipated,\N{\rChinese}她看见主人招手给她，随后被送来一只鸡，她宰了鸡，随后把它投进船里。
+Dialogue: 0,0:35:12.82,0:35:14.48,English,,0,0,0,,and which was then thrown on the boat.\N{\rChinese}她看见主人招手给她，随后被送来一只鸡，她宰了鸡，随后把它投进船里。
+Dialogue: 0,0:35:14.56,0:35:17.20,English,,0,0,0,,Okay? Again, this is some, some strange ritual that\N{\rChinese}好的？这又是某种奇怪的仪式，我不明白它的意义，但一定有其含义。
+Dialogue: 0,0:35:17.20,0:35:20.38,English,,0,0,0,,I have no idea what it means, but it must mean something.\N{\rChinese}好的？他们常做的事是重现神话。
+Dialogue: 0,0:35:20.50,0:35:24.64,English,,0,0,0,,Okay? Often what they do is, they reenact mythologies.\N{\rChinese}好的？
+Dialogue: 0,0:35:24.78,0:35:26.40,English,,0,0,0,,Okay? So there must have been a famous story\N{\rChinese}好的？那一定有一段著名的故事
+Dialogue: 0,0:35:26.98,0:35:29.72,English,,0,0,0,,where a woman decapitates a chicken for some reason.\N{\rChinese}在那段故事里，一位女子因某种缘由宰鸡头
+Dialogue: 0,0:35:29.82,0:35:32.70,English,,0,0,0,,Okay? And she's doing that. There are reliving mythologies.\N{\rChinese}好的？她正是这么做的，正是重现神话
+Dialogue: 0,0:35:33.40,0:35:36.94,English,,0,0,0,,Alright, let's continue. Thereafter, the slave girl was taken away to the ship.\N{\rChinese}好的，继续。随后奴隶女孩被送上船。
+Dialogue: 0,0:35:37.12,0:35:40.40,English,,0,0,0,,She removed her bracelets and gave them to the old woman.\N{\rChinese}她把手镯取下，递给老女人。
+Dialogue: 0,0:35:40.60,0:35:43.28,English,,0,0,0,,Okay? She took what was most valuable to her and\N{\rChinese}好的？她拿走了最珍贵的东西。
+Dialogue: 0,0:35:43.28,0:35:46.22,English,,0,0,0,,gave her to the old woman who was the angel of death, the funeral director.\N{\rChinese}把她交给了那位负责葬礼的老女人，她是死亡的天使。
+Dialogue: 0,0:35:46.50,0:35:49.44,English,,0,0,0,,So what she's doing is giving thanks to the old woman.\N{\rChinese}于是她所做的就是向老女人致谢。
+Dialogue: 0,0:35:49.94,0:35:53.72,English,,0,0,0,,Right? She's paying, she's giving her a gift, she's bribing her\N{\rChinese}对吧，她在付费，送礼，给她行贿。
+Dialogue: 0,0:35:54.34,0:35:56.52,English,,0,0,0,,for the honor of being sacrificed.\N{\rChinese}为被祭祀的荣誉。
+Dialogue: 0,0:35:57.24,0:35:59.98,English,,0,0,0,,Thereafter, she removed her anklets and gave them to the old woman.\N{\rChinese}随后，她把脚环取下，递给老女人。
+Dialogue: 0,0:35:59.98,0:36:03.32,English,,0,0,0,,She gave them to the old man's two daughters. Then they took her abroad the ship,\N{\rChinese}她把脚环递给老人的两位女儿。随后他们把她送上船。
+Dialogue: 0,0:36:03.50,0:36:07.30,English,,0,0,0,,but they did not allow her to enter the tent where the dead chieftain lay.\N{\rChinese}但他们没有让她进入埋着已故领袖的帐篷。
+Dialogue: 0,0:36:07.82,0:36:10.32,English,,0,0,0,,Okay? She's about to be sacrificed.\N{\rChinese}好了？她即将被祭祀。
+Dialogue: 0,0:36:10.86,0:36:15.16,English,,0,0,0,,The girl received several vessels of intoxicating drinks and she sang.\N{\rChinese}女孩接过几壶酿饮，便歌唱起来。
+Dialogue: 0,0:36:15.54,0:36:19.02,English,,0,0,0,,These intoxicating drinks are often psychedelics.\N{\rChinese}这些酿饮常含有迷幻剂。
+Dialogue: 0,0:36:19.04,0:36:20.32,English,,0,0,0,,Okay? Alright?\N{\rChinese}好了？行吗？
+Dialogue: 0,0:36:20.74,0:36:24.88,English,,0,0,0,,So, these psychedelics are meant to enhance her visuals.\N{\rChinese}这些迷幻剂旨在增强她的视觉体验。
+Dialogue: 0,0:36:25.42,0:36:26.68,English,,0,0,0,,Okay? Now she's singing.\N{\rChinese}好了？她现在在唱歌。
+Dialogue: 0,0:36:27.64,0:36:29.84,English,,0,0,0,,Before the old woman urged her to enter the tent.\N{\rChinese}在老妇人催她进入帐篷之前。
+Dialogue: 0,0:36:29.98,0:36:33.62,English,,0,0,0,,I saw that the girl did not know what she was doing, notes Ibn Thalin.\N{\rChinese}我看到女孩不知道自己在做什么，伊本·塔林记下。
+Dialogue: 0,0:36:34.00,0:36:37.56,English,,0,0,0,,Okay? So, Ibn Thalin is completely confused by this.\N{\rChinese}好的？于是伊本·塔林完全被这件事搞糊涂。
+Dialogue: 0,0:36:37.80,0:36:42.04,English,,0,0,0,,But what we need to understand is, this is highly choreographed.\N{\rChinese}但我们需要理解的是，这一切都高度排练。
+Dialogue: 0,0:36:42.04,0:36:44.40,English,,0,0,0,,Right? Every person knows\N{\rChinese}对吧？每个人都知道。
+Dialogue: 0,0:36:44.98,0:36:46.66,English,,0,0,0,,what to do in this process.\N{\rChinese}在此过程中该做什么。
+Dialogue: 0,0:36:46.88,0:36:49.54,English,,0,0,0,,It's a ritual. Meaning that there's a script in place.\N{\rChinese}这是一种仪式，意味着有一套脚本。
+Dialogue: 0,0:36:49.76,0:36:52.72,English,,0,0,0,,And meaning that the chieftain and the slave girl and\N{\rChinese}而且意味着酋长、奴隶女孩和
+Dialogue: 0,0:36:52.72,0:36:55.46,English,,0,0,0,,the old woman all discussed this beforehand.\N{\rChinese}老妇人先讨论过此事。
+Dialogue: 0,0:36:56.10,0:36:59.82,English,,0,0,0,,Okay? That's the only way this makes sense.\N{\rChinese}好吧？这才是唯一能让它通顺的方式。
+Dialogue: 0,0:37:00.62,0:37:03.36,English,,0,0,0,,Then the girl was pulled into the tent by the old woman and\N{\rChinese}随后老妇人把女孩拉进帐篷。
+Dialogue: 0,0:37:03.36,0:37:07.64,English,,0,0,0,,the men started to beat on their shields with sticks so her screams could not be heard.\N{\rChinese}于是他们用棍子敲击盾牌，以掩盖她的哭声。
+Dialogue: 0,0:37:07.90,0:37:09.44,English,,0,0,0,,Okay? So the tent is being surrounded\N{\rChinese}好吧？于是帐篷被包围了
+Dialogue: 0,0:37:10.44,0:37:12.10,English,,0,0,0,,by warriors with shields.\N{\rChinese}由持盾牌的战士们
+Dialogue: 0,0:37:12.28,0:37:17.44,English,,0,0,0,,Okay? Six men entered the tent to have intercourse with the girl after\N{\rChinese}好吧？六个人进帐篷与女孩交合后
+Dialogue: 0,0:37:17.44,0:37:19.94,English,,0,0,0,,which they laid her onto her master's bed beside him.\N{\rChinese}随后他们把她放在主人床边，跟他一起睡
+Dialogue: 0,0:37:20.14,0:37:23.26,English,,0,0,0,,Alright? So six men basically rape her together.\N{\rChinese}好吧？六个人基本上合并一起抓她。
+Dialogue: 0,0:37:23.96,0:37:25.60,English,,0,0,0,,And what this is doing is\N{\rChinese}然后这件事正在做什么？
+Dialogue: 0,0:37:26.30,0:37:29.96,English,,0,0,0,,reenacting the memory of being with the chieftain.\N{\rChinese}重现与酋长在一起的记忆。
+Dialogue: 0,0:37:29.98,0:37:33.64,English,,0,0,0,,Right? Going out on raids, sacking a city, and then raping the woman together.\N{\rChinese}对吧？出征，掠城，随后一起抓女人。
+Dialogue: 0,0:37:33.94,0:37:35.28,English,,0,0,0,,Guys, I know this is terrible.\N{\rChinese}伙计们，我知道这很糟糕。
+Dialogue: 0,0:37:35.42,0:37:37.10,English,,0,0,0,,I know this is terrible. But again,\N{\rChinese}我知道这很糟糕。
+Dialogue: 0,0:37:37.34,0:37:41.00,English,,0,0,0,,we have to try to understand their worldview and their practice.\N{\rChinese}我们得先去理解他们的世界观和实践。
+Dialogue: 0,0:37:45.18,0:37:48.28,English,,0,0,0,,The two men grabbed her hands and two men her wrists.\N{\rChinese}两个人抓住她的手，另外两个人抓住她的手腕。
+Dialogue: 0,0:37:48.42,0:37:51.44,English,,0,0,0,,The angel of death looped a rope around her neck and while\N{\rChinese}天使环绕她颈，随后两人拉绳；老妇在此时用刀刺她肋间。
+Dialogue: 0,0:37:51.44,0:37:55.08,English,,0,0,0,,two men pulled the rope, the old woman stabbed the girl between her ribs with a knife.\N{\rChinese}两人拉绳，老妇则在此时用刀刺她肋间。
+Dialogue: 0,0:37:55.16,0:37:58.16,English,,0,0,0,,Okay? She's being sacrificed by the angel of death.\N{\rChinese}好的？她正被死亡天使祭献。
+Dialogue: 0,0:37:58.22,0:38:02.08,English,,0,0,0,,And that's how she dies. Alright?\N{\rChinese}那就是她的死亡方式。好吗？
+Dialogue: 0,0:38:07.22,0:38:11.88,English,,0,0,0,,Thereafter, the closest male relative of the dead chieftain walks backwards naked,\N{\rChinese}随后，已故去酋长最近的男性亲属赤身倒退行走。
+Dialogue: 0,0:38:12.14,0:38:15.84,English,,0,0,0,,covering his anus with one hand on a piece of burning wood with the other.\N{\rChinese}用一只手覆盖他的肛，另一只手握着一块燃烧的木块。
+Dialogue: 0,0:38:15.96,0:38:17.98,English,,0,0,0,,Again, this must come from a certain mythology.\N{\rChinese}再次，这一定来自某种神话。
+Dialogue: 0,0:38:18.46,0:38:22.28,English,,0,0,0,,Okay? That's the only way we can explain this practice.\N{\rChinese}好的？这才是我们能解释这种做法的唯一方式。
+Dialogue: 0,0:38:22.58,0:38:24.02,English,,0,0,0,,Why is he going around naked?\N{\rChinese}他为什么赤身走动？
+Dialogue: 0,0:38:26.54,0:38:30.76,English,,0,0,0,,He ships a flame after which other people add wood to the fire.\N{\rChinese}他把火点燃后，其他人再添木柴。
+Dialogue: 0,0:38:31.94,0:38:35.34,English,,0,0,0,,Okay? And that's how he dies.\N{\rChinese}好吧？这就是他死去的方式。
+Dialogue: 0,0:38:36.88,0:38:38.74,English,,0,0,0,,Alright? Again, this sounds gruesome.\N{\rChinese}好的？再说一次，这听起来很血腥。
+Dialogue: 0,0:38:38.84,0:38:42.18,English,,0,0,0,,What they're doing is they're celebrating the man\N{\rChinese}他们正在做的就是庆祝那个人，
+Dialogue: 0,0:38:42.54,0:38:45.68,English,,0,0,0,,and implanting his memory into the community.\N{\rChinese}并把他的记忆植入社区。
+Dialogue: 0,0:38:45.94,0:38:48.30,English,,0,0,0,,Because everyone participates in his funeral,\N{\rChinese}因为大家都参与他的葬礼，
+Dialogue: 0,0:38:48.56,0:38:50.60,English,,0,0,0,,the man, his memory,\N{\rChinese}那个人，他的记忆，
+Dialogue: 0,0:38:50.68,0:38:54.18,English,,0,0,0,,is now part of the community's collective consciousness.\N{\rChinese}现在已成为社区集体意识的一部分。
+Dialogue: 0,0:38:55.32,0:38:58.52,English,,0,0,0,,Okay? He has become a story within the community and\N{\rChinese}好的？他已成为社区中的故事，随后会因他的成就永记住。
+Dialogue: 0,0:38:58.52,0:39:00.78,English,,0,0,0,,therefore will be remembered forever for his achievements.\N{\rChinese}好的？这有道理吗，大家？
+Dialogue: 0,0:39:00.94,0:39:05.22,English,,0,0,0,,Okay? Does that make sense, guys? Alright?\N{\rChinese}好的？
+Dialogue: 0,0:39:05.32,0:39:09.94,English,,0,0,0,,So, this is again a depiction of the funeral.\N{\rChinese}于是，这又是葬礼的描绘。
+Dialogue: 0,0:39:11.36,0:39:15.84,English,,0,0,0,,And again, the Greeks and the Romans had equivalents.\N{\rChinese}同样，希腊人和罗马人也有类似的仪式。
+Dialogue: 0,0:39:16.62,0:39:20.32,English,,0,0,0,,So that, and we'll discuss these equivalents so you better understand what's going on.\N{\rChinese}于是，我们来讨论这些等价之处，方便你更好地把握其中的要义。
+Dialogue: 0,0:39:22.10,0:39:24.64,English,,0,0,0,,For the Romans, that's something called a triumph.\N{\rChinese}对罗马人来说，那就是所谓的凯旋。
+Dialogue: 0,0:39:25.06,0:39:26.80,English,,0,0,0,,A triumph was the highlight\N{\rChinese}凯旋是罗马历史的高潮
+Dialogue: 0,0:39:27.70,0:39:29.36,English,,0,0,0,,of Roman history.\N{\rChinese}罗马历史的
+Dialogue: 0,0:39:29.38,0:39:31.24,English,,0,0,0,,In the\N{\rChinese}在
+Dialogue: 0,0:39:31.24,0:39:38.18,English,,0,0,0,,Roman Empire,\N{\rChinese}罗马帝国，
+Dialogue: 0,0:39:38.18,0:39:40.92,English,,0,0,0,,you could flavor one\N{\rChinese}你可以给一个加点味道
+Dialogue: 0,0:39:40.92,0:39:44.48,English,,0,0,0,,flavor flavor territory it would it\N{\rChinese}给领土加点味道，它就会是它
+Dialogue: 0,0:39:44.48,0:39:48.00,English,,0,0,0,,would parade uh treasures like elephants or\N{\rChinese}它会展示像大象或宝藏的财富
+Dialogue: 0,0:39:48.00,0:39:50.44,English,,0,0,0,,gold captured from the conquered people\N{\rChinese}以及从被征服的人中夺得的黄金
+Dialogue: 0,0:39:50.44,0:39:54.10,English,,0,0,0,,it will also parade slaves um\N{\rChinese}它还会展示奴隶以及被俘获的人像通常的国王
+Dialogue: 0,0:39:54.10,0:39:57.40,English,,0,0,0,,and captured people like usually kings\N{\rChinese}and captured people like usually kings
+Dialogue: 0,0:39:57.40,0:39:58.48,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:39:58.48,0:40:01.18,English,,0,0,0,,it would feature the soldiers as well as a triumphant\N{\rChinese}它会展示士兵以及一场胜利
+Dialogue: 0,0:40:01.18,0:40:05.32,English,,0,0,0,,general okay what's important for us remember is at the end\N{\rChinese}总之，重要的是记住：在这场游行结束时
+Dialogue: 0,0:40:05.32,0:40:08.22,English,,0,0,0,,of this parade they go to the temple of jupiter their god\N{\rChinese}他们会前往朱比特神庙，向他们的神祈祷
+Dialogue: 0,0:40:08.22,0:40:11.16,English,,0,0,0,,and they will sacrifice these slaves\N{\rChinese}他们会把这些奴隶献祭给朱比特神
+Dialogue: 0,0:40:11.16,0:40:17.00,English,,0,0,0,,and these captured kings to the god to the god jupiter okay\N{\rChinese}以及这些被俘获的国王献祭给朱比特神
+Dialogue: 0,0:40:17.00,0:40:18.84,English,,0,0,0,,so it's very similar to the funeral guys\N{\rChinese}这与葬礼非常相似
+Dialogue: 0,0:40:18.84,0:40:24.54,English,,0,0,0,,um the\N{\rChinese}嗯，
+Dialogue: 0,0:40:24.54,0:40:27.64,English,,0,0,0,,greeks on the other hand had theater\N{\rChinese}希腊人另一方面有戏剧
+Dialogue: 0,0:40:27.64,0:40:31.04,English,,0,0,0,,to build the community's collective consciousness\N{\rChinese}建造社区的集体意识
+Dialogue: 0,0:40:31.04,0:40:35.76,English,,0,0,0,,all right the community all participated in the theater\N{\rChinese}全部好，社区里所有人都参与了戏剧
+Dialogue: 0,0:40:35.76,0:40:39.30,English,,0,0,0,,so there are no professional actors it was it was community members\N{\rChinese}于是就没有专业演员，都是社区成员参与的戏剧
+Dialogue: 0,0:40:39.30,0:40:42.12,English,,0,0,0,,that participated in the theater\N{\rChinese}于是就有社区成员参与的戏剧
+Dialogue: 0,0:40:42.12,0:40:43.04,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:40:43.04,0:40:48.22,English,,0,0,0,,the um the community the spectators would judge\N{\rChinese}嗯，社区的观众会评判
+Dialogue: 0,0:40:48.22,0:40:50.44,English,,0,0,0,,which theater was the best it was the\N{\rChinese}哪一场戏剧最好
+Dialogue: 0,0:40:50.44,0:40:55.60,English,,0,0,0,,highlight of the community to pick the best playwright for\N{\rChinese}社区挑选最佳剧作家的亮点
+Dialogue: 0,0:40:55.60,0:40:57.12,English,,0,0,0,,that year it was the greatest honor it's like\N{\rChinese}那一年这是一大荣光，像是获奖一样
+Dialogue: 0,0:40:57.12,0:40:58.76,English,,0,0,0,,winning the nobel prize um\N{\rChinese}就像拿了诺贝尔奖一样
+Dialogue: 0,0:40:58.76,0:41:02.12,English,,0,0,0,,basically okay um\N{\rChinese}基本上，嗯
+Dialogue: 0,0:41:02.12,0:41:07.16,English,,0,0,0,,the theater was it's very different\N{\rChinese}剧场很不一样
+Dialogue: 0,0:41:07.16,0:41:09.46,English,,0,0,0,,they didn't practice any human sacrifice they didn't parade\N{\rChinese}他们没有进行任何人祭，也没有游行
+Dialogue: 0,0:41:09.46,0:41:12.50,English,,0,0,0,,slaves around what they did was often was\N{\rChinese}奴隶们所做的事往往是这样
+Dialogue: 0,0:41:12.50,0:41:17.36,English,,0,0,0,,write about war from the perspective of the enemy okay\N{\rChinese}写关于战争的事，从敌人的视角来写
+Dialogue: 0,0:41:17.36,0:41:21.70,English,,0,0,0,,so eubrates wrote something called uh trojan woman\N{\rChinese}于是欧布拉提斯写了一篇叫做“特洛伊妇女”的文章
+Dialogue: 0,0:41:21.70,0:41:26.58,English,,0,0,0,,where he wrote about uh the the trojan woman\N{\rChinese}他写了关于特洛伊妇女的事
+Dialogue: 0,0:41:26.58,0:41:29.92,English,,0,0,0,,who were raped and captured and kidnapped by the greeks and\N{\rChinese}她们被希腊人掳掠、俘获、绑架
+Dialogue: 0,0:41:29.92,0:41:33.50,English,,0,0,0,,israelis wrote about the persian uh laws\N{\rChinese}以色列人写了关于波斯人法律的事
+Dialogue: 0,0:41:34.44,0:41:35.80,English,,0,0,0,,okay and\N{\rChinese}好的，和
+Dialogue: 0,0:41:35.80,0:41:41.34,English,,0,0,0,,that's why the greek civilization is considered the most imaginative in european history\N{\rChinese}这就是希腊文明被认为是欧洲历史上最具想象力的原因
+Dialogue: 0,0:41:41.34,0:41:42.14,English,,0,0,0,,because because\N{\rChinese}因为，因
+Dialogue: 0,0:41:42.14,0:41:47.66,English,,0,0,0,,it practices empathy it changes perspectives it's willing to celebrate everyone okay\N{\rChinese}它实践同理，改变视角，愿意庆祝每个人，好吧
+Dialogue: 0,0:41:47.66,0:41:49.02,English,,0,0,0,,so that's that's the greek world\N{\rChinese}于是就是希腊世界
+Dialogue: 0,0:41:49.02,0:41:54.16,English,,0,0,0,,okay all right let's talk\N{\rChinese}好了，开始说吧
+Dialogue: 0,0:41:54.16,0:41:58.16,English,,0,0,0,,about a little about north mythology remember what i said was\N{\rChinese}关于北欧神话的简述，记得我说过的那点吗？
+Dialogue: 0,0:41:58.16,0:42:01.74,English,,0,0,0,,that north mythology its purpose is to express\N{\rChinese}北欧神话的目的就是表达
+Dialogue: 0,0:42:01.74,0:42:05.90,English,,0,0,0,,and promote three values courage loyalty\N{\rChinese}并推广三大价值：勇气、忠诚
+Dialogue: 0,0:42:05.90,0:42:08.26,English,,0,0,0,,and resourcefulness right so\N{\rChinese}并且机智，好的，接着说。
+Dialogue: 0,0:42:08.26,0:42:11.18,English,,0,0,0,,the example of courage is odin at the beginning of the greek civilization the greek civilization was called the greek civilization and\N{\rChinese}勇气的典范是奥丁；在希腊文明之初，希腊文明被称作希腊文明，且…
+Dialogue: 0,0:42:11.18,0:42:15.58,English,,0,0,0,,one of the greek centers is one of europe's\N{\rChinese}希腊的中心之一是欧洲的中心之一。
+Dialogue: 0,0:42:15.58,0:42:18.22,English,,0,0,0,,centers one of europe's centers is one of europe's centers one of europe's\N{\rChinese}欧洲的中心之一是欧洲的中心之一
+Dialogue: 0,0:42:18.22,0:42:23.12,English,,0,0,0,,centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers\N{\rChinese}欧洲的中心之一是欧洲的中心之一
+Dialogue: 0,0:42:23.12,0:42:25.88,English,,0,0,0,,one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one\N{\rChinese}欧洲的中心之一是欧洲的中心之一
+Dialogue: 0,0:42:25.88,0:42:31.18,English,,0,0,0,,of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of europe's centers one of\N{\rChinese}欧洲中心之一，欧洲中心之一，欧洲中心之一，欧洲中心之一，欧洲中心之一，欧洲中心之一，欧洲中心之一，欧洲中心之一，欧洲中心之一，欧洲中心之一，欧洲中心之一，欧洲中心之一，欧洲中心之一，欧洲中心之一
+Dialogue: 0,0:42:31.94,0:42:34.40,English,,0,0,0,,europe's centers one of europe's centers one\N{\rChinese}欧洲的中心之一
+Dialogue: 0,0:42:34.40,0:42:39.72,English,,0,0,0,,of europe's centers one of europe's centers one of\N{\rChinese}欧洲的中心之一
+Dialogue: 0,0:42:41.16,0:42:43.14,English,,0,0,0,,his eye, gave it to the god, and\N{\rChinese}他的眼睛，给它交给神，且
+Dialogue: 0,0:42:43.14,0:42:46.30,English,,0,0,0,,drank from the well of cosmic knowledge.\N{\rChinese}喝下宇宙之井的知识。
+Dialogue: 0,0:42:46.66,0:42:49.96,English,,0,0,0,,But once he drank from the well and learned cosmic knowledge,\N{\rChinese}但一旦他喝下井水并获得宇宙知识，
+Dialogue: 0,0:42:50.16,0:42:52.48,English,,0,0,0,,he became more curious about the universe.\N{\rChinese}他对宇宙产生了更深的好奇。
+Dialogue: 0,0:42:52.80,0:42:55.30,English,,0,0,0,,And so he started to venture into more unknowns.\N{\rChinese}于是他开始探索更多未知。
+Dialogue: 0,0:42:55.66,0:42:58.38,English,,0,0,0,,Eventually he went into the realm of death.\N{\rChinese}最终他进入了死亡的境界。
+Dialogue: 0,0:42:58.98,0:43:02.16,English,,0,0,0,,And no matter how hard he tried, he could not penetrate this world.\N{\rChinese}无论他多么努力，都无法穿透这个世界。
+Dialogue: 0,0:43:02.34,0:43:04.82,English,,0,0,0,,There were too many winds, there were too many barriers.\N{\rChinese}风太多，障碍也太多。
+Dialogue: 0,0:43:05.56,0:43:08.98,English,,0,0,0,,So he killed himself, right?\N{\rChinese}于是他自杀了，对吗？
+Dialogue: 0,0:43:09.06,0:43:11.94,English,,0,0,0,,Because that's what you do. If you want to enter a death world, you have to kill yourself.\N{\rChinese}因为这就是你要做的事。如果你想进入死亡之境，你就得自杀。
+Dialogue: 0,0:43:12.16,0:43:14.58,English,,0,0,0,,So he killed himself and was dead for a long time.\N{\rChinese}于是他自杀，随后长时间沉睡。
+Dialogue: 0,0:43:14.78,0:43:18.80,English,,0,0,0,,But in his death, he was able to see all the secrets of the universe.\N{\rChinese}在那段死亡中，他得以洞察宇宙万秘。
+Dialogue: 0,0:43:19.26,0:43:21.30,English,,0,0,0,,And then afterwards he resurrected himself.\N{\rChinese}然后他又复活了。
+Dialogue: 0,0:43:21.78,0:43:26.02,English,,0,0,0,,So Odin personifies the idea of courage in the Viking world.\N{\rChinese}于是奥丁在维京世界里化身为勇气的化身。
+Dialogue: 0,0:43:26.34,0:43:28.82,English,,0,0,0,,To seek the unknown relentlessly.\N{\rChinese}不懈追寻未知。
+Dialogue: 0,0:43:29.50,0:43:32.50,English,,0,0,0,,Even if it costs you your life and your eye.\N{\rChinese}即使付出生命与双眼。
+Dialogue: 0,0:43:35.70,0:43:37.20,English,,0,0,0,,The idea of loyalty.\N{\rChinese}忠诚之意。
+Dialogue: 0,0:43:37.90,0:43:40.18,English,,0,0,0,,So Um,\N{\rChinese}嗯，
+Dialogue: 0,0:43:40.48,0:43:45.18,English,,0,0,0,,in the Norse world there'd be a Ragnarok.\N{\rChinese}在北欧世界里会有一次罗格纳罗克。
+Dialogue: 0,0:43:45.60,0:43:48.90,English,,0,0,0,,And there's a wolf, Fenris,\N{\rChinese}还有一只狼，芬里斯。
+Dialogue: 0,0:43:49.12,0:43:52.08,English,,0,0,0,,who will um,\N{\rChinese}谁将会，
+Dialogue: 0,0:43:52.36,0:43:54.74,English,,0,0,0,,foreshadow the arrival of Ragnarok.\N{\rChinese}预示罗格纳罗克的到来。
+Dialogue: 0,0:43:54.78,0:43:58.56,English,,0,0,0,,He's very dangerous. But when he's born, he's just a little pup.\N{\rChinese}他很危险。但刚出生时只是小狗。
+Dialogue: 0,0:43:58.84,0:44:00.84,English,,0,0,0,,So the Essar, the gods,\N{\rChinese}于是埃萨尔，众神，
+Dialogue: 0,0:44:01.10,0:44:05.98,English,,0,0,0,,um basically decide to adopt him as a pet.\N{\rChinese}嗯基本决定把他当宠物养。
+Dialogue: 0,0:44:06.20,0:44:09.38,English,,0,0,0,,Okay? They think he's harmless. And his master is Tyr, who is the king.\N{\rChinese}好的？他们认为他无害。主宰是特尔，国王。
+Dialogue: 0,0:44:09.38,0:44:11.22,English,,0,0,0,,the god of war among the Aesir.\N{\rChinese}战神，阿斯神族中的战争之神。
+Dialogue: 0,0:44:13.16,0:44:16.56,English,,0,0,0,,But very quickly, Fenris grows to be huge.\N{\rChinese}很快，芬里斯长大成巨。
+Dialogue: 0,0:44:16.80,0:44:18.44,English,,0,0,0,,And now the gods see him as a menace.\N{\rChinese}于是众神把他视为威胁。
+Dialogue: 0,0:44:18.74,0:44:19.96,English,,0,0,0,,So they try to tie him up.\N{\rChinese}于是他们试着把他绑住。
+Dialogue: 0,0:44:20.22,0:44:21.74,English,,0,0,0,,But no matter how hard they try,\N{\rChinese}不管他们多努力，
+Dialogue: 0,0:44:22.24,0:44:24.86,English,,0,0,0,,they can't tie him up. And it becomes like a game.\N{\rChinese}他们绑不住他，变成一场游戏。
+Dialogue: 0,0:44:25.78,0:44:27.66,English,,0,0,0,,And Fenris thinks this is really funny.\N{\rChinese}芬里斯觉得这真好玩。
+Dialogue: 0,0:44:28.20,0:44:31.50,English,,0,0,0,,But the gods become really worried, so they go to the dwarves.\N{\rChinese}于是众神很担心，去请矮人帮忙。
+Dialogue: 0,0:44:32.70,0:44:36.46,English,,0,0,0,,And they ask the dwarves to create a magic rope, which they do.\N{\rChinese}于是他们请矮人制造一根魔法绳，矮人就做了。
+Dialogue: 0,0:44:37.00,0:44:39.70,English,,0,0,0,,And Tyr goes back to Fenris and says, Hey,\N{\rChinese}于是提尔回到芬里斯那里说，嘿，
+Dialogue: 0,0:44:39.88,0:44:44.64,English,,0,0,0,,let's continue this game of us trying to tie you up.\N{\rChinese}我们继续玩这场绑住你的游戏吧。
+Dialogue: 0,0:44:45.20,0:44:48.82,English,,0,0,0,,Fenris is like, okay. But how do I know\N{\rChinese}芬里斯说：好的。那我怎么知道你会放我出去？
+Dialogue: 0,0:44:48.82,0:44:52.26,English,,0,0,0,,that you'll release me if I can't get out?\N{\rChinese}这里，把你的手放进我的嘴里。
+Dialogue: 0,0:44:54.00,0:44:56.06,English,,0,0,0,,Here, put your hand in my mouth.\N{\rChinese}Here, put your hand in my mouth.
+Dialogue: 0,0:44:56.66,0:44:58.82,English,,0,0,0,,And if you don't release me, I'll take your hand.\N{\rChinese}如果你不放我，我就把你的手拿走。
+Dialogue: 0,0:44:59.88,0:45:01.66,English,,0,0,0,,So the gods discuss this.\N{\rChinese}于是众神讨论此事。
+Dialogue: 0,0:45:02.22,0:45:05.54,English,,0,0,0,,And Tyr volunteers to do this.\N{\rChinese}于是提尔自愿去做这件事。
+Dialogue: 0,0:45:05.58,0:45:08.62,English,,0,0,0,,Knowing. That he's going to lose his hand.\N{\rChinese}知道他会失去手。
+Dialogue: 0,0:45:09.62,0:45:11.02,English,,0,0,0,,And that's what happens.\N{\rChinese}于是就这样了。
+Dialogue: 0,0:45:11.12,0:45:12.66,English,,0,0,0,,They tie Fenris up.\N{\rChinese}他们把芬里斯绑住。
+Dialogue: 0,0:45:12.88,0:45:14.88,English,,0,0,0,,And Fenris wants to be released.\N{\rChinese}而芬里斯想要被释放。
+Dialogue: 0,0:45:14.94,0:45:16.64,English,,0,0,0,,The gods refuse because he's a menace.\N{\rChinese}众神拒绝，因为他是威胁。
+Dialogue: 0,0:45:16.80,0:45:19.88,English,,0,0,0,,And then Fenris just cuts off,\N{\rChinese}随后芬里斯就把手剪掉。
+Dialogue: 0,0:45:19.94,0:45:22.40,English,,0,0,0,,bites off the hand.\N{\rChinese}咬掉手。
+Dialogue: 0,0:45:22.58,0:45:26.92,English,,0,0,0,,That's the idea of loyalty. Loyalty to your friends.\N{\rChinese}这就是忠诚的意义。对朋友的忠诚。
+Dialogue: 0,0:45:31.64,0:45:36.14,English,,0,0,0,,Resourcefulness. So the gods are always at war with the frost giants.\N{\rChinese}机智。于是众神总是与霜巨人交战。
+Dialogue: 0,0:45:36.64,0:45:39.94,English,,0,0,0,,One day, a man named the Builder comes to them\N{\rChinese}一天，一个叫建造者的男人来到了他们那里
+Dialogue: 0,0:45:39.94,0:45:44.24,English,,0,0,0,,and says, I can build you a wall to protect you from your enemies.\N{\rChinese}他说，我可以给你们建一堵墙，保护你们免受敌人之害
+Dialogue: 0,0:45:45.62,0:45:49.24,English,,0,0,0,,In 18 months. This is Asgard, the home of the gods.\N{\rChinese}在十八个月里。这就是阿斯加德，众神的故乡
+Dialogue: 0,0:45:50.70,0:45:51.94,English,,0,0,0,,And the Builder says,\N{\rChinese}于是建造者说，
+Dialogue: 0,0:45:52.30,0:45:54.50,English,,0,0,0,,I will do this, but I want three things.\N{\rChinese}我会做到的，但我想要三件事。
+Dialogue: 0,0:45:54.62,0:45:56.82,English,,0,0,0,,I want the sun. I want the moon.\N{\rChinese}我想要太阳，我想要月亮。
+Dialogue: 0,0:45:57.00,0:46:01.04,English,,0,0,0,,I want the beautiful goddess Freyja in marriage.\N{\rChinese}我想把美丽的女神弗雷雅嫁给他。
+Dialogue: 0,0:46:01.94,0:46:06.44,English,,0,0,0,,And Odin the god's like, no, that's a stupid deal. But local gods are like, no, that's not what I want.\N{\rChinese}奥丁这位神说，呃，算了，还是个糟的交易。当地的神们也说，呃，算了，还是个糟的交易。
+Dialogue: 0,0:46:09.14,0:46:12.94,English,,0,0,0,,In one hundred years,\N{\rChinese}一百年后，
+Dialogue: 0,0:46:13.28,0:46:16.28,English,,0,0,0,,one hundred years, one hundred years, one hundred years,\N{\rChinese}一百年，一百年，一百年，
+Dialogue: 0,0:46:16.54,0:46:19.34,English,,0,0,0,,one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years,\N{\rChinese}一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，
+Dialogue: 0,0:46:19.46,0:46:24.12,English,,0,0,0,,one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years,\N{\rChinese}一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年
+Dialogue: 0,0:46:24.50,0:46:26.38,English,,0,0,0,,one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years, one hundred years,\N{\rChinese}一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年，一百年
+Dialogue: 0,0:46:26.94,0:46:30.42,English,,0,0,0,,one hundred years, one hundred years, one hundred years, one hundred years, one hundred years,\N{\rChinese}一百年，一百年，一百年，一百年，一百年
+Dialogue: 0,0:46:30.56,0:46:33.32,English,,0,0,0,,one hundred years, one hundred years,\N{\rChinese}一百年，一百年
+Dialogue: 0,0:46:33.42,0:46:35.98,English,,0,0,0,,one hundred years, one hundred years,\N{\rChinese}一百年，一百年，
+Dialogue: 0,0:46:35.98,0:46:39.20,English,,0,0,0,,know is the horse is a magic horse and\N{\rChinese}知道马是魔马，且
+Dialogue: 0,0:46:39.20,0:46:42.08,English,,0,0,0,,the horse is able to travel as fast as light itself\N{\rChinese}这匹马能像光一样快地行驶
+Dialogue: 0,0:46:42.08,0:46:45.12,English,,0,0,0,,and so the builders able to really quickly build\N{\rChinese}于是建筑师们能够迅速建造
+Dialogue: 0,0:46:45.12,0:46:46.30,English,,0,0,0,,that wall and\N{\rChinese}那堵墙和
+Dialogue: 0,0:46:46.30,0:46:49.14,English,,0,0,0,,he's about to finish the wall Odin says\N{\rChinese}他正要完成墙，奥丁说
+Dialogue: 0,0:46:49.14,0:46:53.00,English,,0,0,0,,Loki you got us in you got us into this mess\N{\rChinese}洛基，你把我们拖进这事了
+Dialogue: 0,0:46:53.00,0:46:56.18,English,,0,0,0,,get us out of this mess or I will kill you so\N{\rChinese}把我们拉出来，否则我就杀了你
+Dialogue: 0,0:46:56.18,0:46:58.58,English,,0,0,0,,what does Loki do Loki thinks and\N{\rChinese}洛基做了什么？洛基在想什么？
+Dialogue: 0,0:46:58.58,0:47:01.14,English,,0,0,0,,he's a shapeshifter right and\N{\rChinese}他是个变形者，对吧？
+Dialogue: 0,0:47:01.14,0:47:05.10,English,,0,0,0,,he's able to shape shapeshift into\N{\rChinese}他能变身成……
+Dialogue: 0,0:47:05.10,0:47:10.58,English,,0,0,0,,a mirror a beautiful horse okay like this the birds horse sees the mirror\N{\rChinese}一面镜子，一匹漂亮的马，好的，就像这样，鸟马看到镜子
+Dialogue: 0,0:47:10.58,0:47:14.14,English,,0,0,0,,and becomes really excited right\N{\rChinese}并且变得非常兴奋，对吧？
+Dialogue: 0,0:47:14.14,0:47:16.26,English,,0,0,0,,and he runs off and\N{\rChinese}然后他跑开了
+Dialogue: 0,0:47:16.26,0:47:19.28,English,,0,0,0,,the builders not able to finish the wall\N{\rChinese}建筑者未能完成墙壁
+Dialogue: 0,0:47:19.28,0:47:24.36,English,,0,0,0,,and Loki gives birth to a horse a baby horse\N{\rChinese}洛基诞生了一匹小马
+Dialogue: 0,0:47:24.36,0:47:27.60,English,,0,0,0,,that then becomes Odin's horse okay that's\N{\rChinese}那时它变成了奥丁的马，好吧那是……
+Dialogue: 0,0:47:27.60,0:47:31.08,English,,0,0,0,,idea of resourcefulness there are\N{\rChinese}资源的灵活性概念在此
+Dialogue: 0,0:47:31.08,0:47:33.88,English,,0,0,0,,some really funny stories you can read about the story of Odin and\N{\rChinese}有一些非常有趣的故事，你可以在北欧神话的故事书中读到关于奥丁和洛基的故事
+Dialogue: 0,0:47:33.88,0:47:35.92,English,,0,0,0,,Loki in the book of the stories within Norse mythology\N{\rChinese}在北欧神话的故事书中，关于奥丁和洛基的故事有很多有趣的章节
+Dialogue: 0,0:47:35.92,0:47:37.86,English,,0,0,0,,okay one of the funniest is this\N{\rChinese}好的，最有趣的就是这个
+Dialogue: 0,0:47:37.86,0:47:43.44,English,,0,0,0,,Thor has a magic hammer named Mjolnir he loves it he loves it\N{\rChinese}索尔有一把名为Mjolnir的魔杵，他很爱它，爱得把它放在枕头下，某天醒来却发现它不见了。
+Dialogue: 0,0:47:43.44,0:47:47.50,English,,0,0,0,,so much that he sleeps with it he puts it under his pillow one day he wakes up\N{\rChinese}索尔有一把名为Mjolnir的魔杵，他很爱它，爱得把它放在枕头下，某天醒来却发现它不见了。
+Dialogue: 0,0:47:47.50,0:47:50.56,English,,0,0,0,,and finds it missing so\N{\rChinese}索尔有一把名为Mjolnir的魔杵，他很爱它，爱得把它放在枕头下，某天醒来却发现它不见了。
+Dialogue: 0,0:47:50.56,0:47:53.26,English,,0,0,0,,of course he thinks it must be Loki because\N{\rChinese}当然，他认为一定是洛基，因为……
+Dialogue: 0,0:47:53.26,0:47:55.90,English,,0,0,0,,Loki's always playing these tricks on the gods but\N{\rChinese}洛基总是在神们面前玩这些把戏，但……
+Dialogue: 0,0:47:55.90,0:47:58.92,English,,0,0,0,,Loki says I didn't do it and I'll find out for you who\N{\rChinese}洛基说：我没干，我会替你查清楚的。
+Dialogue: 0,0:47:58.92,0:48:01.88,English,,0,0,0,,did it so Loki explores and he finds out\N{\rChinese}他做了这件事，洛基去探查，发现是法萨因国王偷走了锤子。
+Dialogue: 0,0:48:01.88,0:48:05.18,English,,0,0,0,,that it was the Farsain king who\N{\rChinese}法萨因国王才是那位偷走锤子的人。
+Dialogue: 0,0:48:05.18,0:48:08.46,English,,0,0,0,,stole the hammer the Farsain king will only\N{\rChinese}法萨因国王才是那位偷走锤子的人。
+Dialogue: 0,0:48:08.46,0:48:10.58,English,,0,0,0,,return the hammer if the\N{\rChinese}把锤子还给他
+Dialogue: 0,0:48:10.58,0:48:12.84,English,,0,0,0,,gods give him Freyja\N{\rChinese}神们给他弗雷雅作妻子
+Dialogue: 0,0:48:12.84,0:48:17.32,English,,0,0,0,,as a wife Loki goes back\N{\rChinese}洛基又回去
+Dialogue: 0,0:48:17.32,0:48:20.80,English,,0,0,0,,and Freyja says screw off I'm not I'm not going to do this\N{\rChinese}并且弗雷雅说：好了，去吧，我不去做这事。
+Dialogue: 0,0:48:20.80,0:48:21.72,English,,0,0,0,,so\N{\rChinese}于是
+Dialogue: 0,0:48:21.72,0:48:24.50,English,,0,0,0,,Loki says to Thor I have a plan the\N{\rChinese}洛基对托尔说：我有个计划。
+Dialogue: 0,0:48:24.50,0:48:28.00,English,,0,0,0,,plan is he's going to dress Thor up as\N{\rChinese}计划是他要把托尔打扮成弗雷雅
+Dialogue: 0,0:48:28.00,0:48:32.66,English,,0,0,0,,Freyja he's going to put a wedding dress and a veil on\N{\rChinese}他要给托尔穿上婚纱和面纱
+Dialogue: 0,0:48:33.74,0:48:35.22,English,,0,0,0,,Thor and\N{\rChinese}托尔
+Dialogue: 0,0:48:35.22,0:48:41.16,English,,0,0,0,,Loki will disguise himself as a bridesmaid okay stupid plan\N{\rChinese}洛基会伪装成新娘的侍女，好的，愚蠢的计划
+Dialogue: 0,0:48:41.16,0:48:44.22,English,,0,0,0,,but they do this they go off and\N{\rChinese}但他们这么做，随后离开去
+Dialogue: 0,0:48:44.22,0:48:47.16,English,,0,0,0,,the Farsain king doesn't really notice\N{\rChinese}法萨因国王并没有真正注意到
+Dialogue: 0,0:48:47.16,0:48:52.56,English,,0,0,0,,that that Freyja is a huge man they have this huge feast\N{\rChinese}那是弗雷雅是个大男人，他们举行了盛大的宴会
+Dialogue: 0,0:48:52.56,0:48:56.60,English,,0,0,0,,and unfortunately Thor loves to eat\N{\rChinese}不幸的是托尔爱吃饭
+Dialogue: 0,0:48:56.60,0:48:58.84,English,,0,0,0,,and he loved to drink so\N{\rChinese}他也爱喝酒
+Dialogue: 0,0:48:58.84,0:49:02.78,English,,0,0,0,,basically this huge feast Thor is eating the feast Thor\N{\rChinese}基本上这场盛宴，托尔正在吃着盛宴，托尔
+Dialogue: 0,0:49:02.78,0:49:06.44,English,,0,0,0,,is eating this oxen he's drinking all this beer he's burping in the process\N{\rChinese}托尔正在吃着这头牛，他喝着啤酒，咕噜咕噜地打嗝
+Dialogue: 0,0:49:06.44,0:49:07.66,English,,0,0,0,,so\N{\rChinese}于是
+Dialogue: 0,0:49:07.66,0:49:11.30,English,,0,0,0,,the Farsain giant king is kind of like confused\N{\rChinese}法萨因巨人王有点儿迷糊糊的
+Dialogue: 0,0:49:11.30,0:49:15.24,English,,0,0,0,,but he's also really excited at the\N{\rChinese}但他也很激动于这场婚礼
+Dialogue: 0,0:49:15.24,0:49:20.74,English,,0,0,0,,wedding the Farsain giant king presents the hammer Mjolnir to Thor\N{\rChinese}法萨因巨人王把Mjolnir之锤递给托尔
+Dialogue: 0,0:49:20.74,0:49:25.20,English,,0,0,0,,and he lifts the veil to kiss Thor\N{\rChinese}并且他抬起面纱吻托尔
+Dialogue: 0,0:49:25.20,0:49:28.74,English,,0,0,0,,and that's when he realizes that it's actually a man\N{\rChinese}那时他才发现那真是个男人
+Dialogue: 0,0:49:28.74,0:49:32.64,English,,0,0,0,,then Thor gets his hammer and beats the crap out of Thor\N{\rChinese}随后托尔拿起锤子把他打得落汤巴
+Dialogue: 0,0:49:36.46,0:49:39.74,English,,0,0,0,,and he kills Mjolnir and he kills Mjolnir and\N{\rChinese}他杀死了Mjolnir和他杀死了Mjolnir和
+Dialogue: 0,0:49:39.74,0:49:42.60,English,,0,0,0,,he kills Mjolnir and he kills Mjolnir and he kills Mjolnir and he kills Mjolnir and\N{\rChinese}他杀死了Mjolnir和他杀死了Mjolnir和他杀死了Mjolnir和他杀死了Mjolnir和
+Dialogue: 0,0:49:42.60,0:49:45.04,English,,0,0,0,,he kills Mjolnir and he kills Mjolnir and he kills Mjolnir and\N{\rChinese}他杀死了Mjolnir和他杀死了Mjolnir和他杀死了Mjolnir和
+Dialogue: 0,0:49:45.04,0:49:47.00,English,,0,0,0,,he kills Mjolnir and he kills Mjolnir and\N{\rChinese}他杀死了Mjolnir并且他杀死了Mjolnir并
+Dialogue: 0,0:49:47.00,0:49:50.24,English,,0,0,0,,he kills Mjolnir and he kills Mjolnir\N{\rChinese}他杀死了Mjolnir并且他杀死了Mjolnir
+Dialogue: 0,0:49:50.24,0:49:52.52,English,,0,0,0,,and he kills Mjolnir and he kills Mjolnir and\N{\rChinese}并且他杀死了Mjolnir并且他杀死了Mjolnir
+Dialogue: 0,0:49:52.52,0:49:55.94,English,,0,0,0,,he kills Mjolnir and he kills Mjolnir\N{\rChinese}他杀死了Mjolnir
+Dialogue: 0,0:49:55.94,0:49:59.42,English,,0,0,0,,and he kills Mjolnir and he kills Mjolnir\N{\rChinese}他杀死了Mjolnir
+Dialogue: 0,0:49:59.42,0:50:02.60,English,,0,0,0,,and he kills Mjolnir\N{\rChinese}他杀死了Mjolnir
+Dialogue: 0,0:50:02.60,0:50:07.16,English,,0,0,0,,and YouTube but he's a Viking expert he's an archaeologist I highly recommend\N{\rChinese}并且YouTube，但他是个维京专家，他是考古学家，我强烈推荐
+Dialogue: 0,0:50:07.16,0:50:08.22,English,,0,0,0,,that\N{\rChinese}那就
+Dialogue: 0,0:50:08.22,0:50:13.66,English,,0,0,0,,you listen to his YouTube videos if you're much if you're interested in this material okay\N{\rChinese}你听他的YouTube视频，如果你对此材料感兴趣
+Dialogue: 0,0:50:13.66,0:50:15.78,English,,0,0,0,,but this is what he has to say about the Viking\N{\rChinese}但这就是他对维京世界观的说法
+Dialogue: 0,0:50:15.78,0:50:19.56,English,,0,0,0,,worldview the Viking the individual is\N{\rChinese}维京的个体由四种力量塑造
+Dialogue: 0,0:50:19.56,0:50:23.08,English,,0,0,0,,shaped by four forces okay first is\N{\rChinese}第一种是
+Dialogue: 0,0:50:23.08,0:50:26.46,English,,0,0,0,,the hammer the hammer is basically the\N{\rChinese}锤子基本上就是外壳，或者说是人的形状，外在的存在
+Dialogue: 0,0:50:26.46,0:50:31.98,English,,0,0,0,,shell or the shape of the person okay the out the outer being\N{\rChinese}所以它不一定是身体本身，而是外在的形状
+Dialogue: 0,0:50:31.98,0:50:34.32,English,,0,0,0,,so it may not be the body actually but\N{\rChinese}so it may not be the body actually but
+Dialogue: 0,0:50:34.32,0:50:37.18,English,,0,0,0,,it's the shell okay second is the idea of\N{\rChinese}它是外壳，第二个是“嗡嗡作响”的概念
+Dialogue: 0,0:50:37.18,0:50:41.66,English,,0,0,0,,the humming job humming job think of it as a pet\N{\rChinese}嗡嗡作响的概念，想象它是一只跟着你的宠物
+Dialogue: 0,0:50:41.66,0:50:43.82,English,,0,0,0,,who follows you around and\N{\rChinese}它跟着你走的宠物
+Dialogue: 0,0:50:43.82,0:50:46.86,English,,0,0,0,,it personifies luck okay\N{\rChinese}它具象化运气，好吗
+Dialogue: 0,0:50:46.86,0:50:48.78,English,,0,0,0,,and because it's a pet you can either\N{\rChinese}因为它是宠物，你可以选择
+Dialogue: 0,0:50:48.78,0:50:52.02,English,,0,0,0,,nurture the pet or\N{\rChinese}养育它或
+Dialogue: 0,0:50:52.02,0:50:55.74,English,,0,0,0,,not nurture it okay you nurture\N{\rChinese}不养育它，好吗你养育
+Dialogue: 0,0:50:55.74,0:50:58.20,English,,0,0,0,,it by showing courage right so\N{\rChinese}它通过展现勇气来养育，好吗
+Dialogue: 0,0:50:58.20,0:51:00.62,English,,0,0,0,,in battle if you run off you run off and you're in trouble and you're in trouble and\N{\rChinese}在战斗中如果你跑掉你跑掉你就出事了
+Dialogue: 0,0:51:00.62,0:51:05.24,English,,0,0,0,,you're in trouble if you enter the battle of courage the pet will be with you\N{\rChinese}你进入勇气之战时，宠物会跟着你
+Dialogue: 0,0:51:05.24,0:51:08.26,English,,0,0,0,,but you run away and hide yourself the pet might run away\N{\rChinese}但你跑开躲藏，宠物可能跟着跑去
+Dialogue: 0,0:51:08.26,0:51:10.42,English,,0,0,0,,and in the Viking world all that\N{\rChinese}在维京世界里这一切都
+Dialogue: 0,0:51:10.42,0:51:15.32,English,,0,0,0,,matters is having job okay you win if you get lucky not not\N{\rChinese}事情就是有工作，好吗你赢了如果你幸运不不
+Dialogue: 0,0:51:15.32,0:51:19.52,English,,0,0,0,,because you're stronger the third idea is huger\N{\rChinese}因为你更强，第三个想法是huger
+Dialogue: 0,0:51:19.52,0:51:20.80,English,,0,0,0,,and\N{\rChinese}而
+Dialogue: 0,0:51:20.80,0:51:25.12,English,,0,0,0,,huger is your essence your soul okay\N{\rChinese}huger是你的本质，你的灵魂，好吗
+Dialogue: 0,0:51:25.12,0:51:30.52,English,,0,0,0,,who you are really the last idea is Faye job okay\N{\rChinese}谁你是真正的那一想法是Faye工作，好吗
+Dialogue: 0,0:51:30.52,0:51:33.84,English,,0,0,0,,and Faye job is what you inherit from your\N{\rChinese}而Faye工作是你继承的那一
+Dialogue: 0,0:51:33.84,0:51:37.88,English,,0,0,0,,family it is the guardian spirit of your family\N{\rChinese}家族，它是你家族的守护灵
+Dialogue: 0,0:51:37.88,0:51:41.24,English,,0,0,0,,so think of it as the collection of your ancestors who\N{\rChinese}所以把它想成你祖先的集合，他们在梦里低语给你建议
+Dialogue: 0,0:51:41.24,0:51:44.80,English,,0,0,0,,whisper you advice in your dreams today\N{\rChinese}今天
+Dialogue: 0,0:51:44.80,0:51:48.94,English,,0,0,0,,we recall this concept intuition right intuition\N{\rChinese}我们回想这个概念直觉，右直觉
+Dialogue: 0,0:51:48.94,0:51:51.88,English,,0,0,0,,that's what it that's what it represents so\N{\rChinese}那就是它，那就是它所代表的，所以
+Dialogue: 0,0:51:51.88,0:51:54.80,English,,0,0,0,,as you can see new price and\N{\rChinese}正如你所见，新价格和
+Dialogue: 0,0:51:54.80,0:51:56.66,English,,0,0,0,,other experts are showing us that\N{\rChinese}其他专家正在向我们展示
+Dialogue: 0,0:51:56.66,0:51:59.94,English,,0,0,0,,we think of the Vikings as barbarians\N{\rChinese}我们把维京人当作蛮族
+Dialogue: 0,0:51:59.94,0:52:03.08,English,,0,0,0,,but in fact they're very complicated and\N{\rChinese}但实际上他们非常复杂
+Dialogue: 0,0:52:03.08,0:52:05.04,English,,0,0,0,,nuanced understanding of themselves and\N{\rChinese}对自身的细致理解与
+Dialogue: 0,0:52:05.04,0:52:10.66,English,,0,0,0,,the world all right okay\N{\rChinese}世界，好的，好的
+Dialogue: 0,0:52:10.66,0:52:13.02,English,,0,0,0,,so another question that\N{\rChinese}再来一个问题
+Dialogue: 0,0:52:13.02,0:52:16.98,English,,0,0,0,,is how are the Vikings able to\N{\rChinese}[914] 是怎样的维京人能做到的
+Dialogue: 0,0:52:16.98,0:52:20.52,English,,0,0,0,,do this my argument to you is it's because\N{\rChinese}[915] 我的论点是因为
+Dialogue: 0,0:52:20.52,0:52:26.44,English,,0,0,0,,of the oral tradition we are simply not as creative as people\N{\rChinese}在口头传统中，我们并不像人们那样富有创意
+Dialogue: 0,0:52:26.44,0:52:28.84,English,,0,0,0,,who tell stories every day and who\N{\rChinese}每天讲故事的人们
+Dialogue: 0,0:52:28.84,0:52:31.46,English,,0,0,0,,make stories the heart and\N{\rChinese}把故事放在心脏
+Dialogue: 0,0:52:31.46,0:52:33.38,English,,0,0,0,,center of the community okay so\N{\rChinese}放在社区的中心，好吗？
+Dialogue: 0,0:52:33.38,0:52:36.34,English,,0,0,0,,um this is an over generalization\N{\rChinese}嗯，这是一种过度概括
+Dialogue: 0,0:52:37.12,0:52:39.06,English,,0,0,0,,and oversimplification but\N{\rChinese}也是一种过度简化
+Dialogue: 0,0:52:39.06,0:52:41.48,English,,0,0,0,,I want us to understand this graph\N{\rChinese}我想让我们理解这个图表
+Dialogue: 0,0:52:41.48,0:52:44.94,English,,0,0,0,,before people live in the oral\N{\rChinese}在口头传统中，人们生活
+Dialogue: 0,0:52:44.94,0:52:49.68,English,,0,0,0,,tradition what this meant is they tell stories when you tell stories\N{\rChinese}传统意味着他们讲故事时，你需要至少两个人
+Dialogue: 0,0:52:50.24,0:52:54.58,English,,0,0,0,,you need at least two people you need the speaker and you need the listener\N{\rChinese}你需要说话者和听话者
+Dialogue: 0,0:52:55.54,0:52:58.12,English,,0,0,0,,you can't do it otherwise okay you can't tell a story to yourself\N{\rChinese}你自己说不出来，行吗
+Dialogue: 0,0:52:59.36,0:53:02.50,English,,0,0,0,,so you need at least two people but often it was a whole community\N{\rChinese}于是你至少需要两个人，但往往往往往往往往往往往往往往往
+Dialogue: 0,0:53:02.50,0:53:05.92,English,,0,0,0,,that participated in the stories and what this meant is\N{\rChinese}参与了这些故事，而这意味着
+Dialogue: 0,0:53:05.92,0:53:10.70,English,,0,0,0,,that the stories were living things they were things\N{\rChinese}故事是活的，像是可玩耍的东西
+Dialogue: 0,0:53:10.70,0:53:15.14,English,,0,0,0,,that you played with that were flexible they were in clay you can change the stories over\N{\rChinese}它们是灵活的，像是泥土一样可以随时改写
+Dialogue: 0,0:53:15.14,0:53:18.48,English,,0,0,0,,and over each person who told the story would tell it different\N{\rChinese}每个人讲述时都略有差异
+Dialogue: 0,0:53:18.48,0:53:23.08,English,,0,0,0,,so there are like millions of different versions of these North stories\N{\rChinese}于是北方故事就有数百万种版本
+Dialogue: 0,0:53:23.08,0:53:26.00,English,,0,0,0,,that I just told you okay because\N{\rChinese}我刚才跟你说过，好的，因为
+Dialogue: 0,0:53:26.00,0:53:28.48,English,,0,0,0,,each person can interpret that story differently\N{\rChinese}每个人都能以不同方式诠释那段故事
+Dialogue: 0,0:53:29.36,0:53:32.54,English,,0,0,0,,and that's why I'm saying that the stories are unique because they are living memories and that means that\N{\rChinese}于是我说，故事之所以独特，就是它们是活的记忆
+Dialogue: 0,0:53:32.54,0:53:35.58,English,,0,0,0,,each story is unique now there's a\N{\rChinese}每个故事都是独一的，现在有一个
+Dialogue: 0,0:53:35.58,0:53:41.36,English,,0,0,0,,concept in cultural theory called the aura okay the essence the soul\N{\rChinese}在文化理论中有个概念叫做光环，好的，精髓，灵魂
+Dialogue: 0,0:53:41.36,0:53:44.76,English,,0,0,0,,and each story has its own soul if\N{\rChinese}并且每个故事都有自己的灵魂
+Dialogue: 0,0:53:44.76,0:53:47.54,English,,0,0,0,,you think about it all right\N{\rChinese}你想好了吧
+Dialogue: 0,0:53:47.54,0:53:53.52,English,,0,0,0,,let's contrast this with literary culture in literary culture reading\N{\rChinese}让我们把它与文学文化对照，阅读中
+Dialogue: 0,0:53:53.52,0:53:58.04,English,,0,0,0,,and writing you have to do it by yourself you cannot write with a friend\N{\rChinese}写作时你得自己完成，不能和朋友一起写
+Dialogue: 0,0:53:59.36,0:54:01.98,English,,0,0,0,,it would be terrible if you did that right\N{\rChinese}如果你这么做会很糟糕
+Dialogue: 0,0:54:01.98,0:54:05.94,English,,0,0,0,,but the benefit is that whatever you write\N{\rChinese}但好处在于你写下的东西随之离你而成为页面的一部分，已成永恒。
+Dialogue: 0,0:54:06.68,0:54:10.42,English,,0,0,0,,leaves you and become becomes part of the page it's permanent now\N{\rChinese}它离开你后便成为页面的一部分，永存。
+Dialogue: 0,0:54:12.38,0:54:16.60,English,,0,0,0,,and as a result your words can escape time\N{\rChinese}并且因此你的话语可随时间流逝去
+Dialogue: 0,0:54:16.60,0:54:18.72,English,,0,0,0,,and space it becomes timeless\N{\rChinese}并且空间也随之，成为永恒
+Dialogue: 0,0:54:19.76,0:54:21.60,English,,0,0,0,,we have Homer because\N{\rChinese}我们有荷马，因为
+Dialogue: 0,0:54:21.60,0:54:26.34,English,,0,0,0,,Homer's words were written down even though homer was probably illiterate okay\N{\rChinese}荷马的诗句被记录下来，虽然他可能是文盲
+Dialogue: 0,0:54:27.16,0:54:29.60,English,,0,0,0,,today we live in the visual culture so\N{\rChinese}今天我们生活在视觉文化中，先想想视频，再想想照片。
+Dialogue: 0,0:54:29.60,0:54:32.94,English,,0,0,0,,think of videos think of photographs\N{\rChinese}先想想视频，再想想照片。
+Dialogue: 0,0:54:32.94,0:54:35.94,English,,0,0,0,,right first thing to understand is that\N{\rChinese}先要理解的第一件事是
+Dialogue: 0,0:54:35.94,0:54:38.24,English,,0,0,0,,it's passive both in literary and\N{\rChinese}它在文学和
+Dialogue: 0,0:54:38.24,0:54:42.18,English,,0,0,0,,oral culture you have to participate you have to use your imagination to make the thing alive\N{\rChinese}口头文化你需要参与，需要用想象力让它活起来
+Dialogue: 0,0:54:42.18,0:54:47.72,English,,0,0,0,,but with a photograph it's all provided to you okay it's very passive experience\N{\rChinese}但有了照片，一切都已呈现给你，完全是被动体验
+Dialogue: 0,0:54:49.66,0:54:54.18,English,,0,0,0,,it's self -enclosed meaning you there's it's impossible for you to add anything to it okay\N{\rChinese}它是自封闭的，意味着你无法再添任何东西
+Dialogue: 0,0:54:54.18,0:54:58.68,English,,0,0,0,,but you get more information that way so there are benefits to visual\N{\rChinese}但你能通过这种方式获得更多信息，所以视觉文化有其优势
+Dialogue: 0,0:54:59.58,0:55:03.88,English,,0,0,0,,culture so for example a map right if you look at a\N{\rChinese}比如说地图，若你看一张地图，它能告诉你比别人用文字解释更丰富的信息
+Dialogue: 0,0:55:03.88,0:55:08.80,English,,0,0,0,,map it tells you a lot more information than if someone try to explain it to you with words\N{\rChinese}地图能一次性呈现空间关系，文字则需逐句叙述
+Dialogue: 0,0:55:08.80,0:55:13.38,English,,0,0,0,,and the last advantage of a visual culture is\N{\rChinese}以及视觉文化的最后一个优势是
+Dialogue: 0,0:55:14.10,0:55:16.48,English,,0,0,0,,it is universal so\N{\rChinese}它是通用的，所以
+Dialogue: 0,0:55:16.48,0:55:20.18,English,,0,0,0,,if an alien species came down to our planet\N{\rChinese}如果有外星人降临我们的星球
+Dialogue: 0,0:55:20.18,0:55:23.58,English,,0,0,0,,and looked at the pictures they wouldn't know what's going on okay\N{\rChinese}于是他们看着图片，却不知道发生了什么；而如果他们听故事或读书，就完全不知道发生了什么。
+Dialogue: 0,0:55:23.58,0:55:28.08,English,,0,0,0,,whereas if they heard a story or read a book they would have no idea what's going on\N{\rChinese}于是他们看着图片，却不知道发生了什么；而如果他们听故事或读书，就完全不知道发生了什么。
+Dialogue: 0,0:55:29.36,0:55:33.84,English,,0,0,0,,and so this is the old tradition in contrast with literature and visual culture\N{\rChinese}于是他们看着图片，却不知道发生了什么；而如果他们听故事或读书，就完全不知道发生了什么。
+Dialogue: 0,0:55:37.20,0:55:42.12,English,,0,0,0,,the old tradition is extremely complex we tend to think\N{\rChinese}旧传统非常复杂，我们往往会这样想
+Dialogue: 0,0:55:42.12,0:55:45.02,English,,0,0,0,,that it's just about telling a story okay\N{\rChinese}那只是讲故事而已，好的
+Dialogue: 0,0:55:45.02,0:55:48.06,English,,0,0,0,,but if you think about it there are so many variables\N{\rChinese}但如果你思考它，变量就多得多
+Dialogue: 0,0:55:48.06,0:55:51.98,English,,0,0,0,,and nuance and factors in the telling of a story\N{\rChinese}并且在叙述故事时的细腻与因素
+Dialogue: 0,0:55:51.98,0:55:56.50,English,,0,0,0,,and that's why each version is unique onto itself\N{\rChinese}这正是每个版本独具自身特色的原因
+Dialogue: 0,0:55:57.58,0:56:00.52,English,,0,0,0,,okay Okay, so I could teach the same material, but\N{\rChinese}好的，好的，我可以教同样的内容，但
+Dialogue: 0,0:56:00.52,0:56:03.20,English,,0,0,0,,if we change the classroom, if we change the students,\N{\rChinese}如果我们换了教室，换了学生，
+Dialogue: 0,0:56:04.86,0:56:06.12,English,,0,0,0,,if we change the lighting,\N{\rChinese}如果我们改变灯光，
+Dialogue: 0,0:56:07.02,0:56:09.56,English,,0,0,0,,the experience of being in this classroom would change.\N{\rChinese}在这个教室里的体验会随之改变。
+Dialogue: 0,0:56:11.04,0:56:12.48,English,,0,0,0,,The Norse, the Vikings,\N{\rChinese}北欧人，维京人，
+Dialogue: 0,0:56:12.72,0:56:16.34,English,,0,0,0,,the way they told stories is they would tell it in a big hall.\N{\rChinese}他们讲故事的方式是：在大堂里讲述。
+Dialogue: 0,0:56:16.60,0:56:18.70,English,,0,0,0,,Because remember, it's usually cold up north.\N{\rChinese}因为记得，北方通常很冷。
+Dialogue: 0,0:56:18.86,0:56:22.02,English,,0,0,0,,It's snowing outside. They would tell it in a big hall,\N{\rChinese}外面下着雪。他们会在大堂里讲述。
+Dialogue: 0,0:56:22.20,0:56:23.80,English,,0,0,0,,and it's dark, so\N{\rChinese}而且天暗，于是大厅里有大火。
+Dialogue: 0,0:56:23.80,0:56:27.22,English,,0,0,0,,they have a big fire inside the hall.\N{\rChinese}they have a big fire inside the hall.
+Dialogue: 0,0:56:27.44,0:56:30.54,English,,0,0,0,,And the storyteller, the bard,\N{\rChinese}叙者，吟游诗人，
+Dialogue: 0,0:56:30.72,0:56:32.90,English,,0,0,0,,would recite the story or tell the\N{\rChinese}会背诵故事或讲述，
+Dialogue: 0,0:56:32.90,0:56:36.72,English,,0,0,0,,story beside the fire as everyone listens.\N{\rChinese}在火边，众人聆听。
+Dialogue: 0,0:56:38.52,0:56:40.90,English,,0,0,0,,Some important things to know about this.\N{\rChinese}一些关于这件事的重要信息。
+Dialogue: 0,0:56:41.06,0:56:43.32,English,,0,0,0,,First is the halls were huge.\N{\rChinese}首先，厅堂非常巨大。
+Dialogue: 0,0:56:43.92,0:56:46.76,English,,0,0,0,,They were as huge as a Greek amphitheater.\N{\rChinese}它们的规模与希腊圆形剧场相当。
+Dialogue: 0,0:56:46.90,0:56:50.10,English,,0,0,0,,So you could seat about 1,000, 2,000 people within the hall.\N{\rChinese}因此，你可以在大厅里容纳大约一千、两千人。
+Dialogue: 0,0:56:51.14,0:56:53.48,English,,0,0,0,,Second is that you have dark rooms.\N{\rChinese}第二点是你们有黑暗的房间。
+Dialogue: 0,0:56:53.50,0:56:56.22,English,,0,0,0,,You have darkness. When it's dark and you can't see,\N{\rChinese}你们有黑暗。当黑暗时你看不见。
+Dialogue: 0,0:56:56.40,0:57:00.02,English,,0,0,0,,your ears become much more perceptive.\N{\rChinese}你的耳朵变得更敏锐。
+Dialogue: 0,0:57:00.24,0:57:03.90,English,,0,0,0,,So the words have become alive.\N{\rChinese}于是词语便活了起来。
+Dialogue: 0,0:57:04.24,0:57:06.66,English,,0,0,0,,They're more colored, they're more detailed, they're much more imagery.\N{\rChinese}它们更有色彩，更细腻，更具画面感。
+Dialogue: 0,0:57:07.10,0:57:09.54,English,,0,0,0,,Okay? And\N{\rChinese}好了？
+Dialogue: 0,0:57:09.54,0:57:14.84,English,,0,0,0,,third is these words are bouncing off the walls\N{\rChinese}第三点是这些词语在墙壁上弹跳，
+Dialogue: 0,0:57:14.84,0:57:16.34,English,,0,0,0,,and they're creating echo and resonance.\N{\rChinese}它们产生回声与共振。
+Dialogue: 0,0:57:16.84,0:57:20.12,English,,0,0,0,,And so these words almost like bonds\N{\rChinese}于是这些词语几乎像纽带
+Dialogue: 0,0:57:20.12,0:57:23.30,English,,0,0,0,,that unite everyone in the telling of the story.\N{\rChinese}把大家在叙述故事时连在一起。
+Dialogue: 0,0:57:23.96,0:57:26.50,English,,0,0,0,,Okay? And if you think about it,\N{\rChinese}好了？如果你想想看，
+Dialogue: 0,0:57:26.60,0:57:31.64,English,,0,0,0,,this experience is very similar to the Ice Age.\N{\rChinese}这次经历和冰河时代很相似。
+Dialogue: 0,0:57:31.98,0:57:34.12,English,,0,0,0,,Remember last semester at the very beginning,\N{\rChinese}记得上学期刚开始时，
+Dialogue: 0,0:57:34.26,0:57:36.80,English,,0,0,0,,we did the Ice Age cave paintings.\N{\rChinese}我们做了冰河时代的洞穴壁画。
+Dialogue: 0,0:57:37.42,0:57:40.70,English,,0,0,0,,And what we need to understand is people came together\N{\rChinese}于是我们需要理解的是，人们聚集在这些洞穴里不是为了绘画，
+Dialogue: 0,0:57:41.19,0:57:46.90,English,,0,0,0,,in these caves not to paint in the caves,\N{\rChinese}而是为了讲述他们来自何方的故事。
+Dialogue: 0,0:57:47.58,0:57:51.30,English,,0,0,0,,but to tell stories about where they came from.\N{\rChinese}but to tell stories about where they came from.
+Dialogue: 0,0:57:51.46,0:57:53.86,English,,0,0,0,,Who they are and where they're going.\N{\rChinese}他们是谁，他们去向何方。
+Dialogue: 0,0:57:54.74,0:57:57.32,English,,0,0,0,,All right? And\N{\rChinese}好的？还有
+Dialogue: 0,0:57:57.32,0:58:01.08,English,,0,0,0,,all of our ancestors, every one of them for thousands of years,\N{\rChinese}我们所有的祖先，千百年来的每一个。
+Dialogue: 0,0:58:01.22,0:58:06.92,English,,0,0,0,,participated in this process of converging in these ice caves\N{\rChinese}参与了在这些冰洞中聚合的过程
+Dialogue: 0,0:58:07.46,0:58:12.00,English,,0,0,0,,and hearing stories being told to them in these dark, wet caves.\N{\rChinese}并在这些黑暗、潮湿的洞穴里听到被讲述的故事
+Dialogue: 0,0:58:12.52,0:58:17.06,English,,0,0,0,,So this takes us back to the time of the Ice Age.\N{\rChinese}于是我们回到冰河时代
+Dialogue: 0,0:58:17.12,0:58:19.70,English,,0,0,0,,It's activating a nostalgia within us.\N{\rChinese}它在我们心中激起一股怀旧之情。
+Dialogue: 0,0:58:19.76,0:58:21.44,English,,0,0,0,,And that's why the oral tradition is important.\N{\rChinese}这正是口述传统重要的原因。
+Dialogue: 0,0:58:21.44,0:58:23.24,English,,0,0,0,,It's so powerful. Okay?\N{\rChinese}它如此强大，懂了吗？
+Dialogue: 0,0:58:25.94,0:58:30.32,English,,0,0,0,,All right. So these stories have been told in a certain way\N{\rChinese}好的。于是这些故事以某种方式被讲述
+Dialogue: 0,0:58:31.66,0:58:33.30,English,,0,0,0,,to excite the audience.\N{\rChinese}以激发听众的情绪。
+Dialogue: 0,0:58:33.94,0:58:35.22,English,,0,0,0,,Okay, so think of this class.\N{\rChinese}好了，想象一下这门课。
+Dialogue: 0,0:58:35.54,0:58:37.32,English,,0,0,0,,In this class, we have no tests.\N{\rChinese}在这门课里，我们没有考试。
+Dialogue: 0,0:58:37.60,0:58:39.90,English,,0,0,0,,I don't even take attendance. So when\N{\rChinese}我甚至不记点名。于是当
+Dialogue: 0,0:58:39.90,0:58:41.94,English,,0,0,0,,I present material in this class,\N{\rChinese}我在这门课上呈现材料时
+Dialogue: 0,0:58:42.12,0:58:45.86,English,,0,0,0,,it has to be interesting for you, right?\N{\rChinese}它得让你觉得有趣，对吧？
+Dialogue: 0,0:58:46.26,0:58:48.98,English,,0,0,0,,Why is it interesting? Because it's shocking.\N{\rChinese}为什么有趣？因为它很震撼。
+Dialogue: 0,0:58:49.24,0:58:51.32,English,,0,0,0,,It has emotions. It has structure.\N{\rChinese}它有情感。它有结构。
+Dialogue: 0,0:58:51.44,0:58:55.26,English,,0,0,0,,When I come to class, I actually do not script out my class.\N{\rChinese}当我上课时，我实际上并没有把课排成脚本。
+Dialogue: 0,0:58:55.66,0:59:00.04,English,,0,0,0,,What I do is I think of the narrative structure, the story I want to tell.\N{\rChinese}我所做的是先想好叙事结构，想好我要讲的故事。
+Dialogue: 0,0:59:00.48,0:59:01.70,English,,0,0,0,,And then in class,\N{\rChinese}然后在课堂上，
+Dialogue: 0,0:59:02.34,0:59:06.18,English,,0,0,0,,depending on your reactions, depending on the question you ask,\N{\rChinese}根据你的反应，或者你提出的问题，
+Dialogue: 0,0:59:06.36,0:59:10.60,English,,0,0,0,,I will change some of the details in\N{\rChinese}我会在故事里改动一些细节，
+Dialogue: 0,0:59:10.60,0:59:12.84,English,,0,0,0,,the story to make it much more interesting for you.\N{\rChinese}让它更适合你，变得更有趣味。
+Dialogue: 0,0:59:13.44,0:59:17.86,English,,0,0,0,,In the oral tradition, it's a co -creation, collaborative process.\N{\rChinese}在口头传统中，它是一种共同创作、协作的过程。
+Dialogue: 0,0:59:18.18,0:59:19.84,English,,0,0,0,,And that's what makes it so powerful.\N{\rChinese}这正是它如此强大的原因。
+Dialogue: 0,0:59:21.48,0:59:23.56,English,,0,0,0,,As an experiment, what you can do is this.\N{\rChinese}作为一次实验，你可以这样做。
+Dialogue: 0,0:59:24.46,0:59:25.68,English,,0,0,0,,Think about this.\N{\rChinese}想一想这个。
+Dialogue: 0,0:59:27.20,0:59:30.02,English,,0,0,0,,In class, there might be some material you found really interesting, right?\N{\rChinese}在课堂上，你可能会发现一些很有趣的材料，对吧？
+Dialogue: 0,0:59:30.32,0:59:31.66,English,,0,0,0,,So then you go on YouTube.\N{\rChinese}于是你去YouTube。
+Dialogue: 0,0:59:31.78,0:59:37.20,English,,0,0,0,,I post these lectures on YouTube to try to remember the experience.\N{\rChinese}我把这些讲座上传到YouTube，试着记住那段经历。
+Dialogue: 0,0:59:37.48,0:59:38.98,English,,0,0,0,,And what you will find is you cannot.\N{\rChinese}你会发现，你还是记不住。
+Dialogue: 0,0:59:39.72,0:59:43.14,English,,0,0,0,,Okay? Because we've switched from oral culture to visual culture.\N{\rChinese}因为我们已从口头文化转向视觉文化。
+Dialogue: 0,0:59:43.50,0:59:46.34,English,,0,0,0,,The same is true if it's your birthday, okay?\N{\rChinese}同样的道理也适用于你的生日，明白吗？
+Dialogue: 0,0:59:46.50,0:59:48.52,English,,0,0,0,,It's your 18th birthday. You go out with your friends.\N{\rChinese}今天是你18岁的生日。你和朋友们一起出去。
+Dialogue: 0,0:59:49.30,0:59:50.98,English,,0,0,0,,And you have a wonderful time.\N{\rChinese}你玩得很开心。
+Dialogue: 0,0:59:51.28,0:59:53.82,English,,0,0,0,,And you're like, I want to take a picture to remember this experience.\N{\rChinese}我想拍张照来记住这段经历。
+Dialogue: 0,0:59:54.48,0:59:56.74,English,,0,0,0,,But what you will find when you do that is\N{\rChinese}你会发现，当你这么做时，
+Dialogue: 0,0:59:57.50,1:00:00.84,English,,0,0,0,,the picture doesn't really capture the experience for you.\N{\rChinese}照片并没有真正捕捉住那段经历。
+Dialogue: 0,1:00:01.60,1:00:04.80,English,,0,0,0,,The picture cannot bring back the feeling for you.\N{\rChinese}照片无法把那种感觉带回给你。
+Dialogue: 0,1:00:05.46,1:00:07.66,English,,0,0,0,,And that's why the Vikings were so insistent\N{\rChinese}这就是为什么维京人如此坚持保持口头传统。
+Dialogue: 0,1:00:08.18,1:00:10.12,English,,0,0,0,,on maintaining their oral tradition\N{\rChinese}on maintaining their oral tradition
+Dialogue: 0,1:00:11.20,1:00:14.76,English,,0,0,0,,and not transitioning into the literary culture.\N{\rChinese}并且未过渡到文学文化。
+Dialogue: 0,1:00:15.34,1:00:19.72,English,,0,0,0,,Because their oral tradition is what gave the community purpose and meaning.\N{\rChinese}因为他们的口头传统给了社区目的和意义。
+Dialogue: 0,1:00:19.96,1:00:23.78,English,,0,0,0,,If you gave that up, then your community would lose cohesiveness.\N{\rChinese}若你放弃它，社区就会失去凝聚力。
+Dialogue: 0,1:00:25.36,1:00:28.16,English,,0,0,0,,Right? Does it make sense to you guys?\N{\rChinese}对吧？你们听得懂吗？
+Dialogue: 0,1:00:28.38,1:00:32.54,English,,0,0,0,,All right. So what's the oral tradition?\N{\rChinese}好的。那么口头传统是什么？
+Dialogue: 0,1:00:33.06,1:00:34.38,English,,0,0,0,,Again, we've lost it.\N{\rChinese}再说一次，我们已经失去它了。
+Dialogue: 0,1:00:34.70,1:00:36.02,English,,0,0,0,,We've mainly lost it.\N{\rChinese}我们主要失去它了。
+Dialogue: 0,1:00:36.12,1:00:37.86,English,,0,0,0,,But remember what it is.\N{\rChinese}但记住它是什么。
+Dialogue: 0,1:00:38.28,1:00:41.66,English,,0,0,0,,Okay? Let's take two things that you know very well and merge them together.\N{\rChinese}好了？先拿两件你很熟悉的事，合并在一起。
+Dialogue: 0,1:00:41.88,1:00:43.94,English,,0,0,0,,And then you can experience what the oral tradition is.\N{\rChinese}然后你就能体验口头传统的感觉。
+Dialogue: 0,1:00:44.14,1:00:46.38,English,,0,0,0,,It's basically the immersion of a movie.\N{\rChinese}它基本就是电影般的沉浸感。
+Dialogue: 0,1:00:46.66,1:00:48.04,English,,0,0,0,,Think of going to a good movie.\N{\rChinese}想象你去看一场好电影。
+Dialogue: 0,1:00:48.14,1:00:50.50,English,,0,0,0,,And remember the power,\N{\rChinese}记住那份力量，
+Dialogue: 0,1:00:50.92,1:00:52.74,English,,0,0,0,,the immersive power of being in that movie.\N{\rChinese}那种沉浸在电影中的力量。
+Dialogue: 0,1:00:52.84,1:00:54.38,English,,0,0,0,,You are in that movie. Okay?\N{\rChinese}你正身处于那部电影之中。
+Dialogue: 0,1:00:54.98,1:00:58.00,English,,0,0,0,,You combine it with the intimacy of a conversation.\N{\rChinese}你把它与对话的亲密感结合起来。
+Dialogue: 0,1:00:58.38,1:01:02.70,English,,0,0,0,,Just think of like having this four or five hour conversation with your best friend\N{\rChinese}想象你和最好的朋友进行四五个小时的对话，聊聊人生和爱情。
+Dialogue: 0,1:01:02.70,1:01:05.38,English,,0,0,0,,and talking about life and love in general.\N{\rChinese}and talking about life and love in general.
+Dialogue: 0,1:01:05.52,1:01:08.56,English,,0,0,0,,Okay? The oral tradition combines these two things.\N{\rChinese}好的？口述传统把这两件事结合在一起。
+Dialogue: 0,1:01:08.70,1:01:10.08,English,,0,0,0,,And that's why it's so powerful.\N{\rChinese}这就是它之所以如此强大的原因。
+Dialogue: 0,1:01:10.50,1:01:13.82,English,,0,0,0,,That's why it cannot be remembered.\N{\rChinese}这就是它之所以能被记住的原因。
+Dialogue: 0,1:01:15.72,1:01:18.24,English,,0,0,0,,Okay? The Viking oral tradition was extremely powerful.\N{\rChinese}好的？维京口述传统极其强大。
+Dialogue: 0,1:01:18.36,1:01:21.36,English,,0,0,0,,But it was so powerful that it cannot be remembered.\N{\rChinese}但它如此强大，以至可记住。
+Dialogue: 0,1:01:22.26,1:01:26.18,English,,0,0,0,,It cannot be written down. But\N{\rChinese}可写下来。
+Dialogue: 0,1:01:26.18,1:01:27.84,English,,0,0,0,,as I will show you in future classes,\N{\rChinese}正如我在后续课程中会展示的那样，
+Dialogue: 0,1:01:28.16,1:01:31.92,English,,0,0,0,,this oral tradition will go on to influence\N{\rChinese}这口述传统将继续影响
+Dialogue: 0,1:01:32.58,1:01:33.96,English,,0,0,0,,major European civilization,\N{\rChinese}欧洲主要文明
+Dialogue: 0,1:01:34.42,1:01:38.94,English,,0,0,0,,specifically the Germans and the British, but also the Russians as well.\N{\rChinese}具体来说是德国人和英国人，也包括俄罗斯人。
+Dialogue: 0,1:01:39.98,1:01:43.84,English,,0,0,0,,All right. So\N{\rChinese}好的。那么
+Dialogue: 0,1:01:43.84,1:01:47.34,English,,0,0,0,,again, for most of human history, we as humans have shared our stories\N{\rChinese}再说一次，几乎在人的历史上，我们人类都共享着我们的故事
+Dialogue: 0,1:01:47.36,1:01:49.00,English,,0,0,0,,and we share our time together telling stories.\N{\rChinese}我们一起分享时间，讲故事。
+Dialogue: 0,1:01:52.64,1:01:54.14,English,,0,0,0,,Why did we lose the oral tradition?\N{\rChinese}我们为什么失去了口述传统？
+Dialogue: 0,1:01:54.88,1:01:57.92,English,,0,0,0,,Okay? Remember this. Why did we lose the oral tradition?\N{\rChinese}好的？记住这点。我们为什么失去了口述传统？
+Dialogue: 0,1:01:58.24,1:02:01.28,English,,0,0,0,,Well, we transitioned to a literary culture that\N{\rChinese}好吧，我们转向了文学文化，
+Dialogue: 0,1:02:01.28,1:02:03.40,English,,0,0,0,,emphasized reading and writing.\N{\rChinese}强调阅读和写作。
+Dialogue: 0,1:02:03.84,1:02:05.50,English,,0,0,0,,So in school,\N{\rChinese}于是，在学校里，
+Dialogue: 0,1:02:07.36,1:02:10.46,English,,0,0,0,,we have you read books, but we don't have you tell stories.\N{\rChinese}我们让你读书，却没有让你讲故事。
+Dialogue: 0,1:02:10.52,1:02:14.92,English,,0,0,0,,We don't tell stories to you. We went from paganism to Christianity.\N{\rChinese}我们没有给你讲故事。我们从多神教转向基督教。
+Dialogue: 0,1:02:15.28,1:02:19.34,English,,0,0,0,,Okay? The problem with Christianity is it is extremely uh,\N{\rChinese}好的？基督教的问题在于它极其……
+Dialogue: 0,1:02:20.52,1:02:23.60,English,,0,0,0,,sanctimonious. It focuses on what is good and evil.\N{\rChinese}虔诚。它聚焦于善与恶。
+Dialogue: 0,1:02:24.26,1:02:27.82,English,,0,0,0,,Whereas pagan culture is like whether it's interesting or not interesting.\N{\rChinese}而多神文化则是关于事物是否有趣。
+Dialogue: 0,1:02:27.94,1:02:29.26,English,,0,0,0,,Whether it's memorable or not memorable.\N{\rChinese}是记忆深刻还是平凡无味。
+Dialogue: 0,1:02:29.60,1:02:33.42,English,,0,0,0,,Okay? Live a memorable, interesting, adventurous life.\N{\rChinese}好的？过一个记忆深刻、趣味十足、冒险连连的生活。
+Dialogue: 0,1:02:34.10,1:02:35.98,English,,0,0,0,,And the Christians are like, no, that's not good.\N{\rChinese}基督徒们则说，没错，那不算好。
+Dialogue: 0,1:02:36.12,1:02:39.34,English,,0,0,0,,Because if you do that, you're going to create a lot of evil.\N{\rChinese}因为这样做，你就会制造许多的恶事。
+Dialogue: 0,1:02:39.54,1:02:42.56,English,,0,0,0,,So, live a good life.\N{\rChinese}于是，过好日子。
+Dialogue: 0,1:02:43.12,1:02:44.40,English,,0,0,0,,Avoid committing evil.\N{\rChinese}别犯恶事。
+Dialogue: 0,1:02:45.72,1:02:49.12,English,,0,0,0,,And the last thing is, we went from a egalitarian world\N{\rChinese}最后一件事是，我们从平等的世界走向了…
+Dialogue: 0,1:02:49.12,1:02:52.00,English,,0,0,0,,where everyone can contribute to the story,\N{\rChinese}在这里人人都能为故事添砖瓦，
+Dialogue: 0,1:02:52.12,1:02:55.04,English,,0,0,0,,to a hierarchical world where the top, the elite,\N{\rChinese}变成一个层级化的世界，顶层是精英，
+Dialogue: 0,1:02:55.18,1:02:59.68,English,,0,0,0,,insists on indoctrinating us and controlling how we think.\N{\rChinese}他们坚持灌输我们并掌控我们的思维。
+Dialogue: 0,1:03:00.86,1:03:04.32,English,,0,0,0,,Alright? Okay?\N{\rChinese}好的？
+Dialogue: 0,1:03:04.52,1:03:05.76,English,,0,0,0,,Does that make sense to you guys?\N{\rChinese}听得懂吗？
+Dialogue: 0,1:03:06.88,1:03:09.56,English,,0,0,0,,Any questions so far? So\N{\rChinese}到现在还有问题吗？
+Dialogue: 0,1:03:09.56,1:03:11.98,English,,0,0,0,,this is why we left the oral tradition and\N{\rChinese}这就是我们离开口头传统的原因
+Dialogue: 0,1:03:11.98,1:03:14.46,English,,0,0,0,,adopted literary and visual culture.\N{\rChinese}采用文学与视觉文化。
+Dialogue: 0,1:03:16.96,1:03:19.46,English,,0,0,0,,Okay. So, to conclude the class,\N{\rChinese}好的。于是，为了结束本课，
+Dialogue: 0,1:03:21.64,1:03:23.30,English,,0,0,0,,I know this is a lot to take in.\N{\rChinese}我知道这信息量很大。
+Dialogue: 0,1:03:23.38,1:03:25.20,English,,0,0,0,,It's a lot of information. I apologize.\N{\rChinese}这是一大堆信息。抱歉。
+Dialogue: 0,1:03:25.48,1:03:27.96,English,,0,0,0,,Okay? But, let me conclude with a story.\N{\rChinese}好的？那我用一个故事来收尾。
+Dialogue: 0,1:03:30.00,1:03:33.12,English,,0,0,0,,So, I have two young boys.\N{\rChinese}于是，我有两个小男孩。
+Dialogue: 0,1:03:33.52,1:03:34.80,English,,0,0,0,,And I sleep with them. Okay?\N{\rChinese}我和他们一起睡觉。好吗？
+Dialogue: 0,1:03:35.42,1:03:37.84,English,,0,0,0,,And what I do is, I tell them stories.\N{\rChinese}我做的事是给他们讲故事。
+Dialogue: 0,1:03:38.54,1:03:40.26,English,,0,0,0,,I don't have them do math.\N{\rChinese}我让他们不做数学。
+Dialogue: 0,1:03:40.48,1:03:42.50,English,,0,0,0,,I don't have them read books. But I tell them stories.\N{\rChinese}我让他们不读书。但我给他们讲故事。
+Dialogue: 0,1:03:42.94,1:03:44.74,English,,0,0,0,,Where I make them the characters.\N{\rChinese}我把他们设为角色。
+Dialogue: 0,1:03:45.12,1:03:46.60,English,,0,0,0,,The heroes. The heroes of the story.\N{\rChinese}英雄们。故事里的英雄们。
+Dialogue: 0,1:03:46.74,1:03:50.74,English,,0,0,0,,So I'll tell you one story that I told my youngest son, Mao Mao.\N{\rChinese}于是我给你讲一个我曾经给最小的儿子毛毛讲过的故事。
+Dialogue: 0,1:03:50.88,1:03:53.78,English,,0,0,0,,Okay? The story goes like this.\N{\rChinese}好的？故事是这样的。
+Dialogue: 0,1:03:54.38,1:03:57.00,English,,0,0,0,,It is Mao Mao's fourth birthday.\N{\rChinese}毛毛四岁生日到了。
+Dialogue: 0,1:03:57.56,1:03:58.94,English,,0,0,0,,And I tell Mao Mao,\N{\rChinese}于是我对毛毛说，
+Dialogue: 0,1:03:59.50,1:04:02.58,English,,0,0,0,,on your fourth birthday, something magical happens.\N{\rChinese}在你四岁生日时，发生了一件神奇的事。
+Dialogue: 0,1:04:03.40,1:04:06.44,English,,0,0,0,,You can pray to God, and whatever you wish for,\N{\rChinese}你可以向上帝祈祷，随你所愿。
+Dialogue: 0,1:04:06.72,1:04:08.98,English,,0,0,0,,God will grant you your wish.\N{\rChinese}上帝会满足你的愿望。
+Dialogue: 0,1:04:10.56,1:04:14.22,English,,0,0,0,,So Mao Mao is really excited and he thinks a long time about what he wants.\N{\rChinese}于是毛毛非常兴奋，思考很久想要什么。
+Dialogue: 0,1:04:14.22,1:04:17.90,English,,0,0,0,,On his fourth birthday, he prays to God and says,\N{\rChinese}在他四岁生日时，他向上帝祈祷并说，
+Dialogue: 0,1:04:18.20,1:04:21.74,English,,0,0,0,,I wish for a room full\N{\rChinese}我想要一个满满的房间
+Dialogue: 0,1:04:21.74,1:04:24.54,English,,0,0,0,,of strawberries every single day.\N{\rChinese}每天都有草莓。
+Dialogue: 0,1:04:25.26,1:04:28.96,English,,0,0,0,,He says that, and God immediately responds.\N{\rChinese}他说了这句话，上帝立刻回应。
+Dialogue: 0,1:04:29.66,1:04:33.86,English,,0,0,0,,Immediately, in his room, it's full of strawberries.\N{\rChinese}立刻，房间里满满的草莓。
+Dialogue: 0,1:04:34.10,1:04:36.46,English,,0,0,0,,And Mao Mao, he loves strawberries.\N{\rChinese}毛毛，真爱草莓。
+Dialogue: 0,1:04:36.64,1:04:39.86,English,,0,0,0,,He eats it right away. The next day,\N{\rChinese}他立刻吃下去。第二天，房间又满满的草莓。
+Dialogue: 0,1:04:41.14,1:04:43.26,English,,0,0,0,,the room is also full of strawberries.\N{\rChinese}房间又满满的草莓。
+Dialogue: 0,1:04:43.34,1:04:45.90,English,,0,0,0,,And he eats it, and the next day, The third day, again.\N{\rChinese}他吃了，第二天，第三天，又吃了。
+Dialogue: 0,1:04:46.14,1:04:48.74,English,,0,0,0,,But by the fourth day, he's kind of sick of strawberries.\N{\rChinese}到第四天，他有点吃腻草莓。
+Dialogue: 0,1:04:49.64,1:04:53.44,English,,0,0,0,,So eventually, strawberries overflow and fill the house.\N{\rChinese}于是，草莓溢满屋子。
+Dialogue: 0,1:04:54.44,1:04:56.50,English,,0,0,0,,And then they fill the street.\N{\rChinese}随后，草莓洒满街道。
+Dialogue: 0,1:04:57.38,1:04:59.82,English,,0,0,0,,At this time, the neighbors are really worried.\N{\rChinese}此时，邻居们真担心。
+Dialogue: 0,1:05:00.30,1:05:03.10,English,,0,0,0,,And we have to explain to our neighbors, oh, it's because\N{\rChinese}我们得向邻居解释，哦，原因是
+Dialogue: 0,1:05:03.10,1:05:06.04,English,,0,0,0,,Mao Mao wished for strawberries,\N{\rChinese}毛毛想要草莓，
+Dialogue: 0,1:05:06.30,1:05:08.08,English,,0,0,0,,and that's why we have so many strawberries.\N{\rChinese}于是我们就有这么多草莓。
+Dialogue: 0,1:05:08.34,1:05:10.60,English,,0,0,0,,But hey, let's share strawberries together.\N{\rChinese}但嘿，让我们一起分享草莓。
+Dialogue: 0,1:05:10.90,1:05:15.00,English,,0,0,0,,Okay? And the neighbors are at first happy, but then eventually, they get sick of strawberries too.\N{\rChinese}好的？邻居们起初时很开心，随后又被草莓搞得厌烦。
+Dialogue: 0,1:05:15.32,1:05:17.64,English,,0,0,0,,And then the strawberries fill the entire street.\N{\rChinese}然后草莓洒满整条街道。
+Dialogue: 0,1:05:18.40,1:05:20.96,English,,0,0,0,,Then the city of Beijing is filled with the strawberries.\N{\rChinese}然后北京城里满是草莓。
+Dialogue: 0,1:05:21.80,1:05:23.16,English,,0,0,0,,Now it's a national emergency.\N{\rChinese}现在是全国紧急情况。
+Dialogue: 0,1:05:23.64,1:05:27.76,English,,0,0,0,,Okay? The military come, scientists come, and we're ever trying to resolve this issue.\N{\rChinese}军队来了，科学家来了，我们一直在努力解决这个问题。
+Dialogue: 0,1:05:28.14,1:05:30.58,English,,0,0,0,,Then the whole country of China is filled with strawberries.\N{\rChinese}然后整个中国都被草莓覆盖。
+Dialogue: 0,1:05:31.82,1:05:34.90,English,,0,0,0,,Then the whole continent of Asia is filled with strawberries.\N{\rChinese}随后整个亚洲都被草莓覆盖。
+Dialogue: 0,1:05:35.64,1:05:39.12,English,,0,0,0,,Eventually, everyone has to get on a spaceship and get out of,\N{\rChinese}最终，大家都得登上宇宙飞船离开。
+Dialogue: 0,1:05:40.06,1:05:43.80,English,,0,0,0,,get out into space and go to the moon, to recolonize the moon.\N{\rChinese}登上宇宙飞船，飞向月球，重新殖民月球。
+Dialogue: 0,1:05:44.28,1:05:48.56,English,,0,0,0,,But strawberries keep on overflowing until they reach the moon.\N{\rChinese}草莓不断溢出，直至月球。
+Dialogue: 0,1:05:49.60,1:05:53.12,English,,0,0,0,,At this point, the entire world prays,\N{\rChinese}此时，全球皆祈祷。
+Dialogue: 0,1:05:53.12,1:05:57.18,English,,0,0,0,,says to Mao Mao, listen, your fifth birthday is tomorrow.\N{\rChinese}说给毛毛听，五岁生日明天。
+Dialogue: 0,1:05:58.74,1:06:01.06,English,,0,0,0,,Please pray to God and\N{\rChinese}请向上帝祷告，且
+Dialogue: 0,1:06:01.06,1:06:03.62,English,,0,0,0,,tell him no more strawberries.\N{\rChinese}再告他草莓不再来。
+Dialogue: 0,1:06:04.16,1:06:08.48,English,,0,0,0,,Mao Mao, if you do this for us, we will make you president and king of the world.\N{\rChinese}毛毛，如果你为我们做了这件事，我们会让你成为世界的总统和国王。
+Dialogue: 0,1:06:08.70,1:06:12.02,English,,0,0,0,,We will give you all the chocolate in the world.\N{\rChinese}我们会给你全世界的巧克力。
+Dialogue: 0,1:06:12.06,1:06:13.42,English,,0,0,0,,We'll give you all the gold in the world.\N{\rChinese}我们会给你全世界的黄金。
+Dialogue: 0,1:06:13.50,1:06:18.40,English,,0,0,0,,Can you please do this? Can you please tell God no more strawberries?\N{\rChinese}请你做这件事吧？请你告诉上帝不再送草莓吗？
+Dialogue: 0,1:06:18.86,1:06:21.10,English,,0,0,0,,If you do that, we'll give you all the chocolate in the world.\N{\rChinese}如果你这么做，我们会给你全世界的巧克力。
+Dialogue: 0,1:06:22.02,1:06:23.96,English,,0,0,0,,Mao Mao says, yes, I will.\N{\rChinese}毛毛说，好的，我会的。
+Dialogue: 0,1:06:24.56,1:06:25.96,English,,0,0,0,,And on his fifth birthday,\N{\rChinese}在他五岁生日那天，
+Dialogue: 0,1:06:26.36,1:06:28.20,English,,0,0,0,,Mao Mao closes her eyes,\N{\rChinese}毛毛闭上眼睛，
+Dialogue: 0,1:06:29.14,1:06:31.46,English,,0,0,0,,prays to God and says, dear God,\N{\rChinese}祈祷上帝并说，亲爱的上帝，
+Dialogue: 0,1:06:32.40,1:06:35.88,English,,0,0,0,,I wish for a room full of chocolate every day.\N{\rChinese}我每天都想有一间满满的巧克力房间。
+Dialogue: 0,1:06:37.18,1:06:38.98,English,,0,0,0,,And that's how the story ends. Okay?\N{\rChinese}于是故事就这样结束了。好吗？
+Dialogue: 0,1:06:39.46,1:06:41.96,English,,0,0,0,,Now, it's a very strange story.\N{\rChinese}现在，这个故事很奇怪。
+Dialogue: 0,1:06:41.96,1:06:43.36,English,,0,0,0,,But guess what?\N{\rChinese}但你猜怎么了？
+Dialogue: 0,1:06:43.50,1:06:45.64,English,,0,0,0,,My son's going to remember this for a long time.\N{\rChinese}我儿子会记住这件事很久。
+Dialogue: 0,1:06:45.86,1:06:51.06,English,,0,0,0,,But knowing that, it's going to inspire him to think about the story\N{\rChinese}知道了这件事，他会被激发去思考这段故事。
+Dialogue: 0,1:06:51.06,1:06:52.56,English,,0,0,0,,and tell his own stories.\N{\rChinese}并讲述自己的故事。
+Dialogue: 0,1:06:53.64,1:06:57.90,English,,0,0,0,,Okay? All he has to do is change the story a bit, and now he has his own story.\N{\rChinese}好的？他只需要稍微改动故事，现在他就有自己的故事。
+Dialogue: 0,1:06:58.10,1:07:00.72,English,,0,0,0,,He can change the characters. He can change some of the details.\N{\rChinese}他可以改角色，也可以改细节。
+Dialogue: 0,1:07:01.28,1:07:03.44,English,,0,0,0,,All right? That's the power of the old tradition.\N{\rChinese}好的？这就是古老传统的力量。
+Dialogue: 0,1:07:05.26,1:07:07.36,English,,0,0,0,,But if I were to write down this story,\N{\rChinese}但如果我要把这个故事写下来，
+Dialogue: 0,1:07:07.98,1:07:09.60,English,,0,0,0,,I couldn't say it in this way.\N{\rChinese}我就不能这样说了。
+Dialogue: 0,1:07:10.28,1:07:11.74,English,,0,0,0,,I couldn't do it. Okay?\N{\rChinese}我做不到。好的吗？
+Dialogue: 0,1:07:11.96,1:07:14.26,English,,0,0,0,,Let's see how I would change the story if I wrote it down.\N{\rChinese}让我看看如果把它写下来，我会怎么改动故事。
+Dialogue: 0,1:07:14.66,1:07:19.40,English,,0,0,0,,Let's do the same story, but now I write it down rather than say it to Mao Mao himself.\N{\rChinese}同样的故事，但这次我写下来，而不是对毛毛说。
+Dialogue: 0,1:07:21.08,1:07:25.70,English,,0,0,0,,For his fourth birthday, Mao Mao prayed to God for a room full of strawberries every day.\N{\rChinese}为他的四岁生日，毛毛祈求上帝每天给他一间满满的草莓房间。
+Dialogue: 0,1:07:26.48,1:07:27.98,English,,0,0,0,,Immediately, his room filled with strawberries.\N{\rChinese}立刻，他的房间就满了草莓。
+Dialogue: 0,1:07:28.34,1:07:32.12,English,,0,0,0,,He ate them happily. The next morning, his room filled with strawberries.\N{\rChinese}他高兴地吃了草莓。第二天早晨，他的房间又满了草莓。
+Dialogue: 0,1:07:32.28,1:07:35.48,English,,0,0,0,,He ate them. The very next morning, his room filled with strawberries.\N{\rChinese}他吃了它们。第二天早晨，他的房间又满了草莓。
+Dialogue: 0,1:07:35.64,1:07:36.94,English,,0,0,0,,He did not eat them.\N{\rChinese}他没有吃它们。
+Dialogue: 0,1:07:37.00,1:07:38.88,English,,0,0,0,,Okay? So I have to make this story shorter,\N{\rChinese}好的吗？所以我得把这个故事写短一点。
+Dialogue: 0,1:07:40.04,1:07:43.04,English,,0,0,0,,more compact. So that's easier to read.\N{\rChinese}更紧凑一点，读起来更容易。
+Dialogue: 0,1:07:45.92,1:07:48.78,English,,0,0,0,,The house filled with strawberries, and the street filled with them,\N{\rChinese}房间里满了草莓，街道也满了草莓，随后是城市，再到国家。
+Dialogue: 0,1:07:48.88,1:07:50.82,English,,0,0,0,,then the city, then the country.\N{\rChinese}then the city, then the country.
+Dialogue: 0,1:07:51.02,1:07:54.60,English,,0,0,0,,On his fifth birthday, Mao Mao prayed to God for no more strawberries.\N{\rChinese}在他五岁生日那天，毛毛向上帝祈求不再有草莓。
+Dialogue: 0,1:07:55.14,1:07:58.58,English,,0,0,0,,His room became clean, and Mao Mao understood the power of words.\N{\rChinese}他的房间变得干净，毛毛也明白了文字的力量。
+Dialogue: 0,1:07:59.14,1:08:01.74,English,,0,0,0,,You understand? Why am I doing this?\N{\rChinese}你明白吗？我为什么要这么做？
+Dialogue: 0,1:08:01.82,1:08:04.12,English,,0,0,0,,Why has literary culture changed the story?\N{\rChinese}文学文化为什么改变了故事？
+Dialogue: 0,1:08:04.30,1:08:08.84,English,,0,0,0,,Because now I know that the words leave me,\N{\rChinese}因为现在我知道话语离开我，
+Dialogue: 0,1:08:09.34,1:08:11.96,English,,0,0,0,,and they leave Mao Mao. They go out into the wider world.\N{\rChinese}它们离开毛毛，飞向更广阔的世界。
+Dialogue: 0,1:08:12.36,1:08:16.12,English,,0,0,0,,And therefore, people will judge my words.\N{\rChinese}于是人们会评判我的话语。
+Dialogue: 0,1:08:17.72,1:08:21.88,English,,0,0,0,,They will think that I'm a bad father or whatever.\N{\rChinese}他们会认为我是个坏父亲或其他。
+Dialogue: 0,1:08:22.02,1:08:26.22,English,,0,0,0,,I'm conscious of that. Okay? So I change in a way that is not so offensive.\N{\rChinese}我对此很在意。好了？于是我以不那么冒犯的方式改变。
+Dialogue: 0,1:08:26.94,1:08:30.52,English,,0,0,0,,So that people can better appreciate this.\N{\rChinese}于是人们能更好地欣赏此事。
+Dialogue: 0,1:08:31.08,1:08:34.82,English,,0,0,0,,You understand? Do you see the difference between oral culture and literary culture?\N{\rChinese}你明白吗？你能看出口头文化与文学文化的差别吗？
+Dialogue: 0,1:08:35.38,1:08:37.78,English,,0,0,0,,In oral culture, you can be intimate.\N{\rChinese}在口头文化里，你可以亲密相处。
+Dialogue: 0,1:08:38.26,1:08:40.02,English,,0,0,0,,Therefore, you can play.\N{\rChinese}因此，你可以演绎。
+Dialogue: 0,1:08:40.20,1:08:42.84,English,,0,0,0,,You can experiment. You can be curious.\N{\rChinese}你可以实验。你可以好奇。
+Dialogue: 0,1:08:43.04,1:08:45.98,English,,0,0,0,,You can be adventurous. And that's what leads to the imagination.\N{\rChinese}你可以冒险。正是如此，才孕育想象。
+Dialogue: 0,1:08:46.94,1:08:49.88,English,,0,0,0,,But in the literary culture, everyone is watching you.\N{\rChinese}但在文学文化里，大家都在注视着你。
+Dialogue: 0,1:08:51.26,1:08:53.62,English,,0,0,0,,A hundred years from now, people are still watching you.\N{\rChinese}一百年后，人们仍在注视着你。
+Dialogue: 0,1:08:53.96,1:08:56.52,English,,0,0,0,,Therefore, you have a sense of shame.\N{\rChinese}于是，你会有一种羞愧感。
+Dialogue: 0,1:08:56.78,1:08:59.80,English,,0,0,0,,You're very conscious about your effect on people.\N{\rChinese}你很在意自己对人们的影响。
+Dialogue: 0,1:09:00.18,1:09:03.00,English,,0,0,0,,All right? So a metaphor we can use is,\N{\rChinese}好了？所以我们可以用一个比喻。
+Dialogue: 0,1:09:03.08,1:09:06.12,English,,0,0,0,,this transition from oral tradition to literary culture,\N{\rChinese}从口头传统到文学文化的过渡，
+Dialogue: 0,1:09:06.58,1:09:08.52,English,,0,0,0,,is really like the story of Adam and Eve.\N{\rChinese}就像亚当与夏娃的故事。
+Dialogue: 0,1:09:08.64,1:09:09.97,English,,0,0,0,,Adam and Eve. In theori,\N{\rChinese}亚当与夏娃。在理论里，
+Dialogue: 0,1:09:11.78,1:09:15.88,English,,0,0,0,,you flavor flavor flavor flavor flavor flavor flavor flavor flavor flavor flavor They understood\N{\rChinese}你调味调味调味调味调味调味调味调味调味调味他们懂了
+Dialogue: 0,1:09:15.88,1:09:19.30,English,,0,0,0,,that they are naked and\N{\rChinese}那他们赤裸无衣
+Dialogue: 0,1:09:19.30,1:09:20.74,English,,0,0,0,,therefore they're being watched.\N{\rChinese}于是被人注视
+Dialogue: 0,1:09:21.76,1:09:23.40,English,,0,0,0,,And because of this,\N{\rChinese}于是因为这个，他们被抛出伊甸园。
+Dialogue: 0,1:09:23.50,1:09:27.64,English,,0,0,0,,they are thrown out of the Garden of Eden.\N{\rChinese}他们被抛出伊甸园。
+Dialogue: 0,1:09:28.78,1:09:30.98,English,,0,0,0,,So I want to leave you with that metaphor.\N{\rChinese}于是我想用这个比喻留给你们。
+Dialogue: 0,1:09:32.22,1:09:36.70,English,,0,0,0,,Oral tradition, we leave it behind and we think that it's a good thing.\N{\rChinese}口头传统，我们把它抛在身后，认为它是件好事。
+Dialogue: 0,1:09:37.24,1:09:40.54,English,,0,0,0,,But we tend to forget the power\N{\rChinese}但我们往往忘记了口头传统的力量
+Dialogue: 0,1:09:40.54,1:09:43.46,English,,0,0,0,,and beauty of the oral tradition.\N{\rChinese}和美感。
+Dialogue: 0,1:09:44.44,1:09:50.14,English,,0,0,0,,So I leave you with three questions to help us better understand\N{\rChinese}于是我留给你们三个问题，帮助我们更好地理解。
+Dialogue: 0,1:09:50.14,1:09:51.46,English,,0,0,0,,and remember the lecture.\N{\rChinese}记住讲座。
+Dialogue: 0,1:09:51.64,1:09:53.62,English,,0,0,0,,The first question is, what is the imagination?\N{\rChinese}第一个问题是，想象是什么？
+Dialogue: 0,1:09:53.98,1:09:56.60,English,,0,0,0,,What is the memory? Well, in the oral tradition,\N{\rChinese}记忆是什么？好吧，在口头传统中，
+Dialogue: 0,1:09:56.88,1:09:58.88,English,,0,0,0,,we would think that the imagination is just an extension\N{\rChinese}我们会认为想象只是记忆的延伸。通过让我们的故事易记，我们激发想象。
+Dialogue: 0,1:09:59.26,1:10:03.84,English,,0,0,0,,of the memory. By making our stories memorable, we excite the imagination.\N{\rChinese}因此我们允许创作的过程。
+Dialogue: 0,1:10:05.24,1:10:07.06,English,,0,0,0,,Therefore we allow for the process of creation.\N{\rChinese}Therefore we allow forthe process of creation.
+Dialogue: 0,1:10:08.28,1:10:13.08,English,,0,0,0,,Second question is, could we have Homer, Dante, and Shakespeare without the oral tradition?\N{\rChinese}第二个问题是，若没有口头传统，我们会有荷马、但丁和莎士比吗？
+Dialogue: 0,1:10:13.20,1:10:15.26,English,,0,0,0,,Yes. And the answer, I think, is no.\N{\rChinese}会的。我的答案是不会。
+Dialogue: 0,1:10:15.66,1:10:18.88,English,,0,0,0,,I think we would not have the greatest poetry\N{\rChinese}我认为我们就不会有最伟大的诗歌。
+Dialogue: 0,1:10:18.88,1:10:22.48,English,,0,0,0,,in human history if it were not for the oral tradition.\N{\rChinese}如果不是口头传统，人类历史会怎样？
+Dialogue: 0,1:10:23.44,1:10:25.62,English,,0,0,0,,In fact, if you think about for the past 50 years,\N{\rChinese}事实上，如果你回想过去五十年，
+Dialogue: 0,1:10:26.18,1:10:29.62,English,,0,0,0,,what has humanity, even though there's like 8 billion of us,\N{\rChinese}人类已经拥有八十亿人，甚至如此，
+Dialogue: 0,1:10:29.72,1:10:32.76,English,,0,0,0,,we have more wealth and\N{\rChinese}我们拥有比以往更丰富的财富和技术，究竟创作了什么文学巨作？
+Dialogue: 0,1:10:32.76,1:10:37.12,English,,0,0,0,,technology than ever before, what literary masterpiece have we created?\N{\rChinese}我知道你们在学校读《多伊莱特俱乐部》，但它很糟。
+Dialogue: 0,1:10:38.80,1:10:41.98,English,,0,0,0,,I know you guys read the Doylet Club in school and it sucks.\N{\rChinese}I know you guys read the Doylet Club in school and it sucks.
+Dialogue: 0,1:10:42.18,1:10:43.86,English,,0,0,0,,I'm telling you right now. It's terrible.\N{\rChinese}我现在就告诉你，真糟。
+Dialogue: 0,1:10:44.06,1:10:46.40,English,,0,0,0,,It's a piece of crap. And\N{\rChinese}它是一坯烂作。
+Dialogue: 0,1:10:46.40,1:10:51.02,English,,0,0,0,,I can't think of a literary masterpiece of the past 50 to 60 years.\N{\rChinese}我想不出过去五六十年间的文学巨作。
+Dialogue: 0,1:10:51.56,1:10:55.06,English,,0,0,0,,There are some very entertaining books, but\N{\rChinese}有一些非常有趣的书，但……
+Dialogue: 0,1:10:55.06,1:10:59.56,English,,0,0,0,,not of the stature and power of Homer, Dante, and Shakespeare.\N{\rChinese}不及荷马、但丁与莎士比的宏大与力量。
+Dialogue: 0,1:11:00.16,1:11:02.34,English,,0,0,0,,And the last question I have is,\N{\rChinese}还有我最后一个问题是，
+Dialogue: 0,1:11:02.44,1:11:06.84,English,,0,0,0,,does civilization make us less creative?\N{\rChinese}文明让我们更少创造吗？
+Dialogue: 0,1:11:10.46,1:11:13.44,English,,0,0,0,,Does being a civilization make us more creative?\N{\rChinese}成为文明让我们更有创造力吗？
+Dialogue: 0,1:11:13.44,1:11:16.42,English,,0,0,0,,Are we more ashamed of exploring,\N{\rChinese}我们更自豪于探索吗？
+Dialogue: 0,1:11:16.74,1:11:19.08,English,,0,0,0,,of being curious, of playing?\N{\rChinese}好奇的事，玩耍的事？
+Dialogue: 0,1:11:20.10,1:11:23.86,English,,0,0,0,,Are we less creative because of civilization?\N{\rChinese}文明让我们更少创造吗？
+Dialogue: 0,1:11:25.66,1:11:27.00,English,,0,0,0,,All right. Okay.\N{\rChinese}好的。好。
+Dialogue: 0,1:11:27.10,1:11:29.16,English,,0,0,0,,So that's it, guys. Any questions?\N{\rChinese}好了，大家。还有问题吗？
+Dialogue: 0,1:11:38.12,1:11:41.90,English,,0,0,0,,Okay. So next week,\N{\rChinese}好的。下周，
+Dialogue: 0,1:11:41.94,1:11:44.48,English,,0,0,0,,we will do the 11th edition of the Abyssic Caliphate.\N{\rChinese}我们将进行第十一版的深渊哈里发。
+Dialogue: 0,1:11:44.54,1:11:45.78,English,,0,0,0,,Okay? All right.\N{\rChinese}好的？好了。
+Dialogue: 0,1:11:45.80,1:11:49.58,English,,0,0,0,,So I will see you guys next Tuesday.\N{\rChinese}那我下周二见你们。

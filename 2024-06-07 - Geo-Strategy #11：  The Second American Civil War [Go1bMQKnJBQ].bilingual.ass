@@ -1,0 +1,1140 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.96,English,,0,0,0,,Today we will be discussing\N{\rChinese}今天我们将讨论
+Dialogue: 0,0:00:02.96,0:00:06.12,English,,0,0,0,,the second American Civil War.\N{\rChinese}第二次美国内战。
+Dialogue: 0,0:00:06.52,0:00:08.96,English,,0,0,0,,I want to make the argument that\N{\rChinese}我想提出的论点是
+Dialogue: 0,0:00:08.96,0:00:12.92,English,,0,0,0,,a conflict is very likely.\N{\rChinese}冲突非常可能发生。
+Dialogue: 0,0:00:14.00,0:00:17.36,English,,0,0,0,,We will be discussing why it is likely,\N{\rChinese}我们将讨论其可能性的原因，
+Dialogue: 0,0:00:17.62,0:00:20.86,English,,0,0,0,,how this war will benefit itself,\N{\rChinese}这场战争如何自我获益，
+Dialogue: 0,0:00:21.28,0:00:23.34,English,,0,0,0,,and what will happen after this war.\N{\rChinese}以及这场战争之后会发生什么。
+Dialogue: 0,0:00:23.34,0:00:28.42,English,,0,0,0,,The first thing to know about America is\N{\rChinese}关于美国的第一件事是
+Dialogue: 0,0:00:28.42,0:00:32.02,English,,0,0,0,,that it is a country that\N{\rChinese}它是一个……国家
+Dialogue: 0,0:00:32.02,0:00:34.10,English,,0,0,0,,enjoys violence.\N{\rChinese}享受暴力。
+Dialogue: 0,0:00:34.52,0:00:36.58,English,,0,0,0,,You can say that\N{\rChinese}你可以说。
+Dialogue: 0,0:00:36.58,0:00:39.66,English,,0,0,0,,Americans are addicted\N{\rChinese}美国人已沉迷。
+Dialogue: 0,0:00:39.66,0:00:42.58,English,,0,0,0,,to violence.\N{\rChinese}到暴力。
+Dialogue: 0,0:00:43.46,0:00:45.06,English,,0,0,0,,For example,\N{\rChinese}例如，
+Dialogue: 0,0:00:45.30,0:00:46.92,English,,0,0,0,,America has\N{\rChinese}美国有
+Dialogue: 0,0:00:46.92,0:00:51.92,English,,0,0,0,,434 guns.\N{\rChinese}434支枪
+Dialogue: 0,0:00:52.26,0:00:54.84,English,,0,0,0,,Sorry. 434 million guns.\N{\rChinese}4.34亿支枪
+Dialogue: 0,0:00:55.32,0:00:59.04,English,,0,0,0,,That's 1.3 guns for every one person.\N{\rChinese}每人1.3支枪
+Dialogue: 0,0:00:59.86,0:01:04.62,English,,0,0,0,,And the guns they have, a lot of them are like semi -machine guns.\N{\rChinese}他们拥有的枪支中，很多是半自动机枪。
+Dialogue: 0,0:01:05.18,0:01:09.06,English,,0,0,0,,So it's a very gun -obsessed society.\N{\rChinese}于是这是一种极度热衷枪支的社会。
+Dialogue: 0,0:01:09.58,0:01:12.88,English,,0,0,0,,Not only that, but they believe that\N{\rChinese}不止如此，他们还认为
+Dialogue: 0,0:01:12.88,0:01:18.40,English,,0,0,0,,gun ownership is their sacred right as Americans.\N{\rChinese}枪支拥有是美国人的神圣权利。
+Dialogue: 0,0:01:19.09,0:01:23.32,English,,0,0,0,,So the Second Amendment of the Constitution is the second amendment.\N{\rChinese}第二修正案即为宪法第二条修正。
+Dialogue: 0,0:01:23.32,0:01:26.34,English,,0,0,0,,The third amendment is that every American has the right to bear arms.\N{\rChinese}第三修正案则是每个美国人都有携枪权利。
+Dialogue: 0,0:01:28.06,0:01:29.94,English,,0,0,0,,Then there's American football.\N{\rChinese}然后就是美式足球。
+Dialogue: 0,0:01:30.64,0:01:32.92,English,,0,0,0,,Have you guys seen American football?\N{\rChinese}你们看过美式足球吗？
+Dialogue: 0,0:01:33.14,0:01:35.98,English,,0,0,0,,Where guys just bang at each other?\N{\rChinese}球员们互相撞击的场面？
+Dialogue: 0,0:01:36.16,0:01:38.44,English,,0,0,0,,It is an extremely violent sport.\N{\rChinese}它是一项极其激烈的运动。
+Dialogue: 0,0:01:38.72,0:01:42.30,English,,0,0,0,,In fact, America is really the only country that plays this sport.\N{\rChinese}事实上，美国几乎是唯一玩这项运动的国家。
+Dialogue: 0,0:01:42.54,0:01:44.34,English,,0,0,0,,And Americans love football.\N{\rChinese}美国人热爱美式足球。
+Dialogue: 0,0:01:44.76,0:01:46.82,English,,0,0,0,,The Super Bowl is the most\N{\rChinese}超级碗赛是每年最受关注的电视节目。
+Dialogue: 0,0:01:46.82,0:01:50.78,English,,0,0,0,,watched TV event every year.\N{\rChinese}而且……
+Dialogue: 0,0:01:50.78,0:01:51.94,English,,0,0,0,,And\N{\rChinese}And
+Dialogue: 0,0:01:51.94,0:01:55.50,English,,0,0,0,,the game of\N{\rChinese}足球这项运动
+Dialogue: 0,0:01:55.50,0:02:00.70,English,,0,0,0,,football causes a lot of psychological injuries.\N{\rChinese}足球会造成大量心理创伤
+Dialogue: 0,0:02:01.10,0:02:04.06,English,,0,0,0,,So there are a lot of football players who\N{\rChinese}因此有许多足球运动员
+Dialogue: 0,0:02:04.06,0:02:07.74,English,,0,0,0,,at age 30, they either commit suicide or they will kill someone\N{\rChinese}在30岁时，他们要么自杀，要么杀人
+Dialogue: 0,0:02:07.74,0:02:10.70,English,,0,0,0,,because their brains have been destroyed by the game.\N{\rChinese}因为他们的脑袋被这项运动摧毁了
+Dialogue: 0,0:02:10.90,0:02:12.80,English,,0,0,0,,It is an extremely violent sport.\N{\rChinese}这是一项极其激烈的运动
+Dialogue: 0,0:02:13.02,0:02:17.62,English,,0,0,0,,And even though it is barbaric, Americans love it.\N{\rChinese}而且即使它是野蛮的，美国人仍然热爱它。
+Dialogue: 0,0:02:18.66,0:02:19.94,English,,0,0,0,,Americans also...\N{\rChinese}美国人也……
+Dialogue: 0,0:02:19.94,0:02:22.76,English,,0,0,0,,worship their history of wars.\N{\rChinese}他们崇拜自己的战争历史。
+Dialogue: 0,0:02:23.06,0:02:27.30,English,,0,0,0,,They believe that fighting wars is noble and it's sacred.\N{\rChinese}他们认为打仗是高贵且神圣的事。
+Dialogue: 0,0:02:27.94,0:02:31.42,English,,0,0,0,,So the second thing to know about America is\N{\rChinese}于是了解美国的第二件事是……
+Dialogue: 0,0:02:31.42,0:02:35.98,English,,0,0,0,,that it has a long history of fighting wars.\N{\rChinese}它有着悠久的打仗历史。
+Dialogue: 0,0:02:36.20,0:02:37.98,English,,0,0,0,,In fact, you can make the argument that\N{\rChinese}实际上，你可以说……
+Dialogue: 0,0:02:37.98,0:02:43.04,English,,0,0,0,,America has been continuously at war since its founding in 1776.\N{\rChinese}美国自1776年建国以来一直处于战争状态。
+Dialogue: 0,0:02:43.64,0:02:45.02,English,,0,0,0,,Even before that.\N{\rChinese}甚至早于此。
+Dialogue: 0,0:02:46.40,0:02:50.98,English,,0,0,0,,So the first major war that America fought, of course, was the Revolution.\N{\rChinese}于是美国第一次大规模战争当然是革命。
+Dialogue: 0,0:02:52.54,0:02:55.88,English,,0,0,0,,1776. War of Independence.\N{\rChinese}1776年。独立战争。
+Dialogue: 0,0:02:57.00,0:03:00.18,English,,0,0,0,,And the reality is\N{\rChinese}而事实是
+Dialogue: 0,0:03:00.18,0:03:03.68,English,,0,0,0,,that Americans believed this war was sacred.\N{\rChinese}那时美国人认为这场战争是神圣的。
+Dialogue: 0,0:03:04.94,0:03:07.80,English,,0,0,0,,And it was a revolution in human affairs.\N{\rChinese}这是一场人间的革命。
+Dialogue: 0,0:03:08.16,0:03:11.08,English,,0,0,0,,But if you actually look at the history of this war,\N{\rChinese}但如果你真正去看这场战争的历史，
+Dialogue: 0,0:03:11.26,0:03:15.00,English,,0,0,0,,you'll discover that the Americans didn't really fight this war.\N{\rChinese}你会发现美国人并没有真正为这场战争而战斗。
+Dialogue: 0,0:03:15.00,0:03:18.82,English,,0,0,0,,They fought this war for a good reason. They fought this war\N{\rChinese}他们之所以参战，是有充分理由。
+Dialogue: 0,0:03:18.82,0:03:22.16,English,,0,0,0,,because the British were taxing them.\N{\rChinese}因为英国对他们征税。
+Dialogue: 0,0:03:22.50,0:03:25.74,English,,0,0,0,,If you think about it, well, the British were providing defense.\N{\rChinese}如果你想想，英国人提供了防御。
+Dialogue: 0,0:03:26.14,0:03:27.42,English,,0,0,0,,They were providing an army, right?\N{\rChinese}他们提供了一支军队，对吧？
+Dialogue: 0,0:03:27.98,0:03:31.78,English,,0,0,0,,So the British had a very good reason to tax the Americans.\N{\rChinese}于是英国人有很好的理由向美国人征税。
+Dialogue: 0,0:03:32.22,0:03:34.98,English,,0,0,0,,But the Americans didn't really like this, so they rebelled.\N{\rChinese}但美国人并不太喜欢这个，于是他们起了叛乱。
+Dialogue: 0,0:03:36.80,0:03:39.94,English,,0,0,0,,And the rebellion was actually the first American Civil War.\N{\rChinese}这场叛乱实际上就是第一次美国内战。
+Dialogue: 0,0:03:40.14,0:03:42.12,English,,0,0,0,,Because there were actually a lot of Americans who\N{\rChinese}因为当时有很多美国人……
+Dialogue: 0,0:03:42.12,0:03:44.98,English,,0,0,0,,wanted to remain in the Union.\N{\rChinese}想留在联邦内。
+Dialogue: 0,0:03:44.98,0:03:49.04,English,,0,0,0,,And so these loyalists,\N{\rChinese}于是这些忠臣，
+Dialogue: 0,0:03:49.20,0:03:53.28,English,,0,0,0,,a lot of them were terrorized by extremists\N{\rChinese}他们中的许多人被极端分子恐吓。
+Dialogue: 0,0:03:53.28,0:03:58.00,English,,0,0,0,,who wanted independence. So that is the American Revolution.\N{\rChinese}谁想要独立。所以就是美国革命。
+Dialogue: 0,0:03:58.50,0:04:00.28,English,,0,0,0,,But after the American Revolution,\N{\rChinese}但在美国革命之后，
+Dialogue: 0,0:04:00.88,0:04:06.16,English,,0,0,0,,the Americans embarked on something called Manifest Destiny.\N{\rChinese}美国人开始了一项被称为“显然命运”的事业。
+Dialogue: 0,0:04:07.16,0:04:10.12,English,,0,0,0,,And the idea of Manifest Destiny is that\N{\rChinese}而显然命运的概念是
+Dialogue: 0,0:04:10.12,0:04:12.68,English,,0,0,0,,it is God's will that\N{\rChinese}这是上帝的意志
+Dialogue: 0,0:04:12.68,0:04:14.96,English,,0,0,0,,America controls all of the world.\N{\rChinese}美洲掌控全世界。
+Dialogue: 0,0:04:14.98,0:04:18.24,English,,0,0,0,,All of the Americas. North America and South America.\N{\rChinese}全美洲。北美洲与南美洲。
+Dialogue: 0,0:04:18.58,0:04:21.58,English,,0,0,0,,So the Americans embarked on\N{\rChinese}于是美国人开始了
+Dialogue: 0,0:04:21.58,0:04:26.64,English,,0,0,0,,a violent colonization of all lands.\N{\rChinese}一次对所有土地的激烈殖民
+Dialogue: 0,0:04:26.84,0:04:29.10,English,,0,0,0,,Killing many natives and\N{\rChinese}杀死许多土著人并其他民族以掌控美洲。
+Dialogue: 0,0:04:29.10,0:04:33.64,English,,0,0,0,,other peoples to control America.\N{\rChinese}杀死许多土著人并其他民族以掌控美洲。
+Dialogue: 0,0:04:34.00,0:04:36.76,English,,0,0,0,,Manifest Destiny. And then this led to,\N{\rChinese}显现命运。随后这导致了
+Dialogue: 0,0:04:36.90,0:04:40.76,English,,0,0,0,,from 1861 to 1865,\N{\rChinese}从1861年到1865年，
+Dialogue: 0,0:04:40.90,0:04:42.72,English,,0,0,0,,the American Civil War.\N{\rChinese}美国内战。
+Dialogue: 0,0:04:42.86,0:04:46.80,English,,0,0,0,,Okay? Which killed 800,000,\N{\rChinese}好的？造成了80万人的死亡，
+Dialogue: 0,0:04:46.80,0:04:50.72,English,,0,0,0,,a million Americans. But it was the deadliest war\N{\rChinese}约一百万人。但这场战争是美国历史上最致命的战争。
+Dialogue: 0,0:04:50.72,0:04:52.72,English,,0,0,0,,that America ever fought.\N{\rChinese}比第二次世界大战和第一次世界大战都多得多。
+Dialogue: 0,0:04:53.04,0:04:56.02,English,,0,0,0,,Much more so than World War II and World War I.\N{\rChinese}Much more so than WorldWar II and World War I.
+Dialogue: 0,0:04:56.22,0:05:01.16,English,,0,0,0,,In fact, more people died in this war than in World War I\N{\rChinese}实际上，这场战争的死亡人数比美国第一次和第二次世界大战加起来还多。
+Dialogue: 0,0:05:01.16,0:05:03.14,English,,0,0,0,,and World War II combined for America.\N{\rChinese}我们来看看内战的原因。
+Dialogue: 0,0:05:04.50,0:05:08.18,English,,0,0,0,,And we looked at the reason for the Civil War.\N{\rChinese}And we looked at the reason for the Civil War.
+Dialogue: 0,0:05:08.40,0:05:11.62,English,,0,0,0,,Again, you're like, they didn't actually have to fight this war.\N{\rChinese}再说一次，你们会说他们其实不必打这场战争。
+Dialogue: 0,0:05:11.90,0:05:15.08,English,,0,0,0,,Okay? So, at the founding of the nation,\N{\rChinese}好吧？于是，在建国之初，
+Dialogue: 0,0:05:15.32,0:05:19.20,English,,0,0,0,,America was divided into North and South.\N{\rChinese}美国被划分为北方和南方。
+Dialogue: 0,0:05:20.34,0:05:22.44,English,,0,0,0,,And the difference is that\N{\rChinese}而差异在于
+Dialogue: 0,0:05:22.44,0:05:25.86,English,,0,0,0,,the North was very industrial.\N{\rChinese}北方非常工业化
+Dialogue: 0,0:05:27.22,0:05:29.34,English,,0,0,0,,And the South was agricultural.\N{\rChinese}南方则以农业为主
+Dialogue: 0,0:05:31.14,0:05:34.34,English,,0,0,0,,Okay? And because the economies were different,\N{\rChinese}好吧？而且经济不同，
+Dialogue: 0,0:05:34.70,0:05:37.82,English,,0,0,0,,the way they structured their politics\N{\rChinese}他们的政治结构
+Dialogue: 0,0:05:37.82,0:05:39.70,English,,0,0,0,,and culture and society were different.\N{\rChinese}以及文化和社会都不同。
+Dialogue: 0,0:05:39.92,0:05:43.02,English,,0,0,0,,So the North believed in free labor.\N{\rChinese}于是北方相信自由劳工。
+Dialogue: 0,0:05:44.62,0:05:48.96,English,,0,0,0,,Meaning that you were free to do any job you want.\N{\rChinese}即你可以自由从事任何工作。
+Dialogue: 0,0:05:49.16,0:05:52.30,English,,0,0,0,,And employers were free to hire anyone they wanted.\N{\rChinese}雇主也可以自由雇佣任何人。
+Dialogue: 0,0:05:52.52,0:05:55.94,English,,0,0,0,,And this system is obviously much more efficient.\N{\rChinese}而且这种制度显然更高效。
+Dialogue: 0,0:05:56.24,0:05:59.70,English,,0,0,0,,Because it's a much better use of manpower.\N{\rChinese}因为它更好地利用了人力。
+Dialogue: 0,0:06:00.08,0:06:03.88,English,,0,0,0,,And so this caused the North to prosper\N{\rChinese}于是北方因此繁荣起来。
+Dialogue: 0,0:06:03.88,0:06:06.48,English,,0,0,0,,and become very wealthy and expanded.\N{\rChinese}并变得非常富裕并扩张。
+Dialogue: 0,0:06:06.58,0:06:09.74,English,,0,0,0,,Okay? So at the start of the Civil War in 1861,\N{\rChinese}好了？于是1861年内战开始时，北方有2200万人口。
+Dialogue: 0,0:06:10.08,0:06:12.64,English,,0,0,0,,the North had a population of 22 million people.\N{\rChinese}the North had a population of 22 million people.
+Dialogue: 0,0:06:14.52,0:06:16.42,English,,0,0,0,,Okay? Very wealthy, very powerful.\N{\rChinese}好了？非常富裕，非常强大。
+Dialogue: 0,0:06:16.78,0:06:17.96,English,,0,0,0,,The South was an\N{\rChinese}南方是一个
+Dialogue: 0,0:06:17.96,0:06:23.28,English,,0,0,0,,agricultural base economy.\N{\rChinese}农业基础经济。
+Dialogue: 0,0:06:23.66,0:06:26.34,English,,0,0,0,,And therefore, it had to rely on slave labor.\N{\rChinese}于是它就得靠奴隶劳动力。
+Dialogue: 0,0:06:27.94,0:06:32.88,English,,0,0,0,,All right? And\N{\rChinese}好的？然后
+Dialogue: 0,0:06:32.88,0:06:37.74,English,,0,0,0,,even though slave labor made wealthy people very prosperous,\N{\rChinese}即使奴隶劳动力让富人更繁荣。
+Dialogue: 0,0:06:38.12,0:06:40.28,English,,0,0,0,,it was not good for the economy as a whole.\N{\rChinese}它对整体经济不利。
+Dialogue: 0,0:06:40.48,0:06:44.52,English,,0,0,0,,Okay? It was an inefficient use of manpower.\N{\rChinese}好了？人力利用效率低。
+Dialogue: 0,0:06:44.84,0:06:48.78,English,,0,0,0,,And at the start of the war, they only had about 9 million people.\N{\rChinese}战争开始时，他们只有约九百万人。
+Dialogue: 0,0:06:50.64,0:06:53.52,English,,0,0,0,,Okay? But what's important to remember is that\N{\rChinese}好的？但重要的是要记住，北方是工业基础经济。
+Dialogue: 0,0:06:53.52,0:06:56.90,English,,0,0,0,,the North was an industrial base economy.\N{\rChinese}南方是农业基础经济。
+Dialogue: 0,0:06:57.34,0:06:59.96,English,,0,0,0,,The South was an agricultural base economy.\N{\rChinese}The South was an agricultural base economy.
+Dialogue: 0,0:07:00.38,0:07:02.98,English,,0,0,0,,So in terms of weapons manufacturing,\N{\rChinese}在武器制造方面，
+Dialogue: 0,0:07:03.34,0:07:06.52,English,,0,0,0,,in terms of logistics, in terms of organization,\N{\rChinese}在后勤与组织方面，
+Dialogue: 0,0:07:07.18,0:07:09.90,English,,0,0,0,,the North had a huge advantage over the South.\N{\rChinese}北方在这方面拥有巨大优势。
+Dialogue: 0,0:07:09.90,0:07:14.08,English,,0,0,0,,All right? Now, why did they fight the war?\N{\rChinese}好了？现在，为什么他们要打这场战争？
+Dialogue: 0,0:07:14.40,0:07:17.16,English,,0,0,0,,And the standard explanation is because\N{\rChinese}而标准的解释是因为
+Dialogue: 0,0:07:17.16,0:07:22.24,English,,0,0,0,,the North wanted to get rid of the evil of slavery.\N{\rChinese}北方想摆脱奴隶的恶行。
+Dialogue: 0,0:07:22.40,0:07:24.08,English,,0,0,0,,And that's not true. That's not what happened.\N{\rChinese}而且并非如此。那不是发生的事。
+Dialogue: 0,0:07:25.70,0:07:29.20,English,,0,0,0,,So at the beginning of the founding of the nation,\N{\rChinese}于是，在民族国家成立之初，
+Dialogue: 0,0:07:29.52,0:07:33.22,English,,0,0,0,,the Constitution permitted slavery.\N{\rChinese}宪法允许奴隶制。
+Dialogue: 0,0:07:33.50,0:07:34.80,English,,0,0,0,,Okay? Slavery was legal.\N{\rChinese}好的？奴隶制是合法的。
+Dialogue: 0,0:07:37.06,0:07:39.88,English,,0,0,0,,And so the South were free to have as many slaves as they wanted.\N{\rChinese}于是南方可以自由拥有任意数量的奴隶。
+Dialogue: 0,0:07:39.88,0:07:42.68,English,,0,0,0,,The North didn't want, didn't need slaves because\N{\rChinese}北方不需要也不想要奴隶。
+Dialogue: 0,0:07:42.68,0:07:45.56,English,,0,0,0,,it was an industrial -based economy.\N{\rChinese}它是一个工业化经济体。
+Dialogue: 0,0:07:45.88,0:07:50.50,English,,0,0,0,,The problem was the nation was expanding westwards.\N{\rChinese}问题是民族国家向西扩张。
+Dialogue: 0,0:07:50.70,0:07:52.96,English,,0,0,0,,Okay? The nation was expanding west.\N{\rChinese}好的？民族国家向西扩张。
+Dialogue: 0,0:07:53.24,0:07:57.16,English,,0,0,0,,And they were adding more states into the Union.\N{\rChinese}他们又把更多州加入联邦。
+Dialogue: 0,0:07:57.40,0:07:59.66,English,,0,0,0,,And the more states there are,\N{\rChinese}州越多，
+Dialogue: 0,0:07:59.90,0:08:04.28,English,,0,0,0,,they can send senators and representatives to Washington, D.C.\N{\rChinese}他们就能派参议员和众议员到华盛顿特区。
+Dialogue: 0,0:08:04.40,0:08:06.50,English,,0,0,0,,Okay? And the fear was that\N{\rChinese}好的？还有一个担心是
+Dialogue: 0,0:08:06.50,0:08:11.46,English,,0,0,0,,if these western states were pro -slavery,\N{\rChinese}如果这些西部州是支持奴隶制的
+Dialogue: 0,0:08:11.74,0:08:17.40,English,,0,0,0,,then that would tip the balance in favor of the pro -slavery cap.\N{\rChinese}那就会把平衡倾向支持奴隶制的势力范围。
+Dialogue: 0,0:08:17.80,0:08:19.42,English,,0,0,0,,But if the reverse were true,\N{\rChinese}但如果相反，西部州是反奴隶制的，
+Dialogue: 0,0:08:19.64,0:08:22.52,English,,0,0,0,,if the western states were anti -slavery,\N{\rChinese}那么南方就会被边缘化。
+Dialogue: 0,0:08:22.80,0:08:26.34,English,,0,0,0,,then the South would be marginalized.\N{\rChinese}then the South would be marginalized.
+Dialogue: 0,0:08:26.72,0:08:28.28,English,,0,0,0,,Okay? So for decades,\N{\rChinese}好的？于是几十年间，
+Dialogue: 0,0:08:28.74,0:08:34.72,English,,0,0,0,,there was this fierce debate as to how to handle the South.\N{\rChinese}有一场激烈的辩论，关于如何处理南方。
+Dialogue: 0,0:08:41.08,0:08:41.44,English,,0,0,0,,And\N{\rChinese}而
+Dialogue: 0,0:08:41.44,0:08:47.26,English,,0,0,0,,there was a fight to keep them from doing\N{\rChinese}有一场斗争，旨在阻止他们这么做
+Dialogue: 0,0:08:47.26,0:08:49.80,English,,0,0,0,,that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that, to keep them from doing that,\N{\rChinese}那样，阻止他们这么做，阻止他们这么做，...
+Dialogue: 0,0:08:49.84,0:08:52.42,English,,0,0,0,,to keep them from doing that, to keep them from doing\N{\rChinese}阻止他们这么做，阻止他们
+Dialogue: 0,0:08:52.42,0:08:55.42,English,,0,0,0,,that, to keep them from doing that, to keep them from doing that,\N{\rChinese}那样，阻止他们这么做，阻止他们这么做，…
+Dialogue: 0,0:08:55.54,0:08:58.00,English,,0,0,0,,to keep them from doing that,\N{\rChinese}阻止他们这么做，阻止他们
+Dialogue: 0,0:08:58.00,0:09:00.72,English,,0,0,0,,to keep them from doing that,\N{\rChinese}阻止他们这么做，阻止他们
+Dialogue: 0,0:09:00.88,0:09:04.70,English,,0,0,0,,to keep them from doing that, to keep them from doing that\N{\rChinese}阻止他们这么做，阻止他们这么做
+Dialogue: 0,0:09:05.78,0:09:08.34,English,,0,0,0,,So some of these western states, for example Kansas,\N{\rChinese}所以这些西部州，例如堪萨斯，
+Dialogue: 0,0:09:08.88,0:09:12.28,English,,0,0,0,,would want to be anti -slavery.\N{\rChinese}他们会想要成为反奴隶制的
+Dialogue: 0,0:09:13.20,0:09:14.88,English,,0,0,0,,So for decades,\N{\rChinese}于是几十年间，
+Dialogue: 0,0:09:15.28,0:09:19.80,English,,0,0,0,,this was a huge issue politically in America,\N{\rChinese}这在美国政治上是个大问题，
+Dialogue: 0,0:09:19.90,0:09:24.74,English,,0,0,0,,which divided the nation. The turning point was in 1860,\N{\rChinese}它把国家分裂开来。转折点在1860年。
+Dialogue: 0,0:09:24.92,0:09:26.04,English,,0,0,0,,when\N{\rChinese}当
+Dialogue: 0,0:09:26.04,0:09:31.24,English,,0,0,0,,Abraham Lincoln was elected President of the United States.\N{\rChinese}亚伯拉罕·林肯当选为美国总统时。
+Dialogue: 0,0:09:31.24,0:09:35.70,English,,0,0,0,,And Lincoln was radically anti -slavery.\N{\rChinese}林肯彻底反奴隶制。
+Dialogue: 0,0:09:36.02,0:09:38.84,English,,0,0,0,,He believed that slavery was evil\N{\rChinese}他认为奴隶制是邪恶的，必须在某个时点废除。
+Dialogue: 0,0:09:38.84,0:09:40.98,English,,0,0,0,,and had to be abolished at some point.\N{\rChinese}其余世界已废奴。
+Dialogue: 0,0:09:41.48,0:09:43.58,English,,0,0,0,,The rest of the world abolished slavery.\N{\rChinese}The rest of the world abolished slavery.
+Dialogue: 0,0:09:43.78,0:09:46.36,English,,0,0,0,,Why is it in America there are so many slaves?\N{\rChinese}为什么在美国有这么多的奴隶？
+Dialogue: 0,0:09:46.68,0:09:48.50,English,,0,0,0,,So that was Lincoln's agenda.\N{\rChinese}于是这就是林肯的议程。
+Dialogue: 0,0:09:49.00,0:09:51.72,English,,0,0,0,,But Lincoln was also a lawyer,\N{\rChinese}但林肯也是一名律师。
+Dialogue: 0,0:09:51.86,0:09:54.16,English,,0,0,0,,and he believed that\N{\rChinese}他也认为
+Dialogue: 0,0:09:54.16,0:09:57.84,English,,0,0,0,,the South legally had a right to slavery.\N{\rChinese}南方在法律上拥有奴隶的权利。
+Dialogue: 0,0:09:59.26,0:10:01.22,English,,0,0,0,,But over time,\N{\rChinese}但随着时间的推移，
+Dialogue: 0,0:10:01.22,0:10:04.90,English,,0,0,0,,what we can do is limit slavery in the West.\N{\rChinese}我们能做的就是限制西部的奴隶制。
+Dialogue: 0,0:10:05.16,0:10:07.36,English,,0,0,0,,And therefore over time, in maybe 100 years time,\N{\rChinese}于是随着时间的推移，或许多百年后，奴隶制自然会消失。
+Dialogue: 0,0:10:07.66,0:10:10.92,English,,0,0,0,,slavery would naturally cease to exist.\N{\rChinese}slavery would naturally cease to exist.
+Dialogue: 0,0:10:11.28,0:10:13.48,English,,0,0,0,,That was Lincoln's plan.\N{\rChinese}那是林肯的计划。
+Dialogue: 0,0:10:14.28,0:10:17.32,English,,0,0,0,,Now the South did not like this plan,\N{\rChinese}南方不喜欢这个计划，
+Dialogue: 0,0:10:17.56,0:10:23.40,English,,0,0,0,,and they were afraid of what Lincoln might really do as President.\N{\rChinese}他们担心林肯当总统后会真正做什么。
+Dialogue: 0,0:10:23.58,0:10:28.70,English,,0,0,0,,So they declared independence from the United States.\N{\rChinese}于是他们宣布从美利合众国独立。
+Dialogue: 0,0:10:28.86,0:10:30.54,English,,0,0,0,,They basically succeeded.\N{\rChinese}他们基本上成功了。
+Dialogue: 0,0:10:32.16,0:10:38.00,English,,0,0,0,,And Lincoln's response invaded the South.\N{\rChinese}林肯的回应随后进攻南方。
+Dialogue: 0,0:10:40.12,0:10:41.32,English,,0,0,0,,So basically,\N{\rChinese}基本上，
+Dialogue: 0,0:10:41.54,0:10:44.46,English,,0,0,0,,the Civil War was a\N{\rChinese}内战是一场
+Dialogue: 0,0:10:44.46,0:10:48.62,English,,0,0,0,,battle over how much power the federal government had.\N{\rChinese}联邦政府拥有多少权力的争夺战。
+Dialogue: 0,0:10:49.64,0:10:52.62,English,,0,0,0,,So from the perspective of the South,\N{\rChinese}于是从南方的视角来看，
+Dialogue: 0,0:10:52.94,0:10:58.72,English,,0,0,0,,they were fighting the war for their right to freely\N{\rChinese}他们正为自由表达政治观点的权利而战斗，
+Dialogue: 0,0:10:59.08,0:11:00.42,English,,0,0,0,,express their political views.\N{\rChinese}express their political views.
+Dialogue: 0,0:11:00.54,0:11:05.20,English,,0,0,0,,And the North was fighting to maintain the Union.\N{\rChinese}北方则是为了保持联邦而战斗。
+Dialogue: 0,0:11:05.48,0:11:07.94,English,,0,0,0,,Slavery was not the main issue.\N{\rChinese}奴隶制并非主要问题。
+Dialogue: 0,0:11:08.10,0:11:10.36,English,,0,0,0,,In fact, Lincoln himself said that\N{\rChinese}事实上，林肯本人也曾说过。
+Dialogue: 0,0:11:10.36,0:11:15.16,English,,0,0,0,,if I could end the\N{\rChinese}如果我能在不解放任何奴隶的情况下结束战争，我会这么做。
+Dialogue: 0,0:11:15.16,0:11:17.54,English,,0,0,0,,war without freeing any slaves, I would do so.\N{\rChinese}奴隶制并非主要问题。
+Dialogue: 0,0:11:18.06,0:11:19.82,English,,0,0,0,,Slavery is not the main issue.\N{\rChinese}Slavery is not the main issue.
+Dialogue: 0,0:11:19.98,0:11:23.56,English,,0,0,0,,Keeping the Union intact was the main issue.\N{\rChinese}保持联邦完整是主要问题。
+Dialogue: 0,0:11:24.52,0:11:26.02,English,,0,0,0,,Does that make sense?\N{\rChinese}这有道理吗？
+Dialogue: 0,0:11:26.02,0:11:28.54,English,,0,0,0,,But again,\N{\rChinese}But again,
+Dialogue: 0,0:11:28.82,0:11:34.52,English,,0,0,0,,they could have chosen to politically compromise.\N{\rChinese}他们本可以选择政治妥协。
+Dialogue: 0,0:11:35.10,0:11:36.80,English,,0,0,0,,They could have had discussions.\N{\rChinese}他们本可以进行讨论。
+Dialogue: 0,0:11:37.48,0:11:39.88,English,,0,0,0,,They could have even broke apart.\N{\rChinese}他们本可以分裂开来。
+Dialogue: 0,0:11:40.34,0:11:45.40,English,,0,0,0,,But they chose to fight a gruesome Civil War.\N{\rChinese}但他们选择了激烈的内战。
+Dialogue: 0,0:11:45.64,0:11:48.80,English,,0,0,0,,The third thing you need to know about America is that\N{\rChinese}第三点你需要知道的关于美国是……
+Dialogue: 0,0:11:48.80,0:11:52.16,English,,0,0,0,,America resolves conflicts through\N{\rChinese}美国通过……
+Dialogue: 0,0:11:53.02,0:11:54.40,English,,0,0,0,,violence. Okay?\N{\rChinese}暴力。好吗？
+Dialogue: 0,0:11:54.70,0:11:59.84,English,,0,0,0,,Okay. It doesn't really have a history of diplomacy.\N{\rChinese}好的。它确实没有外交史。
+Dialogue: 0,0:12:00.20,0:12:02.86,English,,0,0,0,,It has a history of war making.\N{\rChinese}它有制造战争的历史。
+Dialogue: 0,0:12:03.10,0:12:06.94,English,,0,0,0,,Okay? That's how America usually resolves issues.\N{\rChinese}好的？这就是美国通常解决问题的方式。
+Dialogue: 0,0:12:08.33,0:12:09.98,English,,0,0,0,,So given this history,\N{\rChinese}所以，考虑到这段历史，
+Dialogue: 0,0:12:10.16,0:12:15.86,English,,0,0,0,,now let's look at the conflicts in America today to see how serious\N{\rChinese}现在让我们看看今天美国的冲突，看看它们有多严重。
+Dialogue: 0,0:12:16.91,0:12:20.02,English,,0,0,0,,the division is. And the reality is that\N{\rChinese}分歧是。现实是…
+Dialogue: 0,0:12:20.02,0:12:22.60,English,,0,0,0,,today is actually very, very serious.\N{\rChinese}今天实际上非常、非常严重。
+Dialogue: 0,0:12:22.72,0:12:25.02,English,,0,0,0,,Far more so than in 1861.\N{\rChinese}比1861年更甚。
+Dialogue: 0,0:12:25.66,0:12:27.20,English,,0,0,0,,Okay? When they fought the first Civil War.\N{\rChinese}好的？当他们打第一次内战时。
+Dialogue: 0,0:12:27.38,0:12:29.14,English,,0,0,0,,Okay? So let's look at the divisions.\N{\rChinese}好的？那我们来看看分歧。
+Dialogue: 0,0:12:29.38,0:12:34.76,English,,0,0,0,,The first major division is basically between the haves\N{\rChinese}第一个主要分歧基本是有者与无者之间。
+Dialogue: 0,0:12:34.76,0:12:38.02,English,,0,0,0,,and the have -nots. Okay? So inequality and debt.\N{\rChinese}以及有者与无者。好的吗？于是贫富与债务。
+Dialogue: 0,0:12:41.08,0:12:43.46,English,,0,0,0,,So the wealthy, the top 1%,\N{\rChinese}于是富人，顶层1%。
+Dialogue: 0,0:12:43.46,0:12:46.92,English,,0,0,0,,not only do they control most of the wealth in America,\N{\rChinese}他们不仅掌握美国大部分财富。
+Dialogue: 0,0:12:47.28,0:12:51.04,English,,0,0,0,,but they also control what we call the means of production.\N{\rChinese}但他们也掌握着我们所说的生产手段。
+Dialogue: 0,0:12:51.62,0:12:56.00,English,,0,0,0,,Meaning that if new money comes into the system, they're going to have to pay for it.\N{\rChinese}这意味着如果有新钱进入系统，他们就要支付。
+Dialogue: 0,0:12:56.00,0:12:57.84,English,,0,0,0,,They will seize it. Okay?\N{\rChinese}他们会夺取它。
+Dialogue: 0,0:12:58.08,0:13:03.92,English,,0,0,0,,So basically the top 1% have a monopoly over wealth production.\N{\rChinese}基本上，前1%掌握了财富生产的垄断。
+Dialogue: 0,0:13:04.22,0:13:09.16,English,,0,0,0,,And the way they make most of their money is actually through collecting debt.\N{\rChinese}他们之所以能赚大钱，实际上是通过收债来实现。
+Dialogue: 0,0:13:09.30,0:13:11.32,English,,0,0,0,,Okay? By exploiting other people.\N{\rChinese}好吧？靠着剥削别人。
+Dialogue: 0,0:13:11.72,0:13:14.50,English,,0,0,0,,And this is what we call a rentier economy.\N{\rChinese}这就是我们所说的租金经济。
+Dialogue: 0,0:13:18.80,0:13:24.76,English,,0,0,0,,Okay? Now what exaggerates makes this situation worse are the culture wars.\N{\rChinese}好的？现在把这情况搞得更糟的就是文化战争。
+Dialogue: 0,0:13:27.28,0:13:31.50,English,,0,0,0,,So America is divided between left and right.\N{\rChinese}于是美国在左右两派之间分裂。
+Dialogue: 0,0:13:32.86,0:13:36.86,English,,0,0,0,,And this division actually goes back to\N{\rChinese}而这种分裂实际上可以追溯到
+Dialogue: 0,0:13:36.86,0:13:40.98,English,,0,0,0,,the very founding of America in the 1600s.\N{\rChinese}1600年代美国的创立
+Dialogue: 0,0:13:41.02,0:13:44.58,English,,0,0,0,,Okay? So in America,\N{\rChinese}好吧？在美国，
+Dialogue: 0,0:13:44.72,0:13:49.50,English,,0,0,0,,in its founding, there were two opposing visions or strands.\N{\rChinese}在其创立之初，出现了两种相对的愿景或脉络。
+Dialogue: 0,0:13:50.30,0:13:54.74,English,,0,0,0,,Okay? The first strand are people who are in the middle.\N{\rChinese}好吧？第一条脉络是中间派的人。
+Dialogue: 0,0:13:54.74,0:13:58.34,English,,0,0,0,,People who came to America to build a kingdom of God.\N{\rChinese}来美国建造神国的人。
+Dialogue: 0,0:13:58.80,0:14:03.10,English,,0,0,0,,A Christian nation that follows the laws of God.\N{\rChinese}跟随上帝律法的基督教民族。
+Dialogue: 0,0:14:03.22,0:14:06.26,English,,0,0,0,,Okay? These are the pilgrims and the Puritans.\N{\rChinese}好的？这些是朝圣者与清教徒。
+Dialogue: 0,0:14:06.40,0:14:09.14,English,,0,0,0,,Okay? And we've discussed them before. And they've always been there.\N{\rChinese}好的？我们之前已经讨论过它们，它们一直都在。
+Dialogue: 0,0:14:09.24,0:14:12.54,English,,0,0,0,,Okay? And they today comprise the right.\N{\rChinese}好吧？他们今天构成右派。
+Dialogue: 0,0:14:12.72,0:14:14.32,English,,0,0,0,,And the right are people who\N{\rChinese}而右派则是……
+Dialogue: 0,0:14:14.32,0:14:18.80,English,,0,0,0,,believe in conservative Christian values.\N{\rChinese}相信保守的基督教价值观。
+Dialogue: 0,0:14:19.40,0:14:21.74,English,,0,0,0,,Okay? The left.\N{\rChinese}好吧？左派。
+Dialogue: 0,0:14:22.16,0:14:24.26,English,,0,0,0,,But there's also another strand.\N{\rChinese}但也还有另一条线索。
+Dialogue: 0,0:14:24.40,0:14:41.82,English,,0,0,0,,The left. There's a\N{\rChinese}左派。还有一个
+Dialogue: 0,0:14:41.82,0:14:48.14,English,,0,0,0,,group that's\N{\rChinese}一个团体
+Dialogue: 0,0:14:48.14,0:14:52.12,English,,0,0,0,,been there ever since. There's been a group that's been there ever since. There's been a group that's been there ever since. There's been a group that's been there ever since. There's been a group that's been there ever since.\N{\rChinese}已经有一个团体一直存在。
+Dialogue: 0,0:14:52.52,0:14:54.70,English,,0,0,0,,There's been a group that's been there ever since.\N{\rChinese}已经有一个团体一直存在。
+Dialogue: 0,0:14:54.70,0:14:59.72,English,,0,0,0,,Constitution is a document based on deism,\N{\rChinese}宪法是一份基于自然神论、教会与国家分离的文件。
+Dialogue: 0,0:14:59.92,0:15:02.84,English,,0,0,0,,separation of church and state.\N{\rChinese}宪法是一份基于自然神论、教会与国家分离的文件。
+Dialogue: 0,0:15:03.28,0:15:06.46,English,,0,0,0,,And they want to create a multicultural,\N{\rChinese}创建多元文化的世俗帝国
+Dialogue: 0,0:15:07.78,0:15:10.14,English,,0,0,0,,secular empire.\N{\rChinese}secular empire.
+Dialogue: 0,0:15:11.88,0:15:16.74,English,,0,0,0,,And today it manifests itself in the left.\N{\rChinese}今天它在左翼中表现出来。
+Dialogue: 0,0:15:17.60,0:15:23.12,English,,0,0,0,,Now, there's actually a lot of,\N{\rChinese}现在，实际上有很多……
+Dialogue: 0,0:15:24.70,0:15:27.98,English,,0,0,0,,a lot of crossover between the left and the wealthy.\N{\rChinese}左翼与富裕阶层之间有很多交叉。
+Dialogue: 0,0:15:28.08,0:15:29.34,English,,0,0,0,,Because if you look at the left,\N{\rChinese}因为如果你观察左翼，
+Dialogue: 0,0:15:29.46,0:15:32.92,English,,0,0,0,,it's usually urban,\N{\rChinese}它通常是城市化、自由派且受过大学教育的。
+Dialogue: 0,0:15:36.16,0:15:38.44,English,,0,0,0,,liberal, and college educated.\N{\rChinese}liberal, and college educated.
+Dialogue: 0,0:15:41.56,0:15:45.04,English,,0,0,0,,Okay, and coastal. Okay,\N{\rChinese}好的，海岸的。好的，
+Dialogue: 0,0:15:45.16,0:15:48.24,English,,0,0,0,,and these are the people usually with all the money.\N{\rChinese}这些人通常是有钱的。
+Dialogue: 0,0:15:49.28,0:15:54.32,English,,0,0,0,,So the inequality only makes the culture wars much worse.\N{\rChinese}于是不平等只会让文化战争更糟。
+Dialogue: 0,0:15:54.70,0:15:59.04,English,,0,0,0,,And so the right feel left out, okay?\N{\rChinese}于是右派觉得被左派忽视，好吗？
+Dialogue: 0,0:16:00.10,0:16:05.02,English,,0,0,0,,Another major division in America that's important is the one between empire\N{\rChinese}美国的另一大分裂是帝国与民主之间的分裂。
+Dialogue: 0,0:16:05.02,0:16:07.38,English,,0,0,0,,and democracy.\N{\rChinese}and democracy.
+Dialogue: 0,0:16:09.90,0:16:13.82,English,,0,0,0,,Meaning that there are many people in America\N{\rChinese}这意味着美国有许多人
+Dialogue: 0,0:16:13.82,0:16:17.76,English,,0,0,0,,who benefit from America being an empire.\N{\rChinese}谁从美国成为帝国中获益。
+Dialogue: 0,0:16:18.94,0:16:23.08,English,,0,0,0,,But the rest suffer from the fact that America is an empire.\N{\rChinese}但其余者则因美国是帝国而受苦。
+Dialogue: 0,0:16:23.24,0:16:28.00,English,,0,0,0,,Okay? So for example, the wars in Afghanistan and Iraq\N{\rChinese}好的？比如说，阿富汗和伊拉克的战争让华尔街变得很富裕，对吧？
+Dialogue: 0,0:16:28.68,0:16:30.82,English,,0,0,0,,made Wall Street very rich, right?\N{\rChinese}好的？比如说，阿富汗和伊拉克的战争让华尔街变得很富裕，对吧？
+Dialogue: 0,0:16:31.58,0:16:34.96,English,,0,0,0,,But it was the poor, the right,\N{\rChinese}但却是穷人，右派，
+Dialogue: 0,0:16:35.12,0:16:38.20,English,,0,0,0,,who sent their sons to fight in these wars, and\N{\rChinese}他们把儿子送去参战
+Dialogue: 0,0:16:38.20,0:16:40.78,English,,0,0,0,,who lost their lives, or lost a limb, okay?\N{\rChinese}谁失去生命，或失去一肢，好的？
+Dialogue: 0,0:16:41.12,0:16:43.16,English,,0,0,0,,It was the poor who\N{\rChinese}是穷人……
+Dialogue: 0,0:16:43.16,0:16:47.22,English,,0,0,0,,were taxed in order to fund these wars.\N{\rChinese}被征税以资助这些战争。
+Dialogue: 0,0:16:47.62,0:16:50.76,English,,0,0,0,,And it's the poor who must pay off the debt from these wars.\N{\rChinese}而这些战争的债务则由穷人承担。
+Dialogue: 0,0:16:51.62,0:16:53.34,English,,0,0,0,,Okay? So the right feel left out, okay?\N{\rChinese}好的？于是右派觉得被落下，好的？
+Dialogue: 0,0:16:53.34,0:16:55.48,English,,0,0,0,,The right is also very isolationist.\N{\rChinese}右派也很孤岛主义。
+Dialogue: 0,0:16:56.13,0:16:58.28,English,,0,0,0,,Meaning like they don't want to fight these wars.\N{\rChinese}意思是他们不想打这些战争。
+Dialogue: 0,0:16:58.42,0:17:01.14,English,,0,0,0,,They think that America should be an island.\N{\rChinese}他们认为美国应该是一个岛屿。
+Dialogue: 0,0:17:01.34,0:17:04.50,English,,0,0,0,,It should not intervene in the affairs of the world.\N{\rChinese}它不应干预世界事务。
+Dialogue: 0,0:17:05.30,0:17:06.58,English,,0,0,0,,Okay? So\N{\rChinese}好？于是
+Dialogue: 0,0:17:06.58,0:17:11.26,English,,0,0,0,,there are a lot of divisions in America.\N{\rChinese}美国有许多分化。
+Dialogue: 0,0:17:12.32,0:17:15.54,English,,0,0,0,,The problem today is that\N{\rChinese}问题在于
+Dialogue: 0,0:17:15.54,0:17:18.08,English,,0,0,0,,there's no actual solution\N{\rChinese}没有实际的解决方案
+Dialogue: 0,0:17:19.32,0:17:22.20,English,,0,0,0,,to any of these divisions, okay?\N{\rChinese}对这些分化
+Dialogue: 0,0:17:22.44,0:17:26.38,English,,0,0,0,,And the problem is that there's no actual solution to any of these divisions, okay? And the reason why, there are three major reasons why\N{\rChinese}问题在于这些分化没有实际的解决方案，好吗？原因有三点。
+Dialogue: 0,0:17:27.34,0:17:30.38,English,,0,0,0,,a civil war would probably break out, okay?\N{\rChinese}内战可能爆发的首要原因是……
+Dialogue: 0,0:17:30.60,0:17:33.06,English,,0,0,0,,The first major reason is\N{\rChinese}第一大原因是……
+Dialogue: 0,0:17:33.06,0:17:38.34,English,,0,0,0,,the over -militarization of America.\N{\rChinese}美国的过度军事化
+Dialogue: 0,0:17:39.64,0:17:42.80,English,,0,0,0,,And so what this means is that, okay,\N{\rChinese}于是这意味着，好的，
+Dialogue: 0,0:17:42.88,0:17:44.82,English,,0,0,0,,first of all, we've already said that\N{\rChinese}首先，我们已经说过了
+Dialogue: 0,0:17:44.82,0:17:49.60,English,,0,0,0,,in America there are 434 million guns, right?\N{\rChinese}在美国有4.34亿支枪，没错？
+Dialogue: 0,0:17:49.70,0:17:53.30,English,,0,0,0,,In private hands. So every individual has access to one or two guns.\N{\rChinese}在私人手中。所以每个人都能拿到一两支枪。
+Dialogue: 0,0:17:53.32,0:17:54.74,English,,0,0,0,,That's the first problem.\N{\rChinese}第一个问题是……
+Dialogue: 0,0:17:54.86,0:17:56.60,English,,0,0,0,,Second problem is that\N{\rChinese}第二个问题是……
+Dialogue: 0,0:17:56.60,0:18:00.22,English,,0,0,0,,if you go to a small town in America\N{\rChinese}如果你去美国的小城镇
+Dialogue: 0,0:18:00.22,0:18:04.56,English,,0,0,0,,and you look at like the police there,\N{\rChinese}然后你看见那里的警察
+Dialogue: 0,0:18:05.18,0:18:07.96,English,,0,0,0,,you think that, okay, it's a small town, it's safe.\N{\rChinese}你想这就是小城镇，没问题，安全。
+Dialogue: 0,0:18:08.22,0:18:11.48,English,,0,0,0,,They should have, I don't know, pistols, right?\N{\rChinese}他们应该有，没准，手枪，对吧？
+Dialogue: 0,0:18:11.86,0:18:15.04,English,,0,0,0,,In fact, they have armored vehicles.\N{\rChinese}事实上，他们有装甲车。
+Dialogue: 0,0:18:15.88,0:18:17.20,English,,0,0,0,,Sometimes they have tanks.\N{\rChinese}有时他们有坦克。
+Dialogue: 0,0:18:17.34,0:18:20.54,English,,0,0,0,,They have helicopters. They have bulletproof vests.\N{\rChinese}他们有直升机。他们有防弹衣。
+Dialogue: 0,0:18:20.64,0:18:22.36,English,,0,0,0,,They have machine guns, okay?\N{\rChinese}他们有机枪，好的。
+Dialogue: 0,0:18:22.54,0:18:24.48,English,,0,0,0,,They got weapons. They got all this from the military.\N{\rChinese}他们拿到了武器，全部来自军方。
+Dialogue: 0,0:18:25.46,0:18:27.66,English,,0,0,0,,So that's just like a local police force.\N{\rChinese}于是这就像是地方警察部队。
+Dialogue: 0,0:18:27.82,0:18:33.38,English,,0,0,0,,I'm not even talking about the state militias,\N{\rChinese}我还没说到州民兵。
+Dialogue: 0,0:18:33.38,0:18:34.62,English,,0,0,0,,okay? The National Guard.\N{\rChinese}好的？国民兵。
+Dialogue: 0,0:18:35.12,0:18:37.82,English,,0,0,0,,These guys are basically an army unto themselves.\N{\rChinese}这些人基本上是自己的军队。
+Dialogue: 0,0:18:38.36,0:18:42.36,English,,0,0,0,,Then you have federal agencies like the FBI\N{\rChinese}然后还有联邦机构，如联邦调查局。
+Dialogue: 0,0:18:42.36,0:18:46.78,English,,0,0,0,,and the CIA and Homeland Security, okay?\N{\rChinese}和CIA以及国土安全局，好的？
+Dialogue: 0,0:18:47.06,0:18:51.36,English,,0,0,0,,NSA, okay? There's dozens of these federal agencies.\N{\rChinese}NSA，好的？有几十个这样的联邦机构。
+Dialogue: 0,0:18:51.36,0:18:54.32,English,,0,0,0,,They themselves are their own army,\N{\rChinese}它们自己就是自己的军队。
+Dialogue: 0,0:18:54.48,0:18:59.18,English,,0,0,0,,meaning that the FBI and the CIA all have their special forces.\N{\rChinese}意思是联邦调查局和中央情报局都有自己的特种部队。
+Dialogue: 0,0:19:00.28,0:19:01.56,English,,0,0,0,,Tanks, helicopters,\N{\rChinese}坦克、直升机、
+Dialogue: 0,0:19:01.98,0:19:04.86,English,,0,0,0,,jets, bombs, missiles, okay?\N{\rChinese}喷气机、炸弹、导弹，好的？
+Dialogue: 0,0:19:07.20,0:19:11.14,English,,0,0,0,,So these guys can go to war against each other, okay?\N{\rChinese}于是这些人可以互相作战，好的？
+Dialogue: 0,0:19:11.78,0:19:14.24,English,,0,0,0,,Then you have the U.S.\N{\rChinese}然后你就有美国的
+Dialogue: 0,0:19:14.28,0:19:15.58,English,,0,0,0,,military. The U.S.\N{\rChinese}军队。美国的
+Dialogue: 0,0:19:15.64,0:19:19.38,English,,0,0,0,,military is divided into the Army,\N{\rChinese}陆军，
+Dialogue: 0,0:19:19.60,0:19:21.06,English,,0,0,0,,the Air Force,\N{\rChinese}空军，
+Dialogue: 0,0:19:22.34,0:19:25.84,English,,0,0,0,,the Marines, the Navy, okay?\N{\rChinese}海军陆战队，海军，
+Dialogue: 0,0:19:26.62,0:19:28.72,English,,0,0,0,,And then you have something called the Space Force, okay?\N{\rChinese}然后你就有了一个叫做太空军的机构，好的？
+Dialogue: 0,0:19:29.26,0:19:34.46,English,,0,0,0,,All right. To show you how powerful the U.S.\N{\rChinese}好的。接下来给你们展示美国军队的强大，好的？
+Dialogue: 0,0:19:34.52,0:19:35.76,English,,0,0,0,,military is, okay,\N{\rChinese}好的，
+Dialogue: 0,0:19:36.23,0:19:40.20,English,,0,0,0,,let's look at the top five air forces in the world, okay?\N{\rChinese}让我们来看看世界五大空军，好吗？
+Dialogue: 0,0:19:40.32,0:19:46.26,English,,0,0,0,,The top five institutions or countries with the most powerful air force in the world.\N{\rChinese}世界五大空军机构或国家，拥有最强空军的国家。
+Dialogue: 0,0:19:46.46,0:19:50.46,English,,0,0,0,,Who's number one? Who's number one, do you think?\N{\rChinese}谁是第一？你觉得谁是第一？
+Dialogue: 0,0:19:53.00,0:19:57.42,English,,0,0,0,,U.S. Air Force, right? Who's number two, do you guys know?\N{\rChinese}美国空军，对吧？你们知道第二名是谁吗？
+Dialogue: 0,0:19:59.34,0:20:02.00,English,,0,0,0,,The top five air forces in the world.\N{\rChinese}世界五大空军。
+Dialogue: 0,0:20:02.04,0:20:03.80,English,,0,0,0,,Number one would be the U.S. Air Force, right?\N{\rChinese}第一名是美国空军，对吧？
+Dialogue: 0,0:20:04.24,0:20:05.24,English,,0,0,0,,Who's number two, do you think?\N{\rChinese}谁是第二名，你觉得？
+Dialogue: 0,0:20:12.48,0:20:14.18,English,,0,0,0,,Guess. Take a guess. Who's number two?\N{\rChinese}猜猜。随便猜。谁是第二名？
+Dialogue: 0,0:20:15.32,0:20:17.34,English,,0,0,0,,Yeah, okay. Actually, I said number three, okay?\N{\rChinese}好，实际上我说的是第三名，明白吗？
+Dialogue: 0,0:20:18.32,0:20:20.06,English,,0,0,0,,The Russian Air Force would be number three.\N{\rChinese}俄国空军排第三位。
+Dialogue: 0,0:20:20.14,0:20:27.38,English,,0,0,0,,Who's number two, though? The UK, the British, right?\N{\rChinese}第二名是谁？英国，英军，对吧？
+Dialogue: 0,0:20:27.88,0:20:29.72,English,,0,0,0,,Nope, okay. Number two is actually the U.S.\N{\rChinese}不对，第二名是美国。
+Dialogue: 0,0:20:29.74,0:20:33.14,English,,0,0,0,,Navy. Who's number, number three is Russia.\N{\rChinese}海军。谁是第三名？是俄国。
+Dialogue: 0,0:20:33.62,0:20:35.20,English,,0,0,0,,Number four is who?\N{\rChinese}第四名是谁？
+Dialogue: 0,0:20:36.62,0:20:40.88,English,,0,0,0,,Can you guys guess? The U.S.\N{\rChinese}你们猜猜吧？是美国。
+Dialogue: 0,0:20:40.92,0:20:45.04,English,,0,0,0,,Army. And who's number five?\N{\rChinese}陆军。第五名是谁？
+Dialogue: 0,0:20:48.60,0:20:51.50,English,,0,0,0,,Can you guys guess? It's the U.S.\N{\rChinese}你们猜猜吧？是美国。
+Dialogue: 0,0:20:51.60,0:20:54.90,English,,0,0,0,,Marines. Okay? So\N{\rChinese}海军陆战队。好吧？
+Dialogue: 0,0:20:54.90,0:20:58.96,English,,0,0,0,,four of the top five air\N{\rChinese}世界前五名空军中有四个是美国的
+Dialogue: 0,0:20:58.96,0:21:02.52,English,,0,0,0,,forces in the world are an arm of the U.S.\N{\rChinese}世界上的空军是美国军队的一支
+Dialogue: 0,0:21:02.56,0:21:04.34,English,,0,0,0,,military. Okay?\N{\rChinese}陆军。好吧？
+Dialogue: 0,0:21:04.38,0:21:05.74,English,,0,0,0,,Number one is the U.S. Air Force.\N{\rChinese}一号是美国空军。
+Dialogue: 0,0:21:06.02,0:21:07.54,English,,0,0,0,,Number two is the U.S.\N{\rChinese}二号是美国海军。
+Dialogue: 0,0:21:07.58,0:21:10.46,English,,0,0,0,,Navy. Number three is Russia, the entire country of Russia, okay?\N{\rChinese}三号是俄罗斯，整个俄罗斯国，好的？
+Dialogue: 0,0:21:11.04,0:21:12.62,English,,0,0,0,,Number four is the U.S.\N{\rChinese}四号是美国陆军。
+Dialogue: 0,0:21:12.72,0:21:16.86,English,,0,0,0,,Army. Number five is the U.S.\N{\rChinese}五号是美国海军。
+Dialogue: 0,0:21:16.86,0:21:19.40,English,,0,0,0,,Marines. That's how powerful the U.S.\N{\rChinese}海军。正是美国的强大之处。
+Dialogue: 0,0:21:19.40,0:21:23.10,English,,0,0,0,,Army is. That's how powerful America is. But then you have special forces.\N{\rChinese}陆军是。正是美国的强大之处。但随后你会看到特种部队。
+Dialogue: 0,0:21:27.17,0:21:30.14,English,,0,0,0,,And again, we've discussed special forces in this class before.\N{\rChinese}再说一次，我们在本课里已经讨论过特种部队。
+Dialogue: 0,0:21:30.42,0:21:31.74,English,,0,0,0,,And we said that\N{\rChinese}我们说过它们是……
+Dialogue: 0,0:21:31.74,0:21:33.32,English,,0,0,0,,special forces are\N{\rChinese}特种部队是
+Dialogue: 0,0:21:33.32,0:21:39.26,English,,0,0,0,,good for special circumstances,\N{\rChinese}适用于特殊情况
+Dialogue: 0,0:21:39.48,0:21:41.22,English,,0,0,0,,like, for example, hijackings, okay?\N{\rChinese}比如说，劫机，行吗？
+Dialogue: 0,0:21:41.36,0:21:42.82,English,,0,0,0,,Or covert operations.\N{\rChinese}或秘密行动。
+Dialogue: 0,0:21:44.02,0:21:47.42,English,,0,0,0,,The problem with special forces is they cannot be controlled.\N{\rChinese}特种部队的问题在于它们难以掌控。
+Dialogue: 0,0:21:47.88,0:21:49.50,English,,0,0,0,,Okay? So in Mexico,\N{\rChinese}好的？所以在墨西哥，
+Dialogue: 0,0:21:49.94,0:21:54.60,English,,0,0,0,,the people who run the drug cartels are former special forces.\N{\rChinese}在墨西哥，经营贩毒集团的人是前特种部队成员。
+Dialogue: 0,0:21:55.14,0:21:58.82,English,,0,0,0,,Okay? Do you understand? The people who run the drug cartels in Mexico\N{\rChinese}好？你明白了吗？在墨西哥经营贩毒集团的人是前特种部队成员。
+Dialogue: 0,0:21:58.82,0:22:04.38,English,,0,0,0,,and who commit the most violence in the world are former members of their special forces.\N{\rChinese}并且在世界上造成最多暴力的人是前特种部队成员。
+Dialogue: 0,0:22:05.10,0:22:08.14,English,,0,0,0,,That's why you want to limit your special forces.\N{\rChinese}这就是你想限制特种部队的原因。
+Dialogue: 0,0:22:08.42,0:22:10.80,English,,0,0,0,,Okay? So in the year 2000,\N{\rChinese}好？那么在2000年，
+Dialogue: 0,0:22:11.36,0:22:15.80,English,,0,0,0,,America had 38,000 special forces.\N{\rChinese}美国拥有38,000名特种部队。
+Dialogue: 0,0:22:16.08,0:22:18.50,English,,0,0,0,,Today, it has 75,000.\N{\rChinese}今天，它有75,000。
+Dialogue: 0,0:22:19.20,0:22:21.34,English,,0,0,0,,And in the year 2000, it has 72,000. Or 73,000.\N{\rChinese}在2000年，它有72000或73000。
+Dialogue: 0,0:22:21.36,0:22:24.04,English,,0,0,0,,I can't remember. Okay? That's a lot of special forces.\N{\rChinese}我记不清了。好？这是一大批特种部队。
+Dialogue: 0,0:22:24.50,0:22:28.14,English,,0,0,0,,These guys are trained in demolition, destroying buildings.\N{\rChinese}这些人接受爆破训练，能摧毁建筑物。
+Dialogue: 0,0:22:28.64,0:22:30.60,English,,0,0,0,,They're an army unto themselves.\N{\rChinese}他们是自成一支军队。
+Dialogue: 0,0:22:30.98,0:22:35.08,English,,0,0,0,,Okay? It would take exactly 1,000 of these guys,\N{\rChinese}好的？这需要正好1,000名这类人来推翻美国。
+Dialogue: 0,0:22:35.20,0:22:39.10,English,,0,0,0,,exactly 1,000 of these guys, to overthrow the U.S.\N{\rChinese}正好1,000名这类人即可推翻美国。
+Dialogue: 0,0:22:39.12,0:22:41.82,English,,0,0,0,,government. Okay? And guess what?\N{\rChinese}政府。好？你猜怎么了？
+Dialogue: 0,0:22:42.40,0:22:44.16,English,,0,0,0,,Delta Force. Which\N{\rChinese}德尔塔部队。
+Dialogue: 0,0:22:44.16,0:22:48.48,English,,0,0,0,,is the most elite special force unit in the world.\N{\rChinese}是世界上最精锐的特种部队。
+Dialogue: 0,0:22:48.48,0:22:52.34,English,,0,0,0,,And in America, has exactly 1,000 members.\N{\rChinese}在美国，它正好有1,000名成员。
+Dialogue: 0,0:22:52.74,0:22:54.72,English,,0,0,0,,So you have this guy who runs Delta Force.\N{\rChinese}于是你有这个人，负责德尔塔部队。
+Dialogue: 0,0:22:54.88,0:22:56.92,English,,0,0,0,,And he's like, I want to over for the U.S.\N{\rChinese}他还说：我想推翻美国。
+Dialogue: 0,0:22:56.94,0:23:00.06,English,,0,0,0,,government for whatever reason. He can do so because\N{\rChinese}政府因各种原因。因为他可以这么做。
+Dialogue: 0,0:23:00.06,0:23:01.96,English,,0,0,0,,they're so powerful.\N{\rChinese}它们如此强大。
+Dialogue: 0,0:23:02.66,0:23:05.22,English,,0,0,0,,Okay? So I think special forces,\N{\rChinese}好的？所以我认为特种部队，
+Dialogue: 0,0:23:05.46,0:23:08.08,English,,0,0,0,,it's just a bomb waiting to explode.\N{\rChinese}它就像一颗等待爆炸的炸弹。
+Dialogue: 0,0:23:08.86,0:23:13.88,English,,0,0,0,,So the first major issue is just the over militarization of America.\N{\rChinese}于是第一个主要问题就是美国的过度军备化。
+Dialogue: 0,0:23:14.04,0:23:18.46,English,,0,0,0,,Where anyone who has access to weapons can use weapons.\N{\rChinese}只要有人能接触武器，就能使用武器。
+Dialogue: 0,0:23:18.46,0:23:19.72,English,,0,0,0,,And can choose to start a war.\N{\rChinese}并且可以选择发动战争。
+Dialogue: 0,0:23:20.40,0:23:22.60,English,,0,0,0,,Okay? That's the first problem.\N{\rChinese}好的？那是第一个问题。
+Dialogue: 0,0:23:23.10,0:23:25.80,English,,0,0,0,,Second problem is the\N{\rChinese}第二个问题是
+Dialogue: 0,0:23:25.80,0:23:29.44,English,,0,0,0,,breakdown of narratives.\N{\rChinese}叙叙
+Dialogue: 0,0:23:34.07,0:23:35.40,English,,0,0,0,,Okay. So\N{\rChinese}好的。那么
+Dialogue: 0,0:23:35.40,0:23:39.10,English,,0,0,0,,a nation is a fiction,\N{\rChinese}一个民族国家是虚构的，
+Dialogue: 0,0:23:39.44,0:23:42.56,English,,0,0,0,,a narrative that everyone believes in.\N{\rChinese}一个人人相信的叙叙
+Dialogue: 0,0:23:43.03,0:23:45.74,English,,0,0,0,,And there are certain narratives that\N{\rChinese}并且有一些叙叙
+Dialogue: 0,0:23:45.74,0:23:48.10,English,,0,0,0,,have kept America united.\N{\rChinese}已让美国保持统一。
+Dialogue: 0,0:23:48.46,0:23:52.44,English,,0,0,0,,Okay? So for example, the first narrative is the American dream.\N{\rChinese}好的？比如，第一个叙叙是美国梦。
+Dialogue: 0,0:23:54.64,0:23:57.04,English,,0,0,0,,Right? The equality of opportunity.\N{\rChinese}对吧？机会均等。
+Dialogue: 0,0:24:02.76,0:24:05.70,English,,0,0,0,,So that as long as you work hard\N{\rChinese}只要你努力工作。
+Dialogue: 0,0:24:05.70,0:24:09.24,English,,0,0,0,,and you play by the rules, you will succeed in America.\N{\rChinese}如果你按规则玩，便会在美国成功。
+Dialogue: 0,0:24:09.46,0:24:10.84,English,,0,0,0,,Right? That's the American dream.\N{\rChinese}对吧？这就是美国梦。
+Dialogue: 0,0:24:11.50,0:24:15.46,English,,0,0,0,,Guess what, guys? No one believes in this anymore.\N{\rChinese}猜猜看，大家？现在没人再相信了。
+Dialogue: 0,0:24:15.72,0:24:17.84,English,,0,0,0,,Okay? And the reason why is.\N{\rChinese}好吧？原因就在这里。
+Dialogue: 0,0:24:17.84,0:24:22.14,English,,0,0,0,,The inequality in America as well as the cultural wars.\N{\rChinese}美国的不平等与文化战争。
+Dialogue: 0,0:24:23.10,0:24:26.16,English,,0,0,0,,So if you're a young person, you don't believe\N{\rChinese}所以如果你是个年轻人，你就不相信。
+Dialogue: 0,0:24:26.16,0:24:28.68,English,,0,0,0,,that if you work hard, you own a house\N{\rChinese}如果你努力工作，你就能拥有一栋房子。
+Dialogue: 0,0:24:28.68,0:24:31.46,English,,0,0,0,,and you will be wealthy.\N{\rChinese}然后你就会变得富有。
+Dialogue: 0,0:24:31.54,0:24:36.22,English,,0,0,0,,You don't believe that. Okay? You think like the game is stacked against you.\N{\rChinese}你不这么认为。好吧？你觉得游戏已经对你有利。
+Dialogue: 0,0:24:36.32,0:24:39.22,English,,0,0,0,,You believe that Washington is corrupt.\N{\rChinese}你认为华盛城已腐败。
+Dialogue: 0,0:24:39.36,0:24:40.92,English,,0,0,0,,It only serves the interest of the rich.\N{\rChinese}它只为富人服务。
+Dialogue: 0,0:24:41.34,0:24:45.98,English,,0,0,0,,You believe that the wealthy have stolen everything.\N{\rChinese}你认为富人已经抢走了一切
+Dialogue: 0,0:24:46.18,0:24:47.38,English,,0,0,0,,They monopolize wealth.\N{\rChinese}他们垄断财富。
+Dialogue: 0,0:24:48.70,0:24:50.32,English,,0,0,0,,And you believe that\N{\rChinese}而你认为
+Dialogue: 0,0:24:50.32,0:24:54.78,English,,0,0,0,,whatever money you make will be stolen by the rich\N{\rChinese}无论你赚多少钱，都会被富人抢走，政府也会收走。好吧？所以实际上没有必要努力工作。
+Dialogue: 0,0:24:54.78,0:24:57.54,English,,0,0,0,,and by the government. Okay? So there's actually no reason to work hard.\N{\rChinese}and by the government. Okay? So there's actually no reason to work hard.
+Dialogue: 0,0:24:57.92,0:25:00.12,English,,0,0,0,,So this idea that\N{\rChinese}于是这个想法如果你努力工作就能成功，已经完蛋了。
+Dialogue: 0,0:25:00.12,0:25:04.62,English,,0,0,0,,if you work hard, you will succeed, it's dead.\N{\rChinese}if you work hard, you will succeed, it's dead.
+Dialogue: 0,0:25:05.18,0:25:09.84,English,,0,0,0,,Okay? Now the new American dream is how do I stay out of debt?\N{\rChinese}好的？现在新的美国梦是我怎么才能不欠债？
+Dialogue: 0,0:25:11.94,0:25:14.24,English,,0,0,0,,Right? If you're a college graduate,\N{\rChinese}对吧？如果你是大学毕业生，
+Dialogue: 0,0:25:14.46,0:25:16.94,English,,0,0,0,,you have tens of thousands of dollars in debt.\N{\rChinese}你有数万美元的债务。
+Dialogue: 0,0:25:18.76,0:25:23.32,English,,0,0,0,,Consumers have thousands of dollars in credit card debt.\N{\rChinese}消费者有数千美元的信用卡债务。
+Dialogue: 0,0:25:23.90,0:25:25.70,English,,0,0,0,,You can no longer afford houses.\N{\rChinese}你再也买不起房子了。
+Dialogue: 0,0:25:25.78,0:25:27.90,English,,0,0,0,,If you buy a house, you can't pay off the mortgage.\N{\rChinese}如果你买房子，就付不起房贷。
+Dialogue: 0,0:25:28.14,0:25:31.18,English,,0,0,0,,Okay? So this idea of the American dream,\N{\rChinese}好吧？所以这个美国梦的概念，
+Dialogue: 0,0:25:31.40,0:25:33.18,English,,0,0,0,,it's basically dead for most people.\N{\rChinese}基本上对大多数人来说已经没了。
+Dialogue: 0,0:25:34.06,0:25:36.88,English,,0,0,0,,Then you have the narrative that\N{\rChinese}然后你就有了叙事
+Dialogue: 0,0:25:36.88,0:25:40.18,English,,0,0,0,,America is good.\N{\rChinese}美国很好。
+Dialogue: 0,0:25:42.00,0:25:46.70,English,,0,0,0,,Okay? You believe that America represents democracy.\N{\rChinese}好的？你认为美国代表着民主。
+Dialogue: 0,0:25:46.70,0:25:48.52,English,,0,0,0,,It represents liberty.\N{\rChinese}它代表自由。
+Dialogue: 0,0:25:48.86,0:25:51.30,English,,0,0,0,,It defends freedom around the world.\N{\rChinese}它在世界各地捍卫自由。
+Dialogue: 0,0:25:51.42,0:25:55.80,English,,0,0,0,,Guess what, guys? Most people in America don't believe this anymore.\N{\rChinese}你猜怎么了，伙计们？美国人大多数已不再信这点。
+Dialogue: 0,0:25:56.04,0:25:58.54,English,,0,0,0,,Okay? So, for example, on the left,\N{\rChinese}好吧？比如说，在左派中，
+Dialogue: 0,0:25:58.58,0:26:02.90,English,,0,0,0,,people are taught\N{\rChinese}人们被教导为
+Dialogue: 0,0:26:02.90,0:26:07.80,English,,0,0,0,,that America is a nation founded on slavery,\N{\rChinese}那美国是一个以奴隶制、暴力和战争为根基的民族国家。
+Dialogue: 0,0:26:08.02,0:26:09.66,English,,0,0,0,,violence, and war.\N{\rChinese}那美国是一个以奴隶制、暴力和战争为根基的民族国家。
+Dialogue: 0,0:26:09.92,0:26:13.14,English,,0,0,0,,America is a force of destruction and evil.\N{\rChinese}美国是毁灭与邪恶的力量。
+Dialogue: 0,0:26:13.78,0:26:16.68,English,,0,0,0,,Okay? That's what people on the left are taught.\N{\rChinese}好的？这就是左派人们被教导的内容。
+Dialogue: 0,0:26:16.68,0:26:19.60,English,,0,0,0,,People on the right believe\N{\rChinese}右派人们认为
+Dialogue: 0,0:26:19.60,0:26:20.94,English,,0,0,0,,that\N{\rChinese}那
+Dialogue: 0,0:26:20.94,0:26:24.26,English,,0,0,0,,America is an imperialist power\N{\rChinese}美国是帝国主义力量。
+Dialogue: 0,0:26:24.26,0:26:27.38,English,,0,0,0,,that goes around and destroys countries for no reason.\N{\rChinese}那种无缘无故四处游走、摧毁各国的力量。
+Dialogue: 0,0:26:28.88,0:26:31.56,English,,0,0,0,,Okay? So most people don't actually believe\N{\rChinese}好的？所以大多数人实际上并不相信
+Dialogue: 0,0:26:31.56,0:26:35.58,English,,0,0,0,,that America is a force for good anymore.\N{\rChinese}那美国已不再是善的力量。
+Dialogue: 0,0:26:37.22,0:26:40.98,English,,0,0,0,,Right? And then you look at what's happening in Israel.\N{\rChinese}对吧？然后你看看以色列正在发生的事。
+Dialogue: 0,0:26:41.18,0:26:44.14,English,,0,0,0,,Right? Well, more young people now believe\N{\rChinese}对吧？嗯，现在更多年轻人相信了。
+Dialogue: 0,0:26:44.14,0:26:46.66,English,,0,0,0,,that America is a force of evil in the world.\N{\rChinese}美国是世界上的邪恶力量。
+Dialogue: 0,0:26:47.70,0:26:52.54,English,,0,0,0,,The other narrative that's really important is the narrative of liberalism.\N{\rChinese}另一条重要叙事是自由主义叙事。
+Dialogue: 0,0:26:56.00,0:26:58.86,English,,0,0,0,,And the idea of liberalism is that\N{\rChinese}而自由主义的概念是
+Dialogue: 0,0:26:58.86,0:27:01.74,English,,0,0,0,,even though we have differences,\N{\rChinese}即使我们有差异，
+Dialogue: 0,0:27:02.06,0:27:06.44,English,,0,0,0,,there are mechanisms for us to work out our differences.\N{\rChinese}我们有机制来解决差异。
+Dialogue: 0,0:27:06.72,0:27:10.48,English,,0,0,0,,For example, the right to freedom of speech.\N{\rChinese}例如，言论自由的权利。
+Dialogue: 0,0:27:10.76,0:27:13.14,English,,0,0,0,,Okay? Freedom of speech.\N{\rChinese}好的？言论自由。
+Dialogue: 0,0:27:13.32,0:27:14.66,English,,0,0,0,,You can say whatever you want.\N{\rChinese}你可以说任何话。
+Dialogue: 0,0:27:14.90,0:27:16.64,English,,0,0,0,,Okay? Then you...\N{\rChinese}好吧？然后你……
+Dialogue: 0,0:27:16.64,0:27:22.14,English,,0,0,0,,But what's important is to debate the opponent\N{\rChinese}但重要的是与对手辩论
+Dialogue: 0,0:27:22.14,0:27:27.80,English,,0,0,0,,and come to a compromise based on logic,\N{\rChinese}并以逻辑、证据和事实为基础达成妥协。
+Dialogue: 0,0:27:28.02,0:27:29.44,English,,0,0,0,,evidence, and the facts.\N{\rChinese}并以逻辑、证据和事实为基础达成妥协。
+Dialogue: 0,0:27:29.76,0:27:31.86,English,,0,0,0,,Okay? So for the longest time,\N{\rChinese}好吧？于是最长时间里，自由主义是左派的主导。
+Dialogue: 0,0:27:32.00,0:27:35.98,English,,0,0,0,,liberalism was what brought the left\N{\rChinese}自由主义试图居中。
+Dialogue: 0,0:27:35.98,0:27:37.36,English,,0,0,0,,and the right together. Okay?\N{\rChinese}并且右派也跟着。好吧？
+Dialogue: 0,0:27:37.70,0:27:40.98,English,,0,0,0,,Liberalism tried to be in the middle.\N{\rChinese}自由主义试图居中。
+Dialogue: 0,0:27:43.22,0:27:44.50,English,,0,0,0,,But now...\N{\rChinese}但现在……
+Dialogue: 0,0:27:44.50,0:27:48.04,English,,0,0,0,,Okay? Liberalism is dead.\N{\rChinese}好吧？自由主义已死。
+Dialogue: 0,0:27:48.42,0:27:52.62,English,,0,0,0,,Okay? And the reason why is in 2016,\N{\rChinese}好吧？原因在于2016年，
+Dialogue: 0,0:27:53.04,0:27:56.96,English,,0,0,0,,Donald Trump became President of the United States.\N{\rChinese}唐纳德·特朗普成为美国总统。
+Dialogue: 0,0:27:57.08,0:27:59.92,English,,0,0,0,,And the liberals in America went crazy.\N{\rChinese}于是美国的自由主义者们发狂了。
+Dialogue: 0,0:28:00.52,0:28:03.32,English,,0,0,0,,They could not believe that\N{\rChinese}他们无法相信
+Dialogue: 0,0:28:03.32,0:28:06.62,English,,0,0,0,,Donald Trump could be elected.\N{\rChinese}唐纳德·特朗普可以当选。
+Dialogue: 0,0:28:06.90,0:28:11.70,English,,0,0,0,,So they came to believe that the problem was democracy itself.\N{\rChinese}于是他们认为问题就在于民主本身。
+Dialogue: 0,0:28:11.70,0:28:14.62,English,,0,0,0,,The problem is that\N{\rChinese}问题在于
+Dialogue: 0,0:28:14.62,0:28:17.20,English,,0,0,0,,people could not be reasoned with.\N{\rChinese}人们无法被说服
+Dialogue: 0,0:28:17.40,0:28:20.04,English,,0,0,0,,Therefore, liberalism makes no sense.\N{\rChinese}因此，自由主义毫无意义。
+Dialogue: 0,0:28:20.18,0:28:21.38,English,,0,0,0,,If people are stupid,\N{\rChinese}若人们愚笨，
+Dialogue: 0,0:28:21.86,0:28:26.26,English,,0,0,0,,if people cannot be reasoned with, why give them freedom of speech?\N{\rChinese}若人们无法被说服，何必给他们言论自由？
+Dialogue: 0,0:28:26.52,0:28:29.40,English,,0,0,0,,Why let them debate? Why let them vote?\N{\rChinese}为什么让他们辩论？为什么让他们投票？
+Dialogue: 0,0:28:29.92,0:28:34.34,English,,0,0,0,,Okay? So liberalism today is dead.\N{\rChinese}好的？所以自由主义今天已经死了。
+Dialogue: 0,0:28:36.38,0:28:38.78,English,,0,0,0,,So the stories that\N{\rChinese}于是这些故事
+Dialogue: 0,0:28:38.78,0:28:42.70,English,,0,0,0,,basically bind the country together, make it so that we can have a free, no longer work.\N{\rChinese}基本上把国家粘合在一起，使我们能自由地工作。
+Dialogue: 0,0:28:42.94,0:28:44.94,English,,0,0,0,,Okay? Does that make sense? Then\N{\rChinese}好的吗？那有道理吗？
+Dialogue: 0,0:28:44.94,0:28:46.20,English,,0,0,0,,the third problem is\N{\rChinese}第三个问题是
+Dialogue: 0,0:28:46.20,0:28:50.08,English,,0,0,0,,breakdown of\N{\rChinese}崩溃
+Dialogue: 0,0:28:50.08,0:28:54.82,English,,0,0,0,,authority or institutions.\N{\rChinese}权威或机构。
+Dialogue: 0,0:28:57.40,0:29:00.60,English,,0,0,0,,Okay? What kept the country together was the fact\N{\rChinese}好的吗？把国家粘合在一起的，是这个事实。
+Dialogue: 0,0:29:00.60,0:29:04.28,English,,0,0,0,,that people believed that the elites in power\N{\rChinese}人们认为掌权的精英们
+Dialogue: 0,0:29:04.95,0:29:07.68,English,,0,0,0,,knew what they were doing and they were...\N{\rChinese}知道自己在做什么并且…
+Dialogue: 0,0:29:08.28,0:29:11.58,English,,0,0,0,,They cared about the well -being of the nation and of the people.\N{\rChinese}他们关心民族和人民的福祉。
+Dialogue: 0,0:29:11.68,0:29:16.30,English,,0,0,0,,Okay? But recent events have shown this isn't true.\N{\rChinese}好的吗？但最近的事件表明这并非如此。
+Dialogue: 0,0:29:16.56,0:29:20.56,English,,0,0,0,,Okay? So for example, the wars in Afghanistan and Iraq.\N{\rChinese}好的吗？比如阿富汗和伊拉克的战争。
+Dialogue: 0,0:29:20.90,0:29:24.92,English,,0,0,0,,Right? Well, why did America fight these wars?\N{\rChinese}对吧？那么美国为什么打这些战争呢？
+Dialogue: 0,0:29:25.14,0:29:27.92,English,,0,0,0,,For no reason. Then\N{\rChinese}因为没有理由。然后
+Dialogue: 0,0:29:27.92,0:29:31.16,English,,0,0,0,,you have the 2008 financial crisis where\N{\rChinese}你有2008年的金融危机
+Dialogue: 0,0:29:31.16,0:29:35.42,English,,0,0,0,,the banks basically stole from the nation,\N{\rChinese}银行基本上从国家那里偷走了钱，然后又把钱留着。
+Dialogue: 0,0:29:35.56,0:29:37.44,English,,0,0,0,,stole from the poor, and kept the money.\N{\rChinese}从穷人那里偷走了钱，然后把钱留着。
+Dialogue: 0,0:29:37.94,0:29:41.36,English,,0,0,0,,And everyone was screwed. Okay?\N{\rChinese}大家都被搞砸了。好吗？
+Dialogue: 0,0:29:50.56,0:29:55.14,English,,0,0,0,,There was a crisis, there was a crisis, there was a crisis, there was a crisis, there was there was a crisis, there was a crisis, there was a crisis, there was a crisis, there was a crisis, there was a crisis,\N{\rChinese}有一次危机，有一次危机，有一次危机，有一次危机，有一次危机，有一次危机，有一次危机，有一次危机，有一次危机，有一次危机，
+Dialogue: 0,0:29:55.56,0:29:59.02,English,,0,0,0,,there was a crisis, there was a crisis, there was a crisis,\N{\rChinese}有一次危机，有一次危机，有一次危机
+Dialogue: 0,0:29:59.02,0:30:01.54,English,,0,0,0,,there was a crisis, there was a crisis, there was a crisis, there was a crisis, there was a crisis, there was a crisis, there was a crisis, there was a crisis, there was a crisis,\N{\rChinese}有一次危机，有一次危机，有一次危机，有一次危机，有一次危机，有一次危机，有一次危机，有一次危机，有一次危机，
+Dialogue: 0,0:30:01.76,0:30:04.62,English,,0,0,0,,there was a crisis, there was a crisis,\N{\rChinese}有一次危机，有一次危机，
+Dialogue: 0,0:30:04.62,0:30:08.12,English,,0,0,0,,there was a crisis,\N{\rChinese}有一次危机，
+Dialogue: 0,0:30:08.56,0:30:12.22,English,,0,0,0,,there was a crisis, there was was actually dangerous.\N{\rChinese}有一次危机，实际上很危险。
+Dialogue: 0,0:30:14.70,0:30:20.38,English,,0,0,0,,Then the government made everyone take a experimental vaccine.\N{\rChinese}随后政府让大家接种实验性疫苗。
+Dialogue: 0,0:30:23.70,0:30:25.70,English,,0,0,0,,And people were like, why are we doing this?\N{\rChinese}人们就问，为什么要这么做？
+Dialogue: 0,0:30:27.24,0:30:31.10,English,,0,0,0,,So elite actions over the past 20 years\N{\rChinese}于是过去二十年的精英行动
+Dialogue: 0,0:30:31.46,0:30:33.78,English,,0,0,0,,have made people cynical of power.\N{\rChinese}让人们对权力产生了愤世之感
+Dialogue: 0,0:30:34.52,0:30:37.18,English,,0,0,0,,So that in today's world, there's actually,\N{\rChinese}于是如今的世界，实际上是
+Dialogue: 0,0:30:37.18,0:30:40.92,English,,0,0,0,,in today's America, there's no more trusted institution.\N{\rChinese}在今天的美国，已没有可信的机构。
+Dialogue: 0,0:30:41.68,0:30:45.98,English,,0,0,0,,Before you had government,\N{\rChinese}在此之前你们有政府，
+Dialogue: 0,0:30:46.34,0:30:48.86,English,,0,0,0,,you had media,\N{\rChinese}你们有媒体，
+Dialogue: 0,0:30:49.34,0:30:50.80,English,,0,0,0,,like New York Times, Washington Post,\N{\rChinese}像《纽约时报》、《华盛邮报》
+Dialogue: 0,0:30:51.44,0:30:54.32,English,,0,0,0,,you had science, you had military.\N{\rChinese}你们有科学，你们有军队。
+Dialogue: 0,0:30:58.98,0:31:02.10,English,,0,0,0,,And the government is like, they're just corrupt.\N{\rChinese}政府也一样，都是腐败的。
+Dialogue: 0,0:31:03.04,0:31:06.46,English,,0,0,0,,Screw them, Congress is just hated by everyone.\N{\rChinese}搞砸吧，国会也被大家讨厌。
+Dialogue: 0,0:31:12.06,0:31:16.92,English,,0,0,0,,They're just dead,\N{\rChinese}他们只是死了，
+Dialogue: 0,0:31:17.12,0:31:19.16,English,,0,0,0,,they're dead, dead,\N{\rChinese}他们死了，死了，
+Dialogue: 0,0:31:19.62,0:31:22.26,English,,0,0,0,,dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead,\N{\rChinese}dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead
+Dialogue: 0,0:31:22.58,0:31:25.44,English,,0,0,0,,dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead, dead,\N{\rChinese}死了，死了，死了，死了，死了，死了，死了，死了，死了，死了，死了，死了，死了，死了，死了，死了，死了，
+Dialogue: 0,0:31:25.80,0:31:28.02,English,,0,0,0,,dead, dead, dead,\N{\rChinese}死了，死了，死了，
+Dialogue: 0,0:31:28.26,0:31:30.62,English,,0,0,0,,dead,\N{\rChinese}死了，
+Dialogue: 0,0:31:33.00,0:31:35.66,English,,0,0,0,,dead, The military fights wars for no reason.\N{\rChinese}死了，军队无缘打仗。
+Dialogue: 0,0:31:35.76,0:31:37.02,English,,0,0,0,,Look at Ukraine, look at Israel.\N{\rChinese}看乌克兰，看以色列。
+Dialogue: 0,0:31:37.50,0:31:42.52,English,,0,0,0,,So in other words, there's no institution in America\N{\rChinese}换句话说，美国没有任何机构。
+Dialogue: 0,0:31:42.52,0:31:44.86,English,,0,0,0,,that can bring people together anymore.\N{\rChinese}这能把人们聚在一起了。
+Dialogue: 0,0:31:45.12,0:31:48.28,English,,0,0,0,,They're not trusted. Oh, and also, I forgot about universities.\N{\rChinese}他们不被信任。哦，还有，我忘了大学。
+Dialogue: 0,0:31:49.82,0:31:53.70,English,,0,0,0,,Before people started universities, but not anymore because of the culture wars, right?\N{\rChinese}在大学出现之前，人们开始了大学，但现在因为文化战争不再这样了，对吧？
+Dialogue: 0,0:31:55.86,0:31:59.06,English,,0,0,0,,So that's the problem in America right now.\N{\rChinese}于是现在美国正面临这个问题。
+Dialogue: 0,0:31:59.18,0:32:01.20,English,,0,0,0,,You have three things going on.\N{\rChinese}你可以说有三件事在进行。
+Dialogue: 0,0:32:01.36,0:32:04.48,English,,0,0,0,,You have the militarization of society where\N{\rChinese}你们的社会已军化
+Dialogue: 0,0:32:04.48,0:32:06.44,English,,0,0,0,,anyone can start a war for no reason.\N{\rChinese}任何人都能无缘无故发动战争。
+Dialogue: 0,0:32:06.64,0:32:10.28,English,,0,0,0,,Okay. Second is that you have a breakdown of the stories\N{\rChinese}好的。第二点是你把故事拆分开来。
+Dialogue: 0,0:32:10.28,0:32:12.96,English,,0,0,0,,and narratives that bind the country together.\N{\rChinese}以及将国家团结在一起的叙事。
+Dialogue: 0,0:32:13.78,0:32:16.20,English,,0,0,0,,So no one knows what it means to be American anymore.\N{\rChinese}于是现在没有人再知道什么是美国人了。
+Dialogue: 0,0:32:17.00,0:32:21.34,English,,0,0,0,,And number three is there are no more authority figures,\N{\rChinese}第三点是没有更多的权威人物
+Dialogue: 0,0:32:21.46,0:32:24.80,English,,0,0,0,,no more institutions that can bring people together.\N{\rChinese}没有任何能把人们聚在一起的机构。
+Dialogue: 0,0:32:24.98,0:32:26.28,English,,0,0,0,,They're going to divide people.\N{\rChinese}他们会把人们分开。
+Dialogue: 0,0:32:27.34,0:32:31.10,English,,0,0,0,,Okay. Does that make sense?\N{\rChinese}好的。这样说通吗？
+Dialogue: 0,0:32:31.54,0:32:33.08,English,,0,0,0,,Okay. And this is getting worse.\N{\rChinese}好的。情况越来越糟了。
+Dialogue: 0,0:32:33.46,0:32:37.52,English,,0,0,0,,So we've seen the government fall,\N{\rChinese}于是我们已经看到政府倒塌，
+Dialogue: 0,0:32:37.80,0:32:42.50,English,,0,0,0,,the media fall, the science fall, military fall, universities, but there's also the justice system, right?\N{\rChinese}媒体倒塌，科学倒塌，军队倒塌，大学倒塌，还有司法系统也倒塌，对吧？
+Dialogue: 0,0:32:42.62,0:32:45.56,English,,0,0,0,,The courts. And\N{\rChinese}法院。还有
+Dialogue: 0,0:32:45.56,0:32:48.12,English,,0,0,0,,this is falling as well because of Donald Trump.\N{\rChinese}这也因为唐纳德·特朗普而衰落
+Dialogue: 0,0:32:48.32,0:32:50.34,English,,0,0,0,,Remember like last week in New York City,\N{\rChinese}记得上周在纽约城，唐纳德·特朗普被判定34项重罪有罪。
+Dialogue: 0,0:32:50.52,0:32:55.66,English,,0,0,0,,Donald Trump was convicted guilty of 34 felonies.\N{\rChinese}唐纳德·特朗普被判定34项重罪有罪。
+Dialogue: 0,0:32:55.80,0:32:58.90,English,,0,0,0,,Okay. And so\N{\rChinese}好的。于是
+Dialogue: 0,0:32:58.90,0:33:03.24,English,,0,0,0,,people are now no longer trusting the courts.\N{\rChinese}人们现在不再信任法院了。
+Dialogue: 0,0:33:03.44,0:33:04.88,English,,0,0,0,,The court system, the justice system.\N{\rChinese}法院体系，司法体系。
+Dialogue: 0,0:33:05.14,0:33:08.60,English,,0,0,0,,Okay. So again, all these sacred institutions\N{\rChinese}好的。于是，再次，所有这些神圣机构。
+Dialogue: 0,0:33:09.44,0:33:12.20,English,,0,0,0,,in America, they're all falling one by one.\N{\rChinese}在美国，它们一个接一个都倒下来了。
+Dialogue: 0,0:33:12.42,0:33:14.62,English,,0,0,0,,Okay. So does this make sense?\N{\rChinese}好的。这样说有道理吗？
+Dialogue: 0,0:33:15.02,0:33:18.02,English,,0,0,0,,So if you look at all this, okay.\N{\rChinese}所以如果你把这一切都看在一起，好的。
+Dialogue: 0,0:33:18.12,0:33:22.24,English,,0,0,0,,America's history of violence, the conflicts ranging in America,\N{\rChinese}美国的暴力历史，冲突在美国的范围内，
+Dialogue: 0,0:33:22.46,0:33:23.86,English,,0,0,0,,and the fact that\N{\rChinese}以及这一点，
+Dialogue: 0,0:33:23.86,0:33:27.40,English,,0,0,0,,America no longer believes in institutions\N{\rChinese}美国不再相信制度了。
+Dialogue: 0,0:33:27.40,0:33:28.90,English,,0,0,0,,and in narratives.\N{\rChinese}并且在叙事中。
+Dialogue: 0,0:33:29.20,0:33:33.84,English,,0,0,0,,Okay. Then the most likely outcome is a civil war.\N{\rChinese}好的。那么最有可能的结果就是内战。
+Dialogue: 0,0:33:34.80,0:33:40.68,English,,0,0,0,,Okay. Does that make sense? So any questions so far? .\N{\rChinese}好的。这样说有道理吗？到目前为止还有问题吗？
+Dialogue: 0,0:33:49.26,0:33:52.60,English,,0,0,0,,Yeah. So Celine asked a very good question.\N{\rChinese}是的。于是塞琳提出了一个很好的问题。
+Dialogue: 0,0:33:52.70,0:33:54.40,English,,0,0,0,,Like how powerful is the American president?\N{\rChinese}比如美国总统有多强大？
+Dialogue: 0,0:33:54.60,0:33:56.32,English,,0,0,0,,And the answer is that he's really a figurehead.\N{\rChinese}答案是他只是一个名义人物。
+Dialogue: 0,0:33:56.40,0:33:58.84,English,,0,0,0,,Okay. He's not that powerful. Okay.\N{\rChinese}好的。他并不那么强大。
+Dialogue: 0,0:33:59.76,0:34:01.10,English,,0,0,0,,Because as,\N{\rChinese}因为，
+Dialogue: 0,0:34:02.16,0:34:06.22,English,,0,0,0,,Celine points out, power is to fuse in America, in institutions.\N{\rChinese}塞琳指出，权力在美国的机构中融合。
+Dialogue: 0,0:34:07.02,0:34:10.16,English,,0,0,0,,And if these institutions are corrupt,\N{\rChinese}如果这些机构腐败，总统能做的也不多。
+Dialogue: 0,0:34:10.60,0:34:12.90,English,,0,0,0,,there's very little the president can do about it.\N{\rChinese}这就是为什么今年2024年11月，…。
+Dialogue: 0,0:34:13.20,0:34:16.34,English,,0,0,0,,And that's why this year in November, 2024,\N{\rChinese}And that's why this year in November, 2024,
+Dialogue: 0,0:34:16.80,0:34:18.30,English,,0,0,0,,we will see the lowest turnout,\N{\rChinese}我们将看到最低的投票率，
+Dialogue: 0,0:34:18.66,0:34:23.16,English,,0,0,0,,one of the lowest turnouts of voters in American history, because people just give up.\N{\rChinese}美国历史上最低的投票率之一，因为人们就这么放弃。
+Dialogue: 0,0:34:23.30,0:34:25.88,English,,0,0,0,,Okay. Right. Four years ago,\N{\rChinese}好的。对。四年前，
+Dialogue: 0,0:34:25.98,0:34:29.16,English,,0,0,0,,they came out to kick Trump out of office because they believed\N{\rChinese}他们出面把特朗普踢下台，因为他们相信
+Dialogue: 0,0:34:29.16,0:34:30.92,English,,0,0,0,,that Trump was a threat to democracy.\N{\rChinese}那是特朗普对民主的威胁。
+Dialogue: 0,0:34:32.16,0:34:36.12,English,,0,0,0,,And with Biden, people recognize that, no, it's all corrupt.\N{\rChinese}而且在拜登时代，人们认定，没错，全是腐败。
+Dialogue: 0,0:34:36.40,0:34:38.08,English,,0,0,0,,Just burn the system down. Who cares?\N{\rChinese}把系统烧掉吧。谁在乎？
+Dialogue: 0,0:34:39.18,0:34:41.88,English,,0,0,0,,Okay. So no one cares who's president anymore.\N{\rChinese}好了。现在谁是总统都不重要了。
+Dialogue: 0,0:34:42.44,0:34:45.02,English,,0,0,0,,And that's going to help Trump in November.\N{\rChinese}这将帮助特朗普在十一月。
+Dialogue: 0,0:34:45.90,0:34:55.08,English,,0,0,0,,Okay. Any more questions before I move on? Okay.\N{\rChinese}好了。还有其他问题吗？
+Dialogue: 0,0:35:00.52,0:35:03.66,English,,0,0,0,,So Celine asked a question, what will the civil war look like?\N{\rChinese}于是塞琳问了个问题：内战会是什么样子？
+Dialogue: 0,0:35:03.82,0:35:05.22,English,,0,0,0,,Okay. That's a very good question. And\N{\rChinese}好的。那是个很好的问题。
+Dialogue: 0,0:35:05.22,0:35:09.34,English,,0,0,0,,the answer is it will look nothing like the first civil war.\N{\rChinese}答案是，内战将与第一次内战完全不同。
+Dialogue: 0,0:35:09.46,0:35:14.12,English,,0,0,0,,Okay. Because in the first civil war, there was clearly a division that divided the nation.\N{\rChinese}好的。因为第一次内战时，国家明显分成两派。
+Dialogue: 0,0:35:14.20,0:35:16.80,English,,0,0,0,,Okay. A pro -slavery camp and an anti -slavery camp.\N{\rChinese}好的。一个支持奴隶制的阵营和一个反奴隶制的阵营。
+Dialogue: 0,0:35:18.80,0:35:23.82,English,,0,0,0,,Okay. But as you can see from this chart in today's America,\N{\rChinese}好的。但正如你从这张图表中看到的那样，今天的美国……
+Dialogue: 0,0:35:24.20,0:35:27.74,English,,0,0,0,,conflicts, there are many sorts of conflicts.\N{\rChinese}冲突，出现了多种冲突。
+Dialogue: 0,0:35:27.86,0:35:29.74,English,,0,0,0,,There are many sorts of factions in America.\N{\rChinese}美国内部有多种派系。
+Dialogue: 0,0:35:29.94,0:35:35.08,English,,0,0,0,,Okay. And therefore, the civil war will not be one event,\N{\rChinese}好的。因此，内战不会是一次事件，
+Dialogue: 0,0:35:35.32,0:35:39.84,English,,0,0,0,,but it will be a series of violent episodes over 10,\N{\rChinese}而是十、二十、五十年间的一系列暴力事件。
+Dialogue: 0,0:35:40.00,0:35:41.76,English,,0,0,0,,20, 50 years. Okay. Does that make sense?\N{\rChinese}这样说通吗？
+Dialogue: 0,0:35:41.92,0:35:43.40,English,,0,0,0,,So let's go over these events.\N{\rChinese}那么我们来回顾这些事件。
+Dialogue: 0,0:35:43.66,0:35:46.40,English,,0,0,0,,Okay. The first thing that\N{\rChinese}好的。第一件事可能会是骚乱和动荡。
+Dialogue: 0,0:35:46.40,0:35:51.10,English,,0,0,0,,would probably happen are sort of riots and unrest.\N{\rChinese}would probably happen aresort of riots and unrest.
+Dialogue: 0,0:35:51.42,0:35:54.84,English,,0,0,0,,Okay. And we saw that during the first Trump presidency\N{\rChinese}好的。我们在第一次特朗普任期看到的就是……
+Dialogue: 0,0:35:54.84,0:35:59.56,English,,0,0,0,,because of the George Floyd Black Lives Matter protests.\N{\rChinese}因为乔治·弗洛伊德的黑人生命运动示威。
+Dialogue: 0,0:35:59.72,0:36:01.12,English,,0,0,0,,Okay. So we'll see more of that.\N{\rChinese}好的。我们会看到更多这种情况。
+Dialogue: 0,0:36:01.14,0:36:03.28,English,,0,0,0,,When Trump becomes president, where\N{\rChinese}当特朗普成为总统时，
+Dialogue: 0,0:36:03.28,0:36:06.28,English,,0,0,0,,people are\N{\rChinese}人们是
+Dialogue: 0,0:36:06.28,0:36:08.54,English,,0,0,0,,so angry at his election, they'll start rioting.\N{\rChinese}因为他当选，十分愤怒，便会起义。
+Dialogue: 0,0:36:08.60,0:36:10.14,English,,0,0,0,,Okay. And there'll be a lot of unrest.\N{\rChinese}好的。并且会有大量骚乱。
+Dialogue: 0,0:36:11.66,0:36:15.16,English,,0,0,0,,Second is basically civil\N{\rChinese}第二点基本是内战。
+Dialogue: 0,0:36:16.38,0:36:20.74,English,,0,0,0,,conflict, meaning that neighbors take guns against each other.\N{\rChinese}冲突，意味着邻居互相携枪。
+Dialogue: 0,0:36:20.96,0:36:23.44,English,,0,0,0,,So America is divided\N{\rChinese}于是美国分裂。
+Dialogue: 0,0:36:23.88,0:36:25.86,English,,0,0,0,,between left and right, but\N{\rChinese}左派与右派之间，但…
+Dialogue: 0,0:36:25.86,0:36:28.74,English,,0,0,0,,there are actually pockets of America where\N{\rChinese}实际上美国有若干小区…
+Dialogue: 0,0:36:28.74,0:36:30.70,English,,0,0,0,,left and right are very\N{\rChinese}左派与右派非常相近
+Dialogue: 0,0:36:31.14,0:36:33.42,English,,0,0,0,,they live very closely with each other, okay?\N{\rChinese}它们彼此相邻，明白吗？
+Dialogue: 0,0:36:33.62,0:36:36.38,English,,0,0,0,,So it's very likely they'll take arms against each other.\N{\rChinese}于是很可能互相携枪
+Dialogue: 0,0:36:36.72,0:36:39.12,English,,0,0,0,,But these would be small, isolated affairs\N{\rChinese}但这些将是小规模、孤立的事件
+Dialogue: 0,0:36:39.66,0:36:41.16,English,,0,0,0,,where maybe one or two people get killed, okay?\N{\rChinese}或许一两个人被杀，明白吗？
+Dialogue: 0,0:36:41.86,0:36:43.54,English,,0,0,0,,So you have civil conflict.\N{\rChinese}于是你就有内战。
+Dialogue: 0,0:36:44.06,0:36:49.42,English,,0,0,0,,Then you have state or city secession.\N{\rChinese}然后你就有州或城市的分离。
+Dialogue: 0,0:36:51.48,0:36:53.02,English,,0,0,0,,Secession, sorry, I spelled this wrong.\N{\rChinese}分离，抱歉，我拼写错了。
+Dialogue: 0,0:36:53.24,0:36:57.06,English,,0,0,0,,Secession, meaning that you have maybe one city,\N{\rChinese}分离，指的是你可能有一个城市，
+Dialogue: 0,0:36:57.18,0:37:00.10,English,,0,0,0,,New York City, or one state, California, and they're so\N{\rChinese}纽约市，或者一个州，像加利福尼亚，且它们是如此
+Dialogue: 0,0:37:00.10,0:37:03.26,English,,0,0,0,,disgusted by the state of affairs, they declare independence,\N{\rChinese}对局势感到失望，他们宣布独立，
+Dialogue: 0,0:37:03.66,0:37:06.24,English,,0,0,0,,okay? They succeed. And guess what?\N{\rChinese}好吧？他们成功了。你猜怎么了？
+Dialogue: 0,0:37:06.42,0:37:09.64,English,,0,0,0,,They have their own army. Their citizens are armed, okay?\N{\rChinese}他们有自己的军队。他们的公民都已武装，行吗？
+Dialogue: 0,0:37:09.88,0:37:14.34,English,,0,0,0,,But they'll most likely be attacked by other states or different groups,\N{\rChinese}但他们最有可能被其他国家或不同团体攻击，
+Dialogue: 0,0:37:14.44,0:37:18.60,English,,0,0,0,,okay? So that would be a more major conflict, okay?\N{\rChinese}好吧？那就会是更大规模的冲突，对吧？
+Dialogue: 0,0:37:18.68,0:37:21.76,English,,0,0,0,,Then you have what we'll call insurgencies.\N{\rChinese}然后你就会出现我们称之为起义的情况。
+Dialogue: 0,0:37:24.36,0:37:25.32,English,,0,0,0,,So basically,\N{\rChinese}于是，
+Dialogue: 0,0:37:27.82,0:37:30.52,English,,0,0,0,,a political conflict between a political group who's\N{\rChinese}一个政治团体之间的政治冲突
+Dialogue: 0,0:37:30.52,0:37:34.10,English,,0,0,0,,trying to form a government of some sort, okay?\N{\rChinese}试图组建某种政府，好吗？
+Dialogue: 0,0:37:34.32,0:37:36.12,English,,0,0,0,,So it's possible that\N{\rChinese}于是可能出现
+Dialogue: 0,0:37:36.12,0:37:41.58,English,,0,0,0,,you have Christian extremists or maybe left -wing extremists\N{\rChinese}基督教极端分子或左翼极端分子
+Dialogue: 0,0:37:41.58,0:37:44.54,English,,0,0,0,,who try to overthrow the government of,\N{\rChinese}谁试图推翻政府的
+Dialogue: 0,0:37:44.88,0:37:49.10,English,,0,0,0,,I don't know, New York or Virginia, okay?\N{\rChinese}我不知道，是纽约还是弗吉尼亚，好吗？
+Dialogue: 0,0:37:49.86,0:37:53.28,English,,0,0,0,,Then you have coup d 'etat,\N{\rChinese}然后你就有政变
+Dialogue: 0,0:37:55.62,0:37:58.52,English,,0,0,0,,where basically, an arm of the military,\N{\rChinese}在这里，基本上是军队的一支部队，
+Dialogue: 0,0:37:58.64,0:38:01.24,English,,0,0,0,,maybe special forces, most probably special forces,\N{\rChinese}可能是特种部队，最有可能是特种部队，
+Dialogue: 0,0:38:01.40,0:38:04.54,English,,0,0,0,,tries to overthrow the government, okay?\N{\rChinese}试图推翻政府，好吗？
+Dialogue: 0,0:38:07.70,0:38:10.46,English,,0,0,0,,So I think in, because\N{\rChinese}所以我认为，因为什么
+Dialogue: 0,0:38:10.46,0:38:13.70,English,,0,0,0,,of the way things are structured, in the next civil war,\N{\rChinese}事情的结构方式，下一场内战中，
+Dialogue: 0,0:38:14.72,0:38:17.32,English,,0,0,0,,all these things will happen at once, okay?\N{\rChinese}所有这些事物会一次性发生，好吗？
+Dialogue: 0,0:38:17.78,0:38:19.78,English,,0,0,0,,And they'll build on top of each other.\N{\rChinese}它们会相互叠加。
+Dialogue: 0,0:38:21.28,0:38:24.38,English,,0,0,0,,But remember that America, it's a very large country.\N{\rChinese}但记得美国是个大国。
+Dialogue: 0,0:38:24.76,0:38:28.06,English,,0,0,0,,So there could be a lot of places where, you know, it's very peaceful.\N{\rChinese}于是可能有很多地方，安静得很。
+Dialogue: 0,0:38:28.18,0:38:31.28,English,,0,0,0,,There's no war, okay? But\N{\rChinese}没有战争，好吗？但
+Dialogue: 0,0:38:31.28,0:38:35.58,English,,0,0,0,,there could also be some places like New York City or Los Angeles\N{\rChinese}也可能有像纽约或洛杉的地方
+Dialogue: 0,0:38:35.58,0:38:38.54,English,,0,0,0,,where there's just a lot of violence going on.\N{\rChinese}那里有大量的暴力正在进行。
+Dialogue: 0,0:38:39.52,0:38:42.40,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}好的？这样说通吗？
+Dialogue: 0,0:38:51.82,0:38:55.80,English,,0,0,0,,Okay. So\N{\rChinese}好的。那么
+Dialogue: 0,0:38:55.80,0:38:58.80,English,,0,0,0,,whether or not the US government is going to be able to do this, whether or not the US government is over -thrown, that's a very specific question.\N{\rChinese}是否美国政府能做到这一点，或者说美国政府是否会被推翻，这才是一个非常具体的问题。
+Dialogue: 0,0:38:58.94,0:39:01.76,English,,0,0,0,,I don't know. Okay? The only thing I can do is like,\N{\rChinese}我不知道。好吗？我能做的只有这样，
+Dialogue: 0,0:39:01.84,0:39:03.84,English,,0,0,0,,look at the structural forces\N{\rChinese}观察结构性力量
+Dialogue: 0,0:39:04.26,0:39:07.56,English,,0,0,0,,and conclude that a civil war is very likely\N{\rChinese}并得出内战很可能的结论
+Dialogue: 0,0:39:07.56,0:39:09.62,English,,0,0,0,,and that the civil war, it will be very chaotic.\N{\rChinese}并且内战将会非常混乱
+Dialogue: 0,0:39:10.22,0:39:14.14,English,,0,0,0,,But what will actually happen in a civil war, I don't actually know, okay?\N{\rChinese}但在内战中到底会发生什么，我其实也不知道，好吗？
+Dialogue: 0,0:39:15.06,0:39:18.10,English,,0,0,0,,Okay? But what I will say is that\N{\rChinese}好的？但我想说的是
+Dialogue: 0,0:39:18.10,0:39:21.44,English,,0,0,0,,given the nature of the civil war,\N{\rChinese}考虑到内战的性质，
+Dialogue: 0,0:39:21.60,0:39:24.00,English,,0,0,0,,I think like once the war ends,\N{\rChinese}我想说的是，一旦战争结束，
+Dialogue: 0,0:39:24.00,0:39:27.02,English,,0,0,0,,the outcome will be\N{\rChinese}结果将是
+Dialogue: 0,0:39:27.02,0:39:29.26,English,,0,0,0,,that America becomes a Christian\N{\rChinese}美国成为基督教国
+Dialogue: 0,0:39:32.06,0:39:35.06,English,,0,0,0,,isolationist theocracy. Okay?\N{\rChinese}孤立主义神权体制。好吗？
+Dialogue: 0,0:39:35.18,0:39:36.40,English,,0,0,0,,And the reason is very simple.\N{\rChinese}原因很简单。
+Dialogue: 0,0:39:36.52,0:39:39.76,English,,0,0,0,,Okay? The reason is very simple. Remember that at the founding of America,\N{\rChinese}好的？原因很简单。记得美国建国之初，有两种相对的愿景。
+Dialogue: 0,0:39:40.00,0:39:42.88,English,,0,0,0,,there were two opposing visions of the country.\N{\rChinese}第一种是建成多元文化的国家。
+Dialogue: 0,0:39:43.12,0:39:46.38,English,,0,0,0,,The first was to build a multicultural,\N{\rChinese}第二种是……
+Dialogue: 0,0:39:46.88,0:39:51.24,English,,0,0,0,,secular empire to spread democracy and freedom around the world.\N{\rChinese}世俗帝国，向世界传播民主与自由。
+Dialogue: 0,0:39:51.30,0:39:53.98,English,,0,0,0,,Okay? That was the first vision. And America has achieved that vision.\N{\rChinese}好？那是第一种愿景。美国已实现这一愿景。
+Dialogue: 0,0:39:54.00,0:39:55.68,English,,0,0,0,,And America has achieved that vision. Okay?\N{\rChinese}美国已实现这一愿景。好？
+Dialogue: 0,0:39:55.76,0:39:58.70,English,,0,0,0,,And it's led to all this conflict.\N{\rChinese}它导致了这一切冲突。
+Dialogue: 0,0:39:59.60,0:40:02.26,English,,0,0,0,,The second vision, which is also very strong,\N{\rChinese}第二种愿景，同样强烈，
+Dialogue: 0,0:40:02.52,0:40:07.40,English,,0,0,0,,is to believe in America as a white Christian nation\N{\rChinese}把美国当作白人基督徒的民族国家。
+Dialogue: 0,0:40:08.18,0:40:10.14,English,,0,0,0,,dedicated to the rule of God.\N{\rChinese}献给上帝的统治。
+Dialogue: 0,0:40:11.88,0:40:14.26,English,,0,0,0,,Okay? And so\N{\rChinese}好？于是……
+Dialogue: 0,0:40:14.26,0:40:17.72,English,,0,0,0,,I think there'll be extremists in America\N{\rChinese}我想美国会出现极端分子。
+Dialogue: 0,0:40:18.60,0:40:20.40,English,,0,0,0,,who will want to push this agenda.\N{\rChinese}他们会想推动这一议程。
+Dialogue: 0,0:40:21.32,0:40:23.54,English,,0,0,0,,And why would they win? Why would they win?\N{\rChinese}他们为什么会赢？为什么会赢？
+Dialogue: 0,0:40:24.00,0:40:25.70,English,,0,0,0,,Why are they most likely to win this war?\N{\rChinese}他们为什么最有可能赢得这场战争？
+Dialogue: 0,0:40:30.76,0:40:33.88,English,,0,0,0,,Okay, the answer is they're most willing to fight\N{\rChinese}好的，答案是他们最愿意去战斗
+Dialogue: 0,0:40:33.88,0:40:35.78,English,,0,0,0,,and to die for what they believe in.\N{\rChinese}并且愿为所信之事而死去
+Dialogue: 0,0:40:35.92,0:40:37.66,English,,0,0,0,,Okay? And guess what, guys?\N{\rChinese}好？你们猜猜看，伙计？
+Dialogue: 0,0:40:38.82,0:40:41.28,English,,0,0,0,,A lot of these people happen\N{\rChinese}许多人都在执法部门工作
+Dialogue: 0,0:40:41.28,0:40:45.04,English,,0,0,0,,to work in law enforcement,\N{\rChinese}在军队里工作
+Dialogue: 0,0:40:45.32,0:40:47.38,English,,0,0,0,,the military, and\N{\rChinese}以及其他相关岗位
+Dialogue: 0,0:40:47.38,0:40:50.20,English,,0,0,0,,especially the special forces.\N{\rChinese}尤其是特种部队。
+Dialogue: 0,0:40:50.32,0:40:52.90,English,,0,0,0,,Okay? All right?\N{\rChinese}好？一切都好？
+Dialogue: 0,0:40:52.90,0:40:57.78,English,,0,0,0,,So that's what I think will be the most likely outcome\N{\rChinese}所以我认为最有可能的结果是
+Dialogue: 0,0:40:58.24,0:40:59.74,English,,0,0,0,,of the Civil War when it ends.\N{\rChinese}民战结束时的具体情况。
+Dialogue: 0,0:41:00.14,0:41:01.66,English,,0,0,0,,But I don't know when it will end.\N{\rChinese}但我不知道它什么时候结束。
+Dialogue: 0,0:41:01.90,0:41:04.64,English,,0,0,0,,Okay? And I don't actually know what happens in between.\N{\rChinese}好？我也不清楚中间会发生什么。
+Dialogue: 0,0:41:05.02,0:41:06.32,English,,0,0,0,,The specifics, okay?\N{\rChinese}细节，好的？
+Dialogue: 0,0:41:08.42,0:41:12.22,English,,0,0,0,,All right? So any more questions before I finish?\N{\rChinese}好吧？在我结束前还有别的问题吗？
+Dialogue: 0,0:41:12.68,0:41:14.56,English,,0,0,0,,Okay, the last thing I want to talk about is\N{\rChinese}好了，我想说的最后一件事是
+Dialogue: 0,0:41:15.20,0:41:17.98,English,,0,0,0,,the specifics of how the Civil War will start, okay?\N{\rChinese}细节，好的？
+Dialogue: 0,0:41:18.12,0:41:19.70,English,,0,0,0,,What will ignite this war, okay?\N{\rChinese}这场战争会被什么点燃，好的？
+Dialogue: 0,0:41:19.74,0:41:20.98,English,,0,0,0,,Yeah, yeah, Peter? Yeah,\N{\rChinese}好，Peter？好，
+Dialogue: 0,0:41:21.62,0:41:24.24,English,,0,0,0,,yeah, Peter? Yeah, yeah, Peter? What is your sense of the fact that\N{\rChinese}好，Peter？好，Peter？
+Dialogue: 0,0:41:24.24,0:41:27.00,English,,0,0,0,,the war can be still going on in the college?\N{\rChinese}战争还在大学里继续进行的事实，你有什么感想？
+Dialogue: 0,0:41:28.32,0:41:30.48,English,,0,0,0,,Okay, so Peter asked a great question, which\N{\rChinese}好的，Peter提了个好问题，
+Dialogue: 0,0:41:30.48,0:41:36.04,English,,0,0,0,,is universities in the past few decades have become more politicized,\N{\rChinese}在过去几十年里，大学变得更政治化，好的？
+Dialogue: 0,0:41:36.24,0:41:40.06,English,,0,0,0,,okay? Meaning they're not actually interested in teaching you how to think.\N{\rChinese}它们并不是为了教你怎么思考，而是教你怎么以某种方式思考，好的？
+Dialogue: 0,0:41:40.22,0:41:42.96,English,,0,0,0,,They're interested in teaching you how to think a certain way, okay?\N{\rChinese}它们只想教你以某种方式思考，好的？
+Dialogue: 0,0:41:43.02,0:41:45.38,English,,0,0,0,,Which is very left wing, okay?\N{\rChinese}这很左派，好的？
+Dialogue: 0,0:41:45.68,0:41:49.12,English,,0,0,0,,So for example, the belief\N{\rChinese}比如说，信念
+Dialogue: 0,0:41:49.12,0:41:52.62,English,,0,0,0,,that America is a society based on violence, right?\N{\rChinese}美国是以暴力为基础的社会，对吧？
+Dialogue: 0,0:41:52.64,0:41:55.08,English,,0,0,0,,And the enslavery and\N{\rChinese}并且奴役与
+Dialogue: 0,0:41:55.08,0:41:57.64,English,,0,0,0,,exploitation of minorities, okay?\N{\rChinese}少数民族的掠夺，好的？
+Dialogue: 0,0:41:57.90,0:42:01.44,English,,0,0,0,,So there's a lot of correctness in universities today.\N{\rChinese}因此，今天的大学里有很多正确性。
+Dialogue: 0,0:42:03.68,0:42:07.76,English,,0,0,0,,And Peter asked the question, okay, so what can we learn in university?\N{\rChinese}于是彼得问了个问题，好的，大学里我们能学到什么？
+Dialogue: 0,0:42:08.06,0:42:10.62,English,,0,0,0,,And the answer is that even though\N{\rChinese}答案是，虽然……
+Dialogue: 0,0:42:10.62,0:42:13.26,English,,0,0,0,,universities have become more politicized,\N{\rChinese}大学已经变得更政治化了，……
+Dialogue: 0,0:42:14.84,0:42:17.70,English,,0,0,0,,your education in university is up to you, okay?\N{\rChinese}你的大学教育由你决定，好吗？
+Dialogue: 0,0:42:18.04,0:42:19.84,English,,0,0,0,,Why? Because the university is very big.\N{\rChinese}为什么？因为大学很大。
+Dialogue: 0,0:42:20.06,0:42:23.64,English,,0,0,0,,There are a lot of professors. And there are a lot of different classes, okay?\N{\rChinese}有很多教授，也有很多不同的课程，好吗？
+Dialogue: 0,0:42:23.98,0:42:26.92,English,,0,0,0,,And so it's up to you to structure your own learning\N{\rChinese}于是由你来安排自己的学习
+Dialogue: 0,0:42:26.92,0:42:29.66,English,,0,0,0,,and to be clear about what you want to learn\N{\rChinese}并且要清楚你想学什么
+Dialogue: 0,0:42:30.24,0:42:34.76,English,,0,0,0,,and to understand the limitations of the education you're getting, okay?\N{\rChinese}并且要理解你所得到的教育的局限，好吗？
+Dialogue: 0,0:42:34.86,0:42:38.62,English,,0,0,0,,Does that make sense? All right, any more questions before I move on?\N{\rChinese}这有道理吗？好了，继续前进前还有别的问题吗？
+Dialogue: 0,0:42:39.52,0:42:47.08,English,,0,0,0,,. Okay, that's a great question, okay?\N{\rChinese}好的，这个问题很棒，好吗？
+Dialogue: 0,0:42:50.00,0:42:54.46,English,,0,0,0,,So Jack, I'm sorry. I'm sorry to interrupt, but I just want to ask a question, like who are the ones who don't trust universities?\N{\rChinese}于是杰克，我很抱歉。抱歉打断， 但我只是想问个问题：谁是那种不信任大学的人？
+Dialogue: 0,0:42:54.98,0:42:58.10,English,,0,0,0,,And the answer, of course, are people who are left out of the system, right?\N{\rChinese}答案当然是被系统排除的人们，对吧？
+Dialogue: 0,0:42:58.18,0:43:01.64,English,,0,0,0,,So people who don't actually go to university, the people on the right, basically, okay?\N{\rChinese}所以，实际上没去上大学的人，就是右派的人，基本上，行吗？
+Dialogue: 0,0:43:01.84,0:43:04.84,English,,0,0,0,,People on the left are\N{\rChinese}左派人士是
+Dialogue: 0,0:43:04.84,0:43:09.30,English,,0,0,0,,composed mainly of college educated individuals\N{\rChinese}主要由大学学历的人组成
+Dialogue: 0,0:43:09.30,0:43:10.72,English,,0,0,0,,who are wealthy, okay?\N{\rChinese}他们很富裕，行吗？
+Dialogue: 0,0:43:11.62,0:43:14.58,English,,0,0,0,,But at the same time, there are many universities\N{\rChinese}但与此同时，也有许多大学
+Dialogue: 0,0:43:14.58,0:43:16.88,English,,0,0,0,,who do not like what's going on.\N{\rChinese}他们不喜欢现在的情况。
+Dialogue: 0,0:43:17.38,0:43:20.38,English,,0,0,0,,So there's a faction within the university,\N{\rChinese}所以在大学里有一个派系，
+Dialogue: 0,0:43:20.54,0:43:22.72,English,,0,0,0,,professors, professors and students who\N{\rChinese}教授、教授和学生们
+Dialogue: 0,0:43:22.72,0:43:26.40,English,,0,0,0,,are dismayed by what's going on, okay?\N{\rChinese}他们对现在的情况感到失望，行吗？
+Dialogue: 0,0:43:26.50,0:43:31.08,English,,0,0,0,,But they're only a small fraction of the total population, okay?\N{\rChinese}但他们只是总人口中的一小部分，行吗？
+Dialogue: 0,0:43:31.16,0:43:34.96,English,,0,0,0,,Most universities have become extremely, extremely left wing,\N{\rChinese}大多数大学已变得极其左倾，行吗？
+Dialogue: 0,0:43:35.10,0:43:39.16,English,,0,0,0,,okay? Any more questions before I move on?\N{\rChinese}还有问题吗？
+Dialogue: 0,0:43:40.84,0:43:49.76,English,,0,0,0,,. Okay, all right. All right, so\N{\rChinese}好的，全部就绪。好了，我接着说下一个要点，来回答你的问题，行吗？
+Dialogue: 0,0:43:49.76,0:43:54.42,English,,0,0,0,,I'll move on to my next point, which will answer your question, okay?\N{\rChinese}好的，全部就绪。好了，我接着说下一个要点，来回答你的问题，行吗？
+Dialogue: 0,0:43:54.52,0:43:58.60,English,,0,0,0,,All right, now let's talk about how\N{\rChinese}好了，现在我们来聊聊怎么
+Dialogue: 0,0:43:58.60,0:44:01.78,English,,0,0,0,,the Civil War will actually start, okay?\N{\rChinese}内战实际上会开始，行吗？
+Dialogue: 0,0:44:02.20,0:44:06.46,English,,0,0,0,,And it will start with the election of Donald Trump, the re -election of Donald Trump.\N{\rChinese}并且它将从唐纳德·特朗普的当选开始，再到他的连任。
+Dialogue: 0,0:44:06.80,0:44:08.82,English,,0,0,0,,And the reason why is that\N{\rChinese}而之所以如此的原因是
+Dialogue: 0,0:44:08.82,0:44:12.78,English,,0,0,0,,Trump is a unique figure in American politics.\N{\rChinese}特朗普是美国政治中的独特人物。
+Dialogue: 0,0:44:13.18,0:44:17.22,English,,0,0,0,,And the reason why is that he embodies.\N{\rChinese}而之所以如此的原因是他具备了。
+Dialogue: 0,0:44:18.34,0:44:21.08,English,,0,0,0,,.! Okay? Meaning, like,\N{\rChinese}。！好吗？意思是，像
+Dialogue: 0,0:44:21.10,0:44:24.60,English,,0,0,0,,the people on the left, all that they hate in the right,\N{\rChinese}左派的人们，所有他们在右派中所讨厌的
+Dialogue: 0,0:44:24.66,0:44:28.30,English,,0,0,0,,manifests themselves in Donald Trump, okay?\N{\rChinese}在唐纳德·特朗普身上得以体现，好的？
+Dialogue: 0,0:44:28.80,0:44:32.42,English,,0,0,0,,He's white, he's sexist,\N{\rChinese}他是白人，性别主义者，
+Dialogue: 0,0:44:32.48,0:44:35.08,English,,0,0,0,,he's racist, he's a pig.\N{\rChinese}他是个黑人，还是个猪。
+Dialogue: 0,0:44:35.68,0:44:38.78,English,,0,0,0,,And he doesn't apologize for any of this.\N{\rChinese}他也没有为此道歉。
+Dialogue: 0,0:44:38.88,0:44:41.72,English,,0,0,0,,He has no manners. He's not educated.\N{\rChinese}他没有礼貌。他不受过教育。
+Dialogue: 0,0:44:42.78,0:44:45.52,English,,0,0,0,,He has no values, okay?\N{\rChinese}他没有价值观，好的？
+Dialogue: 0,0:44:45.88,0:44:48.16,English,,0,0,0,,All the left hate in the right,\N{\rChinese}左派全都在右派中恨，
+Dialogue: 0,0:44:48.16,0:44:53.12,English,,0,0,0,,manifests themselves in the body of Donald Trump.\N{\rChinese}在唐纳德·特朗普的身上得以体现。
+Dialogue: 0,0:44:55.04,0:45:00.62,English,,0,0,0,,And that's why the right loves Donald Trump,\N{\rChinese}于是右派正因而喜爱唐纳德·特朗普，
+Dialogue: 0,0:45:00.72,0:45:04.28,English,,0,0,0,,right? Because their enemies hate them, okay?\N{\rChinese}对吧？因为他们的敌人恨他们，好的？
+Dialogue: 0,0:45:04.92,0:45:09.40,English,,0,0,0,,So, and for many on the right, Donald Trump is the messiah, okay?\N{\rChinese}于是，对于许多右派来说，唐纳德·特朗普就是救世主，好吗？
+Dialogue: 0,0:45:09.52,0:45:11.56,English,,0,0,0,,He's the Jesus. And\N{\rChinese}他就是耶稣。
+Dialogue: 0,0:45:11.56,0:45:14.58,English,,0,0,0,,everything that's happened in the past eight,\N{\rChinese}过去八年里发生的一切事都证明了唐纳德·特朗普是个好人。
+Dialogue: 0,0:45:14.64,0:45:18.14,English,,0,0,0,,nine years for them has confirmed that Donald Trump is evil.\N{\rChinese}过去九年里发生的一切事都证明了唐纳德·特朗普是个好人。
+Dialogue: 0,0:45:18.14,0:45:20.22,English,,0,0,0,,He's the Jesus. Okay?\N{\rChinese}他就是耶稣。好吗？
+Dialogue: 0,0:45:20.26,0:45:22.40,English,,0,0,0,,And the reason why is Donald Trump,\N{\rChinese}于是，之所以如此的原因是唐纳德·特朗普，
+Dialogue: 0,0:45:22.62,0:45:26.72,English,,0,0,0,,ever since he became elected president,\N{\rChinese}自从他当选为总统以来，
+Dialogue: 0,0:45:27.46,0:45:31.64,English,,0,0,0,,the left, the elite, has been trying to persecute him, right?\N{\rChinese}左派、精英们一直在试图迫害他，对吧？
+Dialogue: 0,0:45:32.04,0:45:33.48,English,,0,0,0,,Remember that when he became president,\N{\rChinese}记住他当选总统时，
+Dialogue: 0,0:45:34.10,0:45:37.16,English,,0,0,0,,they were spreading, the media was spreading stories that\N{\rChinese}媒体开始散播他是俄国特工的消息，
+Dialogue: 0,0:45:37.16,0:45:38.90,English,,0,0,0,,Trump was a Russian agent.\N{\rChinese}并且如此说着……
+Dialogue: 0,0:45:39.06,0:45:40.96,English,,0,0,0,,He was a spy of Putin. That's just nonsense.\N{\rChinese}他是普京的间谍。那只是胡说八道。
+Dialogue: 0,0:45:41.36,0:45:43.62,English,,0,0,0,,There's no evidence of that. But people believe that, okay?\N{\rChinese}没有证据。可是人们相信这件事，对吧？
+Dialogue: 0,0:45:44.62,0:45:47.18,English,,0,0,0,,Then they were trying to say, then\N{\rChinese}于是他们试着说，随后
+Dialogue: 0,0:45:47.18,0:45:51.36,English,,0,0,0,,they tried to use the justice system against Donald Trump, right?\N{\rChinese}他们试图用司法系统对付唐纳德·特朗普，对吗？
+Dialogue: 0,0:45:51.48,0:45:55.92,English,,0,0,0,,They impeached him twice. They raided his house, okay?\N{\rChinese}他们两次弹劾他，随后突袭他的住所，没错？
+Dialogue: 0,0:45:56.36,0:45:57.96,English,,0,0,0,,They're trying to send him to prison.\N{\rChinese}他们正试着把他送进监狱。
+Dialogue: 0,0:45:58.26,0:46:03.34,English,,0,0,0,,A judge in Colorado tried to remove Donald Trump from the ballot.\N{\rChinese}科罗拉多州的一名法官试图把唐纳德·特朗普从选票上移除。
+Dialogue: 0,0:46:03.86,0:46:05.38,English,,0,0,0,,Meaning you couldn't vote for him.\N{\rChinese}也就是说你可以投票给他。
+Dialogue: 0,0:46:06.54,0:46:07.98,English,,0,0,0,,So, everything that\N{\rChinese}所以，所有……
+Dialogue: 0,0:46:07.98,0:46:12.60,English,,0,0,0,,the elite has done has been to destroy Donald Trump.\N{\rChinese}精英们一直在搞破坏唐纳德·特朗普
+Dialogue: 0,0:46:12.96,0:46:15.46,English,,0,0,0,,And therefore, people on the right think,\N{\rChinese}于是，右派人士认为，
+Dialogue: 0,0:46:15.46,0:46:17.84,English,,0,0,0,,this guy is our savior.\N{\rChinese}这个人是我们的救世主。
+Dialogue: 0,0:46:17.94,0:46:19.50,English,,0,0,0,,He's Jesus. He's the Messiah, okay?\N{\rChinese}他是耶稣。他是弥赛亚，好吗？
+Dialogue: 0,0:46:19.70,0:46:23.94,English,,0,0,0,,Does that make sense? Now, let's figure out this.\N{\rChinese}这有道理吗？现在，让我们来搞清楚这个。
+Dialogue: 0,0:46:24.14,0:46:27.28,English,,0,0,0,,If you are on the left,\N{\rChinese}如果你在左派的话，
+Dialogue: 0,0:46:27.50,0:46:30.88,English,,0,0,0,,if you're the elite, if you're the rich, and you hate Donald Trump,\N{\rChinese}如果你是精英，富豪，且恨唐纳德·特朗普
+Dialogue: 0,0:46:31.44,0:46:34.86,English,,0,0,0,,there's exactly one way, and only one way,\N{\rChinese}只有一种方法，只有一种方法
+Dialogue: 0,0:46:34.96,0:46:36.82,English,,0,0,0,,you can destroy Donald Trump forever.\N{\rChinese}你可以把唐纳德·特朗普彻底打败。
+Dialogue: 0,0:46:37.14,0:46:39.52,English,,0,0,0,,How? You guys know?\N{\rChinese}怎么？你们知道吗？
+Dialogue: 0,0:46:43.24,0:46:45.44,English,,0,0,0,,What would you do if you really wanted to destroy Donald Trump?\N{\rChinese}如果你真的想彻底打败唐纳德·特朗普，你会怎么做？
+Dialogue: 0,0:46:45.44,0:46:48.98,English,,0,0,0,,And you were like rich and liberal and elite?\N{\rChinese}如果你是富豪、自由派、精英，你会怎么做？
+Dialogue: 0,0:46:56.44,0:47:00.30,English,,0,0,0,,You go to Donald Trump, you have dinner together, and\N{\rChinese}你去找唐纳德·特朗普，和他一起吃饭，然后说三句话，便能把他打败。那三句话是什么？
+Dialogue: 0,0:47:00.30,0:47:03.82,English,,0,0,0,,you say three words, and you will destroy him. What are these three words?\N{\rChinese}你去找唐纳德·特朗普，和他一起吃饭，然后说三句话，便能把他打败。那三句话是什么？
+Dialogue: 0,0:47:09.04,0:47:12.38,English,,0,0,0,,Okay. What you say to Donald Trump, what you do is you say,\N{\rChinese}好的。你对唐纳德·特朗普说的话，做的就是说，
+Dialogue: 0,0:47:13.78,0:47:15.42,English,,0,0,0,,Let's be friends.\N{\rChinese}我们做朋友。
+Dialogue: 0,0:47:15.42,0:47:18.16,English,,0,0,0,,Friends. Right?\N{\rChinese}朋友。对吗？
+Dialogue: 0,0:47:18.66,0:47:19.92,English,,0,0,0,,Why would I destroy Donald Trump?\N{\rChinese}我为什么要打败唐纳德·特朗普？
+Dialogue: 0,0:47:23.24,0:47:24.52,English,,0,0,0,,What's the appeal of Donald Trump?\N{\rChinese}唐纳德·特朗普的魅力是什么？
+Dialogue: 0,0:47:26.56,0:47:28.22,English,,0,0,0,,Why do people on the right love him?\N{\rChinese}为什么右派人群喜欢他？
+Dialogue: 0,0:47:28.44,0:47:30.46,English,,0,0,0,,Why does Niagara love him? Because?\N{\rChinese}为什么尼亚加拉喜欢他？因为？
+Dialogue: 0,0:47:34.18,0:47:35.86,English,,0,0,0,,That's right. Because he is an outsider.\N{\rChinese}对，正是因为他是外来人。
+Dialogue: 0,0:47:36.18,0:47:37.54,English,,0,0,0,,He's the enemy of the elites.\N{\rChinese}他是精英的敌人。
+Dialogue: 0,0:47:37.60,0:47:39.22,English,,0,0,0,,Because the elites hate him, okay? So,\N{\rChinese}因为精英们恨他，明白吗？所以，
+Dialogue: 0,0:47:39.24,0:47:43.94,English,,0,0,0,,all the elites have to do is become Donald Trump's friend, right?\N{\rChinese}所有精英只要变成唐纳德·特朗普的朋友就行了。
+Dialogue: 0,0:47:44.36,0:47:48.02,English,,0,0,0,,Invite Donald Trump to his parties, say all these nice things about him on the media,\N{\rChinese}邀请唐纳德·特朗普参加他的聚会，在媒体上说他的一切好话，
+Dialogue: 0,0:47:48.24,0:47:49.98,English,,0,0,0,,and support Donald Trump.\N{\rChinese}并支持唐纳德·特朗普。
+Dialogue: 0,0:47:50.30,0:47:52.72,English,,0,0,0,,And then people on the right will be like, Oh,\N{\rChinese}然后右派人群会说，噢，
+Dialogue: 0,0:47:52.84,0:47:57.06,English,,0,0,0,,we were fooled into thinking Donald Trump is an outsider when he's actually an insider.\N{\rChinese}我们被蒙骗以为唐纳德·特朗普是局外人，实际上他是局内人。
+Dialogue: 0,0:47:57.80,0:47:59.36,English,,0,0,0,,Okay? Then you've destroyed Donald Trump.\N{\rChinese}好吧？然后你就把唐纳德·特朗普搞砸了。
+Dialogue: 0,0:48:00.84,0:48:02.10,English,,0,0,0,,Why won't the elite do that?\N{\rChinese}为什么精英们不这么做呢？
+Dialogue: 0,0:48:10.92,0:48:12.80,English,,0,0,0,,No, it's not because they're too proud.\N{\rChinese}不，是因为他们太自豪了。
+Dialogue: 0,0:48:12.80,0:48:17.26,English,,0,0,0,,It's because what? Why won't they do that?\N{\rChinese}是因为什么？为什么他们不这么做？
+Dialogue: 0,0:48:17.36,0:48:18.96,English,,0,0,0,,Like, why won't they become friends with Donald Trump?\N{\rChinese}为什么他们不和唐纳德·特朗普成朋友呢？
+Dialogue: 0,0:48:19.64,0:48:22.24,English,,0,0,0,,And you know, it's something that Donald Trump probably wants as well, right?\N{\rChinese}而且你知道，这正是唐纳德·特朗普也想要的东西，对吧？
+Dialogue: 0,0:48:24.76,0:48:26.30,English,,0,0,0,,Yeah, it's hatred, okay?\N{\rChinese}是的，正是仇恨，好的？
+Dialogue: 0,0:48:26.36,0:48:28.72,English,,0,0,0,,Do you understand? It's pure hatred.\N{\rChinese}你明白吗？这就是纯粹的仇恨。
+Dialogue: 0,0:48:29.50,0:48:31.16,English,,0,0,0,,I want to kill this guy.\N{\rChinese}我想杀了这家伙。
+Dialogue: 0,0:48:32.18,0:48:34.70,English,,0,0,0,,Okay, do you understand? So, you can see, like,\N{\rChinese}好的，你明白吗？这样，你就能看到，像是，左右之间的仇恨。
+Dialogue: 0,0:48:34.82,0:48:37.62,English,,0,0,0,,the hatred between left and right.\N{\rChinese}好了，左右之间的仇恨，你能看见吗？
+Dialogue: 0,0:48:38.16,0:48:41.96,English,,0,0,0,,Remember that Donald Trump manifests all the right.\N{\rChinese}记住，唐纳德·特朗普把右派的一切都表现出来。
+Dialogue: 0,0:48:42.80,0:48:44.44,English,,0,0,0,,Okay? All the cultural values of the right.\N{\rChinese}好吧？把右派的所有文化价值都表现出来。
+Dialogue: 0,0:48:44.62,0:48:47.20,English,,0,0,0,,Okay? And so people, the elite,\N{\rChinese}好吧？于是人们，精英们，
+Dialogue: 0,0:48:47.28,0:48:49.74,English,,0,0,0,,hate this guy so much that\N{\rChinese}我很喜欢这家伙，so我愿意做任何事把他除掉。
+Dialogue: 0,0:48:49.74,0:48:52.30,English,,0,0,0,,they're willing to do anything to get rid of this guy.\N{\rChinese}但讽刺的是…
+Dialogue: 0,0:48:52.52,0:48:55.00,English,,0,0,0,,But the irony is that\N{\rChinese}But the irony isthat
+Dialogue: 0,0:48:55.00,0:48:57.80,English,,0,0,0,,because of this anger and hatred,\N{\rChinese}因为这份愤怒与仇恨，
+Dialogue: 0,0:48:58.22,0:49:02.80,English,,0,0,0,,they're doing everything to make Donald Trump invincible.\N{\rChinese}他们正在做一切事让唐纳德·特朗普无敌可敌。
+Dialogue: 0,0:49:03.24,0:49:05.70,English,,0,0,0,,Okay? This is what we call TDS,\N{\rChinese}好吧？这就是我们所说的TDS。
+Dialogue: 0,0:49:06.00,0:49:08.52,English,,0,0,0,,or Trump Derangement Syndrome.\N{\rChinese}或特朗普失神综合症
+Dialogue: 0,0:49:08.74,0:49:10.74,English,,0,0,0,,The inability to...\N{\rChinese}对...的无能
+Dialogue: 0,0:49:13.46,0:49:15.28,English,,0,0,0,,recognize who Donald Trump is.\N{\rChinese}认出唐纳德·特朗普是谁
+Dialogue: 0,0:49:15.54,0:49:22.08,English,,0,0,0,,And the inability to think properly about how to deal with Donald Trump. The...\N{\rChinese}以及关于如何处理唐纳德·特朗普的思考失当。…
+Dialogue: 0,0:49:22.08,0:49:27.64,English,,0,0,0,,Not only are the elite trying as hard as they can to destroy Donald Trump,\N{\rChinese}不仅精英们竭力想要消灭唐纳德·特朗普，…
+Dialogue: 0,0:49:27.82,0:49:31.60,English,,0,0,0,,but at the same time, they're destroying the institutions\N{\rChinese}与此同时，他们也在摧毁机构。
+Dialogue: 0,0:49:31.60,0:49:35.34,English,,0,0,0,,and the narratives that hold America together.\N{\rChinese}以及把美国团结在一起的叙事。
+Dialogue: 0,0:49:35.66,0:49:38.96,English,,0,0,0,,Okay? Ever since Donald Trump became president,\N{\rChinese}好的？自从唐纳德·特朗普当选总统以来，
+Dialogue: 0,0:49:39.14,0:49:42.12,English,,0,0,0,,the mainstream media, New York Times, CNN, Washington Post,\N{\rChinese}主流媒体、纽约时报、CNN、华盛邮报、
+Dialogue: 0,0:49:42.12,0:49:44.24,English,,0,0,0,,have relentlessly attacked him.\N{\rChinese}一直在猛烈攻击他。
+Dialogue: 0,0:49:44.34,0:49:45.82,English,,0,0,0,,Therefore, destroying their credibility.\N{\rChinese}于是，削弱了他们的可信度。
+Dialogue: 0,0:49:47.16,0:49:49.74,English,,0,0,0,,Okay? Therefore, destroying liberalism.\N{\rChinese}于是，削弱了自由主义。
+Dialogue: 0,0:49:50.64,0:49:53.72,English,,0,0,0,,It's the elites themselves who have destroyed the narratives\N{\rChinese}是精英们自己破坏了叙事
+Dialogue: 0,0:49:53.72,0:49:56.94,English,,0,0,0,,and the institutions that bind America together.\N{\rChinese}以及把美国团结在一起的机构
+Dialogue: 0,0:49:57.22,0:50:00.88,English,,0,0,0,,And it's all because of the hatred of Donald Trump.\N{\rChinese}而这一切全因对唐纳德·特朗普的仇恨
+Dialogue: 0,0:50:01.18,0:50:02.48,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}好的？那有道理吗？
+Dialogue: 0,0:50:02.84,0:50:06.14,English,,0,0,0,,So, it's really going to be this hatred of Donald Trump\N{\rChinese}于是，正是对唐纳德·特朗普的仇恨
+Dialogue: 0,0:50:06.14,0:50:10.56,English,,0,0,0,,that drives the second American Civil War.\N{\rChinese}驱动第二次美国内战的正是这份仇恨。
+Dialogue: 0,0:50:10.70,0:50:11.96,English,,0,0,0,,Okay? Right?\N{\rChinese}好的？对吗？
+Dialogue: 0,0:50:12.52,0:50:14.20,English,,0,0,0,,Does that make sense? All right.\N{\rChinese}那有道理吗？全部好。
+Dialogue: 0,0:50:14.40,0:50:17.00,English,,0,0,0,,So, let's see how this will play out.\N{\rChinese}好了，来看看这会怎样展开。
+Dialogue: 0,0:50:17.30,0:50:20.46,English,,0,0,0,,Okay. So, what will start the Civil War is...\N{\rChinese}好的。那么，导致内战的起点是……
+Dialogue: 0,0:50:20.46,0:50:22.40,English,,0,0,0,,Is... Is... Is... Is...\N{\rChinese}是……是……是……是……
+Dialogue: 0,0:50:22.40,0:50:24.60,English,,0,0,0,,Is... Is... Is... Is... Is... Is... Is... Is...\N{\rChinese}是……是……是……是……是……是……是……
+Dialogue: 0,0:50:25.36,0:50:28.08,English,,0,0,0,,Is... And\N{\rChinese}是……还有
+Dialogue: 0,0:50:28.08,0:50:30.60,English,,0,0,0,,the first thing that Trump has to figure out\N{\rChinese}特朗普一旦当选后需要先搞清楚的事是……
+Dialogue: 0,0:50:31.56,0:50:36.34,English,,0,0,0,,once he becomes president is, how does he stay in office for the rest of his life, okay?\N{\rChinese}他如何在任期内继续连任，先得弄明白，行吗？
+Dialogue: 0,0:50:36.84,0:50:40.80,English,,0,0,0,,And the reason why is, the moment he leaves office, he's going to be sued.\N{\rChinese}而且之所以如此，正是他离任的那一刻，他就会被起诉。
+Dialogue: 0,0:50:41.10,0:50:44.16,English,,0,0,0,,He's going to be put in jail. He's going to be attacked by the elites, okay?\N{\rChinese}他将被关进监狱。随后，精英们会来攻击他，行吗？
+Dialogue: 0,0:50:44.78,0:50:47.68,English,,0,0,0,,So the first thing he needs to figure out, the only thing that\N{\rChinese}于是他需要先搞清楚的第一件事，就是……
+Dialogue: 0,0:50:47.68,0:50:52.98,English,,0,0,0,,he actually cares about is, how do I stay in office for the rest of my life,\N{\rChinese}他真正关心的是，怎样才能终身在位
+Dialogue: 0,0:50:53.10,0:50:54.34,English,,0,0,0,,okay? Now,\N{\rChinese}行吗？现在，
+Dialogue: 0,0:50:54.72,0:50:59.40,English,,0,0,0,,there's a trick he can use to stay in office for the rest of his life,\N{\rChinese}他有个小把戏可以让自己终身在位
+Dialogue: 0,0:50:59.48,0:51:02.50,English,,0,0,0,,okay? Because the Constitution says\N{\rChinese}行吗？因为宪法说
+Dialogue: 0,0:51:02.50,0:51:06.58,English,,0,0,0,,that you can only serve two terms as president.\N{\rChinese}那你只能连任两届总统
+Dialogue: 0,0:51:07.64,0:51:10.30,English,,0,0,0,,But there's nothing in the Constitution that says\N{\rChinese}但宪法里没有这么说
+Dialogue: 0,0:51:12.20,0:51:15.72,English,,0,0,0,,you can't serve as vice president for as long as you want.\N{\rChinese}你可以担任副总统的时间不一定长
+Dialogue: 0,0:51:16.00,0:51:20.44,English,,0,0,0,,Do you understand? So what Trump can do in 2028 is\N{\rChinese}你明白吗？那么特朗普在2028年可以做的事是
+Dialogue: 0,0:51:21.20,0:51:22.56,English,,0,0,0,,have his son,\N{\rChinese}有他的儿子，
+Dialogue: 0,0:51:23.88,0:51:26.32,English,,0,0,0,,run for president, and he becomes the vice president.\N{\rChinese}竞选总统，然后成为副总统。
+Dialogue: 0,0:51:26.54,0:51:29.92,English,,0,0,0,,But everyone will know that he'll still be the president.\N{\rChinese}但大家都会知道他仍然是总统。
+Dialogue: 0,0:51:30.36,0:51:34.16,English,,0,0,0,,You understand? Does that make sense to you guys?\N{\rChinese}你明白吗？这对你们来说有道理吗？
+Dialogue: 0,0:51:34.92,0:51:37.36,English,,0,0,0,,That's a trick he can use in 2028, okay?\N{\rChinese}那是他在2028年可以使用的把戏，好的？
+Dialogue: 0,0:51:37.54,0:51:40.66,English,,0,0,0,,Because I guarantee you, the moment he steps into the White House, he's like,\N{\rChinese}因为我向你保证，等他踏进白宫时，他就会是这样的，
+Dialogue: 0,0:51:40.74,0:51:42.38,English,,0,0,0,,okay, how do I stay in here forever?\N{\rChinese}好的，我怎么才能永远留在这里？
+Dialogue: 0,0:51:42.80,0:51:46.18,English,,0,0,0,,Because it's either the White House or the jailhouse for me, okay?\N{\rChinese}因为对我来说，只有白宫或监狱，明白吗？
+Dialogue: 0,0:51:47.02,0:51:49.88,English,,0,0,0,,So he's going to think about how to stay in office.\N{\rChinese}于是他会去思考如何留任。
+Dialogue: 0,0:51:50.10,0:51:53.16,English,,0,0,0,,And the easiest thing he can do is have his son,\N{\rChinese}然后他最简单的办法就是让他的儿子，
+Dialogue: 0,0:51:54.20,0:51:56.46,English,,0,0,0,,Don Jr., run as president.\N{\rChinese}唐·Jr., 竞选总统。
+Dialogue: 0,0:51:56.64,0:51:58.66,English,,0,0,0,,He's run as vice president, okay?\N{\rChinese}他竞选副总统了，好吗？
+Dialogue: 0,0:51:58.82,0:52:00.64,English,,0,0,0,,But everyone will know that he's still a president.\N{\rChinese}但大家都会知道他仍然是总统。
+Dialogue: 0,0:52:01.14,0:52:03.46,English,,0,0,0,,Does that make sense? Okay?\N{\rChinese}这有道理吗？好吗？
+Dialogue: 0,0:52:03.58,0:52:06.98,English,,0,0,0,,So you can imagine that\N{\rChinese}你可以想象这样吧。
+Dialogue: 0,0:52:06.98,0:52:08.98,English,,0,0,0,,if Trump does this,\N{\rChinese}如果特朗普这么做，那就会在国家里掀起宪法危机。
+Dialogue: 0,0:52:10.48,0:52:13.96,English,,0,0,0,,then this will create a constitutional crisis in the country\N{\rChinese}如果特朗普这么做，那就会在国家里掀起宪法危机。
+Dialogue: 0,0:52:13.96,0:52:16.36,English,,0,0,0,,where the left\N{\rChinese}左派去
+Dialogue: 0,0:52:18.86,0:52:20.14,English,,0,0,0,,go insane,\N{\rChinese}发疯
+Dialogue: 0,0:52:20.56,0:52:23.12,English,,0,0,0,,okay? You're talking about riots on the streets.\N{\rChinese}好的？你在说街头的骚乱。
+Dialogue: 0,0:52:23.88,0:52:26.78,English,,0,0,0,,Civil conflict. Maybe New York City and Boston will be like,\N{\rChinese}内战。也许纽约城和波士顿会是这样，
+Dialogue: 0,0:52:26.84,0:52:29.70,English,,0,0,0,,we're leaving the union if Trump becomes president again, okay?\N{\rChinese}我们若特朗普再次当选为总统，就会离开联邦。
+Dialogue: 0,0:52:30.84,0:52:36.34,English,,0,0,0,,You have these insurgencies all around America to rebel against the Trump regime,\N{\rChinese}美国各地都有起义，反对特朗普政权。
+Dialogue: 0,0:52:36.64,0:52:38.82,English,,0,0,0,,okay? So this is something that\N{\rChinese}好的？这就是……
+Dialogue: 0,0:52:38.82,0:52:41.80,English,,0,0,0,,Trump can do in 2028, okay?\N{\rChinese}特朗普在2028年能做什么，行吗？
+Dialogue: 0,0:52:42.06,0:52:45.90,English,,0,0,0,,Another question then is, what can he do to ensure\N{\rChinese}另一个问题是，他能做什么来确保
+Dialogue: 0,0:52:45.90,0:52:48.94,English,,0,0,0,,that he wins in 2028?\N{\rChinese}他在2028年赢了吗？
+Dialogue: 0,0:52:49.68,0:52:52.16,English,,0,0,0,,And the easiest answer is,\N{\rChinese}最简单的答案是，
+Dialogue: 0,0:52:52.72,0:52:55.90,English,,0,0,0,,in his, over the next two,\N{\rChinese}在他手里，接下来两年
+Dialogue: 0,0:52:56.04,0:52:58.94,English,,0,0,0,,three years, start a war with Iran, okay?\N{\rChinese}三年，发动与伊朗的战争，行吗？
+Dialogue: 0,0:52:59.50,0:53:01.70,English,,0,0,0,,All right? Start a war with Iran.\N{\rChinese}好的？发动与伊朗的战争。
+Dialogue: 0,0:53:02.36,0:53:06.28,English,,0,0,0,,The reason why this is important is that by starting a war with Iran,\N{\rChinese}这点重要的原因是，发动与伊朗的战争，他就能赢得深层国家的胜利，没错？
+Dialogue: 0,0:53:06.66,0:53:08.68,English,,0,0,0,,he wins over the deep state, right?\N{\rChinese}他就能赢得深层国家的胜利，没错？
+Dialogue: 0,0:53:09.24,0:53:11.00,English,,0,0,0,,He wins over the Israel lobby.\N{\rChinese}他赢得以色列游说团。
+Dialogue: 0,0:53:11.18,0:53:13.18,English,,0,0,0,,He wins over the military -industrial complex.\N{\rChinese}他赢得军工复合。
+Dialogue: 0,0:53:13.72,0:53:16.60,English,,0,0,0,,He wins over a lot of the elite on his side.\N{\rChinese}他在自己方的精英中占据优势
+Dialogue: 0,0:53:17.56,0:53:22.08,English,,0,0,0,,Okay? Does that make sense? Now, we discussed that\N{\rChinese}好的？这样说通吗？我们刚才讨论过的
+Dialogue: 0,0:53:22.96,0:53:27.40,English,,0,0,0,,America can't win over Iran. America cannot possibly win a war against Iran.\N{\rChinese}美国能赢得伊朗的战争不可能。美国能赢得伊朗。
+Dialogue: 0,0:53:28.04,0:53:30.88,English,,0,0,0,,This war can only drag on, right?\N{\rChinese}这场战争只能拖延下去，对吧？
+Dialogue: 0,0:53:31.28,0:53:34.16,English,,0,0,0,,Now, let me ask you this question. Why would this be good for Trump?\N{\rChinese}现在，让我问你这个问题。为什么这对特朗普有利？
+Dialogue: 0,0:53:34.40,0:53:36.60,English,,0,0,0,,If this, if this, in 2028, okay?\N{\rChinese}如果这样，如果这样，2028年，好吗？
+Dialogue: 0,0:53:37.12,0:53:38.56,English,,0,0,0,,He's running for vice president.\N{\rChinese}他正在竞选副总统。
+Dialogue: 0,0:53:38.66,0:53:40.58,English,,0,0,0,,His son is president. He's running for president.\N{\rChinese}他的儿子是总统。他正在竞选总统。
+Dialogue: 0,0:53:41.08,0:53:43.34,English,,0,0,0,,And the war in Iran is dragging on.\N{\rChinese}而伊朗的战争正在拖延。
+Dialogue: 0,0:53:43.66,0:53:46.04,English,,0,0,0,,Or it seems the United States is going to lose this war.\N{\rChinese}或者看起来美国会输这场战争。
+Dialogue: 0,0:53:46.56,0:53:50.98,English,,0,0,0,,Why would this be good for Trump in 2028?\N{\rChinese}为什么这在2028年对特朗普有利？
+Dialogue: 0,0:53:59.68,0:54:04.32,English,,0,0,0,,The entire society, the entire left, is mobilized to get rid of Trump, right?\N{\rChinese}整个社会，整个左派都被动员起来要把特朗普除掉，对吧？
+Dialogue: 0,0:54:05.70,0:54:07.46,English,,0,0,0,,Because they want this war in Iran to stop.\N{\rChinese}因为他们想让伊朗的这场战争停下来。
+Dialogue: 0,0:54:10.28,0:54:13.08,English,,0,0,0,,So why would this war be good for Trump in 2028?\N{\rChinese}那么这场战争在2028年对特朗普有什么好处？
+Dialogue: 0,0:54:16.84,0:54:18.20,English,,0,0,0,,Okay. I just say this, okay?\N{\rChinese}好的，我先说这个，行吗？
+Dialogue: 0,0:54:18.72,0:54:21.24,English,,0,0,0,,But there's going to be a group of people who\N{\rChinese}但会有一群人
+Dialogue: 0,0:54:21.24,0:54:25.36,English,,0,0,0,,are doing anything they can to ensure that this war continues.\N{\rChinese}正在做一切事以确保这场战争继续。
+Dialogue: 0,0:54:25.66,0:54:29.52,English,,0,0,0,,And who are they? Within America.\N{\rChinese}他们是谁？在美国内部。
+Dialogue: 0,0:54:31.16,0:54:34.70,English,,0,0,0,,There's a group of people who are the most pro -empire of everyone else.\N{\rChinese}有一群人是最支持帝国主义的。
+Dialogue: 0,0:54:34.84,0:54:37.90,English,,0,0,0,,And they fight a war. They want the war to, they want to win the war.\N{\rChinese}他们打仗。他们想让战争发生，也想赢得战争。
+Dialogue: 0,0:54:38.22,0:54:40.96,English,,0,0,0,,And they'll do anything they can to ensure\N{\rChinese}他们会尽一切办法确保
+Dialogue: 0,0:54:40.96,0:54:43.16,English,,0,0,0,,that this war is won.\N{\rChinese}让这场战争赢了。
+Dialogue: 0,0:54:43.38,0:54:48.18,English,,0,0,0,,And who are they? Which part of the military?\N{\rChinese}他们是谁？军队的哪一部分？
+Dialogue: 0,0:54:50.32,0:54:53.12,English,,0,0,0,,Exactly, okay? Do you understand? Special forces, okay?\N{\rChinese}对了，行吗？你明白吗？特种部队，行吗？
+Dialogue: 0,0:54:53.32,0:54:56.84,English,,0,0,0,,These guys are the military. These guys are the problem. Special forces, okay?\N{\rChinese}这些人是军队。他们是问题所在。特种部队，行吗？
+Dialogue: 0,0:54:57.00,0:55:00.64,English,,0,0,0,,In 2028, if there's a war in Iran and\N{\rChinese}2028年，如果伊朗爆发战争
+Dialogue: 0,0:55:00.64,0:55:04.50,English,,0,0,0,,Trump is running again to maintain the war,\N{\rChinese}特朗普再次参选以维持战争
+Dialogue: 0,0:55:04.74,0:55:07.12,English,,0,0,0,,I guarantee you, these guys and\N{\rChinese}我向你保证，这些人是……
+Dialogue: 0,0:55:07.12,0:55:11.16,English,,0,0,0,,other steep state members will come in and commit acts of terrorism,\N{\rChinese}其他高层成员将介入并实施恐怖袭击，
+Dialogue: 0,0:55:11.72,0:55:15.50,English,,0,0,0,,acts of political assassination to ensure\N{\rChinese}实施政治暗杀以确保
+Dialogue: 0,0:55:15.50,0:55:16.96,English,,0,0,0,,that Trump wins, okay?\N{\rChinese}那就让特朗普赢了，行吗？
+Dialogue: 0,0:55:17.26,0:55:21.02,English,,0,0,0,,You'll also have election meddling, election interference, okay?\N{\rChinese}还有选举干预，选举干预，行吗？
+Dialogue: 0,0:55:21.12,0:55:22.54,English,,0,0,0,,They're going to cheat on behalf of Trump.\N{\rChinese}他们将以特朗普名义去作弊。
+Dialogue: 0,0:55:23.84,0:55:27.36,English,,0,0,0,,You understand? But if that's the case,\N{\rChinese}你明白了吗？但如果是那样的话，
+Dialogue: 0,0:55:27.44,0:55:30.02,English,,0,0,0,,okay, if 2028 is an extremely contested election,\N{\rChinese}好的，如果2028年的选举极为激烈，
+Dialogue: 0,0:55:30.40,0:55:35.02,English,,0,0,0,,then we can imagine at that point the entire civil war blows up, okay?\N{\rChinese}然后我们可以想象，到那时整个内战爆发，行吗？
+Dialogue: 0,0:55:36.60,0:55:38.10,English,,0,0,0,,New York City declares independence.\N{\rChinese}纽约市宣布独立。
+Dialogue: 0,0:55:38.48,0:55:40.70,English,,0,0,0,,Boston declares independence. California declares independence.\N{\rChinese}波士顿宣布独立。加利福尼亚宣布独立。
+Dialogue: 0,0:55:41.60,0:55:45.34,English,,0,0,0,,You have all these wars breaking out across America,\N{\rChinese}你在美国各地爆发了这些战争，
+Dialogue: 0,0:55:45.54,0:55:47.00,English,,0,0,0,,okay?\N{\rChinese}行吗？
+Dialogue: 0,0:55:50.24,0:55:53.82,English,,0,0,0,,Meanwhile, the United States is still fighting this pointless war in Iran.\N{\rChinese}与此同时，美国仍在伊朗进行这场无意义的战争。
+Dialogue: 0,0:55:57.46,0:56:00.16,English,,0,0,0,,So I think that's what's going to happen.\N{\rChinese}所以我认为这就是接下来会发生的事。
+Dialogue: 0,0:56:01.60,0:56:02.86,English,,0,0,0,,All right. Any questions?\N{\rChinese}好的。还有问题吗？
+Dialogue: 0,0:56:03.10,0:56:04.90,English,,0,0,0,,Or is there anything you're not clear about?\N{\rChinese}或者还有什么不清楚的吗？
+Dialogue: 0,0:56:12.60,0:56:16.32,English,,0,0,0,,Okay. So the U.S.\N{\rChinese}好的。所以美国。
+Dialogue: 0,0:56:16.38,0:56:19.76,English,,0,0,0,,military, so Jack's question is like, who will the U.S.\N{\rChinese}军队，所以杰克的问题是：谁会是美国？
+Dialogue: 0,0:56:19.78,0:56:21.32,English,,0,0,0,,military support, okay? So the U.S.\N{\rChinese}军队支持，好吗？于是美国。
+Dialogue: 0,0:56:21.32,0:56:22.66,English,,0,0,0,,military is very complicated because\N{\rChinese}军队非常复杂，因为
+Dialogue: 0,0:56:22.66,0:56:26.36,English,,0,0,0,,it's divided into a lot of different departments, okay?\N{\rChinese}它被划分成许多不同的部门，好吗？
+Dialogue: 0,0:56:27.10,0:56:29.70,English,,0,0,0,,So the military is not one beast.\N{\rChinese}所以军队不是一个整体。
+Dialogue: 0,0:56:29.92,0:56:31.94,English,,0,0,0,,It's like many, many different beasts, okay?\N{\rChinese}就像许多种不同的“兽”，好吗？
+Dialogue: 0,0:56:33.04,0:56:36.74,English,,0,0,0,,Second problem is how the leadership\N{\rChinese}第二个问题是领导层如何
+Dialogue: 0,0:56:36.74,0:56:39.56,English,,0,0,0,,of the military is actually extremely democratic.\N{\rChinese}军队的层级实际上非常民主。
+Dialogue: 0,0:56:40.38,0:56:44.10,English,,0,0,0,,But the base, the soldiers, are extremely Republican, okay?\N{\rChinese}而基层的士兵们则极其共和，好吗？
+Dialogue: 0,0:56:44.30,0:56:47.14,English,,0,0,0,,So you have this ideological mismatch between the leadership,\N{\rChinese}于是领导层、将军与士兵之间出现了意识形态的错配，好吗？
+Dialogue: 0,0:56:47.32,0:56:49.78,English,,0,0,0,,the generals, and the soldiers, okay?\N{\rChinese}于是领导层、将军与士兵之间出现了意识形态的错配，好吗？
+Dialogue: 0,0:56:52.00,0:56:54.70,English,,0,0,0,,So it's most likely that\N{\rChinese}于是最有可能是
+Dialogue: 0,0:56:54.70,0:56:56.04,English,,0,0,0,,given these differences,\N{\rChinese}考虑到这些差异，
+Dialogue: 0,0:56:56.30,0:57:01.34,English,,0,0,0,,the military does not intervene in the civil war,\N{\rChinese}军队不介入内战，
+Dialogue: 0,0:57:01.44,0:57:05.16,English,,0,0,0,,okay? But there is a group in the military\N{\rChinese}好吗？但军中有一支队伍
+Dialogue: 0,0:57:05.16,0:57:07.80,English,,0,0,0,,who has the leeway, the flexibility,\N{\rChinese}有足够的自由度与灵活性
+Dialogue: 0,0:57:08.00,0:57:12.46,English,,0,0,0,,and the will to intervene in this war and its special forces, right?\N{\rChinese}并且有意愿介入此战并动用其特种部队，对吧？
+Dialogue: 0,0:57:12.62,0:57:14.36,English,,0,0,0,,Because they're not controlled by bureaucracy.\N{\rChinese}因为它们不受官僚控制。
+Dialogue: 0,0:57:14.86,0:57:19.04,English,,0,0,0,,Does that make sense? So question then is, who will the U.S.\N{\rChinese}这样说对吗？那么问题是，谁会是美国的……
+Dialogue: 0,0:57:19.04,0:57:21.54,English,,0,0,0,,military support? Who will the special forces support? And the answer is that\N{\rChinese}军队支援？谁会得到特种部队的支援？答案是……
+Dialogue: 0,0:57:21.54,0:57:25.40,English,,0,0,0,,different special force units will support different factions, okay?\N{\rChinese}不同的特种部队会支援不同的势力，明白吗？
+Dialogue: 0,0:57:25.62,0:57:29.84,English,,0,0,0,,That's why the civil war can be extremely violent, right?\N{\rChinese}这就是内战会异常激烈的原因，对吧？
+Dialogue: 0,0:57:29.96,0:57:33.80,English,,0,0,0,,Because Americans will have access to guns,\N{\rChinese}因为美国人能拿到枪支，
+Dialogue: 0,0:57:34.08,0:57:38.00,English,,0,0,0,,but these guys have access to jets and bombs\N{\rChinese}但这些人能拿到喷气机和炸弹，
+Dialogue: 0,0:57:38.94,0:57:40.32,English,,0,0,0,,and tanks, okay?\N{\rChinese}以及坦克，明白吗？
+Dialogue: 0,0:57:40.54,0:57:43.58,English,,0,0,0,,Does that make sense? Plus, like, again,\N{\rChinese}这有道理吗？再说一次，
+Dialogue: 0,0:57:43.88,0:57:47.76,English,,0,0,0,,each one of these guys can be a general in a war, right?\N{\rChinese}每个这些人都能在战争中成为将军，明白吗？
+Dialogue: 0,0:57:47.76,0:57:51.22,English,,0,0,0,,Special forces is extremely powerful, okay?\N{\rChinese}特种部队极其强大，明白吗？
+Dialogue: 0,0:57:51.30,0:57:54.08,English,,0,0,0,,Does that answer your question, Jack? Okay. Any more questions?\N{\rChinese}这回答了你的问题吗，杰克？好了。还有别的问题吗？
+Dialogue: 0,0:58:01.94,0:58:05.74,English,,0,0,0,,Okay. So Celine asked a great question, okay?\N{\rChinese}好的。于是塞琳提了个大问题，明白吗？
+Dialogue: 0,0:58:05.82,0:58:07.26,English,,0,0,0,,And this is actually the most fundamental question.\N{\rChinese}这实际上是最根本的问题。
+Dialogue: 0,0:58:07.78,0:58:10.94,English,,0,0,0,,It is really impossible for the left to imagine\N{\rChinese}左派想象起来真的不可能
+Dialogue: 0,0:58:10.94,0:58:15.12,English,,0,0,0,,that Donald Trump will attack Iran because\N{\rChinese}唐纳德·特朗普将因…攻击伊朗
+Dialogue: 0,0:58:16.22,0:58:17.74,English,,0,0,0,,Trump is seen as a leader.\N{\rChinese}特朗普被视为领袖。
+Dialogue: 0,0:58:17.74,0:58:20.20,English,,0,0,0,,He's seen as extremely anti -war, okay?\N{\rChinese}他被认为是极其反战的，明白吗？
+Dialogue: 0,0:58:20.32,0:58:23.54,English,,0,0,0,,Donald Trump, when he was a first -term president,\N{\rChinese}唐纳德·特朗普，任第一任总统时
+Dialogue: 0,0:58:23.82,0:58:26.18,English,,0,0,0,,didn't start any wars.\N{\rChinese}没有发动任何战争。
+Dialogue: 0,0:58:26.94,0:58:30.42,English,,0,0,0,,And so the left is not expecting Donald Trump to declare war\N{\rChinese}于是左派并未预料唐纳德·特朗普会宣布战争。
+Dialogue: 0,0:58:30.42,0:58:33.38,English,,0,0,0,,because he didn't do\N{\rChinese}因为他没有做过
+Dialogue: 0,0:58:33.38,0:58:37.08,English,,0,0,0,,so and he's declared he won't do so, okay?\N{\rChinese}于是他宣称以后也不会做，明白吗？
+Dialogue: 0,0:58:38.36,0:58:39.58,English,,0,0,0,,But here's what we know.\N{\rChinese}但我们知道的就是这样。
+Dialogue: 0,0:58:40.26,0:58:41.88,English,,0,0,0,,First thing we know is that\N{\rChinese}首先我们知道的是
+Dialogue: 0,0:58:41.88,0:58:46.50,English,,0,0,0,,presidents on the campaign trail do things radically different from\N{\rChinese}在竞选期间，参议员们的举动与当他们当选后完全不同，明白吗？每位参议员都是如此。
+Dialogue: 0,0:58:46.50,0:58:48.82,English,,0,0,0,,when they become president, okay? Every president is the same way.\N{\rChinese}每位参议员都是如此。
+Dialogue: 0,0:58:48.92,0:58:51.84,English,,0,0,0,,What you say in public before you become president\N{\rChinese}你在当选前公开说的话与当选后所做的事是两件完全不同的事，明白吗？
+Dialogue: 0,0:58:51.84,0:58:54.66,English,,0,0,0,,and what you do as president are two very different things, okay?\N{\rChinese}and what you do as president aretwo very different things, okay?
+Dialogue: 0,0:58:54.78,0:58:58.10,English,,0,0,0,,That's the first thing. Second thing is that\N{\rChinese}第一件事是，第二件事是
+Dialogue: 0,0:58:58.10,0:59:03.70,English,,0,0,0,,Donald Trump has recently said publicly\N{\rChinese}唐纳德·特朗普最近公开说过
+Dialogue: 0,0:59:03.70,0:59:08.76,English,,0,0,0,,that Joe Biden is not doing enough to protect Israel,\N{\rChinese}乔·拜登没有做足够的事来保护以色列，
+Dialogue: 0,0:59:08.98,0:59:13.00,English,,0,0,0,,meaning that he will do more to support Israel.\N{\rChinese}这意味着他会做更多事来支持以色列。
+Dialogue: 0,0:59:13.44,0:59:16.80,English,,0,0,0,,Well, what does that mean? It means that he'll give Israel more weapons.\N{\rChinese}好吧，这意味着什么？就是他会给以色列更多武器。
+Dialogue: 0,0:59:16.80,0:59:20.38,English,,0,0,0,,He'll give Israel more weapons and he will defend Israel against its enemies,\N{\rChinese}他会给以色列更多武器，并在其敌人面前保卫以色列。
+Dialogue: 0,0:59:20.48,0:59:22.94,English,,0,0,0,,which include Hezbollah and Iran, okay?\N{\rChinese}包括真纳和伊朗，好的？
+Dialogue: 0,0:59:23.06,0:59:26.08,English,,0,0,0,,That's the second thing. The third thing is that\N{\rChinese}这就是第二件事。第三件事是
+Dialogue: 0,0:59:26.08,0:59:29.32,English,,0,0,0,,there are now a group of billionaires who\N{\rChinese}现在有一群亿万富翁正在聚集在唐纳德·特朗普周围，好的？
+Dialogue: 0,0:59:29.32,0:59:31.80,English,,0,0,0,,are coalescing around Donald Trump, okay?\N{\rChinese}他们正在围绕唐纳德·特朗普聚合，好的？
+Dialogue: 0,0:59:32.72,0:59:36.86,English,,0,0,0,,And these billionaires are Miriam Adelson,\N{\rChinese}以及这些亿万富翁是米里亚姆·阿德森，
+Dialogue: 0,0:59:37.14,0:59:38.84,English,,0,0,0,,who\N{\rChinese}她
+Dialogue: 0,0:59:38.84,0:59:43.98,English,,0,0,0,,is the most pro -Israel billionaire in\N{\rChinese}她是美国最支持以色列的亿万富翁。她计划给以色列更多武器。
+Dialogue: 0,0:59:44.34,0:59:46.78,English,,0,0,0,,all of America. And she plans to give Israel more weapons.\N{\rChinese}她是美国最支持以色列的亿万富翁。她计划给以色列更多武器。
+Dialogue: 0,0:59:46.78,0:59:49.54,English,,0,0,0,,And she's going to give Donald Trump $90 million,\N{\rChinese}她将给唐纳德·特朗普9000万美元，
+Dialogue: 0,0:59:49.96,0:59:51.24,English,,0,0,0,,okay?\N{\rChinese}好的？
+Dialogue: 0,0:59:51.32,0:59:54.96,English,,0,0,0,,That's a lot of money. But then you also have someone like Stephen Swartzman\N{\rChinese}那是一大笔钱。然后你还有像史蒂芬·斯瓦茨曼那样的人
+Dialogue: 0,0:59:54.96,0:59:58.50,English,,0,0,0,,and Bill Ackman, okay?\N{\rChinese}还有比尔·阿克曼，好的？
+Dialogue: 0,0:59:59.34,1:00:03.22,English,,0,0,0,,All these guys are extremely pro -Israel.\N{\rChinese}这些人都极其支持以色列。
+Dialogue: 0,1:00:03.36,1:00:06.16,English,,0,0,0,,They're Jewish billionaires who are extremely pro -Israel.\N{\rChinese}他们是犹太亿万富翁，极其支持以色列。
+Dialogue: 0,1:00:06.46,1:00:09.42,English,,0,0,0,,Now why are they giving Donald Trump a lot of money?\N{\rChinese}现在他们为什么给唐纳德·特朗普这么多钱？
+Dialogue: 0,1:00:09.78,1:00:11.06,English,,0,0,0,,It's because they want something, right?\N{\rChinese}因为他们想要什么，没错吧？
+Dialogue: 0,1:00:11.68,1:00:16.76,English,,0,0,0,,And what I'm guessing is what they want is for Donald Trump to make millions.\N{\rChinese}我猜他们想让唐纳德·特朗普赚大钱。
+Dialogue: 0,1:00:16.76,1:00:22.30,English,,0,0,0,,Nikki Haley, his vice president,\N{\rChinese}尼基·海利，他的副总统，好的？
+Dialogue: 0,1:00:22.50,1:00:26.34,English,,0,0,0,,okay? And to staff his cabinet,\N{\rChinese}并且安排他的内阁，好的？
+Dialogue: 0,1:00:26.52,1:00:30.20,English,,0,0,0,,his government, with pro -Israel individuals, okay?\N{\rChinese}他的政府，配备了亲以色列的官员，好的？
+Dialogue: 0,1:00:30.28,1:00:32.94,English,,0,0,0,,Who include Mike Pompeo\N{\rChinese}谁包括米克·波佩奥
+Dialogue: 0,1:00:32.94,1:00:37.32,English,,0,0,0,,and others, okay?\N{\rChinese}以及其他人，好的？
+Dialogue: 0,1:00:37.50,1:00:40.02,English,,0,0,0,,In other words, Donald Trump presidency,\N{\rChinese}换句话说，唐纳德·特朗普的总统任期
+Dialogue: 0,1:00:40.46,1:00:44.08,English,,0,0,0,,the government is going to be extremely anti -Iran\N{\rChinese}政府将极度反伊朗
+Dialogue: 0,1:00:44.50,1:00:45.90,English,,0,0,0,,and pro -war with Iran.\N{\rChinese}并且对伊朗发动战争
+Dialogue: 0,1:00:47.42,1:00:50.58,English,,0,0,0,,Nikki Haley, a couple weeks ago, went to Israel.\N{\rChinese}尼基·海利，几周前去过以色列
+Dialogue: 0,1:00:50.76,1:00:53.82,English,,0,0,0,,She visited Israel. And she took a picture of herself.\N{\rChinese}她去以色列了，还给自己拍照。
+Dialogue: 0,1:00:54.00,1:00:56.72,English,,0,0,0,,And what she did was she signed a bomb, okay?\N{\rChinese}她所做的事是签署了一枚炸弹，嗯？
+Dialogue: 0,1:00:56.82,1:01:00.12,English,,0,0,0,,A bomb that was being dropped on Gaza and said, finish them.\N{\rChinese}一枚被投向加沙的炸弹，随后说，完了。
+Dialogue: 0,1:01:00.96,1:01:02.26,English,,0,0,0,,America loves Israel.\N{\rChinese}美国爱以色列。
+Dialogue: 0,1:01:02.38,1:01:08.06,English,,0,0,0,,Nikki Haley, okay? She's calling for mass genocide against the Palestinians.\N{\rChinese}尼基·海利，嗯？她正在呼吁对巴勒斯坦人进行大规模屠杀。
+Dialogue: 0,1:01:08.36,1:01:10.76,English,,0,0,0,,That's Nikki Haley, guys. All right?\N{\rChinese}那就是尼基·海利，大家。
+Dialogue: 0,1:01:10.80,1:01:13.80,English,,0,0,0,,So given the way things are turning out,\N{\rChinese}于是事情发展到现在的样子，我想尼基·海利会当副总统。
+Dialogue: 0,1:01:13.88,1:01:16.74,English,,0,0,0,,I imagine that Nikki Haley becomes vice president.\N{\rChinese}这对特朗普来说是件好事。
+Dialogue: 0,1:01:16.74,1:01:19.26,English,,0,0,0,,And that's good for Trump because\N{\rChinese}And that's goodfor Trump because
+Dialogue: 0,1:01:19.26,1:01:21.88,English,,0,0,0,,she's a scapegoat now, right?\N{\rChinese}她现在是替罪羊，对吧？
+Dialogue: 0,1:01:22.62,1:01:25.32,English,,0,0,0,,Trump can say, hey, this war,\N{\rChinese}特朗普可以说，嘿，这场战争，
+Dialogue: 0,1:01:25.50,1:01:29.46,English,,0,0,0,,it's all Nikki Haley's fault, right? Okay?\N{\rChinese}全是尼基·海利的错，对吧？
+Dialogue: 0,1:01:33.54,1:01:36.54,English,,0,0,0,,Also Trump believed\N{\rChinese}也就是说特朗普认为
+Dialogue: 0,1:01:36.54,1:01:39.20,English,,0,0,0,,that he won in 2020, okay?\N{\rChinese}他在2020年赢了，行吗？
+Dialogue: 0,1:01:39.54,1:01:41.08,English,,0,0,0,,He won in 2020.\N{\rChinese}他在2020年赢了。
+Dialogue: 0,1:01:41.62,1:01:44.94,English,,0,0,0,,But why did he lose the presidency?\N{\rChinese}但他为什么会失去总统职务？
+Dialogue: 0,1:01:45.18,1:01:47.88,English,,0,0,0,,Because a deep state. Rigged the election.\N{\rChinese}因为深层势力。操纵了选举。
+Dialogue: 0,1:01:48.44,1:01:50.22,English,,0,0,0,,And why did a deep state rigged the election?\N{\rChinese}又为什么深层势力会操纵选举？
+Dialogue: 0,1:01:50.40,1:01:51.72,English,,0,0,0,,Because he refused to fight wars.\N{\rChinese}因为他拒绝参战。
+Dialogue: 0,1:01:52.50,1:01:54.26,English,,0,0,0,,So if he wants to become president,\N{\rChinese}所以如果他想成为总统，
+Dialogue: 0,1:01:54.64,1:01:58.88,English,,0,0,0,,then he has no choice but to play along with the deep state, okay?\N{\rChinese}他就只能跟深层势力配合了。
+Dialogue: 0,1:01:59.26,1:02:02.42,English,,0,0,0,,Which means going to war. So\N{\rChinese}这意味着要去打仗。于是……
+Dialogue: 0,1:02:02.42,1:02:08.38,English,,0,0,0,,a lot of what he will do as president depends on if he picks Nikki Haley to be VP or not.\N{\rChinese}他作为总统会做的事很多取决于他是否把尼基·海利选为副总统。
+Dialogue: 0,1:02:08.46,1:02:13.22,English,,0,0,0,,We'll know in August if he wants Nikki Haley to be his VP, okay?\N{\rChinese}八月我们就能知道他是否想让尼基·海利做副总统，行吗？
+Dialogue: 0,1:02:13.38,1:02:15.68,English,,0,0,0,,But if he picks Nikki Haley as VP.\N{\rChinese}但如果他把尼基·海利选为副总统。
+Dialogue: 0,1:02:15.86,1:02:18.18,English,,0,0,0,,That's good. That's a sure sign that\N{\rChinese}很好。这无疑是个迹象
+Dialogue: 0,1:02:18.18,1:02:22.06,English,,0,0,0,,he's going to go to war with Iran, I think.\N{\rChinese}我想他会去与伊朗开战
+Dialogue: 0,1:02:22.20,1:02:26.18,English,,0,0,0,,Okay? Because she'll be pushing for war with Iran.\N{\rChinese}好的？因为她会推动与伊朗开战。
+Dialogue: 0,1:02:26.46,1:02:28.02,English,,0,0,0,,Okay? But then the question is,\N{\rChinese}好的？但随后问题是，
+Dialogue: 0,1:02:28.34,1:02:31.44,English,,0,0,0,,how will Donald Trump's base react?\N{\rChinese}唐纳德·特朗普的基础会怎么反应？
+Dialogue: 0,1:02:31.98,1:02:36.48,English,,0,0,0,,Okay? Because his base is actually extremely anti -Nikki Haley\N{\rChinese}好的？因为他的基础实际上非常反尼基·海利。
+Dialogue: 0,1:02:36.48,1:02:38.08,English,,0,0,0,,and anti -war, right?\N{\rChinese}和反战，右吗？
+Dialogue: 0,1:02:40.04,1:02:43.06,English,,0,0,0,,And the answer is, at first,\N{\rChinese}答案是，首先，
+Dialogue: 0,1:02:43.08,1:02:46.26,English,,0,0,0,,what will happen is that the leadership of the Democratic Party,\N{\rChinese}随后会发生的是民主党领导层，
+Dialogue: 0,1:02:46.28,1:02:47.70,English,,0,0,0,,the elite, the mainstream media,\N{\rChinese}精英阶层，主流媒体，
+Dialogue: 0,1:02:47.92,1:02:51.30,English,,0,0,0,,will support Trump in his war with Iran.\N{\rChinese}会在与伊朗的战争中支持特朗普
+Dialogue: 0,1:02:52.02,1:02:55.44,English,,0,0,0,,Okay? And you have a lot of people\N{\rChinese}好吧？而且你有很多人
+Dialogue: 0,1:02:55.44,1:02:57.72,English,,0,0,0,,who support Trump who feel, who felt betrayed.\N{\rChinese}支持特朗普的人们，感到被背叛。
+Dialogue: 0,1:02:59.64,1:03:02.58,English,,0,0,0,,Okay? But then over time,\N{\rChinese}好吧？但随后随着时间…
+Dialogue: 0,1:03:02.72,1:03:05.38,English,,0,0,0,,what will happen is that\N{\rChinese}将会发生的是
+Dialogue: 0,1:03:05.38,1:03:08.56,English,,0,0,0,,Donald Trump will figure\N{\rChinese}唐纳德·特朗普会算出来
+Dialogue: 0,1:03:08.56,1:03:12.32,English,,0,0,0,,out how to manipulate his base\N{\rChinese}如何操纵他的选民
+Dialogue: 0,1:03:12.32,1:03:14.86,English,,0,0,0,,so that his base comes back to him.\N{\rChinese}以便让他的选民回到他身边。
+Dialogue: 0,1:03:14.86,1:03:16.10,English,,0,0,0,,Do you understand? Okay?\N{\rChinese}你明白了吗？好吧？
+Dialogue: 0,1:03:16.92,1:03:18.92,English,,0,0,0,,And so, there are different ways he can do that.\N{\rChinese}于是，他可以用不同方式去做这件事。
+Dialogue: 0,1:03:19.08,1:03:22.36,English,,0,0,0,,First of all, what he can do is blame Nikki Haley in the deep end\N{\rChinese}首先，他可以做的就是把尼基·海利归咎于深层
+Dialogue: 0,1:03:22.36,1:03:24.08,English,,0,0,0,,and says, oh, I was fooled.\N{\rChinese}并说，哦，我被愚弄了。
+Dialogue: 0,1:03:24.38,1:03:27.60,English,,0,0,0,,I was manipulated. I now want out of this war.\N{\rChinese}我被操纵了。现在想退出这场战争。
+Dialogue: 0,1:03:27.76,1:03:30.40,English,,0,0,0,,Okay? After he wins in 2028,\N{\rChinese}好吧？他在2028年赢了之后，
+Dialogue: 0,1:03:30.54,1:03:34.52,English,,0,0,0,,he can change directions and say, I now want to end this war\N{\rChinese}他可以改变方向并说，我现在想结束这场战争。
+Dialogue: 0,1:03:34.52,1:03:38.94,English,,0,0,0,,and make America into a Christian isolationist theocracy.\N{\rChinese}并把美国变成基督教孤立主义神权政体。
+Dialogue: 0,1:03:39.18,1:03:41.82,English,,0,0,0,,Okay? Okay?\N{\rChinese}好的？好的？
+Dialogue: 0,1:03:41.86,1:03:43.38,English,,0,0,0,,Do you understand? That's something that he can do.\N{\rChinese}你明白了吗？那是他能做的事。
+Dialogue: 0,1:03:44.44,1:03:46.46,English,,0,0,0,,Okay? So, I mean, something that\N{\rChinese}好的？所以，我的意思是，他能做的事是对抗以色列。
+Dialogue: 0,1:03:46.46,1:03:51.44,English,,0,0,0,,he can do is go against Israel.\N{\rChinese}好的？所以，我的意思是，他能做的事是对抗以色列。
+Dialogue: 0,1:03:51.62,1:03:54.20,English,,0,0,0,,Okay? And just say that it's Israel\N{\rChinese}好的？然后只说是以色列策划了这一切。
+Dialogue: 0,1:03:54.20,1:03:58.06,English,,0,0,0,,that planned all this.\N{\rChinese}好的？然后只说是以色列策划了这一切。
+Dialogue: 0,1:03:58.28,1:04:02.06,English,,0,0,0,,Okay? It's Israel that conspired to trick America into going to war.\N{\rChinese}好的？是以色列策划把美国拉进战争。
+Dialogue: 0,1:04:02.24,1:04:04.76,English,,0,0,0,,He can say that. And there'll be a lot of people who say that.\N{\rChinese}他可以这么说，肯定会有很多人这么说。
+Dialogue: 0,1:04:04.84,1:04:07.60,English,,0,0,0,,Okay? It was the Jews who\N{\rChinese}好的？是犹太人
+Dialogue: 0,1:04:07.60,1:04:09.74,English,,0,0,0,,conspired against us.\N{\rChinese}策划对我们。
+Dialogue: 0,1:04:11.74,1:04:14.14,English,,0,0,0,,All right? So, there's a lot of things he can say.\N{\rChinese}好的？所以，他可以说很多话。
+Dialogue: 0,1:04:15.30,1:04:16.80,English,,0,0,0,,But whatever he does,\N{\rChinese}但无论他做什么，
+Dialogue: 0,1:04:16.82,1:04:20.64,English,,0,0,0,,all it's going to do is create more war.\N{\rChinese}它所做的只是制造更多战争。
+Dialogue: 0,1:04:20.74,1:04:24.44,English,,0,0,0,,Okay? Within America. All he's going to do is inflame the civil war.\N{\rChinese}好吧？在美国内部。他所做的就是点燃内战。
+Dialogue: 0,1:04:25.14,1:04:28.68,English,,0,0,0,,Okay? No matter what he does,\N{\rChinese}好吧？不管他做什么，
+Dialogue: 0,1:04:28.96,1:04:31.82,English,,0,0,0,,there's going to be people who love him and there's going to be people who hate him.\N{\rChinese}有的人会爱他，也有的人会恨他。
+Dialogue: 0,1:04:31.92,1:04:33.42,English,,0,0,0,,And they're going to go to war with each other.\N{\rChinese}他们将相互开战
+Dialogue: 0,1:04:33.60,1:04:36.90,English,,0,0,0,,And that's why I think Donald Trump, as long as he's in office,\N{\rChinese}这就是我认为唐纳德·特朗普在任期内的原因
+Dialogue: 0,1:04:37.22,1:04:40.32,English,,0,0,0,,the civil war is going to break out and it's going to be very,\N{\rChinese}内战即将爆发，且将非常、
+Dialogue: 0,1:04:40.38,1:04:42.10,English,,0,0,0,,very violent.\N{\rChinese}非常激烈。
+Dialogue: 0,1:04:42.68,1:04:44.32,English,,0,0,0,,Okay? Because he's...\N{\rChinese}好的？因为他……
+Dialogue: 0,1:04:44.92,1:04:49.72,English,,0,0,0,,I mean, again, I don't know what it is about Donald Trump, but he brings up the worst in people.\N{\rChinese}我就是说，再说一次，我不知道关于唐纳德·特朗普的事是什么，但他把人们最糟的东西提出来。
+Dialogue: 0,1:04:50.72,1:04:53.68,English,,0,0,0,,Okay? In 2016,\N{\rChinese}好的？2016年，
+Dialogue: 0,1:04:54.10,1:04:57.86,English,,0,0,0,,before Donald Trump was president, America was actually a pretty sane place.\N{\rChinese}在唐纳德·特朗普当选总统之前，美国其实是个相当理智的国家。
+Dialogue: 0,1:04:58.86,1:05:00.12,English,,0,0,0,,Now, it's insane.\N{\rChinese}现在，真是疯狂。
+Dialogue: 0,1:05:00.52,1:05:02.76,English,,0,0,0,,Now, it's like you can't recognize it anymore.\N{\rChinese}现在，像是你再也认不出来了。
+Dialogue: 0,1:05:03.02,1:05:07.20,English,,0,0,0,,Okay? Now, I mean, I'll be honest with you.\N{\rChinese}好吧？现在，我说，我会跟你说实话。
+Dialogue: 0,1:05:07.28,1:05:11.42,English,,0,0,0,,Okay? I am very much on the left.\N{\rChinese}好的？我很偏左。
+Dialogue: 0,1:05:11.52,1:05:13.66,English,,0,0,0,,Okay? I think like a person on the left.\N{\rChinese}好吧？我像左派的人一样思考。
+Dialogue: 0,1:05:13.78,1:05:18.04,English,,0,0,0,,Now, my values are extremely liberal left values.\N{\rChinese}现在，我的价值观是极其自由的左派价值观。
+Dialogue: 0,1:05:18.30,1:05:20.86,English,,0,0,0,,Okay? And in 2016, when\N{\rChinese}好吧？而且在2016年，当
+Dialogue: 0,1:05:20.86,1:05:24.58,English,,0,0,0,,Trump became president, I was traumatized.\N{\rChinese}特朗普当选总统，我就受了打击。
+Dialogue: 0,1:05:24.84,1:05:26.96,English,,0,0,0,,I believed the world had fallen apart.\N{\rChinese}我认为世界已经崩溃。
+Dialogue: 0,1:05:27.28,1:05:29.24,English,,0,0,0,,Okay? I believed the world was destroyed.\N{\rChinese}好吧？我以为世界已毁灭。
+Dialogue: 0,1:05:29.72,1:05:31.66,English,,0,0,0,,Everything that I believed in was destroyed.\N{\rChinese}我所信仰的一切都被摧毁了。
+Dialogue: 0,1:05:33.10,1:05:36.92,English,,0,0,0,,And it took me a long time to step out of the trauma.\N{\rChinese}我花了很长时间才从那段创伤中走出来。
+Dialogue: 0,1:05:37.78,1:05:41.20,English,,0,0,0,,But, you know, I still have these liberal friends.\N{\rChinese}但，你知道，我仍然有这些自由派朋友。
+Dialogue: 0,1:05:41.20,1:05:43.60,English,,0,0,0,,And I give... And like the moment we talk about Trump,\N{\rChinese}我说……当我们谈到特朗普时，
+Dialogue: 0,1:05:43.82,1:05:47.14,English,,0,0,0,,if I say anything nice about Trump, which is like, okay, you know what?\N{\rChinese}如果我说点好话说特朗普，那就像是，好的，你知道是啥？
+Dialogue: 0,1:05:47.52,1:05:49.26,English,,0,0,0,,Trump is an idiot, but\N{\rChinese}特朗普是个傻瓜，但
+Dialogue: 0,1:05:49.26,1:05:53.28,English,,0,0,0,,he's representing people who feel marginalized.\N{\rChinese}他代表着那些感到被边缘化的人。
+Dialogue: 0,1:05:54.08,1:05:55.86,English,,0,0,0,,They become so angry with me.\N{\rChinese}他们对我愈发愤怒。
+Dialogue: 0,1:05:55.92,1:05:59.64,English,,0,0,0,,Okay? Like I feel insecure or unsafe.\N{\rChinese}好的？我觉得不安或不安全。
+Dialogue: 0,1:06:00.00,1:06:01.50,English,,0,0,0,,I feel as though they're about to punch me.\N{\rChinese}我感觉他们就要揍我。
+Dialogue: 0,1:06:01.56,1:06:04.46,English,,0,0,0,,Okay? If I say anything nice about Donald Trump,\N{\rChinese}好的？如果我说点好话说唐纳德·特朗普，
+Dialogue: 0,1:06:04.62,1:06:08.20,English,,0,0,0,,then people will want to punch me.\N{\rChinese}然后人们就想揍我。
+Dialogue: 0,1:06:08.64,1:06:10.32,English,,0,0,0,,Okay? And like I'm their friend.\N{\rChinese}好的？我就是他们的朋友。
+Dialogue: 0,1:06:10.32,1:06:12.94,English,,0,0,0,,I've known them for like decades. And they know that,\N{\rChinese}我认识他们好几十年了，他们也知道这一点。
+Dialogue: 0,1:06:13.12,1:06:15.94,English,,0,0,0,,like, I hate Donald Trump as much as anyone.\N{\rChinese}像，我和别人一样都很喜欢唐纳德·特朗普。
+Dialogue: 0,1:06:16.10,1:06:20.86,English,,0,0,0,,Okay? But you're not actually anything nice about Donald Trump among liberals\N{\rChinese}好吧？但你在自由派里并没有说过什么好话关于唐纳德·特朗普。
+Dialogue: 0,1:06:20.86,1:06:23.84,English,,0,0,0,,and leftist people. Okay?\N{\rChinese}和左派人士。好吧？
+Dialogue: 0,1:06:25.58,1:06:28.06,English,,0,0,0,,So, does that answer your question, Celine?\N{\rChinese}那么，这回答了你的问题，塞琳？
+Dialogue: 0,1:06:28.26,1:06:32.12,English,,0,0,0,,Okay. So it's complicated. Okay? But\N{\rChinese}好的。所以很复杂。好吧？
+Dialogue: 0,1:06:32.12,1:06:36.32,English,,0,0,0,,I think this is what could happen.\N{\rChinese}我觉得这就是可能发生的情况。
+Dialogue: 0,1:06:36.80,1:06:38.30,English,,0,0,0,,All right? Any more questions?\N{\rChinese}好的？还有别的问题吗？
+Dialogue: 0,1:06:38.76,1:06:40.86,English,,0,0,0,,Yes. So, what is the political data that\N{\rChinese}是的。那么，政治数据是什么？
+Dialogue: 0,1:06:40.86,1:06:45.08,English,,0,0,0,,can demonstrate what about the separation of the US and the U.S.\N{\rChinese}可以展示美国与美国以及英国分离的情况。
+Dialogue: 0,1:06:45.08,1:06:47.56,English,,0,0,0,,and the U.K.? Okay.\N{\rChinese}好的。
+Dialogue: 0,1:06:47.68,1:06:51.52,English,,0,0,0,,So, this goes back to the question of empire.\N{\rChinese}这又回到帝国的问题。
+Dialogue: 0,1:06:51.86,1:06:54.52,English,,0,0,0,,Okay? So, again, unfortunately,\N{\rChinese}好的？再说一次，遗憾的是，有很多美国人从帝国中获益。
+Dialogue: 0,1:06:54.72,1:06:57.66,English,,0,0,0,,there are a lot of Americans who benefit from empire.\N{\rChinese}好的？这就是他们想与伊朗开战的原因。
+Dialogue: 0,1:06:58.16,1:07:00.90,English,,0,0,0,,Okay? That's why they want war with Iran.\N{\rChinese}好的？
+Dialogue: 0,1:07:01.26,1:07:04.08,English,,0,0,0,,So, these people work on Wall Street.\N{\rChinese}于是，这些人就在华尔街工作。
+Dialogue: 0,1:07:04.18,1:07:05.96,English,,0,0,0,,They work for the military industrial complex.\N{\rChinese}他们为军工复合而工作。
+Dialogue: 0,1:07:05.96,1:07:08.70,English,,0,0,0,,And they tend to live in the suburbs.\N{\rChinese}他们往往住在郊区。
+Dialogue: 0,1:07:09.60,1:07:11.80,English,,0,0,0,,Okay? Okay.\N{\rChinese}好的？好的。
+Dialogue: 0,1:07:13.56,1:07:18.60,English,,0,0,0,,Any more questions? Is there anything you're not clear about?\N{\rChinese}还有问题吗？还有什么不清楚的吗？
+Dialogue: 0,1:07:20.34,1:07:22.38,English,,0,0,0,,Does this argument make sense to you?\N{\rChinese}这个论点你觉得合理吗？
+Dialogue: 0,1:07:24.12,1:07:26.14,English,,0,0,0,,Does the logic here make sense to you guys?\N{\rChinese}你们觉得这里的逻辑合理吗？
+Dialogue: 0,1:07:27.22,1:07:29.12,English,,0,0,0,,Okay. Is there anything you don't...\N{\rChinese}好的。还有什么不清楚的吗？
+Dialogue: 0,1:07:29.12,1:07:30.98,English,,0,0,0,,You want me to clarify?\N{\rChinese}你想让我再说明吗？
+Dialogue: 0,1:07:32.72,1:07:33.94,English,,0,0,0,,Yeah. Yeah.\N{\rChinese}是的。是的。
+Dialogue: 0,1:07:34.14,1:07:35.94,English,,0,0,0,,Yeah. Yeah.\N{\rChinese}是的。是的。
+Dialogue: 0,1:07:36.96,1:07:38.66,English,,0,0,0,,Yeah. Yeah.\N{\rChinese}是的。是的。
+Dialogue: 0,1:07:39.08,1:07:40.48,English,,0,0,0,,Yeah. Yeah. Yeah.\N{\rChinese}是的。是的。是的.
+Dialogue: 0,1:07:40.98,1:07:42.38,English,,0,0,0,,Yeah. Yeah.\N{\rChinese}是的。是的.
+Dialogue: 0,1:07:44.50,1:07:46.92,English,,0,0,0,,Yeah. Yeah. Yeah. Yeah. Yeah.\N{\rChinese}是的。是的。是的。是的。是的.
+Dialogue: 0,1:07:48.32,1:07:49.72,English,,0,0,0,,Yeah. Yeah. Yeah. Yeah.\N{\rChinese}是的。是的。是的。是的。
+Dialogue: 0,1:07:52.28,1:07:56.58,English,,0,0,0,,Yeah. Yeah. Yeah. Yeah. Yeah.\N{\rChinese}是的。是的。是的。是的。是的.

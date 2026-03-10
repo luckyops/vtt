@@ -1,0 +1,755 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.40,0:00:03.92,English,,0,0,0,,Okay, let's start class.\N{\rChinese}好的，开始上课。
+Dialogue: 0,0:00:04.44,0:00:07.78,English,,0,0,0,,We're continuing the United States Iran war.\N{\rChinese}我们继续讨论美国伊朗战争。
+Dialogue: 0,0:00:09.04,0:00:13.28,English,,0,0,0,,As I've said in the previous class, the United States will invade Iran.\N{\rChinese}正如我在上一课所说，美国将入侵伊朗。
+Dialogue: 0,0:00:14.00,0:00:17.34,English,,0,0,0,,We don't know when, it might be two years from now, it might be six years from now,\N{\rChinese}我们不知道什么时候，可能两年后，也可能六年后，
+Dialogue: 0,0:00:17.48,0:00:19.08,English,,0,0,0,,okay, but eventually it will happen.\N{\rChinese}好，最终它会发生。
+Dialogue: 0,0:00:19.56,0:00:20.90,English,,0,0,0,,And in today's class,\N{\rChinese}今天的课上，
+Dialogue: 0,0:00:21.10,0:00:24.60,English,,0,0,0,,I want to go over some of the reasons why the United States will invade Iran.\N{\rChinese}我想先说一下美国入侵伊朗的原因。
+Dialogue: 0,0:00:24.60,0:00:27.54,English,,0,0,0,,And I believe that\N{\rChinese}我认为会有三大原因，好的？
+Dialogue: 0,0:00:27.54,0:00:29.66,English,,0,0,0,,there'll be three major reasons, okay?\N{\rChinese}有三大主要原因，好的？
+Dialogue: 0,0:00:30.02,0:00:35.72,English,,0,0,0,,The first major reason is the United States must defend its empire.\N{\rChinese}第一个主要原因是美国必须保卫其帝国。
+Dialogue: 0,0:00:36.66,0:00:39.48,English,,0,0,0,,Second major reason is that\N{\rChinese}第二个主要原因是
+Dialogue: 0,0:00:39.48,0:00:42.66,English,,0,0,0,,the United States will be pressured by its allies,\N{\rChinese}美国将受到其盟友的压力，
+Dialogue: 0,0:00:42.94,0:00:46.54,English,,0,0,0,,mainly Saudi Arabia and Israel, into invading Iran.\N{\rChinese}主要是沙特阿拉伯和以色列，促使其入侵伊朗。
+Dialogue: 0,0:00:46.94,0:00:51.72,English,,0,0,0,,And the third reason is the Israel lobby,\N{\rChinese}第三个原因是以色列游说团体，好的？
+Dialogue: 0,0:00:51.88,0:00:55.92,English,,0,0,0,,okay? So in today's class, I want to explain to you what the Israel lobby is.\N{\rChinese}今天的课里，我想给你们解释一下以色列游说团体是什么。
+Dialogue: 0,0:00:56.44,0:01:01.78,English,,0,0,0,,But first, I need you to understand what Christianity is,\N{\rChinese}先说，先让你们了解基督教是什么，
+Dialogue: 0,0:01:01.98,0:01:03.48,English,,0,0,0,,okay? So remember that Christianity,\N{\rChinese}好了，记住基督教是……
+Dialogue: 0,0:01:03.64,0:01:07.12,English,,0,0,0,,it's a religion about a man,\N{\rChinese}它是一种关于一个人的宗教，
+Dialogue: 0,0:01:07.46,0:01:10.64,English,,0,0,0,,Jesus, who we know very little about, okay?\N{\rChinese}耶稣，我们对他知之甚少，好的？
+Dialogue: 0,0:01:10.94,0:01:15.14,English,,0,0,0,,We think that he was born in 4 BCE,\N{\rChinese}我们认为他出生于公元前4年，
+Dialogue: 0,0:01:15.14,0:01:16.86,English,,0,0,0,,and then\N{\rChinese}随后
+Dialogue: 0,0:01:16.86,0:01:20.76,English,,0,0,0,,he died in 31 BC,\N{\rChinese}他于公元前31年去世，
+Dialogue: 0,0:01:21.12,0:01:23.58,English,,0,0,0,,sorry, CE, Common Era.\N{\rChinese}抱歉，公元后，通用纪元。
+Dialogue: 0,0:01:23.70,0:01:28.42,English,,0,0,0,,Okay? So we know that he is from a place called Galilee.\N{\rChinese}好的？所以我们知道他来自一个叫加利利的地方。
+Dialogue: 0,0:01:28.92,0:01:31.90,English,,0,0,0,,We know that the Romans crucified him.\N{\rChinese}我们知道罗马人把他钉在十字架上。
+Dialogue: 0,0:01:32.06,0:01:33.50,English,,0,0,0,,And that's about it, okay?\N{\rChinese}好了，就是这样，行吗？
+Dialogue: 0,0:01:34.00,0:01:36.70,English,,0,0,0,,What his believers say is that\N{\rChinese}他的信徒说的是
+Dialogue: 0,0:01:36.70,0:01:40.30,English,,0,0,0,,he is God come to earth,\N{\rChinese}他是降临人间的上帝
+Dialogue: 0,0:01:40.46,0:01:44.46,English,,0,0,0,,and he was preaching a gospel or a message\N{\rChinese}他在传讲福音或信息
+Dialogue: 0,0:01:44.46,0:01:48.84,English,,0,0,0,,that God is returning, the kingdom of heaven is coming.\N{\rChinese}那位上帝归来，天国即将到。
+Dialogue: 0,0:01:49.08,0:01:52.44,English,,0,0,0,,And after he was crucified, he was resurrected.\N{\rChinese}他被钉在十字架后复活。
+Dialogue: 0,0:01:53.20,0:01:54.54,English,,0,0,0,,Okay? And then he went to heaven.\N{\rChinese}好的？然后他升天了。
+Dialogue: 0,0:01:55.39,0:01:57.72,English,,0,0,0,,And what's really important is that\N{\rChinese}而且最重要的是
+Dialogue: 0,0:01:57.72,0:02:01.16,English,,0,0,0,,Jesus will eventually return,\N{\rChinese}耶稣最终会再来
+Dialogue: 0,0:02:01.62,0:02:04.02,English,,0,0,0,,okay? And this is called the second coming.\N{\rChinese}好的？这就是所谓的第二次降临。
+Dialogue: 0,0:02:07.53,0:02:10.44,English,,0,0,0,,Okay? This is the second coming of Jesus, and when\N{\rChinese}好的吗？这就是耶稣的第二次降临，等到
+Dialogue: 0,0:02:10.44,0:02:13.78,English,,0,0,0,,he comes, he will bring heaven onto earth,\N{\rChinese}他降临时，将把天国带到人间，
+Dialogue: 0,0:02:14.63,0:02:17.54,English,,0,0,0,,and we will all live forever in peace.\N{\rChinese}并且我们将永远在和平中生活。
+Dialogue: 0,0:02:18.79,0:02:21.86,English,,0,0,0,,Okay. So that's the story of Jesus.\N{\rChinese}好的。那就是耶稣的故事。
+Dialogue: 0,0:02:22.18,0:02:23.90,English,,0,0,0,,Then the question then is, what is the story of Jesus?\N{\rChinese}那么问题是，耶稣的故事是什么？
+Dialogue: 0,0:02:23.90,0:02:28.16,English,,0,0,0,,Why this religion become so popular?\N{\rChinese}为什么这宗教会如此流行？
+Dialogue: 0,0:02:28.40,0:02:30.40,English,,0,0,0,,So popular in fact that\N{\rChinese}如此流行，实际上有…
+Dialogue: 0,0:02:30.40,0:02:35.14,English,,0,0,0,,today about 2 billion people believe in it.\N{\rChinese}如今约有20亿人信奉它。
+Dialogue: 0,0:02:35.54,0:02:40.30,English,,0,0,0,,Okay? It's the most popular, most powerful religion in the world.\N{\rChinese}好的？它是世界上最流行、最有力量的宗教。
+Dialogue: 0,0:02:40.48,0:02:45.36,English,,0,0,0,,And at first, the appeal of Christianity is\N{\rChinese}首先，基督教的吸引力在于
+Dialogue: 0,0:02:45.36,0:02:48.72,English,,0,0,0,,that it was a revolutionary religion\N{\rChinese}它是一种革命性的宗教
+Dialogue: 0,0:02:48.72,0:02:53.22,English,,0,0,0,,that promised a better world to the world's oppressed.\N{\rChinese}它向世界的受压者承诺了一个更好的世界。
+Dialogue: 0,0:02:53.38,0:02:56.36,English,,0,0,0,,Okay? So if you look at the early people who\N{\rChinese}好吧？如果你看早期的人们…
+Dialogue: 0,0:02:56.36,0:02:59.22,English,,0,0,0,,followed Christianity, it was slaves,\N{\rChinese}跟随基督教的人是奴隶，
+Dialogue: 0,0:02:59.56,0:03:01.68,English,,0,0,0,,peasants, women.\N{\rChinese}农民，妇女。
+Dialogue: 0,0:03:03.36,0:03:05.94,English,,0,0,0,,Okay? People who were marginalized in society.\N{\rChinese}好吧？被社会边缘化的人们。
+Dialogue: 0,0:03:06.74,0:03:09.88,English,,0,0,0,,And the idea of Jesus is that\N{\rChinese}而耶稣的观念是
+Dialogue: 0,0:03:09.88,0:03:12.14,English,,0,0,0,,a better world is coming where\N{\rChinese}一个更好的世界即将来临，在那里
+Dialogue: 0,0:03:12.14,0:03:15.14,English,,0,0,0,,everyone will be equal.\N{\rChinese}人人都将平等。
+Dialogue: 0,0:03:15.68,0:03:18.22,English,,0,0,0,,Okay? The meek shall inherit the earth.\N{\rChinese}好吧？温顺者必继地土。
+Dialogue: 0,0:03:18.70,0:03:22.92,English,,0,0,0,,So if you think about it, Christianity is appealing\N{\rChinese}如果你思考它，基督教就很吸引人。
+Dialogue: 0,0:03:22.92,0:03:27.40,English,,0,0,0,,because it's a new world. Because what it is, it's a free lottery ticket.\N{\rChinese}因为它是一个新世界。因为它就是一张免费的彩票。
+Dialogue: 0,0:03:28.04,0:03:30.44,English,,0,0,0,,Okay? Does that make sense? It's a lottery ticket.\N{\rChinese}好的？这样说通吗？它是一张彩票。
+Dialogue: 0,0:03:31.30,0:03:32.68,English,,0,0,0,,It costs you nothing.\N{\rChinese}它不花你一分钱。
+Dialogue: 0,0:03:32.96,0:03:35.98,English,,0,0,0,,And hey, if it's right,\N{\rChinese}而且，如果是对的，
+Dialogue: 0,0:03:36.14,0:03:38.08,English,,0,0,0,,then you go to heaven.\N{\rChinese}那么你就能去天堂。
+Dialogue: 0,0:03:39.30,0:03:44.00,English,,0,0,0,,Okay? So at first, Christianity was an extremely revolutionary religion.\N{\rChinese}好的？起初，基督教是一种极具革命性的宗教。
+Dialogue: 0,0:03:44.54,0:03:49.22,English,,0,0,0,,And its basic characteristics in the beginning were it was revolutionary.\N{\rChinese}其最初的基本特征就是革命性。
+Dialogue: 0,0:03:51.28,0:03:53.84,English,,0,0,0,,It was egalitarian. Okay?\N{\rChinese}它是平等的。好的吗？
+Dialogue: 0,0:03:57.04,0:03:59.60,English,,0,0,0,,It was anti -authority.\N{\rChinese}它是反权威的。
+Dialogue: 0,0:04:00.54,0:04:02.06,English,,0,0,0,,And it was anti -authority. And it was anti -authority. And it was anti -authority. And it was anti -authority.\N{\rChinese}它是反权威的。
+Dialogue: 0,0:04:02.06,0:04:03.82,English,,0,0,0,,And so these individuals who\N{\rChinese}于是这些人
+Dialogue: 0,0:04:03.82,0:04:07.02,English,,0,0,0,,before were outcast from society,\N{\rChinese}之前被社会抛弃，
+Dialogue: 0,0:04:07.14,0:04:12.18,English,,0,0,0,,okay, like criminals, Jesus promised hope,\N{\rChinese}好，像罪人，耶稣承诺希望
+Dialogue: 0,0:04:12.36,0:04:13.94,English,,0,0,0,,salvation, and redemption.\N{\rChinese}救赎与救赎
+Dialogue: 0,0:04:14.40,0:04:17.46,English,,0,0,0,,Okay? So before, if you were a criminal,\N{\rChinese}好的？所以之前，如果你是个罪人，
+Dialogue: 0,0:04:17.74,0:04:22.30,English,,0,0,0,,there was really no way for you to redeem yourself in society.\N{\rChinese}那时你在社会里几乎没有办法自我赎回。
+Dialogue: 0,0:04:22.30,0:04:27.44,English,,0,0,0,,And Jesus is the promise of your salvation\N{\rChinese}耶稣是你们得救赎的应许
+Dialogue: 0,0:04:27.44,0:04:30.50,English,,0,0,0,,and redemption. Okay? And that's why it was so appealing to a lot of people.\N{\rChinese}好？这就是它对许多人如此有吸引力的原因。
+Dialogue: 0,0:04:30.72,0:04:33.72,English,,0,0,0,,It became so popular that\N{\rChinese}它变得非常流行
+Dialogue: 0,0:04:33.72,0:04:37.46,English,,0,0,0,,it became the official religion of the Roman Empire.\N{\rChinese}它成为罗马帝国的官方宗教。
+Dialogue: 0,0:04:38.24,0:04:40.08,English,,0,0,0,,Now, there's a problem.\N{\rChinese}现在出现了一个问题。
+Dialogue: 0,0:04:40.26,0:04:43.02,English,,0,0,0,,Okay? Because remember, Christianity is a revolutionary,\N{\rChinese}好的？因为记得，基督教是革命性的
+Dialogue: 0,0:04:43.42,0:04:46.12,English,,0,0,0,,egalitarian, and anti -authority religion.\N{\rChinese}平等主义的、反权威的宗教。
+Dialogue: 0,0:04:47.02,0:04:49.58,English,,0,0,0,,And now, it's become an empire.\N{\rChinese}现在，它已经成为一个帝国。
+Dialogue: 0,0:04:50.92,0:04:52.28,English,,0,0,0,,So, you know, there's a problem.\N{\rChinese}所以，你知道，出现了个问题。
+Dialogue: 0,0:04:52.28,0:04:53.86,English,,0,0,0,,And so, they had to develop new\N{\rChinese}于是，他们必须发展新的
+Dialogue: 0,0:04:53.86,0:04:57.80,English,,0,0,0,,theories to reinvent Christianity\N{\rChinese}理论以重塑基督教为建立宗教
+Dialogue: 0,0:04:57.80,0:05:00.72,English,,0,0,0,,as an establishment religion.\N{\rChinese}为建立宗教
+Dialogue: 0,0:05:01.12,0:05:04.16,English,,0,0,0,,And as we discussed last semester,\N{\rChinese}[85] 于是我们上学期讨论过，
+Dialogue: 0,0:05:04.42,0:05:06.04,English,,0,0,0,,the person who did it was Augustine.\N{\rChinese}[86] 那个人就是奥古斯丁。
+Dialogue: 0,0:05:07.72,0:05:09.08,English,,0,0,0,,Okay? Augustine.\N{\rChinese}好的？奥古斯丁。
+Dialogue: 0,0:05:09.60,0:05:13.46,English,,0,0,0,,Remember that last semester, we read City of God and Confessions.\N{\rChinese}记得上学期我们读过《上帝之城》和《信条》吗？
+Dialogue: 0,0:05:13.70,0:05:15.24,English,,0,0,0,,And City of God and Confessions,\N{\rChinese}以及《上帝之城》和《信条》
+Dialogue: 0,0:05:15.34,0:05:21.08,English,,0,0,0,,it's really to adapt Christianity as an establishment religion.\N{\rChinese}这正是把基督教适应为建立宗教。
+Dialogue: 0,0:05:21.08,0:05:24.24,English,,0,0,0,,To reduce its revolutionary nature.\N{\rChinese}为减轻其革命性。
+Dialogue: 0,0:05:24.98,0:05:27.38,English,,0,0,0,,Okay? So, is this all making sense to you?\N{\rChinese}好的？那这全部对你来说有意义吗？
+Dialogue: 0,0:05:28.46,0:05:31.46,English,,0,0,0,,And one problem that\N{\rChinese}还有一个问题是
+Dialogue: 0,0:05:31.46,0:05:34.00,English,,0,0,0,,Augustine had was the idea of a second coming.\N{\rChinese}奥古斯丁曾有第二次降临的想法。
+Dialogue: 0,0:05:34.06,0:05:35.88,English,,0,0,0,,Okay? That the world will end.\N{\rChinese}好的？世界就要结束了。
+Dialogue: 0,0:05:36.42,0:05:40.02,English,,0,0,0,,He had a major problem with this idea for many reasons.\N{\rChinese}他对这个想法有多重原因的主要问题。
+Dialogue: 0,0:05:40.10,0:05:42.70,English,,0,0,0,,Okay? But the first reason is\N{\rChinese}好吧？但第一个原因是
+Dialogue: 0,0:05:42.70,0:05:45.84,English,,0,0,0,,that, you know, if the world's going to end,\N{\rChinese}你知道的，如果世界要结束，
+Dialogue: 0,0:05:46.16,0:05:48.04,English,,0,0,0,,why do we have to do anything?\N{\rChinese}为什么我们必须做任何事？
+Dialogue: 0,0:05:48.56,0:05:51.06,English,,0,0,0,,Why can't we just drink and drink?\N{\rChinese}为什么我们不只是喝酒？
+Dialogue: 0,0:05:51.06,0:05:52.96,English,,0,0,0,,And party and play video games every day?\N{\rChinese}然后每天聚会玩游戏？
+Dialogue: 0,0:05:53.06,0:05:54.96,English,,0,0,0,,Right? What's the point of working?\N{\rChinese}对吧？工作有什么意义？
+Dialogue: 0,0:05:55.44,0:05:58.28,English,,0,0,0,,That's the first problem. Right? The second problem is,\N{\rChinese}这就是第一个问题。对吧？第二个问题是，
+Dialogue: 0,0:05:58.58,0:06:02.44,English,,0,0,0,,well, why is Jesus coming back?\N{\rChinese}嗯，为什么耶稣要回来？
+Dialogue: 0,0:06:03.22,0:06:04.70,English,,0,0,0,,It's because the world sucks.\N{\rChinese}因为世界真糟。
+Dialogue: 0,0:06:04.94,0:06:08.22,English,,0,0,0,,Right? Well, who's in charge of the world?\N{\rChinese}对吧？谁来掌管世界？
+Dialogue: 0,0:06:08.58,0:06:10.94,English,,0,0,0,,The Catholic Church is in charge of the world.\N{\rChinese}天主教会掌管世界。
+Dialogue: 0,0:06:11.12,0:06:12.68,English,,0,0,0,,You understand? So,\N{\rChinese}你明白了吗？所以，
+Dialogue: 0,0:06:12.74,0:06:16.54,English,,0,0,0,,Jesus is coming back to destroy the authority of the Catholic Church.\N{\rChinese}耶稣要回来，破坏天主教会的权威。
+Dialogue: 0,0:06:16.80,0:06:19.46,English,,0,0,0,,That's not good. Alright?\N{\rChinese}那还行。好吧？
+Dialogue: 0,0:06:19.46,0:06:23.36,English,,0,0,0,,So, for many reasons, Augustine basically said,\N{\rChinese}于是，出于多种原因，奥古斯丁基本说，
+Dialogue: 0,0:06:23.64,0:06:27.40,English,,0,0,0,,okay, the second coming, don't worry about it.\N{\rChinese}好了，第二次降临，别担心。
+Dialogue: 0,0:06:27.72,0:06:31.10,English,,0,0,0,,Okay? Jesus will come back whenever he wants to come back.\N{\rChinese}好的？耶稣会随时回来。
+Dialogue: 0,0:06:31.28,0:06:34.26,English,,0,0,0,,But before he comes back, we, the Catholic Church,\N{\rChinese}但在他回来之前，我们天主教会，
+Dialogue: 0,0:06:34.58,0:06:36.90,English,,0,0,0,,will take care of everyone.\N{\rChinese}会照顾大家。
+Dialogue: 0,0:06:37.12,0:06:39.50,English,,0,0,0,,Okay? Alright.\N{\rChinese}好的。
+Dialogue: 0,0:06:39.62,0:06:42.02,English,,0,0,0,,So, why is this important?\N{\rChinese}那么，为什么这很重要？
+Dialogue: 0,0:06:42.32,0:06:46.40,English,,0,0,0,,This is important because from Augustine onwards,\N{\rChinese}这很重要，因为从奥古斯丁开始，
+Dialogue: 0,0:06:46.76,0:06:49.44,English,,0,0,0,,we've had divergent understanding of the world.\N{\rChinese}我们对世界的理解已经出现分歧。
+Dialogue: 0,0:06:49.44,0:06:50.98,English,,0,0,0,,We've had divergent understanding of what the second coming means.\N{\rChinese}我们对第二次降临意义的理解已经出现分歧。
+Dialogue: 0,0:06:51.36,0:06:54.66,English,,0,0,0,,Okay? For people who believe in the second coming,\N{\rChinese}对相信第二次降临的人来说，
+Dialogue: 0,0:06:54.78,0:06:59.44,English,,0,0,0,,the term we use is premillennialism.\N{\rChinese}我们使用的术语是前千年论。
+Dialogue: 0,0:07:01.50,0:07:04.30,English,,0,0,0,,Premillennials. Okay? Because\N{\rChinese}前千年论者。好吧？因为
+Dialogue: 0,0:07:04.30,0:07:09.46,English,,0,0,0,,the second coming promised a thousand years of peace.\N{\rChinese}第二次降临预示一千年和平。
+Dialogue: 0,0:07:12.56,0:07:14.84,English,,0,0,0,,Okay. Premillennialism is this.\N{\rChinese}好的。前千年论就是这样。
+Dialogue: 0,0:07:14.92,0:07:16.38,English,,0,0,0,,Okay? Pre means before.\N{\rChinese}好的？'Pre'是指之前。
+Dialogue: 0,0:07:16.62,0:07:19.42,English,,0,0,0,,Right? So, when Jesus comes back, we're going to have a new world.\N{\rChinese}对吧？所以，耶稣再来时，我们将迎来一个新世界。
+Dialogue: 0,0:07:19.42,0:07:23.46,English,,0,0,0,,When he comes back, he will give us a thousand years of peace and prosperity.\N{\rChinese}当他再来时，他会给我们一千年的和平与繁荣。
+Dialogue: 0,0:07:24.56,0:07:28.08,English,,0,0,0,,Okay? Do you understand? Before he comes back.\N{\rChinese}好的？你明白了吗？在他再来之前。
+Dialogue: 0,0:07:28.22,0:07:32.74,English,,0,0,0,,Okay? When he comes back, he will give us a thousand years of peace and prosperity.\N{\rChinese}好的？他再来时，他会给我们一千年的和平与繁荣。
+Dialogue: 0,0:07:34.62,0:07:37.42,English,,0,0,0,,And what Augustine said is, no, no, no.\N{\rChinese}[131] 而且奥古斯丁所说的，没错，没错，没错。
+Dialogue: 0,0:07:37.66,0:07:40.54,English,,0,0,0,,No. That thousand years is just a metaphor.\N{\rChinese}[132] 没错。那一千年只是个比喻。
+Dialogue: 0,0:07:40.86,0:07:44.02,English,,0,0,0,,It's not actually going to happen. In fact, it's already happened because\N{\rChinese}它实际上已经发生了。事实上，天主教会正给我们一千年的和平与繁荣。
+Dialogue: 0,0:07:44.02,0:07:49.00,English,,0,0,0,,the Catholic Church is giving us this thousand years of peace and prosperity. Okay?\N{\rChinese}天主教会正给我们一千年的和平与繁荣。
+Dialogue: 0,0:07:49.42,0:07:54.98,English,,0,0,0,,So, he's called a millennialist,\N{\rChinese}于是，他被称为千年主义者，
+Dialogue: 0,0:07:55.64,0:07:57.84,English,,0,0,0,,which means no. Okay?\N{\rChinese}这意味着没错。
+Dialogue: 0,0:07:58.08,0:07:59.80,English,,0,0,0,,That thousand years is just a metaphor.\N{\rChinese}那一千年只是个比喻。
+Dialogue: 0,0:07:59.94,0:08:02.50,English,,0,0,0,,It's not really going to happen. Okay? So, that's a second big idea.\N{\rChinese}它实际上已经发生了。
+Dialogue: 0,0:08:03.10,0:08:05.84,English,,0,0,0,,Now, as we know,\N{\rChinese}现在，正如我们所知，
+Dialogue: 0,0:08:05.90,0:08:09.02,English,,0,0,0,,because all power became concentrated in the Catholic Church,\N{\rChinese}因为所有权力集中在天主教会里，
+Dialogue: 0,0:08:09.34,0:08:14.60,English,,0,0,0,,there's a rebellion against the Catholic Church called the Reformation.\N{\rChinese}有一场针对天主教会的起义，称为宗教改革。
+Dialogue: 0,0:08:15.54,0:08:17.62,English,,0,0,0,,Okay? The Reformation.\N{\rChinese}好的？宗教改革。
+Dialogue: 0,0:08:20.84,0:08:22.06,English,,0,0,0,,And the idea of the\N{\rChinese}以及……的概念
+Dialogue: 0,0:08:22.06,0:08:23.08,English,,0,0,0,,Reformation is\N{\rChinese}宗教改革是
+Dialogue: 0,0:08:23.08,0:08:28.68,English,,0,0,0,,God did\N{\rChinese}上帝曾
+Dialogue: 0,0:08:28.68,0:08:32.62,English,,0,0,0,,not mean for his authority to\N{\rChinese}并不意味着他的权力为
+Dialogue: 0,0:08:32.62,0:08:36.52,English,,0,0,0,,be established in the church, to be held by priests.\N{\rChinese}在教会中确立，由牧师持有。
+Dialogue: 0,0:08:37.80,0:08:42.18,English,,0,0,0,,God is meant to speak to all of us through the Bible.\N{\rChinese}上帝通过圣经向我们所有人说话。
+Dialogue: 0,0:08:43.18,0:08:46.02,English,,0,0,0,,Okay? So, what the major difference between the Catholic religion\N{\rChinese}好的？那么，天主教与新教之间的主要区别是什么？
+Dialogue: 0,0:08:46.02,0:08:47.34,English,,0,0,0,,and the Protestant religion,\N{\rChinese}and the Protestant religion,
+Dialogue: 0,0:08:47.34,0:08:50.94,English,,0,0,0,,is Catholics are not allowed to read the Bible.\N{\rChinese}天主教徒不允许读圣经。
+Dialogue: 0,0:08:51.34,0:08:52.66,English,,0,0,0,,They don't read the Bible.\N{\rChinese}他们不读圣经。
+Dialogue: 0,0:08:53.16,0:08:56.02,English,,0,0,0,,Whereas Protestants must read the Bible.\N{\rChinese}而新教徒则必须读圣经。
+Dialogue: 0,0:08:56.14,0:08:59.06,English,,0,0,0,,They must seek meaning and\N{\rChinese}他们必须寻找意义并。
+Dialogue: 0,0:08:59.06,0:09:01.72,English,,0,0,0,,guidance from their interpretation of the Bible.\N{\rChinese}来自他们对圣经解释的指引。
+Dialogue: 0,0:09:02.04,0:09:04.88,English,,0,0,0,,Okay? And because\N{\rChinese}好吧？因为
+Dialogue: 0,0:09:04.88,0:09:06.68,English,,0,0,0,,of the Reformation,\N{\rChinese}宗教改革的结果，
+Dialogue: 0,0:09:06.68,0:09:10.02,English,,0,0,0,,you now have thousands,\N{\rChinese}你现在有成千计的宗教。
+Dialogue: 0,0:09:10.46,0:09:15.76,English,,0,0,0,,tens of thousands of different religions spawning up.\N{\rChinese}成千计的不同宗教出现。
+Dialogue: 0,0:09:15.88,0:09:18.02,English,,0,0,0,,Okay? Does that make sense? All right?\N{\rChinese}好吧？这样说通吗？
+Dialogue: 0,0:09:18.08,0:09:22.60,English,,0,0,0,,So, you have different religions and you have different descent.\N{\rChinese}于是，你们有不同的宗教，也有不同的血统。
+Dialogue: 0,0:09:27.38,0:09:29.62,English,,0,0,0,,So, let's look at England.\N{\rChinese}接下来，让我们看看英格兰。
+Dialogue: 0,0:09:29.86,0:09:33.14,English,,0,0,0,,Okay? England. So, England is a king.\N{\rChinese}好吧？英格兰。于是，英格兰是一个国王。
+Dialogue: 0,0:09:34.52,0:09:35.80,English,,0,0,0,,And before,\N{\rChinese}先前，[164]
+Dialogue: 0,0:09:36.44,0:09:41.02,English,,0,0,0,,the Catholic Church was supposed\N{\rChinese}天主教会被认为[165]
+Dialogue: 0,0:09:41.02,0:09:43.32,English,,0,0,0,,to have authority over the king.\N{\rChinese}掌管国王的权柄[166]
+Dialogue: 0,0:09:43.32,0:09:47.26,English,,0,0,0,,And of course, the king did not like that.\N{\rChinese}当然，国王也不喜欢。
+Dialogue: 0,0:09:48.40,0:09:51.48,English,,0,0,0,,So, he supported the Reformation and\N{\rChinese}于是，他支持了宗教改革，并且……
+Dialogue: 0,0:09:51.48,0:09:55.24,English,,0,0,0,,he changed the Catholic Church into something called the Anglican Church.\N{\rChinese}他把天主教会改造成了所谓的英格兰教会。
+Dialogue: 0,0:09:55.46,0:09:57.88,English,,0,0,0,,Okay? Or the Church of England, which\N{\rChinese}好的？或者说是英格兰教会，那个
+Dialogue: 0,0:09:57.88,0:10:00.52,English,,0,0,0,,he would have authority over.\N{\rChinese}他将掌管其权柄。
+Dialogue: 0,0:10:01.30,0:10:02.98,English,,0,0,0,,But once the Reformation started,\N{\rChinese}但一旦宗教改革开始，
+Dialogue: 0,0:10:03.48,0:10:06.02,English,,0,0,0,,again, you are not allowed to read the Bible.\N{\rChinese}再次，您可以读圣经。
+Dialogue: 0,0:10:06.18,0:10:07.60,English,,0,0,0,,And because of that,\N{\rChinese}而且因为这样，
+Dialogue: 0,0:10:07.76,0:10:13.30,English,,0,0,0,,you have thousands of new religions coming up in the Bible.\N{\rChinese}您会在圣经里看到成千种新宗教。
+Dialogue: 0,0:10:16.60,0:10:20.96,English,,0,0,0,,But curious curious curious\N{\rChinese}但好奇好奇好奇
+Dialogue: 0,0:10:20.96,0:10:25.20,English,,0,0,0,,curious curious curious curious curious curious curious curious curious\N{\rChinese}好奇好奇好奇好奇好奇好奇好奇好奇好奇
+Dialogue: 0,0:10:25.20,0:10:28.28,English,,0,0,0,,curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious\N{\rChinese}好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇
+Dialogue: 0,0:10:28.28,0:10:30.28,English,,0,0,0,,curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious\N{\rChinese}好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇
+Dialogue: 0,0:10:30.28,0:10:34.96,English,,0,0,0,,curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious\N{\rChinese}好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇
+Dialogue: 0,0:10:34.96,0:10:39.36,English,,0,0,0,,curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious\N{\rChinese}好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇
+Dialogue: 0,0:10:39.36,0:10:43.70,English,,0,0,0,,And eventually this led to something called the English Civil War,\N{\rChinese}最终，这导致了被称为英国内战的事件
+Dialogue: 0,0:10:44.00,0:10:47.94,English,,0,0,0,,where the dissenters, the Puritans, killed the king.\N{\rChinese}在此，清教徒等异议者杀死了国王。
+Dialogue: 0,0:10:49.48,0:10:52.62,English,,0,0,0,,But then the king was reestablished.\N{\rChinese}但随后国王复位。
+Dialogue: 0,0:10:52.90,0:10:54.80,English,,0,0,0,,And so this led to decades and\N{\rChinese}于是这导致了数十年的
+Dialogue: 0,0:10:54.80,0:10:58.24,English,,0,0,0,,decades of fighting in England.\N{\rChinese}数十年的英格兰战斗
+Dialogue: 0,0:10:58.50,0:11:01.32,English,,0,0,0,,So one way that\N{\rChinese}于是国王尝试以此方式解决冲突
+Dialogue: 0,0:11:01.32,0:11:04.76,English,,0,0,0,,the king tried to resolve this conflict\N{\rChinese}the king tried to resolve this conflict
+Dialogue: 0,0:11:04.76,0:11:08.24,English,,0,0,0,,is by sending all these dissenters to America.\N{\rChinese}通过把这些异议者送往美国来实现。
+Dialogue: 0,0:11:09.90,0:11:11.28,English,,0,0,0,,Okay? To America.\N{\rChinese}对吗？送往美国。
+Dialogue: 0,0:11:12.04,0:11:13.24,English,,0,0,0,,And the idea is this.\N{\rChinese}并且这个想法是这样的。
+Dialogue: 0,0:11:14.66,0:11:18.18,English,,0,0,0,,These dissenters believe that the Bible is a supreme authority.\N{\rChinese}这些异议者认为圣经是最高权威。
+Dialogue: 0,0:11:18.82,0:11:21.62,English,,0,0,0,,The Bible asks us to do certain things, okay?\N{\rChinese}圣经要求我们做某些事，行吗？
+Dialogue: 0,0:11:21.70,0:11:24.90,English,,0,0,0,,Because it's written in the Bible. For example, you're not allowed to drink.\N{\rChinese}因为写在圣经里。例如，你不可以喝酒。
+Dialogue: 0,0:11:25.76,0:11:27.56,English,,0,0,0,,You're not allowed to dance.\N{\rChinese}你不可以跳舞。
+Dialogue: 0,0:11:28.50,0:11:30.00,English,,0,0,0,,You're not allowed to have any fun.\N{\rChinese}你不可以玩乐。
+Dialogue: 0,0:11:30.38,0:11:35.02,English,,0,0,0,,You must focus on your own spiritual improvement.\N{\rChinese}你必须专注于自己的灵性提升。
+Dialogue: 0,0:11:36.34,0:11:38.04,English,,0,0,0,,Okay? You're not allowed to have slaves.\N{\rChinese}好的？你不可以拥有奴隶。
+Dialogue: 0,0:11:38.62,0:11:40.86,English,,0,0,0,,And so... Because they believed these things,\N{\rChinese}于是……因为他们相信这些事
+Dialogue: 0,0:11:41.04,0:11:45.64,English,,0,0,0,,they were constantly in conflict with the establishment,\N{\rChinese}他们与建制层不断冲突
+Dialogue: 0,0:11:45.86,0:11:48.92,English,,0,0,0,,okay? With people in power. And so the king was like, guys,\N{\rChinese}好吧？有权势的人在场。于是国王说，伙计们，
+Dialogue: 0,0:11:49.10,0:11:51.44,English,,0,0,0,,if you really believe in these things, go to America.\N{\rChinese}如果你真的相信这些事，就去美国吧。
+Dialogue: 0,0:11:51.66,0:11:54.22,English,,0,0,0,,Why? Because there's nobody in America.\N{\rChinese}为什么？因为美国没有人。
+Dialogue: 0,0:11:54.48,0:11:57.88,English,,0,0,0,,So you can build your own kingdom of heaven.\N{\rChinese}于是你可以建造自己的天国。
+Dialogue: 0,0:11:58.70,0:12:00.90,English,,0,0,0,,You understand? Okay?\N{\rChinese}你明白了吗？好吧？
+Dialogue: 0,0:12:01.00,0:12:04.78,English,,0,0,0,,So this is the origin of the United States.\N{\rChinese}于是这就是美国的起源。
+Dialogue: 0,0:12:04.90,0:12:09.18,English,,0,0,0,,The United States was founded as a Christian nation.\N{\rChinese}美国作为基督教国家而建国。
+Dialogue: 0,0:12:10.38,0:12:14.22,English,,0,0,0,,Which put the Bible as a supreme authority.\N{\rChinese}于是《圣经》成为最高权威。
+Dialogue: 0,0:12:15.36,0:12:16.54,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}好吧？这样说通吗？
+Dialogue: 0,0:12:20.02,0:12:22.74,English,,0,0,0,,You guys probably don't know this about the United States.\N{\rChinese}你们大概不知道美国的这些情况。
+Dialogue: 0,0:12:22.82,0:12:25.34,English,,0,0,0,,You think the United States, it's a non -religious, secular,\N{\rChinese}你认为美国是非宗教的、世俗的
+Dialogue: 0,0:12:25.64,0:12:29.72,English,,0,0,0,,multicultural nation that believes in science, right?\N{\rChinese}多元文化的国家，信奉科学，对吧？
+Dialogue: 0,0:12:30.58,0:12:33.24,English,,0,0,0,,That's what it looks like from the outside.\N{\rChinese}看起来就是这样。
+Dialogue: 0,0:12:33.56,0:12:37.46,English,,0,0,0,,But inside its soul, its history, it is a Christian nation.\N{\rChinese}但在其灵魂与历史之中，它是一个基督教国家。
+Dialogue: 0,0:12:38.28,0:12:43.98,English,,0,0,0,,Dedicated. To achieving the kingdom of God on earth.\N{\rChinese}致力于在地上实现上帝的王国。
+Dialogue: 0,0:12:44.50,0:12:48.42,English,,0,0,0,,Okay? And using the Bible as the supreme authority\N{\rChinese}好的？并以圣经为最高权威
+Dialogue: 0,0:12:48.42,0:12:51.26,English,,0,0,0,,and guide to achieve this kingdom on earth.\N{\rChinese}并引导实现这在地上的王国。
+Dialogue: 0,0:12:51.91,0:12:53.90,English,,0,0,0,,Okay? Does that make sense? All right.\N{\rChinese}好的？这样说通吗？没问题。
+Dialogue: 0,0:12:55.02,0:12:59.34,English,,0,0,0,,So... These people in America,\N{\rChinese}于是……这些在美国的人，
+Dialogue: 0,0:12:59.48,0:13:02.38,English,,0,0,0,,these are sinners, okay? One question that\N{\rChinese}这些人是罪人，好吗？
+Dialogue: 0,0:13:02.38,0:13:04.35,English,,0,0,0,,they always ask themselves is...\N{\rChinese}他们总是问自己是……
+Dialogue: 0,0:13:05.14,0:13:07.92,English,,0,0,0,,Why isn't Jesus back yet?\N{\rChinese}为什么耶稣还没回来？
+Dialogue: 0,0:13:07.98,0:13:09.74,English,,0,0,0,,Okay? The second coming.\N{\rChinese}好吧？第二次降临。
+Dialogue: 0,0:13:10.86,0:13:13.68,English,,0,0,0,,Why isn't the second coming back yet?\N{\rChinese}为什么第二次降临还没回来？
+Dialogue: 0,0:13:14.58,0:13:16.80,English,,0,0,0,,And different people have different explanations.\N{\rChinese}而不同的人有不同的解释。
+Dialogue: 0,0:13:17.02,0:13:18.22,English,,0,0,0,,Okay? And so\N{\rChinese}好吧？于是
+Dialogue: 0,0:13:18.22,0:13:22.06,English,,0,0,0,,from this group come two more groups.\N{\rChinese}来自这个群体又出现了两个更小的群体。
+Dialogue: 0,0:13:22.14,0:13:26.12,English,,0,0,0,,Okay? You have some people\N{\rChinese}好的？你们有一些人
+Dialogue: 0,0:13:26.12,0:13:28.48,English,,0,0,0,,who are called the post -millennials.\N{\rChinese}被称为后千禧一代的人。
+Dialogue: 0,0:13:31.48,0:13:33.94,English,,0,0,0,,Okay? And post -millennials believe that\N{\rChinese}好吧？后千禧一代认为
+Dialogue: 0,0:13:33.94,0:13:37.02,English,,0,0,0,,Jesus will come back after\N{\rChinese}耶稣将会在……之后回来
+Dialogue: 0,0:13:37.02,0:13:40.28,English,,0,0,0,,we establish a thousand years\N{\rChinese}我们建立一千年
+Dialogue: 0,0:13:40.28,0:13:43.74,English,,0,0,0,,of the Christian church in the world.\N{\rChinese}的基督教会在世界上。
+Dialogue: 0,0:13:43.86,0:13:46.32,English,,0,0,0,,Okay? Does that make sense? So we have to prove that\N{\rChinese}好吧？这样说通吗？所以我们得证明我们值得上帝。
+Dialogue: 0,0:13:46.32,0:13:49.30,English,,0,0,0,,we are worthy of God.\N{\rChinese}我们得证明我们值得上帝。
+Dialogue: 0,0:13:50.22,0:13:52.40,English,,0,0,0,,God's not going to come back and establish this for us.\N{\rChinese}上帝会回来并为我们建立这件事。
+Dialogue: 0,0:13:52.44,0:13:54.42,English,,0,0,0,,We have to do it ourselves. Okay?\N{\rChinese}我们得自己做。好吗？
+Dialogue: 0,0:13:54.60,0:13:56.48,English,,0,0,0,,So these are people called post.\N{\rChinese}于是这些人叫做后期。
+Dialogue: 0,0:13:57.46,0:14:01.16,English,,0,0,0,,Which will say that Jesus will come after the thousand years.\N{\rChinese}他们会说耶稣会在一千年之后回来。
+Dialogue: 0,0:14:05.66,0:14:08.06,English,,0,0,0,,But then you have another group called...\N{\rChinese}但随后你会看到另一组人叫……
+Dialogue: 0,0:14:08.64,0:14:10.86,English,,0,0,0,,Post. Dispensationalists.\N{\rChinese}后期。散列论者。
+Dialogue: 0,0:14:14.80,0:14:16.36,English,,0,0,0,,I don't even know how to spell this word actually.\N{\rChinese}我甚至都不知道怎么拼写这个词。
+Dialogue: 0,0:14:17.44,0:14:19.76,English,,0,0,0,,Okay. Anyway, dispensationalists are historic.\N{\rChinese}好的。总之，散列论者是历史派。
+Dialogue: 0,0:14:19.84,0:14:21.60,English,,0,0,0,,Okay? All right. So\N{\rChinese}好的？那就这样。
+Dialogue: 0,0:14:21.60,0:14:25.14,English,,0,0,0,,now the pre -millennials are split into two other groups.\N{\rChinese}现在，前千年派又分成两组。
+Dialogue: 0,0:14:25.28,0:14:28.02,English,,0,0,0,,So the historic pre -millennials are people\N{\rChinese}于是，历史上的前千年派就是那类人
+Dialogue: 0,0:14:28.02,0:14:31.00,English,,0,0,0,,who believe what the early Christians believed, which is\N{\rChinese}他们相信早期基督徒所信的，亦即
+Dialogue: 0,0:14:31.00,0:14:32.84,English,,0,0,0,,that Jesus is going to come back.\N{\rChinese}耶稣将要再回来。
+Dialogue: 0,0:14:33.00,0:14:34.66,English,,0,0,0,,Don't worry when he's coming back.\N{\rChinese}别担心他什么时候回来。
+Dialogue: 0,0:14:34.84,0:14:37.24,English,,0,0,0,,Just be a good person and he'll come back eventually.\N{\rChinese}只要做个好人，他最终会回来。
+Dialogue: 0,0:14:37.40,0:14:40.62,English,,0,0,0,,Okay? It's not up to us to ask\N{\rChinese}好？这事不由我们来问。
+Dialogue: 0,0:14:40.62,0:14:42.34,English,,0,0,0,,when he's coming back.\N{\rChinese}他回来时。
+Dialogue: 0,0:14:42.60,0:14:43.84,English,,0,0,0,,He's God. Okay?\N{\rChinese}他是上帝。好？
+Dialogue: 0,0:14:44.04,0:14:45.66,English,,0,0,0,,He has a plan. He knows what he's doing.\N{\rChinese}他有计划。他知道自己在做什么。
+Dialogue: 0,0:14:45.84,0:14:47.38,English,,0,0,0,,Just be patient guys. Okay?\N{\rChinese}只要耐心点，大家。好？
+Dialogue: 0,0:14:47.46,0:14:49.56,English,,0,0,0,,That's the historic pre -millennials.\N{\rChinese}那就是前千禧年派。
+Dialogue: 0,0:14:49.98,0:14:54.60,English,,0,0,0,,And then you have another group called the dispensationalists.\N{\rChinese}然后你会遇到另一组人，叫做“预备论者”。
+Dialogue: 0,0:14:58.90,0:15:01.28,English,,0,0,0,,Dispensation -less pre -millennials.\N{\rChinese}无分配的前千禧年派
+Dialogue: 0,0:15:01.44,0:15:03.48,English,,0,0,0,,Okay? And what they believe is something different.\N{\rChinese}好的？他们的信念又是另一回事。
+Dialogue: 0,0:15:04.22,0:15:05.86,English,,0,0,0,,They believe that...\N{\rChinese}他们认为……
+Dialogue: 0,0:15:05.86,0:15:08.98,English,,0,0,0,,Oh. In the Bible,\N{\rChinese}哦。在圣经里，
+Dialogue: 0,0:15:09.08,0:15:11.06,English,,0,0,0,,if you read the Bible very, very closely,\N{\rChinese}如果你非常仔细地读圣经，
+Dialogue: 0,0:15:11.44,0:15:14.60,English,,0,0,0,,it tells you how\N{\rChinese}它会告诉你怎样
+Dialogue: 0,0:15:14.60,0:15:17.58,English,,0,0,0,,and why Jesus will return.\N{\rChinese}并且耶稣将再来。
+Dialogue: 0,0:15:18.72,0:15:21.64,English,,0,0,0,,Okay? What the Bible says is that\N{\rChinese}好的？圣经所说的是……
+Dialogue: 0,0:15:21.64,0:15:27.44,English,,0,0,0,,there must be a nation called Israel.\N{\rChinese}必有一个叫以色列的民族国家。
+Dialogue: 0,0:15:27.72,0:15:30.90,English,,0,0,0,,Okay? And Israel is a nation of Jews.\N{\rChinese}好？以色列是犹太人的民族国家。
+Dialogue: 0,0:15:31.94,0:15:35.82,English,,0,0,0,,And then Israel has something called the temple.\N{\rChinese}然后以色列有一个叫做圣殿的地方。
+Dialogue: 0,0:15:35.84,0:15:39.40,English,,0,0,0,,The temple. Because\N{\rChinese}圣殿。因为
+Dialogue: 0,0:15:39.40,0:15:42.34,English,,0,0,0,,that's where God resides.\N{\rChinese}那是上帝居住的地方。
+Dialogue: 0,0:15:42.76,0:15:44.06,English,,0,0,0,,Okay? It must have a temple.\N{\rChinese}好？它一定有一个圣殿。
+Dialogue: 0,0:15:45.56,0:15:48.46,English,,0,0,0,,And then what will happen, according to the Bible,\N{\rChinese}然后，按圣经所说，接下来会怎样？
+Dialogue: 0,0:15:48.52,0:15:53.30,English,,0,0,0,,is that the antichrist, okay, or Satan,\N{\rChinese}就是反基督，也就是撒但。
+Dialogue: 0,0:15:55.96,0:15:57.42,English,,0,0,0,,lives. Okay?\N{\rChinese}活着。好？
+Dialogue: 0,0:15:57.86,0:16:00.94,English,,0,0,0,,And then there'll be an antichrist, okay,\N{\rChinese}然后会出现一个反基督，好吗，
+Dialogue: 0,0:16:00.96,0:16:03.22,English,,0,0,0,,Satan, who will be the great deceiver.\N{\rChinese}撒但，他将是大欺骗者。
+Dialogue: 0,0:16:03.36,0:16:06.26,English,,0,0,0,,He'll pretend to be God.\N{\rChinese}他会假装成上帝。
+Dialogue: 0,0:16:06.28,0:16:09.76,English,,0,0,0,,Okay? He'll pretend to be Messiah, but he's really Satan.\N{\rChinese}好？他会假装成弥赛亚，但其实是撒但。
+Dialogue: 0,0:16:09.96,0:16:13.28,English,,0,0,0,,Okay? And then he will launch a war\N{\rChinese}好？随后他会发动战争。
+Dialogue: 0,0:16:13.28,0:16:16.72,English,,0,0,0,,when\N{\rChinese}当
+Dialogue: 0,0:16:16.72,0:16:19.84,English,,0,0,0,,all the nations of the world will try to attack Israel.\N{\rChinese}世界各国将试图进攻以色列。
+Dialogue: 0,0:16:20.08,0:16:23.54,English,,0,0,0,,And at this point, Jesus will come back\N{\rChinese}此时，耶稣将再来。
+Dialogue: 0,0:16:23.54,0:16:25.96,English,,0,0,0,,and he will destroy the antichrist,\N{\rChinese}他会消灭反基督。
+Dialogue: 0,0:16:26.10,0:16:28.04,English,,0,0,0,,he will save Israel, and\N{\rChinese}他会拯救以色列。
+Dialogue: 0,0:16:28.04,0:16:31.48,English,,0,0,0,,he will usher in a thousand years of peace.\N{\rChinese}他会开启千年和平。
+Dialogue: 0,0:16:32.78,0:16:36.44,English,,0,0,0,,Before... And then a thousand years later, you'll have the last day.\N{\rChinese}先是……然后一千年后，你将迎来最后的一天。
+Dialogue: 0,0:16:36.44,0:16:40.62,English,,0,0,0,,The last judgment. Where\N{\rChinese}最后的审判。那时
+Dialogue: 0,0:16:40.62,0:16:46.54,English,,0,0,0,,God will judge us to be either worthy or not worthy.\N{\rChinese}上帝将审判我们是配得还是不配得。
+Dialogue: 0,0:16:47.22,0:16:49.92,English,,0,0,0,,If we are worthy, we'll live on forever.\N{\rChinese}如果我们配得，就会永生。
+Dialogue: 0,0:16:50.86,0:16:54.58,English,,0,0,0,,If we're not worthy, then we'll burn in hell forever.\N{\rChinese}如果不配得，就会永烧。
+Dialogue: 0,0:16:54.98,0:16:56.78,English,,0,0,0,,Okay? Okay?\N{\rChinese}好的？
+Dialogue: 0,0:16:56.80,0:16:59.20,English,,0,0,0,,So there are different variations of this.\N{\rChinese}于是出现了不同的变体。
+Dialogue: 0,0:17:00.10,0:17:02.40,English,,0,0,0,,Prophecy, what they believe.\N{\rChinese}预言，他们的信念。
+Dialogue: 0,0:17:02.54,0:17:06.42,English,,0,0,0,,Okay? So in other words, the historic...\N{\rChinese}好吧？换句话说，历史的……
+Dialogue: 0,0:17:06.44,0:17:08.42,English,,0,0,0,,Historic premillennials.\N{\rChinese}历史前千年期
+Dialogue: 0,0:17:08.50,0:17:13.08,English,,0,0,0,,What they believe about the coming of Jesus is it's a promise.\N{\rChinese}他们关于耶稣降临的信念是这是一份承诺。
+Dialogue: 0,0:17:14.20,0:17:17.46,English,,0,0,0,,Okay? Jesus promises to return.\N{\rChinese}好的？耶稣承诺要再来。
+Dialogue: 0,0:17:17.90,0:17:20.10,English,,0,0,0,,He's God. He will keep his promise.\N{\rChinese}他是上帝。他会兑现他的承诺。
+Dialogue: 0,0:17:20.50,0:17:22.82,English,,0,0,0,,He's probably very busy right now with other things.\N{\rChinese}他现在可能正忙于其他事务。
+Dialogue: 0,0:17:23.00,0:17:24.66,English,,0,0,0,,So don't worry about it, guys.\N{\rChinese}所以大家不用担心。
+Dialogue: 0,0:17:24.84,0:17:27.42,English,,0,0,0,,Okay? Let's just be patient and\N{\rChinese}好的？让我们耐心一点
+Dialogue: 0,0:17:27.42,0:17:29.66,English,,0,0,0,,trust in Jesus.\N{\rChinese}信靠耶稣。
+Dialogue: 0,0:17:30.32,0:17:32.06,English,,0,0,0,,Okay? That's what they believe.\N{\rChinese}好吧？这就是他们的信念。
+Dialogue: 0,0:17:33.24,0:17:35.44,English,,0,0,0,,But the dispensationalists...\N{\rChinese}但分配论者……
+Dialogue: 0,0:17:37.02,0:17:41.50,English,,0,0,0,,Premillennials believe that the prophecy, it's a plan.\N{\rChinese}前千禧派认为预言是一个计划。
+Dialogue: 0,0:17:43.36,0:17:45.06,English,,0,0,0,,Okay? It's something that\N{\rChinese}好的？这是一件我们必须完成的事，才能让耶稣归来。
+Dialogue: 0,0:17:45.06,0:17:49.88,English,,0,0,0,,we must achieve to bring Jesus back.\N{\rChinese}好的？这是一件我们必须完成的事，才能让耶稣归来。
+Dialogue: 0,0:17:50.54,0:17:53.42,English,,0,0,0,,And if we do what the Bible tells us to do,\N{\rChinese}如果我们按圣经所说去做，
+Dialogue: 0,0:17:53.54,0:17:58.14,English,,0,0,0,,which is to say to have Israel as a nation run by the Jews,\N{\rChinese}就是让以色列成为民族国家，由犹太人统治。
+Dialogue: 0,0:17:58.38,0:18:01.70,English,,0,0,0,,to have the temple,\N{\rChinese}有了圣殿，然后面对敌基督，耶稣就来。
+Dialogue: 0,0:18:01.86,0:18:05.42,English,,0,0,0,,and then to face the antichrist, then Jesus will come.\N{\rChinese}有了圣殿，随后面对敌基督，耶稣就来。
+Dialogue: 0,0:18:05.42,0:18:07.66,English,,0,0,0,,Okay? And then the Jews will return. Okay?\N{\rChinese}好的？然后犹太人会回归。好的？
+Dialogue: 0,0:18:07.70,0:18:09.78,English,,0,0,0,,Does that make sense? Okay.\N{\rChinese}这样说通吗？好的。
+Dialogue: 0,0:18:09.86,0:18:11.74,English,,0,0,0,,Now, so\N{\rChinese}现在，接下来是
+Dialogue: 0,0:18:11.74,0:18:16.06,English,,0,0,0,,these are the four different views of the end times.\N{\rChinese}这四种关于末世的不同观点。
+Dialogue: 0,0:18:16.18,0:18:18.94,English,,0,0,0,,Okay? You have the historic premillennials\N{\rChinese}好的？你们有历史前千年派。
+Dialogue: 0,0:18:18.94,0:18:22.42,English,,0,0,0,,who believe that Jesus has promised to return.\N{\rChinese}他们认为耶稣已许诺归来。
+Dialogue: 0,0:18:22.66,0:18:24.38,English,,0,0,0,,Let's just wait, guys. Don't worry about it.\N{\rChinese}我们先等着吧，大家。别担心。
+Dialogue: 0,0:18:24.62,0:18:28.38,English,,0,0,0,,You have the dispensationalists, premillennials\N{\rChinese}你们有分配论派，前千年派
+Dialogue: 0,0:18:28.38,0:18:32.44,English,,0,0,0,,who believe that we have to work hard to bring Jesus back.\N{\rChinese}他们认为我们要努力工作把耶稣带回来
+Dialogue: 0,0:18:32.68,0:18:35.40,English,,0,0,0,,Okay? And then you have the amillennialists who are like, okay, we're going to do this.\N{\rChinese}好的？然后你们有千年派，他们会说，好吧，我们要去做这件事。
+Dialogue: 0,0:18:35.42,0:18:36.84,English,,0,0,0,,We're going to move back to where\N{\rChinese}我们将回到之前的地方。
+Dialogue: 0,0:18:36.84,0:18:52.44,English,,0,0,0,,Jesus curiously\N{\rChinese}耶稣好奇
+Dialogue: 0,0:18:52.44,0:18:54.68,English,,0,0,0,,curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious\N{\rChinese}好奇
+Dialogue: 0,0:18:54.68,0:18:59.40,English,,0,0,0,,curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious\N{\rChinese}好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇
+Dialogue: 0,0:18:59.40,0:19:04.96,English,,0,0,0,,curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious curious of the four different beliefs.\N{\rChinese}好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇好奇
+Dialogue: 0,0:19:05.46,0:19:08.90,English,,0,0,0,,Even within each belief, there are variations, okay?\N{\rChinese}在每个信仰内部也存在差异，好的？
+Dialogue: 0,0:19:08.96,0:19:12.60,English,,0,0,0,,Because again, there are two billion people\N{\rChinese}因为又有二十亿人
+Dialogue: 0,0:19:12.60,0:19:14.98,English,,0,0,0,,who believe in Christianity, and\N{\rChinese}相信基督教的人
+Dialogue: 0,0:19:14.98,0:19:17.98,English,,0,0,0,,they all believe something different, okay?\N{\rChinese}他们都相信不同的东西，好吗？
+Dialogue: 0,0:19:18.06,0:19:20.02,English,,0,0,0,,Does that make sense? All right,\N{\rChinese}这有道理吗？好了。
+Dialogue: 0,0:19:20.06,0:19:23.74,English,,0,0,0,,are we clear about the four different ideas?\N{\rChinese}我们对四个不同的想法清楚了吗？
+Dialogue: 0,0:19:24.28,0:19:27.32,English,,0,0,0,,Any questions? Okay, so,\N{\rChinese}还有问题吗？好了，
+Dialogue: 0,0:19:27.44,0:19:30.84,English,,0,0,0,,okay, okay.\N{\rChinese}好，好。
+Dialogue: 0,0:19:30.84,0:19:33.16,English,,0,0,0,,Okay, so you don't actually have to remember this, okay?\N{\rChinese}好了，你不必记住这点，行吗？
+Dialogue: 0,0:19:33.44,0:19:36.00,English,,0,0,0,,But all I'm trying to show you is that\N{\rChinese}但我想给你展示的就是
+Dialogue: 0,0:19:36.00,0:19:38.74,English,,0,0,0,,even within Christianity, there's a debate, okay?\N{\rChinese}即使在基督教内部也有争论，好吗？
+Dialogue: 0,0:19:38.96,0:19:41.28,English,,0,0,0,,But there's a concern, an obsession\N{\rChinese}但有个问题，一个执念
+Dialogue: 0,0:19:42.28,0:19:45.40,English,,0,0,0,,as to when Jesus will return and how he will return.\N{\rChinese}关于耶稣何时归来以及归来的方式。
+Dialogue: 0,0:19:46.18,0:19:50.10,English,,0,0,0,,Okay, does that make sense? All right, so,\N{\rChinese}好的，这有道理吗？好了，
+Dialogue: 0,0:19:50.74,0:19:54.76,English,,0,0,0,,so, this is important.\N{\rChinese}于是，这点很重要。
+Dialogue: 0,0:19:57.60,0:19:59.48,English,,0,0,0,,Now, most Christians,\N{\rChinese}现在，大多数基督徒是这样说的。
+Dialogue: 0,0:20:00.26,0:20:04.68,English,,0,0,0,,most Christians don't believe in dispensationalist premillennialism, okay?\N{\rChinese}大多数基督徒不信奉分配论前千禧主义，好吗？
+Dialogue: 0,0:20:04.86,0:20:07.84,English,,0,0,0,,In fact, most Christians believe\N{\rChinese}实际上，大多数基督徒相信
+Dialogue: 0,0:20:07.84,0:20:12.70,English,,0,0,0,,that dispensationalist premillennialism is actually pretty evil.\N{\rChinese}那种分配论前千禧主义实际上相当可恶。
+Dialogue: 0,0:20:13.08,0:20:15.28,English,,0,0,0,,Why? Why would it be evil?\N{\rChinese}为什么？它为何可恶？
+Dialogue: 0,0:20:17.46,0:20:19.20,English,,0,0,0,,We shouldn't, we should not,\N{\rChinese}我们不应该，我们应该不，
+Dialogue: 0,0:20:19.20,0:20:23.32,English,,0,0,0,,we cannot believe in dispensationalist premillennialism\N{\rChinese}我们不能相信分配论前千禧主义
+Dialogue: 0,0:20:23.32,0:20:24.58,English,,0,0,0,,because it's evil. Why?\N{\rChinese}因为它是邪恶的。为什么？
+Dialogue: 0,0:20:25.60,0:20:27.54,English,,0,0,0,,As a Christian, why would you think this is evil?\N{\rChinese}作为基督徒，你为什么认为这件事是邪恶的？
+Dialogue: 0,0:20:33.64,0:20:37.06,English,,0,0,0,,What's the problem with believing that\N{\rChinese}相信圣经里有计划，问题是什么？
+Dialogue: 0,0:20:37.06,0:20:38.64,English,,0,0,0,,there's a plan in the Bible?\N{\rChinese}圣经里有计划吗？
+Dialogue: 0,0:20:40.02,0:20:41.94,English,,0,0,0,,Why would that be anti -Christian?\N{\rChinese}这为什么算是反基督徒的？
+Dialogue: 0,0:20:47.48,0:20:49.60,English,,0,0,0,,Okay, so, this is hard, okay?\N{\rChinese}好的，这个很难，行吗？
+Dialogue: 0,0:20:49.68,0:20:51.26,English,,0,0,0,,But the idea is that\N{\rChinese}但核心意思是……
+Dialogue: 0,0:20:52.62,0:20:57.16,English,,0,0,0,,with this plan, you're trying to manipulate God.\N{\rChinese}用这个计划，你想操纵上帝。
+Dialogue: 0,0:20:57.62,0:21:01.12,English,,0,0,0,,Okay, does that make sense? Okay, you're trying to force God to return.\N{\rChinese}好的，听得懂吗？你正试着逼迫上帝归来。
+Dialogue: 0,0:21:01.44,0:21:05.88,English,,0,0,0,,And you shouldn't do that. If you believe in God, then you will trust God.\N{\rChinese}你不该这么做。若你信上帝，便会信赖他。
+Dialogue: 0,0:21:06.72,0:21:10.86,English,,0,0,0,,And you will try your best to be a good person, which is what the Bible asks you to do.\N{\rChinese}你会尽力做个好人，这正是圣经所命令的。
+Dialogue: 0,0:21:12.00,0:21:14.70,English,,0,0,0,,And when God returns, it's none of your business, okay?\N{\rChinese}当上帝归来时，那事与你无关，行吗？
+Dialogue: 0,0:21:14.78,0:21:17.70,English,,0,0,0,,It's not our concern. So,\N{\rChinese}这不关我们事，故而，
+Dialogue: 0,0:21:17.74,0:21:21.22,English,,0,0,0,,the dispensationalist premillennialists are\N{\rChinese}分配论前千禧派是
+Dialogue: 0,0:21:21.22,0:21:24.70,English,,0,0,0,,an extremely controversial minority\N{\rChinese}极具争议的少数派
+Dialogue: 0,0:21:26.96,0:21:28.24,English,,0,0,0,,within Christianity, okay?\N{\rChinese}在基督教内部，行吗？
+Dialogue: 0,0:21:28.94,0:21:31.36,English,,0,0,0,,Okay? Most Christians don't actually believe this.\N{\rChinese}行吗？大多数基督徒其实并不信这点。
+Dialogue: 0,0:21:31.56,0:21:35.66,English,,0,0,0,,And they find that a lot of these beliefs to be evil.\N{\rChinese}他们发现这些信仰很可恶。
+Dialogue: 0,0:21:38.02,0:21:42.16,English,,0,0,0,,And maybe even blasphemous, okay?\N{\rChinese}也许甚至是可诵的，行吗？
+Dialogue: 0,0:21:42.30,0:21:44.80,English,,0,0,0,,You're insulting God with this sort of thinking.\N{\rChinese}你用这种思维方式在侮辱上帝。
+Dialogue: 0,0:21:45.78,0:21:49.30,English,,0,0,0,,Okay, the problem is\N{\rChinese}行，问题是
+Dialogue: 0,0:21:49.30,0:21:52.70,English,,0,0,0,,that of all these groups,\N{\rChinese}在这些团体中
+Dialogue: 0,0:21:52.94,0:21:54.98,English,,0,0,0,,the dispensationalist millennials,\N{\rChinese}分配论派的千禧一代
+Dialogue: 0,0:21:55.50,0:21:58.36,English,,0,0,0,,premillennialists, are the most organized.\N{\rChinese}前千禧派，最有组织性。
+Dialogue: 0,0:21:59.48,0:22:01.28,English,,0,0,0,,And they're the most fanatical.\N{\rChinese}他们最狂热。
+Dialogue: 0,0:22:01.66,0:22:05.18,English,,0,0,0,,They really believe that this is true, okay?\N{\rChinese}他们真的相信这是真的，行吗？
+Dialogue: 0,0:22:05.44,0:22:08.10,English,,0,0,0,,We know that throughout history,\N{\rChinese}我们知道，在历史上，
+Dialogue: 0,0:22:09.00,0:22:12.12,English,,0,0,0,,those who achieve their objectives are people\N{\rChinese}那些实现目标的人
+Dialogue: 0,0:22:12.12,0:22:14.76,English,,0,0,0,,who tend to be the most united and who\N{\rChinese}他们往往最团结，且
+Dialogue: 0,0:22:14.76,0:22:19.36,English,,0,0,0,,are the most fanatical in achieving their objective, okay?\N{\rChinese}他们在实现目标时最狂热，行吗？
+Dialogue: 0,0:22:19.56,0:22:22.54,English,,0,0,0,,That's the first point. Second point is that\N{\rChinese}这是第一点。第二点是……
+Dialogue: 0,0:22:22.54,0:22:25.90,English,,0,0,0,,this sort of belief\N{\rChinese}这种信仰
+Dialogue: 0,0:22:28.78,0:22:33.26,English,,0,0,0,,thrives... in a time of massive uncertainty and inequality,\N{\rChinese}在大规模不确定与不平等的时代蓬勃发展
+Dialogue: 0,0:22:33.86,0:22:36.22,English,,0,0,0,,like the time that we are living in today, where\N{\rChinese}就像我们今天所处的时代，不平等日益加剧，不稳定与不确定性更为突出。
+Dialogue: 0,0:22:36.22,0:22:40.42,English,,0,0,0,,inequality is growing, where there's more instability and uncertainty.\N{\rChinese}inequality is growing, where there's more instability and uncertainty.
+Dialogue: 0,0:22:41.18,0:22:43.62,English,,0,0,0,,So in other words, there are more and more people who\N{\rChinese}于是换句话说，越来越多的人
+Dialogue: 0,0:22:43.62,0:22:47.78,English,,0,0,0,,believe in dispensationalist premillennialism.\N{\rChinese}相信分配论的前千禧论。
+Dialogue: 0,0:22:48.20,0:22:50.06,English,,0,0,0,,Does that make sense? Okay.\N{\rChinese}那有道理吗？好的。
+Dialogue: 0,0:22:51.38,0:22:54.76,English,,0,0,0,,All right. So\N{\rChinese}好的。
+Dialogue: 0,0:22:54.76,0:22:58.30,English,,0,0,0,,why this is important is that\N{\rChinese}之所以重要在于
+Dialogue: 0,0:23:00.58,0:23:03.58,English,,0,0,0,,dispensationalist premillennialists, as Christians,\N{\rChinese}作为基督徒的分配论前千禧论者
+Dialogue: 0,0:23:03.90,0:23:09.00,English,,0,0,0,,have done a lot to cause conflict in the Middle East.\N{\rChinese}已在中东造成大量冲突。
+Dialogue: 0,0:23:10.60,0:23:15.06,English,,0,0,0,,Okay? So they're the ones who are actively encouraging\N{\rChinese}好的？所以他们是积极推动的那一方。
+Dialogue: 0,0:23:15.62,0:23:18.24,English,,0,0,0,,conflict between the Palestinians and the Israelis.\N{\rChinese}冲突在巴勒斯坦人和以色列人之间。
+Dialogue: 0,0:23:18.60,0:23:22.96,English,,0,0,0,,They're the ones who want Israel and Iran to go to war.\N{\rChinese}他们是想让以色列和伊朗开战的人。
+Dialogue: 0,0:23:23.14,0:23:28.80,English,,0,0,0,,Why? Why are they actively encouraging the dispensationalist premillennialists to go to war?\N{\rChinese}为什么？他们为何积极推动分配论前千禧论者开战？
+Dialogue: 0,0:23:28.80,0:23:31.02,English,,0,0,0,,Why are they encouraging conflict between the Palestinians and the Israelis?\N{\rChinese}他们为何推动巴勒斯坦人和以色列人之间的冲突？
+Dialogue: 0,0:23:31.36,0:23:35.24,English,,0,0,0,,Why are they encouraging a war between Iran and Israel?\N{\rChinese}他们为何推动伊朗和以色列之间的战争？
+Dialogue: 0,0:23:35.42,0:23:37.26,English,,0,0,0,,Why would they want a war between Iran and Israel?\N{\rChinese}为什么他们会想让伊朗和以色列开战？
+Dialogue: 0,0:23:42.98,0:23:45.02,English,,0,0,0,,Well, Israel is already back.\N{\rChinese}嗯，以色列已经复国了。
+Dialogue: 0,0:23:46.20,0:23:50.30,English,,0,0,0,,Why? Because it's part of the prophecy.\N{\rChinese}为什么？因为这是预言的一部分。
+Dialogue: 0,0:23:50.48,0:23:52.30,English,,0,0,0,,Do you understand? It's part of the prophecy.\N{\rChinese}你明白了吗？这就是预言的一部分。
+Dialogue: 0,0:23:52.44,0:23:53.80,English,,0,0,0,,The prophecy is that\N{\rChinese}预言是：
+Dialogue: 0,0:23:53.80,0:23:58.24,English,,0,0,0,,Israel must first be,\N{\rChinese}以色列首先要是
+Dialogue: 0,0:23:58.24,0:24:00.18,English,,0,0,0,,must be reconstituted as a nation.\N{\rChinese}必须重新组建为民族国家。
+Dialogue: 0,0:24:00.28,0:24:03.22,English,,0,0,0,,Okay? This happened in 1948. And then\N{\rChinese}嗯？这发生在1948年。然后
+Dialogue: 0,0:24:03.22,0:24:05.52,English,,0,0,0,,Israel must go to war with other nations.\N{\rChinese}以色列必须与其他国家开战。
+Dialogue: 0,0:24:06.62,0:24:09.24,English,,0,0,0,,Okay? Does that make sense? So\N{\rChinese}嗯？这说得通吗？
+Dialogue: 0,0:24:09.24,0:24:11.88,English,,0,0,0,,these Christians are actually\N{\rChinese}这些基督徒实际上
+Dialogue: 0,0:24:11.88,0:24:17.04,English,,0,0,0,,promoting war between Israel\N{\rChinese}正在推动以色列之间的战争
+Dialogue: 0,0:24:17.04,0:24:18.64,English,,0,0,0,,and its neighbors.\N{\rChinese}以及其邻国。
+Dialogue: 0,0:24:20.04,0:24:22.50,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}嗯？这说得通吗？
+Dialogue: 0,0:24:23.40,0:24:25.14,English,,0,0,0,,All right. Okay.\N{\rChinese}好的，嗯。
+Dialogue: 0,0:24:25.92,0:24:27.88,English,,0,0,0,,So now the other thing,\N{\rChinese}那么现在另外一个事，
+Dialogue: 0,0:24:28.24,0:24:32.98,English,,0,0,0,,is that after the Reformation, okay,\N{\rChinese}是指在宗教改革之后，嗯，
+Dialogue: 0,0:24:34.22,0:24:38.96,English,,0,0,0,,they developed a new theology called Christian Zionism.\N{\rChinese}他们发展了一种新的神学，叫做基督徒犹太复国论。
+Dialogue: 0,0:24:43.82,0:24:45.06,English,,0,0,0,,Christian Zionism. Okay?\N{\rChinese}基督徒犹太复国论。嗯？
+Dialogue: 0,0:24:45.16,0:24:46.68,English,,0,0,0,,What is Christian Zionism?\N{\rChinese}基督徒犹太复国论是什么？
+Dialogue: 0,0:24:46.76,0:24:49.84,English,,0,0,0,,Christian Zionism is the belief\N{\rChinese}基督徒犹太复国论是指……
+Dialogue: 0,0:24:49.84,0:24:51.94,English,,0,0,0,,that as a Christian,\N{\rChinese}作为基督徒，
+Dialogue: 0,0:24:52.18,0:24:56.46,English,,0,0,0,,you must support Jews in\N{\rChinese}你必须支持犹太人
+Dialogue: 0,0:24:56.46,0:24:58.22,English,,0,0,0,,the return to Israel.\N{\rChinese}回到以色列。
+Dialogue: 0,0:24:58.22,0:25:01.60,English,,0,0,0,,Okay? So,\N{\rChinese}嗯？所以，
+Dialogue: 0,0:25:01.64,0:25:03.04,English,,0,0,0,,because remember that\N{\rChinese}因为记得那时
+Dialogue: 0,0:25:03.04,0:25:08.84,English,,0,0,0,,Israel as a nation was only founded in 1948.\N{\rChinese}以色列作为民族国家只在1948年成立
+Dialogue: 0,0:25:09.78,0:25:11.02,English,,0,0,0,,And then\N{\rChinese}然后
+Dialogue: 0,0:25:11.02,0:25:14.02,English,,0,0,0,,basically in\N{\rChinese}基本上在
+Dialogue: 0,0:25:14.02,0:25:18.72,English,,0,0,0,,about 70 CE,\N{\rChinese}约公元70年，
+Dialogue: 0,0:25:19.40,0:25:23.30,English,,0,0,0,,the Romans burned down the temple.\N{\rChinese}罗马人焚毁了圣殿。
+Dialogue: 0,0:25:23.42,0:25:28.20,English,,0,0,0,,Okay? So for about almost 2000 years,\N{\rChinese}好的？所以大约近2000年，
+Dialogue: 0,0:25:28.20,0:25:33.32,English,,0,0,0,,really, the Jewish people have\N{\rChinese}实际上，犹太人已经
+Dialogue: 0,0:25:33.32,0:25:36.66,English,,0,0,0,,not lived in, sorry, sorry, sorry.\N{\rChinese}没住在，抱歉，抱歉，抱歉。
+Dialogue: 0,0:25:36.70,0:25:39.14,English,,0,0,0,,The Jews were not in control of Israel.\N{\rChinese}犹太人未掌控以色列。
+Dialogue: 0,0:25:39.26,0:25:40.46,English,,0,0,0,,Okay? For about 2000 years.\N{\rChinese}好吧？大约2000年。
+Dialogue: 0,0:25:41.38,0:25:45.02,English,,0,0,0,,And there are Christians who believe that it is our responsibility,\N{\rChinese}还有基督徒认为这是我们的责任，是我们帮助犹太人掌控以色列的义务。
+Dialogue: 0,0:25:45.08,0:25:48.34,English,,0,0,0,,it is our duty to help Jews take control over Israel.\N{\rChinese}还有基督徒认为这是我们的责任，是我们帮助犹太人掌控以色列的义务。
+Dialogue: 0,0:25:48.50,0:25:51.50,English,,0,0,0,,Okay? And they believe this for many different reasons.\N{\rChinese}好吧？他们之所以这么认为有多种不同原因。
+Dialogue: 0,0:25:51.70,0:25:55.84,English,,0,0,0,,So Christian Zionists, some may believe that that's what the Bible says.\N{\rChinese}于是基督徒犹太复国主义者，有些人认为这正是圣经所说的。
+Dialogue: 0,0:25:56.98,0:25:59.88,English,,0,0,0,,God promised Israel, to the Jews.\N{\rChinese}上帝向犹太人许诺以色列。
+Dialogue: 0,0:26:00.54,0:26:03.60,English,,0,0,0,,Okay? So\N{\rChinese}好吧？于是
+Dialogue: 0,0:26:03.60,0:26:09.28,English,,0,0,0,,Christian Zionism intersects with dispensationist premillennialism.\N{\rChinese}基督徒犹太复国主义与分期论先千禧年主义相交叉。
+Dialogue: 0,0:26:10.16,0:26:13.64,English,,0,0,0,,Okay? There are Christian Zionists who believe that, okay, for Jesus to return,\N{\rChinese}好的？有基督徒犹太复国主义者认为，好的，为了耶稣归来，
+Dialogue: 0,0:26:13.94,0:26:17.12,English,,0,0,0,,we also, we need Israel back\N{\rChinese}我们也需要以色列回归
+Dialogue: 0,0:26:17.12,0:26:20.96,English,,0,0,0,,and we need Israel to be in conflict with the Middle East.\N{\rChinese}并且我们需要以色列与中东发生冲突。
+Dialogue: 0,0:26:21.12,0:26:25.64,English,,0,0,0,,Okay? So in other words,.\N{\rChinese}好吧？那么换句话说，
+Dialogue: 0,0:26:28.24,0:26:29.68,English,,0,0,0,,The Middle East. The Middle East.\N{\rChinese}中东。中东。
+Dialogue: 0,0:26:29.90,0:26:31.22,English,,0,0,0,,Okay..\N{\rChinese}好的。
+Dialogue: 0,0:26:32.48,0:26:33.76,English,,0,0,0,,Okay. All of them.\N{\rChinese}好的。全部都这样。
+Dialogue: 0,0:26:33.80,0:26:37.74,English,,0,0,0,,All of them. Okay? So, so Christian Zionism,\N{\rChinese}好吧。全部都这样。好吧？那么，基督教犹太复国主义，
+Dialogue: 0,0:26:39.34,0:26:43.54,English,,0,0,0,,I mean, you can make the argument that it's a pretty evil idea.\N{\rChinese}我说，你可以说它是个相当邪恶的想法。
+Dialogue: 0,0:26:43.88,0:26:48.98,English,,0,0,0,,Why? Because they're using the Jewish people as a tool,\N{\rChinese}为什么？因为他们把犹太人当作工具，
+Dialogue: 0,0:26:49.68,0:26:53.64,English,,0,0,0,,as a mechanism in order to achieve what they believe,\N{\rChinese}以此机制来实现他们所信之事，
+Dialogue: 0,0:26:53.80,0:26:56.90,English,,0,0,0,,which is the return of Jesus. Okay?\N{\rChinese}这就是耶稣的再来。好吧？
+Dialogue: 0,0:26:56.90,0:27:01.16,English,,0,0,0,,Does that make sense? Because Christianity believes\N{\rChinese}这样说对吗？因为基督教认为
+Dialogue: 0,0:27:01.16,0:27:02.40,English,,0,0,0,,that if Jesus returns,\N{\rChinese}如果耶稣再来，
+Dialogue: 0,0:27:02.98,0:27:04.44,English,,0,0,0,,then all Jews,\N{\rChinese}那么所有犹太人，
+Dialogue: 0,0:27:04.90,0:27:09.14,English,,0,0,0,,then Judaism as a religion will cease to exist.\N{\rChinese}随后犹太教作为宗教将消亡。
+Dialogue: 0,0:27:10.10,0:27:13.54,English,,0,0,0,,Two -thirds of all Jews will die in the battle,\N{\rChinese}三分之二的犹太人将在战斗中丧生，
+Dialogue: 0,0:27:13.64,0:27:14.90,English,,0,0,0,,and the rest,\N{\rChinese}其余者，
+Dialogue: 0,0:27:15.64,0:27:18.72,English,,0,0,0,,a third, will immediately convert to Christianity.\N{\rChinese}三分之一，马上皈成基督徒。
+Dialogue: 0,0:27:19.38,0:27:22.48,English,,0,0,0,,Okay? So you can make the argument that\N{\rChinese}好吧？于是你可以说……
+Dialogue: 0,0:27:22.48,0:27:25.52,English,,0,0,0,,Christian Zionism, it's a pretty cynical,\N{\rChinese}基督教犹太复国主义，算是相当阴险的
+Dialogue: 0,0:27:25.52,0:27:28.76,English,,0,0,0,,and a pretty evil idea.\N{\rChinese}以及一个相当邪恶的想法。
+Dialogue: 0,0:27:29.58,0:27:32.74,English,,0,0,0,,Okay? And then\N{\rChinese}好吧？然后
+Dialogue: 0,0:27:32.74,0:27:36.44,English,,0,0,0,,from Christian Zionism, we have the idea of Zionism.\N{\rChinese}从基督教犹太复国主义中，我们得到犹太复国主义的概念。
+Dialogue: 0,0:27:38.88,0:27:40.10,English,,0,0,0,,Okay? And\N{\rChinese}好吧？
+Dialogue: 0,0:27:40.10,0:27:43.92,English,,0,0,0,,Zionism is the belief among certain Jews\N{\rChinese}犹太复国主义是部分犹太人所持的信念
+Dialogue: 0,0:27:43.92,0:27:46.38,English,,0,0,0,,that, two things, okay?\N{\rChinese}两点，好的？
+Dialogue: 0,0:27:46.56,0:27:48.08,English,,0,0,0,,One is that\N{\rChinese}一个是
+Dialogue: 0,0:27:48.08,0:27:51.90,English,,0,0,0,,the Jews are the chosen people of God,\N{\rChinese}犹太人是上帝所选的人
+Dialogue: 0,0:27:52.04,0:27:55.50,English,,0,0,0,,and that Israel is a promised land.\N{\rChinese}并且以色列为所赐之地。
+Dialogue: 0,0:27:55.50,0:27:57.24,English,,0,0,0,,And therefore,\N{\rChinese}于是，
+Dialogue: 0,0:27:58.38,0:28:01.58,English,,0,0,0,,Jews must return to Israel.\N{\rChinese}犹太人必须回到以色列。
+Dialogue: 0,0:28:02.06,0:28:03.52,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}好的？这样说通吗？
+Dialogue: 0,0:28:03.78,0:28:06.36,English,,0,0,0,,Okay? But what's important is,\N{\rChinese}好的？但重要的是，
+Dialogue: 0,0:28:06.58,0:28:09.30,English,,0,0,0,,before Christian Zionism came along,\N{\rChinese}在基督教犹太复国主义出现之前，
+Dialogue: 0,0:28:10.90,0:28:14.64,English,,0,0,0,,Zionism was not, Jews didn't really think this.\N{\rChinese}犹太人并未真正认为犹太复国主义是这样。
+Dialogue: 0,0:28:14.72,0:28:18.26,English,,0,0,0,,Okay? So it was the Christians who\N{\rChinese}好的？于是是基督徒支持了犹太复国主义的想法。
+Dialogue: 0,0:28:18.26,0:28:21.10,English,,0,0,0,,supported this idea of Zionism.\N{\rChinese}好的？于是是基督徒支持了犹太复国主义的想法。
+Dialogue: 0,0:28:21.24,0:28:24.40,English,,0,0,0,,And even when this idea came about, which\N{\rChinese}即使这个想法出现时，约
+Dialogue: 0,0:28:24.40,0:28:29.56,English,,0,0,0,,was about 20 years ago, it was an extremely unpopular religion,\N{\rChinese}大约二十年前，它是一种极不受欢迎的宗派，
+Dialogue: 0,0:28:30.12,0:28:32.36,English,,0,0,0,,an extremely unpopular idea.\N{\rChinese}一个极不受欢迎的想法。
+Dialogue: 0,0:28:32.62,0:28:33.80,English,,0,0,0,,And the reason why is,\N{\rChinese}原因是，
+Dialogue: 0,0:28:35.70,0:28:38.72,English,,0,0,0,,Jews didn't think they were a race of people.\N{\rChinese}犹太人认为自己不是一个种族。
+Dialogue: 0,0:28:38.84,0:28:40.82,English,,0,0,0,,They felt they were a religion.\N{\rChinese}他们觉得自己是一种宗教。
+Dialogue: 0,0:28:42.12,0:28:44.30,English,,0,0,0,,Okay? They felt that, okay,\N{\rChinese}好的？他们觉得，好吧，
+Dialogue: 0,0:28:45.38,0:28:46.90,English,,0,0,0,,I'm in Iraq.\N{\rChinese}我在伊拉克。
+Dialogue: 0,0:28:47.30,0:28:49.86,English,,0,0,0,,Well, guess what? I'm an Iraqi like everyone else.\N{\rChinese}好，猜猜看？我和其他人一样是伊拉克人。
+Dialogue: 0,0:28:49.98,0:28:53.06,English,,0,0,0,,I may have a different belief, but I'm still Iraqi.\N{\rChinese}我可能有不同的信仰，但我仍是伊拉克人。
+Dialogue: 0,0:28:53.28,0:28:55.00,English,,0,0,0,,Okay? They didn't put,\N{\rChinese}好吧？他们没有放，
+Dialogue: 0,0:28:55.00,0:29:00.46,English,,0,0,0,,the religion above their nationality or their race.\N{\rChinese}宗教高于他们的国籍或种族。
+Dialogue: 0,0:29:00.62,0:29:03.70,English,,0,0,0,,Okay? Do you understand? And Zionism is like, no,\N{\rChinese}好吧？你明白了吗？而犹太复国主义就是，呃，
+Dialogue: 0,0:29:03.84,0:29:06.34,English,,0,0,0,,being a Jewish person is a race.\N{\rChinese}犹太人是一种种族。
+Dialogue: 0,0:29:06.44,0:29:10.90,English,,0,0,0,,And therefore, you must return to Israel.\N{\rChinese}于是，你必须回到以色列。
+Dialogue: 0,0:29:11.96,0:29:16.56,English,,0,0,0,,Okay? The problem with all this is\N{\rChinese}好吧？这一切的关键在于
+Dialogue: 0,0:29:16.56,0:29:18.22,English,,0,0,0,,that, in Israel,\N{\rChinese}在以色列就是
+Dialogue: 0,0:29:19.02,0:29:22.44,English,,0,0,0,,Palestine, it was mainly Arab people.\N{\rChinese}巴勒斯坦主要是阿拉伯人。
+Dialogue: 0,0:29:22.62,0:29:24.70,English,,0,0,0,,Okay? So there were very few Jewish people.\N{\rChinese}好吧？于是犹太人很少。
+Dialogue: 0,0:29:25.00,0:29:25.96,English,,0,0,0,,And in fact,\N{\rChinese}事实上，
+Dialogue: 0,0:29:26.88,0:29:29.28,English,,0,0,0,,Zionism couldn't convince anyone\N{\rChinese}犹太复国主义未能说服任何人
+Dialogue: 0,0:29:29.28,0:29:33.86,English,,0,0,0,,to come to Palestine.\N{\rChinese}犹太复国主义未能说服任何人
+Dialogue: 0,0:29:34.24,0:29:37.54,English,,0,0,0,,Okay? But then of course, the Holocaust happened.\N{\rChinese}好吧？然后自然地，犹太人大屠杀发生了。
+Dialogue: 0,0:29:38.20,0:29:39.70,English,,0,0,0,,And after the Holocaust,\N{\rChinese}随后犹太人大屠杀之后，
+Dialogue: 0,0:29:40.16,0:29:43.00,English,,0,0,0,,many Jews start to go to Israel.\N{\rChinese}许多犹太人开始前往以色列。
+Dialogue: 0,0:29:43.28,0:29:45.16,English,,0,0,0,,And in 1948,\N{\rChinese}而在1948年，
+Dialogue: 0,0:29:45.62,0:29:49.00,English,,0,0,0,,they established the state of Israel.\N{\rChinese}他们建立了以色列国。
+Dialogue: 0,0:29:49.86,0:29:53.00,English,,0,0,0,,Okay? And the Christian Zionists,\N{\rChinese}好吧？而基督徒犹太复国主义者，
+Dialogue: 0,0:29:53.02,0:29:55.71,English,,0,0,0,,and the, the dispossessionists,\N{\rChinese}和那位，剥夺者，
+Dialogue: 0,0:29:56.81,0:29:59.85,English,,0,0,0,,premillennials, were very happy with the establishment of Israel,\N{\rChinese}前千禧年者，很高兴以色列成立。
+Dialogue: 0,0:30:00.47,0:30:04.57,English,,0,0,0,,because they feel that, we've achieved the first step\N{\rChinese}因为他们觉得，我们已经完成了第一步
+Dialogue: 0,0:30:05.31,0:30:07.29,English,,0,0,0,,in this plan to bring Jesus back.\N{\rChinese}在这计划中把耶稣带回来的第一步
+Dialogue: 0,0:30:07.47,0:30:09.71,English,,0,0,0,,Okay? Okay?\N{\rChinese}好吧？好吧？
+Dialogue: 0,0:30:09.99,0:30:12.87,English,,0,0,0,,Does that make sense? Okay? Um,\N{\rChinese}这样说通吗？好吧？嗯，
+Dialogue: 0,0:30:20.21,0:30:23.81,English,,0,0,0,,So, to summarize, the main message is this.\N{\rChinese}所以，总结一下，主要信息是：
+Dialogue: 0,0:30:23.81,0:30:25.85,English,,0,0,0,,Okay? Here's what you need to know.\N{\rChinese}好吧？这就是你需要知道的。
+Dialogue: 0,0:30:26.43,0:30:28.27,English,,0,0,0,,First is that,\N{\rChinese}首先是，
+Dialogue: 0,0:30:29.07,0:30:31.57,English,,0,0,0,,there are many Christians who believe\N{\rChinese}有许多基督徒认为
+Dialogue: 0,0:30:31.57,0:30:34.33,English,,0,0,0,,that Israel and\N{\rChinese}以色列和
+Dialogue: 0,0:30:34.33,0:30:38.23,English,,0,0,0,,the Jews must be used as a tool to bring Jesus back.\N{\rChinese}犹太人要被用作把耶稣带回来的工具。
+Dialogue: 0,0:30:38.37,0:30:39.69,English,,0,0,0,,Okay? That's the first thing.\N{\rChinese}好吧？那是第一件事。
+Dialogue: 0,0:30:39.99,0:30:42.07,English,,0,0,0,,Second thing is that,\N{\rChinese}第二件事是，
+Dialogue: 0,0:30:43.13,0:30:46.31,English,,0,0,0,,America was founded as a Christian nation.\N{\rChinese}美国以基督徒之国创立。
+Dialogue: 0,0:30:46.67,0:30:50.01,English,,0,0,0,,Therefore, its soul is Christian.\N{\rChinese}因此，它的灵魂是基督徒的。
+Dialogue: 0,0:30:52.03,0:30:54.59,English,,0,0,0,,Its first leaders, were,\N{\rChinese}它的第一任领袖是，
+Dialogue: 0,0:30:55.43,0:30:59.15,English,,0,0,0,,uh, Christians who believed in Christian Zionism.\N{\rChinese}呃，信奉基督徒犹太复国主义的基督徒。
+Dialogue: 0,0:30:59.89,0:31:02.15,English,,0,0,0,,Their descendants now control\N{\rChinese}他们的后裔现在掌控。
+Dialogue: 0,0:31:02.81,0:31:04.13,English,,0,0,0,,the military\N{\rChinese}军队
+Dialogue: 0,0:31:04.55,0:31:06.65,English,,0,0,0,,and the foreign policy apparatus of America.\N{\rChinese}以及美国的外交政策机构
+Dialogue: 0,0:31:07.03,0:31:08.53,English,,0,0,0,,Okay? The second thing, okay?\N{\rChinese}好的？第二点，好的？
+Dialogue: 0,0:31:09.51,0:31:12.39,English,,0,0,0,,And the third thing is that,\N{\rChinese}第三点是，
+Dialogue: 0,0:31:12.43,0:31:15.19,English,,0,0,0,,uh, Israel, as a nation,\N{\rChinese}呃，色列作为民族国家，
+Dialogue: 0,0:31:16.91,0:31:19.97,English,,0,0,0,,um, thinks\N{\rChinese}呃，认为
+Dialogue: 0,0:31:19.97,0:31:23.07,English,,0,0,0,,that it can use Christian Zionism in\N{\rChinese}基督教犹太复国主义
+Dialogue: 0,0:31:23.07,0:31:26.55,English,,0,0,0,,order to advance its geopolitical interest,\N{\rChinese}地缘政治利益
+Dialogue: 0,0:31:26.99,0:31:31.79,English,,0,0,0,,which is to basically, um, gain control over the Middle East.\N{\rChinese}它基本上是为了掌控中东。
+Dialogue: 0,0:31:32.91,0:31:35.13,English,,0,0,0,,Okay? Do you understand? And\N{\rChinese}好？你明白了吗？
+Dialogue: 0,0:31:35.13,0:31:40.47,English,,0,0,0,,that's what's driving the conflict between Israel\N{\rChinese}这就是推动以色列与伊朗冲突的原因。
+Dialogue: 0,0:31:40.47,0:31:43.89,English,,0,0,0,,and Iran. Does that make sense?\N{\rChinese}这样说通吗？
+Dialogue: 0,0:31:44.63,0:31:47.95,English,,0,0,0,,Okay? What's driving the conflict between Israel and Iran is,\N{\rChinese}好？推动以色列与伊朗冲突的是，
+Dialogue: 0,0:31:48.07,0:31:50.89,English,,0,0,0,,America believes it has a\N{\rChinese}美国认为它有一个
+Dialogue: 0,0:31:50.89,0:31:54.83,English,,0,0,0,,religious responsibility to protect Israel against Iran.\N{\rChinese}宗教责任来保护以色列不受伊朗攻击。
+Dialogue: 0,0:31:55.13,0:31:58.25,English,,0,0,0,,In fact, if there's a war between Iran and\N{\rChinese}事实上，如果伊朗与...开战。
+Dialogue: 0,0:31:58.25,0:32:02.39,English,,0,0,0,,Israel, that's a good thing, because it's gonna drive\N{\rChinese}以色列，这件事不错，因为它会推动
+Dialogue: 0,0:32:03.27,0:32:06.09,English,,0,0,0,,this prophecy and the return of Jesus.\N{\rChinese}这预言和耶稣的再来。
+Dialogue: 0,0:32:06.33,0:32:09.41,English,,0,0,0,,Okay? And\N{\rChinese}好？还有
+Dialogue: 0,0:32:09.41,0:32:12.23,English,,0,0,0,,then, and people in Israel are like, you know what?\N{\rChinese}然后，以色列的人们会说，嗯，你知道吗？
+Dialogue: 0,0:32:12.29,0:32:14.45,English,,0,0,0,,If we go to war with Iran,\N{\rChinese}如果我们与伊朗开战，
+Dialogue: 0,0:32:15.07,0:32:16.91,English,,0,0,0,,America is gonna fight for us.\N{\rChinese}美国会为我们而战。
+Dialogue: 0,0:32:17.35,0:32:18.73,English,,0,0,0,,So, why not?\N{\rChinese}那么，为什么不呢？
+Dialogue: 0,0:32:21.69,0:32:24.01,English,,0,0,0,,Right? We don't have to fight this war.\N{\rChinese}对吧？我们不必去打这场战争。
+Dialogue: 0,0:32:24.05,0:32:26.97,English,,0,0,0,,America is gonna do it for us. So, why not fight this war?\N{\rChinese}美国会替我们去做这件事。那为什么不去打这场战争？
+Dialogue: 0,0:32:27.27,0:32:30.21,English,,0,0,0,,We lose nothing. We gain everything from this war.\N{\rChinese}我们不输什么，赢得一切。
+Dialogue: 0,0:32:31.37,0:32:34.95,English,,0,0,0,,Okay? So, um, the idea is\N{\rChinese}好的？那么，呃，想法是
+Dialogue: 0,0:32:35.55,0:32:39.79,English,,0,0,0,,that all this is driven by a religious worldview,\N{\rChinese}这一切都是由宗教世界观驱动的
+Dialogue: 0,0:32:40.21,0:32:43.63,English,,0,0,0,,understanding the world. Okay?\N{\rChinese}了解世界。好吗？
+Dialogue: 0,0:32:44.31,0:32:45.57,English,,0,0,0,,And over time,\N{\rChinese}随着时间推移，
+Dialogue: 0,0:32:47.19,0:32:50.75,English,,0,0,0,,this worldview is gonna become more popular\N{\rChinese}这个世界观将会更流行
+Dialogue: 0,0:32:51.77,0:32:54.91,English,,0,0,0,,in America. Okay?\N{\rChinese}在美国。好吗？
+Dialogue: 0,0:32:55.43,0:32:57.31,English,,0,0,0,,Does that make sense? Right?\N{\rChinese}这有道理吗？对吧？
+Dialogue: 0,0:32:57.47,0:33:00.25,English,,0,0,0,,Okay, good. Any questions about this?\N{\rChinese}好的，明白。还有什么问题吗？
+Dialogue: 0,0:33:03.05,0:33:06.65,English,,0,0,0,,Anything that's not, that's not clear about what I just,\N{\rChinese}还有什么不清楚的地方吗？
+Dialogue: 0,0:33:06.75,0:33:08.65,English,,0,0,0,,what, what, what, what I just\N{\rChinese}刚才说的是什么？
+Dialogue: 0,0:33:09.99,0:33:13.25,English,,0,0,0,,explained? Do you mean to clarify anything?\N{\rChinese}解释了吗？你是想再说明点什么吗？
+Dialogue: 0,0:33:17.59,0:33:21.27,English,,0,0,0,,Okay. So, to explain what you just said. Okay? So, why, like, do we,\N{\rChinese}好的。先解释一下你刚才说的。好吗？那么，为什么我们……
+Dialogue: 0,0:33:21.89,0:33:25.73,English,,0,0,0,,like, do we get to,\N{\rChinese}比如，我们能得到……
+Dialogue: 0,0:33:25.97,0:33:27.69,English,,0,0,0,,to a nationality state?\N{\rChinese}成一个民族国家吗？
+Dialogue: 0,0:33:28.75,0:33:31.07,English,,0,0,0,,In terms, in terms of,\N{\rChinese}从……角度来看，
+Dialogue: 0,0:33:31.75,0:33:35.61,English,,0,0,0,,like, the the the the the the the the the the\N{\rChinese}比如，the the the the the the the the the the
+Dialogue: 0,0:33:37.23,0:33:41.07,English,,0,0,0,,the the the the the the\N{\rChinese}the the the thethe the
+Dialogue: 0,0:33:48.71,0:33:50.65,English,,0,0,0,,the the the\N{\rChinese}the the the
+Dialogue: 0,0:33:56.57,0:33:58.23,English,,0,0,0,,the the the the the the the\N{\rChinese}the the the thethe the the
+Dialogue: 0,0:33:58.23,0:34:00.45,English,,0,0,0,,the the the the the\N{\rChinese}the the the the the
+Dialogue: 0,0:34:00.45,0:34:04.69,English,,0,0,0,,both curious curious curious curious curious curious\N{\rChinese}两者都好奇
+Dialogue: 0,0:34:05.45,0:34:07.31,English,,0,0,0,,curious There's no race.\N{\rChinese}好奇 还没有种族。
+Dialogue: 0,0:34:07.39,0:34:09.55,English,,0,0,0,,There's no race to the idea of Christianity, right?\N{\rChinese}基督教的概念里没有种族之分，对吧？
+Dialogue: 0,0:34:09.91,0:34:11.27,English,,0,0,0,,You can be Chinese and Christian.\N{\rChinese}你可以是中国人又是基督徒。
+Dialogue: 0,0:34:11.39,0:34:13.01,English,,0,0,0,,You can be American and Christian. It doesn't matter.\N{\rChinese}你可以是美国人又是基督徒。没关系。
+Dialogue: 0,0:34:14.21,0:34:16.09,English,,0,0,0,,And that's what the Jewish people say as well.\N{\rChinese}而且犹太人也这么说。
+Dialogue: 0,0:34:16.37,0:34:17.69,English,,0,0,0,,I can be Chinese and Jewish.\N{\rChinese}我可以是中国人又是犹太人。
+Dialogue: 0,0:34:17.93,0:34:20.49,English,,0,0,0,,I can be American and Jewish.\N{\rChinese}我可以是美国人又是犹太人。
+Dialogue: 0,0:34:20.73,0:34:23.03,English,,0,0,0,,Because being Jewish is a religion.\N{\rChinese}因为犹太人是宗教。
+Dialogue: 0,0:34:23.67,0:34:26.45,English,,0,0,0,,But the idea of Zionism is that\N{\rChinese}但犹太复国主义的核心是
+Dialogue: 0,0:34:26.45,0:34:29.53,English,,0,0,0,,being a Jewish person is a race.\N{\rChinese}犹太人是一个种族。
+Dialogue: 0,0:34:29.99,0:34:35.49,English,,0,0,0,,In fact, you are directly descended from the Hebrews in the Bible.\N{\rChinese}实际上，你直接是圣经中希伯来人的后裔。
+Dialogue: 0,0:34:36.27,0:34:37.49,English,,0,0,0,,Which is complete nonsense.\N{\rChinese}哪是完全胡说。
+Dialogue: 0,0:34:37.89,0:34:39.23,English,,0,0,0,,This is not true, okay?\N{\rChinese}这不对，行吗。
+Dialogue: 0,0:34:51.21,0:34:56.41,English,,0,0,0,,So, Zionism is the main political belief of Israel,\N{\rChinese}所以，犹太复国主义是以色列的主要政治信条，对吧？
+Dialogue: 0,0:34:56.63,0:34:59.17,English,,0,0,0,,right? Why does Israel exist?\N{\rChinese}以色列为什么存在？
+Dialogue: 0,0:34:59.25,0:35:03.47,English,,0,0,0,,Because Israel is the promised land\N{\rChinese}因为以色列是神赐给其选民的应许之土。
+Dialogue: 0,0:35:03.47,0:35:05.53,English,,0,0,0,,that God gave to his chosen people.\N{\rChinese}因为以色列是神赐给其选民的应许之土。
+Dialogue: 0,0:35:06.37,0:35:07.79,English,,0,0,0,,And this was a promise that\N{\rChinese}而这是一份承诺
+Dialogue: 0,0:35:07.79,0:35:11.27,English,,0,0,0,,dates back at least 3,000 years to the time of Abraham.\N{\rChinese}可追溯至至少三千年前的亚伯拉罕时代。
+Dialogue: 0,0:35:12.09,0:35:13.33,English,,0,0,0,,And it's written in the Bible.\N{\rChinese}并且写在圣经里。
+Dialogue: 0,0:35:13.49,0:35:15.87,English,,0,0,0,,Therefore, it must be true. Okay?\N{\rChinese}于是，必然成立。
+Dialogue: 0,0:35:15.99,0:35:19.15,English,,0,0,0,,Does that make sense? Alright.\N{\rChinese}这有道理吗？好的。
+Dialogue: 0,0:35:19.15,0:35:23.73,English,,0,0,0,,Any other questions? Okay,\N{\rChinese}还有其他问题吗？好的，
+Dialogue: 0,0:35:23.81,0:35:26.19,English,,0,0,0,,that's a great question, okay? Alright.\N{\rChinese}这真是个好问题，好的？
+Dialogue: 0,0:35:26.19,0:35:29.67,English,,0,0,0,,So, I'm making the argument that Christian Zionism\N{\rChinese}于是，我的论点是基督教犹太复国主义
+Dialogue: 0,0:35:29.67,0:35:30.79,English,,0,0,0,,and\N{\rChinese}以及
+Dialogue: 0,0:35:30.79,0:35:36.17,English,,0,0,0,,dispensationless premillenism will over time become more popular religions in the world.\N{\rChinese}无分期的前千年论将随时间变成世界上更流行的宗教。
+Dialogue: 0,0:35:36.17,0:35:37.55,English,,0,0,0,,Because they are not just in America. Okay?\N{\rChinese}因为它们不只是美国的。好的？
+Dialogue: 0,0:35:37.67,0:35:39.89,English,,0,0,0,,And the question, and then Charles asked like, well, why?\N{\rChinese}然后，查尔斯问：那又怎样呢？
+Dialogue: 0,0:35:40.15,0:35:44.51,English,,0,0,0,,Okay. Let's go back to the founding of Christianity.\N{\rChinese}好的。我们回到基督教的创立。
+Dialogue: 0,0:35:45.33,0:35:47.55,English,,0,0,0,,Why did Christianity become so popular?\N{\rChinese}基督教为何会如此流行？
+Dialogue: 0,0:35:47.87,0:35:50.87,English,,0,0,0,,It became popular because\N{\rChinese}它之所以流行是因为
+Dialogue: 0,0:35:50.87,0:35:52.77,English,,0,0,0,,it was in the Roman Empire, okay?\N{\rChinese}那是在罗马帝国里，好吗？
+Dialogue: 0,0:35:52.91,0:35:56.23,English,,0,0,0,,At that time, there was something called the Pax Romana.\N{\rChinese}当时有个叫罗马和平的东西。
+Dialogue: 0,0:35:56.77,0:35:57.99,English,,0,0,0,,Which meant the Roman peace.\N{\rChinese}这意味着罗马和平。
+Dialogue: 0,0:36:00.25,0:36:03.11,English,,0,0,0,,Okay? Which meant that the Romans controlled everything.\N{\rChinese}好的？这意味着罗马人掌控一切。
+Dialogue: 0,0:36:03.49,0:36:04.87,English,,0,0,0,,Therefore, there were no wars.\N{\rChinese}因此，曾经无战事。
+Dialogue: 0,0:36:05.29,0:36:07.41,English,,0,0,0,,Therefore, there was no war. People were at peace, right?\N{\rChinese}于是，曾无战事。人们安居乐业，吧？
+Dialogue: 0,0:36:07.53,0:36:09.25,English,,0,0,0,,And you think that's a good thing, right?\N{\rChinese}你认为这是一件好事，对吗？
+Dialogue: 0,0:36:09.49,0:36:13.01,English,,0,0,0,,The problem is that if there's peace,\N{\rChinese}问题是，如果有和平，
+Dialogue: 0,0:36:13.37,0:36:15.27,English,,0,0,0,,then you have massive inequality.\N{\rChinese}于是就产生了大规模的不平等。
+Dialogue: 0,0:36:17.45,0:36:21.39,English,,0,0,0,,Okay? Because war is a mechanism back\N{\rChinese}好的？因为战争是一个机制回
+Dialogue: 0,0:36:21.39,0:36:23.03,English,,0,0,0,,then of social mobility.\N{\rChinese}随后是社会流动。
+Dialogue: 0,0:36:23.92,0:36:25.17,English,,0,0,0,,Right? War killed people.\N{\rChinese}对吧？战争杀了人。
+Dialogue: 0,0:36:25.41,0:36:28.97,English,,0,0,0,,And if war kills people, that creates opportunities for the people who are alive.\N{\rChinese}而战争杀人，也为存活者创造了机会。
+Dialogue: 0,0:36:29.71,0:36:31.87,English,,0,0,0,,But if there's no war, then\N{\rChinese}但如果没有战争，
+Dialogue: 0,0:36:31.87,0:36:34.75,English,,0,0,0,,what happens is if I'm a rich person, guess what, guys?\N{\rChinese}如果我是富人，猜猜会怎样，大家？
+Dialogue: 0,0:36:34.75,0:36:36.03,English,,0,0,0,,I become more rich.\N{\rChinese}我变得更富裕。
+Dialogue: 0,0:36:36.27,0:36:37.67,English,,0,0,0,,If you're poor, what happens?\N{\rChinese}如果你是穷人，结果怎样？
+Dialogue: 0,0:36:37.73,0:36:39.61,English,,0,0,0,,You become more poor. Okay?\N{\rChinese}你会更穷。好吗？
+Dialogue: 0,0:36:39.67,0:36:41.49,English,,0,0,0,,So as a poor person, what do you think?\N{\rChinese}作为一个穷人，你会怎么想？
+Dialogue: 0,0:36:41.55,0:36:43.51,English,,0,0,0,,You think that life is hopeless.\N{\rChinese}你认为人生是无望的。
+Dialogue: 0,0:36:44.29,0:36:46.77,English,,0,0,0,,Life is pointless. There's no future.\N{\rChinese}人生无意义，未来也没有。
+Dialogue: 0,0:36:46.91,0:36:49.85,English,,0,0,0,,There's no hope, right? And so Jesus comes along\N{\rChinese}没什么希望，对吧？于是耶稣也来了。
+Dialogue: 0,0:36:49.85,0:36:52.63,English,,0,0,0,,and says, listen, if you believe in me, then\N{\rChinese}并且说，听着，如果你相信我，那么
+Dialogue: 0,0:36:52.63,0:36:55.91,English,,0,0,0,,I will bring the King of heaven onto earth\N{\rChinese}我会把天上的王带到人间
+Dialogue: 0,0:36:55.91,0:36:59.73,English,,0,0,0,,and I will destroy inequality.\N{\rChinese}我将消除不平等。
+Dialogue: 0,0:37:00.67,0:37:02.33,English,,0,0,0,,Heaven will be the same. Okay?\N{\rChinese}天堂也一样。好吗？
+Dialogue: 0,0:37:02.67,0:37:04.73,English,,0,0,0,,So again, back then it was like this.\N{\rChinese}于是，再回想起那时，情况是这样的。
+Dialogue: 0,0:37:04.73,0:37:07.07,English,,0,0,0,,There was a free lottery ticket. Today,\N{\rChinese}当时有一张免费的彩票。如今，
+Dialogue: 0,0:37:07.23,0:37:10.03,English,,0,0,0,,we live in something called the Pax Americana.\N{\rChinese}我们生活在所谓的美西安宁之中。
+Dialogue: 0,0:37:11.61,0:37:14.49,English,,0,0,0,,And the Pax Americana, same thing\N{\rChinese}而且Pax Americana，亦即同一事物
+Dialogue: 0,0:37:14.49,0:37:18.71,English,,0,0,0,,where for the past 70 years, there's been peace around the world, right?\N{\rChinese}在过去七十年里，世界各地一直保持和平，没错？
+Dialogue: 0,0:37:18.89,0:37:21.81,English,,0,0,0,,Very few people have died. But all that\N{\rChinese}很少人死亡。但所有这些
+Dialogue: 0,0:37:21.81,0:37:25.09,English,,0,0,0,,means really is that inequality has increased.\N{\rChinese}这句话的真正含义是不平等加剧了。
+Dialogue: 0,0:37:25.81,0:37:28.27,English,,0,0,0,,Fewer and fewer people have money.\N{\rChinese}越来越少的人有钱。
+Dialogue: 0,0:37:28.53,0:37:32.51,English,,0,0,0,,Okay? Guys, billionaires make no sense.\N{\rChinese}好的？各位，亿万富翁也没道理。
+Dialogue: 0,0:37:32.51,0:37:34.23,English,,0,0,0,,Do you understand?\N{\rChinese}你明白了吗？
+Dialogue: 0,0:37:35.11,0:37:37.69,English,,0,0,0,,Why should a few people have all the money?\N{\rChinese}为什么只有少数人拥有全部的钱？
+Dialogue: 0,0:37:37.83,0:37:39.83,English,,0,0,0,,That makes no sense. Because\N{\rChinese}这没有意义。因为
+Dialogue: 0,0:37:39.83,0:37:42.19,English,,0,0,0,,money is meant as\N{\rChinese}钱的意思是
+Dialogue: 0,0:37:42.19,0:37:45.91,English,,0,0,0,,a mechanism of exchange\N{\rChinese}交换机制
+Dialogue: 0,0:37:45.91,0:37:49.39,English,,0,0,0,,and transaction, right?\N{\rChinese}以及交易，对吧？
+Dialogue: 0,0:37:50.17,0:37:53.77,English,,0,0,0,,You use money, you should spend your money.\N{\rChinese}你用钱，应该花出去。
+Dialogue: 0,0:37:53.95,0:37:55.81,English,,0,0,0,,If it's all in the bank, what's the point of that?\N{\rChinese}如果全都放在银行里，那又有什么意义呢？
+Dialogue: 0,0:37:56.57,0:38:00.75,English,,0,0,0,,Okay? So having billionaires is a bad thing.\N{\rChinese}好的？所以有亿万富翁是件坏事。
+Dialogue: 0,0:38:02.51,0:38:05.39,English,,0,0,0,,And if you go to America, you'll find\N{\rChinese}如果你去美国，你会发现
+Dialogue: 0,0:38:05.39,0:38:09.19,English,,0,0,0,,that there are many young people who feel that life is pointless.\N{\rChinese}有很多年轻人觉得生活毫无意义。
+Dialogue: 0,0:38:10.81,0:38:12.95,English,,0,0,0,,Okay? So they're looking for alternatives.\N{\rChinese}于是他们在寻找替代方案。
+Dialogue: 0,0:38:14.27,0:38:16.37,English,,0,0,0,,You understand? And\N{\rChinese}你明白吗？然后
+Dialogue: 0,0:38:16.37,0:38:19.93,English,,0,0,0,,this idea of dispensationalist premillennialism,\N{\rChinese}这种分配论的千禧前期主义概念
+Dialogue: 0,0:38:19.93,0:38:23.95,English,,0,0,0,,which is like what's happening right now in Israel will lead to a better world,\N{\rChinese}这正是现在以色列发生的事，随后会带来更好的世界，
+Dialogue: 0,0:38:24.19,0:38:26.21,English,,0,0,0,,that's kind of attractive to you.\N{\rChinese}这对你来说有点吸引人。
+Dialogue: 0,0:38:26.55,0:38:29.49,English,,0,0,0,,You understand? Right?\N{\rChinese}你明白吗？对吧？
+Dialogue: 0,0:38:30.97,0:38:32.47,English,,0,0,0,,Audience Member 2\N{\rChinese}观众成员2
+Dialogue: 0,0:38:33.77,0:38:35.27,English,,0,0,0,,Why is it that you're like this?\N{\rChinese}为什么你会变成这样？
+Dialogue: 0,0:38:35.63,0:38:38.61,English,,0,0,0,,Well, because you're poor and you're stuck being poor.\N{\rChinese}好吧，因为你穷且一直穷。
+Dialogue: 0,0:38:39.99,0:38:43.47,English,,0,0,0,,Guys, imagine you are a\N{\rChinese}伙计们，想象你是个
+Dialogue: 0,0:38:43.47,0:38:47.55,English,,0,0,0,,delivery person in China, in Beijing.\N{\rChinese}在北京的送货员。
+Dialogue: 0,0:38:47.73,0:38:49.77,English,,0,0,0,,Okay? You're like a kuai di yuan, right?\N{\rChinese}好的？你像个快递员，对吧？
+Dialogue: 0,0:38:50.55,0:38:52.91,English,,0,0,0,,What hope do you have for the future?\N{\rChinese}你对未来有什么希望？
+Dialogue: 0,0:38:54.79,0:38:57.99,English,,0,0,0,,Your life is pointless and hopeless.\N{\rChinese}你的生活毫无意义，毫无希望。
+Dialogue: 0,0:38:58.43,0:38:59.65,English,,0,0,0,,No one's going to marry you.\N{\rChinese}没人会娶你。
+Dialogue: 0,0:39:00.73,0:39:02.45,English,,0,0,0,,Even if someone marries you, you're going to have to live with them.\N{\rChinese}即使有人娶你，你也得跟他一起住。
+Dialogue: 0,0:39:02.45,0:39:05.97,English,,0,0,0,,You can't have children because you can't afford to have your children go to school.\N{\rChinese}你没钱送孩子上学，孩子也就没法有了。
+Dialogue: 0,0:39:06.57,0:39:07.81,English,,0,0,0,,You can't buy a house.\N{\rChinese}你买不起房子。
+Dialogue: 0,0:39:08.41,0:39:09.41,English,,0,0,0,,You can't afford anything.\N{\rChinese}你买不起东西。
+Dialogue: 0,0:39:12.27,0:39:18.63,English,,0,0,0,,You're stuck being a delivery person for the rest of your life. Do you understand?\N{\rChinese}你一辈子都当快递员。
+Dialogue: 0,0:39:19.51,0:39:23.87,English,,0,0,0,,Do you know how many delivery people there are in China?\N{\rChinese}你知道中国有多少快递员吗？
+Dialogue: 0,0:39:24.03,0:39:26.91,English,,0,0,0,,Millions and millions. Okay? You have millions and millions of young men\N{\rChinese}数以百万计。好吗？
+Dialogue: 0,0:39:26.91,0:39:30.73,English,,0,0,0,,who have no hope in the future.\N{\rChinese}你有数以百万计的年轻人，却对未来没有一丝希望。
+Dialogue: 0,0:39:32.53,0:39:35.33,English,,0,0,0,,Right? Audience Member 2 Why is it that you're like this?\N{\rChinese}对吗？观众2：你为什么会这样呢？
+Dialogue: 0,0:39:36.15,0:39:39.27,English,,0,0,0,,Yes, because Jesus is coming.\N{\rChinese}是的，因为耶稣要来。
+Dialogue: 0,0:39:39.53,0:39:41.51,English,,0,0,0,,And he's going to destroy the world we live in.\N{\rChinese}他将要毁灭我们所居住的世界。
+Dialogue: 0,0:39:42.15,0:39:44.67,English,,0,0,0,,Audience Member 2 Why is it that you're like this?\N{\rChinese}观众2：你为什么会这样呢？
+Dialogue: 0,0:39:44.91,0:39:46.57,English,,0,0,0,,Because you're a delivery person in China.\N{\rChinese}因为你在中国是送货员。
+Dialogue: 0,0:39:46.95,0:39:49.81,English,,0,0,0,,That's exactly right. Christianity is a free lottery ticket.\N{\rChinese}正是如此。基督教是自由的彩票。
+Dialogue: 0,0:39:50.17,0:39:54.01,English,,0,0,0,,It costs you nothing. And if you win, you win big.\N{\rChinese}它不花你一分钱。若你赢了，便大获全胜。
+Dialogue: 0,0:39:54.33,0:39:56.05,English,,0,0,0,,Okay? Audience Member 2 Why is it that you're like this?\N{\rChinese}好的？观众2：你为什么会这样呢？
+Dialogue: 0,0:39:56.15,0:39:58.33,English,,0,0,0,,Because you're a delivery person in China. You're stuck being a delivery person for the rest of your life.\N{\rChinese}因为你在中国是送货员。你将一辈子都做送货员。
+Dialogue: 0,0:39:58.33,0:40:00.01,English,,0,0,0,,Why is it that you're like this? Because you're a delivery person in China.\N{\rChinese}你为什么会这样呢？因为你在中国是送货员。
+Dialogue: 0,0:40:00.59,0:40:01.99,English,,0,0,0,,Right? What does it cost you?\N{\rChinese}对吧？这对你来说是什么成本？
+Dialogue: 0,0:40:02.03,0:40:04.03,English,,0,0,0,,It costs you nothing, right? Okay?\N{\rChinese}这不花你一分钱，对吧？
+Dialogue: 0,0:40:04.13,0:40:06.61,English,,0,0,0,,Do you understand? That's why it will become more popular over time.\N{\rChinese}你明白了吗？这就是它随时间变得更受欢迎的原因。
+Dialogue: 0,0:40:07.69,0:40:13.67,English,,0,0,0,,Audience Member 2 Excuse me? Audience Member 2\N{\rChinese}观众2：请问一下？观众2
+Dialogue: 0,0:40:20.55,0:40:24.19,English,,0,0,0,,Right. So what you do is you support America.\N{\rChinese}好的。你所做的就是支持美国。
+Dialogue: 0,0:40:25.27,0:40:28.41,English,,0,0,0,,You support Israel. You support the war against Iran.\N{\rChinese}你支持以色列。你支持对伊朗的战争。
+Dialogue: 0,0:40:29.01,0:40:32.23,English,,0,0,0,,Right? But you want more conflict in the Middle East\N{\rChinese}对吧？但你想在中东再有更多冲突。
+Dialogue: 0,0:40:32.23,0:40:36.95,English,,0,0,0,,because the conflict in the Middle East will drive the prophecy,\N{\rChinese}因为中东的冲突将推动预言的实现
+Dialogue: 0,0:40:37.21,0:40:39.07,English,,0,0,0,,right? Do you understand?\N{\rChinese}对吧？你明白了吗？
+Dialogue: 0,0:40:42.37,0:40:50.15,English,,0,0,0,,That's what you want. You want more war. Audience Member 2 But\N{\rChinese}这就是你想要的。你想要更多战争。观众2
+Dialogue: 0,0:40:50.15,0:40:56.15,English,,0,0,0,,what good\N{\rChinese}怎么样？
+Dialogue: 0,0:40:56.15,0:40:59.45,English,,0,0,0,,does peace do you? Sorry to interrupt you curious curious curious curious curious curious curious curious\N{\rChinese}和平对你来说是什么？抱歉打断你，真好奇好奇好奇好奇好奇好奇
+Dialogue: 0,0:41:00.47,0:41:02.93,English,,0,0,0,,Peace just means like tomorrow,\N{\rChinese}和平只是意味着明天，
+Dialogue: 0,0:41:03.33,0:41:06.49,English,,0,0,0,,you'll still be poor and hopeless, right?\N{\rChinese}你仍会贫穷无望，对吧？
+Dialogue: 0,0:41:07.23,0:41:10.57,English,,0,0,0,,But war, it's an opportunity for a new world.\N{\rChinese}但战争，是开启新世界的机会。
+Dialogue: 0,0:41:14.67,0:41:16.11,English,,0,0,0,,Exactly, right?\N{\rChinese}正是如此，对吧？
+Dialogue: 0,0:41:16.41,0:41:20.51,English,,0,0,0,,So all this inequality is making people much more extreme\N{\rChinese}于是这层不平等让人们更极端更绝望，对吧？
+Dialogue: 0,0:41:20.51,0:41:22.11,English,,0,0,0,,and desperate, right?\N{\rChinese}于是这层不平等让人们更极端更绝望，对吧？
+Dialogue: 0,0:41:22.87,0:41:24.57,English,,0,0,0,,Which will lead people,\N{\rChinese}这将使人们……
+Dialogue: 0,0:41:24.73,0:41:29.09,English,,0,0,0,,more people to believe in dispensationalist premillennialism, okay?\N{\rChinese}更多人相信先启示的千禧论，好的？
+Dialogue: 0,0:41:34.23,0:41:36.73,English,,0,0,0,,The government, of course, does not want any instability.\N{\rChinese}政府当然不想出现任何不稳定。
+Dialogue: 0,0:41:37.71,0:41:39.71,English,,0,0,0,,But what can the government do about it?\N{\rChinese}那政府能对此做些什么呢？
+Dialogue: 0,0:41:47.01,0:41:50.41,English,,0,0,0,,You're absolutely right, okay? So the government could provide social welfare\N{\rChinese}你说得完全正确，好的？于是政府可以给穷人提供社会福利
+Dialogue: 0,0:41:51.77,0:41:53.75,English,,0,0,0,,to poor people, but where would the money come from?\N{\rChinese}但钱从哪儿来呢？
+Dialogue: 0,0:41:57.73,0:41:59.39,English,,0,0,0,,Right. You understand?\N{\rChinese}好的。你明白吗？
+Dialogue: 0,0:41:59.77,0:42:01.15,English,,0,0,0,,Oh. Okay.\N{\rChinese}哦。好的。
+Dialogue: 0,0:42:01.47,0:42:05.51,English,,0,0,0,,Fine. Okay, who's more dangerous to you?\N{\rChinese}好。好的，你觉得谁更危险？
+Dialogue: 0,0:42:05.63,0:42:08.01,English,,0,0,0,,A few rich people or millions of poor people?\N{\rChinese}几位富人还是数百万穷人？
+Dialogue: 0,0:42:09.33,0:42:10.53,English,,0,0,0,,Millions of poor people.\N{\rChinese}数百万穷人。
+Dialogue: 0,0:42:10.87,0:42:13.35,English,,0,0,0,,No. Because they're not enough.\N{\rChinese}不。因为他们不够。
+Dialogue: 0,0:42:14.13,0:42:15.97,English,,0,0,0,,No, no, no, no, no.\N{\rChinese}没，没，没，没，没。
+Dialogue: 0,0:42:16.19,0:42:20.65,English,,0,0,0,,A few rich people are much more dangerous than millions of poor people, you understand?\N{\rChinese}几位富人比数百万穷人更危险，你明白吗？
+Dialogue: 0,0:42:21.11,0:42:23.79,English,,0,0,0,,Millions of poor people. Millions of poor people united.\N{\rChinese}数百万穷人。数百万穷人团结。
+Dialogue: 0,0:42:24.59,0:42:26.65,English,,0,0,0,,That's right, united, right?\N{\rChinese}没错，团结，没错？
+Dialogue: 0,0:42:28.13,0:42:29.63,English,,0,0,0,,Poor people don't know how to unite.\N{\rChinese}穷人不懂如何团结。
+Dialogue: 0,0:42:30.41,0:42:33.43,English,,0,0,0,,. That's right.\N{\rChinese}没错。
+Dialogue: 0,0:42:35.87,0:42:40.95,English,,0,0,0,,..\N{\rChinese}...
+Dialogue: 0,0:42:47.65,0:42:49.59,English,,0,0,0,,Yeah, but, but, but.\N{\rChinese}是啊，但……
+Dialogue: 0,0:42:49.75,0:42:54.83,English,,0,0,0,,..\N{\rChinese}...
+Dialogue: 0,0:42:54.83,0:43:11.39,English,,0,0,0,,. Right, okay? Okay,\N{\rChinese}对吧，好的？好的，
+Dialogue: 0,0:43:11.47,0:43:13.33,English,,0,0,0,,so does this make sense?\N{\rChinese}那这样说通了吗？
+Dialogue: 0,0:43:13.41,0:43:14.69,English,,0,0,0,,Okay? Right?\N{\rChinese}好吧？对吗？
+Dialogue: 0,0:43:14.85,0:43:19.13,English,,0,0,0,,So this is the, so I mean it's hard because this is religion, okay?\N{\rChinese}所以这就是……我想说是因为这就是宗教，挺难的，行吗？
+Dialogue: 0,0:43:19.25,0:43:21.27,English,,0,0,0,,And we're not religious. I'm not religious, you're not religious.\N{\rChinese}我们不信教，我不信教，你也不信教。
+Dialogue: 0,0:43:21.79,0:43:24.81,English,,0,0,0,,So we don't understand how religious people think, okay?\N{\rChinese}所以我们还不明白宗教人士是怎么想的，好吗？
+Dialogue: 0,0:43:24.81,0:43:29.27,English,,0,0,0,,But remember that on this planet Earth, most people are religious.\N{\rChinese}但请记住，在这个地球上，大多数人都是宗教人士。
+Dialogue: 0,0:43:29.49,0:43:32.39,English,,0,0,0,,And they take their religion very, very seriously.\N{\rChinese}他们把宗教当得非常非常认真。
+Dialogue: 0,0:43:32.65,0:43:35.43,English,,0,0,0,,Okay? Do you understand? They're willing to die for the religion.\N{\rChinese}好的？你明白了吗？他们愿意为宗教而死。
+Dialogue: 0,0:43:36.31,0:43:39.57,English,,0,0,0,,Because they think that if I die for my religion, I'll go to heaven.\N{\rChinese}因为他们认为如果我为我的宗教而死，我就能去天堂。
+Dialogue: 0,0:43:43.13,0:43:46.07,English,,0,0,0,,Excuse me? Okay.\N{\rChinese}请问一下？好的。
+Dialogue: 0,0:43:48.93,0:43:50.53,English,,0,0,0,,All right. So, so.\N{\rChinese}好的，那……
+Dialogue: 0,0:43:53.59,0:43:55.17,English,,0,0,0,,That's exactly right. Do you understand? Okay?\N{\rChinese}正是如此。你明白了吗？好的？
+Dialogue: 0,0:43:55.33,0:43:58.55,English,,0,0,0,,All right. Because you're not giving people any hope.\N{\rChinese}好的。因为你不给人们任何希望。
+Dialogue: 0,0:43:58.67,0:44:00.57,English,,0,0,0,,And religion gives people hope.\N{\rChinese}而宗教给人们希望。
+Dialogue: 0,0:44:13.73,0:44:35.97,English,,0,0,0,,Okay. So, listen.\N{\rChinese}好的。好了，听着。
+Dialogue: 0,0:44:40.75,0:44:43.09,English,,0,0,0,,In the real world, the poor will always lose.\N{\rChinese}在现实世界里，穷人总是输的。
+Dialogue: 0,0:44:43.17,0:44:45.03,English,,0,0,0,,The rich will always win. No matter what happens.\N{\rChinese}富人总是赢的，无论怎样发生。
+Dialogue: 0,0:44:47.69,0:44:51.07,English,,0,0,0,,That's right. That's why they're poor. Okay.\N{\rChinese}正是如此。那就是他们贫穷的原因。好的。
+Dialogue: 0,0:44:51.45,0:44:53.91,English,,0,0,0,,Okay. Okay. Okay.\N{\rChinese}好

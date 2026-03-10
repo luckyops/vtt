@@ -1,0 +1,732 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:03.32,English,,0,0,0,,Okay, so as you know from your research,\N{\rChinese}好的，正如你在研究中所知，
+Dialogue: 0,0:00:03.66,0:00:04.94,English,,0,0,0,,on April 1st,\N{\rChinese}在4月1日，
+Dialogue: 0,0:00:04.94,0:00:09.64,English,,0,0,0,,the Israelis struck the Iranian embassy in Damascus,\N{\rChinese}以色列人袭击了驻大马士的伊朗大使馆，
+Dialogue: 0,0:00:09.66,0:00:14.08,English,,0,0,0,,Syria, killing seven people, including two commanders.\N{\rChinese}叙利亚，杀死七人，其中两名指挥官。
+Dialogue: 0,0:00:15.16,0:00:19.02,English,,0,0,0,,This is an act of war because the embassy is considered Iranian territory.\N{\rChinese}这是一场战争行动，因为大使馆被视为伊朗领土。
+Dialogue: 0,0:00:19.74,0:00:23.30,English,,0,0,0,,And never before has this been done intentionally.\N{\rChinese}此举从未有过先例。
+Dialogue: 0,0:00:23.30,0:00:24.84,English,,0,0,0,,And\N{\rChinese}和
+Dialogue: 0,0:00:24.84,0:00:28.52,English,,0,0,0,,this follows the killing,\N{\rChinese}随后是他们将军官卡塞姆·苏莱曼尼于2020年被暗杀的事件。
+Dialogue: 0,0:00:28.70,0:00:32.60,English,,0,0,0,,the assassination of their general, Qasem Soleimani, in 2020.\N{\rChinese}the assassination of their general, Qasem Soleimani, in 2020.
+Dialogue: 0,0:00:33.40,0:00:38.86,English,,0,0,0,,This is when the Americans launched a drone strike against him in Baghdad.\N{\rChinese}这时美国在巴格达对他发动无人机打击。
+Dialogue: 0,0:00:39.08,0:00:44.22,English,,0,0,0,,And he was really one of the top Iranian generals.\N{\rChinese}他确实是伊朗最顶尖的将领之一。
+Dialogue: 0,0:00:45.30,0:00:50.30,English,,0,0,0,,And what both of these incidents show us is\N{\rChinese}这两件事都向我们展示了……
+Dialogue: 0,0:00:50.30,0:00:52.80,English,,0,0,0,,that the Americans and the Israelis,\N{\rChinese}美国人和以色列人，
+Dialogue: 0,0:00:53.30,0:00:55.74,English,,0,0,0,,have dominance over Iran, okay?\N{\rChinese}对伊朗拥有优势，明白吗？
+Dialogue: 0,0:00:56.20,0:00:57.46,English,,0,0,0,,So military dominance.\N{\rChinese}于是军事优势。
+Dialogue: 0,0:01:01.10,0:01:03.66,English,,0,0,0,,So the first thing is they have technology, right?\N{\rChinese}所以第一件事是他们有技术，对吧？
+Dialogue: 0,0:01:05.72,0:01:07.00,English,,0,0,0,,So technologically,\N{\rChinese}所以从技术上说，
+Dialogue: 0,0:01:07.40,0:01:10.86,English,,0,0,0,,America and Israel are so much superior to Iran.\N{\rChinese}美国和以色列在技术上远超伊朗。
+Dialogue: 0,0:01:12.60,0:01:15.88,English,,0,0,0,,So that there's a jet that went from Israel\N{\rChinese}于是有一架飞机从以色列起飞
+Dialogue: 0,0:01:16.46,0:01:19.66,English,,0,0,0,,and went to Damascus to carry out the strike.\N{\rChinese}并飞往大马士干执行打击。
+Dialogue: 0,0:01:19.98,0:01:22.42,English,,0,0,0,,Now, if you did the research, you would know that\N{\rChinese}现在，如果你做过研究，你就会知道
+Dialogue: 0,0:01:23.30,0:01:26.26,English,,0,0,0,,the Canadian embassy is right next to the Iranian embassy.\N{\rChinese}加拿大大使馆就在伊朗大使馆旁边。
+Dialogue: 0,0:01:27.40,0:01:31.14,English,,0,0,0,,And the strike was\N{\rChinese}而这次打击是
+Dialogue: 0,0:01:31.14,0:01:35.60,English,,0,0,0,,so precise that it only hit the Iranian embassy and didn't touch anything else, okay?\N{\rChinese}精准到只击中伊朗大使馆，没碰到其他地方，明白吗？
+Dialogue: 0,0:01:35.76,0:01:36.98,English,,0,0,0,,That's a precision strike.\N{\rChinese}这是一记精准打击。
+Dialogue: 0,0:01:37.20,0:01:41.76,English,,0,0,0,,That's how powerful the technology that the Americans and the Israelis have, okay?\N{\rChinese}这就是美国和以色列拥有的技术有多强大，明白吗？
+Dialogue: 0,0:01:41.92,0:01:45.06,English,,0,0,0,,But the other thing that's important is the idea of intelligence.\N{\rChinese}但另一件重要的事是情报的概念。
+Dialogue: 0,0:01:48.88,0:01:53.28,English,,0,0,0,,So how do the Israelis know that, okay, they're not going to attack Iran?\N{\rChinese}那么以色列是怎么知道他们不去打伊朗的？
+Dialogue: 0,0:01:53.30,0:01:56.16,English,,0,0,0,,And how do they know that these commanders would be there at that time, right?\N{\rChinese}他们又是怎么知道这些指挥官会在那个时间到场的？
+Dialogue: 0,0:01:56.26,0:01:59.78,English,,0,0,0,,That's intelligence. And intelligence comes in two forms, right?\N{\rChinese}这就是情报，情报有两种形式，对吧？
+Dialogue: 0,0:02:00.06,0:02:04.22,English,,0,0,0,,There's the idea of human, and then signals.\N{\rChinese}有了人力情报，再加上信号情报。
+Dialogue: 0,0:02:04.94,0:02:08.10,English,,0,0,0,,Signals is basically, I can listen in on your cell phone.\N{\rChinese}信号情报基本就是我能监听你的手机。
+Dialogue: 0,0:02:08.26,0:02:09.54,English,,0,0,0,,I can track where you go.\N{\rChinese}我能追踪你去哪里。
+Dialogue: 0,0:02:09.72,0:02:11.50,English,,0,0,0,,I know where your car is, right?\N{\rChinese}我知道你车在哪里，对吗？
+Dialogue: 0,0:02:11.66,0:02:14.38,English,,0,0,0,,That's signals, electronic intelligence.\N{\rChinese}那是信号情报，电子情报。
+Dialogue: 0,0:02:14.74,0:02:17.80,English,,0,0,0,,The other is human. So there are spies in the embassy\N{\rChinese}另一种是人力情报。所以大使馆里有间谍。
+Dialogue: 0,0:02:17.80,0:02:21.70,English,,0,0,0,,who tell the Israelis that this meeting will happen, okay?\N{\rChinese}谁告诉以色列人这次会晌会发生，行吗？
+Dialogue: 0,0:02:21.78,0:02:23.28,English,,0,0,0,,So this is clearly, you know, a very important part of the story.\N{\rChinese}所以这显然是个非常重要的环节，好吗？
+Dialogue: 0,0:02:23.28,0:02:26.40,English,,0,0,0,,So the Israeli military dominance that Israel and\N{\rChinese}所以以色列的军事实力，正是…
+Dialogue: 0,0:02:26.40,0:02:28.36,English,,0,0,0,,the Americans possess over Iran.\N{\rChinese}美国在伊朗拥有超过…
+Dialogue: 0,0:02:30.32,0:02:33.22,English,,0,0,0,,And when this strike happened,\N{\rChinese}当这次打击发生时，
+Dialogue: 0,0:02:33.52,0:02:37.72,English,,0,0,0,,as you know, the Iranians had to respond.\N{\rChinese}正如你所知，伊朗人必须作出回应。
+Dialogue: 0,0:02:38.06,0:02:39.88,English,,0,0,0,,And this was called Operation True Promise.\N{\rChinese}并且这被称为“真诺之约”行动。
+Dialogue: 0,0:02:41.12,0:02:43.48,English,,0,0,0,,And the idea of True Promise was that\N{\rChinese}而“真诺之约”的想法是
+Dialogue: 0,0:02:43.48,0:02:47.22,English,,0,0,0,,there's a strike package,\N{\rChinese}有一套打击方案，
+Dialogue: 0,0:02:47.36,0:02:49.26,English,,0,0,0,,okay,\N{\rChinese}好的，
+Dialogue: 0,0:02:49.86,0:02:52.34,English,,0,0,0,,consisting of 300 drones.\N{\rChinese}共300架无人机。
+Dialogue: 0,0:02:53.26,0:02:55.62,English,,0,0,0,,And missiles\N{\rChinese}以及导弹。
+Dialogue: 0,0:02:55.62,0:02:58.34,English,,0,0,0,,that hit Israel.\N{\rChinese}击中以色列。
+Dialogue: 0,0:02:58.96,0:03:01.96,English,,0,0,0,,Now, what the Israelis say is that\N{\rChinese}现在，以色列人说的是
+Dialogue: 0,0:03:01.96,0:03:06.14,English,,0,0,0,,99% of these drones and missiles were intercepted.\N{\rChinese}99%的这些无人机和导弹被拦截。
+Dialogue: 0,0:03:06.14,0:03:08.80,English,,0,0,0,,They caused no damage. And\N{\rChinese}他们没有造成任何损失。并且
+Dialogue: 0,0:03:08.80,0:03:11.68,English,,0,0,0,,the Israelis says, this shows that\N{\rChinese}以色列人说，这表明
+Dialogue: 0,0:03:11.68,0:03:14.08,English,,0,0,0,,our Iron Dome system is amazing.\N{\rChinese}我们的铁穹系统很棒。
+Dialogue: 0,0:03:14.30,0:03:17.14,English,,0,0,0,,We're amazing. Iran cannot touch us.\N{\rChinese}我们很棒，伊朗碰不到我们。
+Dialogue: 0,0:03:17.46,0:03:20.82,English,,0,0,0,,What the Iranians said is that, no,\N{\rChinese}伊朗人说的是，没错，
+Dialogue: 0,0:03:20.96,0:03:23.08,English,,0,0,0,,we designed the attack.\N{\rChinese}我们设计了这次攻击。
+Dialogue: 0,0:03:23.16,0:03:27.48,English,,0,0,0,,We're not going to attack Iran. We govern Iran.\N{\rChinese}我们不打伊朗，我们治理伊朗。
+Dialogue: 0,0:03:27.48,0:03:29.24,English,,0,0,0,,We govern Iran.\N{\rChinese}我们治理伊朗。
+Dialogue: 0,0:03:29.50,0:03:31.34,English,,0,0,0,,govern Iran.\N{\rChinese}治理伊朗。
+Dialogue: 0,0:03:31.34,0:03:32.26,English,,0,0,0,,govern Iran.\N{\rChinese}治理伊朗。
+Dialogue: 0,0:03:33.26,0:03:39.70,English,,0,0,0,,govern Iran.\N{\rChinese}治理伊朗。
+Dialogue: 0,0:03:39.86,0:03:41.38,English,,0,0,0,,govern Iran.\N{\rChinese}治理伊朗。
+Dialogue: 0,0:03:41.76,0:03:43.66,English,,0,0,0,,govern Iran. govern Iran.\N{\rChinese}治理伊朗。治理伊朗。
+Dialogue: 0,0:03:43.78,0:03:49.10,English,,0,0,0,,govern Iran. govern Iran.\N{\rChinese}治理伊朗。治理伊朗。
+Dialogue: 0,0:03:49.56,0:03:51.72,English,,0,0,0,,govern Iran.\N{\rChinese}治理伊朗。
+Dialogue: 0,0:03:53.42,0:03:54.90,English,,0,0,0,,and the Israelis.\N{\rChinese}以及以色列人。
+Dialogue: 0,0:03:55.24,0:03:58.30,English,,0,0,0,,And the reason why is the Americans\N{\rChinese}而原因是美国人。
+Dialogue: 0,0:03:58.30,0:04:01.00,English,,0,0,0,,and the Israelis have military dominance over\N{\rChinese}以及以色列人拥有军事优势。
+Dialogue: 0,0:04:02.90,0:04:05.14,English,,0,0,0,,Iran. But just because\N{\rChinese}伊朗。只是因为
+Dialogue: 0,0:04:05.14,0:04:08.60,English,,0,0,0,,you have military dominance does not mean you'll win the war.\N{\rChinese}你拥有军事优势并不代表你能赢得战争。
+Dialogue: 0,0:04:09.04,0:04:11.92,English,,0,0,0,,Okay? So what I believe is that\N{\rChinese}好的？所以我认为是这样。
+Dialogue: 0,0:04:12.72,0:04:15.94,English,,0,0,0,,Iran and Israel are committed to a war and\N{\rChinese}伊朗与以色列已投入战争。
+Dialogue: 0,0:04:15.94,0:04:20.78,English,,0,0,0,,it's possible that in two years time there will be a ground invasion of Iran.\N{\rChinese}有可能在两年后伊朗会被陆军入侵。
+Dialogue: 0,0:04:22.00,0:04:24.74,English,,0,0,0,,Okay, but it's gonna take time to build up to the ground invasion.\N{\rChinese}好的，但要把陆军入侵准备好还需要一段时间。
+Dialogue: 0,0:04:26.34,0:04:28.52,English,,0,0,0,,But just because the Americans and\N{\rChinese}但仅仅因为美国和
+Dialogue: 0,0:04:28.52,0:04:32.02,English,,0,0,0,,Israelis attack Iran does not mean they will win.\N{\rChinese}以色列人攻击伊朗并不意味着他们会赢。
+Dialogue: 0,0:04:32.18,0:04:34.14,English,,0,0,0,,Okay, and the reason why is that\N{\rChinese}好的，原因在于
+Dialogue: 0,0:04:34.14,0:04:38.44,English,,0,0,0,,as you know from your research in 2002 the Americans actually\N{\rChinese}正如你在2002年的研究中所知，美国实际上
+Dialogue: 0,0:04:42.92,0:04:44.24,English,,0,0,0,,tried to invade Iran.\N{\rChinese}尝试入侵伊朗。
+Dialogue: 0,0:04:44.42,0:04:49.06,English,,0,0,0,,Okay, they had they run a simulation called the 2002 Millennium Challenge\N{\rChinese}好的，他们曾进行过一次名为2002年千禧挑战的模拟。
+Dialogue: 0,0:04:49.06,0:04:51.52,English,,0,0,0,,and the idea is let's pretend\N{\rChinese}并且想法是让我们假设我们将入侵伊朗，看看会怎样。
+Dialogue: 0,0:04:52.18,0:04:54.56,English,,0,0,0,,that we will invade Iran and let's see what happens.\N{\rChinese}that we will invade Iran and let's see what happens.
+Dialogue: 0,0:04:54.80,0:04:57.50,English,,0,0,0,,So they divide the military into two teams, right?\N{\rChinese}于是他们把军队分成两组，对吧？
+Dialogue: 0,0:04:57.62,0:04:59.02,English,,0,0,0,,Team USA and\N{\rChinese}美国组
+Dialogue: 0,0:04:59.96,0:05:05.44,English,,0,0,0,,Team Iran. Now if you know anything about the American military,\N{\rChinese}伊朗组。现在如果你了解美国军队的情况，
+Dialogue: 0,0:05:05.78,0:05:07.60,English,,0,0,0,,you will know that it is the most\N{\rChinese}你会知道它是最强大的。
+Dialogue: 0,0:05:08.38,0:05:12.74,English,,0,0,0,,dominant powerful military ever to exist in human history.\N{\rChinese}人类历史上最强大的军队。
+Dialogue: 0,0:05:12.88,0:05:14.68,English,,0,0,0,,Okay, it is crazy powerful.\N{\rChinese}好的，它非常强大。
+Dialogue: 0,0:05:15.84,0:05:18.50,English,,0,0,0,,If the entire world were to get together and\N{\rChinese}如果全世界聚在一起并
+Dialogue: 0,0:05:18.50,0:05:20.68,English,,0,0,0,,say let's go fight the United States.\N{\rChinese}说吧，去跟美国打一场。
+Dialogue: 0,0:05:20.78,0:05:26.44,English,,0,0,0,,The world would lose. The United States has the most powerful military in the entire world.\N{\rChinese}世界会输。美国拥有全世界最强大的军队。
+Dialogue: 0,0:05:26.58,0:05:31.66,English,,0,0,0,,Okay, and Iran It's a very poor country.\N{\rChinese}好的，伊朗是个非常贫穷的国家。
+Dialogue: 0,0:05:33.58,0:05:36.62,English,,0,0,0,,So the United States invaded Iran and\N{\rChinese}于是美国入侵伊朗并
+Dialogue: 0,0:05:36.62,0:05:41.30,English,,0,0,0,,they wanted to see what would happen and it turned out that who won?\N{\rChinese}他们想看看会怎样，结果谁赢了？
+Dialogue: 0,0:05:42.74,0:05:44.52,English,,0,0,0,,Iran won. Okay, and\N{\rChinese}伊朗赢了。好的，
+Dialogue: 0,0:05:44.52,0:05:48.80,English,,0,0,0,,the reason why Iran won is the idea of asymmetrical warfare.\N{\rChinese}伊朗之胜的原因在于非对称作战的理念。
+Dialogue: 0,0:05:54.20,0:05:56.82,English,,0,0,0,,All right, and this is very important idea that\N{\rChinese}好了，这个理念非常重要。
+Dialogue: 0,0:05:56.82,0:05:59.56,English,,0,0,0,,you must know if you are to understand this conflict.\N{\rChinese}你必须知道这一点，才能理解这场冲突。
+Dialogue: 0,0:05:59.92,0:06:01.94,English,,0,0,0,,So what is asymmetrical warfare?\N{\rChinese}那么，什么是非对称作战？
+Dialogue: 0,0:06:02.28,0:06:05.54,English,,0,0,0,,All right, let's pretend that Jack and I are enemies.\N{\rChinese}好了，假设杰克和我是敌人。
+Dialogue: 0,0:06:05.98,0:06:07.84,English,,0,0,0,,We hate each other and want to kill each other.\N{\rChinese}我们互相仇恨，想互相杀死。
+Dialogue: 0,0:06:07.90,0:06:10.58,English,,0,0,0,,Okay? Jack has armor\N{\rChinese}好的？杰克穿着盔甲。
+Dialogue: 0,0:06:10.58,0:06:12.72,English,,0,0,0,,and he has a machine gun.\N{\rChinese}他还有机枪。
+Dialogue: 0,0:06:13.18,0:06:14.68,English,,0,0,0,,I have nothing.\N{\rChinese}我什么都没有。
+Dialogue: 0,0:06:14.80,0:06:17.60,English,,0,0,0,,Okay, so in most battles\N{\rChinese}好的，基本上大多数战斗是这样
+Dialogue: 0,0:06:18.16,0:06:19.36,English,,0,0,0,,Jack's gonna kill me, right?\N{\rChinese}杰克要杀我，对吧？
+Dialogue: 0,0:06:21.04,0:06:25.02,English,,0,0,0,,But let's pretend that I live in a dark forest\N{\rChinese}但让我们假设我住在一片黑暗的森林里
+Dialogue: 0,0:06:25.02,0:06:29.52,English,,0,0,0,,and it's really hard to see in this dark forest But I've been living there for decades.\N{\rChinese}并且在这片黑暗的森林里很难看清楚，但我已经在那里住了几十年。
+Dialogue: 0,0:06:29.88,0:06:31.66,English,,0,0,0,,Okay, so I know it's dark forest very very well\N{\rChinese}好的，我对这片黑暗的森林非常非常熟悉。
+Dialogue: 0,0:06:32.24,0:06:35.64,English,,0,0,0,,So if Jack attacks me in this dark forest\N{\rChinese}如果杰克在这片黑暗的森林里攻击我
+Dialogue: 0,0:06:36.28,0:06:39.84,English,,0,0,0,,Then it's possible for me to win because I can set traps, right?\N{\rChinese}那我就有可能获胜，因为我可以设置陷阱，对吧？
+Dialogue: 0,0:06:40.08,0:06:41.60,English,,0,0,0,,I can play tricks on\N{\rChinese}我可以对杰克玩些诡计
+Dialogue: 0,0:06:42.26,0:06:45.96,English,,0,0,0,,Jack and that's the idea of asymmetrical warfare.\N{\rChinese}这就是不对称战争的核心
+Dialogue: 0,0:06:46.42,0:06:49.40,English,,0,0,0,,Okay, even though Jack is superior\N{\rChinese}好的，虽然杰克更强
+Dialogue: 0,0:06:49.40,0:06:51.62,English,,0,0,0,,Because I'm inferior.\N{\rChinese}因为我更弱
+Dialogue: 0,0:06:51.94,0:06:53.40,English,,0,0,0,,I'm forced to be much more\N{\rChinese}我被迫在对付杰克时更具战略性，好的？
+Dialogue: 0,0:06:54.04,0:06:57.66,English,,0,0,0,,strategic in how I fight against Jack, okay?\N{\rChinese}strategic in how I fight against Jack, okay?
+Dialogue: 0,0:06:59.30,0:07:03.12,English,,0,0,0,,and so asymmetrical warfare means\N{\rChinese}而不对称战争的含义是
+Dialogue: 0,0:07:03.12,0:07:05.90,English,,0,0,0,,that as long as you can define the\N{\rChinese}只要你能定义它为
+Dialogue: 0,0:07:05.90,0:07:09.88,English,,0,0,0,,terms of engagement as long as you can\N{\rChinese}交战条件只要你能
+Dialogue: 0,0:07:11.56,0:07:14.74,English,,0,0,0,,Control how the war is fought you will win\N{\rChinese}掌握战争方式，你就能赢
+Dialogue: 0,0:07:16.42,0:07:18.54,English,,0,0,0,,Okay, so let's look\N{\rChinese}好的，那我们来看看
+Dialogue: 0,0:07:19.40,0:07:21.82,English,,0,0,0,,at what this means for Iran and the United States.\N{\rChinese}这对伊朗和美国意味着什么。
+Dialogue: 0,0:07:21.96,0:07:25.76,English,,0,0,0,,So the United States has these aircraft carriers\N{\rChinese}美国拥有这些航空母舰
+Dialogue: 0,0:07:28.84,0:07:33.56,English,,0,0,0,,And they cost like a billion dollars, okay, they're very expensive but they're very powerful\N{\rChinese}它们的造价约十亿美元，十分昂贵，但极其强大
+Dialogue: 0,0:07:34.34,0:07:38.30,English,,0,0,0,,now in a symmetrical warfare what happened is\N{\rChinese}现在在对称战争中发生的事是
+Dialogue: 0,0:07:39.36,0:07:44.86,English,,0,0,0,,Iran sends its entire Navy against this one aircraft carrier of the United States\N{\rChinese}伊朗把整个海军投向美国的一艘航空母舰
+Dialogue: 0,0:07:44.86,0:07:49.20,English,,0,0,0,,and then what happens the United States blows up the entire Iranian Navy, okay?\N{\rChinese}然后美国把整个伊朗海军炸了，怎么样？
+Dialogue: 0,0:07:49.40,0:07:51.78,English,,0,0,0,,That's what would happen. So you don't do that. Okay,\N{\rChinese}那就是会发生的事。你们不这么做，行吗？
+Dialogue: 0,0:07:51.88,0:07:54.52,English,,0,0,0,,you do not send your Navy against an\N{\rChinese}你不把海军投向一艘
+Dialogue: 0,0:07:54.52,0:07:58.38,English,,0,0,0,,American aircraft carrier What you do instead is you send\N{\rChinese}美国航空母舰。你接着做的是你发送
+Dialogue: 0,0:07:59.14,0:08:01.68,English,,0,0,0,,drones, okay or drone swarms\N{\rChinese}无人机，好吗？或者无人机群
+Dialogue: 0,0:08:03.72,0:08:08.64,English,,0,0,0,,So what they did in the millennium challenge was they had these suicide boats right\N{\rChinese}于是他们在千年挑战中做的就是用这些自杀艇
+Dialogue: 0,0:08:09.32,0:08:12.30,English,,0,0,0,,charging these aircraft carriers and\N{\rChinese}发射这些航空母舰，
+Dialogue: 0,0:08:12.30,0:08:17.84,English,,0,0,0,,guess what guys if there's a lot of them like a thousand of them you can't stop all of them\N{\rChinese}猜猜大家，如果有一千艘，你就停不下来
+Dialogue: 0,0:08:17.84,0:08:20.38,English,,0,0,0,,and if one hits the Your boat sinks.\N{\rChinese}如果其中一艘命中，船就会沉没。
+Dialogue: 0,0:08:20.64,0:08:24.12,English,,0,0,0,,Okay, does that make sense? Okay, this is what we call asymmetrical warfare\N{\rChinese}好的，这样说清楚了吗？这就是我们所说的非对称战争。
+Dialogue: 0,0:08:24.68,0:08:28.10,English,,0,0,0,,Now what's important to understand is that in a\N{\rChinese}现在重要的是要理解，
+Dialogue: 0,0:08:28.84,0:08:33.88,English,,0,0,0,,Asymmetrical warfare you have to control how much resources you use Okay,\N{\rChinese}非对称战争，你得控制投入的资源量
+Dialogue: 0,0:08:33.94,0:08:38.84,English,,0,0,0,,so for example this aircraft carrier cost a billion dollars the drone swarms.\N{\rChinese}比如说这艘航空母舰耗资十亿美元，机群就会蜂拥而来。
+Dialogue: 0,0:08:38.88,0:08:41.20,English,,0,0,0,,Okay a drone maybe a thousand dollars\N{\rChinese}好的，一架无人机大约一千美元
+Dialogue: 0,0:08:42.68,0:08:46.48,English,,0,0,0,,For a real one, okay, but then you have fake ones that cost $100 a\N{\rChinese}而一架真正的无人机大约一千美元，假机则只需一百美元
+Dialogue: 0,0:08:47.44,0:08:49.36,English,,0,0,0,,Thousand dollars are these drones that blow up?\N{\rChinese}一千美元是那些能炸毁的无人机吗？
+Dialogue: 0,0:08:49.36,0:08:51.80,English,,0,0,0,,Right hundred dollars are drones that don't blow up, right?\N{\rChinese}一百美元是那些不炸毁的无人机，对吗？
+Dialogue: 0,0:08:52.22,0:08:53.94,English,,0,0,0,,You have a thousand of these\N{\rChinese}你有一千个这样的
+Dialogue: 0,0:08:55.42,0:08:57.70,English,,0,0,0,,and Then you that's like ten million dollars\N{\rChinese}然后你就有大约一千万美元
+Dialogue: 0,0:08:59.78,0:09:02.78,English,,0,0,0,,And then you have ten thousand of these and\N{\rChinese}然后你又有一万件这样的
+Dialogue: 0,0:09:02.78,0:09:04.44,English,,0,0,0,,that's another ten million dollars, okay So\N{\rChinese}又是另一千万美元，好的，算了
+Dialogue: 0,0:09:04.44,0:09:08.46,English,,0,0,0,,it'll cost you maybe twenty million dollars to blow\N{\rChinese}大约二千万美元才能炸毁一架十亿美元的航空母舰
+Dialogue: 0,0:09:08.46,0:09:11.20,English,,0,0,0,,up an air of one billion dollar aircraft carrier\N{\rChinese}up an air of one billiondollar aircraft carrier
+Dialogue: 0,0:09:12.12,0:09:13.80,English,,0,0,0,,It does that make sense? And\N{\rChinese}它这样做有意义吗？然后
+Dialogue: 0,0:09:13.80,0:09:17.50,English,,0,0,0,,this is why Iran would win a war\N{\rChinese}这就是为什么伊朗会赢得一场战争
+Dialogue: 0,0:09:17.50,0:09:18.66,English,,0,0,0,,because Iran\N{\rChinese}因为伊朗
+Dialogue: 0,0:09:19.36,0:09:22.30,English,,0,0,0,,Would employ it as a medical warfare\N{\rChinese}将其作为空中武器使用
+Dialogue: 0,0:09:22.30,0:09:26.12,English,,0,0,0,,drone swarms against the American aircraft carriers\N{\rChinese}无人机群攻击美军航空母舰
+Dialogue: 0,0:09:26.84,0:09:28.56,English,,0,0,0,,Okay and\N{\rChinese}好的，接着说
+Dialogue: 0,0:09:29.40,0:09:30.92,English,,0,0,0,,the true promise\N{\rChinese}真正的承诺
+Dialogue: 0,0:09:31.46,0:09:33.76,English,,0,0,0,,actually showed us that\N{\rChinese}实际上展示给我们
+Dialogue: 0,0:09:34.26,0:09:37.44,English,,0,0,0,,The Iranians would probably use a strategy and\N{\rChinese}伊朗人很可能会采用一种策略，并且
+Dialogue: 0,0:09:37.44,0:09:41.70,English,,0,0,0,,the reason why is that the total package the strike package\N{\rChinese}原因在于打击方案的完整包
+Dialogue: 0,0:09:41.70,0:09:43.50,English,,0,0,0,,that the Iranians use\N{\rChinese}伊朗人使用的
+Dialogue: 0,0:09:44.70,0:09:47.68,English,,0,0,0,,cost about ten to thirty million dollars\N{\rChinese}约一千万至三千万美元
+Dialogue: 0,0:09:50.36,0:09:55.64,English,,0,0,0,,But how much money did they really spend to bring down these drones?\N{\rChinese}但他们到底花了多少钱把这些无人机搞下来？
+Dialogue: 0,0:09:56.00,0:09:59.90,English,,0,0,0,,Did you guys do you guys know how much it cost the Israelis?\N{\rChinese}你们知道这对以色列人花了多少钱吗？
+Dialogue: 0,0:10:01.04,0:10:03.54,English,,0,0,0,,To defend themselves against this attack\N{\rChinese}为抵御这次攻击而自保
+Dialogue: 0,0:10:07.04,0:10:10.98,English,,0,0,0,,Okay, it was one at least one billion dollars\N{\rChinese}好的，至少花了一十亿美元
+Dialogue: 0,0:10:13.08,0:10:15.54,English,,0,0,0,,Hey, do you understand all right\N{\rChinese}嘿，你都明白了吗？
+Dialogue: 0,0:10:17.34,0:10:21.94,English,,0,0,0,,So This is this shows us that\N{\rChinese}所以这表明我们
+Dialogue: 0,0:10:23.02,0:10:27.34,English,,0,0,0,,In a war Iran would use asymmetrical warfare\N{\rChinese}在战争中，伊朗会使用非对称战争
+Dialogue: 0,0:10:29.42,0:10:32.72,English,,0,0,0,,And It and even though\N{\rChinese}而且它甚至…
+Dialogue: 0,0:10:34.32,0:10:36.22,English,,0,0,0,,Israel United States have military dominance.\N{\rChinese}以色列和美国拥有军事实力。
+Dialogue: 0,0:10:36.44,0:10:37.86,English,,0,0,0,,They may not be able to win this war.\N{\rChinese}他们可能无法赢得这场战争。
+Dialogue: 0,0:10:38.04,0:10:40.92,English,,0,0,0,,Okay. Okay. So so does this make sense so far any questions\N{\rChinese}好的。好的。这样说通吗？有问题吗？
+Dialogue: 0,0:10:41.90,0:10:44.70,English,,0,0,0,,about this I Think\N{\rChinese}关于这点，我想
+Dialogue: 0,0:10:44.70,0:10:47.80,English,,0,0,0,,that the The The The The The The The\N{\rChinese}那就是……
+Dialogue: 0,0:10:51.10,0:10:52.52,English,,0,0,0,,The The\N{\rChinese}那就是……
+Dialogue: 0,0:10:55.46,0:10:58.22,English,,0,0,0,,The The The The The The The The The\N{\rChinese}那就是……
+Dialogue: 0,0:10:59.12,0:11:03.62,English,,0,0,0,,The The The The The The\N{\rChinese}那就是……
+Dialogue: 0,0:11:19.12,0:11:21.72,English,,0,0,0,,against empires and dominant military powers?\N{\rChinese}对帝国和主导军力的挑战？
+Dialogue: 0,0:11:22.00,0:11:24.46,English,,0,0,0,,What's a problem of empires usually?\N{\rChinese}帝国通常的问题是什么？
+Dialogue: 0,0:11:26.18,0:11:27.42,English,,0,0,0,,What is the biggest problem?\N{\rChinese}最大的难题是什么？
+Dialogue: 0,0:11:31.20,0:11:32.66,English,,0,0,0,,What is the fatal flaw?\N{\rChinese}致命缺陷是什么？
+Dialogue: 0,0:11:37.84,0:11:40.78,English,,0,0,0,,Okay, they have too much bureaucracy, but Iran also has bureaucracy.\N{\rChinese}好的，伊朗也有过多的官僚；但帝国的官僚更是多得多。
+Dialogue: 0,0:11:41.08,0:11:42.92,English,,0,0,0,,But the empires have a much bigger problem, okay?\N{\rChinese}但帝国的官僚问题更大，明白吗？
+Dialogue: 0,0:11:43.24,0:11:44.84,English,,0,0,0,,Now let's go back to the millennium challenge.\N{\rChinese}现在回到千年挑战。
+Dialogue: 0,0:11:45.34,0:11:47.70,English,,0,0,0,,Now in the first test,\N{\rChinese}现在在第一次测试里，
+Dialogue: 0,0:11:47.96,0:11:49.78,English,,0,0,0,,in the first battle,\N{\rChinese}在第一次战役中，
+Dialogue: 0,0:11:50.02,0:11:52.88,English,,0,0,0,,Iran won against the United States, right?\N{\rChinese}伊朗击败美国，对吧？
+Dialogue: 0,0:11:53.46,0:11:54.86,English,,0,0,0,,So what did the United States do?\N{\rChinese}那么美国做了什么？
+Dialogue: 0,0:11:56.48,0:12:01.02,English,,0,0,0,,And do what? They did it again,\N{\rChinese}然后又怎么做？他们又做了。
+Dialogue: 0,0:12:01.12,0:12:03.64,English,,0,0,0,,they did another second, they did a second simulation.\N{\rChinese}他们又做了一次，进行第二次模拟。
+Dialogue: 0,0:12:04.10,0:12:05.92,English,,0,0,0,,In the second simulation, what did they do?\N{\rChinese}在第二次模拟中，他们做了什么？
+Dialogue: 0,0:12:08.38,0:12:13.10,English,,0,0,0,,Exactly, okay? What the Americans said is, nope, this is cheating guys.\N{\rChinese}好的，正是如此。美国人说：不，这算是作弊。
+Dialogue: 0,0:12:14.66,0:12:17.50,English,,0,0,0,,Did you understand? Asemitical warfare is cheating.\N{\rChinese}你明白了吗？不对称作战术是作弊。
+Dialogue: 0,0:12:17.64,0:12:20.74,English,,0,0,0,,You cannot cheat. And then the Americans won.\N{\rChinese}你不能作弊。随后美国人赢了。
+Dialogue: 0,0:12:21.16,0:12:23.04,English,,0,0,0,,Does that make sense? Okay?\N{\rChinese}这样说通吗？好的？
+Dialogue: 0,0:12:23.12,0:12:27.82,English,,0,0,0,,So remember, in the first instance, where you are allowed to use asymmetrical warfare,\N{\rChinese}记住，第一次出现时，你可以使用不对称战术，
+Dialogue: 0,0:12:28.22,0:12:30.92,English,,0,0,0,,the Iranians won. In the second instance,\N{\rChinese}伊朗赢了。第二次出现时，
+Dialogue: 0,0:12:31.12,0:12:34.82,English,,0,0,0,,the Americans said, no, asymmetrical warfare is cheating.\N{\rChinese}美国人说：不，这算是作弊。
+Dialogue: 0,0:12:35.10,0:12:39.68,English,,0,0,0,,So you're not allowed to use asymmetrical warfare, you must fight us directly.\N{\rChinese}于是你们只能正面作战，不能使用不对称战术。
+Dialogue: 0,0:12:40.16,0:12:44.64,English,,0,0,0,,And the Americans won. What does this tell us about the American military?\N{\rChinese}美国人赢了，这说明美国军队的实力如何。
+Dialogue: 0,0:12:49.82,0:12:51.36,English,,0,0,0,,Exactly, thank you, okay?\N{\rChinese}好的，正是这样。
+Dialogue: 0,0:12:51.48,0:12:53.10,English,,0,0,0,,They are inflexible.\N{\rChinese}它们很刚性。
+Dialogue: 0,0:12:54.32,0:12:56.66,English,,0,0,0,,Empires have, are inflexible.\N{\rChinese}帝国很刚性。
+Dialogue: 0,0:12:56.84,0:13:01.20,English,,0,0,0,,And the reason why is the idea of hubris, right?\N{\rChinese}而之所以是自大之想，没错吧？
+Dialogue: 0,0:13:02.36,0:13:03.52,English,,0,0,0,,If you're an empire,\N{\rChinese}如果你是一个帝国，
+Dialogue: 0,0:13:03.80,0:13:08.76,English,,0,0,0,,you refuse to admit your failings\N{\rChinese}你不肯承认自己的失误
+Dialogue: 0,0:13:08.76,0:13:13.36,English,,0,0,0,,and faults. You become very stubborn, okay?\N{\rChinese}并出现错误。你会变得很固执，好吗？
+Dialogue: 0,0:13:13.50,0:13:17.42,English,,0,0,0,,So it's back to the example of the American military. So this is an example of Jack has his machine gun, his armor, right?\N{\rChinese}于是回到美国军队的例子。于是这就是杰克拿着机枪、装甲的例子，对吧？
+Dialogue: 0,0:13:17.96,0:13:21.92,English,,0,0,0,,He comes in this dark forest thinking like, I'm invincible, right?\N{\rChinese}他走进这片黑暗森林，心里想：我无敌可战，对吧？
+Dialogue: 0,0:13:22.36,0:13:25.60,English,,0,0,0,,And like, everyone's like, Jack, don't go into that dark forest.\N{\rChinese}于是大家说：杰克，别去那片黑暗森林。
+Dialogue: 0,0:13:25.88,0:13:28.20,English,,0,0,0,,It's stupid. But Jack's like, no, I have a machine gun.\N{\rChinese}真笨。但杰克说，我有机枪。
+Dialogue: 0,0:13:28.32,0:13:29.80,English,,0,0,0,,I don't care, all right?\N{\rChinese}我不在乎，行吗？
+Dialogue: 0,0:13:30.34,0:13:33.82,English,,0,0,0,,So that's the situation. That's why asymmetrical warfare is\N{\rChinese}于是就是这种情况。正因如此，非对称战争才出现
+Dialogue: 0,0:13:33.82,0:13:37.00,English,,0,0,0,,so effective, because it allows you flexibility\N{\rChinese}因此非常有效，因为它给你带来灵活性
+Dialogue: 0,0:13:37.00,0:13:38.78,English,,0,0,0,,and creativity.\N{\rChinese}以及创造性。
+Dialogue: 0,0:13:41.00,0:13:43.30,English,,0,0,0,,And the Empire, the dominant power,\N{\rChinese}而帝国，主导力量，
+Dialogue: 0,0:13:43.30,0:13:46.42,English,,0,0,0,,refuses to be flexible and creative,\N{\rChinese}不愿灵活创造
+Dialogue: 0,0:13:46.64,0:13:48.16,English,,0,0,0,,okay?\N{\rChinese}好的？
+Dialogue: 0,0:13:48.24,0:13:50.18,English,,0,0,0,,Does that make sense? All right?\N{\rChinese}这样说通吗？
+Dialogue: 0,0:13:50.22,0:13:53.38,English,,0,0,0,,And so the classic example of this is Vietnam,\N{\rChinese}于是，经典例子就是越南
+Dialogue: 0,0:13:53.50,0:13:56.46,English,,0,0,0,,where the Viennese were clearly\N{\rChinese}在此，维也人显然
+Dialogue: 0,0:13:57.38,0:13:58.64,English,,0,0,0,,dominated by the Americans,\N{\rChinese}由美国主导
+Dialogue: 0,0:13:59.00,0:14:01.74,English,,0,0,0,,but the Viennese were using extremely creative and\N{\rChinese}但维也人采用极具创意的
+Dialogue: 0,0:14:01.74,0:14:03.68,English,,0,0,0,,flexible tactics against Americans,\N{\rChinese}对美国的灵活战术
+Dialogue: 0,0:14:03.94,0:14:08.46,English,,0,0,0,,whereas the Americans insisted on their main military doctrine,\N{\rChinese}而美国人坚持他们的主要军事学说
+Dialogue: 0,0:14:08.62,0:14:09.82,English,,0,0,0,,okay? Does that make sense?\N{\rChinese}好的？这有道理吗？
+Dialogue: 0,0:14:09.96,0:14:11.58,English,,0,0,0,,All right, great.\N{\rChinese}好的，太好了。
+Dialogue: 0,0:14:11.74,0:14:13.28,English,,0,0,0,,Okay, any more questions? That was a great question.\N{\rChinese}好的，还有别的问题吗？那是个很好的问题。
+Dialogue: 0,0:14:13.30,0:14:16.20,English,,0,0,0,,Thank you. Any more questions before we move on?\N{\rChinese}谢谢。还有别的问题吗？我们继续吧。
+Dialogue: 0,0:14:17.50,0:14:22.68,English,,0,0,0,,Great. Great. Great.\N{\rChinese}太好了。太好了。太好了。
+Dialogue: 0,0:14:23.82,0:14:25.26,English,,0,0,0,,Great Great Great Great\N{\rChinese}太好了太好了太好了太好了。
+Dialogue: 0,0:14:26.12,0:14:28.30,English,,0,0,0,,Great Great Great Great\N{\rChinese}太好了太好了太好了太好了
+Dialogue: 0,0:14:36.72,0:14:39.32,English,,0,0,0,,Great Before the invasion,\N{\rChinese}太好了 在入侵之前，
+Dialogue: 0,0:14:39.86,0:14:45.70,English,,0,0,0,,the Iranians must do four things if it is to prevail in the war.\N{\rChinese}伊朗人若想在战争中取胜，必须做四件事。
+Dialogue: 0,0:14:46.14,0:14:46.88,English,,0,0,0,,And\N{\rChinese}而且。
+Dialogue: 0,0:14:46.88,0:14:52.70,English,,0,0,0,,this is what we call the Iran strategy matrix.\N{\rChinese}这就是我们所说的伊朗战略矩阵。
+Dialogue: 0,0:14:54.76,0:14:57.18,English,,0,0,0,,The Iran strategy matrix means that\N{\rChinese}伊朗战略矩阵意味着
+Dialogue: 0,0:14:57.18,0:14:58.50,English,,0,0,0,,from now on,\N{\rChinese}从此开始，
+Dialogue: 0,0:14:58.52,0:15:03.68,English,,0,0,0,,everything they do must fit into the strategy matrix.\N{\rChinese}他们所做的一切都必须落入战略矩阵之中。
+Dialogue: 0,0:15:03.68,0:15:07.86,English,,0,0,0,,It must accomplish the objectives of the strategy matrix.\N{\rChinese}它必须完成战略矩阵的目标。
+Dialogue: 0,0:15:08.08,0:15:13.28,English,,0,0,0,,So the first thing it must do is unite the population.\N{\rChinese}首先，它必须统一民众。
+Dialogue: 0,0:15:15.42,0:15:19.98,English,,0,0,0,,Second thing it must do is build alliances.\N{\rChinese}其次，它必须构建联盟。
+Dialogue: 0,0:15:22.74,0:15:25.66,English,,0,0,0,,And the third thing is win global opinion.\N{\rChinese}第三点是赢得全球舆论。
+Dialogue: 0,0:15:27.88,0:15:32.46,English,,0,0,0,,The fourth is weaken the enemy.\N{\rChinese}第四点是削弱敌方。
+Dialogue: 0,0:15:34.66,0:15:37.52,English,,0,0,0,,So in other words, everything that\N{\rChinese}于是换句话说，伊朗从现在开始所做的一切都…
+Dialogue: 0,0:15:37.52,0:15:40.06,English,,0,0,0,,Iran is going to do from now\N{\rChinese}伊朗从现在开始所做的一切都…
+Dialogue: 0,0:15:40.06,0:15:43.40,English,,0,0,0,,until the actual invasion will be\N{\rChinese}直到实际入侵时才会
+Dialogue: 0,0:15:43.40,0:15:46.64,English,,0,0,0,,to accomplish all four goals at once.\N{\rChinese}一次完成这四个目标。
+Dialogue: 0,0:15:46.86,0:15:51.88,English,,0,0,0,,And it must if it is to survive a full -scale American invasion.\N{\rChinese}并且若要在全规模美军入侵中存活，必须如此。
+Dialogue: 0,0:15:52.20,0:15:56.14,English,,0,0,0,,Does it make sense? So unite the population.\N{\rChinese}这样说有道理吗？于是统一民众。
+Dialogue: 0,0:15:56.86,0:15:59.22,English,,0,0,0,,What does this mean? It means that\N{\rChinese}这意味着什么？它意味着……
+Dialogue: 0,0:15:59.22,0:16:03.28,English,,0,0,0,,you win the war depending on how...\N{\rChinese}你赢得战争取决于……
+Dialogue: 0,0:16:03.68,0:16:07.18,English,,0,0,0,,how much your population is willing to resist the invasion.\N{\rChinese}你的人口愿意抵抗入侵的程度如何？
+Dialogue: 0,0:16:07.82,0:16:11.36,English,,0,0,0,,And it turns out that even though the Iranians right now are divided,\N{\rChinese}结果显示，尽管伊朗人现在分裂，
+Dialogue: 0,0:16:11.52,0:16:14.86,English,,0,0,0,,there's a lot of opposition towards the current government in Iran.\N{\rChinese}在伊朗，现政府面临大规模反对派势力。
+Dialogue: 0,0:16:15.24,0:16:19.00,English,,0,0,0,,As some of you know, there have been some protests over the past few years.\N{\rChinese}正如你们所知，近数年间已有多次示威。
+Dialogue: 0,0:16:19.34,0:16:22.80,English,,0,0,0,,Women protesting for more rights in Iran.\N{\rChinese}妇女在伊朗为争取更多权利而示威。
+Dialogue: 0,0:16:23.14,0:16:25.08,English,,0,0,0,,So there's a lot of division in that country.\N{\rChinese}于是该国内部出现了大规模分裂。
+Dialogue: 0,0:16:26.12,0:16:27.44,English,,0,0,0,,But I think that\N{\rChinese}我认为……
+Dialogue: 0,0:16:27.44,0:16:31.44,English,,0,0,0,,most Iranians would resist an invasion.\N{\rChinese}大多数伊朗人会抵抗入侵。
+Dialogue: 0,0:16:31.86,0:16:33.66,English,,0,0,0,,The reason why is...\N{\rChinese}原因是……
+Dialogue: 0,0:16:33.68,0:16:39.12,English,,0,0,0,,that the Iranians have a very bad history with Westerners. So\N{\rChinese}伊朗人和西方人有着很久的历史恩怨。于是……
+Dialogue: 0,0:16:39.12,0:16:44.80,English,,0,0,0,,the example is the 1953 coup d 'etat.\N{\rChinese}1953年的政变就是例子。
+Dialogue: 0,0:16:45.54,0:16:50.16,English,,0,0,0,,So what happened is that in 1909,\N{\rChinese}于是发生的事是，1909年，
+Dialogue: 0,0:16:50.58,0:16:54.16,English,,0,0,0,,the British discovered oil in Iran.\N{\rChinese}英国人在伊朗发现了油田。
+Dialogue: 0,0:16:54.46,0:16:56.30,English,,0,0,0,,It was called Persia back then.\N{\rChinese}当时它被称为波斯。
+Dialogue: 0,0:16:56.50,0:16:58.12,English,,0,0,0,,So they created a company\N{\rChinese}于是他们创建了一家公司
+Dialogue: 0,0:16:58.12,0:17:03.66,English,,0,0,0,,called the Anglo -Iranian Oil Company.\N{\rChinese}叫做英伊石油公司。
+Dialogue: 0,0:17:03.68,0:17:07.22,English,,0,0,0,,Petroleum company, which we now know as British Petroleum, BP.\N{\rChinese}石油公司，后来我们知道的英国石油公司，BP。
+Dialogue: 0,0:17:08.86,0:17:11.02,English,,0,0,0,,And the idea is that\N{\rChinese}其想法是
+Dialogue: 0,0:17:11.02,0:17:15.50,English,,0,0,0,,this company would be responsible for extracting and selling all the oil.\N{\rChinese}这家公司负责开采并出售所有油料。
+Dialogue: 0,0:17:17.76,0:17:20.42,English,,0,0,0,,But unfortunately, the deal was that\N{\rChinese}但不幸的是，协议是
+Dialogue: 0,0:17:20.42,0:17:21.88,English,,0,0,0,,Iran, Persia,\N{\rChinese}伊朗，波斯王国，
+Dialogue: 0,0:17:21.96,0:17:25.24,English,,0,0,0,,would only get 16% of profits.\N{\rChinese}只获得16%的利润。
+Dialogue: 0,0:17:26.22,0:17:28.22,English,,0,0,0,,They only got 16% of profits.\N{\rChinese}他们只拿到16%的利润。
+Dialogue: 0,0:17:29.98,0:17:32.52,English,,0,0,0,,So the Iranians are very upset about this.\N{\rChinese}于是伊朗人对此非常不满。
+Dialogue: 0,0:17:32.52,0:17:33.76,English,,0,0,0,,It's their oil.\N{\rChinese}那是他们的油。
+Dialogue: 0,0:17:34.28,0:17:37.78,English,,0,0,0,,It's their resource. But they're not getting that much money out of it.\N{\rChinese}那是他们的资源，但他们从中拿不到那么多钱。
+Dialogue: 0,0:17:37.86,0:17:40.72,English,,0,0,0,,It's basically stealing. So for decades,\N{\rChinese}这基本就是抢夺。于是几十年间，
+Dialogue: 0,0:17:41.28,0:17:44.48,English,,0,0,0,,the Iranians have been trying to renegotiate the deal.\N{\rChinese}伊朗人一直在尝试重新谈判这笔交易。
+Dialogue: 0,0:17:44.70,0:17:50.06,English,,0,0,0,,In 1953, the democratically elected government of Iran said to the British,\N{\rChinese}1953年，伊朗民选政府对英国人说：
+Dialogue: 0,0:17:50.24,0:17:52.40,English,,0,0,0,,Listen, let's do 50 -50.\N{\rChinese}听着，来50-50吧。
+Dialogue: 0,0:17:54.26,0:17:55.70,English,,0,0,0,,That's fair. 50 -50.\N{\rChinese}这算公平。50-50。
+Dialogue: 0,0:17:55.76,0:17:58.82,English,,0,0,0,,50% for us, 50% for you.\N{\rChinese}50%给我们，50%给你们。
+Dialogue: 0,0:17:58.94,0:18:02.18,English,,0,0,0,,That's a fair deal. And the British, instead of saying yes,\N{\rChinese}这算公平。英国人于是说是。
+Dialogue: 0,0:18:02.26,0:18:04.54,English,,0,0,0,,said, Let's do 50 -50. And the British and\N{\rChinese}说，来50-50吧。英国人和
+Dialogue: 0,0:18:04.54,0:18:06.64,English,,0,0,0,,the Americans together launched a coup d 'etat\N{\rChinese}美国人一起发动政变
+Dialogue: 0,0:18:06.64,0:18:10.92,English,,0,0,0,,against the democratically elected government of Iran\N{\rChinese}对伊朗民选政府的对抗
+Dialogue: 0,0:18:10.92,0:18:14.32,English,,0,0,0,,and installed a police state called the Shah.\N{\rChinese}并建立了被称为沙阿的警察国家
+Dialogue: 0,0:18:15.36,0:18:19.58,English,,0,0,0,,The Shah. Which is like the monarchy.\N{\rChinese}沙阿，类似于君主制。
+Dialogue: 0,0:18:19.82,0:18:23.00,English,,0,0,0,,And the Shah, the king of Iran,\N{\rChinese}沙阿，伊朗的国王。
+Dialogue: 0,0:18:23.26,0:18:26.62,English,,0,0,0,,was so brutal that he created a police state.\N{\rChinese}那场斗争如此残酷，以至建立了警察国家。
+Dialogue: 0,0:18:27.26,0:18:32.28,English,,0,0,0,,In 1979, the Iranian people overthrew the Shah.\N{\rChinese}1979年，伊朗人民推翻了沙阿。
+Dialogue: 0,0:18:32.50,0:18:34.46,English,,0,0,0,,And so\N{\rChinese}于是如此
+Dialogue: 0,0:18:34.46,0:18:38.10,English,,0,0,0,,the Iranian people do not like the\N{\rChinese}伊朗人民不喜欢外来侵略者占据资源的想法
+Dialogue: 0,0:18:38.10,0:18:42.30,English,,0,0,0,,idea of foreign invaders coming in and controlling the resources.\N{\rChinese}idea of foreign invaders comingin and controlling the resources.
+Dialogue: 0,0:18:42.50,0:18:46.06,English,,0,0,0,,Does that make sense? So over time,\N{\rChinese}这有道理吗？于是，随着时间的推移，
+Dialogue: 0,0:18:46.14,0:18:47.94,English,,0,0,0,,as Israel and\N{\rChinese}以色列和
+Dialogue: 0,0:18:47.94,0:18:52.38,English,,0,0,0,,as America continues to be aggressive towards Iran,\N{\rChinese}以美继续对伊朗发起攻势，
+Dialogue: 0,0:18:52.68,0:18:56.24,English,,0,0,0,,the population will start to coalesce\N{\rChinese}人们将开始聚合
+Dialogue: 0,0:18:56.24,0:18:59.48,English,,0,0,0,,and fight against the Americans.\N{\rChinese}并与美国作战。
+Dialogue: 0,0:18:59.68,0:19:01.24,English,,0,0,0,,So that's the United Population.\N{\rChinese}于是就是统一的人口。
+Dialogue: 0,0:19:01.24,0:19:03.10,English,,0,0,0,,Second is build alliances.\N{\rChinese}第二层是建盟友。
+Dialogue: 0,0:19:03.80,0:19:07.88,English,,0,0,0,,Now, Iran has two layers of alliance.\N{\rChinese}现在，伊朗有两层联盟。
+Dialogue: 0,0:19:08.18,0:19:11.52,English,,0,0,0,,The first layer is called the Axis of Resistance, right?\N{\rChinese}第一层叫做抗战轴线，对吗？
+Dialogue: 0,0:19:12.38,0:19:15.82,English,,0,0,0,,Which I asked you to research.\N{\rChinese}我请你去研究的那一层。
+Dialogue: 0,0:19:16.42,0:19:17.90,English,,0,0,0,,And the Axis of Resistance\N{\rChinese}以及抗战轴线
+Dialogue: 0,0:19:17.90,0:19:22.36,English,,0,0,0,,includes the Shia\N{\rChinese}包括什叶派
+Dialogue: 0,0:19:22.36,0:19:25.78,English,,0,0,0,,militias in Iraq, Syria,\N{\rChinese}伊拉克、叙利亚的民兵，
+Dialogue: 0,0:19:26.32,0:19:27.80,English,,0,0,0,,Hezbollah in Lebanon,\N{\rChinese}黎巴嫩的真哈瓦德，
+Dialogue: 0,0:19:28.16,0:19:30.92,English,,0,0,0,,Hamas, and the Houthis in Yemen.\N{\rChinese}哈马斯和也门的胡塞组织。
+Dialogue: 0,0:19:31.24,0:19:35.66,English,,0,0,0,,Now, what's important to understand is that this is not an alliance.\N{\rChinese}现在，重要的是要明白这不是一个联盟。
+Dialogue: 0,0:19:36.30,0:19:39.66,English,,0,0,0,,Sorry. What's important to understand is that this is an alliance.\N{\rChinese}抱歉。重要的是要明白这是一场联盟。
+Dialogue: 0,0:19:40.22,0:19:42.70,English,,0,0,0,,They agree to fight together because\N{\rChinese}他们同意一起作战。
+Dialogue: 0,0:19:42.70,0:19:44.62,English,,0,0,0,,they have common interests, which\N{\rChinese}它们有共同的利益，即
+Dialogue: 0,0:19:44.62,0:19:49.84,English,,0,0,0,,is to remain independent of American influence.\N{\rChinese}保持独立于美国影响。
+Dialogue: 0,0:19:51.30,0:19:54.00,English,,0,0,0,,But that does not mean that\N{\rChinese}但这并不意味着
+Dialogue: 0,0:19:54.00,0:19:57.20,English,,0,0,0,,Hamas, Hezbollah, and Houthis take orders from Iran.\N{\rChinese}哈马斯、真纳和胡塞都听从伊朗指挥。
+Dialogue: 0,0:19:58.20,0:19:59.84,English,,0,0,0,,They're not controlled by Iran.\N{\rChinese}它们并非被伊朗掌控。
+Dialogue: 0,0:19:59.84,0:20:02.76,English,,0,0,0,,Iran supports them militarily and financially,\N{\rChinese}伊朗在军力和经费上支持它们。
+Dialogue: 0,0:20:03.00,0:20:06.20,English,,0,0,0,,but Iran cannot completely control their behavior.\N{\rChinese}但伊朗并不能完全掌控它们的行动。
+Dialogue: 0,0:20:07.26,0:20:09.42,English,,0,0,0,,So the example is, on October 7th,\N{\rChinese}比如说，10月7日，
+Dialogue: 0,0:20:09.42,0:20:13.28,English,,0,0,0,,Hamas launched an attack against Israel, right?\N{\rChinese}哈马斯向以色列发动了攻击，对吧？
+Dialogue: 0,0:20:13.42,0:20:15.04,English,,0,0,0,,Which resulted in this war.\N{\rChinese}这导致了这场战争。
+Dialogue: 0,0:20:15.70,0:20:18.18,English,,0,0,0,,And Iran says, we were not involved.\N{\rChinese}伊朗则说，自己并未参与。
+Dialogue: 0,0:20:19.04,0:20:22.32,English,,0,0,0,,And Israel says, that can't be true\N{\rChinese}以色列则说，这不可能是真的。
+Dialogue: 0,0:20:22.32,0:20:25.08,English,,0,0,0,,because you control Hamas.\N{\rChinese}因为你掌控哈马斯。
+Dialogue: 0,0:20:25.66,0:20:28.60,English,,0,0,0,,So that's the first layer of alliance.\N{\rChinese}所以这就是联盟的第一层。
+Dialogue: 0,0:20:28.60,0:20:31.96,English,,0,0,0,,But what Iran needs to do,\N{\rChinese}但伊朗需要做的是，
+Dialogue: 0,0:20:32.16,0:20:36.74,English,,0,0,0,,if it is to win the war, is also bring in Russia and China.\N{\rChinese}如果要赢得这场战争，还要拉入俄罗斯和中国。
+Dialogue: 0,0:20:43.30,0:20:46.22,English,,0,0,0,,Russia wants the United States to fight Iran.\N{\rChinese}俄罗斯希望美国去对抗伊朗。
+Dialogue: 0,0:20:46.40,0:20:51.22,English,,0,0,0,,Why? Yeah,\N{\rChinese}为什么？是啊，
+Dialogue: 0,0:20:51.30,0:20:55.00,English,,0,0,0,,but, true, to distract and weaken the United States,\N{\rChinese}但，确实如此，为了分散并削弱美国，
+Dialogue: 0,0:20:56.06,0:21:00.36,English,,0,0,0,,and also to move the attention away from Ukraine, right?\N{\rChinese}并且把注意力转移到乌克兰之外，对吗？
+Dialogue: 0,0:21:00.84,0:21:03.52,English,,0,0,0,,Does that make sense? Because Russia is about to win the war in Ukraine,\N{\rChinese}这有道理吗？因为俄罗斯正要在乌克兰赢得战争。
+Dialogue: 0,0:21:04.94,0:21:06.94,English,,0,0,0,,and if there's a war in Iran, then\N{\rChinese}如果伊朗爆发战争，那么
+Dialogue: 0,0:21:06.94,0:21:12.20,English,,0,0,0,,the United States will be forced to divert resources away from Ukraine into Iran,\N{\rChinese}美国将被迫把资源从乌克兰调往伊朗，
+Dialogue: 0,0:21:12.34,0:21:15.74,English,,0,0,0,,okay? What would Russia bring to the table?\N{\rChinese}好的？俄罗斯会带来什么？
+Dialogue: 0,0:21:15.90,0:21:18.74,English,,0,0,0,,Russia would probably not deploy soldiers, okay?\N{\rChinese}俄罗斯大概不会派兵，好的？
+Dialogue: 0,0:21:18.96,0:21:21.52,English,,0,0,0,,But what Russia would do is say to the United States,\N{\rChinese}但俄罗斯会这么说：
+Dialogue: 0,0:21:22.48,0:21:24.50,English,,0,0,0,,when you invade Iran,\N{\rChinese}当你入侵伊朗时，
+Dialogue: 0,0:21:24.50,0:21:29.24,English,,0,0,0,,you are not allowed to use tactical nuclear weapons,\N{\rChinese}你们不可以使用战术核武器，
+Dialogue: 0,0:21:29.40,0:21:30.74,English,,0,0,0,,okay? You understand?\N{\rChinese}好的？你明白了吗？
+Dialogue: 0,0:21:31.32,0:21:34.20,English,,0,0,0,,Russia would say that, hey, hey, hey, United States,\N{\rChinese}俄罗斯会这么说，嘿，嘿，嘿，美国，
+Dialogue: 0,0:21:34.30,0:21:36.96,English,,0,0,0,,if you use weapons, nuclear weapons, against Iran,\N{\rChinese}如果你用武器，核武器，对付伊朗，
+Dialogue: 0,0:21:37.16,0:21:39.60,English,,0,0,0,,we will use nuclear weapons against you, okay?\N{\rChinese}我们会用核武器打你，好吗？
+Dialogue: 0,0:21:40.10,0:21:41.14,English,,0,0,0,,So basically,\N{\rChinese}所以基本上，
+Dialogue: 0,0:21:41.34,0:21:46.40,English,,0,0,0,,Russia would limit the military options of America in a war,\N{\rChinese}俄罗斯会在战争中限制美国的军事选择
+Dialogue: 0,0:21:46.52,0:21:49.46,English,,0,0,0,,which would be of tremendous benefit and advantage to Iran.\N{\rChinese}这将为伊朗带来巨大的利益和优势。
+Dialogue: 0,0:21:49.76,0:21:54.48,English,,0,0,0,,Does that make sense? China needs to help Iran.\N{\rChinese}这有道理吗？中国需要帮助伊朗。
+Dialogue: 0,0:21:54.50,0:21:58.74,English,,0,0,0,,Why? What does Iran have that China really needs?\N{\rChinese}为什么？伊朗有什么中国真正需要的？
+Dialogue: 0,0:22:03.16,0:22:06.46,English,,0,0,0,,What does Iran have that China really, really needs?\N{\rChinese}伊朗有什么中国真正、真正需要的？
+Dialogue: 0,0:22:06.78,0:22:08.00,English,,0,0,0,,It really needs this.\N{\rChinese}它真的需要这个。
+Dialogue: 0,0:22:11.38,0:22:13.10,English,,0,0,0,,The Chinese economy needs what?\N{\rChinese}中国经济需要什么？
+Dialogue: 0,0:22:15.36,0:22:18.82,English,,0,0,0,,Oil, right? So\N{\rChinese}油吧？
+Dialogue: 0,0:22:18.82,0:22:22.96,English,,0,0,0,,basically, China can afford for the United States to take over both Iraq\N{\rChinese}基本上，中国可以让美国接管伊拉克两国
+Dialogue: 0,0:22:22.96,0:22:24.62,English,,0,0,0,,and Iran, because then\N{\rChinese}以及伊朗，因为接着
+Dialogue: 0,0:22:24.62,0:22:28.48,English,,0,0,0,,it can control the energy supply to China.\N{\rChinese}它可以控制能源供应给中国。
+Dialogue: 0,0:22:28.62,0:22:30.14,English,,0,0,0,,Does that make sense? So\N{\rChinese}这有道理吗？所以
+Dialogue: 0,0:22:30.14,0:22:35.06,English,,0,0,0,,China would involve itself over time in order to make sure\N{\rChinese}中国会在一段时间内介入，以确保
+Dialogue: 0,0:22:35.54,0:22:39.18,English,,0,0,0,,that it's able to obtain oil from the Middle East.\N{\rChinese}它能够从中东获得石油。
+Dialogue: 0,0:22:39.96,0:22:45.40,English,,0,0,0,,China right now is getting most of its oil from the Middle East, okay? But\N{\rChinese}现在中国大部分石油来自中东，好吗？但
+Dialogue: 0,0:22:45.40,0:22:50.92,English,,0,0,0,,it will take time for Russia\N{\rChinese}俄罗斯需要时间
+Dialogue: 0,0:22:50.92,0:22:52.58,English,,0,0,0,,and China to get themselves involved.\N{\rChinese}中国也需要时间介入。
+Dialogue: 0,0:22:52.58,0:22:56.70,English,,0,0,0,,For Russia and China to get themselves involved in this conflict,\N{\rChinese}为了让俄罗斯和中国介入这场冲突，
+Dialogue: 0,0:22:56.98,0:22:58.52,English,,0,0,0,,Iran must prove two things.\N{\rChinese}伊朗必须证明两件事。
+Dialogue: 0,0:22:58.74,0:22:59.74,English,,0,0,0,,What are these two things?\N{\rChinese}这两件事是什么？
+Dialogue: 0,0:23:05.62,0:23:07.98,English,,0,0,0,,What must Iran show to China and\N{\rChinese}伊朗必须向中国和俄罗斯展示什么？
+Dialogue: 0,0:23:07.98,0:23:12.28,English,,0,0,0,,Russia in order to get China and Russia involved in this conflict?\N{\rChinese}以便让中国和俄罗斯介入这场冲突？
+Dialogue: 0,0:23:15.28,0:23:17.86,English,,0,0,0,,If you're China and Russia, you're an investor, right?\N{\rChinese}如果你是中国和俄罗斯，你就是投资者，对吧？
+Dialogue: 0,0:23:17.98,0:23:19.98,English,,0,0,0,,Why will I invest in you, Iran?\N{\rChinese}为什么我要投资你，伊朗？
+Dialogue: 0,0:23:20.16,0:23:23.10,English,,0,0,0,,Why? Why? Because you're an investor.\N{\rChinese}为什么？为什么？因为你是投资者。
+Dialogue: 0,0:23:23.20,0:23:26.46,English,,0,0,0,,Exactly, okay? So the first thing is we will fight.\N{\rChinese}对，没错。第一件事是我们会战斗。
+Dialogue: 0,0:23:26.62,0:23:28.96,English,,0,0,0,,Second thing is we will win, okay?\N{\rChinese}第二件事是我们会赢，没错？
+Dialogue: 0,0:23:29.10,0:23:31.68,English,,0,0,0,,So this will take time for Iran\N{\rChinese}于是这件事会花时间让伊朗证明给俄罗斯听见
+Dialogue: 0,0:23:31.68,0:23:35.72,English,,0,0,0,,to prove this to Russia\N{\rChinese}to prove this toRussia
+Dialogue: 0,0:23:35.72,0:23:38.42,English,,0,0,0,,and China. And the more that\N{\rChinese}和中国。越多……
+Dialogue: 0,0:23:38.42,0:23:41.44,English,,0,0,0,,Iran can show it can win, the more that\N{\rChinese}伊朗能展示其胜利，越多……
+Dialogue: 0,0:23:41.44,0:23:44.14,English,,0,0,0,,China and Russia will invest in Iran,\N{\rChinese}中国和俄罗斯将越多投资伊朗
+Dialogue: 0,0:23:44.36,0:23:46.92,English,,0,0,0,,both financially and militarily and politically, okay?\N{\rChinese}两方面都包括财政、军事和政治，没错？
+Dialogue: 0,0:23:46.94,0:23:49.22,English,,0,0,0,,Does that make sense? Okay, so this will take time.\N{\rChinese}这有道理吗？好吧，这会花时间。
+Dialogue: 0,0:23:49.58,0:23:52.56,English,,0,0,0,,And the third thing is win global war.\N{\rChinese}第三件事是赢得全球战争。
+Dialogue: 0,0:23:56.16,0:23:57.76,English,,0,0,0,,govern govern govern govern\N{\rChinese}治理治理治理治理
+Dialogue: 0,0:23:58.66,0:23:59.94,English,,0,0,0,,govern govern govern\N{\rChinese}治理治理治理
+Dialogue: 0,0:24:03.06,0:24:04.48,English,,0,0,0,,govern govern govern govern govern govern\N{\rChinese}治理治理治理治理治理治理
+Dialogue: 0,0:24:08.84,0:24:12.48,English,,0,0,0,,govern govern govern govern govern govern govern govern\N{\rChinese}治理治理治理治理治理治理治理治理
+Dialogue: 0,0:24:20.44,0:24:23.50,English,,0,0,0,,govern govern govern thing is happening right now\N{\rChinese}治理治理治理事情正在发生现在
+Dialogue: 0,0:24:23.50,0:24:25.92,English,,0,0,0,,that is outraging or angering the world?\N{\rChinese}那正是让世界惊叹或愤怒的事？
+Dialogue: 0,0:24:32.72,0:24:36.36,English,,0,0,0,,What's happening right now? What's Israel doing right now that is outraging the world?\N{\rChinese}现在发生了什么？以色列现在在做什么让世界惊叹？
+Dialogue: 0,0:24:38.10,0:24:41.22,English,,0,0,0,,Yeah, Gaza, okay? So\N{\rChinese}是的，戛撒，好的？所以……
+Dialogue: 0,0:24:41.22,0:24:43.52,English,,0,0,0,,this is really important for Iran.\N{\rChinese}这对伊朗来说真的很重要。
+Dialogue: 0,0:24:43.98,0:24:48.60,English,,0,0,0,,It must maintain the world spotlight on Gaza,\N{\rChinese}它必须让世界的聚光继续聚焦在加沙，
+Dialogue: 0,0:24:48.98,0:24:52.26,English,,0,0,0,,okay? Because what's happening in Gaza, it's basically genocide,\N{\rChinese}好的？因为加沙正在发生的事，基本就是大屠杀，
+Dialogue: 0,0:24:52.70,0:24:57.78,English,,0,0,0,,right? Where the Israelis are committed to solving the Palestinian problem once\N{\rChinese}对吗？以色列正致力一次性解决巴勒斯坦问题
+Dialogue: 0,0:24:57.78,0:25:02.76,English,,0,0,0,,and for all. That basically means removing the Palestinians from Gaza.\N{\rChinese}并且对所有人而言。基本就是把巴勒斯坦人从加沙搬走。
+Dialogue: 0,0:25:03.04,0:25:04.52,English,,0,0,0,,They can go to Egypt.\N{\rChinese}他们可以去埃及。
+Dialogue: 0,0:25:04.68,0:25:06.24,English,,0,0,0,,They can go to Jordan. It doesn't matter.\N{\rChinese}他们可以去约旦。没什么区别。
+Dialogue: 0,0:25:06.38,0:25:09.56,English,,0,0,0,,Okay? But the Israelis want them out of Gaza.\N{\rChinese}好的？但以色列人想把他们从加沙搬走。
+Dialogue: 0,0:25:10.12,0:25:13.56,English,,0,0,0,,Okay? And so this will go on for many, many years.\N{\rChinese}好的？于是这件事会持续好几年。
+Dialogue: 0,0:25:13.82,0:25:17.88,English,,0,0,0,,And as long as the attention is on Gaza.\N{\rChinese}只要注意力一直聚焦在加沙。
+Dialogue: 0,0:25:17.88,0:25:22.54,English,,0,0,0,,then people will become much more sympathetic towards Iran over time.\N{\rChinese}于是人们会随着时间对伊朗产生更深的同情。
+Dialogue: 0,0:25:23.38,0:25:25.66,English,,0,0,0,,If you've been following the news about America,\N{\rChinese}如果你一直关注美国的新闻，
+Dialogue: 0,0:25:25.90,0:25:29.38,English,,0,0,0,,there have been major protests at Yale\N{\rChinese}在耶鲁大学已经出现大规模示威。
+Dialogue: 0,0:25:29.38,0:25:32.86,English,,0,0,0,,and at Columbia and other universities about what's happening in Gaza.\N{\rChinese}在哥伦比亚大学和其他高校讨论加沙的情况。
+Dialogue: 0,0:25:34.66,0:25:38.42,English,,0,0,0,,And the last is weaken the enemy.\N{\rChinese}最后一点是削弱敌人。
+Dialogue: 0,0:25:38.66,0:25:39.96,English,,0,0,0,,So what does this mean?\N{\rChinese}那这意味着什么呢？
+Dialogue: 0,0:25:40.06,0:25:44.50,English,,0,0,0,,It means that when the United States invades Iran,\N{\rChinese}这意味着当美国入侵伊朗时，
+Dialogue: 0,0:25:44.96,0:25:47.94,English,,0,0,0,,two years from now, six years from now, who knows, but when\N{\rChinese}两年后，六年后，谁知道，但当……
+Dialogue: 0,0:25:47.94,0:25:51.50,English,,0,0,0,,it does, so, it wants to build a large coalition of forces,\N{\rChinese}它完成后，它想组建一个大联盟的力量
+Dialogue: 0,0:25:51.80,0:25:54.26,English,,0,0,0,,okay, because then, it gives, because, then,\N{\rChinese}好的，因为这样，它就给自己合法性，右边，所以，这个
+Dialogue: 0,0:25:54.30,0:25:56.72,English,,0,0,0,,it gives itself legitimacy, right, so, this,\N{\rChinese}it gives itself legitimacy, right, so, this,
+Dialogue: 0,0:25:56.72,0:26:00.22,English,,0,0,0,,this coalition, will,\N{\rChinese}这个联盟将，
+Dialogue: 0,0:26:00.36,0:26:04.66,English,,0,0,0,,consist, of, NATO, Middle East, countries, right,\N{\rChinese}由北约中东国家组成，对吧，
+Dialogue: 0,0:26:08.06,0:26:11.18,English,,0,0,0,,and, Israel, Saudi, Arabia, many, many,\N{\rChinese}和以色列、沙特尔、阿拉伯、许多、许多，
+Dialogue: 0,0:26:11.20,0:26:14.92,English,,0,0,0,,countries, and, what, Iran, needs, to, do, is,\N{\rChinese}国家，和，伊朗需要做的事是，
+Dialogue: 0,0:26:15.64,0:26:20.18,English,,0,0,0,,create, a, conflict and dissent in this coalition.\N{\rChinese}创建内部纷争与分歧
+Dialogue: 0,0:26:21.28,0:26:23.40,English,,0,0,0,,And the way it does that\N{\rChinese}并以此方式实现
+Dialogue: 0,0:26:23.40,0:26:28.56,English,,0,0,0,,is by building up internal dissent.\N{\rChinese}通过内部纷争来实现。
+Dialogue: 0,0:26:32.70,0:26:34.00,English,,0,0,0,,Okay, does that make sense?\N{\rChinese}这样说对吗？
+Dialogue: 0,0:26:34.68,0:26:38.92,English,,0,0,0,,There are many people, most people in America do not support a war against Iran.\N{\rChinese}有很多人，绝大多数美国人不支持对伊朗的战争。
+Dialogue: 0,0:26:39.94,0:26:44.66,English,,0,0,0,,And so Iran needs to encourage this internal dissent.\N{\rChinese}于是伊朗需要激发内部纷争。
+Dialogue: 0,0:26:46.40,0:26:50.98,English,,0,0,0,,It can also create conflict between NATO\N{\rChinese}它也能在北约与美国之间制造冲突，行吗？
+Dialogue: 0,0:26:50.98,0:26:53.22,English,,0,0,0,,and the United States, okay?\N{\rChinese}因为显然，美国会想让北约参与对伊朗的入侵。
+Dialogue: 0,0:26:53.66,0:26:58.58,English,,0,0,0,,Because obviously, America will want NATO involved in its invasion of Iran,\N{\rChinese}Because obviously, America will wantNATO involved in its invasion of Iran,
+Dialogue: 0,0:26:58.86,0:27:02.34,English,,0,0,0,,but why would France and Germany want to involve itself, right?\N{\rChinese}但为什么法国和德国会想要介入呢？
+Dialogue: 0,0:27:03.42,0:27:05.40,English,,0,0,0,,Okay, does that make sense? So\N{\rChinese}好，明白了？
+Dialogue: 0,0:27:05.40,0:27:09.76,English,,0,0,0,,these are the four major goals of Iran,\N{\rChinese}这些就是伊朗的四大目标。
+Dialogue: 0,0:27:10.00,0:27:14.58,English,,0,0,0,,and it must accomplish all four goals,\N{\rChinese}并且要完成这四个目标，
+Dialogue: 0,0:27:15.12,0:27:17.48,English,,0,0,0,,if it is to survive, if it is to survive an invasion,\N{\rChinese}如果它要存活，如果它要在入侵中存活，
+Dialogue: 0,0:27:17.94,0:27:21.70,English,,0,0,0,,okay? So from now on, everything that Iran does\N{\rChinese}好，接下来伊朗所做的一切都…
+Dialogue: 0,0:27:22.54,0:27:24.80,English,,0,0,0,,will be to accomplish all four goals, okay?\N{\rChinese}将完成这四个目标，明白了？
+Dialogue: 0,0:27:24.86,0:27:27.66,English,,0,0,0,,And this is part of asymmetrical warfare.\N{\rChinese}这属于非对称作战的一部分。
+Dialogue: 0,0:27:29.80,0:27:33.54,English,,0,0,0,,Does that make sense? All right, now let's look at a concrete example.\N{\rChinese}明白了？现在我们来看一个具体例子。
+Dialogue: 0,0:27:33.82,0:27:38.72,English,,0,0,0,,The concrete example is Operation True Promise.\N{\rChinese}具体例子是“真诚承诺”行动。
+Dialogue: 0,0:27:39.06,0:27:43.84,English,,0,0,0,,Why did Iran design Operation True Promise the way it did?\N{\rChinese}伊朗为什么把“真诚承诺”行动设计成这样？
+Dialogue: 0,0:27:44.02,0:27:48.06,English,,0,0,0,,And the answer is, to accomplish all four goals, right?\N{\rChinese}答案是：为了完成这四个目标，对吧？
+Dialogue: 0,0:27:48.18,0:27:49.92,English,,0,0,0,,The first is unite the population.\N{\rChinese}第一点是团结民众。
+Dialogue: 0,0:27:50.22,0:27:54.74,English,,0,0,0,,The idea here is Iran needed to show its population\N{\rChinese}这里的想法是伊朗需要向其民众展示其能对以色列反击。
+Dialogue: 0,0:27:54.74,0:27:58.32,English,,0,0,0,,that Iran can strike back against Israel, okay?\N{\rChinese}这样做能让伊朗民众看到其有能力反击以色列。
+Dialogue: 0,0:27:59.38,0:28:02.16,English,,0,0,0,,So that's the first thing. Build alliances.\N{\rChinese}于是第一件事就是组建同盟。
+Dialogue: 0,0:28:04.16,0:28:07.82,English,,0,0,0,,Striking Israel is showing its allies\N{\rChinese}打击以色列是向其盟友展示的。
+Dialogue: 0,0:28:07.82,0:28:11.50,English,,0,0,0,,and to China and Russia that Iran is willing to fight, okay?\N{\rChinese}并向中俄表明伊朗愿意作战，行吗？
+Dialogue: 0,0:28:13.90,0:28:15.20,English,,0,0,0,,When the law of the world is in place,\N{\rChinese}当世界法则已成形，
+Dialogue: 0,0:28:15.22,0:28:17.64,English,,0,0,0,,govern govern govern\N{\rChinese}治理治理治理
+Dialogue: 0,0:28:17.64,0:28:21.46,English,,0,0,0,,govern govern\N{\rChinese}治理治理
+Dialogue: 0,0:28:21.46,0:28:24.88,English,,0,0,0,,govern govern\N{\rChinese}治理治理
+Dialogue: 0,0:28:24.88,0:28:30.28,English,,0,0,0,,govern govern govern govern govern govern govern govern govern govern\N{\rChinese}治理治理治理治理治理治理治理治理治理治理
+Dialogue: 0,0:28:30.28,0:28:35.68,English,,0,0,0,,govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern\N{\rChinese}治理治理治理治理治理治理治理治理治理治理
+Dialogue: 0,0:28:35.68,0:28:37.44,English,,0,0,0,,govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern\N{\rChinese}治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理 治理
+Dialogue: 0,0:28:37.44,0:28:43.40,English,,0,0,0,,govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern Okay,\N{\rChinese}治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理
+Dialogue: 0,0:28:43.46,0:28:46.82,English,,0,0,0,,does that make sense? All right, and if you are an observer,\N{\rChinese}那样说通了吗？好了，如果你是观察者，
+Dialogue: 0,0:28:47.24,0:28:50.20,English,,0,0,0,,you think that what Iran did was right\N{\rChinese}你认为伊朗所做的是对的
+Dialogue: 0,0:28:50.20,0:28:52.94,English,,0,0,0,,because it's a sense of fairness and justice, right?\N{\rChinese}因为这是一种公平正义的感觉，对吧？
+Dialogue: 0,0:28:53.30,0:28:54.92,English,,0,0,0,,What Israel did was wrong.\N{\rChinese}以色列所做的是错的。
+Dialogue: 0,0:28:55.06,0:28:58.44,English,,0,0,0,,It attacked an embassy of Iran in Damascus.\N{\rChinese}它攻击了驻大马士干的伊朗大使馆。
+Dialogue: 0,0:28:58.54,0:29:01.58,English,,0,0,0,,That's against international law.\N{\rChinese}对国际法是违反的。
+Dialogue: 0,0:29:03.54,0:29:06.14,English,,0,0,0,,And Iran, to save face,\N{\rChinese}伊朗为了保面子，
+Dialogue: 0,0:29:06.28,0:29:10.30,English,,0,0,0,,to pursue justice, threw some rockets at Israel.\N{\rChinese}为了追求正义，向以色列发射了一些火箭。
+Dialogue: 0,0:29:10.30,0:29:13.46,English,,0,0,0,,Okay? So most people think that\N{\rChinese}好的？所以大多数人认为是这样。
+Dialogue: 0,0:29:13.46,0:29:16.62,English,,0,0,0,,Iran's response showed restraint and\N{\rChinese}伊朗的回应表现出克制，且是一次有度的回应。
+Dialogue: 0,0:29:16.62,0:29:18.94,English,,0,0,0,,it was a measured response.\N{\rChinese}它是一种有节制的回应。
+Dialogue: 0,0:29:19.18,0:29:23.04,English,,0,0,0,,Okay, does that make sense? All right, and the last thing is weaken the enemy.\N{\rChinese}好的，听得懂吗？好了，最后一点是让敌人变弱。
+Dialogue: 0,0:29:23.28,0:29:24.76,English,,0,0,0,,Why would this weaken the enemy?\N{\rChinese}为什么这会让敌人变弱？
+Dialogue: 0,0:29:24.98,0:29:26.58,English,,0,0,0,,Well, because\N{\rChinese}好吧，因为
+Dialogue: 0,0:29:26.58,0:29:30.20,English,,0,0,0,,after Iran attacked Israel,\N{\rChinese}在伊朗袭击以色列之后，
+Dialogue: 0,0:29:30.66,0:29:34.02,English,,0,0,0,,Israel wanted to show a strong response.\N{\rChinese}以色列想要展示强有力的回应。
+Dialogue: 0,0:29:34.34,0:29:36.38,English,,0,0,0,,Okay? The reason why is that\N{\rChinese}好的？原因是
+Dialogue: 0,0:29:36.38,0:29:40.28,English,,0,0,0,,Israel has a policy of disproportionality.\N{\rChinese}以色列实行不对称政策。
+Dialogue: 0,0:29:45.46,0:29:49.40,English,,0,0,0,,So Israel is committed to disproportionality.\N{\rChinese}所以以色列已决定采取不对称行动。
+Dialogue: 0,0:29:49.62,0:29:52.12,English,,0,0,0,,So what does that mean? It means that\N{\rChinese}那又意味着什么？就是这样：
+Dialogue: 0,0:29:52.12,0:29:55.04,English,,0,0,0,,if you kill one Israeli, they'll come\N{\rChinese}如果你杀了一个以色列人，他们就会来
+Dialogue: 0,0:29:55.04,0:29:57.96,English,,0,0,0,,and kill about 100 of you, 1,000 of you.\N{\rChinese}并且杀掉你们大约一百人。
+Dialogue: 0,0:29:58.06,0:30:01.74,English,,0,0,0,,Okay? If you throw one rocket at them, they'll throw 1,000 rockets at you.\N{\rChinese}好？如果你向他们发射一枚火箭，他们就会向你发射一千枚火箭。
+Dialogue: 0,0:30:02.40,0:30:04.86,English,,0,0,0,,And the idea here is deterrence, right?\N{\rChinese}并且这里的想法是威慑，对吧？
+Dialogue: 0,0:30:05.16,0:30:09.78,English,,0,0,0,,To make you afraid of Israel so you would not dare to think to attack Israel.\N{\rChinese}让你害怕以色列，才不敢想去攻击以色列。
+Dialogue: 0,0:30:11.88,0:30:14.04,English,,0,0,0,,Okay? So when\N{\rChinese}好的？那时
+Dialogue: 0,0:30:14.04,0:30:16.74,English,,0,0,0,,Iran attacked Israel,\N{\rChinese}伊朗攻击以色列
+Dialogue: 0,0:30:16.84,0:30:19.46,English,,0,0,0,,for the first time, by the way, this is the first time that\N{\rChinese}顺便说一句，这是伊朗第一次攻击以色列。
+Dialogue: 0,0:30:19.46,0:30:22.14,English,,0,0,0,,Iran has attacked Israel, then\N{\rChinese}随后
+Dialogue: 0,0:30:22.14,0:30:25.66,English,,0,0,0,,Israel was committed to a disproportionate response.\N{\rChinese}以色列已决定作出不成比例的回应。
+Dialogue: 0,0:30:26.26,0:30:29.54,English,,0,0,0,,Who stopped Israel from a disproportionate response?\N{\rChinese}谁让以色列不再作出不成比例的回应？
+Dialogue: 0,0:30:31.52,0:30:36.06,English,,0,0,0,,Who? Yes,\N{\rChinese}谁？是的，
+Dialogue: 0,0:30:36.26,0:30:39.96,English,,0,0,0,,why? Why would the United States say, Israel, do not attack?\N{\rChinese}为什么？美国会说‘以色列，别攻击’吗？
+Dialogue: 0,0:30:42.08,0:30:45.68,English,,0,0,0,,govern Israel? govern Israel?\N{\rChinese}治理以色列？治理以色列？
+Dialogue: 0,0:30:45.78,0:30:47.18,English,,0,0,0,,govern Israel? govern Israel? govern Israel?\N{\rChinese}治理以色列？治理以色列？治理以色列？
+Dialogue: 0,0:30:48.24,0:30:52.20,English,,0,0,0,,govern Israel? govern Israel?\N{\rChinese}治理以色列？治理以色列？
+Dialogue: 0,0:30:52.44,0:30:53.96,English,,0,0,0,,govern Israel? govern Israel? govern Israel?\N{\rChinese}治理以色列？治理以色列？治理以色列？
+Dialogue: 0,0:30:54.28,0:30:55.62,English,,0,0,0,,govern Israel? govern Israel?\N{\rChinese}治理以色列？治理以色列？
+Dialogue: 0,0:30:56.18,0:30:57.82,English,,0,0,0,,govern Israel? govern Israel? govern Israel? govern Israel? govern Israel? govern Israel?\N{\rChinese}治理以色列？治理以色列？治理以色列？治理以色列？治理以色列？
+Dialogue: 0,0:30:58.20,0:31:01.18,English,,0,0,0,,govern Israel? govern Israel? govern Israel? govern Israel?\N{\rChinese}治理以色列？治理以色列？
+Dialogue: 0,0:31:03.98,0:31:07.64,English,,0,0,0,,govern Israel? govern Israel?\N{\rChinese}治理以色列？治理以色列？
+Dialogue: 0,0:31:07.64,0:31:09.88,English,,0,0,0,,So the United States had to restrain Israel,\N{\rChinese}美国必须限制以色列的行动
+Dialogue: 0,0:31:10.41,0:31:13.50,English,,0,0,0,,and so this is creating conflict between Israel\N{\rChinese}于是这导致以色列之间的冲突
+Dialogue: 0,0:31:13.50,0:31:15.40,English,,0,0,0,,and the United States, okay?\N{\rChinese}以及美国，好吗？
+Dialogue: 0,0:31:16.79,0:31:20.02,English,,0,0,0,,So that's why, so in other words,\N{\rChinese}所以这就是原因，换句话说，
+Dialogue: 0,0:31:20.79,0:31:24.16,English,,0,0,0,,from a military dominance perspective,\N{\rChinese}从军事统治视角来看，
+Dialogue: 0,0:31:24.44,0:31:28.20,English,,0,0,0,,Operation True Promise accomplished nothing, okay, because you blew nothing up.\N{\rChinese}真承诺行动没有完成任何事，嗯，因为你没炸任何东西。
+Dialogue: 0,0:31:28.48,0:31:32.28,English,,0,0,0,,But from an asymmetrical warfare perspective,\N{\rChinese}但从不对称战争的视角来看，
+Dialogue: 0,0:31:32.28,0:31:37.54,English,,0,0,0,,you accomplish all your four major goals,\N{\rChinese}你实现了四个主要目标
+Dialogue: 0,0:31:37.88,0:31:41.24,English,,0,0,0,,and that's why the Iranians claim success.\N{\rChinese}于是伊朗人就宣称成功。
+Dialogue: 0,0:31:42.14,0:31:44.54,English,,0,0,0,,And you can make the argument that from a strategy perspective,\N{\rChinese}你也可以说，从战略角度来看，
+Dialogue: 0,0:31:44.94,0:31:47.86,English,,0,0,0,,it was a very successful operation, okay?\N{\rChinese}这是一场非常成功的行动，嗯？
+Dialogue: 0,0:31:47.94,0:31:52.40,English,,0,0,0,,Does that make sense? All right, any questions about this?\N{\rChinese}那有道理吗？好了，关于这点还有问题吗？
+Dialogue: 0,0:31:58.48,0:32:00.66,English,,0,0,0,,Anything you want to clarify,\N{\rChinese}你想补充什么吗？
+Dialogue: 0,0:32:01.26,0:32:02.62,English,,0,0,0,,or you don't want to say? I don't really understand.\N{\rChinese}或者你不想说什么？我还没完全懂。
+Dialogue: 0,0:32:05.22,0:32:06.28,English,,0,0,0,,Does this make sense to you?\N{\rChinese}这有道理吗？
+Dialogue: 0,0:32:17.90,0:32:20.28,English,,0,0,0,,Okay, so Peter asked a great question, like,\N{\rChinese}好的，彼得问了个很好的问题，像是，
+Dialogue: 0,0:32:20.32,0:32:23.42,English,,0,0,0,,this war, how will it affect us?\N{\rChinese}这场战争，怎么会影响我们？
+Dialogue: 0,0:32:23.48,0:32:26.90,English,,0,0,0,,We're going to the United States for college, we're Chinese students, okay,\N{\rChinese}我们要去美国读大学，咱们是中国学生，好的，
+Dialogue: 0,0:32:26.94,0:32:28.98,English,,0,0,0,,and the answer is this, okay, the answer is,\N{\rChinese}答案就是这样，好的，答案是，
+Dialogue: 0,0:32:29.00,0:32:38.64,English,,0,0,0,,in a world that's something called rules of engagement, govern govern\N{\rChinese}在一个被称为交战规则的世界里，治理治理
+Dialogue: 0,0:32:38.64,0:32:44.86,English,,0,0,0,,govern govern\N{\rChinese}治理治理
+Dialogue: 0,0:32:44.86,0:32:48.78,English,,0,0,0,,govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern\N{\rChinese}治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理
+Dialogue: 0,0:32:51.80,0:32:55.04,English,,0,0,0,,govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern\N{\rChinese}治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理治理
+Dialogue: 0,0:32:55.04,0:33:00.44,English,,0,0,0,,govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern govern We allow\N{\rChinese}我们允许
+Dialogue: 0,0:33:00.44,0:33:05.80,English,,0,0,0,,that. We will not allow NATO to send\N{\rChinese}那样。我们不允许北约派遣部队与乌克兰人作战。
+Dialogue: 0,0:33:05.80,0:33:08.80,English,,0,0,0,,troops to fight with the Ukrainians,\N{\rChinese}troops to fightwith the Ukrainians,
+Dialogue: 0,0:33:08.84,0:33:13.52,English,,0,0,0,,but we will allow NATO and the United States to provide weapons and financing.\N{\rChinese}但我们会允许北约和美国提供武器和资金。
+Dialogue: 0,0:33:13.72,0:33:17.80,English,,0,0,0,,Does that make sense? This is what we call the rules of engagement, the rules of war.\N{\rChinese}这有道理吗？这就是我们所说的交战规则，战争规则。
+Dialogue: 0,0:33:21.10,0:33:25.64,English,,0,0,0,,So the same thing would happen if the United States were to invade Iraq.\N{\rChinese}同样的事如果美国入侵伊拉克也会发生。
+Dialogue: 0,0:33:25.64,0:33:27.12,English,,0,0,0,,Before the actual invasion,\N{\rChinese}在实际入侵之前，
+Dialogue: 0,0:33:27.66,0:33:30.50,English,,0,0,0,,there would be an agreement among all major parties, which\N{\rChinese}所有主要方会达成协议，
+Dialogue: 0,0:33:30.50,0:33:33.56,English,,0,0,0,,would include Iran, the United States, Russia,\N{\rChinese}其中包括伊朗、美国、俄罗斯
+Dialogue: 0,0:33:33.80,0:33:35.90,English,,0,0,0,,China, Israel, about the rules of war.\N{\rChinese}中国、以色列，关于战事规则。
+Dialogue: 0,0:33:36.26,0:33:37.22,English,,0,0,0,,And so\N{\rChinese}于是如此。
+Dialogue: 0,0:33:37.22,0:33:42.64,English,,0,0,0,,one important rule of war is you're not allowed to use tactical nuclear weapons.\N{\rChinese}一条重要的战事规则是你们不可以使用战术核武器。
+Dialogue: 0,0:33:43.00,0:33:46.18,English,,0,0,0,,Iran, you may have nuclear weapons, you're not allowed to use them.\N{\rChinese}伊朗，你们可能拥有核武器，但可使用。
+Dialogue: 0,0:33:46.62,0:33:48.48,English,,0,0,0,,The United States, you have nuclear weapons.\N{\rChinese}美国，你们拥有核武器。
+Dialogue: 0,0:33:48.66,0:33:52.44,English,,0,0,0,,Israel, you have nuclear weapons, but you are not allowed to use them in this war.\N{\rChinese}以色列，你们拥有核武器，但在此战中可使用。
+Dialogue: 0,0:33:53.12,0:33:55.46,English,,0,0,0,,That would be the first agreement.\N{\rChinese}那将是第一个协议。
+Dialogue: 0,0:33:55.46,0:33:58.60,English,,0,0,0,,The second agreement is that Russia\N{\rChinese}第二个协议是俄罗斯和中国可以在很有限的范围内提供援助。
+Dialogue: 0,0:33:58.60,0:34:03.60,English,,0,0,0,,and China are allowed to provide assistance in a very limited basis.\N{\rChinese}and China are allowed to provide assistance in a very limited basis.
+Dialogue: 0,0:34:05.68,0:34:08.94,English,,0,0,0,,So China would probably provide weapons\N{\rChinese}所以中国可能会提供武器
+Dialogue: 0,0:34:08.94,0:34:10.62,English,,0,0,0,,and material, but\N{\rChinese}以及物资
+Dialogue: 0,0:34:10.62,0:34:13.70,English,,0,0,0,,this will not impact the relationship between China\N{\rChinese}这不会影响中美之间的关系。
+Dialogue: 0,0:34:13.70,0:34:17.64,English,,0,0,0,,and the United States.\N{\rChinese}and the United States.
+Dialogue: 0,0:34:18.18,0:34:19.94,English,,0,0,0,,And during this war,\N{\rChinese}在这场战争期间，
+Dialogue: 0,0:34:20.14,0:34:24.30,English,,0,0,0,,China will maintain a position of what we call strategic military.\N{\rChinese}中国将保持我们所说的战略军事位置。
+Dialogue: 0,0:34:25.72,0:34:27.12,English,,0,0,0,,Great. Great.\N{\rChinese}太好了。太好了。
+Dialogue: 0,0:34:27.12,0:34:29.90,English,,0,0,0,,Great. Great.\N{\rChinese}太好了。太好了。
+Dialogue: 0,0:34:29.90,0:34:31.76,English,,0,0,0,,Great. Great.\N{\rChinese}太好了。太好了。
+Dialogue: 0,0:34:32.42,0:34:34.46,English,,0,0,0,,Great. Great.\N{\rChinese}太好了。太好了。
+Dialogue: 0,0:34:36.56,0:34:40.50,English,,0,0,0,,Great. Great.\N{\rChinese}太好了。太好了。
+Dialogue: 0,0:34:40.50,0:34:42.22,English,,0,0,0,,Great. Great.\N{\rChinese}太好了。太好了。
+Dialogue: 0,0:34:42.60,0:34:44.16,English,,0,0,0,,Great. Great.\N{\rChinese}太好了。太好了。
+Dialogue: 0,0:34:44.30,0:34:48.74,English,,0,0,0,,Great. Great.\N{\rChinese}太好了。太好了。
+Dialogue: 0,0:34:48.74,0:34:50.92,English,,0,0,0,,If anyone attacks you, it will come to your aid, right?\N{\rChinese}如果有人攻击你，它会来援助你，对吗？
+Dialogue: 0,0:34:51.10,0:34:52.36,English,,0,0,0,,They will not sign this treaty\N{\rChinese}他们不会签署这份条约
+Dialogue: 0,0:34:52.78,0:34:55.62,English,,0,0,0,,because they need to maintain strategic ambiguity,\N{\rChinese}因为他们需要保持战略模糊
+Dialogue: 0,0:34:56.08,0:34:59.64,English,,0,0,0,,okay? China and Russia do not want to be dragged into this war.\N{\rChinese}好的？中国和俄罗斯不想被牵涉进这场战争
+Dialogue: 0,0:35:00.88,0:35:03.64,English,,0,0,0,,Does that make sense? Okay,\N{\rChinese}那有道理吗？好的，
+Dialogue: 0,0:35:03.74,0:35:06.24,English,,0,0,0,,so my guess is that\N{\rChinese}所以我的猜测是
+Dialogue: 0,0:35:06.24,0:35:10.20,English,,0,0,0,,China will provide assistance to Iran, but on a very limited basis\N{\rChinese}中国会给伊朗提供援助，但仅限于非常有限的基础
+Dialogue: 0,0:35:10.76,0:35:13.00,English,,0,0,0,,and on a basis that the United States can accept.\N{\rChinese}并且以美国能接受的基础
+Dialogue: 0,0:35:15.00,0:35:16.36,English,,0,0,0,,Okay, that's the first thing.\N{\rChinese}好的，这是第一件事。
+Dialogue: 0,0:35:16.36,0:35:18.52,English,,0,0,0,,Second thing is, listen,\N{\rChinese}第二件事是，听着，
+Dialogue: 0,0:35:18.74,0:35:23.30,English,,0,0,0,,I'm just making a prediction that this war will happen.\N{\rChinese}我只是做个预测，这场战争会发生。
+Dialogue: 0,0:35:23.42,0:35:25.26,English,,0,0,0,,I don't know it's gonna happen, okay?\N{\rChinese}我不确定它会发生，好吗？
+Dialogue: 0,0:35:25.86,0:35:28.36,English,,0,0,0,,You understand? I'm just your high school teacher.\N{\rChinese}你懂了吗？我只是你的高中老师。
+Dialogue: 0,0:35:29.24,0:35:32.34,English,,0,0,0,,I'm not making the decisions, okay?\N{\rChinese}我不是在做决定，好吗？
+Dialogue: 0,0:35:32.52,0:35:35.24,English,,0,0,0,,I'm just teaching you how to think about geopolitics.\N{\rChinese}我只是教你如何思考地缘政治。
+Dialogue: 0,0:35:37.78,0:35:39.26,English,,0,0,0,,And third of all,\N{\rChinese}再来，第三点是，
+Dialogue: 0,0:35:39.96,0:35:43.12,English,,0,0,0,,when you're actually in the United States, you'll find that there's\N{\rChinese}当你真正来到美国时，你会发现有很多人对以色列很生气。
+Dialogue: 0,0:35:43.12,0:35:45.04,English,,0,0,0,,so much anger at Israel\N{\rChinese}so much anger atIsrael
+Dialogue: 0,0:35:45.62,0:35:47.46,English,,0,0,0,,that no one's gonna listen to you. No one really cares about Chinese students.\N{\rChinese}那个人也不会听你的。没人真正关心中国学生。
+Dialogue: 0,0:35:49.02,0:35:50.32,English,,0,0,0,,Do you understand?\N{\rChinese}你明白了吗？
+Dialogue: 0,0:35:51.14,0:35:52.44,English,,0,0,0,,I mean, at that point,\N{\rChinese}我的意思是，到那时，
+Dialogue: 0,0:35:52.56,0:35:57.36,English,,0,0,0,,most Americans will be extremely anti -war.\N{\rChinese}大多数美国人会极度反战。
+Dialogue: 0,0:35:59.44,0:36:01.42,English,,0,0,0,,It'll be like the Vietnam War where\N{\rChinese}就像越战那样
+Dialogue: 0,0:36:01.42,0:36:03.86,English,,0,0,0,,you have these massive,\N{\rChinese}你有这些大规模，
+Dialogue: 0,0:36:03.96,0:36:07.16,English,,0,0,0,,you have this massive protest and civil unrest\N{\rChinese}你们有这场大规模的抗议和民间动乱
+Dialogue: 0,0:36:07.16,0:36:09.38,English,,0,0,0,,because there were a lot of Americans who were against the war.\N{\rChinese}因为有很多美国人反对战争。
+Dialogue: 0,0:36:09.78,0:36:11.84,English,,0,0,0,,And quite honestly, it was a pointless war.\N{\rChinese}说实话，那是一场毫无意义的战争。
+Dialogue: 0,0:36:12.10,0:36:14.76,English,,0,0,0,,America accomplished nothing by fighting the war.\N{\rChinese}美国通过打这场战争没有取得任何成就。
+Dialogue: 0,0:36:16.56,0:36:18.86,English,,0,0,0,,Okay, so great question, Peter.\N{\rChinese}好的，太棒的问题，彼得。
+Dialogue: 0,0:36:19.66,0:36:21.54,English,,0,0,0,,Does that make sense to you?\N{\rChinese}这对你来说有道理吗？
+Dialogue: 0,0:36:22.32,0:36:23.60,English,,0,0,0,,Okay, any more questions?\N{\rChinese}好的，任何其他问题吗？
+Dialogue: 0,0:36:29.62,0:36:31.52,English,,0,0,0,,Okay, great question, okay.\N{\rChinese}好的，太棒的问题，好的。
+Dialogue: 0,0:36:31.62,0:36:34.96,English,,0,0,0,,So we talked about the idea of hubris, right?\N{\rChinese}于是我们谈到了自负的概念，对吧？
+Dialogue: 0,0:36:35.04,0:36:39.38,English,,0,0,0,,Emperors have hubris. And\N{\rChinese}皇帝有自负。
+Dialogue: 0,0:36:39.38,0:36:44.18,English,,0,0,0,,so Israel is a small nation, about eight, nine million people, right?\N{\rChinese}所以以色列是个小国，人口大约八九百万人，对吧？
+Dialogue: 0,0:36:44.34,0:36:46.24,English,,0,0,0,,It's not the American empire. It's not the American empire.\N{\rChinese}它不是美帝国。它不是美帝国。
+Dialogue: 0,0:36:47.00,0:36:48.38,English,,0,0,0,,The problem is this.\N{\rChinese}问题在于此。
+Dialogue: 0,0:36:48.40,0:36:50.46,English,,0,0,0,,The problem is that if you look at the Middle East,\N{\rChinese}问题是如果你看中东，
+Dialogue: 0,0:36:50.62,0:36:54.74,English,,0,0,0,,the strongest military power in the Middle East is Israel by far,\N{\rChinese}中东最强的军力无疑是以色列
+Dialogue: 0,0:36:54.94,0:36:59.16,English,,0,0,0,,okay? Israel does not actually need American protection.\N{\rChinese}好吧？以色列其实不需要美国的保护。
+Dialogue: 0,0:36:59.44,0:37:02.80,English,,0,0,0,,If the entire Middle East got together and attacked Israel,\N{\rChinese}如果整个中东联手攻击以色列，
+Dialogue: 0,0:37:02.98,0:37:05.92,English,,0,0,0,,Israel would win because this happened twice before, right?\N{\rChinese}以色列会赢，因为之前已经发生过两次，对吧？
+Dialogue: 0,0:37:06.10,0:37:08.48,English,,0,0,0,,In the Yom Kippur War and the Six -Day War.\N{\rChinese}在赎罪日战争和六日战争中。
+Dialogue: 0,0:37:08.68,0:37:11.72,English,,0,0,0,,So militarily speaking, Israel is powerful.\N{\rChinese}从军事角度来看，以色列很强大。
+Dialogue: 0,0:37:11.90,0:37:16.12,English,,0,0,0,,And quite honestly, if the United States were to retreat,\N{\rChinese}说实在，如果美国撤退，
+Dialogue: 0,0:37:16.12,0:37:20.26,English,,0,0,0,,from the Middle East, Israel would dominate, okay?\N{\rChinese}从中东来看，以色列会占据主导地位，行吗？
+Dialogue: 0,0:37:20.56,0:37:23.26,English,,0,0,0,,So even though it does not look like an empire,\N{\rChinese}虽然它看起来不像帝国，
+Dialogue: 0,0:37:23.50,0:37:26.34,English,,0,0,0,,it's basically an empire, you understand?\N{\rChinese}它基本上就是一个帝国，你懂吗？
+Dialogue: 0,0:37:27.18,0:37:31.70,English,,0,0,0,,So therefore, it suffers from hubris,\N{\rChinese}于是，它因自大而受苦，
+Dialogue: 0,0:37:31.92,0:37:36.06,English,,0,0,0,,okay? It's not gonna be strategic and flexible and creative.\N{\rChinese}好吧？它不会是战略、灵活、创意的。
+Dialogue: 0,0:37:36.20,0:37:39.92,English,,0,0,0,,It doesn't have to be because it has military dominance over everyone.\N{\rChinese}它不必因为拥有对所有人的军事实力而占据主导地位。
+Dialogue: 0,0:37:41.24,0:37:43.32,English,,0,0,0,,But that's a very good question, okay?\N{\rChinese}但这确实是个很好的问题，行吗？
+Dialogue: 0,0:37:43.48,0:37:46.10,English,,0,0,0,,Just because Israel is small, there's a reason why Israel is small.\N{\rChinese}仅仅因为以色列小，才有以色列小的原因。
+Dialogue: 0,0:37:46.12,0:37:48.34,English,,0,0,0,,It does not mean it is weak. It's very, very powerful.\N{\rChinese}这并不代表它弱小，它非常非常强大。
+Dialogue: 0,0:37:50.80,0:37:54.36,English,,0,0,0,,Okay? Any more questions?\N{\rChinese}好的？还有问题吗？
+Dialogue: 0,0:37:55.10,0:38:04.90,English,,0,0,0,,. Okay, the question is very interesting.\N{\rChinese}好的，问题很有趣。
+Dialogue: 0,0:38:05.20,0:38:08.96,English,,0,0,0,,So is America constraining Israel?\N{\rChinese}那么美国在限制以色列吗？
+Dialogue: 0,0:38:09.30,0:38:11.78,English,,0,0,0,,And you can make the argument both ways, okay?\N{\rChinese}你也可以双向论证，行吗？
+Dialogue: 0,0:38:12.08,0:38:14.68,English,,0,0,0,,You can make the argument that, um,\N{\rChinese}你可以这样论证，嗯，
+Dialogue: 0,0:38:16.74,0:38:20.46,English,,0,0,0,,American presence in Israel is preventing\N{\rChinese}美国在以色列的存在正在发挥作用。
+Dialogue: 0,0:38:20.46,0:38:24.56,English,,0,0,0,,Israel from starting a regional war, okay?\N{\rChinese}以色列从未发动地区战争开始，行吗？
+Dialogue: 0,0:38:24.66,0:38:26.62,English,,0,0,0,,But you can also make the argument that\N{\rChinese}但你也可以这样论证，
+Dialogue: 0,0:38:26.62,0:38:29.60,English,,0,0,0,,Israel right now is using America to\N{\rChinese}以色列现在正利用美国来实现其地缘政治利益。
+Dialogue: 0,0:38:29.60,0:38:33.64,English,,0,0,0,,pursue a lot of its geopolitical interest.\N{\rChinese}以色列现在正利用美国来实现其地缘政治利益。
+Dialogue: 0,0:38:36.16,0:38:39.28,English,,0,0,0,,Okay, so, um, so\N{\rChinese}好的，嗯，嗯，
+Dialogue: 0,0:38:39.28,0:38:41.30,English,,0,0,0,,it's a very complicated question, okay?\N{\rChinese}这是个非常复杂的问题，行吗？
+Dialogue: 0,0:38:41.44,0:38:44.44,English,,0,0,0,,But I think that, um,\N{\rChinese}但我觉得，嗯，
+Dialogue: 0,0:38:44.66,0:38:48.60,English,,0,0,0,,I personally think that, um, I think that America, Israel are constraining Israel.\N{\rChinese}我个人觉得，嗯，我认为美国、以色列正在约束以色列。
+Dialogue: 0,0:38:50.66,0:38:54.10,English,,0,0,0,,Okay? Because\N{\rChinese}好的？因为
+Dialogue: 0,0:38:54.10,0:38:56.56,English,,0,0,0,,Israel needs American support.\N{\rChinese}以色列需要美国支持。
+Dialogue: 0,0:38:57.31,0:39:00.20,English,,0,0,0,,And that constrains the actions of Israel.\N{\rChinese}并且这约束了以色列的行动。
+Dialogue: 0,0:39:01.45,0:39:03.08,English,,0,0,0,,But if America were not around,\N{\rChinese}如果美国不在场内，
+Dialogue: 0,0:39:03.58,0:39:08.34,English,,0,0,0,,then it's possible that Israel unleashes the full amount of its military.\N{\rChinese}那么以色列有可能全力释放其军力。
+Dialogue: 0,0:39:09.01,0:39:10.58,English,,0,0,0,,And its military is very, very powerful.\N{\rChinese}其军力非常、非常强大。
+Dialogue: 0,0:39:11.38,0:39:15.02,English,,0,0,0,,Okay? All right?\N{\rChinese}好？全部好？
+Dialogue: 0,0:39:16.12,0:39:20.00,English,,0,0,0,,But, um, if America were to lead the region,\N{\rChinese}但，呃，如果美国在该地区领先，
+Dialogue: 0,0:39:20.18,0:39:23.26,English,,0,0,0,,then I think Israel would become the dominant power in the region.\N{\rChinese}我认为以色列会成为该地区的主导力量。
+Dialogue: 0,0:39:27.12,0:39:30.98,English,,0,0,0,,But, um, I think the same is true for, throughout the world.\N{\rChinese}但，呃，我认为同样的情况在全世界都成立。
+Dialogue: 0,0:39:31.20,0:39:34.90,English,,0,0,0,,If America left Europe, who would become the dominant power?\N{\rChinese}如果美国离开欧洲，谁会成为主导力量？
+Dialogue: 0,0:39:37.36,0:39:41.32,English,,0,0,0,,Germany, right? And if America left East Asia,\N{\rChinese}德国，对吗？如果美国离开东亚，谁，谁，谁会成为主导力量？
+Dialogue: 0,0:39:41.46,0:39:42.96,English,,0,0,0,,who, who, who would become the dominant power?\N{\rChinese}who, who, who would become the dominant power?
+Dialogue: 0,0:39:44.44,0:39:46.68,English,,0,0,0,,Japan, okay? Does that make sense?\N{\rChinese}日本，对吗？这样说对吗？
+Dialogue: 0,0:39:47.02,0:39:50.78,English,,0,0,0,,So I would say that the regional powers right now are Germany,\N{\rChinese}所以我会说，当前的地区大国是德国，
+Dialogue: 0,0:39:52.20,0:39:53.60,English,,0,0,0,,Israel and Japan.\N{\rChinese}以色列和日本。
+Dialogue: 0,0:39:53.88,0:39:57.08,English,,0,0,0,,And it's an American empire and it's an American empire and\N{\rChinese}又是美国帝国，又是美国帝国
+Dialogue: 0,0:39:57.08,0:40:00.00,English,,0,0,0,,it's an American empire and it's an American empire and it's an American empire and it's an American empire and\N{\rChinese}它是美国帝国，它是美国帝国，它是美国帝国，它是美国帝国
+Dialogue: 0,0:40:00.00,0:40:03.04,English,,0,0,0,,it's an American empire and it's an American empire and it's an American empire and it's an American empire and it's an American empire and it's an American empire\N{\rChinese}它是美国帝国，它是美国帝国，它是美国帝国，它是美国帝国，它是美国帝国，它是美国帝国
+Dialogue: 0,0:40:03.04,0:40:06.06,English,,0,0,0,,and it's an American empire and it's an American empire and\N{\rChinese}又是美国帝国，又是美国帝国
+Dialogue: 0,0:40:06.06,0:40:09.70,English,,0,0,0,,it's an American empire and it's an American empire and it's an American empire and it's an American empire\N{\rChinese}它是美国帝国，它是美国帝国，它是美国帝国，它是美国帝国
+Dialogue: 0,0:40:09.70,0:40:12.92,English,,0,0,0,,and it's an American empire and it's an American empire and\N{\rChinese}又是美国帝国，又是美国帝国
+Dialogue: 0,0:40:12.92,0:40:15.80,English,,0,0,0,,it's an American empire That's a great question, okay?\N{\rChinese}它是美国帝国。那是个好问题，好吗？
+Dialogue: 0,0:40:16.10,0:40:18.80,English,,0,0,0,,So, first of all, listen,\N{\rChinese}先说一句，先听我说，
+Dialogue: 0,0:40:19.22,0:40:22.42,English,,0,0,0,,this is all theory and conjecture, right?\N{\rChinese}这全是理论和猜测，对吧？
+Dialogue: 0,0:40:23.18,0:40:26.96,English,,0,0,0,,America has not expressed any intent of invading Iran,\N{\rChinese}美国尚未表明入侵伊朗的意图，
+Dialogue: 0,0:40:27.20,0:40:30.04,English,,0,0,0,,and if America does invade Iran,\N{\rChinese}如果美国真的入侵伊朗，
+Dialogue: 0,0:40:30.36,0:40:32.68,English,,0,0,0,,then chances are it will win the war, okay?\N{\rChinese}那么它赢得战争的机会就大了，好吗？
+Dialogue: 0,0:40:34.34,0:40:37.06,English,,0,0,0,,But an invasion of Iran,\N{\rChinese}但若入侵伊朗，
+Dialogue: 0,0:40:37.54,0:40:41.94,English,,0,0,0,,if it loses the war,\N{\rChinese}如果它输掉这场战争，
+Dialogue: 0,0:40:42.14,0:40:44.60,English,,0,0,0,,it would basically mean the end of the American empire,\N{\rChinese}这基本意味着美国帝国的终结，
+Dialogue: 0,0:40:45.04,0:40:48.16,English,,0,0,0,,okay? And the reason why is, if you look at why empires collapse,\N{\rChinese}好的？原因是，如果你观察帝国崩溃的原因，
+Dialogue: 0,0:40:48.48,0:40:50.12,English,,0,0,0,,it's because of three reasons, okay?\N{\rChinese}这有三点原因，好的？
+Dialogue: 0,0:40:50.18,0:40:51.78,English,,0,0,0,,The first is the idea of extension,\N{\rChinese}第一点是扩张的概念，
+Dialogue: 0,0:40:52.16,0:40:53.36,English,,0,0,0,,okay?\N{\rChinese}好吗？
+Dialogue: 0,0:40:54.68,0:40:58.16,English,,0,0,0,,Over extension. It's doing too many things at once, okay?\N{\rChinese}过度扩张。它一次做太多事，好的？
+Dialogue: 0,0:40:58.24,0:41:01.28,English,,0,0,0,,It's fighting this war in Ukraine, it's fighting this war in Iran,\N{\rChinese}它在乌克兰打这场战争，在伊朗打这场战争
+Dialogue: 0,0:41:01.56,0:41:03.94,English,,0,0,0,,it's fighting this war everywhere, basically, okay?\N{\rChinese}它在各地打这场战争，基本上，好的？
+Dialogue: 0,0:41:04.14,0:41:05.94,English,,0,0,0,,The idea of over extension, that's the first reason.\N{\rChinese}过度扩张的概念，就是第一个原因。
+Dialogue: 0,0:41:06.28,0:41:09.30,English,,0,0,0,,Second is the idea of debt.\N{\rChinese}第二点是债务的概念。
+Dialogue: 0,0:41:10.76,0:41:13.32,English,,0,0,0,,It basically just runs out of money, right?\N{\rChinese}它基本上就是用完钱，没错吧？
+Dialogue: 0,0:41:13.42,0:41:15.24,English,,0,0,0,,Because it's over extension. It's extended. And\N{\rChinese}因为它过度扩张。它已经扩张。然后
+Dialogue: 0,0:41:15.24,0:41:18.68,English,,0,0,0,,this leads to the idea of civil unrest,\N{\rChinese}这导致了内战的概念。
+Dialogue: 0,0:41:19.04,0:41:20.50,English,,0,0,0,,okay?\N{\rChinese}好的？
+Dialogue: 0,0:41:22.88,0:41:28.16,English,,0,0,0,,So the American empire is heading into a lot of trouble over the next 10 years,\N{\rChinese}美国帝国在未来十年将陷入多重困境。
+Dialogue: 0,0:41:28.34,0:41:30.70,English,,0,0,0,,because all three things are happening at once, right?\N{\rChinese}因为三件事同时发生，没错吧？
+Dialogue: 0,0:41:30.76,0:41:33.18,English,,0,0,0,,Over extension, debt, and civil unrest.\N{\rChinese}过度扩张、债务和内战。
+Dialogue: 0,0:41:34.20,0:41:35.92,English,,0,0,0,,At the same time,\N{\rChinese}同时，
+Dialogue: 0,0:41:36.08,0:41:40.52,English,,0,0,0,,the American empire is extremely wealthy\N{\rChinese}美国帝国极其富裕
+Dialogue: 0,0:41:40.52,0:41:42.14,English,,0,0,0,,and extremely powerful.\N{\rChinese}极其强大
+Dialogue: 0,0:41:42.60,0:41:44.36,English,,0,0,0,,So even though...\N{\rChinese}即使……
+Dialogue: 0,0:41:44.36,0:41:47.00,English,,0,0,0,,Even though America loses the war,\N{\rChinese}即使美国在战争中失利，但仍无与之匹敌的同级国者。
+Dialogue: 0,0:41:47.38,0:41:51.10,English,,0,0,0,,there's still no peer competitor to the United States.\N{\rChinese}但这意味着什么呢？
+Dialogue: 0,0:41:51.54,0:41:53.36,English,,0,0,0,,But all that means is that\N{\rChinese}But all that means is that
+Dialogue: 0,0:41:53.36,0:41:57.70,English,,0,0,0,,the world will divide into different regional blocks, okay?\N{\rChinese}世界将分成不同的地区集团，行吗？
+Dialogue: 0,0:41:57.78,0:41:59.22,English,,0,0,0,,Where maybe Germany controls Europe,\N{\rChinese}或许德国掌控欧洲，
+Dialogue: 0,0:41:59.60,0:42:03.26,English,,0,0,0,,Japan controls East Asia, Israel controls the Middle East,\N{\rChinese}日本掌控东亚，犹太掌控中东
+Dialogue: 0,0:42:03.42,0:42:05.50,English,,0,0,0,,okay? So\N{\rChinese}好的？那么
+Dialogue: 0,0:42:05.50,0:42:08.56,English,,0,0,0,,more of a parallel world, okay?\N{\rChinese}更像是平行世界，行吗？
+Dialogue: 0,0:42:09.36,0:42:13.88,English,,0,0,0,,A multipolar world as opposed to a unipolar world where one nation controls everything.\N{\rChinese}多极世界与单极世界相对，单极世界由一国掌控万物。
+Dialogue: 0,0:42:14.06,0:42:19.64,English,,0,0,0,,Okay? The decline of the American empire is going to take decades,\N{\rChinese}好的？美国帝国的衰落将耗时数十年
+Dialogue: 0,0:42:19.88,0:42:22.98,English,,0,0,0,,possibly centuries, okay? But\N{\rChinese}可能是几个世纪，行吗？但
+Dialogue: 0,0:42:22.98,0:42:28.56,English,,0,0,0,,we'll talk about this in a future class.\N{\rChinese}我们将在未来的课上再讨论这个。
+Dialogue: 0,0:42:29.14,0:42:32.84,English,,0,0,0,,What will happen to America if it loses the war, okay?\N{\rChinese}如果美国在战争中失利会怎样？
+Dialogue: 0,0:42:32.90,0:42:34.84,English,,0,0,0,,Any more questions? Yeah?\N{\rChinese}还有别的问题吗？
+Dialogue: 0,0:42:35.86,0:42:37.08,English,,0,0,0,,I'm not confused.\N{\rChinese}我没搞错。
+Dialogue: 0,0:42:37.26,0:42:40.86,English,,0,0,0,,So if you or America attack Taiwan,\N{\rChinese}所以如果你或美国攻击台湾，
+Dialogue: 0,0:42:40.96,0:42:43.38,English,,0,0,0,,they are going to up their interest in the country?\N{\rChinese}他们会进一步提升对该国的兴趣吗？
+Dialogue: 0,0:42:43.54,0:42:45.66,English,,0,0,0,,Okay. So that's a good question, okay?\N{\rChinese}好的。那是个不错的问题，嗯？
+Dialogue: 0,0:42:45.78,0:42:50.16,English,,0,0,0,,Like, okay, the ground invasion. What will provoke it?\N{\rChinese}像，好的，地面进攻。是什么会引发它？
+Dialogue: 0,0:42:50.76,0:42:55.16,English,,0,0,0,,Okay? And that's something that I want to spend a future class on.\N{\rChinese}好的？这正是我想在未来课程中展开的内容。
+Dialogue: 0,0:42:55.98,0:43:00.48,English,,0,0,0,,Okay? But listen, we've done a lot of wars, okay?\N{\rChinese}好的？不过听着，我们已经打过不少战争了，嗯？
+Dialogue: 0,0:43:00.58,0:43:03.80,English,,0,0,0,,We know that America doesn't really need a reason to fight a war.\N{\rChinese}我们知道美国不需要理由就能发动战争。
+Dialogue: 0,0:43:04.46,0:43:06.40,English,,0,0,0,,Do you understand? It can just make up a reason.\N{\rChinese}你明白了吗？它可以随便编个理由。
+Dialogue: 0,0:43:06.60,0:43:10.58,English,,0,0,0,,It doesn't care. So\N{\rChinese}它不在乎。所以
+Dialogue: 0,0:43:10.58,0:43:13.74,English,,0,0,0,,basically, the argument that I want to make is that...\N{\rChinese}基本上，我想说的论点是……
+Dialogue: 0,0:43:13.74,0:43:16.40,English,,0,0,0,,Well, it's not a war. It's like, if Trump wins the presidency,\N{\rChinese}嗯，这不是一场战争。就像，如果特朗普赢得总统职务，
+Dialogue: 0,0:43:16.74,0:43:20.54,English,,0,0,0,,then it's most likely that he'll start a war against Iran.\N{\rChinese}然后最有可能他会对伊朗发动战争。
+Dialogue: 0,0:43:21.12,0:43:24.52,English,,0,0,0,,Okay? That's what I think. I think it will be Trump who initiates the war.\N{\rChinese}好？这就是我的想法。我认为是特朗普会发动战争。
+Dialogue: 0,0:43:24.78,0:43:26.40,English,,0,0,0,,And I think that\N{\rChinese}我觉得……
+Dialogue: 0,0:43:26.40,0:43:29.68,English,,0,0,0,,it will happen maybe two years from now.\N{\rChinese}大约两年后会发生。
+Dialogue: 0,0:43:31.02,0:43:33.56,English,,0,0,0,,Okay. Okay. Okay.\N{\rChinese}好的。好的。好的。
+Dialogue: 0,0:43:36.74,0:43:45.26,English,,0,0,0,,Okay. Okay. This is a very complicated question, okay?\N{\rChinese}好的。好的。这是一个非常复杂的问题，好吗？
+Dialogue: 0,0:43:45.46,0:43:48.36,English,,0,0,0,,Like, what's the relationship between Israel and America?\N{\rChinese}像，伊朗和美国的关系是什么？
+Dialogue: 0,0:43:48.90,0:43:51.80,English,,0,0,0,,And the reason why it's complicated is\N{\rChinese}而它之所以复杂的原因是
+Dialogue: 0,0:43:51.80,0:43:54.18,English,,0,0,0,,that there's something called the Israel lobby.\N{\rChinese}有个叫做以色列游说的东西。
+Dialogue: 0,0:43:54.80,0:43:59.26,English,,0,0,0,,And again, we need to spend an entire class on the idea of the Israel lobby\N{\rChinese}再说一次，我们要花整节课来讲以色列游说的概念。
+Dialogue: 0,0:43:59.26,0:44:00.92,English,,0,0,0,,because it makes no sense.\N{\rChinese}因为这样才有意义。
+Dialogue: 0,0:44:01.58,0:44:04.62,English,,0,0,0,,Okay? It's really hard to understand by itself.\N{\rChinese}好吧？单独理解起来很难。
+Dialogue: 0,0:44:04.90,0:44:07.70,English,,0,0,0,,So I'll spend an entire class on the Israel lobby, and\N{\rChinese}于是我会把以色列游说当作整节课来讲。
+Dialogue: 0,0:44:07.70,0:44:11.94,English,,0,0,0,,then you'll understand why there's an alliance between Israel and America, okay?\N{\rChinese}然后你就会明白为什么以色列和美国会结盟，行吗？
+Dialogue: 0,0:44:11.94,0:44:14.20,English,,0,0,0,,All right, but thank you, okay?\N{\rChinese}好的，感谢你，行吗？
+Dialogue: 0,0:44:14.26,0:44:18.76,English,,0,0,0,,Any more questions? So just to summarize,\N{\rChinese}还有问题吗？所以先总结一下，
+Dialogue: 0,0:44:19.14,0:44:21.28,English,,0,0,0,,we will do a class on Jack's question,\N{\rChinese}我们将以贾克的问题为主题开课，
+Dialogue: 0,0:44:22.40,0:44:26.58,English,,0,0,0,,what will the war look like, and what will it mean for America if it loses the war.\N{\rChinese}战争会是什么样子？如果美国输掉战争又会怎样？
+Dialogue: 0,0:44:26.84,0:44:29.08,English,,0,0,0,,We'll also do a class on David's question, which is,\N{\rChinese}我们还会以大卫的问题为主题开课，
+Dialogue: 0,0:44:29.98,0:44:32.62,English,,0,0,0,,what's the relationship between Israel and America?\N{\rChinese}以色列和美国的关系是什么？
+Dialogue: 0,0:44:33.50,0:44:35.02,English,,0,0,0,,Okay? Any more questions?\N{\rChinese}好吧？还有问题吗？
+Dialogue: 0,0:44:38.50,0:44:41.78,English,,0,0,0,,We will, yes. We'll also be talking about the rise of Japan and Germany.\N{\rChinese}我们会的，没错。我们还会讨论日本和德国的崛起。
+Dialogue: 0,0:44:41.78,0:44:43.46,English,,0,0,0,,Okay? All right.\N{\rChinese}好的？全部明白。
+Dialogue: 0,0:44:43.80,0:44:46.20,English,,0,0,0,,Any more questions? Okay, great.\N{\rChinese}还有问题吗？好的，太好了。
+Dialogue: 0,0:44:46.28,0:44:48.04,English,,0,0,0,,I'll see you next week, okay?\N{\rChinese}下周见，好的？

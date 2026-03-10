@@ -1,0 +1,3556 @@
+1
+00:00:01,240 --> 00:00:04,540
+Okay, so let's start class
+
+2
+00:00:04,540 --> 00:00:09,280
+and start to think about the question how
+
+3
+00:00:09,280 --> 00:00:13,200
+and why did the Iranian president,
+
+4
+00:00:13,580 --> 00:00:16,780
+Ibrahim Raisi, die.
+
+5
+00:00:18,060 --> 00:00:20,020
+So when
+
+6
+00:00:20,020 --> 00:00:23,380
+you do history or you
+
+7
+00:00:23,380 --> 00:00:26,460
+when you do analysis about current events,
+
+8
+00:00:26,720 --> 00:00:31,060
+you're always going to have, you're always
+going to encounter three major problems.
+
+9
+00:00:31,300 --> 00:00:34,840
+The first major problem is
+
+10
+00:00:34,840 --> 00:00:38,420
+that there's very little information
+
+11
+00:00:38,420 --> 00:00:41,360
+that you can work with.
+
+12
+00:00:42,460 --> 00:00:46,020
+Truth is very limited.
+
+13
+00:00:46,420 --> 00:00:47,860
+That's the first problem.
+
+14
+00:00:49,000 --> 00:00:51,660
+Second problem is
+
+15
+00:00:51,660 --> 00:00:55,400
+that the information
+
+16
+00:00:55,400 --> 00:00:59,320
+that you have may not be true.
+
+17
+00:00:59,520 --> 00:01:01,780
+Okay, so there's also misinformation.
+
+18
+00:01:02,740 --> 00:01:04,000
+That's the second problem.
+
+19
+00:01:04,200 --> 00:01:07,020
+And the third problem is that
+
+20
+00:01:07,020 --> 00:01:10,200
+there's always going to
+be an official narrative
+
+21
+00:01:10,200 --> 00:01:13,420
+that the media, the government publishes,
+
+22
+00:01:13,420 --> 00:01:16,220
+and it may not be true.
+
+23
+00:01:16,780 --> 00:01:19,000
+But it's the one that
+people people accept.
+
+24
+00:01:19,260 --> 00:01:20,360
+Okay, so
+
+25
+00:01:20,360 --> 00:01:23,740
+the challenge for us
+
+26
+00:01:23,740 --> 00:01:28,120
+today is we know that
+the Iranian president,
+
+27
+00:01:28,880 --> 00:01:34,360
+Ibrahim Raisi, died. He died in the war.
+He died in the war. He died in the war. I think I'm going to have to use analysis,
+
+28
+00:01:34,920 --> 00:01:40,240
+okay, game theory analysis
+to figure out how he died
+
+29
+00:01:40,240 --> 00:01:42,300
+and who might have killed him.
+
+30
+00:01:42,540 --> 00:01:45,840
+Does that make sense?
+But the problem again is
+
+31
+00:01:46,280 --> 00:01:49,320
+we are working with very
+limited information
+
+32
+00:01:49,320 --> 00:01:53,840
+that the Iranian government
+chooses to disclose to the public.
+
+33
+00:01:54,080 --> 00:01:56,300
+Okay, so what do we know?
+
+34
+00:01:56,460 --> 00:01:59,640
+We know that as a fact that the Iranian government
+has a very limited information on the matter.
+
+35
+00:01:59,640 --> 00:02:01,260
+That's why we know that on May 19th,
+
+36
+00:02:01,360 --> 00:02:05,140
+the Iranian president was
+
+37
+00:02:05,140 --> 00:02:10,500
+in Azerbaijan for a Dem opening ceremony.
+
+38
+00:02:10,840 --> 00:02:13,580
+And then he got into his helicopter
+
+39
+00:02:13,580 --> 00:02:17,160
+and he was flying back into the country.
+
+40
+00:02:17,900 --> 00:02:20,560
+And when he was flying back,
+
+41
+00:02:20,880 --> 00:02:24,200
+there was an accident that
+
+42
+00:02:24,200 --> 00:02:26,160
+caused the helicopter to crash,
+
+43
+00:02:26,500 --> 00:02:29,480
+killing all nine people in the area.
+
+44
+00:02:29,480 --> 00:02:32,000
+That's why we on board,
+including the president,
+
+45
+00:02:32,220 --> 00:02:36,120
+the foreign minister, three crew members,
+
+46
+00:02:36,680 --> 00:02:40,920
+the governor of a province,
+
+47
+00:02:41,220 --> 00:02:43,560
+a local religious leader,
+
+48
+00:02:44,020 --> 00:02:46,720
+the bodyguard of the president, and
+
+49
+00:02:46,720 --> 00:02:48,900
+the head of the president's
+security detail.
+
+50
+00:02:49,500 --> 00:02:50,920
+Okay, so all nine people died.
+
+51
+00:02:53,960 --> 00:02:57,400
+And we have reason to believe that
+
+52
+00:02:57,400 --> 00:03:02,960
+the most probable reason is an accident,
+
+53
+00:03:03,120 --> 00:03:07,860
+okay? That
+
+54
+00:03:07,860 --> 00:03:11,840
+this was an accident,
+that it was bad weather,
+
+55
+00:03:11,920 --> 00:03:16,280
+there was a fog, the pilot couldn't really
+see, and he crashed into the mountain.
+
+56
+00:03:16,600 --> 00:03:19,980
+Okay. And the evidence for this is that...
+
+57
+00:03:21,540 --> 00:03:23,380
+One, this happens a lot.
+
+58
+00:03:23,660 --> 00:03:24,960
+For example, in 2020,
+
+59
+00:03:25,400 --> 00:03:28,440
+the very famous basketball player,
+
+60
+00:03:28,660 --> 00:03:33,180
+Kobe Bryant, he died in a helicopter
+crash along with his daughter, okay?
+
+61
+00:03:33,380 --> 00:03:34,600
+So this actually happens a lot.
+
+62
+00:03:36,020 --> 00:03:38,340
+The second piece of evidence is that
+
+63
+00:03:38,340 --> 00:03:43,220
+the helicopter they were
+flying in is very old.
+
+64
+00:03:43,400 --> 00:03:45,820
+It was basically an American helicopter
+
+65
+00:03:45,820 --> 00:03:50,100
+that they started to use in the 70s.
+
+66
+00:03:50,920 --> 00:03:54,140
+And after the revolution, America
+refused to cooperate with Iran,
+
+67
+00:03:54,420 --> 00:03:57,560
+so they could never actually
+maintain the helicopter.
+
+68
+00:03:58,480 --> 00:04:01,440
+So maybe it was just a malfunction,
+
+69
+00:04:01,880 --> 00:04:04,760
+okay? So
+
+70
+00:04:04,760 --> 00:04:07,560
+these are two compelling reasons why
+
+71
+00:04:07,560 --> 00:04:11,280
+most people believe this is an accident.
+
+72
+00:04:11,640 --> 00:04:15,320
+And this is, again, probably the cause
+
+73
+00:04:15,320 --> 00:04:17,420
+that will go down in history, okay?
+
+74
+00:04:18,520 --> 00:04:20,900
+Okay. Okay.
+
+75
+00:04:20,920 --> 00:04:22,840
+So this is a very interesting theory. And it
+requires us to explore other possibilities.
+
+76
+00:04:23,300 --> 00:04:24,840
+So there are two other possibilities.
+
+77
+00:04:25,340 --> 00:04:30,120
+Second possibility is foreign adversary,
+
+78
+00:04:30,320 --> 00:04:33,480
+which means that
+
+79
+00:04:33,480 --> 00:04:36,200
+either the United States or Israel,
+
+80
+00:04:36,320 --> 00:04:38,300
+or even possibly Azerbaijan, okay?
+
+81
+00:04:38,400 --> 00:04:42,700
+But a foreign adversary
+was responsible for this.
+
+82
+00:04:43,320 --> 00:04:47,580
+The problem with this theory,
+though, is one of opportunity...
+
+83
+00:04:51,160 --> 00:04:54,540
+And motive. Okay? So
+
+84
+00:04:54,540 --> 00:04:57,520
+what this means is it's very
+
+85
+00:04:57,520 --> 00:05:02,440
+hard as a foreign government
+to plan an assassination
+
+86
+00:05:03,300 --> 00:05:07,740
+of an Iranian leader in Iraq, okay?
+
+87
+00:05:07,800 --> 00:05:10,800
+It's very hard. The
+opportunity isn't there.
+
+88
+00:05:10,960 --> 00:05:13,960
+So maybe Israel, America want him dead.
+
+89
+00:05:14,480 --> 00:05:16,020
+Well, how could they pull it off?
+
+90
+00:05:16,100 --> 00:05:18,120
+It's very hard to do such a thing, okay?
+
+91
+00:05:20,020 --> 00:05:21,740
+Second possibility. The problem is motive.
+
+92
+00:05:22,660 --> 00:05:28,460
+What reason would Israel or the United
+States have for killing the president?
+
+93
+00:05:29,180 --> 00:05:32,220
+Now, in the past, the United States
+
+94
+00:05:32,220 --> 00:05:34,640
+and Israel have killed Iranians before.
+
+95
+00:05:34,980 --> 00:05:37,740
+So, for example, in January 2020,
+
+96
+00:05:38,420 --> 00:05:40,960
+President Donald Trump ordered the
+
+97
+00:05:40,960 --> 00:05:45,800
+assassination of General
+Soleimani in Baghdad,
+
+98
+00:05:45,940 --> 00:05:49,500
+okay? But there was a motive here.
+
+99
+00:05:49,500 --> 00:05:51,140
+And the motive is that
+
+100
+00:05:51,140 --> 00:05:55,820
+Soleimani is responsible
+for Iranian foreign
+
+101
+00:05:55,820 --> 00:05:58,100
+policy in the Middle East and therefore
+
+102
+00:05:58,100 --> 00:06:01,900
+a direct threat to
+American interests, okay?
+
+103
+00:06:02,240 --> 00:06:05,860
+And Israel in the past has
+
+104
+00:06:05,860 --> 00:06:09,220
+staged assassinations of Iranian
+
+105
+00:06:09,220 --> 00:06:12,320
+nuclear scientists in Iran.
+
+106
+00:06:12,740 --> 00:06:15,420
+But again, the motive is, well,
+
+107
+00:06:15,580 --> 00:06:19,320
+Israel is afraid that Iran
+developed a nuclear weapon.
+
+108
+00:06:19,320 --> 00:06:23,060
+And therefore, the easiest way to stop
+
+109
+00:06:23,060 --> 00:06:24,720
+that is to kill the scientists, okay?
+
+110
+00:06:29,080 --> 00:06:32,220
+Israel, on April 1st of this year,
+
+111
+00:06:32,340 --> 00:06:35,920
+also staged an airstrike against
+the Iranian embassy in Damascus,
+
+112
+00:06:35,920 --> 00:06:38,920
+killing two Iranian generals.
+
+113
+00:06:39,260 --> 00:06:43,160
+But again, the motive
+is, what Israel said was
+
+114
+00:06:43,160 --> 00:06:48,320
+that these generals were working
+with Hamas to threaten Israel.
+
+115
+00:06:48,980 --> 00:06:51,180
+So, the motive is very clear.
+
+116
+00:06:51,320 --> 00:06:53,080
+And the problem here is,
+
+117
+00:06:53,180 --> 00:06:56,900
+it's very unclear what the motive is
+for killing the Iranian president,
+
+118
+00:06:57,180 --> 00:07:01,780
+okay? In fact, there's
+a lot of risk in that.
+
+119
+00:07:02,020 --> 00:07:07,240
+But again, I am not discounting the
+possibility it could be a foreign adversary.
+
+120
+00:07:07,940 --> 00:07:10,500
+And the third possibility is
+
+121
+00:07:10,500 --> 00:07:15,040
+an internal enemy,
+
+122
+00:07:15,260 --> 00:07:18,300
+okay? Meaning that there is a threat.
+
+123
+00:07:18,300 --> 00:07:22,520
+And there were certain individuals
+or factions or groups in Iran
+
+124
+00:07:22,520 --> 00:07:26,180
+that wanted the president dead,
+
+125
+00:07:26,500 --> 00:07:28,500
+okay?
+
+126
+00:07:29,160 --> 00:07:33,440
+And so, with this internal enemy idea,
+
+127
+00:07:34,080 --> 00:07:37,600
+opportunity, this problem
+doesn't exist because
+
+128
+00:07:37,600 --> 00:07:42,060
+obviously these enemies would
+
+129
+00:07:42,060 --> 00:07:45,380
+have resources to track down
+and kill the president, okay?
+
+130
+00:07:46,220 --> 00:07:49,020
+So, an example of this is that,
+
+131
+00:07:49,120 --> 00:07:51,980
+remember that when the
+president was flying home,
+
+132
+00:07:52,600 --> 00:07:56,000
+he had, there were three helicopters,
+
+133
+00:07:56,420 --> 00:08:00,260
+right? It was only his
+helicopter that crashed.
+
+134
+00:08:00,580 --> 00:08:02,520
+The two other helicopters were fine.
+
+135
+00:08:03,780 --> 00:08:08,460
+Now, in theory, and like we don't know
+who was in the other two helicopters,
+
+136
+00:08:09,040 --> 00:08:12,440
+but we can guess that they were
+probably military escort, right?
+
+137
+00:08:12,580 --> 00:08:14,420
+They were there to protect the president.
+
+138
+00:08:14,420 --> 00:08:16,360
+But at the same time,
+
+139
+00:08:16,420 --> 00:08:19,320
+if they wanted to kill
+the president, they could,
+
+140
+00:08:19,540 --> 00:08:21,340
+okay?
+
+141
+00:08:23,520 --> 00:08:25,240
+So, was it the military?
+
+142
+00:08:26,320 --> 00:08:28,260
+So, the opportunity was there.
+
+143
+00:08:28,460 --> 00:08:30,720
+But then the question then is, motive.
+
+144
+00:08:31,640 --> 00:08:33,360
+Why would they do that?
+
+145
+00:08:34,200 --> 00:08:36,340
+And the answer is that
+
+146
+00:08:36,340 --> 00:08:40,380
+the possibility, again, we are
+looking at possibilities, right?
+
+147
+00:08:43,220 --> 00:08:49,180
+Everyone agrees that the military
+is a threat. Another argument is
+
+148
+00:08:49,180 --> 00:08:51,960
+that the military is a threat. Another
+argument is that the military is a threat.
+
+149
+00:08:52,360 --> 00:08:56,180
+Another argument is that the military is a threat.
+Another argument is that the military is a threat.
+
+150
+00:08:56,180 --> 00:08:59,280
+Another argument is that the military is a
+threat. Another argument is that the military is a threat. Another argument is that the military is a threat.
+
+151
+00:08:59,280 --> 00:09:03,060
+Another argument is that the military is a threat.
+Another argument is that the military is a threat.
+
+152
+00:09:03,420 --> 00:09:05,460
+Another argument is that
+the military is a threat.
+
+153
+00:09:05,460 --> 00:09:07,160
+Another argument is that
+the military is a threat.
+
+154
+00:09:07,160 --> 00:09:08,600
+Another argument is that
+the military is a threat.
+
+155
+00:09:08,600 --> 00:09:11,860
+Another argument is that
+the military is a threat.
+
+156
+00:09:12,000 --> 00:09:13,460
+Another argument is that
+the military is a threat.
+
+157
+00:09:13,460 --> 00:09:15,520
+and Reizi, who
+
+158
+00:09:15,520 --> 00:09:19,100
+many see as Khomeini's protégé,
+
+159
+00:09:19,260 --> 00:09:21,580
+will become the Ayatollah.
+
+160
+00:09:21,760 --> 00:09:25,260
+Now the Iranian political system,
+
+161
+00:09:25,320 --> 00:09:29,080
+it's kind of strange because
+it's an Islamic Republic.
+
+162
+00:09:29,820 --> 00:09:31,980
+And what that means is that
+
+163
+00:09:31,980 --> 00:09:36,880
+the ultimate authority is God,
+
+164
+00:09:37,180 --> 00:09:40,100
+the Koran. And it's the Ayatollah
+
+165
+00:09:40,100 --> 00:09:44,100
+who represents the God
+
+166
+00:09:44,100 --> 00:09:47,420
+and Koran. So he's the ultimate authority.
+
+167
+00:09:47,520 --> 00:09:49,000
+He has ultimate veto power.
+
+168
+00:09:49,360 --> 00:09:53,160
+And the president is maybe
+like the CEO of the country.
+
+169
+00:09:54,120 --> 00:09:58,600
+So the person with the real power
+in the country is the Ayatollah.
+
+170
+00:09:59,100 --> 00:10:02,840
+And if Reizi becomes the Ayatollah,
+
+171
+00:10:03,000 --> 00:10:07,300
+then we can expect major policy shifts.
+
+172
+00:10:13,680 --> 00:10:16,800
+So then the question then is, well
+
+173
+00:10:16,800 --> 00:10:21,060
+who would benefit from Reizi's death
+
+174
+00:10:21,060 --> 00:10:24,740
+and stopping him from
+becoming the next Ayatollah?
+
+175
+00:10:25,260 --> 00:10:26,980
+And what people say is,
+
+176
+00:10:27,340 --> 00:10:30,580
+and again guys, I'm working
+with very limited information.
+
+177
+00:10:30,920 --> 00:10:32,220
+I don't know Iran that well.
+
+178
+00:10:32,340 --> 00:10:33,600
+I just read the news.
+
+179
+00:10:34,040 --> 00:10:36,300
+But what people say is that
+
+180
+00:10:36,300 --> 00:10:41,820
+there are two top contenders
+to be the next Ayatollah.
+
+181
+00:10:42,060 --> 00:10:45,660
+The first contender, the
+most likely, is Reizi.
+
+182
+00:10:45,980 --> 00:10:49,680
+The second contender is
+actually Khomeini's son,
+
+183
+00:10:49,940 --> 00:10:54,020
+Mostaba Khomeini.
+
+184
+00:10:56,260 --> 00:11:01,360
+Okay? So
+
+185
+00:11:01,360 --> 00:11:03,160
+with him gone,
+
+186
+00:11:03,540 --> 00:11:07,140
+Mostaba Khomeini is most
+
+187
+00:11:07,140 --> 00:11:10,540
+likely to be the next Ayatollah.
+
+188
+00:11:11,580 --> 00:11:13,640
+Now this presents a
+
+189
+00:11:13,640 --> 00:11:18,700
+problem for Iran
+
+190
+00:11:18,700 --> 00:11:21,360
+because it's an Islamic Republic.
+
+191
+00:11:21,480 --> 00:11:25,260
+It's supposed to be under
+the rule of God, right?
+
+192
+00:11:25,740 --> 00:11:27,900
+And one thing that
+
+193
+00:11:27,900 --> 00:11:31,120
+most Iranians oppose is the
+
+194
+00:11:31,120 --> 00:11:34,900
+idea of hereditary leadership,
+
+195
+00:11:35,280 --> 00:11:37,120
+okay? A father passing away.
+
+196
+00:11:37,140 --> 00:11:38,420
+Another argument for
+a father passing away.
+
+197
+00:11:44,600 --> 00:11:48,760
+Another argument for a son
+passing down ownership
+
+198
+00:11:48,760 --> 00:11:52,960
+ownership ownership ownership ownership
+ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership
+
+199
+00:11:53,880 --> 00:11:58,020
+ownership ownership ownership ownership
+ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership
+
+200
+00:11:59,040 --> 00:12:11,200
+ownership ownership ownership ownership ownership
+Alright, so Murshid Tuba Khomeini benefits,
+
+201
+00:12:11,700 --> 00:12:16,660
+but who would benefit from
+having him as Ayatollah?
+
+202
+00:12:16,800 --> 00:12:18,980
+And the answer is actually very simple.
+
+203
+00:12:19,320 --> 00:12:21,040
+There's a group in Iran
+
+204
+00:12:21,040 --> 00:12:23,220
+called the Islamic
+
+205
+00:12:23,220 --> 00:12:29,260
+Revolutionary Guard
+
+206
+00:12:29,260 --> 00:12:30,780
+Corps,
+
+207
+00:12:31,160 --> 00:12:35,300
+or the IRGC.
+
+208
+00:12:37,780 --> 00:12:40,880
+We will call them the
+Revolutionary Guards.
+
+209
+00:12:41,420 --> 00:12:45,260
+And what's interesting about them is
+
+210
+00:12:45,260 --> 00:12:48,960
+that they are separate from the army,
+
+211
+00:12:49,160 --> 00:12:50,540
+the military.
+
+212
+00:12:52,620 --> 00:12:56,720
+So where do these guys come from,
+
+213
+00:12:56,800 --> 00:12:58,880
+and why are they separate from the army?
+
+214
+00:12:59,660 --> 00:13:01,040
+Well, it goes back to 1979.
+
+215
+00:13:02,400 --> 00:13:05,280
+Remember in 1979, there was a party.
+
+216
+00:13:05,300 --> 00:13:09,880
+There was a popular uprising against
+the Shah of Iran, the king of Iran.
+
+217
+00:13:11,440 --> 00:13:15,820
+And the government brought
+back Ayatollah Khomeini
+
+218
+00:13:15,820 --> 00:13:18,060
+from exile to run the country.
+
+219
+00:13:18,460 --> 00:13:21,040
+And Khomeini, at that time,
+
+220
+00:13:21,040 --> 00:13:23,620
+was afraid of the army, because
+
+221
+00:13:23,620 --> 00:13:26,640
+the army had sworn allegiance to the king.
+
+222
+00:13:27,080 --> 00:13:29,420
+So to deal with this problem,
+
+223
+00:13:29,640 --> 00:13:35,280
+Khomeini established another armed
+group called the Revolutionary Guards.
+
+224
+00:13:35,300 --> 00:13:40,540
+And what they do is actually
+very different from the military.
+
+225
+00:13:40,800 --> 00:13:46,940
+The military has an obligation
+to protect the nation. But
+
+226
+00:13:46,940 --> 00:13:52,160
+the Revolutionary Guard Corps has a
+responsibility to protect the revolution,
+
+227
+00:13:52,880 --> 00:13:54,420
+the Islamic Republic.
+
+228
+00:13:55,140 --> 00:13:57,640
+Which means ultimately that
+
+229
+00:13:57,640 --> 00:14:03,280
+they are Khomeini's private army.
+
+230
+00:14:03,740 --> 00:14:05,280
+They only own the army.
+
+231
+00:14:05,280 --> 00:14:08,940
+They only obey him. And
+
+232
+00:14:08,940 --> 00:14:13,400
+the other thing about the revolution is
+
+233
+00:14:13,400 --> 00:14:17,560
+that not only were they trying to
+bring the Islamic Republic to Iran,
+
+234
+00:14:17,840 --> 00:14:21,280
+but they were trying to export the
+revolution across the Middle East.
+
+235
+00:14:21,820 --> 00:14:24,220
+Okay? So basically,
+
+236
+00:14:24,460 --> 00:14:27,920
+the Revolutionary Guard
+Corps had two main functions.
+
+237
+00:14:28,120 --> 00:14:31,400
+The first main function is
+to protect the Ayatollah,
+
+238
+00:14:31,500 --> 00:14:35,260
+and ensure the revolution
+succeeds in Iran.
+
+239
+00:14:35,260 --> 00:14:40,880
+But the other function is to export
+the revolution to the Middle East.
+
+240
+00:14:41,180 --> 00:14:45,880
+Okay? To spread Islamic
+
+241
+00:14:45,880 --> 00:14:50,360
+revolution to Syria, Iraq.
+
+242
+00:14:50,680 --> 00:14:53,860
+And that's why the Middle East was so
+
+243
+00:14:53,860 --> 00:14:57,520
+disturbed and so angered
+by the revolution.
+
+244
+00:14:58,240 --> 00:15:00,640
+Alright? Now,
+
+245
+00:15:00,740 --> 00:15:05,240
+this was why the IRGC was so angry.
+
+246
+00:15:05,240 --> 00:15:08,080
+They were so dumbfounded. And because
+
+247
+00:15:08,080 --> 00:15:12,840
+so many countries considered
+Iran to be a threat,
+
+248
+00:15:13,300 --> 00:15:18,240
+they encouraged Saddam Hussein
+to invade the country in 1980.
+
+249
+00:15:19,000 --> 00:15:20,280
+Okay? And
+
+250
+00:15:20,280 --> 00:15:23,820
+this started something
+called the Iran -Iraq War.
+
+251
+00:15:24,940 --> 00:15:29,060
+And it was not just the
+Americans who support this war.
+
+252
+00:15:29,240 --> 00:15:32,280
+The Soviets also support
+Saddam Hussein and
+
+253
+00:15:32,280 --> 00:15:38,240
+the Middle East countries, like Saudi
+Arabia also supported Saddam Hussein.
+
+254
+00:15:38,420 --> 00:15:42,800
+It was a brutal war and
+a lot of Iranians died.
+
+255
+00:15:43,200 --> 00:15:44,460
+But ultimately,
+
+256
+00:15:44,880 --> 00:15:48,760
+the Revolutionary Guard Corps was able
+
+257
+00:15:48,760 --> 00:15:51,900
+to protect the revolution
+from foreign invaders.
+
+258
+00:15:52,360 --> 00:15:55,080
+And because of that, they became
+
+259
+00:15:55,680 --> 00:16:01,060
+the most dominant military group in Iran.
+
+260
+00:16:03,000 --> 00:16:08,000
+And so they almost had
+unlimited access to funds,
+
+261
+00:16:09,820 --> 00:16:13,260
+not only to protect
+the revolution in Iran,
+
+262
+00:16:13,540 --> 00:16:15,380
+but also to export it overseas.
+
+263
+00:16:17,960 --> 00:16:20,660
+Okay, so does this all
+make sense to you guys?
+
+264
+00:16:21,660 --> 00:16:22,980
+But with so much power,
+
+265
+00:16:23,640 --> 00:16:26,680
+they eventually became corrupt.
+
+266
+00:16:28,060 --> 00:16:30,120
+Today, people believe that
+
+267
+00:16:30,120 --> 00:16:35,240
+they control about 10 to 50 percent of the
+population 50% of the entire Iranian economy
+
+268
+00:16:35,240 --> 00:16:37,060
+and Because
+
+269
+00:16:37,060 --> 00:16:40,580
+you have such a monopoly
+of power it meant that
+
+270
+00:16:41,400 --> 00:16:46,080
+over time The economy stagnated,
+
+271
+00:16:46,100 --> 00:16:50,800
+okay now Western sanctions American
+sanctions played a major role Okay,
+
+272
+00:16:50,840 --> 00:16:53,300
+Iran couldn't really sell its oil overseas
+
+273
+00:16:54,120 --> 00:16:56,660
+But the real problem was the fact that
+
+274
+00:16:56,660 --> 00:17:01,560
+you had a monopoly of power this revolutionary
+guard Corp controlling the entire economy
+
+275
+00:17:01,560 --> 00:17:03,540
+and this led to
+
+276
+00:17:04,440 --> 00:17:05,680
+Protests, okay. So
+
+277
+00:17:05,680 --> 00:17:08,460
+the first group protest was in 1999
+
+278
+00:17:08,460 --> 00:17:11,260
+you had 50,000 students
+
+279
+00:17:11,260 --> 00:17:15,540
+protesting the lack of democracy in
+
+280
+00:17:15,540 --> 00:17:18,480
+Iran what they were really
+protesting of course
+
+281
+00:17:18,480 --> 00:17:22,900
+was the corruption of the Revolutionary
+Guard Corp But you couldn't do that.
+
+282
+00:17:22,960 --> 00:17:25,420
+You can't say that so
+they were protesting for
+
+283
+00:17:26,500 --> 00:17:28,860
+democracy They were crushed
+
+284
+00:17:29,820 --> 00:17:34,740
+then in 2009 to 2010 there's
+something called a green movement
+
+285
+00:17:34,740 --> 00:17:37,760
+and the idea of the
+green movement was that
+
+286
+00:17:38,600 --> 00:17:41,660
+people wanted a new government
+
+287
+00:17:41,660 --> 00:17:44,240
+that promised reform and
+
+288
+00:17:45,320 --> 00:17:48,820
+In election their candidate
+the reform candidate lost
+
+289
+00:17:48,820 --> 00:17:51,380
+and people suspected that
+
+290
+00:17:51,380 --> 00:17:53,720
+the Revolutionary Guard Corp
+
+291
+00:17:55,160 --> 00:17:59,380
+Cheated and so there were
+violent protests and again the
+
+292
+00:18:00,780 --> 00:18:04,420
+Revolutionary Guard Corp
+suppressed the revolution
+
+293
+00:18:06,340 --> 00:18:08,120
+And at that
+
+294
+00:18:08,120 --> 00:18:12,740
+point basically people lost
+faith in democracy and so
+
+295
+00:18:13,760 --> 00:18:15,620
+afterwards every other
+
+296
+00:18:16,060 --> 00:18:20,540
+President was basically a
+puppet of the regime Okay,
+
+297
+00:18:20,580 --> 00:18:23,220
+and most the most recent protests that
+
+298
+00:18:23,220 --> 00:18:28,080
+in 2023 there was a young
+woman named Massa a nanny
+
+299
+00:18:28,080 --> 00:18:30,860
+and She was arrested by the police
+
+300
+00:18:30,860 --> 00:18:35,200
+for failing to wear
+head covering in public.
+
+301
+00:18:35,680 --> 00:18:37,580
+She died in custody.
+
+302
+00:18:38,380 --> 00:18:40,860
+People suspect that she
+was beaten by the police.
+
+303
+00:18:41,340 --> 00:18:45,680
+This caused massive
+protests across the country.
+
+304
+00:18:46,580 --> 00:18:48,880
+For the past 10 -20 years,
+
+305
+00:18:49,100 --> 00:18:51,000
+there have been continuous protests
+
+306
+00:18:51,000 --> 00:18:55,400
+in Iran about the government
+
+307
+00:18:55,400 --> 00:18:58,140
+and the economy, but
+mainly about the fact that
+
+308
+00:18:58,140 --> 00:19:01,840
+the Revolutionary Guard
+Corps has monopolized
+
+309
+00:19:01,840 --> 00:19:04,700
+the economy to its own benefit,
+
+310
+00:19:05,020 --> 00:19:08,800
+which has caused the economy to stagnate
+
+311
+00:19:08,800 --> 00:19:11,660
+and for people to become poorer over time.
+
+312
+00:19:12,160 --> 00:19:16,400
+But because the protests
+are so widespread,
+
+313
+00:19:17,760 --> 00:19:22,120
+the Revolutionary Guard Corps
+ironically has become more powerful
+
+314
+00:19:22,120 --> 00:19:26,640
+because they are more powerful. They are
+seen as the most loyal to the current regime.
+
+315
+00:19:27,720 --> 00:19:32,480
+Their loyalty is not contested.
+
+316
+00:19:33,620 --> 00:19:36,300
+What this means is this.
+
+317
+00:19:36,380 --> 00:19:38,180
+What this means is that
+
+318
+00:19:38,180 --> 00:19:43,280
+if there is a change in leadership,
+
+319
+00:19:44,720 --> 00:19:48,940
+if the Ayatollah dies and a new
+Ayatollah comes into power,
+
+320
+00:19:49,820 --> 00:19:52,800
+what the new Ayatollah will do
+
+321
+00:19:54,120 --> 00:19:58,680
+is reduce the power of the
+Revolutionary Guard Corps.
+
+322
+00:19:58,980 --> 00:20:02,940
+Does that make sense to you guys? Because
+he needs to establish his own power base.
+
+323
+00:20:03,220 --> 00:20:08,640
+And the Revolutionary Guard
+Corps was loyal to the current...
+
+324
+00:20:08,640 --> 00:20:13,240
+The Revolutionary Guard Corps is
+most loyal to the current leader,
+
+325
+00:20:13,660 --> 00:20:15,420
+the Ayatollah Khomeini.
+
+326
+00:20:15,960 --> 00:20:18,420
+But if there is a new
+Ayatollah who comes into power,
+
+327
+00:20:18,680 --> 00:20:20,860
+he needs to establish his own power base.
+
+328
+00:20:20,860 --> 00:20:24,420
+So he will bring his
+people into power. And that
+
+329
+00:20:24,420 --> 00:20:30,200
+means reducing the power of
+the Revolutionary Guard Corps.
+
+330
+00:20:30,400 --> 00:20:35,000
+Does that make sense? And so there will be a
+direct threat to the Revolutionary Guard Corps.
+
+331
+00:20:38,380 --> 00:20:41,880
+Now, if... But if the
+current leader's son,
+
+332
+00:20:42,220 --> 00:20:45,480
+Mostaba Khomeini, were to
+become the new Ayatollah,
+
+333
+00:20:45,600 --> 00:20:47,540
+then things would stay the same.
+
+334
+00:20:48,120 --> 00:20:53,660
+And the Revolutionary Guard Corps
+would continue to control the economy.
+
+335
+00:20:54,920 --> 00:20:56,580
+Okay? Does that make sense to you guys?
+
+336
+00:20:58,040 --> 00:20:59,600
+Alright? So again,
+
+337
+00:20:59,880 --> 00:21:05,860
+I'm presenting a reason why the Islamic
+Revolutionary Guard Corps would want to kill the current president
+
+338
+00:21:06,980 --> 00:21:09,220
+and ensure that
+
+339
+00:21:09,220 --> 00:21:12,580
+the Ayatollah's son
+becomes the next leader.
+
+340
+00:21:12,980 --> 00:21:17,840
+Because they want to maintain the
+monopoly of power over the country.
+
+341
+00:21:19,000 --> 00:21:20,340
+Does that make sense? Does
+that make sense to you guys?
+
+342
+00:21:21,200 --> 00:21:24,840
+Alright? Now, I now want to discuss
+
+343
+00:21:26,920 --> 00:21:30,800
+who these people are and how
+they think about the world.
+
+344
+00:21:30,900 --> 00:21:34,640
+Okay? Because they're corrupt,
+
+345
+00:21:34,940 --> 00:21:37,980
+but they're ultimately religious fanatics
+
+346
+00:21:38,720 --> 00:21:43,740
+that want to export the revolution
+across the Middle East.
+
+347
+00:21:44,680 --> 00:21:46,320
+Okay? So,
+
+348
+00:21:47,260 --> 00:21:50,140
+let's talk about 1979.
+
+349
+00:21:51,900 --> 00:21:56,800
+In 1979, the Shah left Iran
+
+350
+00:21:56,800 --> 00:21:59,960
+because there were so
+many protests against him.
+
+351
+00:22:00,220 --> 00:22:02,500
+The Shah realized that
+
+352
+00:22:03,120 --> 00:22:08,300
+it was very hard for him to stay in
+power despite the brutality of the army
+
+353
+00:22:08,300 --> 00:22:10,400
+and the police. There were
+just too many protests.
+
+354
+00:22:10,680 --> 00:22:12,340
+Too many people wanted to see him gone.
+
+355
+00:22:12,520 --> 00:22:13,840
+Okay? So he goes to America.
+
+356
+00:22:14,560 --> 00:22:19,260
+And there are many Iranians who are
+outraged by this for two reasons.
+
+357
+00:22:19,400 --> 00:22:22,240
+The first reason is
+that they want the Shah,
+
+358
+00:22:22,600 --> 00:22:27,100
+the king of Iran, to stand trial
+for all his human rights crimes
+
+359
+00:22:27,100 --> 00:22:30,100
+while he was king of Iran.
+
+360
+00:22:30,420 --> 00:22:32,640
+Okay? That's the first reason. But
+
+361
+00:22:32,640 --> 00:22:37,240
+the second reason is they were afraid
+that the Shah had gone to America
+
+362
+00:22:38,420 --> 00:22:40,600
+to win America's support
+
+363
+00:22:41,460 --> 00:22:45,900
+for an invasion of the country.
+
+364
+00:22:46,120 --> 00:22:48,860
+The Shah was trying to get
+America to invade Iran and
+
+365
+00:22:48,860 --> 00:22:52,460
+put him back in power,
+which happened in 1953.
+
+366
+00:22:53,380 --> 00:22:54,980
+Okay? And so,
+
+367
+00:22:55,940 --> 00:22:58,400
+to counter the threat of the Shah,
+
+368
+00:22:59,420 --> 00:23:01,320
+in November of 1979,
+
+369
+00:23:02,380 --> 00:23:04,260
+300 to 500 students,
+
+370
+00:23:04,660 --> 00:23:06,800
+college students, stormed the U.S.
+
+371
+00:23:06,820 --> 00:23:09,460
+Embassy and took it over and
+
+372
+00:23:09,460 --> 00:23:12,260
+held 53 Americans as hostages.
+
+373
+00:23:13,400 --> 00:23:18,980
+Okay? And they demanded the Shah
+be returned to Iran to stand trial.
+
+374
+00:23:19,840 --> 00:23:25,080
+Now, this is obviously an
+invasion of American territory.
+
+375
+00:23:25,280 --> 00:23:26,520
+This goes against international law.
+
+376
+00:23:27,360 --> 00:23:32,060
+But when the students did this,
+there was so much public support
+
+377
+00:23:33,000 --> 00:23:36,740
+for the students that the authorities
+didn't really do anything.
+
+378
+00:23:37,320 --> 00:23:41,800
+Also, the Ayatollah Khomeini
+supported the students.
+
+379
+00:23:42,200 --> 00:23:46,460
+Okay? So there was widespread
+public support for the students.
+
+380
+00:23:47,100 --> 00:23:49,560
+When the students invaded the embassy,
+
+381
+00:23:49,960 --> 00:23:51,560
+the first thing that
+
+382
+00:23:51,560 --> 00:23:56,040
+diplomats must do is basically
+destroy all the files, right?
+
+383
+00:23:56,280 --> 00:23:58,360
+All the secrets. So,
+
+384
+00:23:59,720 --> 00:24:02,960
+all embassies come with
+things called shredders.
+
+385
+00:24:03,440 --> 00:24:05,020
+Do you guys know what shredders are?
+
+386
+00:24:06,760 --> 00:24:09,260
+Okay? Shredders are
+just basically machines,
+
+387
+00:24:09,660 --> 00:24:11,140
+and if you wanted to destroy paperwork,
+
+388
+00:24:11,620 --> 00:24:13,420
+very quickly, you put it in the machine.
+
+389
+00:24:13,680 --> 00:24:19,380
+And the machine will cut the paper into
+about 100 different strips of paper.
+
+390
+00:24:19,660 --> 00:24:22,160
+Okay? And this is the fastest,
+
+391
+00:24:22,300 --> 00:24:25,200
+most effective way to
+destroy your documents.
+
+392
+00:24:26,440 --> 00:24:28,620
+And there are about like
+tens of thousands of pages.
+
+393
+00:24:29,880 --> 00:24:31,320
+Can you guess what the students did?
+
+394
+00:24:36,900 --> 00:24:39,780
+Over months, the students slowly
+
+395
+00:24:40,680 --> 00:24:41,800
+and methodically
+
+396
+00:24:43,240 --> 00:24:47,180
+pieced the documents
+back together one by one.
+
+397
+00:24:47,800 --> 00:24:51,060
+And what these documents
+revealed to the students
+
+398
+00:24:51,060 --> 00:24:54,040
+and to the public in Iran is that
+
+399
+00:24:55,660 --> 00:25:01,540
+the real center of power
+in Iran was not the palace
+
+400
+00:25:01,540 --> 00:25:03,620
+where the Shah lived, but the U.S.
+
+401
+00:25:03,660 --> 00:25:05,360
+Embassy. It was the U.S.
+
+402
+00:25:05,400 --> 00:25:09,260
+Embassy that was directing policy in Iran.
+
+403
+00:25:09,520 --> 00:25:12,240
+It was the U.S. Embassy
+that was responsible
+
+404
+00:25:12,850 --> 00:25:15,740
+for the brutality of the regime.
+
+405
+00:25:16,860 --> 00:25:18,080
+And it was the U.S.
+
+406
+00:25:18,140 --> 00:25:19,440
+Embassy that in 1953
+
+407
+00:25:21,880 --> 00:25:24,940
+staged a coup d 'etat against
+
+408
+00:25:24,940 --> 00:25:28,120
+the democratically
+elected government of Iran
+
+409
+00:25:28,120 --> 00:25:30,800
+and installed the police
+state of the Shah.
+
+410
+00:25:32,120 --> 00:25:34,360
+Okay? So these students,
+
+411
+00:25:35,480 --> 00:25:39,120
+when they read these
+documents, were really angry.
+
+412
+00:25:39,340 --> 00:25:42,140
+Okay? And you can imagine that
+
+413
+00:25:42,140 --> 00:25:46,000
+these students, because they pieced
+together these documents, right?
+
+414
+00:25:46,300 --> 00:25:49,240
+They're fanatics. And guess what, guys?
+
+415
+00:25:49,480 --> 00:25:52,520
+These students have gone on to
+
+416
+00:25:52,520 --> 00:25:58,380
+become the top military
+leaders of the country.
+
+417
+00:25:58,820 --> 00:26:00,900
+Okay? And I'll just give you three names.
+
+418
+00:26:02,220 --> 00:26:04,060
+Hussein Dagan, who
+
+419
+00:26:04,060 --> 00:26:08,220
+was the Minister of
+Defense from 2013 to 2017.
+
+420
+00:26:08,360 --> 00:26:11,640
+Okay? He was a student
+protester in the U.S.
+
+421
+00:26:11,700 --> 00:26:13,940
+Embassy. That's one person.
+
+422
+00:26:14,020 --> 00:26:17,460
+Second person is Mohammad Ali Jafari, who
+
+423
+00:26:17,460 --> 00:26:21,340
+from 2007 to 2019
+
+424
+00:26:21,340 --> 00:26:23,620
+was head of the
+
+425
+00:26:24,540 --> 00:26:26,080
+Revolutionary Guard Corps. Okay?
+
+426
+00:26:27,560 --> 00:26:30,520
+And also, Mohammad Bagari,
+
+427
+00:26:30,800 --> 00:26:34,280
+who is still the Chief of
+Staff of the Iranian Army.
+
+428
+00:26:37,140 --> 00:26:42,240
+So the Revolutionary Guard
+Corps are staffed by individuals
+
+429
+00:26:42,240 --> 00:26:45,560
+who hate America and
+
+430
+00:26:45,560 --> 00:26:47,600
+see America as the great Satan.
+
+431
+00:26:47,760 --> 00:26:49,080
+And they basically want to go to war
+
+432
+00:26:49,080 --> 00:26:54,440
+with America to revenge the wrongs
+
+433
+00:26:54,440 --> 00:26:56,220
+and evils that America did to Iran.
+
+434
+00:26:56,440 --> 00:27:00,480
+Okay? Does that make sense?
+Second thing I'll mention is that
+
+435
+00:27:02,000 --> 00:27:05,600
+when, when, sorry, when
+Saddam Hussein invaded
+
+436
+00:27:08,060 --> 00:27:09,680
+Iran in 1980,
+
+437
+00:27:10,760 --> 00:27:12,780
+Iran didn't really have an army.
+
+438
+00:27:12,980 --> 00:27:14,920
+And the reason why is that
+
+439
+00:27:15,800 --> 00:27:17,400
+the Revolutionary Guard Corps
+
+440
+00:27:18,240 --> 00:27:21,440
+had arrested or exiled or executed
+
+441
+00:27:22,200 --> 00:27:25,780
+the officers of the military because they
+were not seen as loyal to the Revolution.
+
+442
+00:27:26,200 --> 00:27:28,620
+They were seen as loyal to the Shah.
+
+443
+00:27:29,220 --> 00:27:34,540
+Okay? So, Iran didn't have an army.
+
+444
+00:27:34,780 --> 00:27:37,300
+And Saddam Hussein had airplanes.
+
+445
+00:27:37,620 --> 00:27:40,580
+He had tanks. He had lots of soldiers.
+
+446
+00:27:41,180 --> 00:27:45,080
+And everyone thought that the
+war would end very quickly.
+
+447
+00:27:45,860 --> 00:27:46,900
+But then,
+
+448
+00:27:47,020 --> 00:27:49,480
+what the Revolutionary Guard Corps did
+
+449
+00:27:49,480 --> 00:27:55,440
+was they organized a new
+army called the Basashi.
+
+450
+00:27:55,760 --> 00:27:58,620
+Okay? The Basashi.
+
+451
+00:27:58,960 --> 00:28:01,460
+And this was a very important
+It was a volunteer army
+
+452
+00:28:02,060 --> 00:28:05,620
+of poor religious people
+from the villages.
+
+453
+00:28:06,360 --> 00:28:09,820
+And what the Al -Atullah
+Khomeini said to them is,
+
+454
+00:28:10,100 --> 00:28:13,180
+we don't have weapons, but
+
+455
+00:28:13,180 --> 00:28:15,400
+we have God on our side.
+
+456
+00:28:16,140 --> 00:28:20,680
+Okay? The Iraqis have armor,
+
+457
+00:28:20,840 --> 00:28:22,760
+but we have divine power.
+
+458
+00:28:23,360 --> 00:28:24,800
+And what they did was,
+
+459
+00:28:25,720 --> 00:28:29,880
+for, to these villagers, and these
+guys are about your age, okay?
+
+460
+00:28:30,260 --> 00:28:34,920
+They're 16, 17, 18. And they
+gave each of these guys
+
+461
+00:28:35,900 --> 00:28:37,440
+a rifle and
+
+462
+00:28:37,440 --> 00:28:41,100
+a key to put over their necks.
+
+463
+00:28:41,280 --> 00:28:44,960
+Okay? And the idea is that this
+key is your entry into heaven.
+
+464
+00:28:45,340 --> 00:28:49,720
+Because when you die in war,
+you are granted automatic entry
+
+465
+00:28:51,040 --> 00:28:55,020
+into heaven. And so, these guys,
+
+466
+00:28:55,760 --> 00:28:58,100
+and they were organized into
+groups of like 22, okay?
+
+467
+00:28:58,100 --> 00:29:01,160
+They would run ahead
+
+468
+00:29:01,160 --> 00:29:04,600
+across Iraqi minefields.
+
+469
+00:29:05,120 --> 00:29:08,520
+Tanks would strike at them, okay?
+
+470
+00:29:09,040 --> 00:29:11,220
+Helicopters would come and strike at them.
+
+471
+00:29:11,380 --> 00:29:13,960
+And they would keep on
+running. And of course,
+
+472
+00:29:15,400 --> 00:29:16,900
+they would die, okay?
+
+473
+00:29:18,700 --> 00:29:20,680
+Because they didn't have any armor.
+
+474
+00:29:21,960 --> 00:29:24,560
+But the Iraqis spent so
+
+475
+00:29:24,560 --> 00:29:27,980
+much ammunition and bombs,
+
+476
+00:29:29,100 --> 00:29:32,020
+on them, that
+
+477
+00:29:32,020 --> 00:29:34,960
+eventually, the Iraqi
+army became exhausted.
+
+478
+00:29:35,480 --> 00:29:39,960
+Okay? Does that make sense?
+And so, they withdrew.
+
+479
+00:29:40,100 --> 00:29:42,800
+But then, Iran took the fight to Iraq.
+
+480
+00:29:43,520 --> 00:29:45,780
+But this shows you that
+
+481
+00:29:47,100 --> 00:29:48,760
+the main power
+
+482
+00:29:49,800 --> 00:29:53,260
+in Iran, why Iran is such
+a powerful military,
+
+483
+00:29:53,400 --> 00:29:56,720
+is that their Relative
+Security Guard Corps
+
+484
+00:29:56,720 --> 00:30:00,840
+are run by fanatics with
+
+485
+00:30:00,840 --> 00:30:04,300
+a passion for revolution.
+
+486
+00:30:04,780 --> 00:30:06,040
+And they're supported
+
+487
+00:30:06,510 --> 00:30:09,980
+by the Bajajis, who are these poor,
+
+488
+00:30:10,720 --> 00:30:12,300
+illiterate religious volunteers.
+
+489
+00:30:12,800 --> 00:30:17,620
+And there's tens of millions
+of them for Iran to draw on.
+
+490
+00:30:18,400 --> 00:30:20,720
+Okay? And,
+
+491
+00:30:22,540 --> 00:30:26,020
+what the Relative Security
+Guard Corps has been doing,
+
+492
+00:30:27,360 --> 00:30:30,400
+after the Iraq war is,
+
+493
+00:30:30,520 --> 00:30:34,620
+they recognize that if an
+enemy comes to attack Iran,
+
+494
+00:30:36,260 --> 00:30:41,000
+people are going to die. So they
+want to take the fight to them.
+
+495
+00:30:41,420 --> 00:30:44,220
+Okay? And that's why, for
+the past 20, 30 years,
+
+496
+00:30:44,840 --> 00:30:47,500
+the Relative Security Guard
+Corps has been supporting
+
+497
+00:30:49,500 --> 00:30:50,940
+conflict in the Middle East.
+
+498
+00:30:51,220 --> 00:30:54,540
+They started something called
+the Axis of Resistance.
+
+499
+00:30:59,920 --> 00:31:02,460
+So, the Axis of Resistance includes
+
+500
+00:31:04,220 --> 00:31:06,600
+Hamas in the Gaza Strip,
+
+501
+00:31:06,820 --> 00:31:11,200
+Hezbollah in Lebanon,
+the Houthis in Yemen,
+
+502
+00:31:13,140 --> 00:31:15,840
+Syria, the Assad regime in Syria,
+
+503
+00:31:16,720 --> 00:31:20,860
+as well as Shia militia in Iraq.
+
+504
+00:31:21,420 --> 00:31:24,800
+Okay? And so, all the money that
+
+505
+00:31:24,800 --> 00:31:26,580
+the Relative Security Guard Corps makes
+
+506
+00:31:28,180 --> 00:31:30,380
+in Iran, is then
+
+507
+00:31:30,380 --> 00:31:35,200
+sent to this Axis of Resistance to
+create conflict against Saudi Arabia,
+
+508
+00:31:35,460 --> 00:31:37,860
+United States, and Israel.
+
+509
+00:31:38,440 --> 00:31:41,120
+Okay? Does that make sense? But, so,
+
+510
+00:31:41,200 --> 00:31:44,420
+you can imagine that there's some people,
+
+511
+00:31:44,580 --> 00:31:47,660
+and actually a lot of people in Iran who
+
+512
+00:31:47,660 --> 00:31:50,620
+are like, why are we doing this? Again?
+
+513
+00:31:52,000 --> 00:31:56,460
+What if we withdrew from the Middle East
+
+514
+00:31:57,060 --> 00:31:59,060
+and just focused on our own economy?
+
+515
+00:31:59,480 --> 00:32:00,900
+Then, Israel,
+
+516
+00:32:01,260 --> 00:32:02,820
+Saudi Arabia, and
+
+517
+00:32:02,820 --> 00:32:06,720
+the United States won't
+have a reason to attack us.
+
+518
+00:32:10,480 --> 00:32:13,700
+Okay? So, there are people who,
+
+519
+00:32:13,780 --> 00:32:17,900
+who are thinking like, maybe
+the problem isn't Israel,
+
+520
+00:32:18,120 --> 00:32:20,360
+maybe the problem isn't the United States,
+
+521
+00:32:20,420 --> 00:32:23,280
+maybe the problem is these
+guys because they're fanatics.
+
+522
+00:32:23,720 --> 00:32:26,980
+And they're creating all these
+problems in the Middle East,
+
+523
+00:32:27,160 --> 00:32:30,240
+which is crippling our economy.
+
+524
+00:32:30,640 --> 00:32:33,400
+If we stop these conflicts and
+
+525
+00:32:33,400 --> 00:32:36,780
+just focus on our own
+economic development, then
+
+526
+00:32:36,780 --> 00:32:38,820
+maybe our people will be better off.
+
+527
+00:32:45,660 --> 00:32:48,400
+And one reason to think
+
+528
+00:32:48,400 --> 00:32:52,700
+that there are people in Iran,
+
+529
+00:32:52,980 --> 00:32:55,820
+politicians in Iran, who
+
+530
+00:32:55,820 --> 00:33:00,200
+are extremely skeptical of Revenue Guard
+
+531
+00:33:00,200 --> 00:33:04,820
+policy in the Middle East
+is that in January 2020,
+
+532
+00:33:06,380 --> 00:33:10,040
+remember that General Soleimani was
+assassinated by the Americans, right?
+
+533
+00:33:10,820 --> 00:33:14,820
+The Iranian response
+wasn't that big of a deal.
+
+534
+00:33:15,080 --> 00:33:16,760
+The Iranians basically didn't respond.
+
+535
+00:33:18,160 --> 00:33:21,720
+Whereas, the Revenue Guard Corps, because
+
+536
+00:33:21,720 --> 00:33:23,920
+their leader was killed, they demanded
+
+537
+00:33:24,600 --> 00:33:26,020
+vengeance, right?
+
+538
+00:33:26,140 --> 00:33:29,280
+They wanted to go to
+war. But we can suspect
+
+539
+00:33:29,280 --> 00:33:32,280
+that it was the politicians like Raisi
+
+540
+00:33:32,280 --> 00:33:36,280
+who basically said, no guys,
+let's be patient, okay?
+
+541
+00:33:36,500 --> 00:33:39,380
+Going to war against Israel and the
+United States right now is suicidal.
+
+542
+00:33:40,300 --> 00:33:43,160
+So they were urging caution and restraint.
+
+543
+00:33:43,520 --> 00:33:45,840
+And the Revenue Guard
+Corps didn't like that.
+
+544
+00:33:47,160 --> 00:33:49,920
+And then April 1st
+
+545
+00:33:50,760 --> 00:33:55,040
+of this year, the Israelis struck
+down the Iranian embassy, right?
+
+546
+00:33:55,180 --> 00:33:58,060
+Which made matters worse.
+And again, at that time,
+
+547
+00:33:58,160 --> 00:34:01,360
+I'm sure the Revenue Guard
+Corps was let's just go to war.
+
+548
+00:34:02,020 --> 00:34:05,100
+And again, I'm sure Raisi and
+
+549
+00:34:05,100 --> 00:34:07,920
+his team said to them, guys,
+
+550
+00:34:08,680 --> 00:34:11,960
+we cannot beat the United
+States and Israel in a war.
+
+551
+00:34:12,240 --> 00:34:13,940
+Let's be strategic about this.
+
+552
+00:34:14,080 --> 00:34:17,580
+Let's be patient. Our time will
+come, but we need to be patient.
+
+553
+00:34:18,820 --> 00:34:22,220
+Okay? And
+
+554
+00:34:22,220 --> 00:34:25,320
+I'm sure that because of
+fanatics, they were like,
+
+555
+00:34:25,440 --> 00:34:28,400
+they are in a way, these
+politicians are cowards.
+
+556
+00:34:28,940 --> 00:34:30,640
+They're weak. They're soft.
+
+557
+00:34:31,340 --> 00:34:32,560
+They're not believers.
+
+558
+00:34:33,980 --> 00:34:35,280
+Let's get rid of them. Okay?
+
+559
+00:34:36,400 --> 00:34:38,540
+And then what happened on May 19th
+
+560
+00:34:39,300 --> 00:34:40,800
+was an opportunity arise
+
+561
+00:34:41,340 --> 00:34:44,840
+where there was fog and they were
+like, well, here's our opportunity.
+
+562
+00:34:45,100 --> 00:34:47,480
+And so they caused an accident.
+
+563
+00:34:48,480 --> 00:34:51,200
+Okay? Does it make sense, guys?
+
+564
+00:34:51,700 --> 00:34:54,280
+Okay. So,
+
+565
+00:34:54,780 --> 00:34:57,180
+again, I don't know what happened, but
+
+566
+00:34:57,180 --> 00:35:01,520
+if we look at game theory and
+we examine who would benefit
+
+567
+00:35:02,060 --> 00:35:03,600
+from the death of Raisi,
+
+568
+00:35:04,820 --> 00:35:07,520
+this group of people, the
+Revolutionary Guard Corps,
+
+569
+00:35:07,720 --> 00:35:10,300
+would most benefit because
+
+570
+00:35:10,300 --> 00:35:14,240
+it is very likely that if Raisi
+became the next Supreme Leader,
+
+571
+00:35:14,540 --> 00:35:17,420
+their authority and their
+policies would be challenged.
+
+572
+00:35:18,360 --> 00:35:21,220
+Okay? And
+
+573
+00:35:21,220 --> 00:35:24,540
+so, by getting rid of Raisi,
+
+574
+00:35:24,740 --> 00:35:26,820
+it makes Mojaba Khomeini,
+
+575
+00:35:27,400 --> 00:35:31,560
+the son of the Ayatollah,
+that much more probable
+
+576
+00:35:32,100 --> 00:35:34,240
+in ascending to the Supreme Authority.
+
+577
+00:35:34,520 --> 00:35:39,060
+And that allows them to maintain
+their power, monopoly of power.
+
+578
+00:35:41,060 --> 00:35:46,460
+And even if this accession
+causes a legitimacy crisis,
+
+579
+00:35:46,920 --> 00:35:50,140
+well, it's good for them because
+
+580
+00:35:50,140 --> 00:35:53,940
+then the regime is even
+more dependent on them.
+
+581
+00:35:54,460 --> 00:35:57,520
+Okay? Does that make sense?
+So, during these protests,
+
+582
+00:36:00,660 --> 00:36:02,400
+especially the Green Movement,
+
+583
+00:36:03,040 --> 00:36:07,300
+the Revolutionary Guard Corps was the
+ones responsible for cracking down.
+
+584
+00:36:07,540 --> 00:36:10,700
+And they were violent and
+brutal in cracking down.
+
+585
+00:36:11,240 --> 00:36:15,380
+Okay? So, okay.
+
+586
+00:36:15,660 --> 00:36:19,180
+Are you guys clear about the logic here?
+
+587
+00:36:19,700 --> 00:36:23,860
+Any questions?.
+
+588
+00:36:30,960 --> 00:36:33,160
+Okay. That's a great question.
+
+589
+00:36:33,260 --> 00:36:35,260
+So, Suning asked, does
+the military still exist?
+
+590
+00:36:35,380 --> 00:36:37,100
+And the answer is yes, it still exists.
+
+591
+00:36:37,620 --> 00:36:39,040
+Okay? But again,
+
+592
+00:36:41,300 --> 00:36:43,580
+the Revolutionary Guard Corps
+has certain responsibilities
+
+593
+00:36:44,000 --> 00:36:45,680
+that make it the most powerful group.
+
+594
+00:36:45,860 --> 00:36:48,840
+Okay? So, the first thing is that
+
+595
+00:36:50,180 --> 00:36:52,460
+it's responsible for the Navy.
+
+596
+00:36:52,880 --> 00:36:55,440
+Okay? Why is this important?
+Because the Strait of Hormuz
+
+597
+00:36:56,000 --> 00:36:58,200
+is a very strategic shipping lane.
+
+598
+00:36:58,760 --> 00:37:03,060
+And so, they're responsible
+to maintain that strait.
+
+599
+00:37:03,200 --> 00:37:06,400
+Okay? And the Navy allows
+them also to smuggle,
+
+600
+00:37:06,580 --> 00:37:09,360
+which means that they can make
+more money for themselves.
+
+601
+00:37:09,800 --> 00:37:11,100
+Okay? So, that's the first thing.
+
+602
+00:37:11,200 --> 00:37:15,160
+Second thing is that they're also
+responsible for the missile program.
+
+603
+00:37:16,020 --> 00:37:18,820
+. Okay?
+
+604
+00:37:20,900 --> 00:37:25,500
+And this is where actually the military
+spends most of its money, the missiles.
+
+605
+00:37:25,880 --> 00:37:28,820
+Okay? And the third thing is,
+
+606
+00:37:28,920 --> 00:37:31,540
+of course, foreign policy.
+
+607
+00:37:33,140 --> 00:37:35,620
+Meaning that the acts of resistance gets,
+
+608
+00:37:36,580 --> 00:37:41,360
+sorry, the acts of resistance only interacts
+with the Revolutionary Guard Corps.
+
+609
+00:37:41,580 --> 00:37:44,200
+Okay? So, General Soleimani
+
+610
+00:37:44,200 --> 00:37:46,580
+and the two generals who died
+
+611
+00:37:47,880 --> 00:37:49,460
+in the iftar, the Israeli airstrike,
+
+612
+00:37:49,620 --> 00:37:52,840
+they all belong to the Islamic
+Revolutionary Guard Corps.
+
+613
+00:37:53,000 --> 00:37:57,000
+Okay? So, these three things mean
+
+614
+00:37:57,000 --> 00:37:59,820
+that the Islamic
+Revolutionary Guard Corps,
+
+615
+00:38:00,020 --> 00:38:04,200
+they control basically all the money
+and all the power in the country.
+
+616
+00:38:05,380 --> 00:38:06,680
+Okay? But they're still military.
+
+617
+00:38:07,560 --> 00:38:09,520
+Does that make sense? All right.
+
+618
+00:38:09,600 --> 00:38:13,060
+Any more questions?.
+
+619
+00:38:15,340 --> 00:38:17,280
+...
+
+620
+00:38:17,800 --> 00:38:19,620
+..
+
+621
+00:38:20,880 --> 00:38:23,080
+Okay. So Jack asked a great question.
+
+622
+00:38:23,340 --> 00:38:25,620
+Why is the Revolutionary Guard Corps,
+
+623
+00:38:25,820 --> 00:38:29,680
+why do they believe that they
+can control Moshtaba Khomeini?
+
+624
+00:38:29,820 --> 00:38:34,040
+Okay? Okay. So, in 1989,
+
+625
+00:38:34,700 --> 00:38:37,540
+the first Ayatollah Khomeini died.
+
+626
+00:38:38,160 --> 00:38:42,480
+And Ayatollah Khomeini succeeded him.
+
+627
+00:38:42,860 --> 00:38:47,560
+And the moment he became
+the new Ayatollah,
+
+628
+00:38:47,660 --> 00:38:48,780
+he focused on the fact that
+
+629
+00:38:48,780 --> 00:38:54,440
+he focused on cultivating his personal
+relationship with the Revolutionary Guard Corps.
+
+630
+00:38:54,640 --> 00:38:58,740
+Okay? So basically, he knows,
+there's about 250,000 of them.
+
+631
+00:38:59,620 --> 00:39:04,320
+And he made a point of meeting
+everyone and memorizing their names.
+
+632
+00:39:04,520 --> 00:39:08,740
+He even knows the names
+of their children. So
+
+633
+00:39:08,740 --> 00:39:11,860
+the current Ayatollah Khomeini has a
+
+634
+00:39:11,860 --> 00:39:16,440
+great personal relationship with the
+Islamic Revolutionary Guard Corps.
+
+635
+00:39:16,580 --> 00:39:18,180
+Okay? They're basically his private army.
+
+636
+00:39:21,060 --> 00:39:24,040
+And the reason why
+
+637
+00:39:24,040 --> 00:39:28,900
+that the Revolutionary Guard Corps
+would transfer loyalty to Moshtaba is
+
+638
+00:39:28,900 --> 00:39:32,740
+that Moshtaba himself is an
+extremely unpopular figure.
+
+639
+00:39:33,240 --> 00:39:34,580
+If he were popular,
+
+640
+00:39:34,940 --> 00:39:36,340
+if he were like a clever politician,
+
+641
+00:39:36,840 --> 00:39:41,260
+then he would most likely
+become the next Ayatollah.
+
+642
+00:39:41,840 --> 00:39:44,220
+But because he's very unpopular,
+
+643
+00:39:44,900 --> 00:39:46,660
+there's a lot of resistance to him.
+
+644
+00:39:47,040 --> 00:39:51,460
+So if he's unpopular, if he becomes the
+next Ayatollah, it would be only because
+
+645
+00:39:52,100 --> 00:39:54,720
+the Revolutionary Guard Corps
+put him there, which means that
+
+646
+00:39:54,720 --> 00:39:59,300
+he must be loyal and
+obedient to their policies.
+
+647
+00:39:59,580 --> 00:40:01,540
+Does that make sense, Jack? Okay.
+
+648
+00:40:01,800 --> 00:40:04,740
+But that's a great question. Any
+more questions before I move on?
+
+649
+00:40:09,420 --> 00:40:13,080
+Okay. So Celine asked a great question.
+
+650
+00:40:13,580 --> 00:40:16,500
+What changes now that Raisi is dead?
+
+651
+00:40:16,500 --> 00:40:19,640
+Okay. Now, all right.
+
+652
+00:40:19,740 --> 00:40:24,000
+So if it was an accident,
+
+653
+00:40:24,820 --> 00:40:27,560
+then in theory, nothing changes because
+
+654
+00:40:27,560 --> 00:40:29,900
+ultimately, it's the Ayatollah Khomeini
+
+655
+00:40:30,400 --> 00:40:32,500
+who is responsible for policy.
+
+656
+00:40:32,900 --> 00:40:34,900
+Okay? But
+
+657
+00:40:34,900 --> 00:40:38,260
+if I am correct and
+
+658
+00:40:38,260 --> 00:40:41,080
+it was a planned assassination
+
+659
+00:40:41,080 --> 00:40:44,340
+by the Revolutionary Guard Corps,
+
+660
+00:40:44,580 --> 00:40:46,040
+then everything changes.
+
+661
+00:40:46,820 --> 00:40:49,700
+Okay? What this means is that
+
+662
+00:40:52,320 --> 00:40:55,020
+the political class goes away
+
+663
+00:40:55,020 --> 00:40:59,400
+and the military class takes
+over and they dictate policy.
+
+664
+00:41:00,240 --> 00:41:01,820
+Okay? So you will see,
+
+665
+00:41:03,180 --> 00:41:07,340
+first of all, there's
+going to be an election.
+
+666
+00:41:07,540 --> 00:41:08,860
+Okay? So in late June,
+
+667
+00:41:09,000 --> 00:41:12,660
+there will be someone to
+replace the president.
+
+668
+00:41:13,100 --> 00:41:16,480
+And it's most likely that
+the current vice president
+
+669
+00:41:16,480 --> 00:41:20,240
+who is Mohammad Makbar,
+the current vice president,
+
+670
+00:41:20,420 --> 00:41:22,220
+will become the new president.
+
+671
+00:41:22,560 --> 00:41:23,760
+And this is important
+
+672
+00:41:24,300 --> 00:41:28,840
+because Raisi does not come from
+the Revolutionary Guard Corps.
+
+673
+00:41:29,040 --> 00:41:30,480
+He comes from the judiciary.
+
+674
+00:41:30,940 --> 00:41:32,700
+Okay? That's a different power base.
+
+675
+00:41:33,300 --> 00:41:39,280
+But Mohammad Makbar comes from
+the Revolutionary Guard Corps.
+
+676
+00:41:39,660 --> 00:41:42,680
+So he would advance Revolutionary
+Guard Corps interests.
+
+677
+00:41:45,080 --> 00:41:48,280
+Okay? And if that's the case, then
+
+678
+00:41:48,280 --> 00:41:50,760
+what we'll see is
+
+679
+00:41:52,520 --> 00:41:54,400
+the country, the leadership,
+
+680
+00:41:54,580 --> 00:41:57,500
+preparing its people for total war.
+
+681
+00:41:58,440 --> 00:42:02,060
+Okay? We will see that the
+rhetoric becomes more extreme
+
+682
+00:42:02,760 --> 00:42:07,100
+and preparing its people for
+an eventual American invasion.
+
+683
+00:42:08,340 --> 00:42:12,440
+There will be much more harsh
+crackdown on political dissent.
+
+684
+00:42:12,980 --> 00:42:16,820
+Okay? So that's the first thing.
+
+685
+00:42:16,940 --> 00:42:18,600
+Second thing is that
+
+686
+00:42:19,540 --> 00:42:23,580
+the Revolutionary Guard Corps
+cannot defeat America face to face.
+
+687
+00:42:24,220 --> 00:42:26,780
+Okay? The only thing that they
+can do to defeat America and
+
+688
+00:42:26,780 --> 00:42:29,400
+Israel is to lure them into the country.
+
+689
+00:42:30,620 --> 00:42:32,460
+And they do that by provoking them.
+
+690
+00:42:32,560 --> 00:42:35,360
+Okay? So there are different things
+that they can do to provoke America.
+
+691
+00:42:35,680 --> 00:42:37,740
+The first is to accelerate
+
+692
+00:42:40,420 --> 00:42:42,760
+the nuclear program. Okay?
+
+693
+00:42:43,200 --> 00:42:45,600
+And the second thing is to encourage
+the proxies. What America and
+
+694
+00:42:45,600 --> 00:42:47,960
+Israel have said is they see
+
+695
+00:42:47,960 --> 00:42:53,500
+Iran possessing nuclear weapon
+as an existential threat
+
+696
+00:42:54,360 --> 00:42:55,960
+to the safety of Israel.
+
+697
+00:42:56,820 --> 00:42:58,400
+So this is a no -no.
+
+698
+00:42:58,560 --> 00:43:02,740
+Okay? So if Iran accelerates the program,
+
+699
+00:43:03,060 --> 00:43:05,280
+this is a direct provocation.
+
+700
+00:43:05,320 --> 00:43:08,100
+Okay? That's the first
+thing. Second thing is to
+
+701
+00:43:10,260 --> 00:43:11,940
+encourage the proxies.
+
+702
+00:43:15,200 --> 00:43:16,740
+Okay, so
+
+703
+00:43:16,740 --> 00:43:21,600
+right now Israel is very concerned
+about Hezbollah in the north.
+
+704
+00:43:21,680 --> 00:43:23,500
+Hamas has already attacked them.
+
+705
+00:43:25,080 --> 00:43:27,320
+Hezbollah could also attack Israel.
+
+706
+00:43:27,900 --> 00:43:30,500
+If Hezbollah attacks Israel,
+
+707
+00:43:30,840 --> 00:43:36,680
+then Israel can only interpret this as
+Iran encouraging Hezbollah to attack them.
+
+708
+00:43:37,700 --> 00:43:40,780
+But if Hezbollah attacks Israel,
+
+709
+00:43:41,080 --> 00:43:44,880
+then Israel and the United States
+would see this as an escalation
+
+710
+00:43:44,880 --> 00:43:45,780
+and
+
+711
+00:43:45,780 --> 00:43:50,920
+they would be much more determined to
+eventually attack Iran in some way.
+
+712
+00:43:52,020 --> 00:43:55,640
+You also have Shia
+
+713
+00:43:55,640 --> 00:43:58,380
+militias in Iraq
+
+714
+00:43:58,380 --> 00:44:00,600
+who could attack US military bases.
+
+715
+00:44:03,180 --> 00:44:06,660
+You also have the Houthis in
+Yemen who can attack Syria.
+
+716
+00:44:06,660 --> 00:44:08,120
+You also have Saudi Arabia, oil fields.
+
+717
+00:44:10,660 --> 00:44:14,940
+So you're encouraging your proxies to
+make things worse in the Middle East,
+
+718
+00:44:15,120 --> 00:44:17,180
+in which case the United
+States can only conclude that
+
+719
+00:44:17,180 --> 00:44:20,240
+we need to destroy the head
+of the snake, which is Iran.
+
+720
+00:44:21,380 --> 00:44:22,900
+The second thing that could happen.
+
+721
+00:44:23,080 --> 00:44:24,720
+The third thing that could happen is
+
+722
+00:44:24,720 --> 00:44:31,420
+basically Iran
+
+723
+00:44:31,420 --> 00:44:33,000
+starts to attack shipping lanes.
+
+724
+00:44:34,360 --> 00:44:37,560
+Okay? It makes shipping
+much more difficult.
+
+725
+00:44:38,460 --> 00:44:44,240
+And the fourth thing is basically terror.
+
+726
+00:44:44,960 --> 00:44:47,560
+Basically Iran,
+
+727
+00:44:47,940 --> 00:44:49,440
+through its proxy,
+
+728
+00:44:49,540 --> 00:44:53,280
+launches terror attacks
+against America and its allies.
+
+729
+00:44:54,520 --> 00:44:57,220
+So there are many things that
+
+730
+00:44:57,220 --> 00:45:00,220
+Iran can do to provoke a war.
+
+731
+00:45:00,860 --> 00:45:03,660
+And again, if I'm right.
+
+732
+00:45:03,900 --> 00:45:06,100
+And again, I don't know. I
+don't know if I'm right or not.
+
+733
+00:45:06,940 --> 00:45:10,260
+Then we should expect that in late June,
+
+734
+00:45:10,480 --> 00:45:14,300
+Mohammed Markbar wins the
+election and his rhetoric
+
+735
+00:45:15,160 --> 00:45:17,000
+becomes much more extremist.
+
+736
+00:45:17,800 --> 00:45:19,460
+We need to take a fight to America.
+
+737
+00:45:20,320 --> 00:45:22,360
+We need to avenge Soleimani.
+
+738
+00:45:24,380 --> 00:45:26,560
+We can also expect that
+
+739
+00:45:26,560 --> 00:45:31,200
+the fighting in the Middle
+East becomes much more extreme.
+
+740
+00:45:32,800 --> 00:45:34,360
+Okay? So, I'm going to stop here.
+
+741
+00:45:34,360 --> 00:45:35,620
+I'm going to stop. I'm going to stop.
+
+742
+00:45:35,620 --> 00:45:37,280
+And we should see escalation.
+
+743
+00:45:38,580 --> 00:45:40,880
+The acceleration of the nuclear program,
+
+744
+00:45:41,140 --> 00:45:44,120
+proxies become much more violent.
+
+745
+00:45:44,900 --> 00:45:47,340
+Shipping is disturbed.
+
+746
+00:45:47,780 --> 00:45:51,080
+And you have a terror
+campaign throughout the world.
+
+747
+00:45:51,580 --> 00:45:53,580
+Okay? Does that make sense?
+
+748
+00:45:54,860 --> 00:45:56,920
+All right. But again, I don't know.
+
+749
+00:45:57,760 --> 00:46:00,860
+And also, by the way, just because
+
+750
+00:46:00,860 --> 00:46:03,860
+these things might happen, does not mean
+
+751
+00:46:03,860 --> 00:46:06,000
+that we're going to see
+a lot of people kill.
+
+752
+00:46:06,820 --> 00:46:08,460
+Okay? Do you understand?
+
+753
+00:46:08,860 --> 00:46:11,780
+But I'm saying that if,
+
+754
+00:46:11,980 --> 00:46:15,520
+in fact, the Revolutionary
+Guard Corp did kill Raisi,
+
+755
+00:46:15,680 --> 00:46:18,160
+then we should see these things happening.
+
+756
+00:46:18,640 --> 00:46:22,120
+But just because these things
+happen does not mean that
+
+757
+00:46:22,120 --> 00:46:24,000
+Raisi was killed.
+
+758
+00:46:24,140 --> 00:46:26,560
+Okay? Does that make sense? All right.
+
+759
+00:46:27,520 --> 00:46:30,720
+Any more questions? So, you're saying that
+
+760
+00:46:30,720 --> 00:46:34,780
+the war is going to be more international
+or maybe it's going to be more global?
+
+761
+00:46:37,300 --> 00:46:41,660
+Okay. So, Celine's question is,
+how will they fight the war?
+
+762
+00:46:42,420 --> 00:46:44,900
+And they can only fight
+the war in one way, which
+
+763
+00:46:44,900 --> 00:46:47,380
+is to lure the Americans
+into attacking Iran.
+
+764
+00:46:48,260 --> 00:46:52,220
+Okay? Does that make sense? It is
+suicide to attack America in the open.
+
+765
+00:46:52,680 --> 00:46:55,500
+Remember that America has
+shock and awe, which means that
+
+766
+00:46:55,500 --> 00:46:58,640
+they have air supremacy, which
+means they have satellites
+
+767
+00:46:58,640 --> 00:47:02,180
+that can see everything that you do,
+which means they have special forces.
+
+768
+00:47:02,480 --> 00:47:04,820
+Okay? It is suicide to
+
+769
+00:47:04,820 --> 00:47:09,300
+attack America in the open.
+
+770
+00:47:09,880 --> 00:47:14,480
+So what Iran needs to do is trick
+America into invading Iran,
+
+771
+00:47:14,780 --> 00:47:17,620
+and then America would lose for sure.
+
+772
+00:47:18,240 --> 00:47:20,580
+Okay? And that's something
+that we'll discuss next week.
+
+773
+00:47:20,760 --> 00:47:22,320
+But that's what they have to do.
+
+774
+00:47:22,640 --> 00:47:25,500
+And again, if they provoke America enough,
+
+775
+00:47:25,800 --> 00:47:29,340
+then America will eventually get angry enough
+to send an invasion force against Iran.
+
+776
+00:47:30,020 --> 00:47:31,700
+Does that make sense? Okay.
+
+777
+00:47:31,700 --> 00:47:32,740
+Any more questions?
+
+778
+00:47:40,400 --> 00:47:43,840
+Is this clear to you guys, the logic here?
+
+779
+00:47:44,480 --> 00:47:47,760
+Okay? So again,
+
+780
+00:47:48,220 --> 00:47:49,600
+this is all speculation.
+
+781
+00:47:49,960 --> 00:47:53,240
+I have no actual information or evidence.
+
+782
+00:47:53,440 --> 00:47:56,280
+Okay? I'm just saying, okay, Raisi died,
+
+783
+00:47:56,560 --> 00:47:58,280
+and it was probably an accident.
+
+784
+00:47:58,680 --> 00:48:01,640
+But if it was not an accident,
+then who would most benefit?
+
+785
+00:48:01,640 --> 00:48:03,520
+Who would benefit from
+killing him or his death?
+
+786
+00:48:03,700 --> 00:48:07,000
+And the answer is the
+Revolutionary Guard Corps,
+
+787
+00:48:07,120 --> 00:48:09,640
+because they see him as a direct
+threat to their authority.
+
+788
+00:48:10,400 --> 00:48:13,900
+Okay? But at the same time,
+what's important to remember is
+
+789
+00:48:13,900 --> 00:48:18,880
+that any new leader would
+see these guys as a problem,
+
+790
+00:48:19,080 --> 00:48:23,300
+because they have too much power, and they
+are creating too much tension overseas.
+
+791
+00:48:24,220 --> 00:48:25,500
+And they're too fanatical.
+
+792
+00:48:25,880 --> 00:48:28,280
+Okay? And so...
+
+793
+00:48:30,760 --> 00:48:32,800
+It's mostly... It's most likely that
+
+794
+00:48:32,800 --> 00:48:35,920
+they would want to
+elevate Mostaba Khomeini,
+
+795
+00:48:36,060 --> 00:48:39,000
+because Mostaba Khomeini
+is not popular, and
+
+796
+00:48:39,000 --> 00:48:42,640
+he would have to be loyal to
+the Revolutionary Guard Corps,
+
+797
+00:48:43,360 --> 00:48:45,680
+or he would need their
+help to maintain power.
+
+798
+00:48:46,880 --> 00:48:48,780
+Okay? But I...
+
+799
+00:48:48,780 --> 00:48:50,500
+Okay. Does that make sense, guys?
+
+800
+00:48:51,480 --> 00:48:53,340
+All right? So next class,
+
+801
+00:48:53,460 --> 00:48:58,100
+we'll discuss what an actual war between
+the United States and Iran would look like.
+
+802
+00:48:58,580 --> 00:49:00,580
+And what's important
+to remember is that...
+
+803
+00:49:00,580 --> 00:49:03,700
+I've been slacking off for a while.
+I've been saying all semester that
+
+804
+00:49:03,700 --> 00:49:08,240
+the United States will lose the war, but
+never have I said that Iran will win the war.
+
+805
+00:49:09,060 --> 00:49:11,260
+Okay? And the reason why is that
+
+806
+00:49:11,260 --> 00:49:15,280
+this war will be brutal for Iran.
+
+807
+00:49:16,220 --> 00:49:18,640
+Tens of millions of people
+will die for no reason.
+
+808
+00:49:19,120 --> 00:49:21,500
+And that's why policies like Raisi and
+
+809
+00:49:21,500 --> 00:49:24,820
+others are like, let's not go to war.
+
+810
+00:49:25,020 --> 00:49:27,000
+Okay? All right.
+
+811
+00:49:27,080 --> 00:49:28,960
+So I'll see you guys next week.

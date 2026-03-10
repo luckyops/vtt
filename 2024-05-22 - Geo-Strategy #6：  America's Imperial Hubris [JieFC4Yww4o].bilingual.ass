@@ -1,0 +1,953 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.90,English,,0,0,0,,Let's start class.\N{\rChinese}让我们开始上课。
+Dialogue: 0,0:00:02.36,0:00:07.54,English,,0,0,0,,So last week we discussed the possibility\N{\rChinese}上周我们讨论了特朗普可能当选的情况。
+Dialogue: 0,0:00:07.54,0:00:11.66,English,,0,0,0,,that Trump will become president\N{\rChinese}他将成为总统的可能性。
+Dialogue: 0,0:00:11.66,0:00:13.76,English,,0,0,0,,and we discussed that\N{\rChinese}我们讨论了这一点
+Dialogue: 0,0:00:13.76,0:00:16.96,English,,0,0,0,,if he does become president in a\N{\rChinese}如果他真的连任期都能连任
+Dialogue: 0,0:00:16.96,0:00:21.62,English,,0,0,0,,second term there will be a very strong likelihood\N{\rChinese}那么很有可能会出现
+Dialogue: 0,0:00:21.62,0:00:25.14,English,,0,0,0,,that the United States will go to war with Iran.\N{\rChinese}美国将与伊朗开战。
+Dialogue: 0,0:00:25.86,0:00:31.66,English,,0,0,0,,Now the question today is okay Trump wants to go to war\N{\rChinese}今天的问题是，特朗普想开战，但美国军方会同意吗？
+Dialogue: 0,0:00:31.66,0:00:35.78,English,,0,0,0,,but will the US military agree?\N{\rChinese}but will the USmilitary agree?
+Dialogue: 0,0:00:36.72,0:00:39.20,English,,0,0,0,,Ultimately it is the Pentagon that\N{\rChinese}最终是五角星才会执行这场战争并且
+Dialogue: 0,0:00:39.20,0:00:42.32,English,,0,0,0,,must implement this war and\N{\rChinese}必须由五角星来实施这场战争并且
+Dialogue: 0,0:00:42.32,0:00:45.00,English,,0,0,0,,if there is enough opposition from the military\N{\rChinese}如果军方有足够的反对，
+Dialogue: 0,0:00:45.00,0:00:46.36,English,,0,0,0,,then\N{\rChinese}然后
+Dialogue: 0,0:00:46.36,0:00:50.88,English,,0,0,0,,it is very hard for Trump to push a war.\N{\rChinese}于是特朗普发动战争很难。
+Dialogue: 0,0:00:52.18,0:00:54.40,English,,0,0,0,,I want to make the argument today that\N{\rChinese}我想今天的论点是：特朗普将与伊朗开战。
+Dialogue: 0,0:00:54.40,0:00:57.12,English,,0,0,0,,the military will go along with the war.\N{\rChinese}但如果军方有足够的反对，随后特朗普发动战争就很难。我想今天的论点是：军方会跟随这场战争。
+Dialogue: 0,0:00:57.80,0:01:01.26,English,,0,0,0,,And it has to do with what happened in 2003, okay?\N{\rChinese}然后它要与2003年的事相连，行吗？
+Dialogue: 0,0:01:01.94,0:01:04.92,English,,0,0,0,,So let's go back to the last time that\N{\rChinese}于是我们回到上一次的情形。
+Dialogue: 0,0:01:04.92,0:01:06.86,English,,0,0,0,,America fought a major war.\N{\rChinese}美国发动了一场大规模战争。
+Dialogue: 0,0:01:07.00,0:01:12.72,English,,0,0,0,,It was the 2003 invasion of Iraq called Operation Iraqi Freedom,\N{\rChinese}那是2003年入侵伊拉克的“伊拉克自由行动”。
+Dialogue: 0,0:01:12.90,0:01:16.90,English,,0,0,0,,okay? So at that time, President George W.\N{\rChinese}好吧？那时乔治·W·布什总统……
+Dialogue: 0,0:01:17.02,0:01:18.82,English,,0,0,0,,Bush and his people,\N{\rChinese}布什和他的团队，
+Dialogue: 0,0:01:19.52,0:01:20.94,English,,0,0,0,,Vice President Dick Cheney,\N{\rChinese}副总统迪克·钱尼，
+Dialogue: 0,0:01:21.78,0:01:26.04,English,,0,0,0,,Secretary of Defense Donald Rumsfeld, and his deputy, Paul Wolfowitz, they want this war.\N{\rChinese}国防部长唐纳德·鲁姆斯韦德及其副手保罗·沃尔福维茨，他们都想发动这场战争。
+Dialogue: 0,0:01:26.24,0:01:29.02,English,,0,0,0,,And they go to the Pentagon\N{\rChinese}他们去五角大楼
+Dialogue: 0,0:01:29.02,0:01:32.86,English,,0,0,0,,and say, listen, we want this war, give us a plan.\N{\rChinese}然后说，听着，我们想打这场战争，给我们一个计划。
+Dialogue: 0,0:01:33.66,0:01:35.14,English,,0,0,0,,And the Pentagon,\N{\rChinese}五角大楼回应，
+Dialogue: 0,0:01:35.54,0:01:37.12,English,,0,0,0,,the generals,\N{\rChinese}将军队，
+Dialogue: 0,0:01:37.78,0:01:40.20,English,,0,0,0,,they're very experienced and conservative people.\N{\rChinese}他们是经验丰富且保守的人。
+Dialogue: 0,0:01:40.52,0:01:42.22,English,,0,0,0,,And in general, when you fight a war,\N{\rChinese}总的来说，打仗时，
+Dialogue: 0,0:01:42.50,0:01:47.04,English,,0,0,0,,there are three things you must focus on, okay?\N{\rChinese}有三件事你必须关注，好的？
+Dialogue: 0,0:01:47.64,0:01:50.82,English,,0,0,0,,The first idea is mass force.\N{\rChinese}第一点是大规模兵力。
+Dialogue: 0,0:01:53.48,0:01:57.82,English,,0,0,0,,Mass forces. When you fight a war, you want to overwhelm your enemy.\N{\rChinese}大规模兵力。打仗时，你要压倒敌人。
+Dialogue: 0,0:01:59.28,0:02:01.62,English,,0,0,0,,So when we say mass forces,\N{\rChinese}所以当我们说大规模兵力时，
+Dialogue: 0,0:02:01.68,0:02:06.08,English,,0,0,0,,we basically mean infantry and armor.\N{\rChinese}我们基本指的是步兵和装甲。
+Dialogue: 0,0:02:06.26,0:02:09.68,English,,0,0,0,,Most wars are fought using tanks and soldiers.\N{\rChinese}大多数战争都是用坦克和步兵作战。
+Dialogue: 0,0:02:10.62,0:02:14.36,English,,0,0,0,,And the Iraq Army at\N{\rChinese}伊拉克军队当时有大约三十七万兵员，
+Dialogue: 0,0:02:14.36,0:02:18.54,English,,0,0,0,,that time had about 370,000 soldiers,\N{\rChinese}好吧？总的来说，
+Dialogue: 0,0:02:18.82,0:02:20.92,English,,0,0,0,,okay? And in general,\N{\rChinese}okay? And in general,
+Dialogue: 0,0:02:20.92,0:02:23.60,English,,0,0,0,,the general rule of thumb when\N{\rChinese}当你入侵一个国家时，通用经验法则是
+Dialogue: 0,0:02:23.60,0:02:28.02,English,,0,0,0,,you invade a country is you want to have a three to one advantage,\N{\rChinese}你想要有三比一的优势，行吗？
+Dialogue: 0,0:02:28.32,0:02:32.10,English,,0,0,0,,okay? The reason why is\N{\rChinese}原因是当你入侵一个国家时
+Dialogue: 0,0:02:32.10,0:02:34.24,English,,0,0,0,,when you invade an army, when\N{\rChinese}你需要占领领土并补给士兵。
+Dialogue: 0,0:02:34.24,0:02:37.88,English,,0,0,0,,you invade a country you need to hold territory\N{\rChinese}好的？所以你需要推进，也要占领领土。
+Dialogue: 0,0:02:37.88,0:02:39.92,English,,0,0,0,,and resupply your soldiers, okay?\N{\rChinese}并且补给部队并准备预备队。
+Dialogue: 0,0:02:40.12,0:02:42.30,English,,0,0,0,,So you need to advance but\N{\rChinese}所以通用经验法则是：如果你入侵一个国家并想占领军队，
+Dialogue: 0,0:02:42.30,0:02:46.80,English,,0,0,0,,you also need to hold territory as well as resupply your troops\N{\rChinese}如果敌方有30万士兵，你需要约100万。
+Dialogue: 0,0:02:46.80,0:02:50.14,English,,0,0,0,,and have reserves, okay? So the general rule of thumb is\N{\rChinese}这就是第一个原则。
+Dialogue: 0,0:02:50.14,0:02:53.76,English,,0,0,0,,that if you're going to If your enemy has 300,000 soldiers, you need about a million.\N{\rChinese}第二个原则是……
+Dialogue: 0,0:02:54.06,0:02:55.44,English,,0,0,0,,So that's the first principle.\N{\rChinese}你想避免被包围。
+Dialogue: 0,0:02:56.00,0:02:58.94,English,,0,0,0,,Second principle is the idea of\N{\rChinese}对你的士兵来说最糟糕的事是……
+Dialogue: 0,0:02:58.94,0:03:02.16,English,,0,0,0,,you want to avoid encirclement.\N{\rChinese}如果他们被敌人包围，
+Dialogue: 0,0:03:04.44,0:03:06.90,English,,0,0,0,,The worst thing that can happen to your soldiers\N{\rChinese}因为那样就无法自卫了。
+Dialogue: 0,0:03:07.46,0:03:11.20,English,,0,0,0,,is if they become encircled by the enemy,\N{\rChinese}而且…
+Dialogue: 0,0:03:11.36,0:03:13.62,English,,0,0,0,,because then it becomes impossible to defend yourself.\N{\rChinese}第三个想法是保护补给线。
+Dialogue: 0,0:03:13.62,0:03:16.66,English,,0,0,0,,The third idea is\N{\rChinese}战争大部分其实就是后勤。
+Dialogue: 0,0:03:16.66,0:03:20.02,English,,0,0,0,,protect supply lines.\N{\rChinese}你怎么获得燃料和
+Dialogue: 0,0:03:23.20,0:03:25.86,English,,0,0,0,,Most of war is actually just logistics.\N{\rChinese}武器从这里到那里？
+Dialogue: 0,0:03:26.24,0:03:29.20,English,,0,0,0,,How do you get oil and fuel\N{\rChinese}补给线。所以
+Dialogue: 0,0:03:29.20,0:03:31.60,English,,0,0,0,,and weapons from here to there?\N{\rChinese}这就是三个主要原则
+Dialogue: 0,0:03:32.32,0:03:37.18,English,,0,0,0,,Supply lines. These are the three major principles\N{\rChinese}那时你必须聚焦的就是战时的要点。
+Dialogue: 0,0:03:37.18,0:03:40.44,English,,0,0,0,,that you must focus on when you fight a war.\N{\rChinese}于是当……
+Dialogue: 0,0:03:40.88,0:03:45.60,English,,0,0,0,,When the Bush government asked the Pentagon for a plan,\N{\rChinese}布什政府提出军事计划时，五角板向五角板求计。
+Dialogue: 0,0:03:45.82,0:03:49.44,English,,0,0,0,,the Pentagon went to the drawing board and\N{\rChinese}五角板走到绘图板前，开始作画。
+Dialogue: 0,0:03:49.44,0:03:53.20,English,,0,0,0,,said to invade Iraq properly\N{\rChinese}说要正式进攻伊拉克。
+Dialogue: 0,0:03:53.20,0:03:56.14,English,,0,0,0,,we need about a million soldiers.\N{\rChinese}我们需要大约一百万人。
+Dialogue: 0,0:03:57.40,0:03:59.62,English,,0,0,0,,Okay? And\N{\rChinese}好的？然后
+Dialogue: 0,0:03:59.62,0:04:02.36,English,,0,0,0,,Donald Rumsfeld, who\N{\rChinese}唐纳德·鲁姆斯韦德，谁
+Dialogue: 0,0:04:02.36,0:04:05.40,English,,0,0,0,,was Secretary of Defense, and his deputy Wolford said,\N{\rChinese}是国防部长，他的副手沃尔福德说，
+Dialogue: 0,0:04:05.58,0:04:08.80,English,,0,0,0,,no we're gonna do it with less than million soldiers.\N{\rChinese}不，我们要用不到一百万人去做。
+Dialogue: 0,0:04:09.28,0:04:12.64,English,,0,0,0,,Give us a plan with,\N{\rChinese}给我们一个计划，
+Dialogue: 0,0:04:12.84,0:04:16.16,English,,0,0,0,,that requires less infantry.\N{\rChinese}那需要的步兵更少。
+Dialogue: 0,0:04:16.96,0:04:18.84,English,,0,0,0,,And the Pentagon said, okay,\N{\rChinese}并且五角大楼说，好的
+Dialogue: 0,0:04:19.10,0:04:22.26,English,,0,0,0,,well we shouldn't do this\N{\rChinese}好吧，我们不该这么做
+Dialogue: 0,0:04:22.26,0:04:24.26,English,,0,0,0,,but the most we can do is about 900,000.\N{\rChinese}但最多能做到九十万兵
+Dialogue: 0,0:04:25.28,0:04:28.04,English,,0,0,0,,And Wolford said, nope, go lower.\N{\rChinese}并且沃尔福德说，没错，降到更低。
+Dialogue: 0,0:04:28.88,0:04:31.82,English,,0,0,0,,And eventually, Rumsfeld\N{\rChinese}最终，鲁姆斯费尔德
+Dialogue: 0,0:04:31.82,0:04:33.48,English,,0,0,0,,and Wolford said, I want,\N{\rChinese}并且沃尔福德说，我想，
+Dialogue: 0,0:04:33.50,0:04:36.96,English,,0,0,0,,we want you to fight this war with a hundred thousand troops.\N{\rChinese}我们想让你用十万兵去打这场战争。
+Dialogue: 0,0:04:38.92,0:04:40.60,English,,0,0,0,,130,000 troops. Okay?\N{\rChinese}130,000兵。好吗？
+Dialogue: 0,0:04:40.84,0:04:45.28,English,,0,0,0,,The Pentagon said to Rumsfeld and Wolford, this is insane.\N{\rChinese}五角大楼对鲁姆斯费尔德和沃尔福德说：这太疯狂了。
+Dialogue: 0,0:04:46.34,0:04:49.66,English,,0,0,0,,We will be outnumbered three to one when we fight this war.\N{\rChinese}我们打这场战争时，兵力将是三比一。
+Dialogue: 0,0:04:50.32,0:04:52.44,English,,0,0,0,,How are we going to avoid encirclement?\N{\rChinese}我们怎样才能避免包围？
+Dialogue: 0,0:04:52.56,0:04:53.96,English,,0,0,0,,How are we going to amass forces?\N{\rChinese}我们怎样集结兵力？
+Dialogue: 0,0:04:54.18,0:04:56.34,English,,0,0,0,,How will we protect supply lines?\N{\rChinese}我们怎样保护补给线？
+Dialogue: 0,0:04:58.30,0:05:01.14,English,,0,0,0,,And Rumsfeld and Wolford, who are not,\N{\rChinese}而鲁姆斯费尔德和沃尔福德，谁不是
+Dialogue: 0,0:05:01.24,0:05:03.78,English,,0,0,0,,by the way, professional soldiers, they've never,\N{\rChinese}顺便说一句，专业士兵，他们从未曾…
+Dialogue: 0,0:05:03.82,0:05:06.44,English,,0,0,0,,they've never really fought a war before, they're like,\N{\rChinese}他们以前从未曾真正打过一场战争，他们就像是，
+Dialogue: 0,0:05:06.46,0:05:09.62,English,,0,0,0,,well we're going to try to defend ourselves because we're going to try to defend ourselves because\N{\rChinese}好了，我们有这个理论，一个新的战争理论叫做冲击与震慑。
+Dialogue: 0,0:05:09.62,0:05:11.56,English,,0,0,0,,we're going to try to defend ourselves because we're going to\N{\rChinese}而冲击与震慑的概念是
+Dialogue: 0,0:05:14.82,0:05:16.40,English,,0,0,0,,try to defend ourselves because\N{\rChinese}所有军队都是层级结构
+Dialogue: 0,0:05:16.40,0:05:20.00,English,,0,0,0,,we're going to try to defend ourselves\N{\rChinese}好的？你有指挥与控制。所以你有头部
+Dialogue: 0,0:05:20.00,0:05:23.46,English,,0,0,0,,because we're going to try to defend ourselves because we're going to try to defend ourselves\N{\rChinese}然后你有身体，接着你有四肢
+Dialogue: 0,0:05:23.46,0:05:26.44,English,,0,0,0,,because we're going to try to defend ourselves because we're going to try to defend ourselves because we're going to try to defend ourselves because we're going to try to defend ourselves because we're going to try to defend ourselves\N{\rChinese}腿。
+Dialogue: 0,0:05:26.44,0:05:29.66,English,,0,0,0,,because we're going to try to defend ourselves because we're going to try to defend ourselves because we're going to try to defend ourselves because we're going to try to defend ourselves because\N{\rChinese}好吧，如果我们能去砍掉头部
+Dialogue: 0,0:05:29.66,0:05:31.78,English,,0,0,0,,we're going to try to defend ourselves because\N{\rChinese}然后整个军队就散了。
+Dialogue: 0,0:05:31.78,0:05:34.58,English,,0,0,0,,we're going to try to defend ourselves because\N{\rChinese}而我们能做到这一点，是因为战争的本质已经改变。
+Dialogue: 0,0:05:34.58,0:05:37.42,English,,0,0,0,,we're going to try to defend ourselves because we're going because\N{\rChinese}美国军方专注的是什么，
+Dialogue: 0,0:05:37.42,0:05:39.64,English,,0,0,0,,the nature of war has changed.\N{\rChinese}给我们优势的三件事，或者说三件事，好吗？
+Dialogue: 0,0:05:40.10,0:05:42.64,English,,0,0,0,,What the US military specializes in,\N{\rChinese}第一点是空中霸权。
+Dialogue: 0,0:05:42.78,0:05:47.32,English,,0,0,0,,what gives us the advantage is three things, or three things, okay?\N{\rChinese}我们掌控天空，因为……
+Dialogue: 0,0:05:47.52,0:05:49.74,English,,0,0,0,,First is air supremacy.\N{\rChinese}我们拥有世界上最大的空中力量。
+Dialogue: 0,0:05:52.56,0:05:54.84,English,,0,0,0,,We control the skies because\N{\rChinese}其次，
+Dialogue: 0,0:05:54.84,0:05:59.26,English,,0,0,0,,we have the greatest air force in the world, okay?\N{\rChinese}最重要的是技术全知。
+Dialogue: 0,0:05:59.48,0:06:03.10,English,,0,0,0,,But second, what's most important is technological\N{\rChinese}全知意味着知道一切。
+Dialogue: 0,0:06:06.98,0:06:12.80,English,,0,0,0,,omniscience. Omniscience means to know everything.\N{\rChinese}全知意味着知道一切。
+Dialogue: 0,0:06:13.08,0:06:15.92,English,,0,0,0,,We're god! The reason why is, listen,\N{\rChinese}我们是上帝。原因是，听着，
+Dialogue: 0,0:06:16.08,0:06:18.50,English,,0,0,0,,we have satellites that\N{\rChinese}我们拥有卫星，能看到地球上的一切。
+Dialogue: 0,0:06:18.50,0:06:21.00,English,,0,0,0,,can see everything on the Earth.\N{\rChinese}我们拥有卫星，能看到地球上的一切。
+Dialogue: 0,0:06:21.22,0:06:23.36,English,,0,0,0,,We have technology that\N{\rChinese}我们拥有技术，能够……
+Dialogue: 0,0:06:23.36,0:06:27.48,English,,0,0,0,,allows us to eavesdrop on all electronic communications.\N{\rChinese}让我们能窃听所有电子通信。
+Dialogue: 0,0:06:28.44,0:06:31.08,English,,0,0,0,,When you talk on the phone, we can hear exactly what you're saying.\N{\rChinese}好的？打电话时我们能听到你说的每一句话。
+Dialogue: 0,0:06:31.92,0:06:33.74,English,,0,0,0,,We know everything on the ground.\N{\rChinese}我们掌握地面的一切信息。
+Dialogue: 0,0:06:33.90,0:06:37.06,English,,0,0,0,,That allows us to have the power of God.\N{\rChinese}那让我们拥有上帝之力，好吗？
+Dialogue: 0,0:06:37.34,0:06:42.10,English,,0,0,0,,Okay? That's the second thing. The third thing is we have special forces.\N{\rChinese}第三点是我们有特种部队。
+Dialogue: 0,0:06:43.82,0:06:47.12,English,,0,0,0,,So special forces are soldiers\N{\rChinese}特种部队是进入敌方领土的士兵
+Dialogue: 0,0:06:47.12,0:06:50.30,English,,0,0,0,,who go into enemy territory\N{\rChinese}他们进入敌方领土
+Dialogue: 0,0:06:50.30,0:06:53.46,English,,0,0,0,,and they are able to target and\N{\rChinese}并能精准打击
+Dialogue: 0,0:06:53.46,0:06:57.72,English,,0,0,0,,direct air power against the enemy.\N{\rChinese}并将空中力量直接投向敌方
+Dialogue: 0,0:06:58.54,0:07:00.38,English,,0,0,0,,Okay? And\N{\rChinese}好？我们美国，
+Dialogue: 0,0:07:00.38,0:07:06.20,English,,0,0,0,,we America have the best special forces in the world.\N{\rChinese}拥有世界最强的特种部队。
+Dialogue: 0,0:07:07.98,0:07:09.52,English,,0,0,0,,And so\N{\rChinese}于是，凭借这三点，
+Dialogue: 0,0:07:09.52,0:07:13.68,English,,0,0,0,,with these three things we have a new doctrine of war.\N{\rChinese}我们拥有全新的战争理论。
+Dialogue: 0,0:07:13.84,0:07:17.86,English,,0,0,0,,We can fight war in a new way that's never been fought before\N{\rChinese}我们可以以全新的方式打仗，前所未有。
+Dialogue: 0,0:07:17.86,0:07:21.76,English,,0,0,0,,but which will guarantee that war will be quick,\N{\rChinese}这将确保战争迅速结束。
+Dialogue: 0,0:07:21.90,0:07:24.54,English,,0,0,0,,we'll do it very quickly, cheap,\N{\rChinese}我们会迅速完成，成本低廉。
+Dialogue: 0,0:07:24.68,0:07:28.90,English,,0,0,0,,it won't cost that much money, and third, decisive.\N{\rChinese}不需要花费太多钱。
+Dialogue: 0,0:07:28.94,0:07:30.56,English,,0,0,0,,We will completely destroy our enemy.\N{\rChinese}将会很快。再加上第三点，决定性。
+Dialogue: 0,0:07:31.18,0:07:32.78,English,,0,0,0,,Okay? Okay? Okay?\N{\rChinese}我们将彻底消灭敌人。
+Dialogue: 0,0:07:32.78,0:07:37.20,English,,0,0,0,,And the Pentagon was like, you guys are insane.\N{\rChinese}好的？五角大楼也这么说，
+Dialogue: 0,0:07:37.38,0:07:40.38,English,,0,0,0,,This is not going to work. This is a theory, guys.\N{\rChinese}你们真是疯了。
+Dialogue: 0,0:07:40.86,0:07:43.76,English,,0,0,0,,Whereas this idea of mass forces, avoid encirclement,\N{\rChinese}这还不行。这只是理论，大家。
+Dialogue: 0,0:07:43.88,0:07:47.36,English,,0,0,0,,protect supply lines, we've been doing this for like thousands of years.\N{\rChinese}而这套大规模兵力的想法，避免包围，
+Dialogue: 0,0:07:47.48,0:07:50.04,English,,0,0,0,,This is just experience. This is just history.\N{\rChinese}保护补给线，我们已经做了数千年。
+Dialogue: 0,0:07:50.16,0:07:51.42,English,,0,0,0,,This is reality, guys.\N{\rChinese}这只是经验。 这只是历史。
+Dialogue: 0,0:07:52.54,0:07:54.82,English,,0,0,0,,This is just a fantasy.\N{\rChinese}这就是现实，大家。
+Dialogue: 0,0:07:55.44,0:07:58.62,English,,0,0,0,,All right? But Rumsfeld and\N{\rChinese}这只是幻想。
+Dialogue: 0,0:07:58.62,0:08:03.06,English,,0,0,0,,Wolfowitz insisted and they said, you must fight this war this way.\N{\rChinese}好的？但拉姆斯菲尔德和沃尔福维茨坚持这样做。
+Dialogue: 0,0:08:03.22,0:08:04.44,English,,0,0,0,,And they insisted.\N{\rChinese}而他们说，必须这样打这场战争。
+Dialogue: 0,0:08:04.72,0:08:07.00,English,,0,0,0,,And it turned out that\N{\rChinese}他们坚持不懈。结果却是
+Dialogue: 0,0:08:07.00,0:08:09.44,English,,0,0,0,,this plan that the Pentagon,\N{\rChinese}那份计划，五角星，最主要的军方策划者认为是荒诞的。
+Dialogue: 0,0:08:09.74,0:08:13.36,English,,0,0,0,,most military planners thought is absurd,\N{\rChinese}那份计划，五角星，最主要的军方策划者认为是荒诞的。
+Dialogue: 0,0:08:13.60,0:08:15.64,English,,0,0,0,,insane, unrealistic,\N{\rChinese}疯狂、非现实的，
+Dialogue: 0,0:08:16.08,0:08:21.08,English,,0,0,0,,worked 100% the way it was supposed to work.\N{\rChinese}按预期工作了100%
+Dialogue: 0,0:08:22.10,0:08:26.74,English,,0,0,0,,Okay? The Second Gulf War in\N{\rChinese}好的？第二次海湾战争在2003年持续了整整三周。
+Dialogue: 0,0:08:26.74,0:08:30.08,English,,0,0,0,,2003 lasted exactly three weeks.\N{\rChinese}好的？第二次海湾战争在2003年持续了整整三周。
+Dialogue: 0,0:08:31.50,0:08:33.20,English,,0,0,0,,Okay? Very quick.\N{\rChinese}非常快。
+Dialogue: 0,0:08:34.14,0:08:36.88,English,,0,0,0,,The US military, with only 130,000 troops,\N{\rChinese}美国军队仅有13万兵力。
+Dialogue: 0,0:08:37.04,0:08:41.52,English,,0,0,0,,was able to destroy an army of 270,000\N{\rChinese}能够在三周内消灭27万兵力的军队。
+Dialogue: 0,0:08:42.16,0:08:43.96,English,,0,0,0,,in three weeks. Okay? That's one.\N{\rChinese}of 270,000 in three weeks.
+Dialogue: 0,0:08:44.18,0:08:45.40,English,,0,0,0,,Second is that\N{\rChinese}好的？那是一个。第二个是…
+Dialogue: 0,0:08:45.40,0:08:50.04,English,,0,0,0,,America lost at\N{\rChinese}美国输了…
+Dialogue: 0,0:08:50.04,0:08:52.22,English,,0,0,0,,most 200 soldiers.\N{\rChinese}大约200名士兵。
+Dialogue: 0,0:08:52.56,0:08:55.64,English,,0,0,0,,And most of it was through the friendly fire.\N{\rChinese}好？大部分是友军误伤。
+Dialogue: 0,0:08:55.76,0:08:58.32,English,,0,0,0,,Okay? It was accidental. This is insane.\N{\rChinese}好？是意外的。太神奇了。
+Dialogue: 0,0:08:58.60,0:08:59.86,English,,0,0,0,,This has never happened before.\N{\rChinese}这事以前从未发生过。最多只有200名美军士兵阵亡。
+Dialogue: 0,0:09:00.06,0:09:02.38,English,,0,0,0,,Only 200 American soldiers.\N{\rChinese}而伊拉克士兵则有数万阵亡。
+Dialogue: 0,0:09:02.38,0:09:03.72,English,,0,0,0,,And the first thing that was most impressive was the fact that the American soldiers died at most.\N{\rChinese}好？还有第三点。
+Dialogue: 0,0:09:04.06,0:09:09.82,English,,0,0,0,,Whereas tens of thousands of Iraqi soldiers died.\N{\rChinese}那最令人印象的是我称之为雷霆突袭。
+Dialogue: 0,0:09:10.28,0:09:12.90,English,,0,0,0,,Okay? And the third thing\N{\rChinese}好？这就是美国的炫耀。
+Dialogue: 0,0:09:12.90,0:09:15.76,English,,0,0,0,,that was most impressive is something called Thunder Runs.\N{\rChinese}好？或者说是秀场。那15年间发生了什么？
+Dialogue: 0,0:09:17.12,0:09:20.40,English,,0,0,0,,Okay? This is just America flexing.\N{\rChinese}那是美国如此占据主导
+Dialogue: 0,0:09:20.40,0:09:23.26,English,,0,0,0,,Okay? Or showing off. So what was happening was\N{\rChinese}那时你们把美国士兵放进他们的装甲车里，驶入巴格达，首都。
+Dialogue: 0,0:09:23.26,0:09:26.10,English,,0,0,0,,that America was so dominant\N{\rChinese}那时你们把美国士兵放进他们的装甲车里，驶入巴格达，首都。
+Dialogue: 0,0:09:26.10,0:09:31.66,English,,0,0,0,,that you had these American soldiers in their armored vehicles.\N{\rChinese}并且他们只是在圈里开车而已
+Dialogue: 0,0:09:31.72,0:09:33.62,English,,0,0,0,,And they were able to destroy an army of 700,000. Okay?\N{\rChinese}没有人能停住他们
+Dialogue: 0,0:09:43.20,0:09:46.14,English,,0,0,0,,All of these automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic\N{\rChinese}这就是他们所说的雷霆奔袭，好的，且
+Dialogue: 0,0:09:46.14,0:09:48.32,English,,0,0,0,,automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic automatic\N{\rChinese}他们做了三次，纯粹是一次威慑行动
+Dialogue: 0,0:09:48.32,0:09:52.18,English,,0,0,0,,automatic automatic automatic automatic automatic automatic automatic automatic\N{\rChinese}但这也只是炫耀，像你在打仗，决定你知道为什么我这么…
+Dialogue: 0,0:09:52.18,0:09:55.54,English,,0,0,0,,automatic automatic automatic automatic automatic automatic automatic automatic flip.\N{\rChinese}…
+Dialogue: 0,0:09:56.84,0:09:59.52,English,,0,0,0,,I'm so bored by this guy, I'm going to do a back flip.\N{\rChinese}比这家伙强多了，我要做个后空翻，好吗？
+Dialogue: 0,0:09:59.70,0:10:01.12,English,,0,0,0,,Thunder runs. So\N{\rChinese}我对这家伙很无聊，我要做个后空翻，雷霆奔袭，好吗？
+Dialogue: 0,0:10:01.12,0:10:02.96,English,,0,0,0,,these three things show\N{\rChinese}于是这三件事展示了
+Dialogue: 0,0:10:02.96,0:10:07.34,English,,0,0,0,,the incredible superiority\N{\rChinese}令人难以置信的优势
+Dialogue: 0,0:10:07.34,0:10:10.42,English,,0,0,0,,of this doctrine of shock and\N{\rChinese}震撼与敬畏的这一教义
+Dialogue: 0,0:10:10.42,0:10:12.30,English,,0,0,0,,awe.\N{\rChinese}好的
+Dialogue: 0,0:10:15.56,0:10:20.06,English,,0,0,0,,So how is America able to achieve all this?\N{\rChinese}那么美国是怎么做到的？
+Dialogue: 0,0:10:20.52,0:10:24.54,English,,0,0,0,,Well, I mean the first thing is the idea of air supremacy.\N{\rChinese}总之，第一点是空中霸权的概念
+Dialogue: 0,0:10:25.20,0:10:29.04,English,,0,0,0,,So one bomb called a\N{\rChinese}所以
+Dialogue: 0,0:10:29.04,0:10:33.90,English,,0,0,0,,cluster bomb can wipe\N{\rChinese}一个叫做的炸弹
+Dialogue: 0,0:10:33.90,0:10:35.86,English,,0,0,0,,out an entire tank division.\N{\rChinese}集束炸弹能消灭
+Dialogue: 0,0:10:36.16,0:10:40.52,English,,0,0,0,,The reason why is that a cluster bomb inside has about four forty bombs.\N{\rChinese}整个甲板坦克师团，原因是
+Dialogue: 0,0:10:41.16,0:10:44.68,English,,0,0,0,,And these forty bombs are equipped with GPS.\N{\rChinese}集束炸弹内部大约有四十颗炸弹
+Dialogue: 0,0:10:45.24,0:10:49.40,English,,0,0,0,,So what they can do is each of these bomb can go and find a tank.\N{\rChinese}这四十颗炸弹都装有GPS
+Dialogue: 0,0:10:49.58,0:10:52.40,English,,0,0,0,,It will latch onto a tank and blow the tank up.\N{\rChinese}因此它们可以做到的是每颗炸弹都能去
+Dialogue: 0,0:10:52.66,0:10:54.02,English,,0,0,0,,So this one question is a little bit complicated.\N{\rChinese}并且找到一辆坦克，它会锁定在坦克上
+Dialogue: 0,0:10:54.02,0:10:58.72,English,,0,0,0,,The first thing is, what does a cluster bomb do? the bomb, which doesn't really cost that much money, can destroy an entire tank division\N{\rChinese}并炸毁坦克，所以这颗集束炸弹
+Dialogue: 0,0:10:59.60,0:11:00.58,English,,0,0,0,,by itself.\N{\rChinese}它并不是真的花费
+Dialogue: 0,0:11:02.02,0:11:07.70,English,,0,0,0,,The other thing is special forces.\N{\rChinese}大量资金可以单独摧毁一整个坦克师
+Dialogue: 0,0:11:08.00,0:11:10.56,English,,0,0,0,,So the theory is that special forces,\N{\rChinese}好的，另外…
+Dialogue: 0,0:11:10.60,0:11:13.58,English,,0,0,0,,if we make them the central core of our military,\N{\rChinese}okay the other
+Dialogue: 0,0:11:13.88,0:11:15.74,English,,0,0,0,,that would have a devastating impact.\N{\rChinese}特种部队
+Dialogue: 0,0:11:16.18,0:11:17.38,English,,0,0,0,,And it was true.\N{\rChinese}于是理论是这样
+Dialogue: 0,0:11:17.52,0:11:21.40,English,,0,0,0,,So what was happening was that special forces could drive around\N{\rChinese}特种部队若我们把它们做为军队的核心
+Dialogue: 0,0:11:21.40,0:11:23.88,English,,0,0,0,,and look for military and\N{\rChinese}那将产生毁灭性影响，且……
+Dialogue: 0,0:11:24.02,0:11:27.16,English,,0,0,0,,insulations by themselves, which I'm like a few people.\N{\rChinese}并且确实如此，发生的事是……特殊部队可以自行驱动……
+Dialogue: 0,0:11:27.28,0:11:29.90,English,,0,0,0,,And then they could order in an airstrike.\N{\rChinese}并且自行寻找军事设施……
+Dialogue: 0,0:11:31.30,0:11:35.64,English,,0,0,0,,And then the planes would blow everything up.\N{\rChinese}我们说几个人，然后他们就能下空袭命令。
+Dialogue: 0,0:11:38.00,0:11:39.46,English,,0,0,0,,So shock and\N{\rChinese}好的？然后飞机把一切炸了。
+Dialogue: 0,0:11:39.46,0:11:44.18,English,,0,0,0,,awe was extremely effective.\N{\rChinese}the planes wouldblow everything up.
+Dialogue: 0,0:11:46.40,0:11:50.78,English,,0,0,0,,But the problem is that people don't really ask.\N{\rChinese}于是，震撼与
+Dialogue: 0,0:11:52.98,0:11:55.04,English,,0,0,0,,What did Sato do? What did Saddam Hussein do wrong?\N{\rChinese}敬畏极为有效。
+Dialogue: 0,0:11:55.58,0:11:57.78,English,,0,0,0,,Why was it so effective against Saddam Hussein?\N{\rChinese}但问题在于
+Dialogue: 0,0:11:58.06,0:12:00.14,English,,0,0,0,,And there are actually three\N{\rChinese}那人们并不真正问，
+Dialogue: 0,0:12:00.14,0:12:05.36,English,,0,0,0,,reasons to think\N{\rChinese}萨达姆·侯赛因到底做错了什么？
+Dialogue: 0,0:12:05.36,0:12:08.82,English,,0,0,0,,that what happened in 2003 was\N{\rChinese}为什么这对萨达姆·侯赛因如此有效？
+Dialogue: 0,0:12:08.82,0:12:12.76,English,,0,0,0,,not a revolution in military doctrine,\N{\rChinese}还有实际上有三个原因，好的，
+Dialogue: 0,0:12:13.12,0:12:15.02,English,,0,0,0,,not a revolution in warfare, but\N{\rChinese}去思考，
+Dialogue: 0,0:12:15.02,0:12:19.96,English,,0,0,0,,just a unique incident in war\N{\rChinese}2003年发生的事
+Dialogue: 0,0:12:19.96,0:12:21.52,English,,0,0,0,,that doesn't really tell us that much.\N{\rChinese}不是军事理论的革命，
+Dialogue: 0,0:12:22.10,0:12:24.00,English,,0,0,0,,In other words, what was happening?\N{\rChinese}不是战争的革命，而是，
+Dialogue: 0,0:12:24.00,0:12:25.96,English,,0,0,0,,What was happening in Iraq could not be replicated.\N{\rChinese}只是战争中的一次独特事件
+Dialogue: 0,0:12:26.36,0:12:28.90,English,,0,0,0,,And there were three reasons why.\N{\rChinese}那并没有告诉我们太多，好的？
+Dialogue: 0,0:12:29.30,0:12:32.98,English,,0,0,0,,The first is that Saddam Hussein had no air defense.\N{\rChinese}换句话说，伊拉克的情况是独一的，好的？
+Dialogue: 0,0:12:34.58,0:12:39.52,English,,0,0,0,,He had no air defense. He didn't have weapons to counter America's air supremacy.\N{\rChinese}还有三个原因，好的？
+Dialogue: 0,0:12:39.92,0:12:43.48,English,,0,0,0,,The reason why is that in 1991,\N{\rChinese}第一点是萨达姆·侯赛因没有空中防御。
+Dialogue: 0,0:12:44.00,0:12:48.62,English,,0,0,0,,Saddam Hussein fought a war against America called the First Persian Gulf War,\N{\rChinese}好？他没有空中防御。
+Dialogue: 0,0:12:48.74,0:12:50.04,English,,0,0,0,,Operation Desert Storm.\N{\rChinese}他没有武器来对抗美国的空中霸权。
+Dialogue: 0,0:12:50.38,0:12:53.98,English,,0,0,0,,And his army got destroyed by American troops.\N{\rChinese}而且原因是，1991年，萨达姆·侯赛因与美国交战，叫第一波波斯湾战争，好吗？
+Dialogue: 0,0:12:53.98,0:12:56.94,English,,0,0,0,,Then when\N{\rChinese}沙漠风暴行动。并且。
+Dialogue: 0,0:12:56.94,0:12:59.32,English,,0,0,0,,he hygiene hygiene hygiene hygiene hygiene hygiene\N{\rChinese}Operation DesertStorm. And
+Dialogue: 0,0:12:59.32,0:13:04.22,English,,0,0,0,,hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene\N{\rChinese}他的军队被美国空中力量摧毁。
+Dialogue: 0,0:13:04.22,0:13:08.34,English,,0,0,0,,hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene\N{\rChinese}此时美国已决定，
+Dialogue: 0,0:13:08.34,0:13:13.34,English,,0,0,0,,hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene\N{\rChinese}可以选择进攻伊拉克并推翻萨达姆·侯赛因。
+Dialogue: 0,0:13:13.34,0:13:19.00,English,,0,0,0,,hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene hygiene I can't stop it.\N{\rChinese}而美国没有这么做。于是萨达姆·侯赛因学到了两课
+Dialogue: 0,0:13:19.06,0:13:23.52,English,,0,0,0,,Okay. That's the first thing first thing he learned second thing he learned is that\N{\rChinese}从第一次波斯湾战争开始，第一点是
+Dialogue: 0,0:13:25.00,0:13:28.30,English,,0,0,0,,America probably does not want to overthrow me because\N{\rChinese}我永远打不过美国。
+Dialogue: 0,0:13:28.92,0:13:31.72,English,,0,0,0,,If he over froze me it would destabilize the country\N{\rChinese}没有必要再尝试。若美国想把我打得干干净净，我也无力阻止，好吗？
+Dialogue: 0,0:13:31.72,0:13:35.74,English,,0,0,0,,it would destabilize the region you would allow terrorists into the country\N{\rChinese}这就是他学到的第一件事。
+Dialogue: 0,0:13:36.56,0:13:39.90,English,,0,0,0,,You would turn my people into terrorists you would empower Iran\N{\rChinese}第二件事他学到的是
+Dialogue: 0,0:13:41.22,0:13:45.38,English,,0,0,0,,So there's no way that America could overthrow me would want to overthrow me\N{\rChinese}美国大概不想推翻我。
+Dialogue: 0,0:13:46.04,0:13:49.28,English,,0,0,0,,So let me just focus my resources on\N{\rChinese}因为如果他推翻我，会使国家动荡，也会使地区动荡。
+Dialogue: 0,0:13:50.20,0:13:52.80,English,,0,0,0,,suppressing Internal dissent.\N{\rChinese}因为如果他推翻我，会使国家动荡，也会使地区动荡。
+Dialogue: 0,0:13:52.98,0:13:55.92,English,,0,0,0,,Okay, so he completely forgot about America\N{\rChinese}你会让恐怖分子进入国家
+Dialogue: 0,0:13:56.38,0:13:58.72,English,,0,0,0,,So even when it was clear that\N{\rChinese}你会把我的人民变成恐怖分子，你会赋能伊朗
+Dialogue: 0,0:13:58.72,0:14:02.98,English,,0,0,0,,America was about to invade he still did not put up any air defenses\N{\rChinese}所以，美国没有办法推翻我，也不会想推翻我。于是，
+Dialogue: 0,0:14:02.98,0:14:05.02,English,,0,0,0,,because he didn't have Any air defenses.\N{\rChinese}我就把资源集中在镇压内部异议上。
+Dialogue: 0,0:14:05.16,0:14:09.30,English,,0,0,0,,Okay, but so that's the first thing that was unique about\N{\rChinese}好的？于是，他完全忘记了美国。
+Dialogue: 0,0:14:09.88,0:14:13.56,English,,0,0,0,,the 2003 war, okay, second thing is that\N{\rChinese}于是，即便在美国即将入侵时已清楚。
+Dialogue: 0,0:14:14.76,0:14:16.56,English,,0,0,0,,Iraq is a\N{\rChinese}他仍然没有部署任何空中防御，因为
+Dialogue: 0,0:14:17.44,0:14:22.16,English,,0,0,0,,desert That makes it ideal for shock and awe right\N{\rChinese}他没有任何空中防御，好的？
+Dialogue: 0,0:14:22.76,0:14:24.76,English,,0,0,0,,Air power can go anywhere.\N{\rChinese}于是，这是第一件事
+Dialogue: 0,0:14:24.94,0:14:26.80,English,,0,0,0,,You have satellites that can see everything\N{\rChinese}那是2003年战争独特之处，好的？
+Dialogue: 0,0:14:27.82,0:14:30.06,English,,0,0,0,,Special forces can just drive around\N{\rChinese}第二件事是
+Dialogue: 0,0:14:30.94,0:14:35.20,English,,0,0,0,,Okay, so a desert makes an ideal situation for shock\N{\rChinese}伊拉克是沙漠
+Dialogue: 0,0:14:35.20,0:14:40.34,English,,0,0,0,,and awe and the third thing is just Surprise\N{\rChinese}那使其成为震撼与惊叹的理想场景，对吧？
+Dialogue: 0,0:14:41.48,0:14:45.94,English,,0,0,0,,No one in human history Has tried to fight a war like this\N{\rChinese}空中力量可随时投射。
+Dialogue: 0,0:14:46.67,0:14:50.90,English,,0,0,0,,Okay, and so no one knew\N{\rChinese}你拥有能全景观测的卫星。
+Dialogue: 0,0:14:51.90,0:14:56.52,English,,0,0,0,,How what was going to happen so an example is that\N{\rChinese}特种部队可以随时行动，对吧？
+Dialogue: 0,0:14:58.87,0:15:01.42,English,,0,0,0,,Special forces were in\N{\rChinese}于是，沙漠成了震撼与惊叹的理想场景。
+Dialogue: 0,0:15:02.17,0:15:05.38,English,,0,0,0,,Western Iraq blowing up missile bases because\N{\rChinese}第三点是，正是惊喜。
+Dialogue: 0,0:15:05.38,0:15:07.02,English,,0,0,0,,the concern was that\N{\rChinese}人类历史上没有人尝试过像这般的战争，
+Dialogue: 0,0:15:07.02,0:15:10.80,English,,0,0,0,,Saddam Hussein would direct all his missiles his scuds against Israel,\N{\rChinese}好吧？于是没人知道
+Dialogue: 0,0:15:10.96,0:15:15.38,English,,0,0,0,,okay, so so much damage was being inflicted in\N{\rChinese}接下来会发生什么。
+Dialogue: 0,0:15:16.12,0:15:17.90,English,,0,0,0,,Western Iraq that Saddam Hussein\N{\rChinese}比如说
+Dialogue: 0,0:15:18.60,0:15:22.06,English,,0,0,0,,believed he was so confident that the\N{\rChinese}特种部队在西部伊拉克炸毁导弹基地
+Dialogue: 0,0:15:22.52,0:15:25.46,English,,0,0,0,,That the that the main American military\N{\rChinese}因为
+Dialogue: 0,0:15:26.44,0:15:31.22,English,,0,0,0,,Was actually in Western Iraq when in fact they were in Eastern Iraq\N{\rChinese}人们担心萨达姆·侯赛因会把所有导弹发射向
+Dialogue: 0,0:15:32.20,0:15:35.54,English,,0,0,0,,So he diverted all his forces to Western Iraq\N{\rChinese}他的火箭弹，发射向以色，好吗？
+Dialogue: 0,0:15:35.54,0:15:39.82,English,,0,0,0,,and left Baghdad completely open to attack from the east\N{\rChinese}于是，
+Dialogue: 0,0:15:40.76,0:15:42.56,English,,0,0,0,,Okay so\N{\rChinese}西部伊拉克遭受大量破坏。
+Dialogue: 0,0:15:43.26,0:15:46.40,English,,0,0,0,,! No one Had fought a war like this before\N{\rChinese}萨达姆·侯赛因认为自己是
+Dialogue: 0,0:15:46.40,0:15:48.24,English,,0,0,0,,and no one knew what to expect.\N{\rChinese}如此自信，主要美军
+Dialogue: 0,0:15:48.42,0:15:51.68,English,,0,0,0,,Okay, but obviously you can only do this once\N{\rChinese}实际上在西部伊拉克
+Dialogue: 0,0:15:52.42,0:15:53.80,English,,0,0,0,,Right. Okay.\N{\rChinese}实际上在东部伊拉克
+Dialogue: 0,0:15:53.90,0:15:56.32,English,,0,0,0,,So there are three special conditions\N{\rChinese}于是，他把全部兵力调往西部伊拉克，巴格达则完全空出，易被东部攻击。
+Dialogue: 0,0:15:57.36,0:16:00.90,English,,0,0,0,,To make us think that shock and awe in the 2003\N{\rChinese}and left Baghdad completelyopen to attack from the east,
+Dialogue: 0,0:16:02.72,0:16:05.62,English,,0,0,0,,Iraq war which is a one -off it was unique.\N{\rChinese}好的？所以，
+Dialogue: 0,0:16:05.80,0:16:07.94,English,,0,0,0,,Okay Unfortunately\N{\rChinese}之前没有人打过这么一场战争
+Dialogue: 0,0:16:11.60,0:16:14.16,English,,0,0,0,,The Americans Don't know this. Okay,\N{\rChinese}于是，没人知道会怎样，行吗？
+Dialogue: 0,0:16:14.22,0:16:17.04,English,,0,0,0,,right the Americans are like well\N{\rChinese}但显然，你只能做一次，行吗？
+Dialogue: 0,0:16:17.04,0:16:21.30,English,,0,0,0,,all this does is Prove our theory to be correct.\N{\rChinese}好了？所以，有三种特殊条件
+Dialogue: 0,0:16:21.46,0:16:23.26,English,,0,0,0,,Okay, so over so after 2003\N{\rChinese}让我们认为2003年伊拉克战争的冲击与震撼只是一次性事件。
+Dialogue: 0,0:16:24.82,0:16:28.02,English,,0,0,0,,America focused its military doctrine\N{\rChinese}让我们认为2003年伊拉克战争的冲击与震撼只是一次性事件。
+Dialogue: 0,0:16:29.78,0:16:34.56,English,,0,0,0,,Its military on shock and awe, okay, so the example is special forces\N{\rChinese}让我们认为2003年伊拉克战争的冲击与震撼只是一次性事件。
+Dialogue: 0,0:16:35.18,0:16:38.56,English,,0,0,0,,So before 2001 America had about thirty eight thousand\N{\rChinese}它很独特，行吗？不幸的是，
+Dialogue: 0,0:16:39.36,0:16:42.56,English,,0,0,0,,special forces today is 73,000\N{\rChinese}美国人不知道这点，行吗？
+Dialogue: 0,0:16:43.26,0:16:47.60,English,,0,0,0,,That's a lot Because America has a total army of 1.3 million\N{\rChinese}对吧？美国人想，嗯，这一切只证明
+Dialogue: 0,0:16:49.86,0:16:52.94,English,,0,0,0,,The budget for special forces black ops, okay,\N{\rChinese}我们的理论正确吗？
+Dialogue: 0,0:16:53.04,0:16:56.32,English,,0,0,0,,it was about two billion in\N{\rChinese}于是，2003年之后，
+Dialogue: 0,0:16:56.94,0:17:00.80,English,,0,0,0,,2002 thousand and today it's about thirteen point seven billion.\N{\rChinese}美国把其军事实践聚焦于
+Dialogue: 0,0:17:00.98,0:17:03.10,English,,0,0,0,,So it's almost an increase of\N{\rChinese}其军队以震撼与敬畏为主，行吗？
+Dialogue: 0,0:17:05.72,0:17:08.84,English,,0,0,0,,Seven times which is a lot but\N{\rChinese}于是，例子是特种部队。
+Dialogue: 0,0:17:08.84,0:17:12.74,English,,0,0,0,,um, this is just the public official number\N{\rChinese}于是，2001年前，美国有约38,000名特种部队。
+Dialogue: 0,0:17:13.68,0:17:18.18,English,,0,0,0,,because Special forces are black ops they can operate outside\N{\rChinese}今天，它有73,000。
+Dialogue: 0,0:17:20.76,0:17:23.20,English,,0,0,0,,Supervision of The military.\N{\rChinese}好吧？那可不少。因为美国总兵力为130万。
+Dialogue: 0,0:17:23.40,0:17:27.44,English,,0,0,0,,Okay. So in other words their actual budget is probably\N{\rChinese}特种部队预算，黑色行动，行吗？
+Dialogue: 0,0:17:28.18,0:17:32.42,English,,0,0,0,,Ten times possible hundred times more than the official budget\N{\rChinese}2000年约为20亿美元。
+Dialogue: 0,0:17:33.48,0:17:34.82,English,,0,0,0,,right now\N{\rChinese}而今天，它约为137亿美元。
+Dialogue: 0,0:17:35.64,0:17:37.06,English,,0,0,0,,now special forces\N{\rChinese}所以，几乎增长了七倍。
+Dialogue: 0,0:17:38.20,0:17:41.86,English,,0,0,0,,I want to talk very briefly about why special forces is a problem\N{\rChinese}这可不少。但
+Dialogue: 0,0:17:42.84,0:17:44.94,English,,0,0,0,,Okay now traditionally\N{\rChinese}这只是公开的官方数字。
+Dialogue: 0,0:17:45.84,0:17:50.08,English,,0,0,0,,militaries have been very strict hierarchies and There are good reasons for this.\N{\rChinese}因为特种部队是黑色行动。
+Dialogue: 0,0:17:50.18,0:17:53.34,English,,0,0,0,,Okay, you have to enforce order and discipline, right, but\N{\rChinese}它们可以在监督之外行动。
+Dialogue: 0,0:17:53.34,0:17:55.74,English,,0,0,0,,you're also concerned about the military\N{\rChinese}军队的规模，好的？
+Dialogue: 0,0:17:56.84,0:17:58.32,English,,0,0,0,,Overflowing the government, right?\N{\rChinese}所以，换句话说，他们的实际预算大约是10倍
+Dialogue: 0,0:17:58.50,0:17:59.96,English,,0,0,0,,That's always been a problem throughout history.\N{\rChinese}可能是百倍
+Dialogue: 0,0:18:00.12,0:18:02.06,English,,0,0,0,,So you must maintain complete control.\N{\rChinese}比官方预算多
+Dialogue: 0,0:18:02.26,0:18:03.76,English,,0,0,0,,But when you do that\N{\rChinese}好了？现在，特种部队。
+Dialogue: 0,0:18:05.30,0:18:07.30,English,,0,0,0,,You create a\N{\rChinese}我想简要说明为什么特种部队是个问题。
+Dialogue: 0,0:18:08.46,0:18:13.58,English,,0,0,0,,Lot of problems in the military It is unable to act very quickly\N{\rChinese}好的？现在，传统上，
+Dialogue: 0,0:18:14.16,0:18:44.06,English,,0,0,0,,to That's why you have special forces Okay\N{\rChinese}军队一直是非常严格的层级结构。
+Dialogue: 0,0:18:45.10,0:18:48.22,English,,0,0,0,,But in general you don't want that many special forces\N{\rChinese}还有充分理由这么做，行吗？
+Dialogue: 0,0:18:48.22,0:18:52.34,English,,0,0,0,,because again they're outside the control of your\N{\rChinese}你得维护秩序与纪律，对吧？
+Dialogue: 0,0:18:53.08,0:18:55.28,English,,0,0,0,,military, okay, they're independent\N{\rChinese}但你也担心军队会溢出政府层面。
+Dialogue: 0,0:18:56.14,0:19:00.94,English,,0,0,0,,Sometimes of your military they have a lot of like a lot of space to maneuver\N{\rChinese}对吧？这一直是历史上的问题。
+Dialogue: 0,0:19:00.94,0:19:02.44,English,,0,0,0,,and to be independent\N{\rChinese}所以，你必须保持完全控制。
+Dialogue: 0,0:19:04.20,0:19:08.06,English,,0,0,0,,Now why are special forces a problem it's\N{\rChinese}但当你这么做时，
+Dialogue: 0,0:19:08.06,0:19:12.10,English,,0,0,0,,because the people who volunteer for special forces are\N{\rChinese}你制造了许多军队问题。
+Dialogue: 0,0:19:12.84,0:19:15.86,English,,0,0,0,,different from you and me, okay to put it very lightly.\N{\rChinese}它无法迅速应对敌情。
+Dialogue: 0,0:19:16.12,0:19:17.68,English,,0,0,0,,So for example, let's look at\N{\rChinese}It is unable to react very quickly to hostile situations, okay?
+Dialogue: 0,0:19:18.58,0:19:23.42,English,,0,0,0,,One of the top two special forces in the world called SAS Okay,\N{\rChinese}如果恐怖分子来袭，你的军队实际上无法赶去击败他们。
+Dialogue: 0,0:19:23.52,0:19:29.40,English,,0,0,0,,this is British special air services the most one the most elite certainly the oldest\N{\rChinese}太慢了，偶尔会有人质危机。
+Dialogue: 0,0:19:30.18,0:19:34.62,English,,0,0,0,,special forces in the world the other is Delta\N{\rChinese}于是70年代，许多飞机被恐怖分子劫持。
+Dialogue: 0,0:19:34.62,0:19:36.66,English,,0,0,0,,and so\N{\rChinese}在这种情况下，你需要特种部队，行吗？
+Dialogue: 0,0:19:37.30,0:19:39.46,English,,0,0,0,,You volunteer for special air services.\N{\rChinese}士兵们在你直接指挥之外，能立即应对危机。
+Dialogue: 0,0:19:39.64,0:19:40.90,English,,0,0,0,,You're applying. Okay\N{\rChinese}can respond immediately to crises.
+Dialogue: 0,0:19:41.34,0:19:44.90,English,,0,0,0,,And their first test is this the first test Okay,\N{\rChinese}这就是你需要特种部队的原因。好吗？
+Dialogue: 0,0:19:44.90,0:19:50.86,English,,0,0,0,,there are many tests but the first test is you have to run six marathons in five days\N{\rChinese}但总体上，你不想有太多特种部队
+Dialogue: 0,0:19:54.26,0:19:56.92,English,,0,0,0,,Okay, oh That's just beginning.\N{\rChinese}因为，再次，
+Dialogue: 0,0:19:57.08,0:19:58.88,English,,0,0,0,,You also have to carry a\N{\rChinese}它们在你军队的控制之外。
+Dialogue: 0,0:19:59.44,0:20:00.72,English,,0,0,0,,backpack of bricks\N{\rChinese}好吗？它们有时独立于你军队。
+Dialogue: 0,0:20:01.40,0:20:04.84,English,,0,0,0,,While you are running six marathons in five days,\N{\rChinese}它们有很大的机动空间，能独立行动。
+Dialogue: 0,0:20:04.98,0:20:07.90,English,,0,0,0,,okay, and you're like, okay, that's hard.\N{\rChinese}现在，为什么特种部队是个问题？
+Dialogue: 0,0:20:08.02,0:20:12.84,English,,0,0,0,,Oh one more thing Hmm your Running the marathon on a mountain\N{\rChinese}因为自愿加入特种部队的人和你我不同，明白吗？
+Dialogue: 0,0:20:14.06,0:20:19.66,English,,0,0,0,,Okay, you understand you have to run six marathons in five days\N{\rChinese}volunteer for special forces aredifferent from you and me, okay?
+Dialogue: 0,0:20:20.60,0:20:23.10,English,,0,0,0,,with a backpack of bricks\N{\rChinese}简单说来，……
+Dialogue: 0,0:20:23.94,0:20:26.16,English,,0,0,0,,And you have to go on a mountain somewhere.\N{\rChinese}比如说，先看……
+Dialogue: 0,0:20:26.36,0:20:28.24,English,,0,0,0,,Okay, so we even have that\N{\rChinese}比如说，先看……
+Dialogue: 0,0:20:28.24,0:20:32.24,English,,0,0,0,,first test there have been some individuals who've gone crazy\N{\rChinese}这是英国特种空中部队。
+Dialogue: 0,0:20:33.82,0:20:37.12,English,,0,0,0,,Okay, you have to put them put them in a hospital because they've gone crazy\N{\rChinese}它是最精锐的之一，当然也是最古老的。
+Dialogue: 0,0:20:38.36,0:20:41.10,English,,0,0,0,,But that's just to be the first test the last\N{\rChinese}它是世界上最精锐的特种部队之一。
+Dialogue: 0,0:20:41.20,0:20:44.12,English,,0,0,0,,Test is always torture they would be\N{\rChinese}另一个是德尔塔。
+Dialogue: 0,0:20:44.12,0:20:47.84,English,,0,0,0,,tortured To see how much they can resist\N{\rChinese}于是，你自愿加入特种空中部队。
+Dialogue: 0,0:20:48.62,0:20:50.06,English,,0,0,0,,Torture, okay, because obviously when\N{\rChinese}你正在申请，好的？第一项测试就是这个。
+Dialogue: 0,0:20:50.06,0:20:54.04,English,,0,0,0,,you're captured the enemy's gonna torture you to get information out of you, right?\N{\rChinese}第一项测试，好的，测试很多，但第一项测试是
+Dialogue: 0,0:20:54.18,0:20:55.62,English,,0,0,0,,What are you doing here?\N{\rChinese}你要在五天内跑六场马拉松。
+Dialogue: 0,0:20:56.84,0:21:00.68,English,,0,0,0,,Who is your commander? Are there other comrades with you?\N{\rChinese}好的？哦！
+Dialogue: 0,0:21:00.72,0:21:04.46,English,,0,0,0,,Okay, you always be tortured so they also have to withstand torture\N{\rChinese}那只是开始。你还得背个背包。
+Dialogue: 0,0:21:05.16,0:21:08.78,English,,0,0,0,,There's some other tests. So for example in the French special services\N{\rChinese}你要背着一背包砖块。
+Dialogue: 0,0:21:09.76,0:21:11.26,English,,0,0,0,,one test is that\N{\rChinese}在你跑五天六场马拉松时背着砖块。
+Dialogue: 0,0:21:11.26,0:21:14.46,English,,0,0,0,,you will have to wear a bulletproof bulletproof vest Okay,\N{\rChinese}好的？你觉得那挺难的。
+Dialogue: 0,0:21:14.54,0:21:17.42,English,,0,0,0,,and you will we have to hold a\N{\rChinese}哦！还有一件事。
+Dialogue: 0,0:21:18.28,0:21:22.74,English,,0,0,0,,Plate disk, right and then your comrade will shoot a gun at you\N{\rChinese}你要在山上跑马拉松。
+Dialogue: 0,0:21:24.26,0:21:25.92,English,,0,0,0,,Most people are like I'm not going to do this.\N{\rChinese}好的？你明白了吗？
+Dialogue: 0,0:21:26.00,0:21:28.70,English,,0,0,0,,Okay So in other words\N{\rChinese}你要在五天内跑六场马拉松
+Dialogue: 0,0:21:29.24,0:21:33.66,English,,0,0,0,,The people who are special forces, they're different from us physically\N{\rChinese}背着一背包砖块
+Dialogue: 0,0:21:34.60,0:21:36.64,English,,0,0,0,,but they're really different from us psychologically\N{\rChinese}并且你得在某座山上完成它。
+Dialogue: 0,0:21:37.54,0:21:39.80,English,,0,0,0,,They have a different mentality So,\N{\rChinese}好？所以，即使在那第一次测试中，
+Dialogue: 0,0:21:39.98,0:21:43.02,English,,0,0,0,,one special forces was interviewed by a reporter and\N{\rChinese}已经有些人出现了疯狂。
+Dialogue: 0,0:21:43.02,0:21:47.12,English,,0,0,0,,the reporter asked him, why did you choose to become special forces?\N{\rChinese}好？你得把他们送进医院，因为他们已经疯了。
+Dialogue: 0,0:21:47.40,0:21:49.00,English,,0,0,0,,And his answer is, well,\N{\rChinese}但那只是第一轮测试。
+Dialogue: 0,0:21:49.16,0:21:54.34,English,,0,0,0,,it's either I do special forces or I go Rob -X.\N{\rChinese}最后一轮测试永远是折磨。
+Dialogue: 0,0:21:54.94,0:21:57.58,English,,0,0,0,,One of the two. In other words,\N{\rChinese}他们会被折磨
+Dialogue: 0,0:21:57.82,0:22:01.02,English,,0,0,0,,special forces are individuals who\N{\rChinese}以测试他们能耐受多少折磨
+Dialogue: 0,0:22:01.02,0:22:04.20,English,,0,0,0,,are addicted to risk\N{\rChinese}好？因为显然被俘时，
+Dialogue: 0,0:22:04.20,0:22:05.92,English,,0,0,0,,and violence.\N{\rChinese}敌人会把你折磨出来取信息，对吧？
+Dialogue: 0,0:22:05.92,0:22:08.90,English,,0,0,0,,And guys, in America,\N{\rChinese}你在这儿干什么？
+Dialogue: 0,0:22:09.02,0:22:13.30,English,,0,0,0,,there's 73,000 of them running\N{\rChinese}你的指挥是谁？还有其他同志跟着吗？
+Dialogue: 0,0:22:13.30,0:22:15.98,English,,0,0,0,,around the world trying to protect the American empire.\N{\rChinese}好的？你会一直被折磨。所以他们也得耐受折磨。
+Dialogue: 0,0:22:17.28,0:22:21.68,English,,0,0,0,,Okay? So\N{\rChinese}还有其他测试。例如，在法国特种部队，……
+Dialogue: 0,0:22:21.68,0:22:24.70,English,,0,0,0,,special forces have increased\N{\rChinese}其中一个测试是你要穿上防弹背心。
+Dialogue: 0,0:22:24.70,0:22:30.34,English,,0,0,0,,and it's really changed the nature of the American military.\N{\rChinese}好的？然后你要握住一块粘土盘。
+Dialogue: 0,0:22:30.76,0:22:33.26,English,,0,0,0,,So it's good for America.\N{\rChinese}对吧？接着你同伴会向你开枪。
+Dialogue: 0,0:22:33.42,0:22:34.84,English,,0,0,0,,Because now...\N{\rChinese}大多数人会说，我不想干这事。
+Dialogue: 0,0:22:34.84,0:22:36.24,English,,0,0,0,,Now, what Shaw and\N{\rChinese}好的？换句话说，
+Dialogue: 0,0:22:36.24,0:22:40.72,English,,0,0,0,,all allows America to do is be everywhere at once.\N{\rChinese}身为特种部队的人，体格上与我们不同，
+Dialogue: 0,0:22:41.66,0:22:43.20,English,,0,0,0,,And you'll never see them.\N{\rChinese}但他们在心理上与我们截然不同。
+Dialogue: 0,0:22:43.72,0:22:47.06,English,,0,0,0,,Okay? So, for example, the example is\N{\rChinese}他们有不同的心态。
+Dialogue: 0,0:22:47.06,0:22:51.08,English,,0,0,0,,when Gaddafi was overthrown in the 2011 Libya war.\N{\rChinese}于是有一名特种部队员接受记者采访，
+Dialogue: 0,0:22:51.30,0:22:52.58,English,,0,0,0,,Okay? That was special forces.\N{\rChinese}记者问他：你为什么选择成为特种部队员？
+Dialogue: 0,0:22:53.02,0:22:57.60,English,,0,0,0,,But we don't know this because the special forces were hiding in the background.\N{\rChinese}于是他的回答是，嗯，是要么做特种部队员，要么去抢包。两者之一。换句话说，
+Dialogue: 0,0:22:57.76,0:23:01.76,English,,0,0,0,,Okay? Directing air power against Gaddafi.\N{\rChinese}...
+Dialogue: 0,0:23:02.14,0:23:03.44,English,,0,0,0,,So in other words...\N{\rChinese}...
+Dialogue: 0,0:23:03.44,0:23:04.80,English,,0,0,0,,What Shaw and all...\N{\rChinese}特种部队员是指那些能沉迷于风险与暴力的人。
+Dialogue: 0,0:23:04.80,0:23:09.40,English,,0,0,0,,What Shaw and all really is, is it's more than a theory of war.\N{\rChinese}特种部队员是指那些沉迷于风险与暴力的人。
+Dialogue: 0,0:23:09.56,0:23:11.90,English,,0,0,0,,It's ultimately a theory of empire.\N{\rChinese}特种部队员是指那些沉迷于风险与暴力的人。
+Dialogue: 0,0:23:18.58,0:23:20.58,English,,0,0,0,,America is an empire.\N{\rChinese}在美国，有七万三千人在全球奔走，试图守护美帝国。
+Dialogue: 0,0:23:20.86,0:23:25.08,English,,0,0,0,,But unfortunately, most Americans don't want to admit that.\N{\rChinese}在美国，有七万三千人在全球奔走，试图守护美帝国。
+Dialogue: 0,0:23:25.34,0:23:30.58,English,,0,0,0,,Because being an empire means doing bad things to innocent people.\N{\rChinese}在美国，有七万三千人在全球奔走，试图守护美帝国。
+Dialogue: 0,0:23:30.88,0:23:33.78,English,,0,0,0,,And what Shaw and all allows...\N{\rChinese}好的？那么，
+Dialogue: 0,0:23:33.78,0:23:38.78,English,,0,0,0,,What Shaw and all allows is for America to be an empire without the guilt of being an empire.\N{\rChinese}特种部队员数量增加了，
+Dialogue: 0,0:23:39.18,0:23:44.14,English,,0,0,0,,Okay? You have special forces doing all the work necessary in order to maintain this empire\N{\rChinese}这确实改变了美国军队的本质。
+Dialogue: 0,0:23:44.70,0:23:46.24,English,,0,0,0,,without people actually knowing.\N{\rChinese}于是，这对美国来说是件好事，因为
+Dialogue: 0,0:23:46.46,0:23:48.00,English,,0,0,0,,All right? So Shaw and\N{\rChinese}现在一切都让美国能够
+Dialogue: 0,0:23:48.00,0:23:53.26,English,,0,0,0,,all is really a theory of empire as opposed to a theory of war.\N{\rChinese}一次性地在各处出现。
+Dialogue: 0,0:23:53.48,0:23:57.02,English,,0,0,0,,Okay? So does it make sense to you guys so far?\N{\rChinese}而你们永远看不到它们。
+Dialogue: 0,0:23:58.32,0:23:59.54,English,,0,0,0,,Okay? Any questions so far?\N{\rChinese}好吧？所以，例如，例子是
+Dialogue: 0,0:24:01.96,0:24:03.76,English,,0,0,0,,Yeah? Okay.\N{\rChinese}当加达菲在2011年利比亚战争中被推翻时。
+Dialogue: 0,0:24:10.06,0:24:19.48,English,,0,0,0,,So... Okay. So, Celine asked a great question.\N{\rChinese}好的？那是特种部队。
+Dialogue: 0,0:24:20.04,0:24:22.22,English,,0,0,0,,Are there... There's more special forces.\N{\rChinese}但我们不知道，因为特种部队隐藏在背景里。
+Dialogue: 0,0:24:22.38,0:24:25.62,English,,0,0,0,,Is it because there's more people who want to be special forces?\N{\rChinese}好的？对加达菲进行空中打击。
+Dialogue: 0,0:24:25.74,0:24:28.44,English,,0,0,0,,Or is it because America needs more special forces?\N{\rChinese}所以，换句话说，Shaw和…的全部真正是，
+Dialogue: 0,0:24:28.54,0:24:30.58,English,,0,0,0,,The answer is both. Okay? So, again,\N{\rChinese}是它不只是战争理论而已。
+Dialogue: 0,0:24:30.96,0:24:33.46,English,,0,0,0,,the... America...\N{\rChinese}is it's more than a theory of war.
+Dialogue: 0,0:24:33.46,0:24:37.06,English,,0,0,0,,America... After the fall of the Soviet Union,\N{\rChinese}它最终是一种帝国理论。
+Dialogue: 0,0:24:37.26,0:24:38.64,English,,0,0,0,,no longer had a peer competitor.\N{\rChinese}美国是一个帝国。
+Dialogue: 0,0:24:39.18,0:24:42.82,English,,0,0,0,,So the understanding of America is\N{\rChinese}但不幸的是，大多数美国人不想成为美国人。
+Dialogue: 0,0:24:42.82,0:24:45.40,English,,0,0,0,,that from now on, they will have to fight rogue regimes.\N{\rChinese}他们也不愿意承认这一点。因为
+Dialogue: 0,0:24:45.94,0:24:48.84,English,,0,0,0,,Okay? So small nations that\N{\rChinese}成为一个帝国意味着对无辩者做坏事。
+Dialogue: 0,0:24:48.84,0:24:52.12,English,,0,0,0,,don't really listen to America, and\N{\rChinese}而“全能手枪”所允许的
+Dialogue: 0,0:24:52.12,0:24:54.94,English,,0,0,0,,these nations have to be toppled very quickly.\N{\rChinese}让美国成为帝国而不负帝国之罪。
+Dialogue: 0,0:24:55.14,0:24:57.68,English,,0,0,0,,Okay? So the examples would be Iraq,\N{\rChinese}好的？你们有特殊力量完成所有必要工作。
+Dialogue: 0,0:24:58.08,0:25:00.00,English,,0,0,0,,Iran, North Korea.\N{\rChinese}以此维持帝国，人民却不知晓。
+Dialogue: 0,0:25:00.08,0:25:01.40,English,,0,0,0,,Okay? The axis of evil.\N{\rChinese}好的？那就，
+Dialogue: 0,0:25:01.62,0:25:07.48,English,,0,0,0,,Okay? So America started to shift its doctrine to shadow wars.\N{\rChinese}全能手枪实际上是一种帝国理论，而非战争理论。
+Dialogue: 0,0:25:07.62,0:25:11.08,English,,0,0,0,,Okay? Wars that you don't really see, but which\N{\rChinese}好的？到目前为止，你们觉得有道理吗？
+Dialogue: 0,0:25:11.08,0:25:17.00,English,,0,0,0,,would be effective in toppling the regimes you don't like.\N{\rChinese}好的，至此还有问题吗？对吗？
+Dialogue: 0,0:25:17.10,0:25:19.34,English,,0,0,0,,Okay? And so\N{\rChinese}好的，接着，塞利娜提出了一个很好的问题。
+Dialogue: 0,0:25:19.34,0:25:22.42,English,,0,0,0,,a lot of the resources were shifted into special forces,\N{\rChinese}有吗，更多的特殊力量。
+Dialogue: 0,0:25:22.54,0:25:27.08,English,,0,0,0,,and that allowed more people to enter special forces.\N{\rChinese}是因为有更多人想成为特种部队吗？
+Dialogue: 0,0:25:28.06,0:25:30.16,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}还是因为美国需要更多特种部队？
+Dialogue: 0,0:25:30.32,0:25:33.52,English,,0,0,0,,Okay. All right. Any more questions before I move on?\N{\rChinese}答案是两者兼而已。
+Dialogue: 0,0:25:34.92,0:25:37.78,English,,0,0,0,,All right. Now the question then is, all right,\N{\rChinese}美国，
+Dialogue: 0,0:25:37.88,0:25:42.60,English,,0,0,0,,shock and awe, where does this come from?\N{\rChinese}在苏联解体后，再也没有了同等竞争者。
+Dialogue: 0,0:25:43.10,0:25:46.68,English,,0,0,0,,It comes from one of the greatest\N{\rChinese}于是，美国的理解是。
+Dialogue: 0,0:25:46.68,0:25:49.24,English,,0,0,0,,disasters for America called the Vietnam War.\N{\rChinese}从此以后，他们将要去打击流氓政权。
+Dialogue: 0,0:25:49.58,0:25:53.32,English,,0,0,0,,Okay? So from 1965 until 1973,\N{\rChinese}好吧？于是，小国们不太听美国，
+Dialogue: 0,0:25:53.74,0:25:58.88,English,,0,0,0,,there was a civil war in Vietnam between North Vietnam,\N{\rChinese}这些国家得很快被推翻。
+Dialogue: 0,0:25:59.04,0:26:01.72,English,,0,0,0,,which was communist, and South Vietnam.\N{\rChinese}好的？那么，例子就是伊拉克、伊朗、北韩。
+Dialogue: 0,0:26:01.74,0:26:04.70,English,,0,0,0,,Okay? And the war started in Vietnam, which is basically a U.S.\N{\rChinese}好的？那就是邪恶轴线。
+Dialogue: 0,0:26:04.70,0:26:07.42,English,,0,0,0,,controlled puppet state. Okay? And\N{\rChinese}Okay? The axis of evil.
+Dialogue: 0,0:26:07.42,0:26:10.48,English,,0,0,0,,America sent soldiers from 1965\N{\rChinese}于是，美国开始把其战略转向影子战争。
+Dialogue: 0,0:26:10.48,0:26:13.16,English,,0,0,0,,to 1973 to protect\N{\rChinese}好吧？你看不见的战争，
+Dialogue: 0,0:26:13.16,0:26:17.52,English,,0,0,0,,South Vietnam from insurgents and rebels.\N{\rChinese}但能有效推翻
+Dialogue: 0,0:26:18.44,0:26:20.46,English,,0,0,0,,And at the height of this war,\N{\rChinese}你不喜欢的政权。
+Dialogue: 0,0:26:20.80,0:26:23.74,English,,0,0,0,,three million U.S.\N{\rChinese}好吧？于是，
+Dialogue: 0,0:26:23.74,0:26:27.14,English,,0,0,0,,soldiers had to be deployed.\N{\rChinese}大量资源被转入特种部队。
+Dialogue: 0,0:26:27.34,0:26:28.82,English,,0,0,0,,Okay? Okay?\N{\rChinese}并且这让更多人加入特种部队。
+Dialogue: 0,0:26:28.82,0:26:30.44,English,,0,0,0,,And at the height, in 1969,\N{\rChinese}好吧？这样说通吗？
+Dialogue: 0,0:26:31.02,0:26:33.40,English,,0,0,0,,500,000 soldiers, U.S.\N{\rChinese}好。好了。还有别的问题吗？再继续吗？
+Dialogue: 0,0:26:33.40,0:26:38.12,English,,0,0,0,,soldiers, were in country to fight against the rebels and the insurgents.\N{\rChinese}好了。现在，问题是，好吧，
+Dialogue: 0,0:26:38.38,0:26:42.46,English,,0,0,0,,Okay? 58,000 U.S.\N{\rChinese}震惊与敬畏，这来自何处？
+Dialogue: 0,0:26:42.46,0:26:44.74,English,,0,0,0,,soldiers died in this war.\N{\rChinese}它来自其中一大事。
+Dialogue: 0,0:26:45.20,0:26:49.38,English,,0,0,0,,Three million, at least three million,\N{\rChinese}灾难被称为越南战争。
+Dialogue: 0,0:26:49.42,0:26:51.90,English,,0,0,0,,Vietnamese died in this war.\N{\rChinese}好吧？于是从1965到1973，
+Dialogue: 0,0:26:52.10,0:26:54.70,English,,0,0,0,,Two million of them were civilians,\N{\rChinese}越南发生了内战，北越是共产主义的。
+Dialogue: 0,0:26:55.08,0:26:56.36,English,,0,0,0,,innocent civilians. Okay?\N{\rChinese}和南越，南越是美国控制的傀儡国。
+Dialogue: 0,0:26:59.56,0:27:03.04,English,,0,0,0,,Over 300,000 U.S.\N{\rChinese}美国派兵去南越。
+Dialogue: 0,0:27:03.06,0:27:04.82,English,,0,0,0,,soldiers were wounded.\N{\rChinese}And America sentsoldiers
+Dialogue: 0,0:27:05.02,0:27:09.82,English,,0,0,0,,Okay? They went home without legs, without arms.\N{\rChinese}从1965年到1973年
+Dialogue: 0,0:27:10.64,0:27:12.06,English,,0,0,0,,And they were traumatized.\N{\rChinese}保卫南越免受叛军侵扰
+Dialogue: 0,0:27:12.58,0:27:17.38,English,,0,0,0,,And this was an extremely controversial war in America\N{\rChinese}在这场战争的高峰期
+Dialogue: 0,0:27:17.38,0:27:22.60,English,,0,0,0,,because they were trying to fight the war using standard military doctrine,\N{\rChinese}300万美军需要部署。
+Dialogue: 0,0:27:22.92,0:27:25.98,English,,0,0,0,,mass forces. Right? So, the institute did something called a draft.\N{\rChinese}好的？在高峰期，1969年，
+Dialogue: 0,0:27:26.22,0:27:29.42,English,,0,0,0,,So, if you were a young American, you had to go fight in this war in Vietnam.\N{\rChinese}50万美军，
+Dialogue: 0,0:27:29.80,0:27:32.20,English,,0,0,0,,But you didn't know why you had to go fight this war.\N{\rChinese}在该国驻军与叛军和叛乱作战。好的吗？
+Dialogue: 0,0:27:32.40,0:27:34.10,English,,0,0,0,,And chances are that\N{\rChinese}58,000名美军在此战中阵亡。
+Dialogue: 0,0:27:34.10,0:27:37.92,English,,0,0,0,,you would either die or you would lose a body part in this war.\N{\rChinese}300万名美军在此战中阵亡。
+Dialogue: 0,0:27:38.24,0:27:41.48,English,,0,0,0,,So, it became extremely unpopular in America.\N{\rChinese}至少有300万越南人死于此战。
+Dialogue: 0,0:27:42.02,0:27:46.64,English,,0,0,0,,The other thing is that there were a lot of journalists in Vietnam during this time.\N{\rChinese}其中200万是平民，普通百姓。好的吗？
+Dialogue: 0,0:27:46.74,0:27:52.54,English,,0,0,0,,And they were reporting on how America was killing Vietnamese for no reason.\N{\rChinese}超过30万美军受伤。
+Dialogue: 0,0:27:52.68,0:27:56.78,English,,0,0,0,,So, the most famous of these journalists was the American journalist, Mr. Lee. And the most famous story is something called the My Lai Massacre where American soldiers\N{\rChinese}好的吗？他们回家时没了腿，没了手，且受了重创。
+Dialogue: 0,0:27:57.40,0:28:00.34,English,,0,0,0,,went into a Vietnamese village and killed everyone there.\N{\rChinese}而这场战争极具争议。
+Dialogue: 0,0:28:00.48,0:28:02.16,English,,0,0,0,,Okay? 300 people, 400 people.\N{\rChinese}And this was an extremely controversial war
+Dialogue: 0,0:28:02.28,0:28:04.32,English,,0,0,0,,Okay? And this was happening actually quite a lot.\N{\rChinese}在美国因为
+Dialogue: 0,0:28:04.74,0:28:07.86,English,,0,0,0,,So, there was widespread anger\N{\rChinese}他们试图用标准军事实战术、规模部队来作战，右吗？于是他们设立了所谓的征兵制。
+Dialogue: 0,0:28:07.86,0:28:11.68,English,,0,0,0,,and protest in America at this time,\N{\rChinese}mass forces, right? So they instituted something called a draft.
+Dialogue: 0,0:28:11.82,0:28:16.56,English,,0,0,0,,which ultimately forced America to withdraw in 1973.\N{\rChinese}如果你是个年轻的美国人，你就得去越南打这场战争。
+Dialogue: 0,0:28:17.52,0:28:19.60,English,,0,0,0,,Okay? And...\N{\rChinese}但你不知道为什么要去打这场战争。
+Dialogue: 0,0:28:23.84,0:28:28.66,English,,0,0,0,,The U.S. military was very angry about this war.\N{\rChinese}很可能是这样。
+Dialogue: 0,0:28:28.82,0:28:32.64,English,,0,0,0,,Because the thing about generals is they don't like to lose wars.\N{\rChinese}你要么死在这场战争里，要么失去一肢体。
+Dialogue: 0,0:28:33.40,0:28:35.22,English,,0,0,0,,Okay? When they fight wars,\N{\rChinese}于是在美国极为不受欢迎。
+Dialogue: 0,0:28:35.46,0:28:38.48,English,,0,0,0,,they want to win at all costs.\N{\rChinese}另外还有很多记者。
+Dialogue: 0,0:28:39.46,0:28:43.60,English,,0,0,0,,And they felt that they were betrayed by the country.\N{\rChinese}在越南的那段时间里。
+Dialogue: 0,0:28:45.56,0:28:49.76,English,,0,0,0,,They were fighting hard to maintain the American empire,\N{\rChinese}他们在报道美国如何无缘无故地杀死越南人。
+Dialogue: 0,0:28:50.02,0:28:51.88,English,,0,0,0,,to fight against communism.\N{\rChinese}was killing Vietnamese for no reason.
+Dialogue: 0,0:28:52.14,0:28:53.82,English,,0,0,0,,And this was bringing the U.S.\N{\rChinese}于是最著名的故事是马莱大屠杀
+Dialogue: 0,0:28:53.82,0:28:56.80,English,,0,0,0,,military to a standstill. Okay? They're fighting to maintain wealth, power, and prestige to America.\N{\rChinese}美国士兵闯进越南村庄
+Dialogue: 0,0:28:57.78,0:29:00.28,English,,0,0,0,,But the American people, the American politicians,\N{\rChinese}全村人被杀光
+Dialogue: 0,0:29:00.70,0:29:02.36,English,,0,0,0,,the American democracy republic,\N{\rChinese}好的？300人，400人。
+Dialogue: 0,0:29:02.66,0:29:06.08,English,,0,0,0,,refused to make the necessary sacrifices\N{\rChinese}好的？而且这件事实际上相当多。
+Dialogue: 0,0:29:06.08,0:29:09.42,English,,0,0,0,,in order to maintain this empire.\N{\rChinese}于是广泛的愤怒出现。
+Dialogue: 0,0:29:10.04,0:29:15.92,English,,0,0,0,,And so, many American generals felt betrayed by what happened in Vietnam.\N{\rChinese}并在此时在美国示威
+Dialogue: 0,0:29:16.46,0:29:20.38,English,,0,0,0,,Okay? Now, there's a very famous incident during this war called the Pentagon Papers.\N{\rChinese}最终迫使美国于1973年撤军
+Dialogue: 0,0:29:23.02,0:29:25.38,English,,0,0,0,,Okay? In 1971,\N{\rChinese}好？
+Dialogue: 0,0:29:25.76,0:29:30.14,English,,0,0,0,,a group of\N{\rChinese}美国
+Dialogue: 0,0:29:30.14,0:29:33.16,English,,0,0,0,,American analysts, okay, they were,\N{\rChinese}军方对这场战争非常激动
+Dialogue: 0,0:29:33.18,0:29:36.04,English,,0,0,0,,these were military analysts working in the military.\N{\rChinese}因为将军的事，军方不喜欢输战
+Dialogue: 0,0:29:36.26,0:29:39.52,English,,0,0,0,,They secretly got together and they tried to compose\N{\rChinese}好？他们打仗时，想要全胜无误
+Dialogue: 0,0:29:40.07,0:29:43.10,English,,0,0,0,,a secret history of the Vietnam War.\N{\rChinese}他们觉得自己被本国背叛了
+Dialogue: 0,0:29:43.32,0:29:44.78,English,,0,0,0,,And this was called the Pentagon Papers.\N{\rChinese}And they felt that they were betrayed by the country.
+Dialogue: 0,0:29:45.02,0:29:47.04,English,,0,0,0,,This was meant to be classified.\N{\rChinese}他们奋战不息
+Dialogue: 0,0:29:47.50,0:29:51.00,English,,0,0,0,,This was not meant to be read by the public.\N{\rChinese}以维持美帝国，抗击共主义。
+Dialogue: 0,0:29:51.00,0:29:53.74,English,,0,0,0,,But one of them, Daniel Ellsberg,\N{\rChinese}这为美国带来财富、力量与荣光。
+Dialogue: 0,0:29:53.96,0:29:57.06,English,,0,0,0,,linked it to the newspapers, Washington Post\N{\rChinese}但美国人民、美国政客们、
+Dialogue: 0,0:29:57.06,0:29:58.90,English,,0,0,0,,and New York Times, and they published it.\N{\rChinese}美国民主、共和国，
+Dialogue: 0,0:29:59.14,0:30:02.66,English,,0,0,0,,And people were angry by the Pentagon Papers\N{\rChinese}却不愿作必要的牺
+Dialogue: 0,0:30:02.66,0:30:05.32,English,,0,0,0,,because what the Pentagon Papers said is, one,\N{\rChinese}为维持此帝国而行动。
+Dialogue: 0,0:30:05.54,0:30:10.64,English,,0,0,0,,America has been secretly fighting this war for a long time,\N{\rChinese}于是如此。
+Dialogue: 0,0:30:10.80,0:30:14.24,English,,0,0,0,,okay? So many presidents,\N{\rChinese}许多美军将领感到越战中所发生的事让他们觉得被背叛。
+Dialogue: 0,0:30:14.34,0:30:17.12,English,,0,0,0,,including Eisenhower, Kennedy, and\N{\rChinese}好的？这场战争里有个非常著名的事件叫做《五角大楼文件》。
+Dialogue: 0,0:30:17.12,0:30:20.98,English,,0,0,0,,Lyndon Johnson, were expanding this war without any reason.\N{\rChinese}好的？1971年。
+Dialogue: 0,0:30:21.00,0:30:24.02,English,,0,0,0,,Without public approval, without congressional approval, okay?\N{\rChinese}1971年，
+Dialogue: 0,0:30:24.16,0:30:26.20,English,,0,0,0,,So there was a lot of deception, that's the first thing.\N{\rChinese}一组美国分析师
+Dialogue: 0,0:30:26.58,0:30:28.14,English,,0,0,0,,Second thing is that\N{\rChinese}好的，他们是，军方工作的军事分析师
+Dialogue: 0,0:30:28.14,0:30:31.06,English,,0,0,0,,the politicians,\N{\rChinese}他们秘密聚在一起
+Dialogue: 0,0:30:31.26,0:30:34.70,English,,0,0,0,,the presidents, knew this war was not winnable.\N{\rChinese}他们试图编写越战的秘密史。
+Dialogue: 0,0:30:35.04,0:30:37.62,English,,0,0,0,,You couldn't win this war, okay?\N{\rChinese}这被称为《五角大楼文件》。它本来是机密的。
+Dialogue: 0,0:30:38.22,0:30:40.72,English,,0,0,0,,And the reason why is that\N{\rChinese}它本来是供公众阅读的。
+Dialogue: 0,0:30:40.72,0:30:45.96,English,,0,0,0,,these Vietnamese\N{\rChinese}但其中一位，丹尼尔·艾尔斯伯格，
+Dialogue: 0,0:30:45.96,0:30:48.66,English,,0,0,0,,peasants, they were unbeatable\N{\rChinese}把它与《华盛邮报》和《纽约时报》联系起来。
+Dialogue: 0,0:30:48.66,0:30:53.00,English,,0,0,0,,because what they were doing was they were digging tunnels underground.\N{\rChinese}然后他们把它出版了。
+Dialogue: 0,0:30:53.92,0:30:57.62,English,,0,0,0,,And then when American soldiers were coming, they would just pop out of these tunnels,\N{\rChinese}人们因《五角大楼文件》而愤怒
+Dialogue: 0,0:30:57.76,0:31:00.02,English,,0,0,0,,shoot at them, and then disappear back into the tunnels, okay?\N{\rChinese}因为《五角大楼文件》所说的第一点是：美国长期秘密参战
+Dialogue: 0,0:31:00.24,0:31:02.68,English,,0,0,0,,It was like as though they could swim underground.\N{\rChinese}美国一直在秘密地进行这场战争
+Dialogue: 0,0:31:03.22,0:31:06.30,English,,0,0,0,,They were not beatable. Second thing is that\N{\rChinese}好的？所以有这么多位总统，
+Dialogue: 0,0:31:06.30,0:31:10.06,English,,0,0,0,,they had an unlimited supply of weapons.\N{\rChinese}包括艾森豪尔、肯尼迪，
+Dialogue: 0,0:31:10.80,0:31:12.58,English,,0,0,0,,And you're like, wait a minute.\N{\rChinese}以及林登·约翰逊
+Dialogue: 0,0:31:14.96,0:31:17.76,English,,0,0,0,,These peasants don't have weapons, and the answer is,\N{\rChinese}他们在无公众批准的情况下扩大战事
+Dialogue: 0,0:31:17.80,0:31:20.36,English,,0,0,0,,they got these weapons from their enemies.\N{\rChinese}没有国会批准。因此有很多欺骗。
+Dialogue: 0,0:31:20.92,0:31:24.50,English,,0,0,0,,Okay? So the first thing is\N{\rChinese}这就是第一件事。第二件事是
+Dialogue: 0,0:31:24.50,0:31:28.40,English,,0,0,0,,that these soldiers, these American soldiers, were in the jungle,\N{\rChinese}政治家们，主席们，
+Dialogue: 0,0:31:28.94,0:31:32.58,English,,0,0,0,,and they were carrying backpacks of ammunition,\N{\rChinese}他们知道这场战争不是能赢的。
+Dialogue: 0,0:31:32.92,0:31:35.78,English,,0,0,0,,right? And sometimes they would lose a fight,\N{\rChinese}你们这场战争没法赢。
+Dialogue: 0,0:31:35.86,0:31:40.20,English,,0,0,0,,or they would run away in the jungle, because it's very hard to carry these backpacks of ammunition, right?\N{\rChinese}原因是这样：
+Dialogue: 0,0:31:40.34,0:31:42.40,English,,0,0,0,,They would drop these ammunition, and guess what?\N{\rChinese}这些越南农民，
+Dialogue: 0,0:31:43.00,0:31:46.38,English,,0,0,0,,You're now arming the enemy, right?\N{\rChinese}他们是无敌的。因为他们所做的事是，
+Dialogue: 0,0:31:46.68,0:31:49.14,English,,0,0,0,,Because these peasants would pick up these ammo and use it themselves.\N{\rChinese}他们正在地下挖掘隧道。
+Dialogue: 0,0:31:49.44,0:31:52.24,English,,0,0,0,,Okay? That's the first thing. Second thing is that\N{\rChinese}当美国士兵来临时，他们会从这些隧道里突然出现。
+Dialogue: 0,0:31:52.24,0:31:56.64,English,,0,0,0,,the US military dropped\N{\rChinese}他们会先开枪，然后又消失回隧道。
+Dialogue: 0,0:31:56.64,0:32:02.44,English,,0,0,0,,more bombs on Vietnam than in World War II combined,\N{\rChinese}好吧？就像他们能在地下游泳一样。
+Dialogue: 0,0:32:02.84,0:32:05.58,English,,0,0,0,,okay? More bombs were dropped in Vietnam\N{\rChinese}他们是无敌的。第二点是
+Dialogue: 0,0:32:06.10,0:32:10.74,English,,0,0,0,,than in World War II combined, okay?\N{\rChinese}他们拥有无限的武器供应。
+Dialogue: 0,0:32:10.76,0:32:14.96,English,,0,0,0,,Does that make sense? And about 20% of these bombs didn't explode.\N{\rChinese}好的，等一下。
+Dialogue: 0,0:32:15.72,0:32:19.82,English,,0,0,0,,And if they didn't explode, the enemy could pick them up, and transform them.\N{\rChinese}这些农民没有武器。
+Dialogue: 0,0:32:22.18,0:32:27.68,English,,0,0,0,,They could import automatic automatic automatic automatic automatic automatic automatic automatic automatic second thing\N{\rChinese}答案是他们从敌人那里得到这些武器。
+Dialogue: 0,0:32:27.68,0:32:28.88,English,,0,0,0,,and the third thing was that\N{\rChinese}好吧？第一点是
+Dialogue: 0,0:32:28.88,0:32:33.64,English,,0,0,0,,the South Vietnamese army was extremely corrupt\N{\rChinese}这些士兵，这些美国士兵在丛林里
+Dialogue: 0,0:32:33.64,0:32:36.26,English,,0,0,0,,so they were taking these American weapons and\N{\rChinese}他们背着装满弹药的背包
+Dialogue: 0,0:32:36.26,0:32:40.88,English,,0,0,0,,selling it them to the rebels okay\N{\rChinese}对吧？有时他们会输掉一场战斗，或者在丛林里逃跑
+Dialogue: 0,0:32:40.88,0:32:46.26,English,,0,0,0,,so then the question then is you can't really see this enemy they're everywhere okay they can swim underground\N{\rChinese}因为背着装满弹药的背包很难携带
+Dialogue: 0,0:32:46.26,0:32:49.58,English,,0,0,0,,and if you're supplying them yourself so\N{\rChinese}对吧？他们会把这些弹药丢掉
+Dialogue: 0,0:32:49.58,0:32:55.50,English,,0,0,0,,no matter how much weapons you can bring into this country how are you gonna win this war the other thing is\N{\rChinese}那你猜怎么了？你现在在给敌人装弹。
+Dialogue: 0,0:32:55.50,0:32:58.50,English,,0,0,0,,that these peasants were getting angry at you because\N{\rChinese}对吧？这些农民会捡起弹药自己用。
+Dialogue: 0,0:32:58.50,0:33:01.54,English,,0,0,0,,obviously in this war you're killing a lot innocent people right\N{\rChinese}这就是第一点。第二点是……
+Dialogue: 0,0:33:01.54,0:33:07.42,English,,0,0,0,,who happens to be their brothers their sisters their children their parents okay\N{\rChinese}美国军队在越南投下的炸弹比二战总数还多。
+Dialogue: 0,0:33:07.42,0:33:07.86,English,,0,0,0,,so\N{\rChinese}美国军队在越南投下的炸弹比二战总数还多。
+Dialogue: 0,0:33:07.86,0:33:13.72,English,,0,0,0,,as this war was dragging on the Vietnamese were becoming more embittered\N{\rChinese}美国军队在越南投下的炸弹比二战总数还多。
+Dialogue: 0,0:33:13.72,0:33:16.36,English,,0,0,0,,and more angry so\N{\rChinese}好的？这样说通吗？然后
+Dialogue: 0,0:33:16.36,0:33:20.50,English,,0,0,0,,there's no way you were going to win this war okay\N{\rChinese}大约20%的炸弹没爆炸。
+Dialogue: 0,0:33:21.80,0:33:24.66,English,,0,0,0,,that's that's a pentagon paper second thing the third thing is okay\N{\rChinese}如果没爆炸，敌人就能捡起来。
+Dialogue: 0,0:33:25.30,0:33:26.58,English,,0,0,0,,the question then\N{\rChinese}并把它们变成地雷。
+Dialogue: 0,0:33:26.58,0:33:31.32,English,,0,0,0,,is is these American presidents\N{\rChinese}这些地雷正是杀死更多美国人的原因。
+Dialogue: 0,0:33:31.32,0:33:33.70,English,,0,0,0,,these American leaders know for a fact that\N{\rChinese}第二件事是，第三件事是…
+Dialogue: 0,0:33:33.70,0:33:38.60,English,,0,0,0,,this war cannot be won why were they fighting this war why would they continue to flip this for\N{\rChinese}越南南方军极度腐败。
+Dialogue: 0,0:33:38.60,0:33:40.02,English,,0,0,0,,and\N{\rChinese}于是他们把美军武器拿去，
+Dialogue: 0,0:33:40.02,0:33:41.68,English,,0,0,0,,the answer is unfortunately the\N{\rChinese}再卖给叛军。
+Dialogue: 0,0:33:41.68,0:33:43.10,English,,0,0,0,,answer is credibility\N{\rChinese}好的？那么问题是，如果你真的看不见这个敌人，他们无处不在，可以潜伏在地下。而且如果你自己在供给他们，…
+Dialogue: 0,0:33:43.10,0:33:48.06,English,,0,0,0,,okay we don't want to\N{\rChinese}他们无处不在，可以潜伏在地下。而且如果你自己在供给他们，…
+Dialogue: 0,0:33:48.06,0:33:51.78,English,,0,0,0,,lose face guys okay we don't want to\N{\rChinese}…
+Dialogue: 0,0:33:51.78,0:33:57.32,English,,0,0,0,,lose face loose face if we withdraw from Vietnam if we admit\N{\rChinese}无论你能带多少武器进入这个国家，
+Dialogue: 0,0:33:57.32,0:34:00.76,English,,0,0,0,,that peasants were in pajamas can beat us\N{\rChinese}你打算怎么赢这场战争？另外一件事是……
+Dialogue: 0,0:34:00.76,0:34:04.50,English,,0,0,0,,Soviet Union would laugh at us China would laugh at\N{\rChinese}这些农民因为你而愤怒
+Dialogue: 0,0:34:04.50,0:34:07.80,English,,0,0,0,,us the entire world would laugh at us we don't be laughed at\N{\rChinese}显然在这场战争里，你们正在杀死许多无辜之人，对吧？
+Dialogue: 0,0:34:07.80,0:34:11.40,English,,0,0,0,,so that's why we're staying in this war okay\N{\rChinese}谁恰好是他们的兄弟、姐妹、子女、父母。
+Dialogue: 0,0:34:11.40,0:34:14.04,English,,0,0,0,,so\N{\rChinese}好的？于是这场战争拖延下来，
+Dialogue: 0,0:34:14.04,0:34:18.42,English,,0,0,0,,to summarize what the Pentagon Papers said okay three things one is\N{\rChinese}越发愈后
+Dialogue: 0,0:34:18.42,0:34:21.98,English,,0,0,0,,that the American government lied to the people\N{\rChinese}并愈怒
+Dialogue: 0,0:34:21.98,0:34:23.72,English,,0,0,0,,and\N{\rChinese}所以你们本来就没有办法赢得这场战争。
+Dialogue: 0,0:34:23.72,0:34:28.96,English,,0,0,0,,turn this into a major war that's first thing second thing is\N{\rChinese}好吧？那就是五角大楼文件，第二点。
+Dialogue: 0,0:34:28.96,0:34:32.22,English,,0,0,0,,that America cannot possibly win this war\N{\rChinese}第三点是，好的，
+Dialogue: 0,0:34:32.22,0:34:35.58,English,,0,0,0,,okay the third thing is\N{\rChinese}问题是，
+Dialogue: 0,0:34:35.58,0:34:39.14,English,,0,0,0,,that America is only in this war\N{\rChinese}如果这些美国总统、美国领导人确实知道
+Dialogue: 0,0:34:39.14,0:34:40.44,English,,0,0,0,,so\N{\rChinese}那场战争无法取胜，
+Dialogue: 0,0:34:40.44,0:34:44.70,English,,0,0,0,,to avoid losing face that's it there was no strategic purpose\N{\rChinese}他们为何继续作战？
+Dialogue: 0,0:34:46.70,0:34:49.84,English,,0,0,0,,there was no strategic objectives from fighting this war it was just\N{\rChinese}他们为何继续作战？
+Dialogue: 0,0:34:49.84,0:34:53.48,English,,0,0,0,,like we don't lose face we don't be laughed at that's it okay\N{\rChinese}答案是，遗憾的是，答案是可信度。
+Dialogue: 0,0:34:53.48,0:34:55.04,English,,0,0,0,,so obviously when\N{\rChinese}好的？我们不想丢面子，大家。
+Dialogue: 0,0:34:55.04,0:35:00.66,English,,0,0,0,,the Pentagon Papers were released to the public everyone was angry okay\N{\rChinese}好的？我们不想丢面子。
+Dialogue: 0,0:35:01.52,0:35:04.48,English,,0,0,0,,and the anger was so tremendous\N{\rChinese}如果我们从越南撤军，
+Dialogue: 0,0:35:04.48,0:35:06.72,English,,0,0,0,,that America had no choice but\N{\rChinese}如果我们承认穿睡衣的农民能打败我们
+Dialogue: 0,0:35:06.72,0:35:10.04,English,,0,0,0,,to ultimately withdraw from the war and\N{\rChinese}苏联会嘲笑我们。
+Dialogue: 0,0:35:10.04,0:35:13.44,English,,0,0,0,,so the Pentagon felt betrayed by democracy\N{\rChinese}中国会嘲笑我们。
+Dialogue: 0,0:35:16.70,0:35:19.92,English,,0,0,0,,the politicians were more concerned about winning\N{\rChinese}整个世界都会嘲笑我们。
+Dialogue: 0,0:35:19.92,0:35:21.66,English,,0,0,0,,elections than about winning wars\N{\rChinese}我们不想被嘲笑。所以问题是，为什么我们要打这场战争？
+Dialogue: 0,0:35:21.66,0:35:26.60,English,,0,0,0,,okay people could protest\N{\rChinese}这就是我们留在这场战争的原因。
+Dialogue: 0,0:35:26.60,0:35:27.90,English,,0,0,0,,and\N{\rChinese}总结五角大楼文件所说的内容，好吗，三件事。
+Dialogue: 0,0:35:27.90,0:35:31.90,English,,0,0,0,,defy the military they refused to make\N{\rChinese}第一件事是美国政府对人民撒谎
+Dialogue: 0,0:35:31.90,0:35:34.12,English,,0,0,0,,that sacrifices necessary to win this\N{\rChinese}第二件事是把这件事变成一场大战争
+Dialogue: 0,0:35:34.12,0:35:35.78,English,,0,0,0,,war the media\N{\rChinese}第一件事是。第二件事是美国不可能赢得这场战争。
+Dialogue: 0,0:35:35.78,0:35:40.92,English,,0,0,0,,could insult the military\N{\rChinese}好吧？第三件事是……
+Dialogue: 0,0:35:40.92,0:35:44.48,English,,0,0,0,,so the\N{\rChinese}美国只是参与这场战争。
+Dialogue: 0,0:35:44.48,0:35:46.98,English,,0,0,0,,but so there are many in the military who fought that\N{\rChinese}为了避免丢面子。
+Dialogue: 0,0:35:46.98,0:35:49.50,English,,0,0,0,,listen if we are to maintain\N{\rChinese}就是这样。没有任何战略目的。
+Dialogue: 0,0:35:49.50,0:35:53.76,English,,0,0,0,,the Empire we need to divorce\N{\rChinese}从打这场战争没有任何战略目标。
+Dialogue: 0,0:35:53.76,0:35:55.36,English,,0,0,0,,the Empire from democracy\N{\rChinese}就像是，我们不想丢面子。
+Dialogue: 0,0:35:55.36,0:35:59.94,English,,0,0,0,,okay Empire democracy do\N{\rChinese}我们不想被笑。
+Dialogue: 0,0:35:59.94,0:36:03.24,English,,0,0,0,,not get along if we want to\N{\rChinese}就是这样。好吧？
+Dialogue: 0,0:36:03.24,0:36:07.44,English,,0,0,0,,win a war our greatest enemy is not the enemy\N{\rChinese}向公众宣布，大家都很生气。
+Dialogue: 0,0:36:07.44,0:36:09.82,English,,0,0,0,,but democracy in America and\N{\rChinese}好吧？于是愤怒，
+Dialogue: 0,0:36:10.50,0:36:12.84,English,,0,0,0,,that's why you have shock and\N{\rChinese}愤怒如此巨大，以至美国无奈之举。
+Dialogue: 0,0:36:12.84,0:36:16.52,English,,0,0,0,,awe right because because they didn't think\N{\rChinese}但最终要从战争中撤退。
+Dialogue: 0,0:36:17.38,0:36:18.40,English,,0,0,0,,because because because because because because\N{\rChinese}于是五角大楼觉得民主背叛。
+Dialogue: 0,0:36:18.40,0:36:28.04,English,,0,0,0,,because because\N{\rChinese}政客更关心赢选举而非赢战争。
+Dialogue: 0,0:36:28.04,0:36:31.06,English,,0,0,0,,because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because\N{\rChinese}好吧？人们可以抗议并且敢于军方。
+Dialogue: 0,0:36:31.06,0:36:34.02,English,,0,0,0,,because because because because because because because because because because because because because because because because because because because because because\N{\rChinese}他们不肯作必要的牺以赢此战。
+Dialogue: 0,0:36:34.02,0:36:37.18,English,,0,0,0,,because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because\N{\rChinese}They refused to make the sacrifices necessary to win this war.
+Dialogue: 0,0:36:37.18,0:36:39.96,English,,0,0,0,,because\N{\rChinese}而媒体
+Dialogue: 0,0:36:46.54,0:36:47.60,English,,0,0,0,,to fight the war.\N{\rChinese}可以侮辱军方。
+Dialogue: 0,0:36:48.42,0:36:53.48,English,,0,0,0,,You can now escape the shackles of democracy\N{\rChinese}于是军中有许多人认为，听着，
+Dialogue: 0,0:36:53.96,0:36:57.62,English,,0,0,0,,in order to do what you must to protect the American empire.\N{\rChinese}如果我们要维持帝国，
+Dialogue: 0,0:36:58.46,0:37:00.44,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}我们要把帝国与民主分离。
+Dialogue: 0,0:37:01.68,0:37:05.34,English,,0,0,0,,So shock and awe was really a response to Vietnam War.\N{\rChinese}好吗？帝国和民主不合拍。
+Dialogue: 0,0:37:05.64,0:37:09.22,English,,0,0,0,,And what shock and awe means is that\N{\rChinese}如果我们想赢得一场战争，
+Dialogue: 0,0:37:10.78,0:37:13.94,English,,0,0,0,,the empire is no longer burdened by democracy.\N{\rChinese}我们的最大敌人不是敌人，
+Dialogue: 0,0:37:15.14,0:37:16.72,English,,0,0,0,,Special forces can go and\N{\rChinese}但美国的民主。
+Dialogue: 0,0:37:16.72,0:37:19.90,English,,0,0,0,,do what they must without any oversight\N{\rChinese}这就是你会有冲击与惊叹的原因。
+Dialogue: 0,0:37:19.90,0:37:22.00,English,,0,0,0,,and consent from the people.\N{\rChinese}对吧？因为震撼与惊叹的全部意义是减少伤亡。
+Dialogue: 0,0:37:22.72,0:37:24.22,English,,0,0,0,,Okay? Does that make sense, guys?\N{\rChinese}and awe is to minimize casualties.
+Dialogue: 0,0:37:25.76,0:37:28.42,English,,0,0,0,,Okay, so shock and awe is really a fear of empire.\N{\rChinese}如果有伤亡，你看不到，因为都被炸掉了。
+Dialogue: 0,0:37:28.64,0:37:31.64,English,,0,0,0,,What America must do in order to maintain\N{\rChinese}对吧？而且动作很快，大家根本看不见它们。
+Dialogue: 0,0:37:33.02,0:37:34.62,English,,0,0,0,,its empire around the world.\N{\rChinese}而人们开始发怒也就不可能了。
+Dialogue: 0,0:37:35.08,0:37:38.10,English,,0,0,0,,Any questions before I move on about this?\N{\rChinese}好的？震撼与惊叹意味着
+Dialogue: 0,0:37:50.38,0:37:53.74,English,,0,0,0,,Okay, so Suneen asked a great question, which is, okay, I make the argument\N{\rChinese}好的，Suneen 提了个很好的问题，就是……我来阐述一下。
+Dialogue: 0,0:37:53.74,0:37:57.86,English,,0,0,0,,that shock and awe only works in Iraq, right?\N{\rChinese}那种震撼与惊叹只在伊拉克奏效，对吧？
+Dialogue: 0,0:37:59.00,0:38:02.92,English,,0,0,0,,And what would happen in other wars? Okay, so\N{\rChinese}接下来在其他战争会怎样？
+Dialogue: 0,0:38:02.92,0:38:07.32,English,,0,0,0,,the thing about America for the past 20 years is\N{\rChinese}过去二十年美国的事就是——
+Dialogue: 0,0:38:07.32,0:38:09.16,English,,0,0,0,,it's been mainly fighting wars in the Middle East.\N{\rChinese}主要在中东打仗
+Dialogue: 0,0:38:09.70,0:38:12.90,English,,0,0,0,,And it turns out the entire Middle East is a desert, okay?\N{\rChinese}于是整个中东都是沙漠，好的？
+Dialogue: 0,0:38:13.40,0:38:15.50,English,,0,0,0,,Okay? So this shock and\N{\rChinese}于是这震撼与惊叹……
+Dialogue: 0,0:38:15.50,0:38:19.62,English,,0,0,0,,awe policy has had tremendous success in Iraq\N{\rChinese}惊叹政策在伊拉克取得巨大成功
+Dialogue: 0,0:38:19.62,0:38:22.96,English,,0,0,0,,and then in Libya, okay?\N{\rChinese}然后在利比亚，好的？
+Dialogue: 0,0:38:23.06,0:38:25.90,English,,0,0,0,,Because America overthrew Gaddafi in Libya.\N{\rChinese}因为美国推翻了卡扎菲在利比亚。
+Dialogue: 0,0:38:26.18,0:38:28.74,English,,0,0,0,,And it's also had some success in Syria as well.\N{\rChinese}它在叙利亚也取得了一些成功。
+Dialogue: 0,0:38:29.66,0:38:32.16,English,,0,0,0,,Okay? So from the perspective of America,\N{\rChinese}好的？从美国的视角来看，
+Dialogue: 0,0:38:32.50,0:38:34.60,English,,0,0,0,,we're really only fighting wars in a desert.\N{\rChinese}我们只是在沙漠里打仗。
+Dialogue: 0,0:38:34.66,0:38:36.94,English,,0,0,0,,Shock and awe is fine. Okay?\N{\rChinese}震撼与惊叹还行。好吗？
+Dialogue: 0,0:38:38.68,0:38:41.12,English,,0,0,0,,But our next class, we'll discuss Iran.\N{\rChinese}但我们的下一节课，我们会讨论伊朗。
+Dialogue: 0,0:38:41.40,0:38:43.00,English,,0,0,0,,And Iran is not a desert.\N{\rChinese}伊朗不是沙漠。
+Dialogue: 0,0:38:43.06,0:38:46.06,English,,0,0,0,,It's mountains. Okay? And I'll show you that shock and awe\N{\rChinese}它是山地。好吧？我会给你展示震撼与惊叹。
+Dialogue: 0,0:38:46.70,0:38:48.14,English,,0,0,0,,is not gonna work in Iran.\N{\rChinese}在伊朗不奏效。
+Dialogue: 0,0:38:48.38,0:38:49.80,English,,0,0,0,,Okay? But that's next class. Okay?\N{\rChinese}好吧？但那是下一节课。好吧？
+Dialogue: 0,0:38:49.84,0:38:52.20,English,,0,0,0,,Does that make sense? All right.\N{\rChinese}那有道理吗？好吧。
+Dialogue: 0,0:38:52.56,0:38:56.28,English,,0,0,0,,Any more questions? In Iraq,\N{\rChinese}还有问题吗？在伊拉克，
+Dialogue: 0,0:38:56.52,0:39:00.64,English,,0,0,0,,after America had seen Saddam Hussein,\N{\rChinese}在美国看到萨达姆·侯赛因之后，
+Dialogue: 0,0:39:01.02,0:39:04.54,English,,0,0,0,,there was still a lot of fighting after they won.\N{\rChinese}他们赢得胜利后仍有大量战斗
+Dialogue: 0,0:39:04.72,0:39:06.32,English,,0,0,0,,Yeah. They couldn't control it.\N{\rChinese}是的。他们没能控制住它。
+Dialogue: 0,0:39:06.60,0:39:08.74,English,,0,0,0,,Yeah. So shock and awe is in a desert\N{\rChinese}是的。所以震撼与敬畏在沙漠中。
+Dialogue: 0,0:39:09.38,0:39:11.20,English,,0,0,0,,in the middle of the country.\N{\rChinese}在国中间。
+Dialogue: 0,0:39:11.46,0:39:14.76,English,,0,0,0,,Yeah, okay. So Jack makes a great point, which is, okay, yeah,\N{\rChinese}是的，好。于是杰克提出了一个很好的点，嗯，好吧。
+Dialogue: 0,0:39:14.92,0:39:17.44,English,,0,0,0,,but most people would say\N{\rChinese}但大多数人会说
+Dialogue: 0,0:39:18.04,0:39:22.50,English,,0,0,0,,that America lost the Iraq war because of the insurgency, right?\N{\rChinese}美国因叛乱而输掉伊拉克战争，对吧？
+Dialogue: 0,0:39:22.84,0:39:25.40,English,,0,0,0,,Okay. So, okay.\N{\rChinese}好的。
+Dialogue: 0,0:39:26.02,0:39:27.24,English,,0,0,0,,That's a great point. Okay?\N{\rChinese}那是个好点。好吗？
+Dialogue: 0,0:39:27.30,0:39:29.54,English,,0,0,0,,You can make the point that America, for the past 20 years,\N{\rChinese}你可以说，过去二十年里，美国在伊拉克和阿富汗的战争中都输了。
+Dialogue: 0,0:39:29.60,0:39:32.48,English,,0,0,0,,have lost all wars in Iraq and Afghanistan because\N{\rChinese}have lost all wars in Iraq and Afghanistan because
+Dialogue: 0,0:39:32.48,0:39:34.70,English,,0,0,0,,they have not been able to control the insurgency.\N{\rChinese}他们未能控制叛乱。
+Dialogue: 0,0:39:34.90,0:39:38.02,English,,0,0,0,,Okay? But the problem with this is that\N{\rChinese}好吧？但问题在于……
+Dialogue: 0,0:39:38.02,0:39:42.38,English,,0,0,0,,shock and awe, it's not designed to stabilize countries.\N{\rChinese}震撼与惊叹并非用来稳定国家。
+Dialogue: 0,0:39:42.38,0:39:46.68,English,,0,0,0,,Shock and awe is meant to topple and destroy countries.\N{\rChinese}震撼与惊叹的目的在于推翻并摧毁国家。
+Dialogue: 0,0:39:47.72,0:39:50.70,English,,0,0,0,,Do you understand? And so the argument can be made\N{\rChinese}你明白了吗？于是可以这样论证：
+Dialogue: 0,0:39:50.70,0:39:53.44,English,,0,0,0,,that the real intention of shock and awe is to make sure\N{\rChinese}震撼与惊叹的真正意图是确保
+Dialogue: 0,0:39:53.44,0:39:58.74,English,,0,0,0,,that no power in the Middle East can arise to challenge America's supremacy.\N{\rChinese}那时，中东没有任何力量能崛起挑战美国的霸权。
+Dialogue: 0,0:39:59.80,0:40:02.82,English,,0,0,0,,Okay? So yeah, in Iraq,\N{\rChinese}好吧？所以，嗯，在伊拉克，
+Dialogue: 0,0:40:03.20,0:40:06.28,English,,0,0,0,,the insurgents ultimately won,\N{\rChinese}叛乱者最终赢了。
+Dialogue: 0,0:40:07.16,0:40:09.64,English,,0,0,0,,but is Iraq a functional state?\N{\rChinese}但伊拉克是一个功能性国家吗？
+Dialogue: 0,0:40:09.76,0:40:12.36,English,,0,0,0,,And the answer is no, right? Is Libya a functional state?\N{\rChinese}答案是没有，对吗？利比亚是一个功能性国家吗？
+Dialogue: 0,0:40:12.38,0:40:15.12,English,,0,0,0,,No. There's still a civil war going on in Syria.\N{\rChinese}不。叙利亚仍在进行内战。
+Dialogue: 0,0:40:15.32,0:40:18.02,English,,0,0,0,,All right? So, but that's a great point.\N{\rChinese}好的？所以，这点很重要。
+Dialogue: 0,0:40:18.38,0:40:22.88,English,,0,0,0,,Okay? And it comes down to what is the ultimately,\N{\rChinese}好吧？归根结底，究竟是怎样的？
+Dialogue: 0,0:40:23.22,0:40:26.48,English,,0,0,0,,what is the ultimate design and intention of the empire?\N{\rChinese}究竟帝国的设计与意图是什么？
+Dialogue: 0,0:40:27.02,0:40:30.80,English,,0,0,0,,Is it to replace regimes or is it to destroy countries?\N{\rChinese}是要更换政权还是要消灭国家？
+Dialogue: 0,0:40:31.12,0:40:35.16,English,,0,0,0,,And you make the argument that shock and awe is really designed to destroy countries\N{\rChinese}你可以说震撼与惊叹的手段确实是为了消灭国家
+Dialogue: 0,0:40:35.16,0:40:39.34,English,,0,0,0,,and not to replace regimes.\N{\rChinese}而不是更换政权。
+Dialogue: 0,0:40:39.54,0:40:41.22,English,,0,0,0,,Okay? Does that make sense? Okay.\N{\rChinese}好的？那有道理吗？好的。
+Dialogue: 0,0:40:42.38,0:40:45.32,English,,0,0,0,,So, what's important to understand is that\N{\rChinese}所以，重要的是要理解的是
+Dialogue: 0,0:40:45.90,0:40:50.86,English,,0,0,0,,one of the theories of the invasion of Iraq is to bring democracy to the country.\N{\rChinese}其中一个关于伊拉克入侵的理论是把民主带到该国。
+Dialogue: 0,0:40:51.72,0:40:54.64,English,,0,0,0,,Okay? But the problem with that\N{\rChinese}好的？但问题在于
+Dialogue: 0,0:40:54.64,0:40:58.10,English,,0,0,0,,is, from the start, they did everything wrong.\N{\rChinese}从一开始他们就做错了所有事。
+Dialogue: 0,0:40:58.46,0:41:00.54,English,,0,0,0,,Okay? So first thing is,\N{\rChinese}好的？所以第一件事是，
+Dialogue: 0,0:41:00.74,0:41:04.70,English,,0,0,0,,they really didn't have enough soldiers to maintain peace, right, in the country.\N{\rChinese}他们真的没有足够的士兵来维持和平，对吧？
+Dialogue: 0,0:41:04.84,0:41:08.00,English,,0,0,0,,So there's a lot of looting. So the entire country broke down.\N{\rChinese}于是大规模掠夺，整个国家陷入混乱。
+Dialogue: 0,0:41:08.20,0:41:10.68,English,,0,0,0,,Second thing is that during the air campaign,\N{\rChinese}第二件事是，在空袭期间，
+Dialogue: 0,0:41:11.04,0:41:15.80,English,,0,0,0,,America, America destroyed all the infrastructure necessary for society, okay?\N{\rChinese}美国，美国把社会所需的所有基础设施都摧毁了，好吗？
+Dialogue: 0,0:41:15.90,0:41:18.88,English,,0,0,0,,So including water supply, including electricity grid.\N{\rChinese}包括供水、包括电网。
+Dialogue: 0,0:41:19.46,0:41:21.58,English,,0,0,0,,Why would you do that if your intention was to\N{\rChinese}如果你的意图是……
+Dialogue: 0,0:41:22.14,0:41:23.64,English,,0,0,0,,bring democracy to the country, right?\N{\rChinese}把民主带到这个国家，对吧？
+Dialogue: 0,0:41:24.22,0:41:28.02,English,,0,0,0,,The third thing is that the very first thing the American government did\N{\rChinese}第三件事是，当美国政府第一次接管伊拉克时，做的第一件事是……
+Dialogue: 0,0:41:28.02,0:41:32.58,English,,0,0,0,,when they took control over Iraq is something called de -bafflication,\N{\rChinese}那件事叫做去中心化（de‑bafflication）
+Dialogue: 0,0:41:32.68,0:41:36.48,English,,0,0,0,,okay? Which is to say that if you used to work for the old government,\N{\rChinese}好的？也就是说，如果你以前为旧政府工作，现在就失业了。
+Dialogue: 0,0:41:36.62,0:41:39.30,English,,0,0,0,,you're now out of a job.\N{\rChinese}嘿，伊拉克军队现在不再为你工作。
+Dialogue: 0,0:41:39.82,0:41:42.02,English,,0,0,0,,Hey, the Iraqi military, they're not going to work for you.\N{\rChinese}Hey, the Iraqi military, they're not going to work for you.
+Dialogue: 0,0:41:42.02,0:41:45.10,English,,0,0,0,,You're now disbanded. And\N{\rChinese}你现在解散了。然后，问题是，呃，
+Dialogue: 0,0:41:45.10,0:41:46.66,English,,0,0,0,,then the question then is, ha,\N{\rChinese}如果你的最终目标是把民主带到这个国家，…
+Dialogue: 0,0:41:46.94,0:41:51.56,English,,0,0,0,,if your ultimate objective is to bring democracy to the country,\N{\rChinese}if your ultimate objective is tobring democracy to the country,
+Dialogue: 0,0:41:51.70,0:41:53.12,English,,0,0,0,,why would you destroy\N{\rChinese}为什么你要毁掉国家的政治基础设施？
+Dialogue: 0,0:41:53.66,0:41:56.32,English,,0,0,0,,all political infrastructure in the country?\N{\rChinese}为什么你要毁掉国家自我治理的能力以及维持秩序？
+Dialogue: 0,0:41:57.02,0:42:01.16,English,,0,0,0,,Why would you destroy the ability for the country to govern itself as well as to maintain order,\N{\rChinese}为什么你要毁掉国家自我治理的能力以及维持秩序？
+Dialogue: 0,0:42:01.36,0:42:02.86,English,,0,0,0,,as well as to feed the population?\N{\rChinese}也为了给人们提供食物？
+Dialogue: 0,0:42:03.06,0:42:04.26,English,,0,0,0,,Why would you do that? Okay?\N{\rChinese}那你为什么要这么做？
+Dialogue: 0,0:42:04.40,0:42:06.76,English,,0,0,0,,So an argument can be made that the real intention\N{\rChinese}于是可以说真正的意图是…
+Dialogue: 0,0:42:07.30,0:42:11.16,English,,0,0,0,,was not to bring democracy to Iraq, it was just to destroy Iraq, to maintain American,\N{\rChinese}它不是把民主带到伊拉克，而是要把伊拉克摧毁，保持美国的霸权，并给别人上一课。
+Dialogue: 0,0:42:12.02,0:42:16.60,English,,0,0,0,,to maintain supremacy as well as to teach others a lesson.\N{\rChinese}别惹我们，我们会来摧毁你，行吗？
+Dialogue: 0,0:42:16.72,0:42:18.34,English,,0,0,0,,Don't mess with us, we'll come and destroy you, okay?\N{\rChinese}Don't mess with us, we'llcome and destroy you, okay?
+Dialogue: 0,0:42:18.40,0:42:22.48,English,,0,0,0,,Does that make sense? Okay,\N{\rChinese}这有道理吗？好吧，
+Dialogue: 0,0:42:22.58,0:42:25.20,English,,0,0,0,,but this is something we will discuss later on, okay?\N{\rChinese}但这点我们稍后再说，好吗？
+Dialogue: 0,0:42:25.28,0:42:27.30,English,,0,0,0,,In another class, okay? All right.\N{\rChinese}在另一节课里，好吧，
+Dialogue: 0,0:42:28.32,0:42:30.52,English,,0,0,0,,All right, let's now move to the last topic,\N{\rChinese}好的，接下来我们进入最后一个话题，
+Dialogue: 0,0:42:30.98,0:42:34.46,English,,0,0,0,,which is the theory of empire. So\N{\rChinese}就是帝国理论。于是
+Dialogue: 0,0:42:34.46,0:42:37.12,English,,0,0,0,,this is not the first theory of empire America had.\N{\rChinese}这并不是美国第一个帝国理论。
+Dialogue: 0,0:42:37.30,0:42:38.62,English,,0,0,0,,It's actually the second theory of empire.\N{\rChinese}它实际上是第二个帝国理论。
+Dialogue: 0,0:42:39.06,0:42:43.54,English,,0,0,0,,Okay? The first theory of empire was in 1991.\N{\rChinese}好？第一个帝国理论是在1991年。
+Dialogue: 0,0:42:45.38,0:42:46.80,English,,0,0,0,,Remember that in 1991,\N{\rChinese}记得1991年，
+Dialogue: 0,0:42:47.16,0:42:50.20,English,,0,0,0,,America launched\N{\rChinese}美国发动
+Dialogue: 0,0:42:51.66,0:42:54.36,English,,0,0,0,,an attack against Saddam Hussein because\N{\rChinese}对萨达姆·侯赛因的攻击，因为
+Dialogue: 0,0:42:54.36,0:42:56.96,English,,0,0,0,,Saddam Hussein invaded Kuwait, right?\N{\rChinese}萨达姆·侯赛因入侵科威特，对吧？
+Dialogue: 0,0:42:58.60,0:43:01.92,English,,0,0,0,,So at that time, 1991,\N{\rChinese}于是到了1991年，
+Dialogue: 0,0:43:02.42,0:43:03.68,English,,0,0,0,,the Soviet Union had collapsed.\N{\rChinese}苏联已经解体。
+Dialogue: 0,0:43:04.02,0:43:07.06,English,,0,0,0,,America was the only hegemon, was the only power,\N{\rChinese}美国则是唯一的霸权，唯一的强国。
+Dialogue: 0,0:43:07.22,0:43:09.24,English,,0,0,0,,and it presented a new theory of empire, right?\N{\rChinese}并且提出了新的帝国理论，对吧？
+Dialogue: 0,0:43:09.24,0:43:12.12,English,,0,0,0,,How America will rule the world, okay?\N{\rChinese}美国将如何统治世界，行吗？
+Dialogue: 0,0:43:12.73,0:43:14.32,English,,0,0,0,,So the first idea is\N{\rChinese}于是第一个想法是
+Dialogue: 0,0:43:14.32,0:43:18.68,English,,0,0,0,,limited strategic\N{\rChinese}有限的战略目标或目标，行吗？
+Dialogue: 0,0:43:18.68,0:43:22.66,English,,0,0,0,,goals or objectives, okay?\N{\rChinese}于是比如说，2003年时…
+Dialogue: 0,0:43:23.35,0:43:26.58,English,,0,0,0,,So for example, in 2003 when\N{\rChinese}So for example,in 2003 when
+Dialogue: 0,0:43:26.58,0:43:28.62,English,,0,0,0,,America invaded Iraq,\N{\rChinese}美国入侵伊拉克，
+Dialogue: 0,0:43:28.96,0:43:30.42,English,,0,0,0,,its strategic goals\N{\rChinese}其战略目标
+Dialogue: 0,0:43:30.42,0:43:35.20,English,,0,0,0,,were pretty unachievable, okay?\N{\rChinese}相当可达不到，行吗？
+Dialogue: 0,0:43:35.38,0:43:38.04,English,,0,0,0,,It was basically like we're gonna bring democracy and\N{\rChinese}它基本上就是我们要把民主和和平带到伊拉克和中东
+Dialogue: 0,0:43:38.04,0:43:40.94,English,,0,0,0,,peace to Iraq and the Middle East, okay?\N{\rChinese}而在由父亲领导的波斯特海湾战争中，...
+Dialogue: 0,0:43:41.16,0:43:44.98,English,,0,0,0,,Whereas in the Persian Gulf War, led by the father,\N{\rChinese}Whereas in the Persian Gulf War, led by the father,
+Dialogue: 0,0:43:45.04,0:43:48.74,English,,0,0,0,,right, George Herbert Walker Bush, the first\N{\rChinese}对，乔治·赫伯特·沃克·布什，首要且唯一的目标是把萨达姆·侯赛因从科威特赶走。
+Dialogue: 0,0:43:48.74,0:43:53.86,English,,0,0,0,,and only goal was to remove Saddam Hussein from Kuwait.\N{\rChinese}就是这样，行吗？我们不去伊拉克把萨达姆·侯赛因推倒。
+Dialogue: 0,0:43:54.08,0:43:57.66,English,,0,0,0,,That's it, okay? We're not gonna go to Iraq and topple Saddam Hussein.\N{\rChinese}就是这么简单，行吗？我们不去伊拉克推倒萨达姆·侯赛因。
+Dialogue: 0,0:43:57.88,0:44:00.34,English,,0,0,0,,We're not gonna inflict punishment on Saddam Hussein.\N{\rChinese}我们不打算给萨达姆·侯赛因加重罚。
+Dialogue: 0,0:44:00.48,0:44:04.20,English,,0,0,0,,All we wanna do is remove him from Kuwait, okay?\N{\rChinese}我们要做的就是把他从科威特赶走，行吗？
+Dialogue: 0,0:44:04.28,0:44:08.38,English,,0,0,0,,That's the first thing. Second thing is that, okay, we're gonna have to do this.\N{\rChinese}第一件事是这样，第二件事是我们要去做这件事。
+Dialogue: 0,0:44:09.62,0:44:11.58,English,,0,0,0,,We're gonna have to do this. America did so\N{\rChinese}我们要去做这件事。美国就是这么做的
+Dialogue: 0,0:44:11.58,0:44:15.00,English,,0,0,0,,with a coalition of countries, okay?\N{\rChinese}与一支由各国组成的联盟一起，行吗？
+Dialogue: 0,0:44:15.38,0:44:19.14,English,,0,0,0,,Dozens of other countries were part of the war,\N{\rChinese}数十个其他国家也参与了这场战争
+Dialogue: 0,0:44:19.28,0:44:23.98,English,,0,0,0,,and America played a leading role, but it also had to defer to its partners, okay?\N{\rChinese}美国扮演了主导角色，但也得向伙伴们让步，行吗？
+Dialogue: 0,0:44:24.48,0:44:28.56,English,,0,0,0,,So for example, countries like Saudi Arabia,\N{\rChinese}比如说，像沙特阿拉伯这样的国家，
+Dialogue: 0,0:44:29.06,0:44:32.66,English,,0,0,0,,who participated in the war, were like, there's no way we'll topple Saddam Hussein.\N{\rChinese}他们参与了战争，结果就是没办法把萨达姆·侯赛因推倒。
+Dialogue: 0,0:44:32.86,0:44:34.72,English,,0,0,0,,We'll only stop at Kuwait, okay?\N{\rChinese}我们只会停在科威特，行吗？
+Dialogue: 0,0:44:35.12,0:44:37.88,English,,0,0,0,,So the United States deferred to its partners, okay?\N{\rChinese}于是美国向伙伴们让步，行吗？
+Dialogue: 0,0:44:38.42,0:44:40.52,English,,0,0,0,,And the third thing was,\N{\rChinese}第三点是……
+Dialogue: 0,0:44:41.08,0:44:42.86,English,,0,0,0,,and this is the most important is that\N{\rChinese}并且最重要的是
+Dialogue: 0,0:44:44.24,0:44:47.98,English,,0,0,0,,the ultimate leader was the United Nations.\N{\rChinese}最终的主导者是联合国。
+Dialogue: 0,0:44:48.34,0:44:52.76,English,,0,0,0,,The United States had to go and make a case to the United Nations.\N{\rChinese}美国必须去向联合国阐述理由。
+Dialogue: 0,0:44:52.90,0:44:55.76,English,,0,0,0,,The United Nations gave its consent\N{\rChinese}联合国已批准
+Dialogue: 0,0:44:56.14,0:44:59.64,English,,0,0,0,,to the military action, okay? So the United States made the argument\N{\rChinese}军行动，行吗？于是美国作了论证
+Dialogue: 0,0:44:59.64,0:45:01.60,English,,0,0,0,,that this is not a U.S.\N{\rChinese}这不是美国的行动
+Dialogue: 0,0:45:01.84,0:45:03.80,English,,0,0,0,,military action. It is a U.N.\N{\rChinese}军事行动。它是联合国的行动。
+Dialogue: 0,0:45:03.92,0:45:05.40,English,,0,0,0,,military action, okay?\N{\rChinese}军事行动，好吗？
+Dialogue: 0,0:45:05.92,0:45:07.68,English,,0,0,0,,And so the important principle is to,\N{\rChinese}而且重要的原则是……
+Dialogue: 0,0:45:09.72,0:45:14.02,English,,0,0,0,,maintain the rules based in national order.\N{\rChinese}保持基于民族国家的规则。
+Dialogue: 0,0:45:15.50,0:45:18.76,English,,0,0,0,,Okay? So what America said at\N{\rChinese}好吗？于是美国在……说的就是……
+Dialogue: 0,0:45:18.76,0:45:23.46,English,,0,0,0,,that point is, yeah, I know we are the greatest power in the world.\N{\rChinese}那一点是，嗯，我知道我们是世界上最大的力量。
+Dialogue: 0,0:45:23.56,0:45:25.18,English,,0,0,0,,I know the Soviet Union has collapsed.\N{\rChinese}我知道苏联已经解体。
+Dialogue: 0,0:45:25.48,0:45:28.02,English,,0,0,0,,I know that militarily no one can challenge us.\N{\rChinese}我知道在军事上没有人能挑战我们。
+Dialogue: 0,0:45:28.32,0:45:31.66,English,,0,0,0,,But with this power comes great responsibility.\N{\rChinese}但拥有这份力量也带来大责任。
+Dialogue: 0,0:45:31.90,0:45:33.80,English,,0,0,0,,We must show humility.\N{\rChinese}我们必须表现谦逊。
+Dialogue: 0,0:45:34.18,0:45:35.78,English,,0,0,0,,We must show discipline.\N{\rChinese}我们必须表现纪律。
+Dialogue: 0,0:45:35.78,0:45:37.34,English,,0,0,0,,We must show restraint.\N{\rChinese}我们必须表现克制。
+Dialogue: 0,0:45:38.08,0:45:43.52,English,,0,0,0,,Our priority will be to maintain the national rules based order\N{\rChinese}我们的首要任务是保持以国家规则为基础的秩序
+Dialogue: 0,0:45:43.52,0:45:46.94,English,,0,0,0,,because this will bring prosperity, freedom,\N{\rChinese}因为这将带来繁荣与自由
+Dialogue: 0,0:45:47.10,0:45:48.92,English,,0,0,0,,and stability to everyone.\N{\rChinese}并为大家带来稳定。
+Dialogue: 0,0:45:49.30,0:45:52.26,English,,0,0,0,,Okay? And that means that\N{\rChinese}好的？这就意味着……
+Dialogue: 0,0:45:52.26,0:45:54.32,English,,0,0,0,,if we use the military,\N{\rChinese}如果我们动用军力，
+Dialogue: 0,0:45:55.54,0:45:58.92,English,,0,0,0,,it will only because it's the last resort,\N{\rChinese}它只会在最后手段时才使用。
+Dialogue: 0,0:45:59.10,0:46:02.80,English,,0,0,0,,the last option, and only for a limited strategic objective.\N{\rChinese}最后的手段，仅为有限的战略目标。
+Dialogue: 0,0:46:04.66,0:46:07.02,English,,0,0,0,,We will only do this if we do so with partners.\N{\rChinese}我们只有在与伙伴一起行动时才会这么做。
+Dialogue: 0,0:46:08.12,0:46:09.94,English,,0,0,0,,And we will only do so\N{\rChinese}我们只会在联合国授权的伞下这么做。
+Dialogue: 0,0:46:09.94,0:46:13.14,English,,0,0,0,,under the umbrella of UN authority.\N{\rChinese}我们只会在联合国授权的伞下这么做。
+Dialogue: 0,0:46:13.84,0:46:16.46,English,,0,0,0,,Okay? So this is the first theory of empire.\N{\rChinese}好的？这就是第一种帝国理论。
+Dialogue: 0,0:46:16.84,0:46:19.62,English,,0,0,0,,When you think about it, wow, great!\N{\rChinese}当你想到它时，哇，太棒了！
+Dialogue: 0,0:46:20.80,0:46:22.78,English,,0,0,0,,What a wonderful world, right?\N{\rChinese}多么美好的世界，吧？
+Dialogue: 0,0:46:25.30,0:46:28.88,English,,0,0,0,,Here's a question then. Why did America\N{\rChinese}接下来是个问题。为什么美国……
+Dialogue: 0,0:46:33.96,0:46:36.78,English,,0,0,0,,not do this anymore? Why did they switch to shock and awe?\N{\rChinese}他们为什么不再这样做？为什么转而为震撼与惊叹？
+Dialogue: 0,0:46:37.02,0:46:41.14,English,,0,0,0,,Shock and awe is basically unlimited strategic goals,\N{\rChinese}震撼与惊叹基本上是无限的战略目标，单边军事行动，对吧？
+Dialogue: 0,0:46:42.46,0:46:43.94,English,,0,0,0,,unilateral military action, right?\N{\rChinese}我们，美国，自己来做这件事。不需要别人。
+Dialogue: 0,0:46:44.06,0:46:45.86,English,,0,0,0,,We, America, will do this by ourselves. We don't need anyone.\N{\rChinese}We, America, will do this by ourselves. We don't need anyone.
+Dialogue: 0,0:46:46.96,0:46:49.70,English,,0,0,0,,Okay? And America is just basically bullying.\N{\rChinese}好的？美国就是在霸凌。
+Dialogue: 0,0:46:49.94,0:46:54.28,English,,0,0,0,,We make the rules. Why did America do this?\N{\rChinese}我们制定规则。为什么美国会这么做？
+Dialogue: 0,0:46:55.06,0:46:58.24,English,,0,0,0,,Why this transition from the first theory of empire, which\N{\rChinese}为什么从第一种帝国理论过渡到第二种？
+Dialogue: 0,0:46:58.24,0:47:00.88,English,,0,0,0,,is great, it would allow America to rule the world forever,\N{\rChinese}它很棒，可以让美国永远统治世界，
+Dialogue: 0,0:47:01.16,0:47:05.70,English,,0,0,0,,to now the second theory of empire, which is pissing the entire world off?\N{\rChinese}现在是第二种帝国理论，正把全世界搞得一团糟？
+Dialogue: 0,0:47:07.78,0:47:16.68,English,,0,0,0,,Why? Okay. So this is really hard to understand, okay?\N{\rChinese}为什么？好吧，这个很难懂，懂吗？
+Dialogue: 0,0:47:16.86,0:47:18.64,English,,0,0,0,,But let's use an analogy, okay?\N{\rChinese}好吧，先用个比喻来说明，行吗？
+Dialogue: 0,0:47:18.80,0:47:20.48,English,,0,0,0,,So Jack is my son.\N{\rChinese}于是杰克是我的儿子。
+Dialogue: 0,0:47:20.68,0:47:22.98,English,,0,0,0,,Okay? And I'm a billionaire.\N{\rChinese}我是一位亿万富翁。
+Dialogue: 0,0:47:23.60,0:47:24.86,English,,0,0,0,,I have $10 billion.\N{\rChinese}我有100亿美元。
+Dialogue: 0,0:47:26.00,0:47:30.26,English,,0,0,0,,Why do I have $10 billion? It's because one, I'm smart.\N{\rChinese}我之所以有100亿美元？因为一，我很聪明。
+Dialogue: 0,0:47:30.44,0:47:34.34,English,,0,0,0,,Okay? I'm smarter than everyone else. Two, I work really hard.\N{\rChinese}我很聪明，二，我很努力。
+Dialogue: 0,0:47:34.52,0:47:38.10,English,,0,0,0,,Okay? And three, I bribe a lot of politicians.\N{\rChinese}好的？三，我给很多政客送礼。
+Dialogue: 0,0:47:38.86,0:47:41.78,English,,0,0,0,,So I have $10 billion. But I'm like 95 years old.\N{\rChinese}于是我有100亿美元。可我已95岁。
+Dialogue: 0,0:47:42.00,0:47:43.36,English,,0,0,0,,And I know I'm going to die.\N{\rChinese}我知道自己会去世。
+Dialogue: 0,0:47:43.46,0:47:47.26,English,,0,0,0,,Okay? So I invite Jack, who's my son, to dinner.\N{\rChinese}好的？于是我邀请我的儿子杰克来吃饭。
+Dialogue: 0,0:47:47.38,0:47:50.48,English,,0,0,0,,And I say to Jack, Jack,\N{\rChinese}我对杰克说，杰克，
+Dialogue: 0,0:47:50.48,0:47:54.00,English,,0,0,0,,I love you and I want what's best for you.\N{\rChinese}我爱你，想让你过得更好。
+Dialogue: 0,0:47:54.80,0:47:57.62,English,,0,0,0,,I'm going to die very soon, and you will inherit my empire.\N{\rChinese}我很快就要去世了，你将继承我的帝国。
+Dialogue: 0,0:47:58.26,0:48:02.40,English,,0,0,0,,Okay? And I want you to know\N{\rChinese}好的吗？我想让你知道
+Dialogue: 0,0:48:02.40,0:48:05.68,English,,0,0,0,,that you don't have to worry about anything,\N{\rChinese}你不必为任何事担忧。
+Dialogue: 0,0:48:05.90,0:48:08.86,English,,0,0,0,,Jack, because I have 100 advisors who\N{\rChinese}杰克，因为我有100位顾问在掌控这帝国，管理这帝国。
+Dialogue: 0,0:48:08.86,0:48:11.28,English,,0,0,0,,control this empire, who manage this empire.\N{\rChinese}他们很出色。
+Dialogue: 0,0:48:11.64,0:48:12.84,English,,0,0,0,,And they are great.\N{\rChinese}And they are great.
+Dialogue: 0,0:48:13.12,0:48:15.20,English,,0,0,0,,They're experienced. They're loyal.\N{\rChinese}他们经验丰富，忠诚可靠。
+Dialogue: 0,0:48:16.24,0:48:20.46,English,,0,0,0,,They're strategic. Every year, Jack,\N{\rChinese}他们具备战略眼光，每年，杰克，
+Dialogue: 0,0:48:21.26,0:48:23.98,English,,0,0,0,,they make 10% for us.\N{\rChinese}他们每年为我们赚取10%。
+Dialogue: 0,0:48:24.10,0:48:27.30,English,,0,0,0,,Okay? So $10 billion to make $1 billion for us every year.\N{\rChinese}好的？所以每年投入100亿美元，能为我们赚取10亿美元。
+Dialogue: 0,0:48:29.64,0:48:32.96,English,,0,0,0,,When I go, they're still going to manage this empire for us.\N{\rChinese}我去的时候，他们仍会为我们管理这帝国。
+Dialogue: 0,0:48:33.26,0:48:37.08,English,,0,0,0,,And you know what? They're going to give you, every year, Jack,\N{\rChinese}你知道吗？他们每年都会给你，杰克，
+Dialogue: 0,0:48:37.80,0:48:40.62,English,,0,0,0,,$100 million. You can do whatever you want.\N{\rChinese}$1亿。你可以随便干什么。
+Dialogue: 0,0:48:40.82,0:48:42.04,English,,0,0,0,,You want to go buy an airplane?\N{\rChinese}你想去买一架飞机？
+Dialogue: 0,0:48:42.30,0:48:43.98,English,,0,0,0,,Do that. You want to go buy an island?\N{\rChinese}去吧。你想去买一座岛屿？
+Dialogue: 0,0:48:44.06,0:48:46.52,English,,0,0,0,,Do that. You want to party with movie stars?\N{\rChinese}去吧。你想跟电影明星一起玩吗？
+Dialogue: 0,0:48:47.10,0:48:48.74,English,,0,0,0,,Do that. You can do whatever you want.\N{\rChinese}去吧。你可以随便干什么。
+Dialogue: 0,0:48:49.32,0:48:52.88,English,,0,0,0,,Okay? So,\N{\rChinese}好的吗？所以，
+Dialogue: 0,0:48:52.88,0:48:56.16,English,,0,0,0,,Jack, as my last wish,\N{\rChinese}杰克，作为我的最后愿望，
+Dialogue: 0,0:48:56.72,0:49:00.94,English,,0,0,0,,as my dying wish, I want you, Jack, my son, who I love,\N{\rChinese}作为我临终的愿望，我想让你，杰克，我的儿子，我所爱的人，
+Dialogue: 0,0:49:01.84,0:49:03.32,English,,0,0,0,,to promise me\N{\rChinese}向我许诺
+Dialogue: 0,0:49:04.22,0:49:08.46,English,,0,0,0,,that after I die, you will listen to my 100 advisors.\N{\rChinese}我去世后，你会听从我的一百位顾问。
+Dialogue: 0,0:49:09.62,0:49:12.44,English,,0,0,0,,Okay? So, Jack, do you promise me?\N{\rChinese}好吗？所以，杰克，你答应我吗？
+Dialogue: 0,0:49:13.82,0:49:17.86,English,,0,0,0,,You promise me, right? And then, I die.\N{\rChinese}你答应我，对吧？然后，我去世。
+Dialogue: 0,0:49:18.08,0:49:21.38,English,,0,0,0,,And then what is the first thing that Jack will do?\N{\rChinese}那接下来杰克会先做什么？
+Dialogue: 0,0:49:22.20,0:49:23.70,English,,0,0,0,,The very first thing that Jack will do is the first thing he will do.\N{\rChinese}杰克先做的第一件事，就是他要做的第一件事。
+Dialogue: 0,0:49:25.86,0:49:31.10,English,,0,0,0,,Come on, guys. It's not hard. Your first thing you will do,\N{\rChinese}来吧，伙计们。没那么难。你们先要做的事是……
+Dialogue: 0,0:49:31.14,0:49:33.22,English,,0,0,0,,okay, is fire everyone.\N{\rChinese}好的，大家点火。
+Dialogue: 0,0:49:33.94,0:49:35.24,English,,0,0,0,,Get out of here. Okay?\N{\rChinese}离开这里。好吗？
+Dialogue: 0,0:49:35.64,0:49:40.82,English,,0,0,0,,What's the second thing you will do? You're going to hire all your friends,\N{\rChinese}第二件事你会做什么？你会雇佣所有朋友。
+Dialogue: 0,0:49:40.94,0:49:42.60,English,,0,0,0,,Jack. Okay? You're going to hire all your friends.\N{\rChinese}杰克。好吧？你会雇佣所有朋友。
+Dialogue: 0,0:49:42.68,0:49:45.26,English,,0,0,0,,Okay? And what's the third thing you're going to do?\N{\rChinese}好吧？接下来你要做的第三件事是什么？
+Dialogue: 0,0:49:47.80,0:49:49.26,English,,0,0,0,,You're going to do something really stupid.\N{\rChinese}你要做的事会很傻哦。
+Dialogue: 0,0:49:49.40,0:49:50.68,English,,0,0,0,,Okay? You'll be like, you know what?\N{\rChinese}好的？你会说，知道吗？
+Dialogue: 0,0:49:51.68,0:49:53.86,English,,0,0,0,,My dad only made $10 billion.\N{\rChinese}我爸只赚了100亿美元。
+Dialogue: 0,0:49:54.42,0:49:56.62,English,,0,0,0,,Those advisors only make 10% a year.\N{\rChinese}那些顾问每年只赚10%。
+Dialogue: 0,0:49:57.04,0:49:58.74,English,,0,0,0,,I'm going to invest in Bitcoin.\N{\rChinese}我打算投资比特币。
+Dialogue: 0,0:49:59.66,0:50:01.26,English,,0,0,0,,I'm going to invest in AI.\N{\rChinese}我打算投资人工智能。
+Dialogue: 0,0:50:01.96,0:50:05.14,English,,0,0,0,,I'm going to invest in the Chinese stock market, the Chinese real estate market,\N{\rChinese}我打算投资中国股市和中国房市。
+Dialogue: 0,0:50:05.26,0:50:06.88,English,,0,0,0,,and make $100 billion.\N{\rChinese}并赚到1000亿美元。
+Dialogue: 0,0:50:07.28,0:50:09.84,English,,0,0,0,,Okay? And then he loses all the money.\N{\rChinese}好？然后他把钱全失去。
+Dialogue: 0,0:50:09.98,0:50:12.58,English,,0,0,0,,You understand? All right?\N{\rChinese}你明白吗？好了？
+Dialogue: 0,0:50:15.00,0:50:16.98,English,,0,0,0,,This happens all the time, guys.\N{\rChinese}这件事一直在发生，伙计们。
+Dialogue: 0,0:50:17.04,0:50:18.52,English,,0,0,0,,Okay? Right?\N{\rChinese}好？对吗？
+Dialogue: 0,0:50:19.06,0:50:21.82,English,,0,0,0,,Ask yourself, if your dad were rich\N{\rChinese}问问自己，如果你爸爸很富有的话。
+Dialogue: 0,0:50:21.82,0:50:24.42,English,,0,0,0,,and he was about to leave you a lot of money,\N{\rChinese}他刚好要给你留下一大笔钱，
+Dialogue: 0,0:50:24.54,0:50:27.78,English,,0,0,0,,would you listen to professional people?\N{\rChinese}你会听专业人士的建议吗？
+Dialogue: 0,0:50:27.98,0:50:30.38,English,,0,0,0,,No. No. You'd be like, no, I want to have fun.\N{\rChinese}不。你会说：不，我想玩玩。
+Dialogue: 0,0:50:30.48,0:50:32.34,English,,0,0,0,,Okay? So the question then is,\N{\rChinese}好的？那问题是，
+Dialogue: 0,0:50:33.36,0:50:34.88,English,,0,0,0,,the first fear of empire,\N{\rChinese}帝国的第一种恐惧，
+Dialogue: 0,0:50:35.76,0:50:38.62,English,,0,0,0,,okay, which said\N{\rChinese}好的，正如所说。
+Dialogue: 0,0:50:38.62,0:50:41.12,English,,0,0,0,,that for America to maintain its empire,\N{\rChinese}为美国维持其帝国，需要向世界展示谦逊、纪律与克制。
+Dialogue: 0,0:50:41.30,0:50:44.18,English,,0,0,0,,it must demonstrate to the world humility,\N{\rChinese}为美国维持其帝国，需要向世界展示谦逊、纪律与克制。
+Dialogue: 0,0:50:45.06,0:50:46.84,English,,0,0,0,,discipline, and restraint.\N{\rChinese}为美国维持其帝国，需要向世界展示谦逊、纪律与克制。
+Dialogue: 0,0:50:47.68,0:50:50.64,English,,0,0,0,,Why did they get rid of this and move to shock and\N{\rChinese}为什么他们把这件事抛开，转而用震撼和惊叹来表达？
+Dialogue: 0,0:50:50.64,0:50:53.58,English,,0,0,0,,awe, which is like, we'll do anything we want.\N{\rChinese}震撼和惊叹，意思是我们可以随心所欲地做任何事。
+Dialogue: 0,0:50:53.92,0:51:01.34,English,,0,0,0,,Why? Why? Why would they do that?\N{\rChinese}为什么？为什么？他们为什么要这么做？
+Dialogue: 0,0:51:05.24,0:51:07.56,English,,0,0,0,,Because it's fun. Okay? Do you understand?\N{\rChinese}因为很有趣。好吗？你明白了吗？
+Dialogue: 0,0:51:08.42,0:51:11.94,English,,0,0,0,,What is the point of having an empire if\N{\rChinese}拥有帝国的意义是什么，如果你不能无缘无故地把东西炸掉？
+Dialogue: 0,0:51:11.94,0:51:14.82,English,,0,0,0,,you cannot blow things up for no reason?\N{\rChinese}you cannot blow things up for no reason?
+Dialogue: 0,0:51:15.82,0:51:19.38,English,,0,0,0,,There's no point. We have the greatest military in the world.\N{\rChinese}没有意义。我们拥有世界上最强大的军队。
+Dialogue: 0,0:51:19.52,0:51:21.22,English,,0,0,0,,Let's just blow things up for like no reason.\N{\rChinese}就把东西炸掉吧，随便用。
+Dialogue: 0,0:51:21.34,0:51:25.02,English,,0,0,0,,Okay? All right? Now,\N{\rChinese}好了？行吗？现在，
+Dialogue: 0,0:51:26.94,0:51:30.92,English,,0,0,0,,there are three fundamental problems with shock and awe.\N{\rChinese}有三大基本问题与震撼与惊叹相关。
+Dialogue: 0,0:51:31.84,0:51:35.02,English,,0,0,0,,Okay? The first problem is that\N{\rChinese}好了？第一个问题是……
+Dialogue: 0,0:51:36.90,0:51:38.28,English,,0,0,0,,you become over committed.\N{\rChinese}你会过度投入。
+Dialogue: 0,0:51:41.46,0:51:44.14,English,,0,0,0,,Do you understand? You believe that shock and awe allows you to be God.\N{\rChinese}你明白了吗？你认为震撼与惊叹能让你成神。
+Dialogue: 0,0:51:44.34,0:51:46.62,English,,0,0,0,,You can be anywhere at once fighting all wars.\N{\rChinese}你可以瞬间到任何地方，打一场所有战争。
+Dialogue: 0,0:51:46.62,0:51:48.34,English,,0,0,0,,Okay? You're over committed.\N{\rChinese}好了？你已经过度投入。
+Dialogue: 0,0:51:48.66,0:51:52.56,English,,0,0,0,,Second is, you lack strategic focus.\N{\rChinese}第二点是，你缺乏战略焦点。
+Dialogue: 0,0:51:55.10,0:51:58.04,English,,0,0,0,,Meaning that, you actually don't have a plan.\N{\rChinese}也就是说，你实际上没有计划。
+Dialogue: 0,0:51:58.50,0:52:00.58,English,,0,0,0,,You don't know what you want to do with this empire.\N{\rChinese}你不知道用这个帝国想做什么。
+Dialogue: 0,0:52:00.92,0:52:02.62,English,,0,0,0,,You know you just want to maintain this empire.\N{\rChinese}你知道你只是想维持这个帝国。
+Dialogue: 0,0:52:02.86,0:52:05.66,English,,0,0,0,,Okay? So you don't actually have a strategy in place.\N{\rChinese}好了？所以你实际上没有具体的战略。
+Dialogue: 0,0:52:06.32,0:52:08.76,English,,0,0,0,,Okay? And the third thing is,\N{\rChinese}第三点是，
+Dialogue: 0,0:52:10.34,0:52:15.94,English,,0,0,0,,hubris. You don't think anyone can challenge you.\N{\rChinese}自大傲。你以为无人能挑战你。
+Dialogue: 0,0:52:15.94,0:52:18.30,English,,0,0,0,,You don't think you can lose a war.\N{\rChinese}你以为自己不可能输一场战争。
+Dialogue: 0,0:52:19.32,0:52:23.20,English,,0,0,0,,Okay? And so, the idea of hubris is this.\N{\rChinese}好了？于是，傲的概念就是这样。
+Dialogue: 0,0:52:23.68,0:52:26.58,English,,0,0,0,,Right now, America has this huge empire.\N{\rChinese}现在，美国拥有庞大的帝国。
+Dialogue: 0,0:52:26.88,0:52:31.56,English,,0,0,0,,And it's refusing to spend the necessary resources to protect the empire.\N{\rChinese}它却不愿投入必要资源来保卫帝国。
+Dialogue: 0,0:52:31.88,0:52:33.38,English,,0,0,0,,So for example, the US Navy. Okay?\N{\rChinese}比如说，美国海军。
+Dialogue: 0,0:52:33.58,0:52:37.36,English,,0,0,0,,In 1945, it had 7,600 ships.\N{\rChinese}1945年，它拥有7600艘船。
+Dialogue: 0,0:52:37.72,0:52:39.08,English,,0,0,0,,Today, guess what guys?\N{\rChinese}今天，猜猜是什么？
+Dialogue: 0,0:52:39.38,0:52:41.42,English,,0,0,0,,That's 475.\N{\rChinese}就是475艘。
+Dialogue: 0,0:52:42.62,0:52:46.98,English,,0,0,0,,These 475 ships must go around all around the world to protect shipping lanes.\N{\rChinese}这些475艘船必须环绕世界各地，守护航运通道。
+Dialogue: 0,0:52:47.24,0:52:51.10,English,,0,0,0,,Okay? The US military,\N{\rChinese}好的？美国军队，
+Dialogue: 0,0:52:51.24,0:52:54.28,English,,0,0,0,,in 1991, during the first Persian Gulf War,\N{\rChinese}1991年，第一次波斯湾战争期间，
+Dialogue: 0,0:52:54.44,0:52:56.10,English,,0,0,0,,had 2 million soldiers.\N{\rChinese}拥有200万士兵。
+Dialogue: 0,0:52:56.42,0:52:59.52,English,,0,0,0,,Today, it has 1.3 million soldiers.\N{\rChinese}今天有130万士兵。
+Dialogue: 0,0:53:00.60,0:53:03.34,English,,0,0,0,,Okay? So, in other words,\N{\rChinese}好吧？换句话说，
+Dialogue: 0,0:53:03.64,0:53:08.10,English,,0,0,0,,if America ever fights a war, a major war, it's going to have a lot of problems.\N{\rChinese}如果美国真的打起一场大战，它将面临许多问题。
+Dialogue: 0,0:53:08.98,0:53:13.18,English,,0,0,0,,The other thing is that America doesn't even have manufacturing capacity anymore.\N{\rChinese}另外，美国现在甚至没有制造能力。
+Dialogue: 0,0:53:13.32,0:53:15.08,English,,0,0,0,,Okay? It doesn't have any factories anymore.\N{\rChinese}好吧？它已经没有任何工厂了。
+Dialogue: 0,0:53:15.24,0:53:19.44,English,,0,0,0,,Okay? So, Which means that if it fights a war, it can't fight a war for a very long time.\N{\rChinese}好吧？也就是说，如果它打仗，它就不能持续很久。
+Dialogue: 0,0:53:19.90,0:53:21.34,English,,0,0,0,,So, the example is that\N{\rChinese}所以，例子是：
+Dialogue: 0,0:53:22.18,0:53:24.50,English,,0,0,0,,for every ship that America makes,\N{\rChinese}每造一艘船，
+Dialogue: 0,0:53:25.14,0:53:27.60,English,,0,0,0,,China can make 300 ships.\N{\rChinese}中国可以造300艘船。
+Dialogue: 0,0:53:29.02,0:53:32.30,English,,0,0,0,,Okay? America no longer has this manufacturing capacity that\N{\rChinese}好吧？美国不再拥有二战时期的制造能力。
+Dialogue: 0,0:53:32.30,0:53:34.28,English,,0,0,0,,it had during World War II.\N{\rChinese}好吧？美国不再拥有二战时期的制造能力。
+Dialogue: 0,0:53:34.46,0:53:36.18,English,,0,0,0,,Okay? So, in other words,\N{\rChinese}好吧？换句话说，
+Dialogue: 0,0:53:39.42,0:53:43.30,English,,0,0,0,,why will the military agree to the stupid war in Iran?\N{\rChinese}为什么军方会同意在伊朗搞这场愚蠢的战争？
+Dialogue: 0,0:53:43.70,0:53:45.12,English,,0,0,0,,Because it's over committed.\N{\rChinese}因为它过度投入。
+Dialogue: 0,0:53:45.12,0:53:47.88,English,,0,0,0,,It has no strategy. And it's because it's arrogant.\N{\rChinese}它没有策略，正因为它自负自傲。
+Dialogue: 0,0:53:49.18,0:53:51.94,English,,0,0,0,,All right? And the military is like this\N{\rChinese}好的？军方就是这么说的。
+Dialogue: 0,0:53:51.94,0:53:54.58,English,,0,0,0,,because of what happened in 2003, shock and awe.\N{\rChinese}因为2003年的事，震撼与敬畏。
+Dialogue: 0,0:53:55.86,0:53:57.96,English,,0,0,0,,It doesn't make sense to you guys. All right?\N{\rChinese}这句话对你们来说没道理。好吧？
+Dialogue: 0,0:53:57.98,0:54:01.48,English,,0,0,0,,So, next class, we will look at what the Iran war will look like.\N{\rChinese}那么，下节课我们将看看伊朗战争会是什么样子。
+Dialogue: 0,0:54:01.58,0:54:04.58,English,,0,0,0,,And I guarantee you that shock\N{\rChinese}我向你保证这点震撼
+Dialogue: 0,0:54:04.58,0:54:06.70,English,,0,0,0,,and awe is not going to work in Iran.\N{\rChinese}而敬畏在伊朗也没用。
+Dialogue: 0,0:54:07.16,0:54:09.76,English,,0,0,0,,All right? But I'll explain why.\N{\rChinese}好吧？我来解释一下原因。
+Dialogue: 0,0:54:09.94,0:54:12.72,English,,0,0,0,,Next class. Any questions before we end for the day?\N{\rChinese}下节课。今天结束前还有问题吗？
+Dialogue: 0,0:54:14.20,0:54:19.66,English,,0,0,0,,Okay. I'm going to go to the next class. So, what's the difference between the analogy between the theory of the first theory\N{\rChinese}好的。我准备进入下一节课。那第一理论与第二理论的类比有什么区别？
+Dialogue: 0,0:54:19.66,0:54:23.62,English,,0,0,0,,and the theory of the second theory? Oh, so, Celine asked a great question.\N{\rChinese}哦，塞琳提了个好问题。
+Dialogue: 0,0:54:24.38,0:54:27.62,English,,0,0,0,,What's the difference between the people\N{\rChinese}第一类人和第二类人有什么区别？
+Dialogue: 0,0:54:27.62,0:54:30.14,English,,0,0,0,,who believe in the first theory and the second theory?\N{\rChinese}两类人分别相信哪种理论？
+Dialogue: 0,0:54:30.24,0:54:32.30,English,,0,0,0,,Okay? Okay. And the answer is this.\N{\rChinese}好的？好的。答案就是这样。
+Dialogue: 0,0:54:32.42,0:54:36.38,English,,0,0,0,,The people who believe in the first theory came from an older generation.\N{\rChinese}相信第一理论的人来自上一代。
+Dialogue: 0,0:54:36.68,0:54:39.52,English,,0,0,0,,Okay? This is the generation that fought in World War II\N{\rChinese}好的？这就是二战与冷战的那一代人
+Dialogue: 0,0:54:39.52,0:54:42.10,English,,0,0,0,,and who fought the Cold War.\N{\rChinese}他们曾在二战中战斗过，并在冷战中作战
+Dialogue: 0,0:54:42.94,0:54:45.76,English,,0,0,0,,So, they understand what war looks like.\N{\rChinese}于是，他们懂得战争的样子。
+Dialogue: 0,0:54:45.86,0:54:49.16,English,,0,0,0,,War is really bloody\N{\rChinese}战争真的很血腥。
+Dialogue: 0,0:54:49.16,0:54:51.16,English,,0,0,0,,and it's terrible.\N{\rChinese}而且很糟。
+Dialogue: 0,0:54:51.68,0:54:54.02,English,,0,0,0,,And we must do our best to avoid war.\N{\rChinese}我们要尽力避免战争。
+Dialogue: 0,0:54:54.30,0:54:57.00,English,,0,0,0,,Okay? The second generation, 2003,\N{\rChinese}好的？第二代，2003。
+Dialogue: 0,0:54:57.44,0:55:00.90,English,,0,0,0,,are individuals who don't know what war is.\N{\rChinese}是指那些不知道战争是什么的人。
+Dialogue: 0,0:55:01.54,0:55:05.28,English,,0,0,0,,Okay? Like, if you actually look at videos from 2003,\N{\rChinese}好吧？比如说你真的去看2003年的视频，战争其实就像一场视频游戏。
+Dialogue: 0,0:55:05.50,0:55:07.50,English,,0,0,0,,the war, it actually looks like a video game.\N{\rChinese}它看起来就像一场视频游戏。
+Dialogue: 0,0:55:07.90,0:55:13.14,English,,0,0,0,,You understand? You don't actually see what they saw in Vietnam.\N{\rChinese}你明白吗？你并没有真正看到越南时他们所见的情景。
+Dialogue: 0,0:55:13.14,0:55:18.40,English,,0,0,0,,Okay? And the third generation, which was all these soldiers losing their arms\N{\rChinese}好吧？第三代，那些士兵失去双臂、哭泣的画面。
+Dialogue: 0,0:55:18.40,0:55:22.56,English,,0,0,0,,and crying. Okay? I mean, the images from Vietnam were just terrible.\N{\rChinese}我说，越南的影像真是糟透了。
+Dialogue: 0,0:55:23.64,0:55:25.08,English,,0,0,0,,It was hard for people to watch.\N{\rChinese}观看起来很难。
+Dialogue: 0,0:55:25.32,0:55:28.66,English,,0,0,0,,But, the Gulf War in 2003, it was just a video game.\N{\rChinese}但2003年的海湾战争就像一场视频游戏。
+Dialogue: 0,0:55:28.74,0:55:30.22,English,,0,0,0,,It was just like things getting blown up.\N{\rChinese}就像一切都在爆炸一样。
+Dialogue: 0,0:55:30.30,0:55:31.64,English,,0,0,0,,Okay? You don't actually see the people dying.\N{\rChinese}好的？你并没有真正看到人们死亡的情景。
+Dialogue: 0,0:55:31.90,0:55:34.00,English,,0,0,0,,And again, only 20 people died,\N{\rChinese}再说一次，只有20人死亡，
+Dialogue: 0,0:55:34.20,0:55:38.40,English,,0,0,0,,20 soldiers died in 2003.\N{\rChinese}2003年有20名士兵死亡。
+Dialogue: 0,0:55:40.14,0:55:41.74,English,,0,0,0,,Okay? So,\N{\rChinese}好的？所以，
+Dialogue: 0,0:55:42.70,0:55:45.08,English,,0,0,0,,um, in other words, unfortunately,\N{\rChinese}呃，换句话说，没想到，
+Dialogue: 0,0:55:46.48,0:55:48.08,English,,0,0,0,,America is headed towards disaster.\N{\rChinese}美国正走向灾难。
+Dialogue: 0,0:55:48.46,0:55:52.22,English,,0,0,0,,Okay? Because the people in charge have no experience.\N{\rChinese}好的？因为掌权者没有经验。
+Dialogue: 0,0:55:52.60,0:55:54.10,English,,0,0,0,,They don't know what war is.\N{\rChinese}他们不知道战争是什么。
+Dialogue: 0,0:55:55.36,0:55:57.34,English,,0,0,0,,And they don't know what the horse of war is.\N{\rChinese}他们也不知道战争的马是什么。
+Dialogue: 0,0:55:58.36,0:55:59.94,English,,0,0,0,,And they've inherited a lot of money.\N{\rChinese}他们继承了大量财富。
+Dialogue: 0,0:56:00.26,0:56:03.00,English,,0,0,0,,And they want to enjoy the money.\N{\rChinese}他们想要享受这笔钱。
+Dialogue: 0,0:56:03.10,0:56:04.56,English,,0,0,0,,Okay? They want to have fun. Okay?\N{\rChinese}他们想玩得开心。
+Dialogue: 0,0:56:04.66,0:56:06.20,English,,0,0,0,,Does that make sense? Okay.\N{\rChinese}那有道理吗？好吧。
+Dialogue: 0,0:56:06.26,0:56:07.70,English,,0,0,0,,All right. Great. So, I'll see you guys next class.\N{\rChinese}好的。太好了。那我下节课见你们。
+Dialogue: 0,0:56:08.24,0:56:10.62,English,,0,0,0,,Bye. Bye. Bye. Bye.\N{\rChinese}再见。再见。再见。再见。

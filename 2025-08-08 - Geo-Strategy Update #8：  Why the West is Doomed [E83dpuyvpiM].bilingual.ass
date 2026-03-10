@@ -1,0 +1,632 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,46,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,52,1
+Style: Chinese,PingFang SC,56,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,52,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.76,English,,0,0,0,,Good morning YouTube.\N{\rChinese}早安，YouTube。
+Dialogue: 0,0:00:02.82,0:00:06.50,English,,0,0,0,,So I know that you flock this channel\N{\rChinese}所以我知道你们会聚集在这个频道
+Dialogue: 0,0:00:06.50,0:00:10.26,English,,0,0,0,,because I am such a sunny\N{\rChinese}因为我很阳光
+Dialogue: 0,0:00:10.26,0:00:11.74,English,,0,0,0,,and optimistic person.\N{\rChinese}并且是个乐观的人。
+Dialogue: 0,0:00:12.58,0:00:16.30,English,,0,0,0,,I bring cheer in a world of gloom.\N{\rChinese}我在阴霾的世界里带来欢喜。
+Dialogue: 0,0:00:17.90,0:00:20.94,English,,0,0,0,,You may face some difficulties in your life\N{\rChinese}你可能会在生活中遇到些许多难题。
+Dialogue: 0,0:00:20.94,0:00:26.56,English,,0,0,0,,but you know that when you watch my videos I'm going to tell you how great the world is.\N{\rChinese}但你知道，当你看我的视频时，我会告诉你世界有多么精彩。
+Dialogue: 0,0:00:27.60,0:00:32.54,English,,0,0,0,,Unfortunately today it's all going to be doom and gloom.\N{\rChinese}不幸的是，今天一切都将是末日与阴霾。
+Dialogue: 0,0:00:33.00,0:00:38.56,English,,0,0,0,,I'm going to talk about how the Western world is going to collapse\N{\rChinese}我将谈论西方世界将如何崩溃。
+Dialogue: 0,0:00:38.56,0:00:40.58,English,,0,0,0,,and there's nothing anyone can do about it.\N{\rChinese}并且没有人能对此做什么。
+Dialogue: 0,0:00:41.52,0:00:43.74,English,,0,0,0,,So let me start with a concrete example.\N{\rChinese}先给你举个具体例子。
+Dialogue: 0,0:00:44.50,0:00:46.76,English,,0,0,0,,I live in Canada and\N{\rChinese}我住在加拿大。
+Dialogue: 0,0:00:46.76,0:00:52.14,English,,0,0,0,,these past few years I've\N{\rChinese}这些年来，我看到加拿大社会越来越糟糕。
+Dialogue: 0,0:00:52.14,0:00:55.66,English,,0,0,0,,just seen Canadian society get worse and worse.\N{\rChinese}主要是过去五年的持续移民导致的。
+Dialogue: 0,0:00:55.88,0:01:00.94,English,,0,0,0,,A lot of the issue is this relentless immigration these past five years.\N{\rChinese}这正是我最近观察到的情况。
+Dialogue: 0,0:01:01.16,0:01:05.88,English,,0,0,0,,Millions of people have come into this country seeking a better life.\N{\rChinese}数百万人来到这个国家寻求更好的生活。
+Dialogue: 0,0:01:06.30,0:01:09.44,English,,0,0,0,,Unfortunately they congregate in only a few cities where\N{\rChinese}不幸的是他们只聚集在少数城市，那里有经济机会。
+Dialogue: 0,0:01:09.44,0:01:11.82,English,,0,0,0,,there are economic opportunities and\N{\rChinese}there are economic opportunities and
+Dialogue: 0,0:01:11.82,0:01:16.06,English,,0,0,0,,as a result housing prices have gone up, inflation\N{\rChinese}结果房价上涨，通胀也跟着涨，生活成本也跟着涨
+Dialogue: 0,0:01:17.20,0:01:21.16,English,,0,0,0,,has gone up, cost of living has gone up\N{\rChinese}但工资却停滞或低迷。
+Dialogue: 0,0:01:21.16,0:01:24.12,English,,0,0,0,,but wages have been stagnant or depressed\N{\rChinese}but wages have beenstagnant or depressed
+Dialogue: 0,0:01:24.12,0:01:29.10,English,,0,0,0,,because of the surge in cheap labour.\N{\rChinese}因为廉价劳动力的激增。
+Dialogue: 0,0:01:29.70,0:01:32.96,English,,0,0,0,,And in Toronto if you're not making at\N{\rChinese}在多伦多，如果你一年收入不到一十万，生活就很难。
+Dialogue: 0,0:01:32.96,0:01:37.34,English,,0,0,0,,least hundred thousand dollars a year it's very hard to get by\N{\rChinese}至少一十万美元才算过得去。
+Dialogue: 0,0:01:37.34,0:01:40.42,English,,0,0,0,,and quite frankly most are not making that\N{\rChinese}而且坦率地说，大多数人并没有赚到那种钱，很多人都在挣扎中
+Dialogue: 0,0:01:40.42,0:01:44.12,English,,0,0,0,,kind of money and most are struggling so\N{\rChinese}于是犯罪率上升，流浪率上升，药物使用上升。
+Dialogue: 0,0:01:44.12,0:01:47.26,English,,0,0,0,,crime has gone up homelessness has gone up drug\N{\rChinese}crime has gone up homelessness has gone up drug
+Dialogue: 0,0:01:47.26,0:01:52.30,English,,0,0,0,,addiction has gone up it's a very dire situation in Canada.\N{\rChinese}吸毒已成大问题，情况在加拿大十分严峻。
+Dialogue: 0,0:01:52.70,0:01:56.22,English,,0,0,0,,Now it's easy to blame the immigrants and\N{\rChinese}现在很容易把责任推给移民，且……
+Dialogue: 0,0:01:56.22,0:01:59.14,English,,0,0,0,,I don't think the reason\N{\rChinese}我认为原因是……
+Dialogue: 0,0:01:59.14,0:02:04.18,English,,0,0,0,,are the immigrants I myself am an immigrant\N{\rChinese}我是移民，我自己也是移民
+Dialogue: 0,0:02:04.18,0:02:07.66,English,,0,0,0,,so maybe I'm biased\N{\rChinese}所以我可能有偏见
+Dialogue: 0,0:02:07.66,0:02:10.00,English,,0,0,0,,but I will say that\N{\rChinese}但我会这么说
+Dialogue: 0,0:02:10.00,0:02:14.54,English,,0,0,0,,we came over in about 1983\N{\rChinese}我们大约在1983年来到这里
+Dialogue: 0,0:02:14.54,0:02:16.54,English,,0,0,0,,and\N{\rChinese}而且
+Dialogue: 0,0:02:16.54,0:02:19.32,English,,0,0,0,,my dad was a high school teacher\N{\rChinese}我爸爸是高中教师
+Dialogue: 0,0:02:19.32,0:02:23.38,English,,0,0,0,,in a village in Canada sorry we\N{\rChinese}在加拿大的一个村庄里，抱歉我们
+Dialogue: 0,0:02:23.38,0:02:27.82,English,,0,0,0,,were my dad was a high school teacher in our village back in China\N{\rChinese}我爸爸是我们村庄的高中教师
+Dialogue: 0,0:02:27.82,0:02:32.24,English,,0,0,0,,and we were really thankful for opportunity to come to Canada\N{\rChinese}我们非常感谢能来到加拿大的机会
+Dialogue: 0,0:02:32.24,0:02:34.48,English,,0,0,0,,and we felt really blessed because\N{\rChinese}而且我们感到非常幸运，因为
+Dialogue: 0,0:02:34.48,0:02:38.68,English,,0,0,0,,life back in China was just terrible it's\N{\rChinese}生活在中国那时真是糟糕透了
+Dialogue: 0,0:02:38.68,0:02:44.44,English,,0,0,0,,really hard for anyone today to imagine the poverty in China back\N{\rChinese}如今人们很难想象当年的中国贫困
+Dialogue: 0,0:02:44.44,0:02:45.72,English,,0,0,0,,then during the cultural revolution\N{\rChinese}然后在文化大革命期间
+Dialogue: 0,0:02:46.34,0:02:51.36,English,,0,0,0,,but let me give you a concrete example 15 years ago my dad came to visit me in Beijing\N{\rChinese}但让我给你一个具体例子：15年前，我爸爸来北京看我
+Dialogue: 0,0:02:51.36,0:02:54.62,English,,0,0,0,,when I was working as an a high school administrator\N{\rChinese}当时我在做高中行政人员
+Dialogue: 0,0:02:54.62,0:02:58.72,English,,0,0,0,,and he bought an entire duffel bag,\N{\rChinese}他买了一整袋行李包，
+Dialogue: 0,0:02:58.88,0:03:03.36,English,,0,0,0,,a huge duffel bag of toilet rolls, 24\N{\rChinese}一大袋卫生纸，24卷
+Dialogue: 0,0:03:04.23,0:03:09.14,English,,0,0,0,,toilet rolls. And the reason why is toilet paper was considered the ultimate luxury\N{\rChinese}卫生纸之所以被视为终极奢侖的原因是……
+Dialogue: 0,0:03:09.76,0:03:15.02,English,,0,0,0,,back in our village during the Cultural Revolution.\N{\rChinese}在文化大革命期间回到我们村里。
+Dialogue: 0,0:03:15.30,0:03:20.06,English,,0,0,0,,And so maybe he wanted to give these toilet rolls to all the relatives\N{\rChinese}于是他想把这些卫生纸送给所有亲戚。
+Dialogue: 0,0:03:20.06,0:03:24.38,English,,0,0,0,,and show everyone that he's made it in Canada.\N{\rChinese}并向大家展示他在加拿大的成就。
+Dialogue: 0,0:03:25.64,0:03:27.36,English,,0,0,0,,Well the problem was that\N{\rChinese}好吧，问题是
+Dialogue: 0,0:03:27.36,0:03:30.40,English,,0,0,0,,he had a very hard life in\N{\rChinese}他在加拿大的生活很艰难，像大多数最近移民一样。
+Dialogue: 0,0:03:30.40,0:03:33.84,English,,0,0,0,,Canada as most recent immigrants do.\N{\rChinese}Canada as most recent immigrants do.
+Dialogue: 0,0:03:35.50,0:03:39.26,English,,0,0,0,,He was a dishwasher for his entire life\N{\rChinese}他一辈子都是洗碗工
+Dialogue: 0,0:03:39.26,0:03:43.22,English,,0,0,0,,and as a dishwasher working in restaurants\N{\rChinese}作为餐馆和酒吧的洗碗工，他遇到了许多种族歧视和屈辱。
+Dialogue: 0,0:03:43.22,0:03:47.32,English,,0,0,0,,and bars he encountered a lot of racism and humiliation.\N{\rChinese}and bars he encountered a lot of racism and humiliation.
+Dialogue: 0,0:03:47.94,0:03:50.04,English,,0,0,0,,So let me give you an example.\N{\rChinese}让我给你举个例子。
+Dialogue: 0,0:03:50.60,0:03:53.80,English,,0,0,0,,One day my dad and I went to a supermarket\N{\rChinese}有一天，我和爸爸去超市
+Dialogue: 0,0:03:54.50,0:03:56.48,English,,0,0,0,,to buy some butter.\N{\rChinese}买点黄油。
+Dialogue: 0,0:03:56.60,0:03:59.54,English,,0,0,0,,We couldn't find the butter because the supermarket was just huge.\N{\rChinese}我们找不到黄油，因为超市太大了。
+Dialogue: 0,0:03:59.98,0:04:05.28,English,,0,0,0,,So my dad he saw a clerk wearing his uniform,\N{\rChinese}于是我爸看到一位穿着白色制服的店员，
+Dialogue: 0,0:04:05.52,0:04:10.26,English,,0,0,0,,his white uniform, and my dad asked him,\N{\rChinese}他爸问他，
+Dialogue: 0,0:04:10.94,0:04:13.68,English,,0,0,0,,sorry sir do you know where the butter is?\N{\rChinese}抱歉先生，您知道黄油在哪吗？
+Dialogue: 0,0:04:13.94,0:04:17.10,English,,0,0,0,,Okay I mean his English isn't that great though but it was\N{\rChinese}好的，我的意思是他的英语不太好，但很容易听懂我爸的意思。
+Dialogue: 0,0:04:17.50,0:04:19.48,English,,0,0,0,,pretty easy to understand what my dad wanted.\N{\rChinese}很容易听懂我爸的意思。
+Dialogue: 0,0:04:19.70,0:04:22.08,English,,0,0,0,,The store clerk looks at him briefly and says,\N{\rChinese}店员看了他一眼，然后说，
+Dialogue: 0,0:04:22.92,0:04:24.18,English,,0,0,0,,sorry I don't work here.\N{\rChinese}抱歉，我不在这里工作。
+Dialogue: 0,0:04:24.94,0:04:27.32,English,,0,0,0,,Okay so that's the sort of humiliation that\N{\rChinese}好了，这就是那种屈辱的感觉。
+Dialogue: 0,0:04:27.32,0:04:33.06,English,,0,0,0,,my dad faced every day as a new immigrant in Canada\N{\rChinese}我的父亲每天都像新移民一样在加拿大面对挑战
+Dialogue: 0,0:04:33.06,0:04:37.64,English,,0,0,0,,who didn't have any status and whose English wasn't very good.\N{\rChinese}他没有任何身份，英语也不太好
+Dialogue: 0,0:04:38.82,0:04:42.76,English,,0,0,0,,We were very poor in Canada.\N{\rChinese}我们在加拿大非常贫穷
+Dialogue: 0,0:04:42.86,0:04:47.48,English,,0,0,0,,We could easily qualify for welfare but we didn't we didn't apply for welfare because we didn't have the money to pay for the welfare.\N{\rChinese}我们很容易能领福利，但我们没有申请，因为我们没有钱付福利费。
+Dialogue: 0,0:04:47.48,0:04:49.28,English,,0,0,0,,So we had to pay for the welfare. So we had to pay for the welfare. So we had to pay for the welfare. So we had to pay for the welfare. We didn't know whether it existed.\N{\rChinese}于是我们得自己付福利费。于是我们得自己付福利费。于是我们得自己付福利费。于是我们得自己付福利费。我们不知道它是否存在。
+Dialogue: 0,0:04:50.46,0:04:54.38,English,,0,0,0,,I remember late at night my\N{\rChinese}我记得深夜时…
+Dialogue: 0,0:04:54.38,0:04:57.00,English,,0,0,0,,dad would sneak out across the street\N{\rChinese}爸爸会悄悄穿过街道
+Dialogue: 0,0:04:57.48,0:05:01.64,English,,0,0,0,,and pick up some sofas or chairs\N{\rChinese}然后捡起邻居丢弃的沙发或椅子
+Dialogue: 0,0:05:01.64,0:05:05.54,English,,0,0,0,,that the neighbors had discarded and they would become our furniture.\N{\rChinese}这些就成了我们的家具
+Dialogue: 0,0:05:06.46,0:05:09.82,English,,0,0,0,,My dad cut my hair so\N{\rChinese}我的爸爸给我剪头发，结果……
+Dialogue: 0,0:05:09.82,0:05:14.38,English,,0,0,0,,believe it or not but when I was younger my hair was actually worse\N{\rChinese}信不信由你，但我小的时候头发比妈妈还糟……
+Dialogue: 0,0:05:17.48,0:05:21.30,English,,0,0,0,,than my mom's. So the kids made fun of me. I had bad hair,\N{\rChinese}于是同学们就嘲笑我，我的头发很烂
+Dialogue: 0,0:05:21.54,0:05:26.68,English,,0,0,0,,uneven hair. My mom bought me clothes from bargain outlets.\N{\rChinese}不齐的头发。妈妈给我买了便宜店的衣服。
+Dialogue: 0,0:05:26.92,0:05:28.24,English,,0,0,0,,So they were crappy clothes.\N{\rChinese}于是衣服很烂。
+Dialogue: 0,0:05:28.36,0:05:33.14,English,,0,0,0,,They weren't Nike or Adidas that the other kids were wearing and I smelled bad.\N{\rChinese}它们不是其他孩子穿的耐克或阿迪达斯，我还闻着味道。
+Dialogue: 0,0:05:33.36,0:05:38.24,English,,0,0,0,,So understandably the other kids teased me.\N{\rChinese}于是同学们嘲笑我。
+Dialogue: 0,0:05:38.34,0:05:40.86,English,,0,0,0,,I was very unpopular. So I focused on school.\N{\rChinese}我很不受欢迎，于是我把精力放在学校上。
+Dialogue: 0,0:05:41.02,0:05:45.10,English,,0,0,0,,I focused on getting out of poverty\N{\rChinese}我专注于摆脱贫困。
+Dialogue: 0,0:05:45.10,0:05:47.20,English,,0,0,0,,and through hard work,\N{\rChinese}并且通过努力，
+Dialogue: 0,0:05:47.48,0:05:50.92,English,,0,0,0,,I went to Yale University on a full scholarship\N{\rChinese}我以全额奖学金进入耶鲁大学
+Dialogue: 0,0:05:50.92,0:05:55.20,English,,0,0,0,,and that opened new doors, new vestas for me.\N{\rChinese}这为我打开了新的门，新的机遇。
+Dialogue: 0,0:05:55.36,0:05:59.18,English,,0,0,0,,And so I really achieved the Hylian dream\N{\rChinese}于是我终于实现了希尔安的梦想
+Dialogue: 0,0:05:59.18,0:06:02.56,English,,0,0,0,,and if it weren't for Canada, if it weren't for Yale,\N{\rChinese}如果不是因为加拿大，如果不是因为耶鲁，我就做不到YouTube视频了
+Dialogue: 0,0:06:03.42,0:06:05.12,English,,0,0,0,,I wouldn't be able to make YouTube videos.\N{\rChinese}I wouldn't be able tomake YouTube videos.
+Dialogue: 0,0:06:05.80,0:06:09.40,English,,0,0,0,,So I'm very thankful for Canada\N{\rChinese}我非常感谢加拿大
+Dialogue: 0,0:06:09.40,0:06:12.88,English,,0,0,0,,and for Yale.\N{\rChinese}以及耶鲁大学
+Dialogue: 0,0:06:13.40,0:06:17.46,English,,0,0,0,,So again we're really thankful for the opportunity to be here.\N{\rChinese}再次感谢有机会来到这里
+Dialogue: 0,0:06:17.46,0:06:21.44,English,,0,0,0,,We're really thankful for the opportunity to be here. But the reality is there's just too\N{\rChinese}我们非常感谢有机会来到这里。但现实是，来这国的移民太多了
+Dialogue: 0,0:06:21.44,0:06:26.22,English,,0,0,0,,many immigrants coming into this country\N{\rChinese}有很多移民涌入这个国家
+Dialogue: 0,0:06:26.22,0:06:29.54,English,,0,0,0,,and what's really happening is even\N{\rChinese}而真正发生的事是……
+Dialogue: 0,0:06:29.54,0:06:32.92,English,,0,0,0,,though you may have some short -term economic GDP burst,\N{\rChinese}虽然你可能会有短期的经济GDP激增，
+Dialogue: 0,0:06:33.26,0:06:38.30,English,,0,0,0,,ultimately you're degrading the social capital,\N{\rChinese}最终你正在削弱加拿大的社会资本，
+Dialogue: 0,0:06:38.54,0:06:41.78,English,,0,0,0,,trust, and cohesion of Canada.\N{\rChinese}信任和凝聚力。
+Dialogue: 0,0:06:42.66,0:06:46.74,English,,0,0,0,,Ultimately the Canadian identity,\N{\rChinese}最终的加拿大身份，
+Dialogue: 0,0:06:47.46,0:06:49.32,English,,0,0,0,,has always been fragile and\N{\rChinese}一直以来都很脆弱，
+Dialogue: 0,0:06:49.32,0:06:53.66,English,,0,0,0,,all this massive influx of immigrants is making the identity much more fragile,\N{\rChinese}这大批移民的涌入让身份更脆弱。
+Dialogue: 0,0:06:53.96,0:06:56.82,English,,0,0,0,,which is, in the long term, going to affect\N{\rChinese}这在长期内将影响
+Dialogue: 0,0:06:58.28,0:07:01.52,English,,0,0,0,,Canada's capacity to work together,\N{\rChinese}加拿大的协作能力，
+Dialogue: 0,0:07:01.68,0:07:03.68,English,,0,0,0,,to innovate, to be resilient,\N{\rChinese}创新力与韧性。
+Dialogue: 0,0:07:03.88,0:07:07.06,English,,0,0,0,,to be cohesive as a society.\N{\rChinese}成为一个团结的社会。
+Dialogue: 0,0:07:08.94,0:07:11.78,English,,0,0,0,,Right now, a quarter,\N{\rChinese}现在，约四分之一，
+Dialogue: 0,0:07:11.92,0:07:13.56,English,,0,0,0,,25 percent of Canadians,\N{\rChinese}25%的加拿大人
+Dialogue: 0,0:07:13.78,0:07:18.26,English,,0,0,0,,are foreign -born, first generation immigrants, immigrants like myself.\N{\rChinese}是外生的，第一代移民，像我一样的移民。
+Dialogue: 0,0:07:18.78,0:07:21.46,English,,0,0,0,,So if there were ever a referendum\N{\rChinese}于是如果曾经有一次公投
+Dialogue: 0,0:07:21.46,0:07:22.66,English,,0,0,0,,and\N{\rChinese}并
+Dialogue: 0,0:07:22.66,0:07:27.80,English,,0,0,0,,Canadians could choose whether or not to join the United States voluntarily,\N{\rChinese}加拿大人可以自行决定是否加入美国
+Dialogue: 0,0:07:28.28,0:07:30.86,English,,0,0,0,,most of these\N{\rChinese}大多数这些人
+Dialogue: 0,0:07:32.16,0:07:36.94,English,,0,0,0,,immigrants would immediately say let's join the United States because there are more economic opportunities.\N{\rChinese}移民们会立刻说：让我们加入美国吧，那里有更多经济机会
+Dialogue: 0,0:07:38.52,0:07:42.88,English,,0,0,0,,So in the long term I don't see Canada staying together.\N{\rChinese}于是从长远来看，我觉得加拿大会合不住。
+Dialogue: 0,0:07:43.12,0:07:47.02,English,,0,0,0,,I think Canada will ultimately be dismembered by the United States\N{\rChinese}我认为加拿大最终会被美国分解。
+Dialogue: 0,0:07:47.02,0:07:51.16,English,,0,0,0,,and be absorbed into the American Empire in the next 20 -30 years.\N{\rChinese}并在未来20-30年被美国帝国吸收。
+Dialogue: 0,0:07:51.48,0:07:56.38,English,,0,0,0,,I don't think Canada right now can be a sustainable nation.\N{\rChinese}我觉得现在的加拿大还不能成为一个可持续的民族国家。
+Dialogue: 0,0:07:57.36,0:08:00.54,English,,0,0,0,,Now it's really easy to\N{\rChinese}现在真的很容易……
+Dialogue: 0,0:08:00.54,0:08:03.48,English,,0,0,0,,blame immigrants for all this\N{\rChinese}把所有这些都怪到移民身上。
+Dialogue: 0,0:08:03.48,0:08:06.50,English,,0,0,0,,and most Canadians do in fact blame immigrants because\N{\rChinese}和大多数加拿大人确实把责任归咎于移民，因为……
+Dialogue: 0,0:08:06.50,0:08:09.20,English,,0,0,0,,that's what they encounter every day.\N{\rChinese}那是他们每天遇到的事。
+Dialogue: 0,0:08:09.28,0:08:13.88,English,,0,0,0,,They encounter immigrants not being to speak English, not following the rules, cutting in line.\N{\rChinese}他们遇到的移民不说英语、不按规矩、插队。
+Dialogue: 0,0:08:14.58,0:08:18.44,English,,0,0,0,,They watch the news and see immigrants committing crimes.\N{\rChinese}他们看新闻，看到移民犯案。
+Dialogue: 0,0:08:19.40,0:08:20.62,English,,0,0,0,,They see immigrants,\N{\rChinese}他们看到移民，
+Dialogue: 0,0:08:20.98,0:08:25.06,English,,0,0,0,,rich immigrants, buying up these expensive property and making life miserable for everyone.\N{\rChinese}富裕的移民买下这些昂贵的房产，让大家生活艰难。
+Dialogue: 0,0:08:25.40,0:08:28.10,English,,0,0,0,,So it's really easy to blame immigrants\N{\rChinese}于是很容易把责任归咎于移民
+Dialogue: 0,0:08:28.10,0:08:29.08,English,,0,0,0,,but\N{\rChinese}但
+Dialogue: 0,0:08:29.08,0:08:34.48,English,,0,0,0,,ultimately we need to understand why this immigration is happening\N{\rChinese}最终我们需要理解这次移民为何发生
+Dialogue: 0,0:08:34.48,0:08:38.64,English,,0,0,0,,and it's happening because of the baby boomers.\N{\rChinese}因为婴儿潮人而发生。
+Dialogue: 0,0:08:39.38,0:08:42.48,English,,0,0,0,,The baby boomers want three things.\N{\rChinese}婴儿潮人想要三件事。
+Dialogue: 0,0:08:42.66,0:08:46.10,English,,0,0,0,,They want their pensions to be paid,\N{\rChinese}他们想要养老金支付。
+Dialogue: 0,0:08:46.92,0:08:50.20,English,,0,0,0,,they want quality, free health care,\N{\rChinese}他们想要优质、免费的医疗保健，并且想让房价上涨。
+Dialogue: 0,0:08:50.34,0:08:55.88,English,,0,0,0,,and they want the property prices to go up.\N{\rChinese}基本上，他们想让加拿大经济持续增长。
+Dialogue: 0,0:08:56.02,0:08:59.42,English,,0,0,0,,Basically, they want the Canadian economy to keep on growing\N{\rChinese}Basically, they want the Canadian economy to keep on growing
+Dialogue: 0,0:08:59.42,0:09:01.06,English,,0,0,0,,and growing and growing,\N{\rChinese}并且持续增长，
+Dialogue: 0,0:09:01.32,0:09:05.38,English,,0,0,0,,regardless of the consequences.\N{\rChinese}不管结果如何。
+Dialogue: 0,0:09:06.78,0:09:10.28,English,,0,0,0,,Now, in order for the economy to grow\N{\rChinese}现在，为了让经济增长，
+Dialogue: 0,0:09:10.28,0:09:14.88,English,,0,0,0,,there are three main mechanisms to accomplish this.\N{\rChinese}有三种主要机制可以实现这一点。
+Dialogue: 0,0:09:14.88,0:09:19.40,English,,0,0,0,,The first mechanism is to exploit resources\N{\rChinese}第一种机制是开发资源
+Dialogue: 0,0:09:19.40,0:09:22.94,English,,0,0,0,,because Canada really is the wealthiest country in the world.\N{\rChinese}因为加拿大确实是世界上最富裕的国家。
+Dialogue: 0,0:09:22.98,0:09:26.62,English,,0,0,0,,It has abundant, almost infinite resources,\N{\rChinese}它拥有丰富、几乎无穷的资源，
+Dialogue: 0,0:09:26.86,0:09:31.30,English,,0,0,0,,especially fresh water, which is what the world is going to need in the next hundred years.\N{\rChinese}尤其是淡水，这正是未来百年世界所需的资源。
+Dialogue: 0,0:09:31.82,0:09:34.30,English,,0,0,0,,So Canada is an extremely wealthy place and\N{\rChinese}因此加拿大是一个极其富裕的地方。
+Dialogue: 0,0:09:34.30,0:09:38.50,English,,0,0,0,,it can choose to exploit and export a lot of these resources.\N{\rChinese}它可以选择开发并大量出口这些资源。
+Dialogue: 0,0:09:39.02,0:09:41.22,English,,0,0,0,,That's the first solution. The second solution,\N{\rChinese}那是第一种方案。第二种方案，
+Dialogue: 0,0:09:41.60,0:09:43.02,English,,0,0,0,,which is much more sustainable,\N{\rChinese}这更具可持续性。
+Dialogue: 0,0:09:43.26,0:09:48.62,English,,0,0,0,,is to unleash the entrepreneurial energy of the Canadian people.\N{\rChinese}释放加拿大人民的创业活力。
+Dialogue: 0,0:09:49.28,0:09:53.20,English,,0,0,0,,To encourage more entrepreneurship,\N{\rChinese}鼓励更多创业，
+Dialogue: 0,0:09:53.64,0:09:55.44,English,,0,0,0,,more privatization,\N{\rChinese}更多私有化，
+Dialogue: 0,0:09:55.82,0:09:59.44,English,,0,0,0,,to reduce the regulatory state, to reduce the red tape.\N{\rChinese}降低行政状态，减少红线。
+Dialogue: 0,0:09:59.56,0:10:00.48,English,,0,0,0,,That's the second solution.\N{\rChinese}那是第二种方案。
+Dialogue: 0,0:10:00.82,0:10:06.20,English,,0,0,0,,The third solution is immigration.\N{\rChinese}第三种方案是移民。
+Dialogue: 0,0:10:06.62,0:10:08.10,English,,0,0,0,,Let's let in more immigrants.\N{\rChinese}让更多移民进来。
+Dialogue: 0,0:10:08.30,0:10:10.14,English,,0,0,0,,Let's let in the rich immigrants to live.\N{\rChinese}让富裕的移民进来居住。
+Dialogue: 0,0:10:12.84,0:10:18.68,English,,0,0,0,,Let's let in the poor immigrants to work as slave labor for Canadian corporations.\N{\rChinese}让贫困的移民进来当加拿大企业的劳工。
+Dialogue: 0,0:10:19.98,0:10:22.14,English,,0,0,0,,So of these three solutions,\N{\rChinese}于是这三种方案中，加拿大政府选择了第三种——增加移民。
+Dialogue: 0,0:10:22.38,0:10:26.24,English,,0,0,0,,the Canadian government went with the third solution, increased immigration.\N{\rChinese}现在，外面很多人认为。
+Dialogue: 0,0:10:26.74,0:10:29.84,English,,0,0,0,,Now, a lot of people out there believe\N{\rChinese}Now, a lot of people out there believe
+Dialogue: 0,0:10:29.84,0:10:31.84,English,,0,0,0,,that this is a conspiracy, that\N{\rChinese}那是一个阴谋，那个…
+Dialogue: 0,0:10:31.84,0:10:37.54,English,,0,0,0,,there's this global international conspiracy out there to dilute national identity,\N{\rChinese}有这个全球国际阴谋，外面要稀释民族身份，
+Dialogue: 0,0:10:37.72,0:10:40.14,English,,0,0,0,,to destroy the economy.\N{\rChinese}要毁掉经济。
+Dialogue: 0,0:10:40.16,0:10:42.00,English,,0,0,0,,To destroy the idea of the nation state.\N{\rChinese}毁掉民族国家的概念。
+Dialogue: 0,0:10:42.28,0:10:46.56,English,,0,0,0,,To reduce the white gene pool.\N{\rChinese}减少白人基因库。
+Dialogue: 0,0:10:47.32,0:10:49.90,English,,0,0,0,,This is all a World Economic Forum,\N{\rChinese}这全是世界经济论坛的安排。
+Dialogue: 0,0:10:50.32,0:10:53.04,English,,0,0,0,,white replacement theory, conspiracy,\N{\rChinese}白人替代论，阴谋，
+Dialogue: 0,0:10:53.60,0:10:55.72,English,,0,0,0,,spearheaded by the Jews.\N{\rChinese}由犹太人牵头，
+Dialogue: 0,0:10:56.68,0:10:58.48,English,,0,0,0,,And quite honestly,\N{\rChinese}而且说实话，
+Dialogue: 0,0:10:58.74,0:11:01.92,English,,0,0,0,,if the people in charge were this smart,\N{\rChinese}如果掌权者这么聪明，
+Dialogue: 0,0:11:02.08,0:11:06.38,English,,0,0,0,,were this well organized, the world wouldn't be in the mess\N{\rChinese}如果他们组织得这么好，世界就不会像今天那样乱成一团。
+Dialogue: 0,0:11:06.38,0:11:10.54,English,,0,0,0,,that it is today. You'd be surprised by how idiotic,\N{\rChinese}你会惊讶于它的愚笨。
+Dialogue: 0,0:11:10.54,0:11:15.52,English,,0,0,0,,by how incompetent the people in charge are.\N{\rChinese}由掌权者的无能程度可见一斑
+Dialogue: 0,0:11:15.82,0:11:19.56,English,,0,0,0,,So let me explain to you why immigration is increasing,\N{\rChinese}于是我来解释一下为什么移民在加国乃至西方世界都在增加
+Dialogue: 0,0:11:19.66,0:11:23.82,English,,0,0,0,,not just in Canada, but also throughout the Western world.\N{\rChinese}not just in Canada, but alsothroughout the Western world.
+Dialogue: 0,0:11:24.52,0:11:26.40,English,,0,0,0,,Okay, so to understand this,\N{\rChinese}好的，先来理解一下，
+Dialogue: 0,0:11:26.42,0:11:30.28,English,,0,0,0,,we need to understand the framework of the Canadian nation.\N{\rChinese}我们需要先了解加拿大的国家框架。
+Dialogue: 0,0:11:30.68,0:11:33.54,English,,0,0,0,,What is Canada exists and what does Canada do?\N{\rChinese}加拿大的存在是什么，它做了什么？
+Dialogue: 0,0:11:33.84,0:11:37.10,English,,0,0,0,,Well, Canada has some certain rules.\N{\rChinese}好吧，加拿大有一些特定的规则。
+Dialogue: 0,0:11:37.10,0:11:38.48,English,,0,0,0,,It has some certain unique characteristics.\N{\rChinese}它有一些特定的独特特征。
+Dialogue: 0,0:11:38.84,0:11:43.30,English,,0,0,0,,First of all, it's a vast nation with almost infinite wealth.\N{\rChinese}首先，它是一个辽阔的国家，几乎拥有无限的财富。
+Dialogue: 0,0:11:44.66,0:11:49.18,English,,0,0,0,,Surrounded by two oceans, the Pacific and the Atlantic.\N{\rChinese}被太平洋与大西洋环绕。
+Dialogue: 0,0:11:49.48,0:11:54.80,English,,0,0,0,,And so Canada does not have natural predators as they would in Europe.\N{\rChinese}因此加拿大没有像欧洲那样的天然对手。
+Dialogue: 0,0:11:54.88,0:11:57.54,English,,0,0,0,,Canadians grew up in a time of relative peace,\N{\rChinese}加拿大人是在相对和平的时代成长的。
+Dialogue: 0,0:11:57.76,0:12:00.36,English,,0,0,0,,safety, and security.\N{\rChinese}安全与保障。
+Dialogue: 0,0:12:02.58,0:12:07.08,English,,0,0,0,,The problem though is that Canada shares a borderline.\N{\rChinese}问题在于加拿大与……共享边界。
+Dialogue: 0,0:12:07.08,0:12:11.84,English,,0,0,0,,It's a border with the world's most powerful empire,\N{\rChinese}这是一条与世界最强大帝国相接的边界。
+Dialogue: 0,0:12:12.10,0:12:14.70,English,,0,0,0,,with history's greatest empire, America.\N{\rChinese}与历史上最大的帝国——美利合并列。
+Dialogue: 0,0:12:16.82,0:12:21.32,English,,0,0,0,,And so in order to prevent conflict between Canada\N{\rChinese}于是，为了防止加拿大与美国之间的冲突，……
+Dialogue: 0,0:12:21.32,0:12:24.54,English,,0,0,0,,and the United States, the last major conflict between Canada and the United States was the War of 1812.\N{\rChinese}上一次大冲突是1812年的战争。
+Dialogue: 0,0:12:24.82,0:12:26.28,English,,0,0,0,,To prevent the conflict,\N{\rChinese}为防止冲突，
+Dialogue: 0,0:12:26.56,0:12:30.22,English,,0,0,0,,there's almost an implicit agreement between the people of Canada\N{\rChinese}加拿大人与美国人之间几乎有一种隐含的协议，
+Dialogue: 0,0:12:30.22,0:12:32.32,English,,0,0,0,,and the people of America.\N{\rChinese}and the people of America.
+Dialogue: 0,0:12:33.94,0:12:36.74,English,,0,0,0,,Canadians, first and foremost, are not ambitious.\N{\rChinese}加拿大人，首先是没有雄心的。
+Dialogue: 0,0:12:36.74,0:12:38.52,English,,0,0,0,,If Canadians were ambitious,\N{\rChinese}如果加拿大人有雄心，
+Dialogue: 0,0:12:38.94,0:12:42.74,English,,0,0,0,,then Canada would be at war with America\N{\rChinese}那么加拿大就会与美国开战。
+Dialogue: 0,0:12:42.74,0:12:47.84,English,,0,0,0,,and America would have absorbed Canada into the American empire a long time ago.\N{\rChinese}以及美国早已把加拿大吸纳进美帝国。
+Dialogue: 0,0:12:48.10,0:12:49.74,English,,0,0,0,,So Canadians, the first,\N{\rChinese}于是加拿大人，首先，
+Dialogue: 0,0:12:49.84,0:12:52.90,English,,0,0,0,,the core characteristic of the Canadian identity\N{\rChinese}加拿大身份的核心特征是
+Dialogue: 0,0:12:52.90,0:12:56.88,English,,0,0,0,,is lack of ambition in order to maintain peace\N{\rChinese}缺乏雄心以维持与美的和平与稳定。
+Dialogue: 0,0:12:56.88,0:13:00.08,English,,0,0,0,,and stability with America.\N{\rChinese}若不雄心，则不必工业化。
+Dialogue: 0,0:13:02.24,0:13:06.52,English,,0,0,0,,And if you're not ambitious, then you're not going to industrialize.\N{\rChinese}And if you're not ambitious, thenyou're not going to industrialize.
+Dialogue: 0,0:13:06.52,0:13:09.74,English,,0,0,0,,Which means that you're going to maintain\N{\rChinese}这意味着你将保持并保护环境。
+Dialogue: 0,0:13:09.74,0:13:11.70,English,,0,0,0,,and safeguard the environment.\N{\rChinese}你会利用环境，但会确保它自给自足。
+Dialogue: 0,0:13:11.98,0:13:15.90,English,,0,0,0,,You'll use some of the environment, but you'll make sure it's self -sustaining.\N{\rChinese}You'll use some of the environment, butyou'll make sure it's self -sustaining.
+Dialogue: 0,0:13:16.10,0:13:21.30,English,,0,0,0,,So in other words, Canada is almost like a resource bank for the American empire.\N{\rChinese}于是，换句话说， 加拿大几乎是美国帝国的资源银行。
+Dialogue: 0,0:13:22.06,0:13:23.96,English,,0,0,0,,The American empire, when it needs,\N{\rChinese}美国帝国在需要时，
+Dialogue: 0,0:13:24.14,0:13:27.62,English,,0,0,0,,can always draw on the infinite resources of Canada.\N{\rChinese}总能调动加拿大的无限资源。
+Dialogue: 0,0:13:28.60,0:13:32.12,English,,0,0,0,,And so because of its lack of ambition,\N{\rChinese}于是因为缺乏雄心，
+Dialogue: 0,0:13:32.34,0:13:36.22,English,,0,0,0,,there are two main drivers of the Canadian economy.\N{\rChinese}加拿大经济主要有两大驱动因素。
+Dialogue: 0,0:13:36.52,0:13:39.66,English,,0,0,0,,The first, as I said, is resource exploitation, but\N{\rChinese}第一点，正如我所说，是资源开发。
+Dialogue: 0,0:13:39.66,0:13:41.38,English,,0,0,0,,sustainable, limited resource exploitation.\N{\rChinese}可持续、有限的资源开发。
+Dialogue: 0,0:13:41.74,0:13:46.62,English,,0,0,0,,But the main driver of the Canadian economy is immigration.\N{\rChinese}但加拿大经济的主要驱动是移民。
+Dialogue: 0,0:13:47.96,0:13:50.24,English,,0,0,0,,Canada allows rich,\N{\rChinese}加拿大允许富裕，
+Dialogue: 0,0:13:50.42,0:13:54.32,English,,0,0,0,,corrupt families to come to Canada to hide their wealth.\N{\rChinese}腐败家族来加拿隐藏财富。
+Dialogue: 0,0:13:54.54,0:13:58.58,English,,0,0,0,,Canada also welcomes cheap labor,\N{\rChinese}加拿也欢迎低价劳工，
+Dialogue: 0,0:13:58.96,0:14:03.14,English,,0,0,0,,poor immigrants like my father to come to Canada to do all the work.\N{\rChinese}像我父亲那样的贫困移民来加拿干活。
+Dialogue: 0,0:14:03.26,0:14:06.50,English,,0,0,0,,So that Canadians can enjoy their life on the island.\N{\rChinese}于是加拿大人就能在岛上享受生活。
+Dialogue: 0,0:14:35.68,0:14:37.60,English,,0,0,0,,Let's turn to some of the other ways of doing business here, is multiculturalism.\N{\rChinese}接下来我们来谈谈在这里做生意的其他方式，就是多元文化。
+Dialogue: 0,0:14:38.39,0:14:41.24,English,,0,0,0,,The belief that diversity is good, mainly\N{\rChinese}认为多样性是好事的信念，主要是……
+Dialogue: 0,0:14:41.24,0:14:44.30,English,,0,0,0,,because white people love ethnic food.\N{\rChinese}因为白人喜欢民族菜。
+Dialogue: 0,0:14:44.42,0:14:46.74,English,,0,0,0,,When white people think multiculturalism,\N{\rChinese}当白人想到多元文化时，
+Dialogue: 0,0:14:46.74,0:14:50.42,English,,0,0,0,,they think ethnic restaurants, Mexican food, Chinatown.\N{\rChinese}他们想到民族餐厅、墨西哥菜、唐人街。
+Dialogue: 0,0:14:50.94,0:14:53.62,English,,0,0,0,,And so they love multiculturalism.\N{\rChinese}于是他们就爱多元文化。
+Dialogue: 0,0:14:54.44,0:14:58.30,English,,0,0,0,,But if immigrants become politically ambitious,\N{\rChinese}但若移民变得政治有抱负，
+Dialogue: 0,0:14:58.52,0:15:00.36,English,,0,0,0,,like the Indians, no, you can't have that.\N{\rChinese}就像印度人，没问题。
+Dialogue: 0,0:15:00.74,0:15:03.64,English,,0,0,0,,So that's why Indians are so\N{\rChinese}所以这就是为什么印度人如此……
+Dialogue: 0,0:15:03.64,0:15:07.62,English,,0,0,0,,derided in Canada because the Indians are actually politically active\N{\rChinese}在加拿大被嘲笑，因为印度人实际上政治活跃……
+Dialogue: 0,0:15:07.62,0:15:10.46,English,,0,0,0,,and effective. But\N{\rChinese}并且有效。
+Dialogue: 0,0:15:10.46,0:15:14.50,English,,0,0,0,,hey, if the Indians stick to making samosas every day, Canadians would love them.\N{\rChinese}嘿，如果印度人每天只做萨摩萨，Canadians 会爱吃。
+Dialogue: 0,0:15:17.54,0:15:19.50,English,,0,0,0,,So in a multicultural society,\N{\rChinese}于是多元文化社会里，
+Dialogue: 0,0:15:19.76,0:15:24.58,English,,0,0,0,,what's really important is to be an open society\N{\rChinese}真正重要的是开放的社会。
+Dialogue: 0,0:15:24.58,0:15:26.78,English,,0,0,0,,and not have a distinct cultural identity.\N{\rChinese}并且没有独特的文化身份。
+Dialogue: 0,0:15:27.62,0:15:31.82,English,,0,0,0,,And this has created a lot of problems in Canada.\N{\rChinese}这已在加拿大造成不少问题。
+Dialogue: 0,0:15:31.88,0:15:36.54,English,,0,0,0,,It will create further problems in Canada. And\N{\rChinese}它将进一步在加拿大造成问题。
+Dialogue: 0,0:15:36.54,0:15:41.40,English,,0,0,0,,the third major\N{\rChinese}第三大宗教是官僚主义。
+Dialogue: 0,0:15:41.40,0:15:42.96,English,,0,0,0,,religion is bureaucratism.\N{\rChinese}因为如果你没有自己的民族身份，
+Dialogue: 0,0:15:43.08,0:15:46.52,English,,0,0,0,,Because if you don't have your own ethnic identity,\N{\rChinese}Because if you don't haveyour own ethnic identity,
+Dialogue: 0,0:15:46.76,0:15:48.84,English,,0,0,0,,if you don't have a core ambition,\N{\rChinese}如果你没有核心志向，
+Dialogue: 0,0:15:49.22,0:15:52.92,English,,0,0,0,,then you need a regulatory state, a bureaucracy, in order to maintain everything together.\N{\rChinese}那么你需要一个行政国家，一个官僚体制，以便统一一切。
+Dialogue: 0,0:15:53.58,0:15:55.78,English,,0,0,0,,You need people to tell you what to do.\N{\rChinese}你需要有人告诉你该做什么。
+Dialogue: 0,0:15:57.01,0:16:00.32,English,,0,0,0,,And Canadians worship authority.\N{\rChinese}加拿大人崇拜权威。
+Dialogue: 0,0:16:00.62,0:16:01.96,English,,0,0,0,,Canadians are extremely obedient.\N{\rChinese}加拿大人非常顺从。
+Dialogue: 0,0:16:02.30,0:16:04.46,English,,0,0,0,,Canadians are very obedient.\N{\rChinese}加拿大人很顺从。
+Dialogue: 0,0:16:04.46,0:16:06.26,English,,0,0,0,,Canadians are very obedient. They believe in everything.\N{\rChinese}加拿大人很顺从。他们信一切。
+Dialogue: 0,0:16:06.26,0:16:10.62,English,,0,0,0,,They believe experts know everything. So because of these three religions,\N{\rChinese}他们相信专家无所不知。因此因这三种宗教，
+Dialogue: 0,0:16:12.03,0:16:15.32,English,,0,0,0,,there are three distinct characteristics about the Canadian individual.\N{\rChinese}加拿大人有三种独特特性。
+Dialogue: 0,0:16:16.50,0:16:18.02,English,,0,0,0,,What are Canadians really good at?\N{\rChinese}加拿大人到底擅长什么？
+Dialogue: 0,0:16:18.46,0:16:19.80,English,,0,0,0,,Well, the first thing is,\N{\rChinese}好吧，第一点是，
+Dialogue: 0,0:16:19.98,0:16:24.86,English,,0,0,0,,Canadians are really good at following the rules.\N{\rChinese}加拿大人非常擅长遵守规则。
+Dialogue: 0,0:16:25.14,0:16:27.42,English,,0,0,0,,From birth, Canadians believe that\N{\rChinese}出生时， Canadians 认为必须遵守规则。
+Dialogue: 0,0:16:27.42,0:16:30.58,English,,0,0,0,,they must obey the rules.\N{\rChinese}他们必须遵守规则。
+Dialogue: 0,0:16:30.82,0:16:33.34,English,,0,0,0,,The worst thing that can happen is if they break a rule.\N{\rChinese}最糟的事是他们违反规则。
+Dialogue: 0,0:16:39.64,0:16:42.10,English,,0,0,0,,Let's not control them,\N{\rChinese}让我们不去控制他们，
+Dialogue: 0,0:16:43.54,0:16:48.00,English,,0,0,0,,but control them,\N{\rChinese}但去控制他们，
+Dialogue: 0,0:16:48.52,0:16:52.04,English,,0,0,0,,control them, control them, control them, control them, control them, control them, control them, control them, control them,\N{\rChinese}控制他们，控制他们，控制他们，控制他们，控制他们，控制他们，控制他们，控制他们，
+Dialogue: 0,0:16:52.04,0:16:54.56,English,,0,0,0,,control them, control them, control them, control them, control them, control them,\N{\rChinese}控制他们，控制他们，控制他们，控制他们，控制他们，控制他们，
+Dialogue: 0,0:16:54.70,0:16:56.80,English,,0,0,0,,control them,\N{\rChinese}控制他们，
+Dialogue: 0,0:16:56.80,0:17:03.46,English,,0,0,0,,control them,\N{\rChinese}控制他们，控制他们，
+Dialogue: 0,0:17:03.46,0:17:04.88,English,,0,0,0,,is in right now.\N{\rChinese}现在正好。
+Dialogue: 0,0:17:04.98,0:17:08.62,English,,0,0,0,,The third thing that Canadians are really good at,\N{\rChinese}加拿大人擅长的第三件事，
+Dialogue: 0,0:17:08.68,0:17:12.14,English,,0,0,0,,in fact probably the best in the world at, is being mediocre.\N{\rChinese}就是平庸。
+Dialogue: 0,0:17:12.76,0:17:16.52,English,,0,0,0,,Canadians absolutely have no ambition, in fact they hate ambition.\N{\rChinese}加拿大人绝对没有雄心，实际上他们恨雄心。
+Dialogue: 0,0:17:16.84,0:17:19.96,English,,0,0,0,,I remember in high school because I was poor and\N{\rChinese}我记得高中时因为我贫穷，
+Dialogue: 0,0:17:19.96,0:17:23.38,English,,0,0,0,,I wanted to go to Yale, I was extremely focused on grades\N{\rChinese}我想去耶鲁，专注成绩。
+Dialogue: 0,0:17:23.38,0:17:26.54,English,,0,0,0,,and so my teachers, the word they used for me is ambitious.\N{\rChinese}我老师们用的词是“ambitious”，我就是个有雄心的人。
+Dialogue: 0,0:17:26.88,0:17:31.98,English,,0,0,0,,I'm an ambitious individual. That's essentially a curse word in Canada.\N{\rChinese}在加拿大这可是个大名词。
+Dialogue: 0,0:17:32.34,0:17:34.80,English,,0,0,0,,But I will say this, Canada,\N{\rChinese}我想说的是，关于加拿大……
+Dialogue: 0,0:17:35.04,0:17:39.70,English,,0,0,0,,I mean if you can just conceptualize heaven on earth,\N{\rChinese}我想说的是，如果你能把地上天堂概念化，那就是加拿大，对吧？
+Dialogue: 0,0:17:39.84,0:17:41.48,English,,0,0,0,,it would be Canada, right?\N{\rChinese}极致富裕，...
+Dialogue: 0,0:17:41.78,0:17:42.92,English,,0,0,0,,Extreme wealth,\N{\rChinese}Extreme wealth,
+Dialogue: 0,0:17:43.14,0:17:47.96,English,,0,0,0,,extremely generous government benefits,\N{\rChinese}极其慷慷的政府福利，
+Dialogue: 0,0:17:48.28,0:17:51.80,English,,0,0,0,,no one will go poor,\N{\rChinese}没有人会贫穷，
+Dialogue: 0,0:17:52.26,0:17:55.12,English,,0,0,0,,no one will starve in Canada.\N{\rChinese}没有人会在加拿大饿死。
+Dialogue: 0,0:17:57.58,0:17:59.40,English,,0,0,0,,No wars, just complete peace.\N{\rChinese}无战争，只有完全和平。
+Dialogue: 0,0:17:59.56,0:18:01.90,English,,0,0,0,,It's almost heaven on earth. And\N{\rChinese}几乎是地上天堂。并且
+Dialogue: 0,0:18:01.90,0:18:05.82,English,,0,0,0,,here is an opportunity\N{\rChinese}这里是一个机会。
+Dialogue: 0,0:18:05.82,0:18:10.18,English,,0,0,0,,for people to achieve eudaimonia, right?\N{\rChinese}为人们实现eudaimonia，没错吗？
+Dialogue: 0,0:18:10.24,0:18:13.40,English,,0,0,0,,Eudaimonia is the Greek term for flourishing.\N{\rChinese}eudaimonia是希腊语中“繁荣”的意思。
+Dialogue: 0,0:18:13.82,0:18:17.12,English,,0,0,0,,Here is opportunity for\N{\rChinese}这里是机会。
+Dialogue: 0,0:18:17.12,0:18:21.72,English,,0,0,0,,Canadians to contribute intellectually development of humanity\N{\rChinese}加拿大人将为人类的智力发展作出贡献
+Dialogue: 0,0:18:21.72,0:18:24.32,English,,0,0,0,,because they have the resources,\N{\rChinese}因为他们拥有资源
+Dialogue: 0,0:18:24.50,0:18:27.08,English,,0,0,0,,they have the time, they have the security.\N{\rChinese}他们有时间，也有安全
+Dialogue: 0,0:18:27.14,0:18:28.90,English,,0,0,0,,So, I think that's the first thing that I would say. No one else does.\N{\rChinese}于是，我想这就是我会先说的第一件事。别的人都没这么说。
+Dialogue: 0,0:18:29.88,0:18:30.86,English,,0,0,0,,And so\N{\rChinese}于是……
+Dialogue: 0,0:18:30.86,0:18:36.66,English,,0,0,0,,you would expect this tremendous outpouring of human creativity in Canada these past 50 years.\N{\rChinese}你会预料到过去五十年里加拿大出现了这场人类创造力的巨大涌流。
+Dialogue: 0,0:18:37.30,0:18:38.56,English,,0,0,0,,In reality,\N{\rChinese}实际上，
+Dialogue: 0,0:18:38.70,0:18:43.96,English,,0,0,0,,Canadians have for the past 50 years chosen to shut off their brains.\N{\rChinese}过去五十年，加拿大人选择把脑袋关起来。
+Dialogue: 0,0:18:44.30,0:18:47.14,English,,0,0,0,,Canada is an extremely complacent nation.\N{\rChinese}加拿大是一个极其自满的民族国家。
+Dialogue: 0,0:18:47.36,0:18:50.66,English,,0,0,0,,It's almost like everyone's on Prozac or something.\N{\rChinese}几乎像大家都在吃普罗扎一样。
+Dialogue: 0,0:18:50.78,0:18:53.72,English,,0,0,0,,This is Prozac nation. So,\N{\rChinese}这就是普罗扎国。于是，
+Dialogue: 0,0:18:53.86,0:18:57.64,English,,0,0,0,,Canadians are extremely mediocre.\N{\rChinese}加拿大人极其平庸。
+Dialogue: 0,0:18:59.66,0:19:01.10,English,,0,0,0,,I think that\N{\rChinese}我认为
+Dialogue: 0,0:19:01.10,0:19:04.30,English,,0,0,0,,after Canada becomes dismembered\N{\rChinese}在加拿大解体后
+Dialogue: 0,0:19:04.30,0:19:09.10,English,,0,0,0,,and joins the American Empire, maybe a generation afterwards,\N{\rChinese}并加入美帝国，或许多世代之后
+Dialogue: 0,0:19:09.52,0:19:12.04,English,,0,0,0,,everyone's gonna forget Canada ever existed because\N{\rChinese}大家会忘记加拿大的存在，因为
+Dialogue: 0,0:19:12.04,0:19:16.32,English,,0,0,0,,Canada has made absolutely no contribution to the world.\N{\rChinese}加拿大对世界没有任何贡献。
+Dialogue: 0,0:19:16.40,0:19:20.16,English,,0,0,0,,Canada doesn't really matter in the world\N{\rChinese}加拿大在世界上并不重要。
+Dialogue: 0,0:19:20.16,0:19:26.10,English,,0,0,0,,and Canadians are very happy to not matter in the world. So\N{\rChinese}加拿大人很高兴自己在世界上不重要。于是
+Dialogue: 0,0:19:26.10,0:19:30.72,English,,0,0,0,,now we can understand if\N{\rChinese}现在我们可以理解如果
+Dialogue: 0,0:19:30.72,0:19:34.76,English,,0,0,0,,your three religions are environmentalism,\N{\rChinese}你的三种宗教是环境主义、
+Dialogue: 0,0:19:34.84,0:19:38.08,English,,0,0,0,,multiculturalism, and bureaucratism, well\N{\rChinese}多元文化主义与官僚主义，嗯
+Dialogue: 0,0:19:38.08,0:19:41.58,English,,0,0,0,,then there's only one solution for you right?\N{\rChinese}然后你只有一个办法，对吧？
+Dialogue: 0,0:19:41.72,0:19:44.94,English,,0,0,0,,Because you can't exploit resources because\N{\rChinese}因为你无法利用资源，因而…
+Dialogue: 0,0:19:44.94,0:19:48.02,English,,0,0,0,,of your religion of environmentalism.\N{\rChinese}你的环境主义宗教的后果。
+Dialogue: 0,0:19:48.16,0:19:52.62,English,,0,0,0,,You can't encourage entrepreneurship because of your religion of bureaucratism right?\N{\rChinese}因为你的官僚主义宗教，你就不能鼓励创业，对吧？
+Dialogue: 0,0:19:52.72,0:19:54.12,English,,0,0,0,,You don't want to reduce the regulatory state.\N{\rChinese}你不想减少监管国家。
+Dialogue: 0,0:19:55.62,0:19:58.32,English,,0,0,0,,You don't want to promote individual initiative.\N{\rChinese}你不想促进个人主动性。
+Dialogue: 0,0:19:59.84,0:20:05.44,English,,0,0,0,,So the only solution available to you is mass immigration okay?\N{\rChinese}于是你唯一可用的办法就是大规模移民，好吗？
+Dialogue: 0,0:20:06.14,0:20:10.82,English,,0,0,0,,And again a lot of it is just driven by the baby boomers.\N{\rChinese}而且这大部分还是由婴儿潮一代推动的。
+Dialogue: 0,0:20:11.20,0:20:14.94,English,,0,0,0,,So now let me explain to you why baby boomers suck\N{\rChinese}于是现在让我来解释一下为什么婴儿潮一代真是个劲头。
+Dialogue: 0,0:20:14.94,0:20:18.82,English,,0,0,0,,and they suck for three main reasons.\N{\rChinese}他们之所以劲头有三大理由。
+Dialogue: 0,0:20:18.82,0:20:22.44,English,,0,0,0,,One, they suck for the reasons. The first is that they're the most selfish generation in human history.\N{\rChinese}第一点，原因是他们是人类历史上最自私的一代。
+Dialogue: 0,0:20:23.38,0:20:26.48,English,,0,0,0,,Second is that they're gonna be the longest living generation in human history.\N{\rChinese}第二点是他们将成为人类历史上最长寿的那一代。
+Dialogue: 0,0:20:26.70,0:20:28.46,English,,0,0,0,,And the third is that\N{\rChinese}第三点是他们想要维持帝国。
+Dialogue: 0,0:20:29.38,0:20:31.66,English,,0,0,0,,they want to maintain the empire.\N{\rChinese}they want to maintain the empire.
+Dialogue: 0,0:20:32.00,0:20:35.10,English,,0,0,0,,All right so let me go through each one by one.\N{\rChinese}好的，我来逐个说明。
+Dialogue: 0,0:20:36.04,0:20:37.34,English,,0,0,0,,Baby boomers are selfish.\N{\rChinese}婴儿潮一代很自私。
+Dialogue: 0,0:20:37.48,0:20:41.22,English,,0,0,0,,Everyone knows this. They had the most luxurious life\N{\rChinese}众所周知，他们享受最奢华的生活。
+Dialogue: 0,0:20:41.22,0:20:44.52,English,,0,0,0,,but the problem is\N{\rChinese}但问题是
+Dialogue: 0,0:20:44.52,0:20:47.48,English,,0,0,0,,that if you always lived a life of\N{\rChinese}如果你总是过着舒适安稳的生活
+Dialogue: 0,0:20:48.84,0:20:51.66,English,,0,0,0,,comfort and security and prosperity,\N{\rChinese}并且繁荣昌盛的生活
+Dialogue: 0,0:20:51.96,0:20:54.02,English,,0,0,0,,you become a selfish individual because\N{\rChinese}你会变成自私的人，因为
+Dialogue: 0,0:20:54.51,0:20:57.28,English,,0,0,0,,you think you deserve all this, okay?\N{\rChinese}你觉得自己值得这一切，行吗？
+Dialogue: 0,0:20:57.40,0:21:00.86,English,,0,0,0,,The other thing is that the baby boomers have a religion\N{\rChinese}另外一件事是婴儿潮一代有宗教
+Dialogue: 0,0:21:00.86,0:21:05.52,English,,0,0,0,,and it's an achievement, it's an ethos of achievement and accumulation,\N{\rChinese}并且是一种成就，成就与积累的精神，
+Dialogue: 0,0:21:05.92,0:21:09.76,English,,0,0,0,,the more the better, the bigger the better,\N{\rChinese}越多越好，越大越好，
+Dialogue: 0,0:21:09.90,0:21:12.64,English,,0,0,0,,the more money I have, the better,\N{\rChinese}我越有钱越好，
+Dialogue: 0,0:21:12.64,0:21:16.32,English,,0,0,0,,the longer I live the better I need to accumulate\N{\rChinese}我活得越久越好，我需要积累
+Dialogue: 0,0:21:16.32,0:21:18.48,English,,0,0,0,,and accumulate and achieve and\N{\rChinese}积累、积累、再积累，完成
+Dialogue: 0,0:21:18.48,0:21:23.00,English,,0,0,0,,achieve in order to signify my value my worth\N{\rChinese}完成以证明我的价值，我的价值
+Dialogue: 0,0:21:23.00,0:21:24.14,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:21:24.14,0:21:28.54,English,,0,0,0,,their greed their selfishness is\N{\rChinese}他们的贪婪与自私是
+Dialogue: 0,0:21:28.54,0:21:31.50,English,,0,0,0,,destroying the environment it's destroying the economy\N{\rChinese}正在破坏环境，正在破坏经济
+Dialogue: 0,0:21:31.50,0:21:34.30,English,,0,0,0,,and ultimately it's gonna kill their children okay so\N{\rChinese}并且最终它会杀死他们的孩子，好吧，所以
+Dialogue: 0,0:21:34.30,0:21:37.04,English,,0,0,0,,that's the first thing baby boomers are extremely selfish\N{\rChinese}那是第一个事，婴儿潮一代人极其自私
+Dialogue: 0,0:21:37.04,0:21:41.46,English,,0,0,0,,and that by itself is not really a problem the problem is they're not dying\N{\rChinese}而这单单是没啥大问题，问题是他们没死
+Dialogue: 0,0:21:41.46,0:21:43.28,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:21:43.28,0:21:46.34,English,,0,0,0,,I can understand why okay\N{\rChinese}我能明白为什么，好的
+Dialogue: 0,0:21:46.34,0:21:50.44,English,,0,0,0,,because because I because at home I I'm living my dad\N{\rChinese}因为因为我在家里，我在照顾我爸
+Dialogue: 0,0:21:50.44,0:21:53.32,English,,0,0,0,,and my dad is in his early 80s and\N{\rChinese}我爸现在八十多岁，且
+Dialogue: 0,0:21:53.32,0:21:55.22,English,,0,0,0,,as I said previously he's had this\N{\rChinese}正如我之前所说，他有这个
+Dialogue: 0,0:21:55.22,0:21:59.04,English,,0,0,0,,terrible life ten years ago\N{\rChinese}十年前的那段糟糕生活
+Dialogue: 0,0:21:59.04,0:22:03.82,English,,0,0,0,,he got diagnosed with Parkinson's five years ago he had a bad fall\N{\rChinese}他在五年前被诊断为帕金森病，随后在洗手间跌倒
+Dialogue: 0,0:22:03.82,0:22:07.88,English,,0,0,0,,while using the bathroom\N{\rChinese}他在洗手间跌倒后被诊断为帕金森病
+Dialogue: 0,0:22:07.88,0:22:10.50,English,,0,0,0,,and now he's paralyzed\N{\rChinese}他现在已经瘫痪
+Dialogue: 0,0:22:10.50,0:22:12.98,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:22:12.98,0:22:15.22,English,,0,0,0,,we really thought five years ago that\N{\rChinese}我们真的以为五年前的事，认为他只剩几个月的时间
+Dialogue: 0,0:22:15.22,0:22:18.04,English,,0,0,0,,was it he had a few months to live but\N{\rChinese}was it he had a few months to live but
+Dialogue: 0,0:22:18.04,0:22:20.38,English,,0,0,0,,he's still going and so\N{\rChinese}他还在继续，顺便说一句
+Dialogue: 0,0:22:20.38,0:22:23.82,English,,0,0,0,,he has Parkinson's he's basically paralyzed and\N{\rChinese}他患帕金森病，基本瘫痪，且
+Dialogue: 0,0:22:23.82,0:22:27.18,English,,0,0,0,,he's living his best life\N{\rChinese}他正过着最好的生活
+Dialogue: 0,0:22:27.18,0:22:32.40,English,,0,0,0,,always life he's worked slave wages minimum wage\N{\rChinese}总是过着劳工的生活，工资是最低工资
+Dialogue: 0,0:22:32.40,0:22:37.18,English,,0,0,0,,and now he's collecting a very generous pension from the Canadian government it's free money for him\N{\rChinese}现在他从加拿大政府领取一笔丰厚的养老金，对他来说是免费的钱
+Dialogue: 0,0:22:38.10,0:22:39.40,English,,0,0,0,,he has access to the internet he's able to get to work he's able to get to work\N{\rChinese}他可以上网，能去工作，能去工作
+Dialogue: 0,0:22:39.40,0:22:44.70,English,,0,0,0,,to the best health care honestly if we had to pay for the health care we couldn't afford it\N{\rChinese}到最好的医疗保健，老实说如果我们得付钱，我们付不起。
+Dialogue: 0,0:22:44.70,0:22:47.32,English,,0,0,0,,and he would have died five years ago but not because\N{\rChinese}他本来五年前就会死，但不是因为……
+Dialogue: 0,0:22:47.32,0:22:50.14,English,,0,0,0,,it's all being paid by the Canadian government he\N{\rChinese}全都由加拿大政府支付。
+Dialogue: 0,0:22:50.14,0:22:53.66,English,,0,0,0,,spent six months at a really nice hospital with\N{\rChinese}花了六个月在一家很好的医院里，每天都有自己的病房
+Dialogue: 0,0:22:53.66,0:22:58.20,English,,0,0,0,,his own room every day a physical therapist comes to the house\N{\rChinese}物理治疗师每天来家里帮他恢复肌肉控制
+Dialogue: 0,0:22:58.20,0:23:01.50,English,,0,0,0,,and helps him regain some some muscle control\N{\rChinese}and helps him regain some some muscle control
+Dialogue: 0,0:23:01.50,0:23:04.18,English,,0,0,0,,and does some cleaning for him\N{\rChinese}并为他做些清洁工作
+Dialogue: 0,0:23:04.18,0:23:06.08,English,,0,0,0,,and\N{\rChinese}并且
+Dialogue: 0,0:23:06.08,0:23:09.18,English,,0,0,0,,really it's his best life and\N{\rChinese}真的这才是他最好的生活
+Dialogue: 0,0:23:09.18,0:23:13.08,English,,0,0,0,,his best friend\N{\rChinese}他的最佳朋友
+Dialogue: 0,0:23:13.08,0:23:17.74,English,,0,0,0,,and he's made some some money for some of his family and some of his friends and some of his friends\N{\rChinese}他为他的家人和朋友赚了一些钱
+Dialogue: 0,0:23:17.74,0:23:21.02,English,,0,0,0,,and some of his friends and some of his family and some of his friends and some of his friends and some of his family and some of his friends and some of his family\N{\rChinese}他为他的朋友和家人赚了一些钱
+Dialogue: 0,0:23:21.02,0:23:24.02,English,,0,0,0,,and some of his friends and some of his friends and some of his family\N{\rChinese}并且他的朋友们、朋友们和家人
+Dialogue: 0,0:23:24.02,0:23:27.02,English,,0,0,0,,and some of his friends and some of his family and some of his friends and some of his family and\N{\rChinese}并且他的朋友们、家人、朋友们和家人
+Dialogue: 0,0:23:27.02,0:23:30.48,English,,0,0,0,,some of his friends and some of his friends and\N{\rChinese}他的朋友们、朋友们
+Dialogue: 0,0:23:30.48,0:23:33.68,English,,0,0,0,,some of his family and some of his friends and some of his friends\N{\rChinese}他的家人和朋友们以及朋友们
+Dialogue: 0,0:23:33.68,0:23:36.66,English,,0,0,0,,and some of his family and some of his friends and\N{\rChinese}他的家人和朋友们以及
+Dialogue: 0,0:23:36.66,0:23:39.84,English,,0,0,0,,some of his understand why because he's been through so much crap\N{\rChinese}他明白为什么，因为他经历了这么多事
+Dialogue: 0,0:23:39.84,0:23:44.74,English,,0,0,0,,and now he can really begin to enjoy himself this is really heaven on earth for him\N{\rChinese}于是他终于可以真正享受生活了，对他来说这简直是人间天堂
+Dialogue: 0,0:23:44.74,0:23:47.36,English,,0,0,0,,so he doesn't want he doesn't want to die okay but\N{\rChinese}于是他不想再死，嗯，但
+Dialogue: 0,0:23:47.36,0:23:51.74,English,,0,0,0,,it's not just him it's the entire generation of baby boomers millions\N{\rChinese}这不只是他一个人，而是整个婴儿潮一代人，数以百万计
+Dialogue: 0,0:23:51.74,0:23:53.76,English,,0,0,0,,and millions of them and\N{\rChinese}和数百万人一起，且在加拿大他们占人口的四分之一，所以他们掌握了所有政治权力，他们掌握了所有财富，因此…
+Dialogue: 0,0:23:53.76,0:23:56.60,English,,0,0,0,,in Canada they're they're a quarter of the population so\N{\rChinese}在加拿大他们占人口的四分之一，所以他们掌握了所有政治权力，他们掌握了所有财富，因此…
+Dialogue: 0,0:23:56.60,0:24:00.38,English,,0,0,0,,they control all the political power they control all the wealth and therefore\N{\rChinese}在加拿大他们占人口的四分之一，所以他们掌握了所有政治权力，他们掌握了所有财富，因此…
+Dialogue: 0,0:24:00.38,0:24:03.48,English,,0,0,0,,they can dictate government policy I have a friend\N{\rChinese}他们可以决定政府政策，我有个朋友
+Dialogue: 0,0:24:03.48,0:24:05.84,English,,0,0,0,,in New York City a very famous\N{\rChinese}在纽约市，一个非常有名气的人
+Dialogue: 0,0:24:05.84,0:24:10.34,English,,0,0,0,,person extremely wealthy like tens of millions of dollars\N{\rChinese}极其富有，手握数千万美元
+Dialogue: 0,0:24:10.34,0:24:13.40,English,,0,0,0,,and she's 90\N{\rChinese}她90岁了
+Dialogue: 0,0:24:13.40,0:24:16.34,English,,0,0,0,,and she has Alzheimer's and\N{\rChinese}她患有阿尔茨海默症
+Dialogue: 0,0:24:16.34,0:24:18.64,English,,0,0,0,,she can't walk most of the\N{\rChinese}她大部分时间都不能走路
+Dialogue: 0,0:24:18.64,0:24:23.00,English,,0,0,0,,time she's sleeping she's semi comatose basically\N{\rChinese}她睡着的时候基本半昏迷睡眠状态
+Dialogue: 0,0:24:23.00,0:24:28.46,English,,0,0,0,,and I thought you know any day now she could die\N{\rChinese}我想过这天她会死去
+Dialogue: 0,0:24:28.46,0:24:32.02,English,,0,0,0,,but I've been thinking that for the past 10 years and one day I asked my cousin who's a doctor\N{\rChinese}我已经想了十年零一天
+Dialogue: 0,0:24:33.28,0:24:35.36,English,,0,0,0,,if you're 90 years old and\N{\rChinese}如果你90岁了，且是老年痴呆，阿尔茨海默，卧床不起床
+Dialogue: 0,0:24:35.36,0:24:38.12,English,,0,0,0,,you're senile you have Alzheimer's you can't get out of bed\N{\rChinese}但…
+Dialogue: 0,0:24:38.12,0:24:39.34,English,,0,0,0,,but\N{\rChinese}but
+Dialogue: 0,0:24:39.34,0:24:43.26,English,,0,0,0,,you have unlimited wealth how long can\N{\rChinese}你有无限财富，能维持多久？
+Dialogue: 0,0:24:43.26,0:24:47.32,English,,0,0,0,,modern medicine keep you going like how long can you survive yes\N{\rChinese}现代医学能让你继续多久？是的，能活多久？
+Dialogue: 0,0:24:47.32,0:24:50.28,English,,0,0,0,,and she has like four full -time caregivers to make sure\N{\rChinese}她还有四位全职看护，确保……
+Dialogue: 0,0:24:50.28,0:24:53.80,English,,0,0,0,,that you know she's taking care of and\N{\rChinese}那你知道她正在照料的事儿
+Dialogue: 0,0:24:53.80,0:24:56.96,English,,0,0,0,,my cousin the doctor said to me she can go\N{\rChinese}我的表弟医生跟我说她还能再活二十年
+Dialogue: 0,0:24:56.96,0:25:00.82,English,,0,0,0,,on for another 20 years at least another 20 years at least\N{\rChinese}再再二十年
+Dialogue: 0,0:25:00.82,0:25:02.80,English,,0,0,0,,so these baby boomers are\N{\rChinese}于是这批婴儿潮人就这样了
+Dialogue: 0,0:25:03.28,0:25:07.32,English,,0,0,0,,not dying okay so the baby boomers have captured all the wealth of society\N{\rChinese}婴儿潮人已经把社会财富全部占据了
+Dialogue: 0,0:25:07.32,0:25:11.60,English,,0,0,0,,and they refuse to share any of it\N{\rChinese}他们不愿意分享任何财富
+Dialogue: 0,0:25:11.60,0:25:14.30,English,,0,0,0,,because of their achievement ethos and they're not dying\N{\rChinese}因为他们的成就精神而不死去
+Dialogue: 0,0:25:14.30,0:25:17.38,English,,0,0,0,,so but but\N{\rChinese}于是但但
+Dialogue: 0,0:25:17.38,0:25:19.86,English,,0,0,0,,then there's actually a much bigger problem which is that\N{\rChinese}然后实际上更大的问题是
+Dialogue: 0,0:25:19.86,0:25:22.40,English,,0,0,0,,baby boomers are wedded to the idea of empire\N{\rChinese}婴儿潮人已深陷帝国观念
+Dialogue: 0,0:25:22.40,0:25:25.88,English,,0,0,0,,last year I was in Brooklyn visiting some\N{\rChinese}去年我在布鲁克林拜访朋友
+Dialogue: 0,0:25:25.88,0:25:28.86,English,,0,0,0,,friends I got invited to a party\N{\rChinese}我受邀参加一场派对
+Dialogue: 0,0:25:28.86,0:25:32.16,English,,0,0,0,,and they and this party was full of China experts so\N{\rChinese}并且这场派对满是中国专家，所以…
+Dialogue: 0,0:25:32.16,0:25:35.28,English,,0,0,0,,apparently every China expert in in the world is from Brooklyn\N{\rChinese}显然世界上所有的中国专家都来自布鲁克林
+Dialogue: 0,0:25:35.28,0:25:38.18,English,,0,0,0,,so after covid when\N{\rChinese}于是疫情后他们被迫离开中国，随后全部回到布鲁克林
+Dialogue: 0,0:25:38.18,0:25:42.08,English,,0,0,0,,they were forced out of China they had they all returned to Brooklyn\N{\rChinese}they were forced out of China theyhad they all returned to Brooklyn
+Dialogue: 0,0:25:42.08,0:25:45.00,English,,0,0,0,,and so I met all of them at this party and\N{\rChinese}于是我在这场派对里见到了他们所有人，我和一位非常非常非常富有的女士交谈。
+Dialogue: 0,0:25:45.00,0:25:50.32,English,,0,0,0,,I was talking to one lady very very very wealthy comes from a very powerful family\N{\rChinese}我和她单独谈话，我把我对美国政治体系的私下担忧说给她听。
+Dialogue: 0,0:25:50.32,0:25:52.86,English,,0,0,0,,and I and\N{\rChinese}我和
+Dialogue: 0,0:25:52.86,0:25:55.78,English,,0,0,0,,she was a baby boomer and I and\N{\rChinese}她是婴儿潮一代，我和
+Dialogue: 0,0:25:55.78,0:25:59.98,English,,0,0,0,,I talked I discussed with her we're talking individually one\N{\rChinese}我跟她谈了，我单独讨论了，我说了我的想法
+Dialogue: 0,0:25:59.98,0:26:02.70,English,,0,0,0,,-on -one I was I said to privately my fears about\N{\rChinese}我说了我的想法
+Dialogue: 0,0:26:03.28,0:26:07.34,English,,0,0,0,,the American political system I said my fear is\N{\rChinese}我说我的担忧是：美国政治体系
+Dialogue: 0,0:26:07.34,0:26:11.48,English,,0,0,0,,that given the trajectory of American foreign policy\N{\rChinese}给定美国外交政策的轨迹
+Dialogue: 0,0:26:11.48,0:26:17.02,English,,0,0,0,,which which which is like extremely non -existent I said there's a danger\N{\rChinese}哪一边哪一边哪一边像极其不存在，我说有个危险
+Dialogue: 0,0:26:17.02,0:26:18.02,English,,0,0,0,,that\N{\rChinese}那
+Dialogue: 0,0:26:18.02,0:26:21.70,English,,0,0,0,,America could be fighting wars on three\N{\rChinese}美国可能在三场战斗中作战
+Dialogue: 0,0:26:21.70,0:26:26.42,English,,0,0,0,,major fronts America could be fighting simultaneously Russia Iran\N{\rChinese}美国可能同时在俄国、伊朗和中国的主要战场上作战
+Dialogue: 0,0:26:26.42,0:26:28.78,English,,0,0,0,,and China and then she looked at me and\N{\rChinese}然后她看着我说：没问题，我们是美国，必不可缺的。
+Dialogue: 0,0:26:28.78,0:26:32.66,English,,0,0,0,,said that's fine we're America we're in the indispensable\N{\rChinese}said that's fine we're America we're in the indispensable
+Dialogue: 0,0:26:33.28,0:26:36.60,English,,0,0,0,,nation we can do this we can take on all three\N{\rChinese}我们可以做到，能同时攻克三者
+Dialogue: 0,0:26:36.60,0:26:39.12,English,,0,0,0,,and defeat all three does not matter okay\N{\rChinese}再战三者，胜之无碍，行吧
+Dialogue: 0,0:26:39.12,0:26:43.20,English,,0,0,0,,that's the arrogance of Empire all right\N{\rChinese}这就是帝国的自负
+Dialogue: 0,0:26:43.20,0:26:46.04,English,,0,0,0,,so let me give you an image of what Empire is\N{\rChinese}于是让我给你描绘帝国的形象
+Dialogue: 0,0:26:46.04,0:26:47.02,English,,0,0,0,,and\N{\rChinese}以及
+Dialogue: 0,0:26:47.02,0:26:49.84,English,,0,0,0,,for this image I'm going to draw on the play the back\N{\rChinese}为此图像，我将用《回归》这剧来绘制
+Dialogue: 0,0:26:49.84,0:26:53.00,English,,0,0,0,,high from Eupatius if you have not read you pick Eupatius\N{\rChinese}Eupatius的《回归》如果你还没读过，赶紧去读
+Dialogue: 0,0:26:53.00,0:26:56.78,English,,0,0,0,,you must read Eupatius one of the greatest playwrights in human history\N{\rChinese}你一定要读Eupatius，他是人类历史上最伟大的剧作家之一
+Dialogue: 0,0:26:56.78,0:27:02.30,English,,0,0,0,,so he wrote uh the play the back high about the year um\N{\rChinese}于是他写下了《回归》这部剧，讲述那一年…
+Dialogue: 0,0:27:03.28,0:27:08.74,English,,0,0,0,,um do it uh BC this is this is like um after the Peloponnesian war\N{\rChinese}嗯，做吧，呃，B.C.这件事就像是呃，发生在伯罗奔尼撒战争之后
+Dialogue: 0,0:27:08.74,0:27:12.34,English,,0,0,0,,when Athens the Athenian Empire\N{\rChinese}当雅典的雅典帝国
+Dialogue: 0,0:27:12.34,0:27:16.30,English,,0,0,0,,which had become basically a mafia state basically decided to go to war against the entire world\N{\rChinese}那时已经基本变成了一个黑手党国家，决定对整个世界发动战争
+Dialogue: 0,0:27:16.30,0:27:19.00,English,,0,0,0,,and thousands and\N{\rChinese}和成千人，
+Dialogue: 0,0:27:19.00,0:27:24.28,English,,0,0,0,,thousands of the young people died in these wars of Empire\N{\rChinese}成千名年轻人死在帝国的战争里，
+Dialogue: 0,0:27:24.28,0:27:30.12,English,,0,0,0,,and so uh Eupatius wrote the back high almost as a critique of Empire\N{\rChinese}于是尤帕提乌斯写下《回归》作为对帝国的批判
+Dialogue: 0,0:27:30.12,0:27:32.90,English,,0,0,0,,and so the ending of the back high goes\N{\rChinese}于是《回归》的结尾是这样的
+Dialogue: 0,0:27:33.28,0:27:37.88,English,,0,0,0,,like this um there's a religious festival in the mountains\N{\rChinese}像这样，山里有一个宗教节日
+Dialogue: 0,0:27:37.88,0:27:42.06,English,,0,0,0,,and these women are all drugged out okay they're hallucinating\N{\rChinese}这些妇女都被药晕，正好在幻觉中
+Dialogue: 0,0:27:42.06,0:27:43.48,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:27:43.48,0:27:46.74,English,,0,0,0,,as part of the religious festival they sacrifice\N{\rChinese}作为宗教节日的一部分，他们祭祀
+Dialogue: 0,0:27:46.74,0:27:50.90,English,,0,0,0,,a man who's the king of thieves Pantheist\N{\rChinese}一位是盗贼之王的男子
+Dialogue: 0,0:27:50.90,0:27:52.44,English,,0,0,0,,and so\N{\rChinese}于是……
+Dialogue: 0,0:27:52.44,0:27:55.24,English,,0,0,0,,what they do is they capture him they rip him apart\N{\rChinese}他们抓住他，撕开他……
+Dialogue: 0,0:27:55.24,0:28:00.64,English,,0,0,0,,okay they physically rip him apart they rip up the limbs they rip up the legs they dismember him\N{\rChinese}他们把他撕成碎片
+Dialogue: 0,0:28:00.64,0:28:02.44,English,,0,0,0,,and the person who\N{\rChinese}和那个人
+Dialogue: 0,0:28:02.44,0:28:07.12,English,,0,0,0,,rips off his head is actually his mother Agave\N{\rChinese}把他头剥下来的其实是他的母亲阿伽维
+Dialogue: 0,0:28:07.12,0:28:12.34,English,,0,0,0,,and after she does this she becomes ecstatic\N{\rChinese}随后她兴奋地完成了这一动作
+Dialogue: 0,0:28:12.34,0:28:14.42,English,,0,0,0,,and she takes the head and\N{\rChinese}她把头拿起并且
+Dialogue: 0,0:28:14.42,0:28:17.36,English,,0,0,0,,she runs back to the city of Thebes\N{\rChinese}她跑回底比斯城
+Dialogue: 0,0:28:17.36,0:28:21.12,English,,0,0,0,,and she proclaims to the citizens look at what I've done\N{\rChinese}并向市民宣告：看看我所做的
+Dialogue: 0,0:28:21.12,0:28:27.04,English,,0,0,0,,and she's holding the head of her son Pentheus in her right hand\N{\rChinese}她右手握着儿子潘特乌斯的头颅
+Dialogue: 0,0:28:27.04,0:28:29.62,English,,0,0,0,,and she's saying to everyone this is a lion's head\N{\rChinese}她对众人说这是狮子的头颅
+Dialogue: 0,0:28:29.62,0:28:33.00,English,,0,0,0,,you see how brave you see how powerful\N{\rChinese}你看我多勇敢，你看我多强大
+Dialogue: 0,0:28:33.00,0:28:36.16,English,,0,0,0,,you see how virtuous I am for fighting a lion\N{\rChinese}你看我多么有德，敢与狮搏斗
+Dialogue: 0,0:28:36.16,0:28:38.60,English,,0,0,0,,and ripping his head off\N{\rChinese}并把它的头剖开
+Dialogue: 0,0:28:38.60,0:28:43.20,English,,0,0,0,,and then everyone looks at her aghast they don't believe\N{\rChinese}随后众人惊叹，皆不敢信
+Dialogue: 0,0:28:43.20,0:28:46.02,English,,0,0,0,,that this is that she can't see the truth\N{\rChinese}那是那件事，她看不见真相
+Dialogue: 0,0:28:46.02,0:28:47.82,English,,0,0,0,,and so\N{\rChinese}于是如此
+Dialogue: 0,0:28:47.82,0:28:51.50,English,,0,0,0,,finally her father Katmiss has\N{\rChinese}终于她父亲卡特米斯
+Dialogue: 0,0:28:51.50,0:28:54.96,English,,0,0,0,,to tell her Agave that's not a lion's\N{\rChinese}告诉她阿加维，那不是狮头，正是你儿子的头
+Dialogue: 0,0:28:54.96,0:28:58.12,English,,0,0,0,,head that's just that's the head of your son\N{\rChinese}于是这就是帝国的模样，若你想知其形状，便可如此了解。
+Dialogue: 0,0:28:58.12,0:29:02.68,English,,0,0,0,,so that's what an empire is okay if you want to know what an empire is\N{\rChinese}so that's what an empire is okay ifyou want to know what an empire is
+Dialogue: 0,0:29:03.32,0:29:05.80,English,,0,0,0,,remember the image of a mother\N{\rChinese}记住母亲的身影
+Dialogue: 0,0:29:05.80,0:29:10.80,English,,0,0,0,,holding the head of her son\N{\rChinese}抱着儿子头颅的画面
+Dialogue: 0,0:29:10.80,0:29:12.64,English,,0,0,0,,and\N{\rChinese}以及
+Dialogue: 0,0:29:12.64,0:29:18.14,English,,0,0,0,,proclaiming the world look how brave powerful\N{\rChinese}宣布世界，看我多勇敢多强大
+Dialogue: 0,0:29:18.14,0:29:23.70,English,,0,0,0,,and virtuous I am an empire is a system where\N{\rChinese}而且多德行，我是一个帝国是一个系统，那里老者为荣耀牺牲年轻人
+Dialogue: 0,0:29:23.70,0:29:29.66,English,,0,0,0,,the old sacrifice the young for their glory that's what an empire is\N{\rChinese}这就是帝国的模样
+Dialogue: 0,0:29:29.66,0:29:33.82,English,,0,0,0,,and that's what the baby boomers want they grew up in\N{\rChinese}以及这就是婴儿潮想要的，他们在美洲和平时期长大
+Dialogue: 0,0:29:33.82,0:29:36.40,English,,0,0,0,,a time of the Pax Americana they don't\N{\rChinese}他们不想看到它在死亡中消亡。】
+Dialogue: 0,0:29:36.40,0:29:38.98,English,,0,0,0,,want to see it die in\N{\rChinese}\}
+Dialogue: 0,0:29:38.98,0:29:42.20,English,,0,0,0,,their lifetimes they rather burn\N{\rChinese}他们的寿命更愿把整个帝国烧成灰烬
+Dialogue: 0,0:29:42.20,0:29:47.78,English,,0,0,0,,down the entire empire they rather sacrifice their own children\N{\rChinese}他们更愿把自己的孩子和孙子献祭
+Dialogue: 0,0:29:47.78,0:29:50.86,English,,0,0,0,,and their grandchildren than to lose\N{\rChinese}而不是失去
+Dialogue: 0,0:29:50.86,0:29:54.16,English,,0,0,0,,the idea of empire\N{\rChinese}帝国的概念
+Dialogue: 0,0:29:54.16,0:29:57.22,English,,0,0,0,,while they're alive and\N{\rChinese}在他们在世时
+Dialogue: 0,0:29:57.36,0:30:00.36,English,,0,0,0,,they're dead so that's why the baby\N{\rChinese}在他们去世时
+Dialogue: 0,0:30:00.36,0:30:04.82,English,,0,0,0,,boomers have basically told the American\N{\rChinese}波莫人基本上让美国政府发动这些战争，来维护世界和平秩序
+Dialogue: 0,0:30:04.82,0:30:08.76,English,,0,0,0,,government to launch these wars around the world to save the Pax Americana\N{\rChinese}因为那是他们成长的体系，也是他们想要死去的体系
+Dialogue: 0,0:30:08.76,0:30:12.48,English,,0,0,0,,because that's the system they grew up in that's a system they want to die in\N{\rChinese}because that's the system they grew upin that's a system they want to die in
+Dialogue: 0,0:30:12.96,0:30:18.16,English,,0,0,0,,the Pax Americana the Anglo -American Empire they want to feel virtuous\N{\rChinese}美利协和英美帝国，他们想要感到光荣
+Dialogue: 0,0:30:19.68,0:30:23.52,English,,0,0,0,,powerful and strong okay\N{\rChinese}强大而有力，好的
+Dialogue: 0,0:30:23.52,0:30:29.30,English,,0,0,0,,and they don't care if they have to burn down the world in order to do\N{\rChinese}他们不在乎要把世界烧成灰烬
+Dialogue: 0,0:30:29.30,0:30:32.24,English,,0,0,0,,so and so the question then\N{\rChinese}于是，问题是……
+Dialogue: 0,0:30:32.24,0:30:35.56,English,,0,0,0,,is what can we do well you think about it there's nothing we can do\N{\rChinese}我想了想，答案是：我们能做什么？我想想……
+Dialogue: 0,0:30:35.56,0:30:40.48,English,,0,0,0,,because as I said the baby boomers are the most dominant political group\N{\rChinese}正如我所说，婴儿波莫人是最具统治力的政治集团
+Dialogue: 0,0:30:40.86,0:30:43.66,English,,0,0,0,,in the Western world they control the political\N{\rChinese}在西方世界，他们掌握政治体系
+Dialogue: 0,0:30:43.66,0:30:48.96,English,,0,0,0,,system they control the financial system they can control the cultural system they\N{\rChinese}他们掌握财政体系，他们可以掌握文化体系，他们……
+Dialogue: 0,0:30:48.96,0:30:52.12,English,,0,0,0,,and they're our parents they're the\N{\rChinese}而且他们是我们的父母，他们是……
+Dialogue: 0,0:30:52.12,0:30:55.70,English,,0,0,0,,people we we love\N{\rChinese}人们，我们爱
+Dialogue: 0,0:30:55.70,0:30:57.02,English,,0,0,0,,and honor and love and love and love and love and love and love and love and love and love and\N{\rChinese}并且荣耀与爱与爱与爱与爱与爱与爱与爱与爱与爱
+Dialogue: 0,0:30:57.02,0:30:59.90,English,,0,0,0,,cherish I I'm not gonna say to\N{\rChinese}珍惜，我不打算说
+Dialogue: 0,0:30:59.90,0:31:01.52,English,,0,0,0,,my father hey dad\N{\rChinese}我的父亲，嘿，爸爸
+Dialogue: 0,0:31:01.52,0:31:06.74,English,,0,0,0,,you're paralyzed your life\N{\rChinese}你已经麻痹了，你的生活
+Dialogue: 0,0:31:06.74,0:31:09.42,English,,0,0,0,,doesn't have any meaning anymore and\N{\rChinese}已无意义，且……
+Dialogue: 0,0:31:09.42,0:31:14.06,English,,0,0,0,,maybe it's time for you to rest in peace and and so that the\N{\rChinese}也许是时候让你安息，且……
+Dialogue: 0,0:31:16.62,0:31:19.52,English,,0,0,0,,rest of the world the\N{\rChinese}剩下的世界，的
+Dialogue: 0,0:31:19.52,0:31:23.20,English,,0,0,0,,young can have their place\N{\rChinese}年轻人可以占据他们的位置
+Dialogue: 0,0:31:23.20,0:31:26.48,English,,0,0,0,,so one metaphor that\N{\rChinese}于是我想用一个比喻来形容我们所处的世界
+Dialogue: 0,0:31:26.48,0:31:28.04,English,,0,0,0,,I think best describes the world we live\N{\rChinese}我认为最合适的比喻是
+Dialogue: 0,0:31:28.04,0:31:32.26,English,,0,0,0,,in is rat utopia rat utopia\N{\rChinese}在是鼠乌托邦鼠乌托邦
+Dialogue: 0,0:31:32.26,0:31:37.10,English,,0,0,0,,are series of experiments conducted by James B Calhoun in the 60s\N{\rChinese}是詹姆斯·B·卡尔霍恩在60年代进行的一系列实验
+Dialogue: 0,0:31:37.10,0:31:38.86,English,,0,0,0,,and 70s and\N{\rChinese}和70年代以及
+Dialogue: 0,0:31:38.86,0:31:43.24,English,,0,0,0,,this was a time of growing abundance in the world\N{\rChinese}那是世界日益丰盛的时代
+Dialogue: 0,0:31:43.24,0:31:45.84,English,,0,0,0,,and this this is the first time in human history when\N{\rChinese}以及这就是人类历史上第一次摆脱了稀缺之困
+Dialogue: 0,0:31:45.84,0:31:48.46,English,,0,0,0,,we escaped scarcity the problem of scarcity so\N{\rChinese}我们想要去看看若在丰盛之世会怎样
+Dialogue: 0,0:31:48.46,0:31:52.52,English,,0,0,0,,we wanted to look at what would\N{\rChinese}于是我们开始做这些实验，建立这些殖民
+Dialogue: 0,0:31:52.52,0:31:56.86,English,,0,0,0,,happen if we looked if we lived in a world of the problem of scarcity so\N{\rChinese}我们想要去看看若在丰盛之世会怎样
+Dialogue: 0,0:31:56.86,0:31:58.68,English,,0,0,0,,we wanted to look at what would happen if we lived in a world of abundance so\N{\rChinese}于是我们开始做这些实验，建立这些殖民
+Dialogue: 0,0:31:58.68,0:32:01.74,English,,0,0,0,,it created these experiments these colonies\N{\rChinese}it created these experiments these colonies
+Dialogue: 0,0:32:01.74,0:32:02.76,English,,0,0,0,,where\N{\rChinese}在
+Dialogue: 0,0:32:02.76,0:32:05.96,English,,0,0,0,,rats were allowed to live in a world of\N{\rChinese}老鼠被允许在丰盛之世界中生活时
+Dialogue: 0,0:32:05.96,0:32:09.68,English,,0,0,0,,abundance there were no predators there was unlimited water\N{\rChinese}没有天敌，水源无穷
+Dialogue: 0,0:32:09.68,0:32:12.28,English,,0,0,0,,and food and\N{\rChinese}和食物以及
+Dialogue: 0,0:32:12.28,0:32:16.38,English,,0,0,0,,what happened each time he did this experiment and\N{\rChinese}发生了什么，每次他做这个实验时以及
+Dialogue: 0,0:32:16.38,0:32:21.96,English,,0,0,0,,no matter how he tweaked experiment the result was the same what happened was the social hierarchy\N{\rChinese}无论他如何调整实验，结果相同，发生的是社会层级
+Dialogue: 0,0:32:21.96,0:32:25.68,English,,0,0,0,,that governed the rat colony\N{\rChinese}统治老鼠群落的规则
+Dialogue: 0,0:32:32.54,0:32:33.46,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:32:33.46,0:32:35.94,English,,0,0,0,,there's some some some some some some some some some some some\N{\rChinese}还有一些
+Dialogue: 0,0:32:35.94,0:32:37.06,English,,0,0,0,,some some some some some some some some some some\N{\rChinese}一些
+Dialogue: 0,0:32:37.06,0:32:42.64,English,,0,0,0,,some some some some some some some some some some some some\N{\rChinese}一些
+Dialogue: 0,0:32:42.64,0:32:43.92,English,,0,0,0,,some some some some some some some some some some some some some some some some some some some some some some some some some some some some some some some some some\N{\rChinese}一些
+Dialogue: 0,0:32:43.92,0:32:47.74,English,,0,0,0,,some some some some some some some some some some some some some some some some some some some some some some some some some some some some some some some\N{\rChinese}一些
+Dialogue: 0,0:32:47.74,0:32:54.04,English,,0,0,0,,some some\N{\rChinese}一些
+Dialogue: 0,0:32:54.04,0:32:59.22,English,,0,0,0,,ultimately it led to the collapse of of the rat colony\N{\rChinese}最终导致老鼠群落的崩溃
+Dialogue: 0,0:32:59.22,0:33:00.68,English,,0,0,0,,and the extermination of all the rats\N{\rChinese}并且灭绝所有老鼠
+Dialogue: 0,0:33:01.78,0:33:05.44,English,,0,0,0,,and he struggled with this all his life\N{\rChinese}他一生都在为此苦战
+Dialogue: 0,0:33:05.44,0:33:09.20,English,,0,0,0,,and he could never he could never really find the answer as to why this was happening\N{\rChinese}他始终未能真正找到为何之因
+Dialogue: 0,0:33:09.20,0:33:10.86,English,,0,0,0,,and the only thing that\N{\rChinese}和唯一的事物
+Dialogue: 0,0:33:10.86,0:33:14.50,English,,0,0,0,,he could hypothesize is maybe\N{\rChinese}他能假设的也许是
+Dialogue: 0,0:33:14.50,0:33:17.46,English,,0,0,0,,water can be infinite\N{\rChinese}水可以是无限的
+Dialogue: 0,0:33:17.46,0:33:22.30,English,,0,0,0,,maybe security food luxury\N{\rChinese}可能是安全、食物、奢侖
+Dialogue: 0,0:33:22.30,0:33:25.24,English,,0,0,0,,maybe all can be provided infinitely but\N{\rChinese}可能一切都能无限提供，但……
+Dialogue: 0,0:33:25.24,0:33:28.88,English,,0,0,0,,one thing that is not infinite one thing that is a zero -sum game is the idea of status\N{\rChinese}唯一不无限的，零和游戏的就是地位的概念
+Dialogue: 0,0:33:28.88,0:33:30.58,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:33:30.58,0:33:34.06,English,,0,0,0,,it's in it's we are ingrained or\N{\rChinese}它在我们身上根深蒂固，或者说是…
+Dialogue: 0,0:33:34.06,0:33:39.44,English,,0,0,0,,sorry it's the desire for status is inherent to us we strive for status\N{\rChinese}抱歉，追求地位的欲望本身就是我们内在的，我们追求地位。
+Dialogue: 0,0:33:39.44,0:33:45.36,English,,0,0,0,,so normally in the state of nature um rats will fight each other for status\N{\rChinese}于是，天然状态下，老鼠会互相争夺地位
+Dialogue: 0,0:33:45.36,0:33:46.60,English,,0,0,0,,and the rats who lose tend to be the ones who\N{\rChinese}而失去地位的老鼠往往是那些……
+Dialogue: 0,0:33:46.60,0:33:48.98,English,,0,0,0,,lose some of the control over some of the control\N{\rChinese}失去控制权的那部分……
+Dialogue: 0,0:33:48.98,0:33:53.16,English,,0,0,0,,over some of the control over some of the control\N{\rChinese}在某些控制之上再有某些控制
+Dialogue: 0,0:33:55.18,0:34:00.72,English,,0,0,0,,over some of the control over some of the control over some\N{\rChinese}在某些控制之上再有某些控制再有某些
+Dialogue: 0,0:34:00.72,0:34:04.40,English,,0,0,0,,of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some\N{\rChinese}在某些控制之上再有某些控制，再有某些控制，再有某些控制
+Dialogue: 0,0:34:04.40,0:34:08.16,English,,0,0,0,,of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over some of the control over\N{\rChinese}在某些控制之上再有某些控制再有某些控制
+Dialogue: 0,0:34:08.16,0:34:12.00,English,,0,0,0,,some of the control over some of\N{\rChinese}某些控制之上再有某些
+Dialogue: 0,0:34:12.00,0:34:15.42,English,,0,0,0,,the control over some of the control over\N{\rChinese}控制之上再有某些控制
+Dialogue: 0,0:34:15.42,0:34:19.30,English,,0,0,0,,some of the control the limited positions of power and status.\N{\rChinese}某些控制、有限的权力与地位。
+Dialogue: 0,0:34:20.02,0:34:23.20,English,,0,0,0,,And so we're living in rat utopia.\N{\rChinese}于是我们住在老鼠的乌托邦。
+Dialogue: 0,0:34:23.40,0:34:24.72,English,,0,0,0,,And quite honestly,\N{\rChinese}而且说实话，
+Dialogue: 0,0:34:24.92,0:34:30.00,English,,0,0,0,,this is why young people now refuse to have children.\N{\rChinese}这就是年轻人现在不愿意生孩子的原因。
+Dialogue: 0,0:34:30.10,0:34:31.46,English,,0,0,0,,It's not just because\N{\rChinese}这不只是因为
+Dialogue: 0,0:34:31.46,0:34:35.80,English,,0,0,0,,the economic opportunities for young people are very limited,\N{\rChinese}年轻人的经济机会非常有限
+Dialogue: 0,0:34:35.88,0:34:39.18,English,,0,0,0,,are very pessimistic, and they are.\N{\rChinese}很悲观，且确实如此。
+Dialogue: 0,0:34:39.34,0:34:43.98,English,,0,0,0,,The real reason is the baby boomers refuse to give up their status.\N{\rChinese}真正原因是婴儿潮人不愿放弃其地位。
+Dialogue: 0,0:34:44.24,0:34:48.26,English,,0,0,0,,Think about the politicians in Washington DC.\N{\rChinese}想想华盛顿特区的政客们。
+Dialogue: 0,0:34:49.98,0:34:53.48,English,,0,0,0,,I mean like many of them,\N{\rChinese}我说的是像他们中的许多人。
+Dialogue: 0,0:34:53.60,0:34:56.34,English,,0,0,0,,their brains aren't even functioning and they're still there.\N{\rChinese}他们的大脑还没运转，却还在场上。
+Dialogue: 0,0:34:57.68,0:35:02.68,English,,0,0,0,,And so we live in a time of rat utopia.\N{\rChinese}于是我们生活在鼠国乌托邦的时代。
+Dialogue: 0,0:35:02.82,0:35:06.10,English,,0,0,0,,But again, these people are the ones\N{\rChinese}但又是这些人，
+Dialogue: 0,0:35:06.10,0:35:09.00,English,,0,0,0,,who gave us birth, the ones who nurtured us, the ones\N{\rChinese}他们给了我们生命，抚育了我们，
+Dialogue: 0,0:35:09.00,0:35:10.96,English,,0,0,0,,who we must honor and cherish.\N{\rChinese}我们必须敬仰并珍爱他们。
+Dialogue: 0,0:35:11.20,0:35:14.80,English,,0,0,0,,So we can never ever blame the baby boomers for what's going on.\N{\rChinese}于是我们永远不会把正在发生的事归咎给婴儿潮人。
+Dialogue: 0,0:35:14.88,0:35:18.58,English,,0,0,0,,We blame the immigrants, or we blame the Jews, or we blame the steep state,\N{\rChinese}我们把责任推给移民，或者推给犹太人，或者推给民族国家，或者推给特朗普，或者推给特鲁多。
+Dialogue: 0,0:35:18.70,0:35:20.38,English,,0,0,0,,or we blame Trump, or we blame Justin Trudeau.\N{\rChinese}or we blame Trump, or we blame Justin Trudeau.
+Dialogue: 0,0:35:20.44,0:35:23.74,English,,0,0,0,,We never blame the real culprits who are the baby boomers.\N{\rChinese}我们从未曾把真正的罪魇归咎给婴儿潮人。
+Dialogue: 0,0:35:23.94,0:35:26.04,English,,0,0,0,,So the question then is, what can we do?\N{\rChinese}于是问题是，我们能做什么？
+Dialogue: 0,0:35:26.56,0:35:30.48,English,,0,0,0,,And so I think the only thing we can do is tell the truth.\N{\rChinese}我认为我们能做的唯一事就是说出真相。
+Dialogue: 0,0:35:30.84,0:35:32.28,English,,0,0,0,,We owe it to ourselves,\N{\rChinese}我们欠自己的，
+Dialogue: 0,0:35:32.54,0:35:35.98,English,,0,0,0,,we owe it to our children to let them know the truth.\N{\rChinese}我们欠我们的孩子，让他们知道真相。
+Dialogue: 0,0:35:36.18,0:35:38.72,English,,0,0,0,,It was not the immigrants who destroyed the West,\N{\rChinese}不是移民毁了西方。
+Dialogue: 0,0:35:38.92,0:35:42.36,English,,0,0,0,,it was not Putin or Trump or Trudeau who gave up their status.\N{\rChinese}它不是普京、特朗普或特鲁多放弃了他们的地位。
+Dialogue: 0,0:35:42.36,0:35:45.60,English,,0,0,0,,Nobody can take it away from them. Nobody can take it away from them. who destroyed the West.\N{\rChinese}谁能把它从他们手里夺走？谁能把它从他们手里夺走。谁毁了西方。
+Dialogue: 0,0:35:45.92,0:35:48.48,English,,0,0,0,,It was not the Jews. It was us.\N{\rChinese}不是犹太人。是我们。
+Dialogue: 0,0:35:48.92,0:35:51.72,English,,0,0,0,,Because we became selfish,\N{\rChinese}因为我们变得自私，懒散，腐败。
+Dialogue: 0,0:35:52.02,0:35:54.70,English,,0,0,0,,lazy, and corrupt.\N{\rChinese}那才是西方衰亡的真正原因。
+Dialogue: 0,0:35:54.94,0:35:58.12,English,,0,0,0,,That's the real reason why the West is dying\N{\rChinese}That's the real reasonwhy the West is dying
+Dialogue: 0,0:35:58.12,0:36:01.46,English,,0,0,0,,and the real reason why no one can do anything about it.\N{\rChinese}以及真正原因，谁也做不到什么事。
+Dialogue: 0,0:36:01.68,0:36:07.64,English,,0,0,0,,Because we refuse to admit the truth to ourselves.\N{\rChinese}因为我们不肯自认真相。
+Dialogue: 0,0:36:07.64,0:36:13.12,English,,0,0,0,,But the least we can do is tell the truth to our children.\N{\rChinese}但至少我们可以把真相告诉我们的孩子。
+Dialogue: 0,0:36:13.28,0:36:16.90,English,,0,0,0,,And that's why I do what I do.\N{\rChinese}于是我才会这么做。
+Dialogue: 0,0:36:18.46,0:36:20.70,English,,0,0,0,,Okay, so again,\N{\rChinese}好了，再说一次，
+Dialogue: 0,0:36:20.94,0:36:24.36,English,,0,0,0,,apologies for today.\N{\rChinese}今天先说声抱歉。
+Dialogue: 0,0:36:24.48,0:36:26.24,English,,0,0,0,,I'm sorry it's such doom and gloom.\N{\rChinese}很抱歉，真是这么沧落的气氛。
+Dialogue: 0,0:36:26.46,0:36:31.66,English,,0,0,0,,Next week, we go back to the regular programming of just cheer.\N{\rChinese}下周我们回到常规的节目，继续欢喜。
+Dialogue: 0,0:36:32.68,0:36:36.88,English,,0,0,0,,Okay, no, I'm not going to ever be optimistic about the world\N{\rChinese}好了，我再也不再对世界抱有乐观。
+Dialogue: 0,0:36:36.88,0:36:38.62,English,,0,0,0,,because there's no way I'm going to be optimistic about the world. There's no reason to be optimistic about the world.\N{\rChinese}因为我再也不再对世界抱有乐观。没有理由再乐观。
+Dialogue: 0,0:36:38.98,0:36:42.00,English,,0,0,0,,Okay, so next week, I'm going to preview\N{\rChinese}好了，接下来一周，我要预览。
+Dialogue: 0,0:36:43.62,0:36:46.12,English,,0,0,0,,the next academic year of classes I'll be teaching.\N{\rChinese}接下来一学年我将要授课的课程。
+Dialogue: 0,0:36:46.22,0:36:50.64,English,,0,0,0,,I'll be teaching three new classes, The Secret History of the World.\N{\rChinese}我将开设三门新课， 《世界的秘密历史》。
+Dialogue: 0,0:36:50.80,0:36:54.56,English,,0,0,0,,So I'll be going into the nexus of finance, intelligence, and religion.\N{\rChinese}我将深入探讨金融、情报与宗教的交汇点。
+Dialogue: 0,0:36:54.86,0:36:57.74,English,,0,0,0,,It's going to be a really interesting class. I'm really looking forward to teaching it.\N{\rChinese}这将是一门非常有趣的课程，我已迫不及待去授课。
+Dialogue: 0,0:36:57.84,0:36:59.68,English,,0,0,0,,I'm really looking forward to sharing with you.\N{\rChinese}我很期待与大家分享。
+Dialogue: 0,0:36:59.78,0:37:01.04,English,,0,0,0,,I'll also be teaching the great books.\N{\rChinese}我还将讲授经典著作。
+Dialogue: 0,0:37:01.10,0:37:03.20,English,,0,0,0,,I'll also be teaching game theory.\N{\rChinese}我还会讲授博弈论。
+Dialogue: 0,0:37:03.32,0:37:06.92,English,,0,0,0,,So in my next video next week, I'll be sharing with you, previewing,\N{\rChinese}于是在下周的下一期视频里，我会先跟你们预览，然后再跟你们分享这三门课程。
+Dialogue: 0,0:37:07.62,0:37:09.86,English,,0,0,0,,and then I'll be sharing with you these three classes.\N{\rChinese}如果你喜欢我的工作，...
+Dialogue: 0,0:37:11.76,0:37:13.34,English,,0,0,0,,If you like what I do,\N{\rChinese}If you like whatI do,
+Dialogue: 0,0:37:13.48,0:37:18.06,English,,0,0,0,,please support my work by supporting me on Buy Me a Coffee.\N{\rChinese}请在Buy Me a Coffee上支持我的工作。
+Dialogue: 0,0:37:18.20,0:37:19.70,English,,0,0,0,,The link is below.\N{\rChinese}链接在下方。
+Dialogue: 0,0:37:20.76,0:37:24.16,English,,0,0,0,,If you want to be part of my community,\N{\rChinese}如果你想加入我的社区，
+Dialogue: 0,0:37:24.32,0:37:27.96,English,,0,0,0,,the Breakdown History community, please join my Discord server.\N{\rChinese}分解历史社区，请加入我的 Discord 服务器。
+Dialogue: 0,0:37:28.68,0:37:31.60,English,,0,0,0,,This week, I've started a sub stack.\N{\rChinese}本周，我已启动了一个子堆栈。
+Dialogue: 0,0:37:31.78,0:37:34.66,English,,0,0,0,,And if you want to join my sub stack,\N{\rChinese}如果你想加入我的子堆栈，
+Dialogue: 0,0:37:34.76,0:37:37.16,English,,0,0,0,,the link is below.\N{\rChinese}链接在下方。
+Dialogue: 0,0:37:38.66,0:37:40.36,English,,0,0,0,,So in my sub stack,\N{\rChinese}于是在我的子堆栈中，
+Dialogue: 0,0:37:40.58,0:37:43.96,English,,0,0,0,,I'll be going into\N{\rChinese}我将进入
+Dialogue: 0,0:37:43.96,0:37:48.56,English,,0,0,0,,solutions for how we can rebuild a better world.\N{\rChinese}解决方案，让我们能重建更好的世界。
+Dialogue: 0,0:37:48.64,0:37:53.56,English,,0,0,0,,How we can work together to build a better world after the world collapses.\N{\rChinese}我们如何合作，在世界崩溃后建造更好的世界。
+Dialogue: 0,0:37:54.10,0:37:56.76,English,,0,0,0,,Okay, that's it for today.\N{\rChinese}好了，今天就到此为止。
+Dialogue: 0,0:37:56.98,0:37:58.30,English,,0,0,0,,I'll see you guys next week.\N{\rChinese}我下周见你们。
+Dialogue: 0,0:37:58.44,0:38:01.02,English,,0,0,0,,Thank you so much for today.\N{\rChinese}今天非常感谢。
+Dialogue: 0,0:38:01.22,0:38:03.80,English,,0,0,0,,And I look forward to next week.\N{\rChinese}我期待下周。

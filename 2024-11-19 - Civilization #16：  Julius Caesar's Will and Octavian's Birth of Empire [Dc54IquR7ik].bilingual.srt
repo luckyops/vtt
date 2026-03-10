@@ -1,0 +1,4289 @@
+1
+00:00:00,000 --> 00:00:03,400
+So we are doing Octavius
+我们正在讲解奥克塔维乌斯的事迹
+
+2
+00:00:03,400 --> 00:00:06,120
+and the birth of the Roman Empire today.
+今天我们来回顾一下奥克塔维乌斯的事物
+
+3
+00:00:06,360 --> 00:00:09,780
+So let's review where we are.
+我们回到奥句点?
+
+4
+00:00:10,140 --> 00:00:13,500
+The year is 44 BCE and
+翻译成中文
+
+5
+00:00:13,500 --> 00:00:16,340
+Julius Caesar has just been assassinated.
+朱利叶·凯撒刚刚被暗杀。
+
+6
+00:00:17,540 --> 00:00:20,920
+And the three main conspirators, there are 60 senators,
+三位主谋者，六十位参议员。
+
+7
+00:00:21,240 --> 00:00:24,380
+but the three main conspirators are Marcus Brutus, who
+但三位主谋者是马可·布鲁特斯...
+
+8
+00:00:24,380 --> 00:00:26,920
+is considered the leader of the conspiracy,
+...??
+
+9
+00:00:27,460 --> 00:00:30,980
+Cassius, and
+卡西乌斯，
+
+10
+00:00:30,980 --> 00:00:32,720
+Decimus Brutus.
+只…??
+
+11
+00:00:33,780 --> 00:00:37,120
+And after they assassinated Caesar,
+和他们杀死凯撒后，
+
+12
+00:00:37,520 --> 00:00:39,540
+obviously Rome is in turmoil.
+罗马已然...
+
+13
+00:00:40,100 --> 00:00:43,040
+And Mark Anthony, who
+第13句：...??
+
+14
+00:00:43,040 --> 00:00:47,620
+is currently the council or the head of state in Rome,
+...
+
+15
+00:00:47,820 --> 00:00:53,160
+he reaches an agreement with these conspirators.
+他与这些人达成协议。
+
+16
+00:00:54,000 --> 00:00:57,140
+The agreement is this. Mark Anthony, who
+马克·安东尼奥尔是...
+
+17
+00:00:57,140 --> 00:01:02,200
+is a staunch ally of Julius Caesar,
+是朱利斯·凯撒的强大盟友，
+
+18
+00:01:02,400 --> 00:01:04,940
+he will not seek retribution.
+他将不再去寻求复仇
+
+19
+00:01:06,880 --> 00:01:08,900
+And in return,
+...??
+
+20
+00:01:09,260 --> 00:01:12,080
+the conspirators will declare
+...??
+
+21
+00:01:12,080 --> 00:01:15,760
+that Caesar was not a tyrant.
+...??
+
+22
+00:01:15,880 --> 00:01:18,320
+He did not want to become king. So
+他不想成为王。于是...
+
+23
+00:01:18,320 --> 00:01:21,180
+a peace settlement was reached to avoid a civil war.
+...??
+
+24
+00:01:22,640 --> 00:01:27,560
+Um... The problem is
+]}We need to translate cues 22-24. Provide JSON array translations. Each string may contain at most one newline. Use Chinese terms. Let's translate: cue22:
+
+25
+00:01:27,560 --> 00:01:30,260
+that Mark Anthony was working behind the scenes
+那时，马可·安东在幕后工作，准备把罗马人民动员起来对付阴谋者。
+
+26
+00:01:31,000 --> 00:01:33,900
+to work up the Roman people against conspirators.
+]}We need to produce translations for cues 25-27. Providearray of three strings. Ensure Chinese. Let's craft. Cue25:
+
+27
+00:01:34,820 --> 00:01:38,160
+And eventually, public sentiment was
+. Wait we need translation of cue25:
+
+28
+00:01:38,160 --> 00:01:42,020
+so much against the conspirators, they had to flee to the provinces.
+那时，马可·安东在幕后工作，准备把罗马人民动员起来对付阴谋者。
+
+29
+00:01:43,220 --> 00:01:45,060
+Okay? And then,
+于是把罗马人动员起来对付阴幕者。
+
+30
+00:01:45,240 --> 00:01:49,960
+Mark Anthony read the will of Caesar.
+那时……??
+
+31
+00:01:50,020 --> 00:01:53,580
+Okay? Caesar's will. Remember
+第 1 句：...??
+
+32
+00:01:53,580 --> 00:01:56,060
+that there's private property in Rome.
+...????
+
+33
+00:01:56,300 --> 00:01:59,260
+And so when a man dies, he has a will.
+...??……??
+
+34
+00:01:59,400 --> 00:02:03,940
+And then this will stipulates how this private property will be distributed.
+然后，这份遗嘱规定了私财的分配方式。
+
+35
+00:02:04,220 --> 00:02:06,200
+Okay? And
+好的？ 这件事又是？
+
+36
+00:02:06,200 --> 00:02:10,900
+there are three really surprising things about the will.
+三件事…】
+
+37
+00:02:11,800 --> 00:02:14,680
+The first thing is that
+第 37 句：...??
+
+38
+00:02:14,680 --> 00:02:18,880
+Caesar right now is the wealthiest man in Rome.
+第 句...??
+
+39
+00:02:18,880 --> 00:02:21,860
+And he stipulates that upon his death,
+?
+
+40
+00:02:22,140 --> 00:02:25,200
+every Roman citizen will get
+每个罗马公民都将获得
+
+41
+00:02:25,200 --> 00:02:28,560
+three months of a soldier's wage.
+三个月的士兵薪水。
+
+42
+00:02:28,860 --> 00:02:30,580
+That's a lot of money. Okay?
+那是很大一笔钱。
+
+43
+00:02:30,700 --> 00:02:34,460
+That's extreme generosity. He also stipulates
+那是极其慷慷的慷慷慷慷慷...??
+
+44
+00:02:34,460 --> 00:02:36,340
+that a lot of his private property
+...???
+
+45
+00:02:36,760 --> 00:02:40,420
+will be turned into public parks for the benefit of the Roman people.
+...??
+
+46
+00:02:41,200 --> 00:02:46,180
+So this will demonstrates Caesar's love of his people.
+所以这将展示凯撒对他人民的爱。
+
+47
+00:02:46,240 --> 00:02:49,500
+Okay? The second thing is actually more surprising.
+好的？第二个是个别的??
+
+48
+00:02:51,260 --> 00:02:53,940
+Mark Anthony believed that
+马克·安东尼奥...??
+
+49
+00:02:53,940 --> 00:02:57,240
+he would be named the heir to Caesar's legacy
+他将被命名为凯撒遗产的继承者
+
+50
+00:02:57,240 --> 00:02:59,560
+and wealth in the will.
+??
+
+51
+00:02:59,980 --> 00:03:01,280
+But in fact,
+]}
+
+52
+00:03:01,420 --> 00:03:06,300
+Caesar names this complete stranger to be his heir.
+凯撒把这位完全陌生的人命名为继承者。
+
+53
+00:03:06,460 --> 00:03:08,040
+His name is Octavius.
+他的名字是奥克塔维斯。
+
+54
+00:03:11,180 --> 00:03:15,380
+And Caesar named Octavius to be his adopted son.
+凯撒把奥克塔维斯命名为已归化的儿子。
+
+55
+00:03:16,920 --> 00:03:21,320
+And so Octavius' name is actually Gaius Octavius.
+55. 译文1
+
+56
+00:03:21,600 --> 00:03:22,900
+And upon his adoption,
+...????????????????????????????????????????
+
+57
+00:03:23,220 --> 00:03:26,680
+he is now named
+]}We need to translate cues 55-57. Provide array of translations. Each translationstring may contain at most one newline. Use Chinese terms. Let's translate: cue 55:
+
+58
+00:03:26,680 --> 00:03:30,520
+Gaius Julius Caesar Octavius.
+Gaius 朱利亚斯·凯撒·奥克塔维斯。
+
+59
+00:03:31,060 --> 00:03:32,940
+This is like much too complicated.
+这太多了！
+
+60
+00:03:33,420 --> 00:03:36,520
+So historians use the shorthand Octavian.
+史上人用“奥克塔维”。
+
+61
+00:03:37,200 --> 00:03:40,460
+Okay? So we will now name this person Octavian.
+好的？我们现在把这人叫做奥克塔维。
+
+62
+00:03:40,500 --> 00:03:44,040
+And this is the historical shorthand, even though this is not his real name.
+这就是历史上的简写，尽管它是个别名。
+
+63
+00:03:44,460 --> 00:03:45,840
+So that's the second big surprise.
+第二个大写字??
+
+64
+00:03:46,360 --> 00:03:50,360
+In the will. And the third big surprise is this.
+在遗嘱中。第三个大惊喜是这件事。
+
+65
+00:03:51,540 --> 00:03:53,680
+Caesar names secondary heirs.
+??
+
+66
+00:03:53,740 --> 00:03:58,100
+These are individuals who will inherit Caesar's property
+...
+
+67
+00:03:58,100 --> 00:04:00,580
+and legacy if Octavian were to die.
+...
+
+68
+00:04:01,160 --> 00:04:04,020
+Mark Anthony is a secondary heir, but
+...
+
+69
+00:04:04,020 --> 00:04:07,660
+so is Decimus Brutus.
+so是德西姆·布鲁图斯。
+
+70
+00:04:08,700 --> 00:04:12,760
+One of the men who conspired to kill Caesar.
+一位发起的咸咸??
+
+71
+00:04:13,520 --> 00:04:17,440
+Okay? So this will of Caesar's,
+好的？所以这份凯撒的遗嘱，
+
+72
+00:04:17,440 --> 00:04:20,520
+it is shocking. And
+??
+
+73
+00:04:20,520 --> 00:04:25,180
+it shows to the Roman people that Caesar really loved them
+它显示给罗马人，凯撒很久...
+
+74
+00:04:26,100 --> 00:04:29,120
+and that Caesar loved everyone,
+...
+
+75
+00:04:29,300 --> 00:04:32,020
+including the people who conspired to kill him. Okay?
+包括发起的咸咸??
+
+76
+00:04:34,140 --> 00:04:39,960
+Mark Anthony is very upset about this will.
+马克·安东尼很高兴这份??
+
+77
+00:04:40,800 --> 00:04:44,860
+So that when Octavian, and Octavian right now, he's only 18 years old.
+所以当奥克塔维安还在时，他只有18岁。
+
+78
+00:04:45,000 --> 00:04:46,420
+Okay? He's only 18 years old.
+好的，奥克塔维安只有18岁。
+
+79
+00:04:46,780 --> 00:04:49,260
+And he returns to claim his legacy.
+翻译...??
+
+80
+00:04:50,260 --> 00:04:54,720
+Mark Anthony is so upset that he refuses to meet with Octavian.
+翻译?????????..??
+
+81
+00:04:55,340 --> 00:05:00,980
+And he refuses to give Caesar's property
+...??
+
+82
+00:05:00,980 --> 00:05:03,320
+and wealth to Octavian.
+和奥克塔维安的财富。
+
+83
+00:05:03,680 --> 00:05:07,580
+Remember, the first stipulation of the will is
+记得，首个条款是：每个罗马里士兵士兵…
+
+84
+00:05:07,580 --> 00:05:10,640
+that every Roman citizen will be given three months of wages.
+此时…
+
+85
+00:05:10,640 --> 00:05:13,580
+Okay? And Octavian,
+好的？然后奥克塔维安，
+
+86
+00:05:13,720 --> 00:05:15,860
+what he does is to honor Caesar's will,
+他把把...??
+
+87
+00:05:16,530 --> 00:05:17,880
+he borrows money. Okay?
+??
+
+88
+00:05:17,880 --> 00:05:22,400
+This is a lot of money in order to ensure that every citizen got three months of wages.
+这是一笔大额的金额，以确保每个公民获得三个月的薪水。
+
+89
+00:05:25,160 --> 00:05:26,820
+So in this situation,
+这在此时刻…
+
+90
+00:05:27,260 --> 00:05:29,940
+okay, and this is only a few months after Caesar's death,
+这条款式…
+
+91
+00:05:30,240 --> 00:05:33,580
+this is now a volatile Game of Thrones situation.
+现在是个多变的《权力平衡》情形。
+
+92
+00:05:33,940 --> 00:05:39,500
+Game of Thrones. Mark Anthony considers himself the legitimate heir.
+游戏里…
+
+93
+00:05:40,240 --> 00:05:43,340
+Of Caesar and refuses to acknowledge Octavian.
+...
+
+94
+00:05:44,240 --> 00:05:47,260
+Octavian has returned and demands to be acknowledged as the heir.
+Octavian已归来，得以归一回归回归回…
+
+95
+00:05:47,380 --> 00:05:50,540
+Okay? So that's one conflict.
+...
+
+96
+00:05:50,980 --> 00:05:54,680
+The other conflict is you have these three conspirators, Decimus Brutus,
+...
+
+97
+00:05:56,700 --> 00:06:00,980
+Marcus Brutus, and Cassius.
+马可斯·布鲁图斯，和卡西乌斯。
+
+98
+00:06:01,120 --> 00:06:05,300
+And they're not in Rome, but they're in the provinces with huge armies.
+他们不在罗马里，但在大军大军的省份里。
+
+99
+00:06:05,540 --> 00:06:08,640
+Okay? So Decimus Brutus, he is in Gaul.
+好的，布鲁图斯·马可斯…
+
+100
+00:06:08,640 --> 00:06:10,500
+Marcus Brutus and
+马可斯·布鲁图斯和
+
+101
+00:06:10,500 --> 00:06:13,860
+Cassius are in the Roman East,
+卡西乌斯在罗马东部，包含安塔利亚和叙利亚。
+
+102
+00:06:14,020 --> 00:06:15,740
+which includes Anatolia and Syria.
+which includes Anatolia and Syria.
+
+103
+00:06:15,960 --> 00:06:20,100
+Okay? Extremely wealthy provinces where they have many loyal soldiers.
+Okay? Extremely wealthy provinces where they have many loyal soldiers.
+
+104
+00:06:20,520 --> 00:06:23,620
+And they understand that eventually there's a conflict coming,
+?
+
+105
+00:06:23,800 --> 00:06:27,240
+so they raise a huge army, about 100,000 soldiers,
+??
+
+106
+00:06:27,520 --> 00:06:30,540
+to prepare for the eventual conflict.
+准备迎接即将到来的冲突。
+
+107
+00:06:30,840 --> 00:06:34,740
+And this is like the largest army ever assembled in Roman history.
+这是罗马历史上最大的一支军队。
+
+108
+00:06:37,260 --> 00:06:40,040
+You also have, you have a name, named Lepidus,
+?{
+
+109
+00:06:42,080 --> 00:06:44,380
+who is a very competent administrator.
+???
+
+110
+00:06:45,440 --> 00:06:47,100
+And he has his own army.
+???
+
+111
+00:06:47,500 --> 00:06:49,980
+And he actually wanted to avenge Caesar,
+???
+
+112
+00:06:51,020 --> 00:06:52,640
+but Mark Anthony stopped him.
+但马克·安东尼停住了他。
+
+113
+00:06:52,760 --> 00:06:55,100
+Okay? So Lepidus is also part of the equation.
+好的，拉佩杜斯也在其中。
+
+114
+00:06:55,720 --> 00:06:58,780
+In the center is a name, named Cicero.
+在中间有个名字，叫做西塞罗。
+
+115
+00:06:59,700 --> 00:07:03,500
+Cicero is considered one of the greatest orators in Roman history.
+西塞罗被认为是罗马史上最伟大的演说家之一。
+
+116
+00:07:04,220 --> 00:07:07,880
+It was very common, it's very common as part of the liberal arts education,
+它很常见，作为自由艺术教育的一部分，去研究西塞罗的演说。
+
+117
+00:07:07,880 --> 00:07:09,340
+to study the speeches of Cicero.
+to study the speeches of Cicero.
+
+118
+00:07:09,740 --> 00:07:13,760
+Okay? And Cicero is the last remaining optimist.
+好的？而且西塞罗是最后剩下的乐观者。
+
+119
+00:07:13,900 --> 00:07:16,680
+And the optimists are the ones who are conservatives,
+而且乐观之人们…
+
+120
+00:07:16,940 --> 00:07:19,300
+and who believe in the primacy of the Senate.
+...
+
+121
+00:07:19,760 --> 00:07:21,940
+So Cicero is right now in charge of the Senate.
+在此时，西塞罗已在塞尔内特里奥里奥里奥里奥里奥里奥里奥里奥里奥里奥里奥里奥…
+
+122
+00:07:23,380 --> 00:07:27,440
+And everyone in this Game of Thrones has a different motivation.
+]}We need to produce translations for cues 121-123. Provide JSON with translations array.Each translation string may contain at most one newline. Use simplified Chinese. Use terms:
+
+123
+00:07:27,660 --> 00:07:29,840
+Right? So Cicero,
+? Let's translate. Cue 121:
+
+124
+00:07:29,940 --> 00:07:33,180
+his main motivation is to maintain the supremacy of the Senate.
+...
+
+125
+00:07:33,400 --> 00:07:35,560
+So he wants a balance of power.
+...
+
+126
+00:07:36,300 --> 00:07:40,700
+So what he will do, is he will play everyone off against each other,
+...
+
+127
+00:07:40,820 --> 00:07:45,520
+in order to maintain the supremacy of the Senate, and therefore his authority.
+in order to maintain the supremacy of the Senate, and therefore his authority.
+
+128
+00:07:45,860 --> 00:07:50,020
+Okay? That's Cicero. Octavian wants to be the heir of Caesar,
+OK? 这位…??
+
+129
+00:07:50,180 --> 00:07:52,020
+but so does Mark Anthony. And
+????????..??
+
+130
+00:07:52,020 --> 00:07:55,660
+Lepidus also wants to be a heir as well.
+Lepidus也想成为继承者。
+
+131
+00:07:55,980 --> 00:07:59,300
+And then on the other side, are Decimus Brutus, Marcus Brutus,
+Lepidus 好 好?? ?? ?? ?? ?? {
+
+132
+00:07:59,300 --> 00:08:02,940
+and Cassius, who are fighting for their own legacy.
+和卡修斯，他们各自为自己的遗产而战。
+
+133
+00:08:03,300 --> 00:08:07,240
+Okay? So this is the situation in 44,
+好的？这就是44年的局面。
+
+134
+00:08:07,240 --> 00:08:08,740
+B.C.E.
+翻译1：B.C.E.
+
+135
+00:08:10,000 --> 00:08:12,080
+And it's a Game of Thrones situation,
+翻译2：...??
+
+136
+00:08:12,900 --> 00:08:14,680
+and you would expect
+and you...?
+
+137
+00:08:15,780 --> 00:08:20,200
+the one who would most likely lose this Game of Thrones
+?
+
+138
+00:08:20,920 --> 00:08:22,400
+would be Octavian, right?
+译文1
+
+139
+00:08:22,900 --> 00:08:25,640
+He's 18 years old, he's got no army,
+译文2
+
+140
+00:08:26,700 --> 00:08:28,860
+and he has no allies in Rome.
+140: ...??
+
+141
+00:08:30,180 --> 00:08:35,360
+What happens over the next 15 years is,
+140??????????????????? 1? 2? ...????????1? 3? 1..??? ..??? ??? ??? 1..??? ??? 1..??..??? ??..????????? ??? ??? 1..??..??? ??..??..??? ??..??..?…..??…?????? ??…??..???……??……..??…..??…??? ??…??…??? ??译??????????????????????..??……??…??? ??……..??…??…???…..??…..……..??…..…..??……..?…..
+
+142
+00:08:35,360 --> 00:08:39,520
+one by one, Octavian destroys all his enemies.
+逐一击败奥克塔维安的敌人。
+
+143
+00:08:40,020 --> 00:08:43,220
+What happens first is that
+先后先后？
+
+144
+00:08:43,220 --> 00:08:46,860
+Mark Anthony goes to war with Decimus Brutus.
+马克·安东尼去…
+
+145
+00:08:47,200 --> 00:08:50,120
+Decimus Brutus is in charge of Gaul, and
+Decimus Brutus is incharge of Gaul, and
+
+146
+00:08:50,120 --> 00:08:53,080
+Mark Anthony wants the armies of Decimus Brutus.
+马克·安东尼想要德西姆·布鲁图的军队。
+
+147
+00:08:53,180 --> 00:08:56,440
+So Mark Anthony marches against Decimus Brutus,
+马克·安东尼向前进，去往前去！
+
+148
+00:08:56,480 --> 00:09:00,040
+and then Cicero, to maintain the balance of power,
+并且...
+
+149
+00:09:00,340 --> 00:09:05,340
+he authorizes Octavian to raise his own army to challenge Mark Anthony.
+...
+
+150
+00:09:06,080 --> 00:09:08,460
+Okay? So now they're at war with each other.
+好的？于是他们互相开战。
+
+151
+00:09:09,840 --> 00:09:13,000
+Eventually, Mark Anthony loses, and then
+…
+
+152
+00:09:13,000 --> 00:09:16,300
+he steals basically Lepidus' army to
+他把拉佩杜斯的军队夺回去，去往前进再去！
+
+153
+00:09:16,300 --> 00:09:19,440
+march against Decimus Brutus again.
+他把拉佩杜斯…
+
+154
+00:09:20,540 --> 00:09:22,960
+And at this point, what happens is very strange.
+在此时，发生了很大 …
+
+155
+00:09:23,340 --> 00:09:26,480
+The three of them, Lepidus, Octavian, and Mark Anthony,
+?
+
+156
+00:09:26,720 --> 00:09:28,660
+they sit down together, and
+他们坐在一起，然后
+
+157
+00:09:28,660 --> 00:09:33,060
+they agree to share power and form their own dictatorship.
+他们坐在一起，坐着…
+
+158
+00:09:33,480 --> 00:09:35,340
+This is what we call the Second War.
+这就是我们所说的第二次战争。
+
+159
+00:09:35,360 --> 00:09:37,200
+The Second Triumvirate. Okay?
+第二个三人团体。
+
+160
+00:09:37,820 --> 00:09:39,320
+The Second Triumvirate is brutal.
+...
+
+161
+00:09:40,420 --> 00:09:45,500
+The first thing they decide to do is kill all their enemies,
+...
+
+162
+00:09:46,100 --> 00:09:47,940
+anyone who could challenge them,
+...
+
+163
+00:09:48,060 --> 00:09:51,340
+including Cicero, who
+包括西塞罗，他之前是奥克塔维安的赞助者。
+
+164
+00:09:51,340 --> 00:09:54,340
+was previously the patron of Octavian.
+是的，...
+
+165
+00:09:55,140 --> 00:09:58,020
+So they kill about a third of the Senate, and
+So they kill about a third of the Senate, and
+
+166
+00:09:58,020 --> 00:10:01,440
+replace the Senate with their allies.
+替换了参议院与其盟友
+
+167
+00:10:03,640 --> 00:10:07,180
+Then, Mark Anthony and Octavian marched against
+然后，马可·安东尼奥与奥克塔维安马可·布鲁特斯与卡西乌斯。
+
+168
+00:10:08,660 --> 00:10:10,780
+Marcus Brutus and Cassius.
+Marcus Brutus and Cassius.
+
+169
+00:10:11,500 --> 00:10:13,100
+Okay? Decimus Brutus has been destroyed.
+好的？德西穆·布鲁图斯已被消灭。
+
+170
+00:10:13,340 --> 00:10:16,360
+They now march against Marcus Brutus and Cassius.
+他现在正好去往马可·布鲁特斯和卡西乌斯进发。
+
+171
+00:10:16,480 --> 00:10:17,920
+And then in 42 BCE,
+又在 42 年前往前去…
+
+172
+00:10:18,320 --> 00:10:21,060
+they fight the Battle of Philippi in Macedonia.
+他们在马其多里亚的菲利比战役中交战。
+
+173
+00:10:21,480 --> 00:10:24,080
+Okay? Philippi is a city named after King Philip.
+译文1
+
+174
+00:10:24,760 --> 00:10:26,060
+And in this battle,
+译之字句??
+
+175
+00:10:27,560 --> 00:10:30,560
+Mark Anthony and Octavian triumph.
+马克安东与奥克塔维安胜利。
+
+176
+00:10:30,560 --> 00:10:33,500
+In the largest battle in history at that time.
+马克·安东在大赛里…
+
+177
+00:10:33,580 --> 00:10:36,660
+Okay? And after this battle,
+?
+
+178
+00:10:36,820 --> 00:10:39,020
+where Marcus Brutus and Cassius are killed,
+在此处，马尔库斯·布鲁图斯和卡西乌斯被击败，
+
+179
+00:10:41,240 --> 00:10:45,060
+Octavian, Mark Anthony, and Lippidus agree to share the world.
+奥克塔维安、马可·安东与利普迪乌斯达成了分配世界的协议，
+
+180
+00:10:45,480 --> 00:10:47,600
+So Octavian would get Rome,
+于是奥克塔维安将获得罗马
+
+181
+00:10:49,200 --> 00:10:51,760
+Lippidus would get Northern Africa, and
+利普迪乌斯将获得北非，并且…
+
+182
+00:10:51,760 --> 00:10:55,780
+Mark Anthony would get Egypt and the Near East, Anatolia, Syria.
+马可·安东将获得埃及与近东，安那托利亚与塞里亚。
+
+183
+00:10:56,060 --> 00:10:59,020
+So Mark Anthony basically gets the lion's share.
+于是马可·安东基本上获得了“球”球”球…
+
+184
+00:11:00,400 --> 00:11:02,240
+Of the Roman world.
+罗马世界。
+
+185
+00:11:02,500 --> 00:11:04,260
+Okay? And they agree to share it.
+好的？他们先合并分配。
+
+186
+00:11:04,720 --> 00:11:08,780
+Then what happens is Lippidus comes into conflict with Mark Anthony.
+随后，利普迪乌斯与马可·安东相冲突。
+
+187
+00:11:08,960 --> 00:11:11,140
+Well, sorry. Lippidus comes into conflict with Octavian.
+好的，抱歉。利普迪乌斯与奥克塔维安冲突。
+
+188
+00:11:11,360 --> 00:11:15,480
+And Octavian gives a speech to Lippidus' soldiers
+奥克塔维安给了一个回到回到…
+
+189
+00:11:15,480 --> 00:11:18,040
+who all defect over to Octavian.
+其…
+
+190
+00:11:18,680 --> 00:11:21,480
+Then Octavian comes into conflict with Mark Anthony.
+先后...??
+
+191
+00:11:21,760 --> 00:11:23,740
+And in 31 BCE,
+?
+
+192
+00:11:24,480 --> 00:11:27,200
+at the Battle of, um, um,
+???
+
+193
+00:11:28,140 --> 00:11:31,340
+um, what's that battle called again?
+...
+
+194
+00:11:31,660 --> 00:11:32,940
+31... Actium, sorry.
+...
+
+195
+00:11:33,120 --> 00:11:35,460
+Actium in Greece. It's a huge battle
+...
+
+196
+00:11:36,020 --> 00:11:40,920
+where Anthony's forces are aligned with Cleopatra's forces against,
+在此处...??
+
+197
+00:11:41,020 --> 00:11:43,760
+um, Octavian.
+?
+
+198
+00:11:44,000 --> 00:11:46,120
+In this battle, what happens is
+???
+
+199
+00:11:46,760 --> 00:11:49,900
+basically Mark Anthony and Cleopatra,
+199: 基本上马克安东与克利奥帕特拉，
+
+200
+00:11:49,980 --> 00:11:51,740
+they run away from the battle.
+200: 他们从战斗跑去。
+
+201
+00:11:52,160 --> 00:11:54,700
+Where, and then they return to Alexandria
+201: 里程里回到亚历山大。
+
+202
+00:11:55,580 --> 00:11:58,860
+and then Octavian goes and hunts them down.
+and then Octavian goes and hunts them down.
+
+203
+00:11:58,860 --> 00:12:01,300
+And they both commit suicide before they're captured.
+And they both commit suicide before they're captured.
+
+204
+00:12:01,840 --> 00:12:04,580
+And then this ends in 27 BCE
+And then this ends in 27 BCE
+
+205
+00:12:05,400 --> 00:12:08,560
+when Octavian returns to the Senate, the Roman Senate, in triumph.
+当奥克塔维安回到罗马的元帅，罗马的元帅在回到元帅的回到元帅??
+
+206
+00:12:08,760 --> 00:12:11,880
+And they declare him Augustus Caesar.
+...
+
+207
+00:12:12,740 --> 00:12:14,340
+Okay? Augustus Caesar.
+好的？奥古斯都凯撒。
+
+208
+00:12:14,540 --> 00:12:15,980
+His name has now changed to Augustus Caesar.
+他的名字现在已改为奥古斯都凯撒。
+
+209
+00:12:16,200 --> 00:12:19,640
+And he's considered the first emperor of Rome.
+他被认为是罗马的第一位皇帝。
+
+210
+00:12:20,900 --> 00:12:23,860
+Okay? So this is the brief history.
+好的，回到此时的简短记事
+
+211
+00:12:25,980 --> 00:12:28,000
+Now I want to ask the question,
+现在我想问个问题，
+
+212
+00:12:29,440 --> 00:12:32,680
+how did Octavian, again, who in 44 BCE,
+?
+
+213
+00:12:32,960 --> 00:12:35,740
+he's only 18 years old, he has no army, and
+他只有18岁，军队也不多，且在罗马只有少数同盟，怎样能赢得胜利？
+
+214
+00:12:35,740 --> 00:12:40,240
+has very few allies in Rome, how was he able to triumph over everyone?
+他只有18岁，军队也不久，且在百里里…
+
+215
+00:12:40,680 --> 00:12:43,160
+Okay? All right, and there are different explanations.
+好的？好了，接着说，…
+
+216
+00:12:44,000 --> 00:12:46,200
+Um, the first you can say is just,
+?
+
+217
+00:12:46,960 --> 00:12:48,680
+well, he got lucky. Okay?
+译文1
+
+218
+00:12:50,380 --> 00:12:54,980
+Um, yeah, I know he, he was lucky, and that is a possibility.
+译翻译2
+
+219
+00:12:56,580 --> 00:12:57,980
+But, um, um,
+译文3
+
+220
+00:12:59,100 --> 00:13:01,120
+you don't become emperor by becoming lucky.
+你不必靠运气就能成为皇帝。
+
+221
+00:13:01,280 --> 00:13:04,320
+Okay? So that's, that doesn't suffice.
+好的，算吧！
+
+222
+00:13:04,840 --> 00:13:07,960
+Second is, you can say he was brilliant.
+第二个…
+
+223
+00:13:11,280 --> 00:13:12,780
+Julius Caesar was brilliant.
+朱利叶·凯撒很出色。
+
+224
+00:13:12,940 --> 00:13:16,840
+Right? Um, King Philip of Macedon was brilliant.
+对呀，马其里亚王国的王子菲利普是出色的。
+
+225
+00:13:17,020 --> 00:13:22,720
+These are all brilliant people. Very few people say Octavian was a brilliant person.
+这些人都很出色，只有少数人说得上面那点儿！
+
+226
+00:13:23,100 --> 00:13:24,880
+He didn't have the charisma of Julius Caesar.
+他没有朱利叶·凯撒的魅力。
+
+227
+00:13:25,120 --> 00:13:28,600
+His oration was good, but no one near as good as,
+他的演讲好， 但…
+
+228
+00:13:29,260 --> 00:13:32,060
+say, Mark Anthony's, or, or other Romans.
+他的演讲好， 这…
+
+229
+00:13:32,260 --> 00:13:36,740
+Okay? And he, and it was, it's generally agreed upon that he was a terrible,
+好的？他，且它是，普遍认为他是个糟糕的，军事领袖与战术师。
+
+230
+00:13:37,740 --> 00:13:39,740
+terrible military leader and strategist.
+他赢了，且百里里…
+
+231
+00:13:40,120 --> 00:13:44,560
+He won, he lost a lot of wars, sorry, he lost a lot of battles during this conflict.
+他赢了…
+
+232
+00:13:44,960 --> 00:13:46,840
+Okay? So he was not a great military leader.
+好的？所以他不是个伟大的军事领袖。
+
+233
+00:13:47,640 --> 00:13:50,740
+So he was not brilliant. I mean, he was brilliant in his own way.
+所以他不算是个出色的演讲者。我想说的是，…
+
+234
+00:13:50,820 --> 00:13:55,140
+He was brilliant politically. Um, but he was not brilliant in the traditional sense.
+他在政治上很有成就…
+
+235
+00:13:55,360 --> 00:13:57,320
+Okay? The third explanation is,
+好的？第三个解释是，
+
+236
+00:13:58,000 --> 00:13:59,500
+well, he's just ruthless.
+好吧，...
+
+237
+00:13:59,820 --> 00:14:01,240
+He will do anything for power.
+他会为了...
+
+238
+00:14:01,720 --> 00:14:03,600
+And again, this is true. There is some truth to this.
+又一次，这是真的。 这有点真理。
+
+239
+00:14:03,760 --> 00:14:05,860
+But guess what? In the Roman world,
+但猜猜吧！在罗马里…
+
+240
+00:14:06,500 --> 00:14:07,900
+everyone was ruthless.
+大家都很无…
+
+241
+00:14:08,500 --> 00:14:11,560
+Right? Mark Anthony was especially ruthless.
+对的？马可·安东尼特别无…
+
+242
+00:14:12,120 --> 00:14:14,600
+Mark Anthony killed his own wife.
+马可·安东尼…
+
+243
+00:14:15,880 --> 00:14:18,420
+Okay? So that doesn't explain it.
+好…
+
+244
+00:14:18,720 --> 00:14:21,840
+Fourth is, um, the legions, the army.
+第四个是，呃…军团，军团…
+
+245
+00:14:22,380 --> 00:14:25,140
+They remembered Caesar, Julius Caesar.
+再把…??
+
+246
+00:14:25,460 --> 00:14:29,040
+And now that Octavian is considered the son of Julius Caesar,
+??
+
+247
+00:14:29,300 --> 00:14:31,580
+the legions swore loyalty to him.
+军团宣誓归属他。
+
+248
+00:14:31,740 --> 00:14:33,300
+And that is true. Okay?
+好的，没错。
+
+249
+00:14:33,440 --> 00:14:35,380
+But they also swore loyalty to Mark Anthony.
+但也有归属马可·安东尼的军团。
+
+250
+00:14:35,880 --> 00:14:40,940
+And you can, you can argue Mark Anthony had a stronger claim to Caesar's legacy than Octavian.
+你可以说马可·安东尼比奥克塔维安更有权利继承凯撒的遗产。
+
+251
+00:14:41,520 --> 00:14:43,540
+So that by itself doesn't explain it either.
+于是这也没能给出此时的答案。
+
+252
+00:14:44,440 --> 00:14:49,020
+Next explanation is Marcus Agrippa.
+下一个是马可·阿格里帕。
+
+253
+00:14:50,160 --> 00:14:53,980
+And Marcus Agrippa is considered, um, Octavian's partner.
+And Marcus Agrippa is considered, um, Octavian's partner.
+
+254
+00:14:54,540 --> 00:14:56,420
+And he was considered a great general.
+...
+
+255
+00:14:56,920 --> 00:14:59,480
+And it was actually Marcus Agrippa who
+...
+
+256
+00:14:59,480 --> 00:15:01,780
+was responsible for all of Octavian's major,
+在 256 句中，负责奥克塔维安的主要工作。
+
+257
+00:15:02,340 --> 00:15:06,700
+uh, military victories, especially the Battle of Actium, which, which basically ended the Civil War.
+嗯，军队胜利…
+
+258
+00:15:07,660 --> 00:15:09,200
+And this again is true.
+...
+
+259
+00:15:09,340 --> 00:15:11,040
+Marcus Agrippa is a brilliant military leader.
+马可斯·阿格里帕是个好好的军队领导
+
+260
+00:15:11,220 --> 00:15:13,760
+But so were Cassius,
+260. 只要...??
+
+261
+00:15:14,400 --> 00:15:16,320
+Decimus. Okay?
+...
+
+262
+00:15:16,880 --> 00:15:18,640
+There were other brilliant military leaders.
+在此处…
+
+263
+00:15:18,840 --> 00:15:21,080
+The other issue is that,
+在此处…
+
+264
+00:15:21,080 --> 00:15:25,020
+in this ruthless world of Roman politics,
+在这无情的罗马政治世界里，
+
+265
+00:15:25,740 --> 00:15:28,780
+how could Octavian trust Marcus Agrippa?
+在这无情的罗马里…
+
+266
+00:15:29,100 --> 00:15:31,740
+And why didn't Marcus Agrippa stay loyal to Octavian?
+为什么马可·阿格里帕没有继续忠于奥克塔维安？
+
+267
+00:15:31,960 --> 00:15:34,020
+Okay? Okay.
+好的？好的。
+
+268
+00:15:34,060 --> 00:15:36,720
+So these are five explanations.
+所以这些是五个解释。
+
+269
+00:15:37,020 --> 00:15:39,000
+And there's also some truth to that.
+还有………………??
+
+270
+00:15:39,460 --> 00:15:42,740
+Okay? But I want to offer you today another explanation.
+好的？但我想今天再给你们提供一个解释。
+
+271
+00:15:43,900 --> 00:15:45,360
+And the explanation is this.
+好的，...??………??
+
+272
+00:15:49,700 --> 00:15:51,400
+The death of a Roman emperor, the death of Caesar,
+罗马皇帝之死，凯撒之死，方可让奥克塔维安登上帝位。
+
+273
+00:15:51,760 --> 00:15:54,660
+allowed Octavian to become emperor.
+罗马皇帝之死，凯撒之死，方可让奥克塔位登上帝位。
+
+274
+00:15:55,880 --> 00:15:58,420
+Okay? And here's my argument.
+好的？接下来是我的论点。
+
+275
+00:15:59,120 --> 00:16:01,920
+Remember last class, we said that Caesar,
+好的，...??………??
+
+276
+00:16:02,160 --> 00:16:05,680
+his greatness was in his myth -making genius.
+他的伟大在于其神话创造的天才。
+
+277
+00:16:06,000 --> 00:16:07,260
+He created a myth of himself
+他创造了一个神话，
+
+278
+00:16:07,920 --> 00:16:11,480
+that he was a man of destiny who would save the Republic.
+他在此处...
+
+279
+00:16:12,620 --> 00:16:16,040
+But his myth was counter to other myths
+但他的神话与罗马更占主导的其他神话相对立。
+
+280
+00:16:16,040 --> 00:16:18,760
+that were more dominant in Rome.
+在此…
+
+281
+00:16:18,960 --> 00:16:20,840
+Especially the myth of Lucius Brutus.
+“...??…??”
+
+282
+00:16:21,060 --> 00:16:25,740
+Right? Lucius Brutus. The man who created the Republic and killed the king.
+右？卢修斯·布鲁图斯。创建罗马共和国的那个人，杀了王。
+
+283
+00:16:27,940 --> 00:16:31,160
+And so Caesar had this great myth,
+而且…………
+
+284
+00:16:31,360 --> 00:16:34,580
+but it was against other dominant myths.
+…
+
+285
+00:16:36,000 --> 00:16:37,740
+When Caesar was killed,
+当凯撒被杀时，
+
+286
+00:16:38,790 --> 00:16:43,480
+it made his myth the dominant myth of Rome.
+它把他的神话变成了罗马的主导神话。
+
+287
+00:16:43,680 --> 00:16:46,720
+In fact, it turned his myth into reality.
+实际上，变成了神话的那一条
+
+288
+00:16:48,770 --> 00:16:50,180
+And it was this new reality
+翻译1…
+
+289
+00:16:51,380 --> 00:16:55,600
+that propelled Octavian into power.
+翻译2…
+
+290
+00:16:56,620 --> 00:16:58,600
+Okay? So
+?
+
+291
+00:16:58,600 --> 00:17:03,280
+another simple way of saying this is that it was the love of the Roman people
+另一个简单的说法是，罗马人之爱使他得以登上权力平衡之位。
+
+292
+00:17:03,830 --> 00:17:06,160
+that propelled Octavian into power.
+它们在此时刻，得以登上权力平地…
+
+293
+00:17:06,520 --> 00:17:08,300
+And we see this in history all the time, right?
+…
+
+294
+00:17:08,480 --> 00:17:10,640
+So for example, in Canada,
+翻译1…
+
+295
+00:17:11,460 --> 00:17:14,660
+Doug is from Canada, so am I, there's a man named Justin Trudeau.
+?…
+
+296
+00:17:15,220 --> 00:17:18,840
+The most incompetent person,
+……
+
+297
+00:17:19,200 --> 00:17:20,500
+politician you will ever meet.
+政治家，你会遇到的那位。
+
+298
+00:17:20,500 --> 00:17:21,760
+Okay? But he's prime minister.
+好的，先生！
+
+299
+00:17:22,000 --> 00:17:23,540
+And he's been prime minister for like 10 years, right?
+…
+
+300
+00:17:23,760 --> 00:17:27,460
+Why? Because his father is Pierre Trudeau,
+为什么？因为他的父亲是皮埃尔·特鲁多，
+
+301
+00:17:27,640 --> 00:17:30,220
+who is considered one of the most popular
+他是…
+
+302
+00:17:31,720 --> 00:17:33,680
+prime ministers in Canadian history, right?
+此时…
+
+303
+00:17:33,860 --> 00:17:36,500
+So it was basically people transferring
+于是，大家就把…
+
+304
+00:17:37,740 --> 00:17:40,260
+their love of Pierre Trudeau onto their son.
+它们的…
+
+305
+00:17:40,480 --> 00:17:42,280
+Okay? So that's one example.
+好吧！
+
+306
+00:17:42,320 --> 00:17:45,000
+The other example, of course, in America is George W.
+其他例子当然是美国的乔治·W.布什，
+
+307
+00:17:45,040 --> 00:17:47,740
+Bush, right? Whose father was George H.
+其父亲是乔治·H.布什，
+
+308
+00:17:47,780 --> 00:17:52,460
+W. Bush, who was considered, you know, a very good president.
+他被认为是个很好的总统。
+
+309
+00:17:53,860 --> 00:17:56,560
+Okay? So is it, yeah, Doug?
+译文1
+
+310
+00:17:56,840 --> 00:17:59,980
+Just to add in a little bit, I'm not only naming stuff, but
+译文2
+
+311
+00:17:59,980 --> 00:18:04,360
+what's interesting for me here
+译文3
+
+312
+00:18:04,360 --> 00:18:08,320
+is you see it almost as a new origin story, right?
+你看它几乎像个新起源故事，对吧？
+
+313
+00:18:08,440 --> 00:18:10,580
+You know, like, you're going to break together and then
+你知道，像是说，先后又要一起打破，后又...
+
+314
+00:18:10,580 --> 00:18:13,520
+you're just going to make this that's people that take it around, right?
+...
+
+315
+00:18:13,560 --> 00:18:16,920
+Yeah, that's, I mean, this is not an example,
+好的，没错！
+
+316
+00:18:17,000 --> 00:18:21,560
+but you could do this in Russia, like, the revolution.
+在...
+
+317
+00:18:21,800 --> 00:18:24,700
+That's right. And Lenin becomes, like, the great figure that...
+...
+
+318
+00:18:24,700 --> 00:18:28,140
+That's right....brought from his legacy, everybody's.
+译文1
+
+319
+00:18:28,660 --> 00:18:32,860
+Yeah....here in China, you know, still that picture of power and...
+译前后??????????????????????????????????????????????????
+
+320
+00:18:32,860 --> 00:18:35,820
+That's right....there. So if you think about it,
+翻译后????...??
+
+321
+00:18:35,880 --> 00:18:39,980
+politics, political change, it's really about a mix, right?
+政治，变革之变，正是混合之所需？
+
+322
+00:18:40,060 --> 00:18:44,620
+If you want to create political change, you have to change those under, you have to change the myths.
+如果要想要点儿…
+
+323
+00:18:45,180 --> 00:18:47,600
+And new governments will create new myths.
+…
+
+324
+00:18:47,740 --> 00:18:49,160
+Okay? Great.
+好的？好啦！
+
+325
+00:18:49,260 --> 00:18:52,040
+All right, so that's a basic thesis, okay?
+OK? 先前回到…
+
+326
+00:18:52,180 --> 00:18:54,600
+So let me explain it some more, okay?
+...
+
+327
+00:18:54,960 --> 00:18:58,840
+So let's go back to the death of Julius Caesar, the assassination of Julius Caesar.
+...
+
+328
+00:19:00,420 --> 00:19:03,540
+And there were three major assassins,
+...
+
+329
+00:19:03,540 --> 00:19:05,360
+as I said, Decimus Brutus,
+...
+
+330
+00:19:07,880 --> 00:19:10,640
+Marcus Brutus, who was considered the leader, and Cassius.
+马库斯·布鲁图斯，被认为是领袖，和卡西乌斯。
+
+331
+00:19:11,780 --> 00:19:16,360
+And they were just the leaders of a huge conspiracy that involved 60 senators.
+他们只是领袖，发动了一个涉及60位参议员的大阴谋。
+
+332
+00:19:16,640 --> 00:19:19,320
+That's about 7% of the Roman Senate.
+大约7%的罗马参议员。
+
+333
+00:19:19,880 --> 00:19:21,460
+That's a lot of people, man.
+那可是一大批人啊。
+
+334
+00:19:21,760 --> 00:19:23,360
+Right? 7% of the Roman Senate.
+对了，7%罗马参议员。
+
+335
+00:19:25,060 --> 00:19:30,460
+And each of these individuals had different reason for wanting Caesar dead.
+而且每个参议员都有不同的理由去把他放在手里。
+
+336
+00:19:30,760 --> 00:19:36,100
+Okay? So Decimus Brutus was considered Julius Caesar's most competent general.
+译文1
+
+337
+00:19:36,400 --> 00:19:40,600
+Okay? And he wanted to be acknowledged as such.
+译语句1
+
+338
+00:19:40,820 --> 00:19:44,240
+So you could say that Decimus Brutus, he was driven by jealousy,
+译语句2
+
+339
+00:19:44,460 --> 00:19:46,840
+or maybe thought and ambition.
+或许是想法与雄心。
+
+340
+00:19:47,540 --> 00:19:51,880
+Okay? He wanted to prove that he was better than Julius Caesar.
+他想要证明自己比朱利亚·凯撒更好。
+
+341
+00:19:52,080 --> 00:19:55,500
+So that's Decimus Brutus. Cassius is a different story.
+于是就算是个别的故事。
+
+342
+00:19:55,820 --> 00:19:58,480
+Cassius fought for Pompey the Great.
+...
+
+343
+00:20:01,280 --> 00:20:05,680
+And because Cassius was such a great general,
+...
+
+344
+00:20:06,620 --> 00:20:09,460
+Julius Caesar showed mercy to him
+...
+
+345
+00:20:09,460 --> 00:20:12,060
+and forgave him and
+...
+
+346
+00:20:12,060 --> 00:20:14,880
+made him a general, his own general, okay?
+...
+
+347
+00:20:15,100 --> 00:20:18,860
+So this is Caesar, demonstrating his benevolence
+...
+
+348
+00:20:18,860 --> 00:20:20,220
+and clemency and mercy.
+和仁慈与恩惠。
+
+349
+00:20:20,600 --> 00:20:23,320
+The problem is that in the Roman world,
+在罗马世界里， 这就是…
+
+350
+00:20:26,140 --> 00:20:28,760
+mercy is not considered a good thing.
+在此时…
+
+351
+00:20:28,900 --> 00:20:31,780
+Okay? So by showing mercy on Cassius,
+好的？所以通过展示对卡修的仁慈，
+
+352
+00:20:31,960 --> 00:20:34,620
+Cassius could have interpreted this as
+卡尔士...
+
+353
+00:20:35,580 --> 00:20:37,400
+Caesar showing contempt for him.
+...
+
+354
+00:20:37,820 --> 00:20:39,580
+Caesar didn't really see him as a threat.
+凯撒并未真正把他视为威胁。
+
+355
+00:20:40,140 --> 00:20:44,080
+Okay? And so Cassius might have been motivated by
+好吧，咱们来回顾一下…
+
+356
+00:20:44,920 --> 00:20:47,240
+a sense like a desire to win. A desire for vengeance, right?
+...
+
+357
+00:20:48,360 --> 00:20:51,240
+Marcus Brutus is the
+马可斯·布鲁图斯是此处最有趣味的人物。
+
+358
+00:20:51,240 --> 00:20:56,320
+most interesting person here.
+马可士布鲁特斯…
+
+359
+00:20:56,500 --> 00:21:01,060
+And actually, you know, Shakespeare wrote a play about Marcus Brutus called Julius Caesar,
+...
+
+360
+00:21:01,200 --> 00:21:02,940
+okay? But it was really about Marcus Brutus.
+好的？但这实际上是关于马可斯·布鲁特斯的。
+
+361
+00:21:03,080 --> 00:21:06,600
+It was trying to explain the psychology and motivations
+它正在尝试…
+
+362
+00:21:07,260 --> 00:21:10,700
+of why Marcus Brutus would want Caesar dead.
+...
+
+363
+00:21:11,400 --> 00:21:15,780
+Okay? Marcus Brutus did fight for Pompey the Great.
+好的？马可斯·布鲁特斯曾为帕姆佩尔·大哥…
+
+364
+00:21:16,980 --> 00:21:21,640
+But he's also the son of Julius Caesar's favorite mistress,
+...
+
+365
+00:21:22,000 --> 00:21:23,640
+favorite lover. And so
+...
+
+366
+00:21:23,640 --> 00:21:26,420
+Julius Caesar made a point of telling his soldiers,
+朱利亚·凯撒特意给他的士兵们说：1 好 好 ……
+
+367
+00:21:26,720 --> 00:21:29,180
+do not kill this guy in battle.
+... ……
+
+368
+00:21:29,460 --> 00:21:31,800
+If you see him, capture him and send him to me.
+... ...
+
+369
+00:21:32,080 --> 00:21:34,960
+And so Marcus Brutus was captured
+安可...
+
+370
+00:21:34,960 --> 00:21:39,080
+and Julius Caesar adopted him basically as a son.
+...
+
+371
+00:21:39,200 --> 00:21:43,320
+And he basically fast -tracked Marcus Brutus' career.
+...
+
+372
+00:21:44,540 --> 00:21:50,500
+And so Marcus Brutus had every reason to thank Julius Caesar,
+翻译1
+
+373
+00:21:50,720 --> 00:21:53,380
+right? But instead, Marcus Brutus becomes the major,
+]}We need to translate cues 372-374. Provide array of translations. Each string may contain newline. Let's translate: cue 372:
+
+374
+00:21:53,920 --> 00:21:56,740
+the main conspirator. And in the play by Shakespeare,
+. Wait actual cue: [372] And so Marcus Brutus had every 372? Let's read: [372] And so Marcus Brutus had every reason to thank Julius Caesar, [373] right? But instead, Marcus Brutus becomes the major, [374] the main conspirator. And in the play by Shakespeare,{
+
+375
+00:21:56,840 --> 00:21:59,040
+Julius Caesar, the argument that
+...
+
+376
+00:21:59,040 --> 00:22:02,280
+Shakespeare makes is Marcus Brutus is driven
+...
+
+377
+00:22:02,280 --> 00:22:05,140
+by his own sense of virtue.
+...
+
+378
+00:22:05,480 --> 00:22:07,080
+Okay? Basically vanity.
+...
+
+379
+00:22:07,420 --> 00:22:10,220
+He believes, or he's told, that
+...
+
+380
+00:22:10,220 --> 00:22:13,140
+he's named after Lucius Brutus, the founder of the Republic, and
+...
+
+381
+00:22:13,140 --> 00:22:19,100
+therefore he has a responsibility to save the Republic from wannabe tyrants like Caesar.
+...
+
+382
+00:22:19,260 --> 00:22:20,620
+And that's what drives him.
+...
+
+383
+00:22:21,380 --> 00:22:23,600
+What Shakespeare doesn't mention though
+...
+
+384
+00:22:23,600 --> 00:22:28,600
+is what Romans believe is
+384. 这是...??
+
+385
+00:22:28,600 --> 00:22:33,000
+that Marcus Brutus is the son, the biological son of Julius Caesar.
+?
+
+386
+00:22:33,360 --> 00:22:36,840
+Okay? So maybe there was that interpersonal dynamic
+?
+
+387
+00:22:36,840 --> 00:22:42,760
+where Marcus Brutus despised Caesar,
+在此处，马尔科斯·布鲁图斯对马尔科斯·布鲁图斯很吃吃吃...??
+
+388
+00:22:43,480 --> 00:22:47,500
+okay? All right,
+...??
+
+389
+00:22:47,540 --> 00:22:48,800
+so it's a very complicated situation.
+...??
+
+390
+00:22:49,600 --> 00:22:52,720
+But what unites everyone is
+但...??
+
+391
+00:22:52,720 --> 00:22:55,760
+that, is the feeling that
+??
+
+392
+00:22:55,760 --> 00:22:57,600
+Rome was changing too fast.
+??
+
+393
+00:22:58,020 --> 00:22:59,900
+Okay? So remember, Julius Caesar,
+OK? 记得...??
+
+394
+00:23:00,160 --> 00:23:04,360
+he did what he did in order to save the Republic, to restore the Republic.
+????
+
+395
+00:23:04,920 --> 00:23:07,700
+And so when he had obtained power,
+?
+
+396
+00:23:08,300 --> 00:23:10,900
+he was making changes that were necessary,
+他正在进行必要的变更，
+
+397
+00:23:11,820 --> 00:23:16,020
+but which changed the Roman sense of themselves.
+但这改变了罗马人对自己的认知。
+
+398
+00:23:16,420 --> 00:23:20,460
+Okay? So one example is, he brought in senators from the provinces.
+好的，先说一个例子：他把罗马人从省份里带来。
+
+399
+00:23:20,960 --> 00:23:24,200
+And these were aristocrats who spoke perfect Latin,
+...
+
+400
+00:23:24,520 --> 00:23:26,540
+but because he was from the provinces,
+...
+
+401
+00:23:26,900 --> 00:23:28,120
+and they were foreigners,
+...
+
+402
+00:23:28,980 --> 00:23:30,400
+the Roman people were very upset by this.
+罗马人对此很兴奋。
+
+403
+00:23:30,500 --> 00:23:32,600
+Okay? That's the first thing. Second thing is,
+好的，先说第一个。
+
+404
+00:23:33,140 --> 00:23:35,700
+Caesar ended corruption in the provinces.
+凯撒结束了省份里的百事。”
+
+405
+00:23:37,040 --> 00:23:39,700
+And that goes against the interests of the nobility, because
+并且这点在省份里很有利于帝国，且在长久的期内也好。
+
+406
+00:23:39,700 --> 00:23:44,420
+one way for you to become rich, as a noble person, is to go to the provinces and steal a lot of money.
+而且在省份里………………………………
+
+407
+00:23:44,780 --> 00:23:46,980
+Okay? So Caesar was doing a lot of things that
+...
+
+408
+00:23:46,980 --> 00:23:50,080
+were good for the empire
+译文1
+
+409
+00:23:50,080 --> 00:23:52,700
+and for the Republic in the long term, but which
+译译译??
+
+410
+00:23:52,700 --> 00:23:56,340
+hurt the interests of the senators
+?
+
+411
+00:23:56,340 --> 00:23:57,940
+and nobility in the short term.
+和省份在短期内的贵族。
+
+412
+00:23:58,100 --> 00:23:59,980
+This is what caused the conflict. Okay?
+这就是造成冲突的原因。
+
+413
+00:24:05,460 --> 00:24:08,440
+And because Caesar was
+而且…
+
+414
+00:24:08,440 --> 00:24:12,260
+so fast, and so effective in his reforms,
+so fast, and so effective in his reforms,
+
+415
+00:24:12,680 --> 00:24:16,700
+it not only sort of disturbed the nobility,
+它们在他的改革中...
+
+416
+00:24:16,940 --> 00:24:20,500
+but also disturbed the people as well, because Romans were very conservative.
+...
+
+417
+00:24:20,640 --> 00:24:24,280
+They were not used to all these changes happening so fast. And so
+...
+
+418
+00:24:24,280 --> 00:24:30,020
+this is what compelled the conspirators to act against Caesar.
+...
+
+419
+00:24:30,260 --> 00:24:33,640
+Okay? But this raises a very interesting question.
+...
+
+420
+00:24:34,480 --> 00:24:35,820
+Caesar is a genius.
+凯撒是个天才。
+
+421
+00:24:36,060 --> 00:24:39,040
+He's brilliant. How could he not steal?
+他很有才华。很快就能抓住它。
+
+422
+00:24:39,040 --> 00:24:40,880
+How could he not see this coming? Right?
+他能否能...
+
+423
+00:24:41,880 --> 00:24:46,300
+How could he not imagine the possibility
+...
+
+424
+00:24:46,300 --> 00:24:48,400
+that people were conspiring against him?
+...
+
+425
+00:24:49,000 --> 00:24:53,720
+And the answer, okay, and this is hard for us to understand today,
+...
+
+426
+00:24:53,880 --> 00:24:57,020
+but it was unimaginable
+但它是不可想象的
+
+427
+00:24:57,020 --> 00:25:01,460
+that they would conspire to kill Caesar in the Senate.
+它们...
+
+428
+00:25:02,000 --> 00:25:04,240
+Okay? So
+...
+
+429
+00:25:04,240 --> 00:25:07,560
+there are lots of taboos in Rome.
+在罗马有很多习惯的事物。
+
+430
+00:25:08,720 --> 00:25:11,680
+One major taboo is the idea of the promerium.
+一次大事的习惯...
+
+431
+00:25:14,280 --> 00:25:17,540
+Okay? The promerium just means the boundary of Rome.
+...
+
+432
+00:25:17,700 --> 00:25:20,120
+And the idea here is that Rome,
+和这里的意思是罗马，
+
+433
+00:25:20,260 --> 00:25:23,800
+the city of Rome, the physical geographic space of Rome,
+城市之城，罗马的物理地理空间，
+
+434
+00:25:23,940 --> 00:25:25,560
+it is sacred and divine.
+它是个好好...
+
+435
+00:25:26,920 --> 00:25:28,360
+It is protected by the gods.
+它被神所守护。
+
+436
+00:25:28,780 --> 00:25:33,580
+And therefore, you are not allowed to bring weapons into Rome.
+它的...
+
+437
+00:25:33,820 --> 00:25:36,700
+Okay? If you're a soldier, you must come in as a private citizen.
+...
+
+438
+00:25:37,020 --> 00:25:39,020
+You must come in as a soldier. You are not allowed to come in as a soldier.
+你必须以士兵身份进入。你以士兵身份进入不必…
+
+439
+00:25:39,760 --> 00:25:42,020
+You are not allowed to commit acts of violence
+...
+
+440
+00:25:42,640 --> 00:25:43,900
+within the promerium.
+...
+
+441
+00:25:44,740 --> 00:25:47,020
+Otherwise, the gods will spite you.
+否则，神会仰视你。
+
+442
+00:25:47,300 --> 00:25:49,260
+The gods will take vengeance against you.
+神会给你下回响。
+
+443
+00:25:49,320 --> 00:25:52,000
+Okay? So that's the first taboo.
+好的，...
+
+444
+00:25:52,720 --> 00:25:58,680
+Second taboo is this. The Senate is considered the most sacred
+第二个禁忌是这个。参议院被认为是整个罗马的最…
+
+445
+00:25:58,680 --> 00:26:00,340
+and divine space in the entire,
+...
+
+446
+00:26:00,760 --> 00:26:03,200
+in all of Rome.
+...
+
+447
+00:26:04,480 --> 00:26:07,140
+And so no one's allowed to bring weapons.
+翻译1
+
+448
+00:26:07,140 --> 00:26:10,600
+No one's allowed to commit violence in the Senate.
+翻译2
+
+449
+00:26:11,180 --> 00:26:12,860
+Okay? Also,
+]}We need to produce JSON with translations array of 3 items. The cues: [447] And so no one's allowed to bring weapons. [448] No one's allowed to commit violence in the Senate. [449] Okay? Also, The translation should be natural Simplified Chinese. Use line breaks if needed. Let's produce translations. For [447]
+
+450
+00:26:13,040 --> 00:26:16,320
+the Senate's laws are basically the laws of the gods.
+参议院的法律基本是神的法律。
+
+451
+00:26:16,780 --> 00:26:22,460
+The Senate declared the body of Julius Caesar to be sacrosanct.
+参议院宣布朱利叶·凯撒的遗体为神圣之物。
+
+452
+00:26:22,540 --> 00:26:24,080
+Okay? Meaning divine and sacred.
+好的？
+
+453
+00:26:24,240 --> 00:26:26,240
+You are not allowed to touch the body of Julius Caesar.
+你们不可以触碰朱利叶·凯撒的遗体。
+
+454
+00:26:28,780 --> 00:26:31,740
+Okay? The third thing is
+好吧？第三点是
+
+455
+00:26:31,740 --> 00:26:36,940
+that everyone in the Senate was personally appointed by Julius Caesar.
+每个参议院成员都被朱利叶·凯撒亲自任命。
+
+456
+00:26:37,140 --> 00:26:42,500
+So everyone owed their good fortune to the generosity of Julius Caesar.
+...
+
+457
+00:26:42,960 --> 00:26:47,840
+Okay? Do you understand? It was just unimaginable for Julius Caesar to think
+...
+
+458
+00:26:47,840 --> 00:26:51,640
+that his friends could be conspiring against him.
+...
+
+459
+00:26:52,860 --> 00:26:55,000
+Okay? Okay.
+好的，好的。
+
+460
+00:26:55,040 --> 00:26:56,380
+Does that make sense so far, guys?
+翻译1
+
+461
+00:26:57,280 --> 00:26:58,320
+Okay, it was beyond the
+翻译2
+
+462
+00:26:58,320 --> 00:27:04,260
+imagination of Julius Caesar.
+朱利叶·凯撒的想象
+
+463
+00:27:05,040 --> 00:27:07,980
+But if this is true, then something else is true,
+但若此为真，则又有一件事为真，
+
+464
+00:27:08,080 --> 00:27:11,420
+which is that Julius Caesar did not want to become king.
+朱利叶·凯撒不想成为国王。
+
+465
+00:27:12,280 --> 00:27:16,100
+Because being king was the ultimate taboo in Rome.
+因为在罗马里，成为国王是终极的禁忌。
+
+466
+00:27:17,080 --> 00:27:21,660
+Does that make sense? Julius Caesar could not imagine
+翻译1
+
+467
+00:27:21,660 --> 00:27:25,020
+that Buddhists would kill him because
+翻译??
+
+468
+00:27:25,020 --> 00:27:29,080
+he, like all Romans, believed in these taboos.
+他像所有罗马人一样，信奉这些禁忌。
+
+469
+00:27:30,420 --> 00:27:34,380
+And the ultimate taboo was Rome could never, should never be king.
+罗马里最重要的禁忌是：可归一人之下。
+
+470
+00:27:35,280 --> 00:27:38,380
+So he himself did not want to become king.
+他自己也没能去做…
+
+471
+00:27:38,600 --> 00:27:40,620
+He was behaving very arrogantly.
+他表现得很自大。
+
+472
+00:27:40,820 --> 00:27:42,240
+He was behaving like a king.
+他又是个很大…
+
+473
+00:27:42,700 --> 00:27:45,900
+But he did not, but he would not become king himself.
+...
+
+474
+00:27:46,100 --> 00:27:48,540
+Because it would go against the Roman Republic.
+因为...
+
+475
+00:27:48,860 --> 00:27:53,600
+It would defy all the taboos of the Roman Republic.
+...
+
+476
+00:27:54,220 --> 00:27:56,920
+Okay? And also, before Caesar,
+...
+
+477
+00:27:57,200 --> 00:27:59,760
+there was also another dictator named Sulla.
+还有一位名叫苏拉的独裁者。
+
+478
+00:28:00,200 --> 00:28:03,280
+Okay? And this example of Sulla is, he's a man who
+好的，苏尔拉的例子就是：他是个…
+
+479
+00:28:03,280 --> 00:28:07,880
+comes to the Roman Empire, kills all his enemies, and then he retires.
+他来到了罗马…
+
+480
+00:28:08,200 --> 00:28:12,020
+Okay? He could become king, but he chose to not become king
+好的？他可以成为国王，但他选择不成为国王
+
+481
+00:28:12,020 --> 00:28:15,780
+because to become king would mean the death of the Republic.
+好的，...
+
+482
+00:28:16,100 --> 00:28:17,440
+And that's not taboo.
+好的...
+
+483
+00:28:17,460 --> 00:28:19,680
+That's a rubicon he refused to cross.
+那是个“鲁比孔”他没能走过它。
+
+484
+00:28:20,100 --> 00:28:24,600
+Okay? So we can imagine that Caesar saw himself as a better Sulla.
+好的，…
+
+485
+00:28:24,720 --> 00:28:26,500
+Okay? As a more merciful Sulla.
+好的…
+
+486
+00:28:26,660 --> 00:28:29,920
+He would not kill his enemies. He would show generosity to his enemies.
+他不会杀死敌人。他会给敌人以慷慷大方。
+
+487
+00:28:30,200 --> 00:28:32,820
+And he would restore the Republic to its greatness.
+他又会把回归回去的回归回归的回归回归的回归回归。
+
+488
+00:28:32,820 --> 00:28:34,360
+He would make the necessary reforms.
+他会把…
+
+489
+00:28:34,540 --> 00:28:37,800
+And then he would retire and lead the Republic as it was.
+...
+
+490
+00:28:39,060 --> 00:28:41,860
+Okay? Okay.
+Okay? Okay.
+
+491
+00:28:41,920 --> 00:28:47,120
+Does that make sense? All right. So,
+...
+
+492
+00:28:47,120 --> 00:28:52,860
+it was unimaginable for Caesar to think
+它是个没想到的事，...
+
+493
+00:28:52,860 --> 00:28:56,000
+that he would be killed. And also, what's interesting is,
+?
+
+494
+00:28:56,180 --> 00:29:01,000
+what do you think
+你认为这三个人在杀了凯撒后发生了什么？
+
+495
+00:29:01,000 --> 00:29:04,580
+happened to these three individuals after they killed Caesar?
+你认为这两个人在杀了凯�?
+
+496
+00:29:05,700 --> 00:29:08,300
+Right? They killed Caesar because
+右？他们杀了凯撒因为
+
+497
+00:29:08,300 --> 00:29:10,980
+they feared Caesar would become king.
+他们的...
+
+498
+00:29:12,060 --> 00:29:13,580
+But, after they killed Caesar,
+...
+
+499
+00:29:13,680 --> 00:29:17,540
+what they recognized is they could only kill Caesar
+...
+
+500
+00:29:17,540 --> 00:29:20,420
+because Caesar did not want to become king.
+因为凯撒不想成为国王。
+
+501
+00:29:20,680 --> 00:29:22,780
+Right? Otherwise, Caesar would surround himself with party guards.
+对了，没错！
+
+502
+00:29:23,020 --> 00:29:26,140
+Otherwise, Caesar would not make himself available to his enemies.
+...
+
+503
+00:29:27,080 --> 00:29:30,340
+So, upon the death of Caesar, all his enemies,
+...
+
+504
+00:29:30,440 --> 00:29:32,880
+Decimus, Marcus, and Caesar, all of them, all of them, and Cassius,
+Decimus, Marcus, and Caesar, allof them, all of them, and Cassius,
+
+505
+00:29:32,980 --> 00:29:36,100
+realized they were in the wrong.
+已知他们已失误。
+
+506
+00:29:36,380 --> 00:29:38,400
+But not only that, but
+已知…
+
+507
+00:29:38,400 --> 00:29:42,600
+the very attitude of the people of Rome changed.
+...
+
+508
+00:29:43,260 --> 00:29:46,240
+Right? While Caesar was alive,
+...
+
+509
+00:29:46,760 --> 00:29:50,500
+the Roman people were very skeptical towards Caesar
+罗马人对凯撒很有信心，…
+
+510
+00:29:50,500 --> 00:29:52,280
+because they feared that he would become king.
+...
+
+511
+00:29:52,960 --> 00:29:57,620
+Right? They loved Caesar, but they were afraid that Caesar was too ambitious.
+511: 译文1
+
+512
+00:29:58,840 --> 00:30:02,120
+Right? But, upon the death of Caesar,
+512: 译翻译
+
+513
+00:30:02,560 --> 00:30:06,540
+the Roman people felt tremendous guilt for doubting
+罗马人感到非常...
+
+514
+00:30:07,180 --> 00:30:09,320
+Caesar. Does that make sense?
+...
+
+515
+00:30:09,700 --> 00:30:13,980
+Right? Because it was their doubt that allowed the conspirators to kill Caesar.
+译文1
+
+516
+00:30:14,420 --> 00:30:16,460
+If all they did was believe in Caesar,
+译文2
+
+517
+00:30:16,640 --> 00:30:19,340
+if they believed in Caesar's myth that
+如果……
+
+518
+00:30:19,340 --> 00:30:22,380
+he was here as a man of destiny to restore the Republic,
+...
+
+519
+00:30:22,820 --> 00:30:25,400
+and that's all he cared about,
+翻译1
+
+520
+00:30:25,640 --> 00:30:28,120
+he didn't want to become king, then Caesar would still be alive.
+翻译2
+
+521
+00:30:29,000 --> 00:30:31,000
+Right? And to compound the guilt,
+翻位 1?
+
+522
+00:30:31,200 --> 00:30:35,980
+Caesar showered the people with generosity upon his death.
+在 523 之后的句子”
+
+523
+00:30:37,460 --> 00:30:39,500
+Okay? So,
+OK?…………………………………………………………………………??…………???…………………………???…..??..??..??..??..??..??..??..??……………………………??..??..??..??..??..??..???…..??..??..??..??..??..??..???…..??..??..??.. 1? 1???????..??..??.. 1..??..??..…………..??..??.. 1..??..字幕 1..??..??..…………..??..{
+
+524
+00:30:39,540 --> 00:30:43,220
+you can see how the death of Caesar creates this new reality
+?
+
+525
+00:30:43,220 --> 00:30:46,300
+where people now recognize Caesar did not want to become king.
+在此处，大家现在知道凯撒已不再想成为王。
+
+526
+00:30:46,460 --> 00:30:47,900
+All he wanted to do was save the Republic.
+在此处的那句“...”，我先给我…
+
+527
+00:30:49,320 --> 00:30:50,660
+And people are now,
+And people are now,
+
+528
+00:30:50,860 --> 00:30:54,360
+they're sort of paralyzed
+...
+
+529
+00:30:54,360 --> 00:30:56,900
+by their guilt.
+...
+
+530
+00:30:57,540 --> 00:31:01,760
+All right? So, the evidence for this is this.
+...
+
+531
+00:31:03,340 --> 00:31:06,600
+While Decimus Brutus was being attacked by Mark Anthony
+...
+
+532
+00:31:06,600 --> 00:31:10,880
+and the later Bartholomew, Cassius told Marcus Brutus,
+and the later Bartholomew,Cassius told Marcus Brutus,
+
+533
+00:31:10,960 --> 00:31:13,700
+hey, maybe we should come to this guy's aid.
+...
+
+534
+00:31:13,800 --> 00:31:16,880
+He's our ally. If he falls, they're going to come after us next.
+他是我们的盟友。若他落下，便会先后…
+
+535
+00:31:17,640 --> 00:31:20,440
+And Marcus Brutus did nothing.
+安德 马可斯·布鲁图斯 没有做事。
+
+536
+00:31:20,840 --> 00:31:22,440
+He refused to act.
+他 只 只 先 先…
+
+537
+00:31:23,220 --> 00:31:26,360
+All right? And the reason why is he could not act.
+全部好？原因是他没能行动。
+
+538
+00:31:27,560 --> 00:31:31,460
+All right? He killed Julius Caesar because Julius Caesar was too ambitious.
+全部好？他杀了朱利亚·凯撒…
+
+539
+00:31:32,040 --> 00:31:36,680
+But if Marcus Brutus were to move his army against Rome,
+如果马可斯·布鲁图斯把军队调往罗马，则是他才是那位意欲调兵的…
+
+540
+00:31:36,900 --> 00:31:39,140
+then Marcus Brutus is the ambitious one.
+...
+
+541
+00:31:39,320 --> 00:31:40,920
+He's the one who wants to become king.
+他是...??…????…??…???…??…???…??…????…??…??……
+
+542
+00:31:41,960 --> 00:31:44,780
+Right? Therefore,
+?
+
+543
+00:31:44,780 --> 00:31:46,040
+Marcus Brutus and
+马可斯·布鲁图斯和卡西乌斯只能等待他们的去世。
+
+544
+00:31:46,040 --> 00:31:50,000
+Cassius could only wait for their deaths.
+马可斯·布鲁图?】?
+
+545
+00:31:52,960 --> 00:31:54,380
+Because they feared the case.
+因为他们害怕此案。
+
+546
+00:31:55,000 --> 00:31:57,540
+They believed that Caesar wanted to become king.
+他们认为凯撒想要成为王。
+
+547
+00:31:57,540 --> 00:31:59,100
+But the king wasn't true.
+但王不是真实的。
+
+548
+00:31:59,240 --> 00:32:00,920
+It couldn't be true. And therefore,
+它可以不再好?
+
+549
+00:32:01,180 --> 00:32:04,720
+they committed wrong against Rome by killing Caesar.
+其...
+
+550
+00:32:07,160 --> 00:32:08,560
+Okay? Does that make sense?
+好的？这样说通吗？
+
+551
+00:32:08,900 --> 00:32:10,360
+So this explains his enemies.
+于是这说明了他的敌人。
+
+552
+00:32:11,080 --> 00:32:14,380
+How about Mark Anthony? Okay.
+那就说说吧，马可斯·布鲁图?】?
+
+553
+00:32:14,500 --> 00:32:17,100
+So, Mark Anthony had a different problem.
+于是，马可·安东尼面临另一重难题。
+
+554
+00:32:17,540 --> 00:32:21,540
+Mark Anthony loved Caesar so much, he wanted to continue Caesar's legacy.
+马可·安东尼深情于凯撒，遂欲继其遗业。
+
+555
+00:32:22,460 --> 00:32:26,720
+And Mark Anthony sort of felt betrayed by Caesar.
+并且马可·安东**?】】】
+
+556
+00:32:26,720 --> 00:32:30,220
+When Caesar named Octavian to be the heir and not Mark Anthony.
+当凯撒指定奥克塔维安为继承者而非马可·安东尼时。
+
+557
+00:32:30,420 --> 00:32:34,280
+Okay? And so, what does Mark Anthony want to do now?
+好吧，马可·安东尼此时又要做什么？
+
+558
+00:32:34,580 --> 00:32:39,300
+Well, he wants to prove that Caesar's wrong.
+嗯，马可·安东尼想要证明凯撒的...
+
+559
+00:32:39,940 --> 00:32:44,720
+Mark Anthony wants to prove that he is the rightful heir of Caesar.
+Mark Anthony wants to prove thathe is the rightful heir of Caesar.
+
+560
+00:32:45,440 --> 00:32:48,300
+And to prove so, he will continue his legacy.
+And to prove so, he will continue his legacy.
+
+561
+00:32:49,080 --> 00:32:51,920
+Okay? So, Mark Anthony started to do things
+OK? 先后????????????????????????????????????????????????????????????????????????????????????????????????????????????…????…??…????????…??…??…??…???…??…??…??…??…??…??…??…??………??…??…………………………………………………………………??…………??………?……………………………………………??……………………………??………………………………………………??…???……………………………………??………………………………??…………?…??……………………………………
+
+562
+00:32:51,920 --> 00:32:54,540
+that
+那
+
+563
+00:32:54,540 --> 00:32:59,180
+were against his own personal self -interest and which ultimately led to his self -destruction.
+是的...
+
+564
+00:33:00,820 --> 00:33:05,300
+The first thing that he did was he marched against the Parthians.
+第一件事就是他向帕提亚人进军。
+
+565
+00:33:07,000 --> 00:33:10,600
+The Parthians are Rome's last great enemy.
+帕提亚人是罗马最后一大敌人。
+
+566
+00:33:10,860 --> 00:33:12,420
+Okay? Rome destroyed Carthage.
+好的？罗马毁灭迦特鲁斯。
+
+567
+00:33:12,420 --> 00:33:14,320
+Rome destroyed the Greeks. But
+罗马已毁灭希腊人。
+
+568
+00:33:14,320 --> 00:33:20,160
+the Parthians still had an empire to the east of Rome.
+...
+
+569
+00:33:20,860 --> 00:33:22,120
+And Romans,
+...
+
+570
+00:33:22,440 --> 00:33:26,320
+Roman generals failed to conquer Rome.
+罗马将军未能攻克罗马。
+
+571
+00:33:27,740 --> 00:33:30,860
+And Rome decided to make inroads against Parthia.
+罗马决定向帕提亚进军。
+
+572
+00:33:31,380 --> 00:33:33,420
+And in fact, Julius Caesar,
+安在? 这...
+
+573
+00:33:33,600 --> 00:33:37,620
+he wanted to basically end his life by invading Parthia.
+...
+
+574
+00:33:37,720 --> 00:33:41,560
+Okay? So, Julius Caesar's plan before his death was to attack Parthia,
+好的？所以，尤利乌斯·凯撒在去世前的计划是先攻打帕提亚，然后征服它，再回到欧洲征服德国。
+
+575
+00:33:41,640 --> 00:33:44,500
+conquer it, then sweep back to Europe and conquer Germany.
+好的，帕提亚先行！
+
+576
+00:33:44,760 --> 00:33:48,480
+Okay? Basically conquer the whole world to prove he's better than Alexander the Great.
+...
+
+577
+00:33:49,960 --> 00:33:51,960
+So, Mark Anthony decides that
+译文1
+
+578
+00:33:51,960 --> 00:33:55,800
+this is how he will prove he is Caesar's rightful heir.
+译文2
+
+579
+00:33:55,800 --> 00:33:59,580
+By finishing Caesar's
+译文3
+
+580
+00:33:59,580 --> 00:34:03,240
+legacy against the Parthians. Okay?
+译文1
+
+581
+00:34:03,380 --> 00:34:09,160
+The problem is Romans are not good at war against the Parthians
+译前后两行的翻译结果
+
+582
+00:34:09,160 --> 00:34:12,420
+and the Persians. Okay? Because the Romans are infantry focused
+译前后两句的翻译结果
+
+583
+00:34:12,420 --> 00:34:14,800
+and the Parthians and the Persians are cavalry
+和帕提亚人以及帕提亚人和波斯人是骑兵。
+
+584
+00:34:15,360 --> 00:34:17,680
+focused. Right? They have horses. So,
+右方有点好？
+
+585
+00:34:17,780 --> 00:34:21,660
+Mark Anthony goes over to Parthia and he gets his ass kicked.
+把...
+
+586
+00:34:21,920 --> 00:34:23,720
+All right? He gets his ass kicked.
+好的，翻译成中文
+
+587
+00:34:23,800 --> 00:34:27,060
+He's not Julius Caesar. He's not the heir to Julius Caesar.
+他不是朱利叶·凯撒。 他是个别名…
+
+588
+00:34:27,240 --> 00:34:29,600
+And he falls into a major depression.
+...
+
+589
+00:34:29,940 --> 00:34:31,320
+He basically becomes a drunk.
+他基本上变成了酒鬼。
+
+590
+00:34:31,660 --> 00:34:33,660
+Okay? That's his first major mistake.
+好的？这就是他第一次大错。”
+
+591
+00:34:34,600 --> 00:34:38,940
+Second major mistake he makes is he falls in love with Cleopatra.
+第二个大错是他坠入了克利奥帕特拉的爱恋。
+
+592
+00:34:41,060 --> 00:34:44,240
+Cleopatra is the queen of Egypt, but
+克利奥帕特?
+
+593
+00:34:44,240 --> 00:34:48,700
+much more importantly, she is the mistress of Julius Caesar.
+[593] 先后...??...????...???
+
+594
+00:34:49,000 --> 00:34:52,080
+In fact, rumors were that
+[594] 1...??...?????
+
+595
+00:34:52,080 --> 00:34:54,780
+upon his retirement, Julius Caesar would bring back the queen of Egypt,
+在他退休后，朱利叶·凯撒将把埃及女王带回罗马，并与她共度佳期。
+
+596
+00:34:54,780 --> 00:34:58,900
+bring Cleopatra to Rome, and they would live happily ever after.
+在此时，朱利叶·凯撒回到休息后，得以回到休息后
+
+597
+00:34:59,280 --> 00:35:00,960
+Okay? That's the rumor.
+好的，...??...???
+
+598
+00:35:01,700 --> 00:35:04,680
+So, Mark Anthony goes over to Egypt
+...?????
+
+599
+00:35:04,680 --> 00:35:07,840
+and he becomes the lover to Cleopatra.
+他成为了克利奥帕特拉的情人。
+
+600
+00:35:08,160 --> 00:35:10,680
+Okay? Because he's trying to be Julius Caesar now.
+好的，...??...??
+
+601
+00:35:11,260 --> 00:35:14,780
+And this is a problem because to marry Cleopatra,
+在此时…………
+
+602
+00:35:14,920 --> 00:35:17,200
+he has to divorce his wife, who
+...
+
+603
+00:35:17,200 --> 00:35:20,620
+happens to be the sister of Octavian.
+...
+
+604
+00:35:21,680 --> 00:35:24,760
+Okay? So, this causes a personal rift between Octavian and Cleopatra.
+OK? 于是这就造成了...??????
+
+605
+00:35:24,760 --> 00:35:29,280
+And the third thing
+...????……??
+
+606
+00:35:29,280 --> 00:35:32,700
+that he does, which is what causes his demise,
+{
+
+607
+00:35:33,080 --> 00:35:36,840
+is he names in his will, okay?
+...
+
+608
+00:35:36,980 --> 00:35:39,320
+He names in his will that
+...
+
+609
+00:35:39,320 --> 00:35:43,420
+his children of Cleopatra will become
+...
+
+610
+00:35:43,420 --> 00:35:46,300
+the heirs to the Roman East.
+the ... …………… ………………………… ……………
+
+611
+00:35:46,960 --> 00:35:49,820
+All the property, all that land that
+.. … ??…..
+
+612
+00:35:49,820 --> 00:35:54,400
+Mark Anthony controls will be given to his children,
+? ..??..
+
+613
+00:35:54,500 --> 00:35:56,320
+will become his property. And so, he's the only one who can give that land to Cleopatra. They're foreign citizens.
+将成为他的财产。于是他是唯一能把这片土地交给克利奥帕特拉的人。
+
+614
+00:35:56,680 --> 00:36:00,100
+And also, Mark Anthony does not have the authority to give
+安可...
+
+615
+00:36:00,100 --> 00:36:02,100
+that land out to his children.
+...
+
+616
+00:36:02,220 --> 00:36:04,960
+Only the Senate has the authority. Okay? So,
+...
+
+617
+00:36:05,060 --> 00:36:08,500
+Octavian uses the will as a
+Octavian uses the will as a
+
+618
+00:36:08,500 --> 00:36:11,120
+pretext to attack Mark Anthony.
+预先前景? 先前???????
+
+619
+00:36:11,460 --> 00:36:15,540
+And he's heavily supported by the Roman people.
+...
+
+620
+00:36:15,760 --> 00:36:18,660
+Okay? So, Mark Anthony, because
+好的，...
+
+621
+00:36:18,660 --> 00:36:21,420
+he's trying so hard to escape the shadow of Julius Caesar,
+他正在努力摆脱朱利亚·凯撒的影子
+
+622
+00:36:21,600 --> 00:36:24,720
+because he's trying so hard to prove he is the king of Egypt.
+因为他正好...
+
+623
+00:36:24,720 --> 00:36:25,980
+He's the legitimate heir to Julius Caesar.
+...
+
+624
+00:36:26,200 --> 00:36:27,520
+He basically self -destructs.
+他基本自我毁
+
+625
+00:36:28,280 --> 00:36:30,140
+He didn't have to do any of this, but he did.
+他没做过这事，才会…
+
+626
+00:36:30,460 --> 00:36:33,000
+And by doing all this, it guarantees his destruction.
+通过这些操作，保证了他的自我毁灭。
+
+627
+00:36:33,440 --> 00:36:36,820
+Okay? So, Mark Anthony basically self -destructs.
+好的，...
+
+628
+00:36:38,580 --> 00:36:41,800
+Let's look at Lepidus.
+Let's look at Lepidus.
+
+629
+00:36:42,320 --> 00:36:46,760
+Okay? Lepidus, he is an extremely effective administrator,
+OK? 里普德斯...??
+
+630
+00:36:47,220 --> 00:36:50,520
+but he is not as charismatic
+...
+
+631
+00:36:50,520 --> 00:36:53,460
+and as blunt as Julius Caesar.
+...
+
+632
+00:36:55,120 --> 00:36:57,700
+And Lepidus basically shied away.
+And Lepidus basically shied away.
+
+633
+00:36:58,520 --> 00:37:02,220
+Okay? He didn't have the confidence to challenge Octavian for the ultimate power.
+好的...
+
+634
+00:37:02,660 --> 00:37:05,320
+And seeing this lack of confidence and this insecurity,
+看见此时的士兵们，...
+
+635
+00:37:05,660 --> 00:37:07,880
+his soldiers basically went off to join Octavian.
+his soldiers basically went off to join Octavian.
+
+636
+00:37:07,960 --> 00:37:09,300
+Okay? And a lot of soldiers did that.
+好的，接着说！
+
+637
+00:37:09,700 --> 00:37:13,600
+A lot of soldiers that were fighting for the enemy's side would just jump ship because
+好的，接着说！
+
+638
+00:37:14,720 --> 00:37:16,960
+Octavian is the heir of Julius Caesar.
+奥特维安是朱利叶·凯撒的继承者。
+
+639
+00:37:17,080 --> 00:37:18,520
+Okay? He is the new Julius Caesar.
+好的，奥特维安就是新朱利叶·凯撒。
+
+640
+00:37:18,640 --> 00:37:21,620
+And they all worship Julius Caesar. All right?
+...
+
+641
+00:37:23,920 --> 00:37:25,260
+Now, let's look at the other side. Let's look at Octavian.
+...
+
+642
+00:37:26,180 --> 00:37:27,980
+Why did Octavian succeed so much?
+为什么奥特维安能如此成功？
+
+643
+00:37:29,640 --> 00:37:33,440
+Again, he became partners with Marcus Agrippa, who was a much better general than him.
+再次，奥特维安与马可·阿格里帕结成伙伴。
+
+644
+00:37:36,120 --> 00:37:39,860
+But Octavian, again, he was not a blunt man.
+但奥特维安，还是，他并不是个笨拙的人。
+
+645
+00:37:40,220 --> 00:37:42,120
+He was not charismatic. He was not a great general.
+他又不是那种可见可见的风格。”
+
+646
+00:37:42,660 --> 00:37:45,760
+But he believed himself to be the heir to Julius Caesar.
+但他认为自己是朱利叶·凯撒的继承者。
+
+647
+00:37:46,260 --> 00:37:49,580
+For whatever reason, Julius Caesar believed in him.
+为了...??
+
+648
+00:37:49,820 --> 00:37:52,700
+And therefore, he had a responsibility to...
+并且...
+
+649
+00:37:52,700 --> 00:37:56,380
+To finish the legacy of his father,
+完成...
+
+650
+00:37:56,480 --> 00:37:58,000
+which is to restore the Roman Republic.
+完成...
+
+651
+00:37:59,680 --> 00:38:03,800
+And that meant he had to do whatever sacrifice was necessary in order to do so.
+And that meant he had to do whatever sacrifice was necessary in order to do so.
+
+652
+00:38:03,900 --> 00:38:06,340
+Okay? So,
+???
+
+653
+00:38:06,420 --> 00:38:09,200
+the difference between Octavian and
+]
+
+654
+00:38:09,200 --> 00:38:11,900
+the others was he acted.
+其他人是他行动的结果。
+
+655
+00:38:13,380 --> 00:38:16,060
+He wasn't very successful, but he was willing to act,
+他不太成功，但他很愿意行动。
+
+656
+00:38:16,220 --> 00:38:18,380
+whereas Marcus Brutus was not willing to act.
+在布鲁图斯不愿行动的情况下，马尔库斯·布鲁图斯却不愿行动。
+
+657
+00:38:19,080 --> 00:38:23,100
+And when you act, sometimes you will succeed. Okay? And
+]}We need to translate cues [656] and [657] into Simplified Chinese. Provide JSON with translations array of two strings. Let's translate properly. Cue [656]:
+
+658
+00:38:23,100 --> 00:38:28,680
+only a few successes will allow you to become the emperor of Rome.
+??
+
+659
+00:38:29,780 --> 00:38:32,380
+He was driven by the fact
+He was driven bythe fact
+
+660
+00:38:32,380 --> 00:38:36,240
+that he believed himself to be the heir of Julius Caesar.
+that he believed himself tobe the heir of Julius Caesar.
+
+661
+00:38:36,300 --> 00:38:38,700
+He was a son of Julius Caesar. Julius Caesar believed in him.
+??
+
+662
+00:38:38,800 --> 00:38:43,240
+Therefore, he had his responsibility to restore the Republic.
+...
+
+663
+00:38:43,560 --> 00:38:46,980
+And that's why he trusted Marcus Agrippa.
+...
+
+664
+00:38:47,320 --> 00:38:51,240
+Okay? And that's why Marcus Agrippa trusted him.
+好的，随后是马可·阿格里帕信任他
+
+665
+00:38:51,240 --> 00:38:55,880
+They were all fighting for the legacy of Julius Caesar.
+They were all fighting forthe legacy of Julius Caesar.
+
+666
+00:38:57,500 --> 00:39:01,720
+And that's why ultimately the Roman people allowed Octavian to amass so much power.
+???
+
+667
+00:39:02,700 --> 00:39:05,240
+Right? So, remember,
+?
+
+668
+00:39:05,380 --> 00:39:08,040
+the Roman people have been taught to fear kings.
+罗马人民被教会怕王者。
+
+669
+00:39:09,280 --> 00:39:12,300
+But, over time, Octavian was in power for 40 years.
+...
+
+670
+00:39:12,400 --> 00:39:13,940
+Okay? Augustus Caesar was in power for 40 years.
+好的？奥古斯都凯撒执掌权力四十年。
+
+671
+00:39:14,260 --> 00:39:16,960
+Over time, he became even more powerful than a king.
+过了百合，才是个别的更好！
+
+672
+00:39:17,340 --> 00:39:21,580
+This is what he did. He amassed all powers to himself.
+??
+
+673
+00:39:22,180 --> 00:39:23,300
+After he conquered Egypt,
+...
+
+674
+00:39:23,640 --> 00:39:29,180
+he made Egypt into his own personal property.
+他把埃及里做成了他个人的财产。
+
+675
+00:39:29,600 --> 00:39:30,880
+Okay? This was his private estate.
+好的？这是一场大事！
+
+676
+00:39:33,020 --> 00:39:35,000
+He used all the money from Egypt.
+??
+
+677
+00:39:35,100 --> 00:39:38,200
+And again, remember, Egypt is right now, and for the longest time,
+...
+
+678
+00:39:38,240 --> 00:39:40,980
+the wealthiest country in the world at this time.
+在此时，世界上最富有的国家。
+
+679
+00:39:41,040 --> 00:39:42,340
+Okay? They have so much wealth.
+...
+
+680
+00:39:42,740 --> 00:39:48,120
+He used his money in order to have his own army.
+他用钱来组建自己的军队。
+
+681
+00:39:49,600 --> 00:39:53,600
+Before, the Roman army was loyal to the Senate.
+在之前，罗马军队忠于参议院。
+
+682
+00:39:54,160 --> 00:39:56,960
+Now, because it was Octavian himself
+现在因为奥克塔维安亲自支付每位士兵的费用，
+
+683
+00:39:56,960 --> 00:40:00,240
+who personally paid every soldier in the army, which
+??
+
+684
+00:40:00,240 --> 00:40:02,800
+is now a professional army, they're now loyal to the emperor.
+它现在是一支职业军队，他们现在忠于皇帝。
+
+685
+00:40:03,560 --> 00:40:06,220
+Okay? He took Gaul, which was,
+它是...??
+
+686
+00:40:06,320 --> 00:40:09,480
+you know, which was land that
+你知道的，哪块是朱利亚·凯撒的原始地块。
+
+687
+00:40:09,480 --> 00:40:11,900
+Julius Caesar basically depopulated with genocide,
+你们知道，朱利亚·前方块块…
+
+688
+00:40:12,260 --> 00:40:14,280
+and he gave the land to his veterans.
+和他把土地交给了他的老兵。
+
+689
+00:40:14,920 --> 00:40:18,100
+Okay? So, basically, he made Gaul his own land.
+好的，先前…
+
+690
+00:40:18,100 --> 00:40:20,920
+And he made the entire army loyal to him personally.
+他把军队全部归属他个人的归属。
+
+691
+00:40:21,740 --> 00:40:23,520
+So, he now has the power of God.
+他又把军队全部归属给了。”
+
+692
+00:40:24,160 --> 00:40:27,160
+The Roman people allowed him to do that because they believed
+翻译1
+
+693
+00:40:27,160 --> 00:40:30,340
+that, like, Octavian, sorry, like Julius Caesar,
+翻译2
+
+694
+00:40:30,460 --> 00:40:32,260
+Octavian was driven by his sense of mission,
+翻译地块
+
+695
+00:40:32,640 --> 00:40:36,720
+his desire to save and restore the Roman Republic.
+...
+
+696
+00:40:38,500 --> 00:40:42,320
+But ultimately, because they believed him too much,
+...
+
+697
+00:40:42,700 --> 00:40:45,800
+Augustus Caesar would destroy the Republic and
+...
+
+698
+00:40:45,800 --> 00:40:47,620
+concentrate all power in his hands.
+把所有权力集中在他手中。
+
+699
+00:40:49,300 --> 00:40:50,540
+Okay? Does that make sense?
+好的？这有道理吗？
+
+700
+00:40:51,180 --> 00:40:58,220
+All right. Any questions? Yeah?
+好的，全部好！
+
+701
+00:40:58,440 --> 00:41:04,380
+Why did Julius Caesar name Octavian?
+为什么...??
+
+702
+00:41:06,040 --> 00:41:07,360
+Okay, that's a great question. Okay.
+...??
+
+703
+00:41:07,420 --> 00:41:11,280
+So, why did Julius Caesar name Octavian as the hero and not Mark Antony?
+...??
+
+704
+00:41:11,380 --> 00:41:12,700
+Okay. So,
+好的。于是，奥古斯丁是查理大帝的外甥。[注：奥古斯丁是指奥古斯丁？]
+
+705
+00:41:12,780 --> 00:41:17,600
+Octavian is the great nephew of King Charles the Great.
+奥古斯丁是查理大…
+
+706
+00:41:17,620 --> 00:41:18,880
+And he was the great nephew of Julius Caesar.
+??
+
+707
+00:41:21,080 --> 00:41:27,060
+So, Octavian was Julius Caesar's sister's grandson.
+于是，奥古斯丁是朱利叶·凯撒的外甶孙。
+
+708
+00:41:28,060 --> 00:41:31,460
+And so, Octavian basically grew up with Julius Caesar.
+于是，奥古斯丁基本上与朱利叶·凯撒同一辈。
+
+709
+00:41:31,860 --> 00:41:33,300
+Like, they knew each other very well.
+像是个好朋友，彼此相识很久。
+
+710
+00:41:33,720 --> 00:41:35,120
+But as Echo says,
+但如回声所说，
+
+711
+00:41:35,540 --> 00:41:39,400
+Mark Antony is the man
+Mark Antony ...... ...
+
+712
+00:41:39,400 --> 00:41:42,660
+who is most loyal to Caesar.
+...
+
+713
+00:41:42,860 --> 00:41:45,620
+Okay? The most trusted lieutenant of Caesar.
+好的？凯撒最信任的副将军。
+
+714
+00:41:45,880 --> 00:41:47,400
+Why didn't Caesar trust him?
+为什么凯撒没有给他一回？
+
+715
+00:41:47,720 --> 00:41:52,200
+And the answer is, Caesar, as a genius, he doesn't care about loyalty.
+又是个别名？
+
+716
+00:41:52,400 --> 00:41:55,100
+He cares about talent. He cares about ability.
+他关心才干；他关心能干。
+
+717
+00:41:56,220 --> 00:41:59,340
+And Mark Antony was a notorious hothead.
+马可·安东尼是个名声的冲动者。
+
+718
+00:41:59,520 --> 00:42:01,420
+He had a violent temper. He was a drunk.
+他有个大声响的回声。”
+
+719
+00:42:01,940 --> 00:42:04,720
+Okay? I mean, he just had, like,
+好的？我就是说，他刚好有，像，
+
+720
+00:42:04,720 --> 00:42:07,140
+terrible, terrible personal qualities.
+太好了！
+
+721
+00:42:07,400 --> 00:42:10,300
+So, an example of this is, while
+…………
+
+722
+00:42:10,300 --> 00:42:13,340
+Caesar was a genius,
+凯撒是个天才，
+
+723
+00:42:13,340 --> 00:42:15,200
+he was off campaigning against Pompey.
+他正忙着对付庞庞的战役。
+
+724
+00:42:16,820 --> 00:42:18,580
+He put Mark Antony in charge of Rome.
+他把马可·安东尼交给了罗马的管事。
+
+725
+00:42:18,780 --> 00:42:21,700
+And all Mark Antony did was piss everyone off.
+又是...??
+
+726
+00:42:21,980 --> 00:42:25,200
+He got into fights with the Senate. He was so bad that
+...??
+
+727
+00:42:25,200 --> 00:42:27,860
+Caesar had no choice but to replace him with Lepidus.
+...??
+
+728
+00:42:28,340 --> 00:42:32,340
+Okay? So, Mark Antony was a notorious hothead.
+好的？于是，马可·安东尼是个著名的冲动者。
+
+729
+00:42:32,520 --> 00:42:34,080
+He was emotionally unstable.
+他情绪不稳定。
+
+730
+00:42:34,700 --> 00:42:35,980
+He was emotionally volatile.
+他情绪多变。
+
+731
+00:42:36,360 --> 00:42:38,020
+And so, Caesar didn't really trust him.
+又是...??
+
+732
+00:42:38,340 --> 00:42:41,900
+Even though Mark Antony would give his life for Caesar.
+...??
+
+733
+00:42:43,340 --> 00:42:44,880
+Does that make sense? Okay?
+...??
+
+734
+00:42:44,980 --> 00:42:48,560
+So, Octavian was considered much more competent, much more level -headed.
+所以，奥古维安被认为更有能力，更加沉着。
+
+735
+00:42:48,780 --> 00:42:50,540
+And Caesar was correct in his assessment.
+凯撒又是正确的！
+
+736
+00:42:50,780 --> 00:42:54,540
+Because Octavian was a brilliant political manipulator.
+因为奥古维安是个很好的…
+
+737
+00:42:54,660 --> 00:42:56,960
+Okay? Being an emperor is very hard.
+好的？当个皇帝很难。
+
+738
+00:42:57,240 --> 00:42:58,760
+He was emperor for 40 years.
+他曾任职四十年。
+
+739
+00:42:58,980 --> 00:43:03,120
+So, he had to balance all these different political factions within Rome.
+于是他在罗马里把各个政治团伙都算算。
+
+740
+00:43:03,340 --> 00:43:05,740
+Okay? So, great question, Eko.
+...
+
+741
+00:43:05,840 --> 00:43:07,860
+Okay, any more questions? Or comments?
+...
+
+742
+00:43:08,280 --> 00:43:09,220
+About this argument?
+...
+
+743
+00:43:15,620 --> 00:43:17,420
+Is all clear?
+...
+
+744
+00:43:18,720 --> 00:43:21,080
+Audience Member 7 Audience Member 8 Audience
+...
+
+745
+00:43:21,080 --> 00:43:26,140
+Member 9
+Member 9
+
+746
+00:43:26,140 --> 00:43:31,820
+Audience Member 10 Audience Member 11
+...
+
+747
+00:43:37,320 --> 00:43:40,140
+Audience Member 12
+...
+
+748
+00:43:58,060 --> 00:44:19,300
+Yeah. That's right.
+是的。
+
+749
+00:44:27,440 --> 00:44:31,940
+That's right. Yeah, I mean it was very hard to kill Caesar, okay?
+是的。
+
+750
+00:44:32,020 --> 00:44:34,280
+So they were in the Senate. There were six conspirators, okay?
+于是他们在参议院里。那时有六个阴谋者，好吗？
+
+751
+00:44:34,340 --> 00:44:37,900
+They all brought knives. They were, they hit the knives, the daggers in the toga, okay?
+他们都带着刀子，咱们把它们放在衣服里。”
+
+752
+00:44:38,100 --> 00:44:39,980
+They were all supposed to like lunge Caesar together.
+他们都应该一起冲向凯撒。
+
+753
+00:44:41,640 --> 00:44:43,060
+So but when you...
+他们都要冲向凯撒。”
+
+754
+00:44:43,060 --> 00:44:44,900
+But only five senators,
+但只有五位参议员，
+
+755
+00:44:45,160 --> 00:44:48,460
+only five senators actually physically attacked Caesar.
+只有五位参议员才真正亲手攻击凯撒。
+
+756
+00:44:48,560 --> 00:44:52,480
+Everyone else just stood paralyzed because as you said, it was taboo.
+所有人都站着不动，正如你所说，参议院里才有的那种空中之气。
+
+757
+00:44:52,580 --> 00:44:55,340
+It was the ultimate taboo to commit violence in the Senate.
+它们的空空之作?
+
+758
+00:44:55,560 --> 00:45:00,160
+So they were all paralyzed by this fear even though they had this intense hatred of Caesar,
+他们都因这份恐惧而全然停顿，尽管他们有着对凯撒的强烈之意。”
+
+759
+00:45:00,730 --> 00:45:06,640
+okay? They had for months imagined how they would go about killing Caesar.
+“好吧！…………”，…??……??…???
+
+760
+00:45:06,920 --> 00:45:09,700
+They had this plan meticulously.
+“……………”
+
+761
+00:45:09,960 --> 00:45:13,040
+But when it came to actually acting it out, they couldn't do it.
+但当它们真正去做时，才有五个…
+
+762
+00:45:13,040 --> 00:45:17,780
+Only five actually managed to take out their dagger
+先前……
+
+763
+00:45:17,780 --> 00:45:19,620
+and stab Caesar.
+先前…
+
+764
+00:45:19,840 --> 00:45:21,500
+In fact, the first person who
+在此，第一位攻击凯撒的人站在他身后，
+
+765
+00:45:21,500 --> 00:45:24,300
+attacked Caesar stood behind Caesar
+在此…????……??? ！
+
+766
+00:45:24,300 --> 00:45:28,160
+while Caesar was talking to the Senate
+?……………??…? ? ……… …………… ……刺…..??……………………………………………………………
+
+767
+00:45:28,160 --> 00:45:31,220
+and he was shaking, okay?
+和他在摇晃，好的？
+
+768
+00:45:31,680 --> 00:45:35,540
+And he only managed to like pinprick Caesar in the back, okay?
+他只好像…………………………………………………
+
+769
+00:45:35,600 --> 00:45:37,500
+This is where we get the idea of backstabbing from.
+此时………………………??
+
+770
+00:45:38,060 --> 00:45:41,160
+So and Caesar didn't really notice.
+于是凯撒没注意到。
+
+771
+00:45:41,220 --> 00:45:42,620
+He was like, hey, what are you doing, man?
+他大概是这样说：我来回…
+
+772
+00:45:42,720 --> 00:45:45,620
+He was like, hey, what are you doing, man? Okay? Caesar wasn't really hurt by this.
+他大概…
+
+773
+00:45:45,680 --> 00:45:48,820
+Even Caesar, even though he was being attacked, could not imagine
+在此时，凯撒也好像………
+
+774
+00:45:48,820 --> 00:45:52,860
+that anyone would be so bold enough to break all these taboos
+在此翻译……
+
+775
+00:45:52,860 --> 00:45:55,020
+and attack him, okay?
+此时……
+
+776
+00:45:55,740 --> 00:45:57,780
+So I mean,
+所以我说，
+
+777
+00:45:57,840 --> 00:46:00,800
+it was an incredible act that
+它是一次很好的…
+
+778
+00:46:00,800 --> 00:46:03,120
+forever changed Roman history, all right?
+...
+
+779
+00:46:03,140 --> 00:46:06,620
+It was just unimaginable that anyone could attack anyone in the Senate,
+翻译1
+
+780
+00:46:06,780 --> 00:46:10,620
+like physically, okay? Especially the dictator,
+翻译2
+
+781
+00:46:10,940 --> 00:46:13,400
+Julius Caesar. He was like, hey, what are you doing? And
+翻译??
+
+782
+00:46:13,400 --> 00:46:21,760
+yet you
+又是你
+
+783
+00:46:21,760 --> 00:46:24,280
+got to fight against the
+又...
+
+784
+00:46:24,280 --> 00:46:28,800
+great pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie
+...
+
+785
+00:46:28,800 --> 00:46:33,380
+pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie
+...
+
+786
+00:46:33,380 --> 00:46:38,600
+pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie They're generals,
+pie...???
+
+787
+00:46:38,660 --> 00:46:40,560
+they're used to killing people. So it wasn't fear of death,
+]}We need to translate cues 786 and 787 into Simplified Chinese. Provide JSON with translations array. Let's translate. Cue 786: long
+
+788
+00:46:40,700 --> 00:46:45,220
+it was just fear of breaking this ultimate taboo of this Roman Senate.
+...
+
+789
+00:46:46,100 --> 00:46:48,960
+Okay, so thanks for that, Doug.
+...
+
+790
+00:46:49,680 --> 00:46:52,860
+Any more questions before I finish?
+...
+
+791
+00:46:57,140 --> 00:46:58,180
+Okay, so,
+...
+
+792
+00:47:02,620 --> 00:47:06,500
+Octavian Augustus Caesar was considered the first
+Octavian Augustus Caesarwas considered the first
+
+793
+00:47:06,500 --> 00:47:09,180
+and the greatest emperor of the Roman Empire.
+and the greatest emperor of the Roman Empire.
+
+794
+00:47:10,980 --> 00:47:14,480
+And like Julius Caesar, he did not consider himself the emperor,
+...
+
+795
+00:47:14,620 --> 00:47:18,440
+he considered himself like first citizen, okay, or the first man in the Senate.
+他认为自己像第一位公民，好吧，...
+
+796
+00:47:18,780 --> 00:47:23,960
+And his responsibility was to ensure the eternal prosperity
+...
+
+797
+00:47:23,960 --> 00:47:27,400
+and stability of the Roman Republic.
+and stability ofthe Roman Republic.
+
+798
+00:47:28,560 --> 00:47:32,860
+And so, towards his old age,
+...
+
+799
+00:47:33,020 --> 00:47:37,320
+he had to consider the public, sorry, he had to consider the public as a problem of succession,
+...
+
+800
+00:47:37,720 --> 00:47:40,580
+right? He was a great emperor, but
+对吗？他是个伟大的皇帝，但
+
+801
+00:47:40,580 --> 00:47:42,640
+the second emperor had to be great as well.
+第二个皇帝也得是个好人。
+
+802
+00:47:44,760 --> 00:47:47,340
+And so, his solution was this.
+2024-11-12 1/2?1/?? 1? ?????
+
+803
+00:47:48,000 --> 00:47:50,820
+His solution would be, he would adopt
+? 1???
+
+804
+00:47:52,000 --> 00:47:55,540
+the most competent relative that he had to be emperor.
+最有能力的亲属将成为皇帝。
+
+805
+00:47:55,840 --> 00:48:00,640
+And he would create this new system where emperors would be adopted, okay?
+他将创建一个新的制度，采用皇帝的方式，好的？
+
+806
+00:48:00,880 --> 00:48:05,300
+So the best man in Rome would always be adopted into the imperial throne.
+所以罗马的最佳人选总会被立为皇帝。
+
+807
+00:48:06,160 --> 00:48:11,320
+And Augustus Caesar had the perfect man.
+而古斯塔斯·凯撒有个好点儿的合适人选
+
+808
+00:48:11,460 --> 00:48:17,420
+His name was Germanicus. Germanicus was very much like Julius Caesar.
+他的名字叫做德国人。德国人很久…
+
+809
+00:48:17,580 --> 00:48:19,140
+Brilliant speaker,
+翻译：
+
+810
+00:48:19,540 --> 00:48:23,820
+loved by his soldiers. The problem was that he was too young, okay?
+...
+
+811
+00:48:24,580 --> 00:48:27,200
+Germanicus was too young, so he needed a transition.
+German … ?
+
+812
+00:48:28,080 --> 00:48:30,540
+And so, he appointed his stepson, Tiberius,
+翻译：...
+
+813
+00:48:32,340 --> 00:48:36,000
+who was pretty old at this point, okay, to be the transition.
+who was pretty old at this point, okay, to be the transition.
+
+814
+00:48:36,720 --> 00:48:40,420
+Tiberius was not charismatic, he was not very popular,
+...
+
+815
+00:48:40,580 --> 00:48:42,520
+but he was competent, he was a competent administrator.
+...
+
+816
+00:48:43,120 --> 00:48:44,760
+He'd be emperor for like five to 10 years,
+他将担任皇帝约五到十年，
+
+817
+00:48:45,360 --> 00:48:50,060
+and then when Germanicus came of age,
+他将担任…??
+
+818
+00:48:50,300 --> 00:48:51,940
+then Germanicus would inherit the throne.
+然后德国人会继承王位。
+
+819
+00:48:52,520 --> 00:48:55,340
+And he'd be a good emperor, and as a good emperor,
+...
+
+820
+00:48:55,460 --> 00:48:58,480
+you would then be able to find someone else
+你会在此时再找一个人选
+
+821
+00:48:59,000 --> 00:49:02,140
+who had good talent, and you would appoint him the next emperor.
+...
+
+822
+00:49:02,420 --> 00:49:05,260
+If you had this system, this system could go on forever.
+如果你有这个系统，它可以一直持续下去。
+
+823
+00:49:05,540 --> 00:49:08,800
+Okay? And so, this is a good system.
+好的，...
+
+824
+00:49:09,900 --> 00:49:14,120
+The problem was Tiberius, okay?
+824. 译文1
+
+825
+00:49:14,980 --> 00:49:17,760
+Tiberius didn't like the idea that
+...
+
+826
+00:49:17,760 --> 00:49:20,580
+he could not appoint his successor,
+他能否能给他后继任命？
+
+827
+00:49:21,120 --> 00:49:23,900
+okay? So, what did he do?
+...
+
+828
+00:49:24,020 --> 00:49:25,720
+Well, he killed Germanicus.
+好的，...
+
+829
+00:49:26,460 --> 00:49:28,080
+But not only did he kill Germanicus,
+...
+
+830
+00:49:28,380 --> 00:49:34,280
+he killed basically all of Germanicus's family,
+...
+
+831
+00:49:34,440 --> 00:49:37,800
+okay? And not only did he kill Germanicus, did he kill Germanicus's family,
+好吧，接着说：我先前………………………………………………
+
+832
+00:49:37,920 --> 00:49:40,240
+but he killed, well, he killed a lot of people, okay?
+?
+
+833
+00:49:42,260 --> 00:49:44,480
+And then he adopted someone named Caligula,
+?…………………………??
+
+834
+00:49:46,500 --> 00:49:48,520
+who was Germanicus's youngest son,
+谁是德国人最小的儿子，...??
+
+835
+00:49:48,640 --> 00:49:51,620
+to be the emperor.
+??????……??
+
+836
+00:49:51,720 --> 00:49:54,100
+And Caligula was a notoriously bad emperor,
+???…..????????…??…??…………………
+
+837
+00:49:54,500 --> 00:49:58,540
+okay? So, this system broke down very quickly.
+...
+
+838
+00:49:59,980 --> 00:50:01,480
+Even though Augustus Caesar,
+...
+
+839
+00:50:01,660 --> 00:50:06,480
+his intention was to continue the legacy of Julius Caesar
+??
+
+840
+00:50:06,480 --> 00:50:10,740
+and create an eternal prosperity for the Roman Republic,
+翻译1
+
+841
+00:50:11,040 --> 00:50:14,340
+okay? And by the time you got to Tiberius,
+翻译2
+
+842
+00:50:14,900 --> 00:50:17,940
+the system collapsed. And
+翻译1
+
+843
+00:50:17,940 --> 00:50:19,280
+you could make the argument that
+???
+
+844
+00:50:19,280 --> 00:50:23,860
+Tiberius marked the death of the Roman Empire,
+特比略标志着罗马帝国的死亡，
+
+845
+00:50:24,060 --> 00:50:27,280
+okay? The Roman Empire would continue for another, like, 300 years, but
+特比略标志着罗马帝国的回归？
+
+846
+00:50:27,280 --> 00:50:29,760
+it was basically dead, okay?
+它基本上已经死了，好吗？
+
+847
+00:50:30,240 --> 00:50:32,600
+Meaning that it was wracked by all these internal revolts,
+它们的内部冲突??
+
+848
+00:50:33,240 --> 00:50:36,020
+internal tensions. And so, the Roman Empire was dead. And it was only because of its size
+内部张力。于是，罗马帝国又回归…
+
+849
+00:50:36,020 --> 00:50:39,560
+and inertia that it was able to continue for so long, okay?
+...
+
+850
+00:50:42,720 --> 00:50:44,440
+So, next class,
+...??...????...???
+
+851
+00:50:44,460 --> 00:50:47,540
+we'll finish Rome by discussing
+...????...???
+
+852
+00:50:48,620 --> 00:50:50,280
+the Roman legacy, okay?
+the ... ... ... ... ... ... … … …… … … … … … … … ?? ? … … … ..???……
+
+853
+00:50:50,540 --> 00:50:53,500
+What is Rome's contribution to Western civilization?
+?
+
+854
+00:50:54,280 --> 00:50:59,440
+And this will mainly have to do with the legacy of Augustus Caesar,
+…………..??
+
+855
+00:50:59,660 --> 00:51:01,720
+right? Any questions?
+对吗？有问题吗？
+
+856
+00:51:08,720 --> 00:51:10,340
+Okay, all right, great.
+好的，全部都好。
+
+857
+00:51:10,520 --> 00:51:13,680
+So, we will continue, we'll finish with Rome next class,
+好的，接下来我们继续，下一节课我们会把罗马结束。
+
+858
+00:51:13,900 --> 00:51:17,280
+and then we'll start Egypt, okay? And Egypt will be a lot of fun.
+...

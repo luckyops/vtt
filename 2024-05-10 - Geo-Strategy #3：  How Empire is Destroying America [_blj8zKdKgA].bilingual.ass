@@ -1,0 +1,821 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:03.06,English,,0,0,0,,So in this class this semester,\N{\rChinese}于是在本学期的这门课里，
+Dialogue: 0,0:00:03.36,0:00:05.94,English,,0,0,0,,I'm making three big predictions, right?\N{\rChinese}我做了三个大预测，对吧？
+Dialogue: 0,0:00:06.20,0:00:10.30,English,,0,0,0,,First is that Trump will win in November.\N{\rChinese}第一个是特朗普将在十一月赢得选举。
+Dialogue: 0,0:00:10.80,0:00:12.42,English,,0,0,0,,Second is that\N{\rChinese}第二个是……
+Dialogue: 0,0:00:12.42,0:00:16.52,English,,0,0,0,,United States will go to war against Iran.\N{\rChinese}美国将对伊朗发动战争。
+Dialogue: 0,0:00:17.06,0:00:20.06,English,,0,0,0,,The third big prediction is that\N{\rChinese}第三个大预测是……
+Dialogue: 0,0:00:20.06,0:00:23.12,English,,0,0,0,,United States will lose this war,\N{\rChinese}美国将在这场战争中失败，
+Dialogue: 0,0:00:23.40,0:00:27.34,English,,0,0,0,,which will forever change the global order.\N{\rChinese}which will forever change the global order.
+Dialogue: 0,0:00:29.16,0:00:32.68,English,,0,0,0,,These past, so\N{\rChinese}These past, so
+Dialogue: 0,0:00:32.68,0:00:36.62,English,,0,0,0,,last class we looked at one reason why the United States would invade Iran,\N{\rChinese}上一节课我们讨论了美国入侵伊朗的一个原因，
+Dialogue: 0,0:00:36.88,0:00:38.50,English,,0,0,0,,which is the Israel lobby.\N{\rChinese}那就是以色列游说。
+Dialogue: 0,0:00:39.06,0:00:41.68,English,,0,0,0,,And in today's class, we'll look at another reason,\N{\rChinese}今天的课我们再来看看一个原因，
+Dialogue: 0,0:00:42.38,0:00:44.36,English,,0,0,0,,which is the defense of empire.\N{\rChinese}那就是帝国的防御。
+Dialogue: 0,0:00:44.78,0:00:47.04,English,,0,0,0,,America is an empire and\N{\rChinese}美国是一个帝国，
+Dialogue: 0,0:00:47.04,0:00:49.72,English,,0,0,0,,it must defend its imperial status.\N{\rChinese}它必须守护其帝国地位。
+Dialogue: 0,0:00:52.06,0:00:57.04,English,,0,0,0,,So let's examine what an empire means for America.\N{\rChinese}于是我们来看看帝国对美国意味着什么。
+Dialogue: 0,0:00:57.34,0:01:01.62,English,,0,0,0,,So from 1950 to 1980,\N{\rChinese}于是从1950年到1980年，
+Dialogue: 0,0:01:02.02,0:01:07.68,English,,0,0,0,,America's economy was mainly focused on manufacturing,\N{\rChinese}美国经济主要聚焦于制造业，
+Dialogue: 0,0:01:08.02,0:01:09.26,English,,0,0,0,,factories, okay?\N{\rChinese}工厂，好的？
+Dialogue: 0,0:01:09.76,0:01:15.18,English,,0,0,0,,So manufacturing as a share of GDP was 40%.\N{\rChinese}于是制造业占国内生产总值的40%。
+Dialogue: 0,0:01:15.70,0:01:20.40,English,,0,0,0,,It made 40% of profits, okay?\N{\rChinese}它占利润的40%，好吧？
+Dialogue: 0,0:01:20.52,0:01:24.02,English,,0,0,0,,And it employed 30% of the workforce.\N{\rChinese}并且它雇佣了30%的劳动力。
+Dialogue: 0,0:01:25.46,0:01:27.00,English,,0,0,0,,So during World War II,\N{\rChinese}于是在第二次世界大战期间，
+Dialogue: 0,0:01:27.34,0:01:30.34,English,,0,0,0,,America had a lot of factories to produce weapons.\N{\rChinese}美国拥有大量工厂来生产武器。
+Dialogue: 0,0:01:30.76,0:01:31.98,English,,0,0,0,,And after World War II,\N{\rChinese}[25] 于是第二次世界大战结束后，
+Dialogue: 0,0:01:32.38,0:01:35.14,English,,0,0,0,,these factories produced consumer goods,\N{\rChinese}[26] 这些工厂生产了消费品。
+Dialogue: 0,0:01:35.38,0:01:37.84,English,,0,0,0,,cars, electronics to sell to the world.\N{\rChinese}汽车、电子产品销往世界。
+Dialogue: 0,0:01:38.32,0:01:42.34,English,,0,0,0,,And this made the American workers\N{\rChinese}这让美国工人……
+Dialogue: 0,0:01:44.16,0:01:45.76,English,,0,0,0,,the wealthiest and\N{\rChinese}最富裕的
+Dialogue: 0,0:01:45.76,0:01:49.20,English,,0,0,0,,most well -educated middle class ever in human history.\N{\rChinese}最受过教育的中产阶层
+Dialogue: 0,0:01:49.82,0:01:54.12,English,,0,0,0,,If you were a factory worker from 1950 to 1980,\N{\rChinese}如果你是1950到1980年的工厂工人，
+Dialogue: 0,0:01:54.50,0:01:56.62,English,,0,0,0,,you had a really good life.\N{\rChinese}你就过着相当不错的生活。
+Dialogue: 0,0:01:58.16,0:02:01.80,English,,0,0,0,,You worked 40 hours a week.\N{\rChinese}你每周工作40小时。
+Dialogue: 0,0:02:01.86,0:02:05.10,English,,0,0,0,,You had health insurance. You could buy your own house.\N{\rChinese}你有健康保险，可以买自己的房子。
+Dialogue: 0,0:02:05.90,0:02:07.60,English,,0,0,0,,Your wife didn't have to work.\N{\rChinese}你的妻子不必工作。
+Dialogue: 0,0:02:07.82,0:02:09.32,English,,0,0,0,,You could have three to four kids.\N{\rChinese}你可以有三四个孩子。
+Dialogue: 0,0:02:09.82,0:02:11.08,English,,0,0,0,,You could have two cars.\N{\rChinese}你可以拥有两辆车。
+Dialogue: 0,0:02:11.42,0:02:15.40,English,,0,0,0,,Every year, you could go on vacation to some place nice.\N{\rChinese}每年你都能去一个好地方度假。
+Dialogue: 0,0:02:16.36,0:02:17.90,English,,0,0,0,,You could eat out once a week.\N{\rChinese}你每周可以外出吃一次饭。
+Dialogue: 0,0:02:18.88,0:02:20.78,English,,0,0,0,,And then you retire and have a very good pension.\N{\rChinese}然后你退休，拿到一笔不错的养老金。
+Dialogue: 0,0:02:21.26,0:02:23.12,English,,0,0,0,,So it was really the best life.\N{\rChinese}于是这才是最好的生活。
+Dialogue: 0,0:02:24.68,0:02:27.32,English,,0,0,0,,And so workers, they had to work.\N{\rChinese}于是工人们就得去工作。
+Dialogue: 0,0:02:27.32,0:02:29.44,English,,0,0,0,,And so, from 1950, 1980, in America,\N{\rChinese}于是，从1950年到1980年，在美国，
+Dialogue: 0,0:02:29.48,0:02:32.78,English,,0,0,0,,were really the luckiest people on the planet.\N{\rChinese}他们真是地球上最幸运的人。
+Dialogue: 0,0:02:32.98,0:02:34.66,English,,0,0,0,,You were better off, actually,\N{\rChinese}你实际上更好一点。
+Dialogue: 0,0:02:34.76,0:02:38.52,English,,0,0,0,,being born into the middle\N{\rChinese}出生在中产阶层
+Dialogue: 0,0:02:38.52,0:02:44.24,English,,0,0,0,,class in America than you were being born rich in Africa,\N{\rChinese}在美国的阶级比你在非洲出生时的富裕阶级更好
+Dialogue: 0,0:02:44.34,0:02:47.04,English,,0,0,0,,or Asia, or South America, okay?\N{\rChinese}或亚洲，或南美，行吗？
+Dialogue: 0,0:02:48.44,0:02:52.00,English,,0,0,0,,But then, after 1980, was something called the Reagan Revolution,\N{\rChinese}但随后，1980年以后出现了所谓的里根革命
+Dialogue: 0,0:02:52.68,0:02:56.84,English,,0,0,0,,and the introduction of, what we call, neoliberalism,\N{\rChinese}以及我们所说的自由主义的引入，
+Dialogue: 0,0:02:57.32,0:02:59.56,English,,0,0,0,,And remember that we studied neoliberalism before.\N{\rChinese}并且记得我们之前学过新自由主义。
+Dialogue: 0,0:02:59.82,0:03:02.90,English,,0,0,0,,Neoliberalism is an economic philosophy\N{\rChinese}新自由主义是一种经济哲学
+Dialogue: 0,0:03:02.90,0:03:06.74,English,,0,0,0,,that believes in the primacy of free markets\N{\rChinese}它相信自由市场的首要性
+Dialogue: 0,0:03:06.74,0:03:08.42,English,,0,0,0,,and deregulation.\N{\rChinese}和去监管。
+Dialogue: 0,0:03:10.44,0:03:11.68,English,,0,0,0,,So after that,\N{\rChinese}于是之后，
+Dialogue: 0,0:03:11.82,0:03:16.08,English,,0,0,0,,we now live in today what we call a financial economy.\N{\rChinese}我们现在生活在我们所说的金融经济时代。
+Dialogue: 0,0:03:17.48,0:03:19.16,English,,0,0,0,,The economy has been financialized.\N{\rChinese}经济已被金融化。
+Dialogue: 0,0:03:19.42,0:03:20.66,English,,0,0,0,,And so what does that mean?\N{\rChinese}于是这意味着什么？
+Dialogue: 0,0:03:20.66,0:03:22.26,English,,0,0,0,,It means that right now,\N{\rChinese}它意味着现在正是……
+Dialogue: 0,0:03:22.50,0:03:26.34,English,,0,0,0,,financial services account\N{\rChinese}金融服务占比
+Dialogue: 0,0:03:26.34,0:03:31.24,English,,0,0,0,,for 22% of all GDP in America.\N{\rChinese}在美国占国内生产总值的22%。
+Dialogue: 0,0:03:32.24,0:03:35.74,English,,0,0,0,,Manufacturing has gone down to 10%.\N{\rChinese}制造业已降至10%。
+Dialogue: 0,0:03:35.74,0:03:39.80,English,,0,0,0,,So it went down from a high of 40% to now a low of 10%.\N{\rChinese}它从高点的40%降至现在的10%。
+Dialogue: 0,0:03:39.80,0:03:45.76,English,,0,0,0,,Financial services is now twice as much as manufacturing.\N{\rChinese}金融服务现在是制造业的两倍。
+Dialogue: 0,0:03:46.56,0:03:49.26,English,,0,0,0,,Financial services bring in 40%.\N{\rChinese}金融服务贡献了40%。
+Dialogue: 0,0:03:49.26,0:03:50.56,English,,0,0,0,,Of all.\N{\rChinese}全部
+Dialogue: 0,0:03:50.66,0:03:55.14,English,,0,0,0,,Profits. And\N{\rChinese}利润。还有
+Dialogue: 0,0:03:55.14,0:03:58.02,English,,0,0,0,,financial services employs 5%.\N{\rChinese}金融服务业雇佣5%。
+Dialogue: 0,0:03:59.38,0:04:04.44,English,,0,0,0,,Of the total American workforce.\N{\rChinese}美国总劳动力中
+Dialogue: 0,0:04:05.47,0:04:09.82,English,,0,0,0,,Okay? Now, let me explain what these numbers mean.\N{\rChinese}好的？现在，我来解释这些数字的含义。
+Dialogue: 0,0:04:10.06,0:04:13.04,English,,0,0,0,,What you're seeing behind these\N{\rChinese}你在这些背后看到的
+Dialogue: 0,0:04:13.04,0:04:16.76,English,,0,0,0,,numbers is a radical shift,\N{\rChinese}数字显示出一次根本的转变
+Dialogue: 0,0:04:17.00,0:04:20.58,English,,0,0,0,,overhaul, transition in American society.\N{\rChinese}大改造，社会转型
+Dialogue: 0,0:04:21.56,0:04:22.82,English,,0,0,0,,Let's just look at politics.\N{\rChinese}让我们先看政治
+Dialogue: 0,0:04:23.22,0:04:29.20,English,,0,0,0,,Politics. Governance. From this period,\N{\rChinese}政治。治理。从这一时期开始，
+Dialogue: 0,0:04:29.26,0:04:34.70,English,,0,0,0,,1950 to 1980, American workers had a lot of political power.\N{\rChinese}1950到1980年，美国工人拥有大量政治权力。
+Dialogue: 0,0:04:35.12,0:04:38.30,English,,0,0,0,,Because they were middle class, they were confident,\N{\rChinese}因为他们是中产阶层，充满自信。
+Dialogue: 0,0:04:38.56,0:04:40.24,English,,0,0,0,,they participated in politics for unions.\N{\rChinese}他们参与工会政治。
+Dialogue: 0,0:04:42.06,0:04:45.68,English,,0,0,0,,Today, most of this power has shifted to the financial services.\N{\rChinese}如今，这股力量大多已转移至金融服务业。
+Dialogue: 0,0:04:45.90,0:04:48.32,English,,0,0,0,,Which basically means Wall Street.\N{\rChinese}这基本就是指华尔街。
+Dialogue: 0,0:04:49.56,0:04:51.80,English,,0,0,0,,And that means the economy. And\N{\rChinese}这又意味着经济。
+Dialogue: 0,0:04:51.80,0:04:53.50,English,,0,0,0,,working for Wall Street are what\N{\rChinese}在华尔街工作的就是
+Dialogue: 0,0:04:53.50,0:04:55.16,English,,0,0,0,,we call the\N{\rChinese}我们称之为
+Dialogue: 0,0:04:55.16,0:04:59.88,English,,0,0,0,,professional managerial\N{\rChinese}专业管理的
+Dialogue: 0,0:04:59.88,0:05:01.60,English,,0,0,0,,elite.\N{\rChinese}精英的
+Dialogue: 0,0:05:01.92,0:05:04.66,English,,0,0,0,,Okay? So these are people who live on the coast.\N{\rChinese}好的？所以这些人住在海岸上。
+Dialogue: 0,0:05:04.94,0:05:08.90,English,,0,0,0,,San Francisco, New York, Washington, DC, Boston.\N{\rChinese}旧金山、纽约、华盛顿特区、波士顿。
+Dialogue: 0,0:05:09.22,0:05:10.58,English,,0,0,0,,They went to elite schools.\N{\rChinese}他们就读了名校。
+Dialogue: 0,0:05:11.52,0:05:12.76,English,,0,0,0,,Okay? The Ivy League.\N{\rChinese}好？就是常春藤。
+Dialogue: 0,0:05:15.28,0:05:16.80,English,,0,0,0,,And they're multicultural.\N{\rChinese}而且他们是多元文化的。
+Dialogue: 0,0:05:18.32,0:05:20.14,English,,0,0,0,,And right now, they're the most popular.\N{\rChinese}现在正是他们最受欢迎的时候。
+Dialogue: 0,0:05:20.14,0:05:22.74,English,,0,0,0,,They're the most powerful political group in America.\N{\rChinese}他们是美国最有影响力的政治团体。
+Dialogue: 0,0:05:22.94,0:05:27.10,English,,0,0,0,,And this has led to massive political divisions within the country.\N{\rChinese}这导致了国内大规模的政治分裂。
+Dialogue: 0,0:05:27.22,0:05:29.28,English,,0,0,0,,Okay? So it's the first major consequence.\N{\rChinese}好？这就是第一个主要后果。
+Dialogue: 0,0:05:29.76,0:05:32.36,English,,0,0,0,,Before, it was workers who\N{\rChinese}之前是工人有大影响力。
+Dialogue: 0,0:05:32.36,0:05:35.98,English,,0,0,0,,had a large say over American politics.\N{\rChinese}他们在美国政治中有大话语权。
+Dialogue: 0,0:05:36.28,0:05:39.16,English,,0,0,0,,And now it is Wall Street, the financial sector,\N{\rChinese}现在是华尔街，金融部门，
+Dialogue: 0,0:05:39.34,0:05:44.26,English,,0,0,0,,and the coastal professional management elite.\N{\rChinese}以及沿海岸的专业管理精英。
+Dialogue: 0,0:05:44.98,0:05:48.24,English,,0,0,0,,And so government shapes policies that\N{\rChinese}于是政府制定政策。
+Dialogue: 0,0:05:48.24,0:05:50.12,English,,0,0,0,,favors the political system.\N{\rChinese}倾向政治体系。
+Dialogue: 0,0:05:50.12,0:05:52.78,English,,0,0,0,,And so we have this multicultural elite, financial elite,\N{\rChinese}于是我们拥有了这支多元文化的精英，金融精英，
+Dialogue: 0,0:05:52.94,0:05:56.94,English,,0,0,0,,over at the expense of workers.\N{\rChinese}在工人之支出费的情况下。
+Dialogue: 0,0:05:57.24,0:06:00.16,English,,0,0,0,,Okay? So that's the first major shift.\N{\rChinese}好的？这就是第一个主要转变。
+Dialogue: 0,0:06:00.72,0:06:04.86,English,,0,0,0,,But then you look at education.\N{\rChinese}然后你再看看教育。
+Dialogue: 0,0:06:07.04,0:06:10.10,English,,0,0,0,,And so what I mean by that is that, you know,\N{\rChinese}所以，我的意思是这样的，你知道，
+Dialogue: 0,0:06:10.14,0:06:13.10,English,,0,0,0,,if you went to a good school, a good university in the 1950s and\N{\rChinese}如果你在1950年代去了一所好学校，好大学，
+Dialogue: 0,0:06:13.10,0:06:17.16,English,,0,0,0,,1960s, your ambition was to become a professor.\N{\rChinese}1960年代，你的目标是成为教授。
+Dialogue: 0,0:06:17.60,0:06:19.04,English,,0,0,0,,Right? Or maybe a scientist.\N{\rChinese}对吧？或者是科学家。
+Dialogue: 0,0:06:19.04,0:06:21.38,English,,0,0,0,,Or maybe an entrepreneur.\N{\rChinese}或者是企业家。
+Dialogue: 0,0:06:23.04,0:06:24.48,English,,0,0,0,,Or a corporate executive.\N{\rChinese}或者是企业高管。
+Dialogue: 0,0:06:24.76,0:06:27.84,English,,0,0,0,,Okay? Nowadays,\N{\rChinese}好的？现在，
+Dialogue: 0,0:06:27.84,0:06:29.96,English,,0,0,0,,most people who\N{\rChinese}大多数人都
+Dialogue: 0,0:06:29.96,0:06:34.36,English,,0,0,0,,graduate from these top schools all want to go where?\N{\rChinese}毕业于这些顶尖学校后都想去哪里？
+Dialogue: 0,0:06:36.10,0:06:37.64,English,,0,0,0,,Wall Street. And that's it.\N{\rChinese}华尔街。就这么简单。
+Dialogue: 0,0:06:37.72,0:06:41.18,English,,0,0,0,,Okay? Why? Because you make more money on Wall Street than anywhere else.\N{\rChinese}好的？为什么？因为你在华尔街能赚的钱比其他地方多。
+Dialogue: 0,0:06:41.92,0:06:45.68,English,,0,0,0,,Okay? So you're talking about these PhDs in statistics\N{\rChinese}好的？所以你在说这些统计学和人工智能的博士。
+Dialogue: 0,0:06:45.68,0:06:49.02,English,,0,0,0,,and artificial intelligence who should be working in the field.\N{\rChinese}他们本该在该领域工作。
+Dialogue: 0,0:06:49.02,0:06:50.50,English,,0,0,0,,They should be working for IBM,\N{\rChinese}他们本该在 IBM 工作，
+Dialogue: 0,0:06:50.98,0:06:54.04,English,,0,0,0,,developing the latest technology.\N{\rChinese}研发最新技术。
+Dialogue: 0,0:06:54.46,0:06:58.86,English,,0,0,0,,Right? Instead, they're on Wall Street working for a hedge fund,\N{\rChinese}对吧？结果他们在华尔街为对冲基金工作，
+Dialogue: 0,0:06:59.02,0:07:01.34,English,,0,0,0,,gambling with other people's money.\N{\rChinese}用别人的钱赌博。
+Dialogue: 0,0:07:03.22,0:07:07.42,English,,0,0,0,,Okay? So basically the economy has gone from one\N{\rChinese}好吧？所以基本上经济已经从一种
+Dialogue: 0,0:07:07.42,0:07:11.40,English,,0,0,0,,that is productive or\N{\rChinese}有生产力的或
+Dialogue: 0,0:07:11.40,0:07:15.86,English,,0,0,0,,creative to one that is entirely speculative.\N{\rChinese}创意变成完全投机的。
+Dialogue: 0,0:07:17.58,0:07:20.98,English,,0,0,0,,Okay? So remember that the financial services,\N{\rChinese}好吧？记住金融服务，
+Dialogue: 0,0:07:21.06,0:07:23.40,English,,0,0,0,,all it does is take people's money and\N{\rChinese}它所做的就是拿人家的钱并且。
+Dialogue: 0,0:07:23.40,0:07:25.88,English,,0,0,0,,gamble with it or invest in it to make more money.\N{\rChinese}用它赌博或投资赚更多钱。
+Dialogue: 0,0:07:25.98,0:07:29.42,English,,0,0,0,,Okay? It's not actually productive. All it is is speculative.\N{\rChinese}好吧？它其实并不生产，只是投机。
+Dialogue: 0,0:07:29.78,0:07:32.20,English,,0,0,0,,Okay? And the smartest people in America,\N{\rChinese}好吧？而美国最聪明的人们，
+Dialogue: 0,0:07:32.44,0:07:36.78,English,,0,0,0,,the most well -educated, are all focused on this sector.\N{\rChinese}最受过教育的人们都聚焦于此行业。
+Dialogue: 0,0:07:38.32,0:07:39.92,English,,0,0,0,,Okay? And then\N{\rChinese}好吧？然后
+Dialogue: 0,0:07:39.92,0:07:44.20,English,,0,0,0,,you look at the economy.\N{\rChinese}你再看经济。
+Dialogue: 0,0:07:44.34,0:07:46.40,English,,0,0,0,,Okay? And\N{\rChinese}好吧？而且
+Dialogue: 0,0:07:46.40,0:07:49.52,English,,0,0,0,,what has clearly changed is that\N{\rChinese}明显改变的是
+Dialogue: 0,0:07:49.52,0:07:53.30,English,,0,0,0,,the economy in America has become much more unstable.\N{\rChinese}美国经济变得更不稳定。
+Dialogue: 0,0:07:53.96,0:07:58.62,English,,0,0,0,,So in 2001, there was the Internet crash.\N{\rChinese}于是2001年出现了互联网泡沫。
+Dialogue: 0,0:07:58.98,0:08:01.06,English,,0,0,0,,Right? The dot -com crash. In 2008,\N{\rChinese}对吧？点com泡沫。2008年，
+Dialogue: 0,0:08:01.56,0:08:04.24,English,,0,0,0,,there was the financial crisis.\N{\rChinese}出现了金融危机。
+Dialogue: 0,0:08:04.46,0:08:06.74,English,,0,0,0,,Right? The subprime crash.\N{\rChinese}对吧？次贷危机。
+Dialogue: 0,0:08:07.20,0:08:10.96,English,,0,0,0,,And then after that, you have all the, you have these banks going bankrupt.\N{\rChinese}然后接着那样，你就会看到这些银行相继破产。
+Dialogue: 0,0:08:11.10,0:08:14.58,English,,0,0,0,,Okay? I think like this past week, three banks went bankrupt in America.\N{\rChinese}对吧？我想过去一周里，美国就有三家银行倒闭了。
+Dialogue: 0,0:08:15.44,0:08:17.74,English,,0,0,0,,This should not be happening.\N{\rChinese}这本该不会发生。
+Dialogue: 0,0:08:18.30,0:08:23.80,English,,0,0,0,,And the reason why this is happening are all these bubbles.\N{\rChinese}而导致这一切发生的原因就是这些泡沫。
+Dialogue: 0,0:08:24.20,0:08:26.92,English,,0,0,0,,Okay? So in other words,\N{\rChinese}好的？换句话说，
+Dialogue: 0,0:08:26.96,0:08:30.80,English,,0,0,0,,all assets right now in America overpriced.\N{\rChinese}现在美国所有资产都被高估。
+Dialogue: 0,0:08:30.82,0:08:33.12,English,,0,0,0,,Okay? Housing, stock market,\N{\rChinese}好的？住房、股市，
+Dialogue: 0,0:08:33.34,0:08:37.06,English,,0,0,0,,and people are gambling\N{\rChinese}人们在赌盘
+Dialogue: 0,0:08:37.06,0:08:40.86,English,,0,0,0,,that these asset prices will go higher, which creates bubbles.\N{\rChinese}这些资产价格会进一步上涨，形成泡沫。
+Dialogue: 0,0:08:41.08,0:08:44.16,English,,0,0,0,,And when these bubbles burst, you have volatility and instability.\N{\rChinese}当泡沫破裂时，就会出现波动和不稳定。
+Dialogue: 0,0:08:44.16,0:08:46.00,English,,0,0,0,,And uncertainty. Okay?\N{\rChinese}还有不确定性。好的吗？
+Dialogue: 0,0:08:46.10,0:08:49.84,English,,0,0,0,,So this is bad for the economy.\N{\rChinese}这对经济来说是坏事。
+Dialogue: 0,0:08:51.60,0:08:55.36,English,,0,0,0,,And then you have things like inequality.\N{\rChinese}然后出现了诸如不平等的情况。
+Dialogue: 0,0:08:56.16,0:08:59.18,English,,0,0,0,,Right? So\N{\rChinese}对吧？所以
+Dialogue: 0,0:08:59.18,0:09:03.52,English,,0,0,0,,if you look at profits, if you look at wealth generation,\N{\rChinese}如果你看利润，如果你看财富创造，
+Dialogue: 0,0:09:03.92,0:09:07.42,English,,0,0,0,,the top 1% make much more money than everyone else.\N{\rChinese}前1%赚的钱比其他人多得多。
+Dialogue: 0,0:09:07.58,0:09:10.44,English,,0,0,0,,And this inequality is only increasing.\N{\rChinese}这种不平等只会越来越大。
+Dialogue: 0,0:09:12.08,0:09:14.24,English,,0,0,0,,Okay? So in other words, you have this inequality. Well, first,\N{\rChinese}好的？换句话说，就是出现了不平等。
+Dialogue: 0,0:09:14.24,0:09:18.10,English,,0,0,0,,the financialization of the American economy\N{\rChinese}美国经济的金融化
+Dialogue: 0,0:09:18.10,0:09:21.80,English,,0,0,0,,has been really bad for America.\N{\rChinese}已经对美国造成了很大影响。
+Dialogue: 0,0:09:22.04,0:09:27.30,English,,0,0,0,,And you can make the argument that it's actually destroying the fabric of American society.\N{\rChinese}可以说它正是破坏美国社会结构的根基。
+Dialogue: 0,0:09:27.76,0:09:30.44,English,,0,0,0,,Okay? It's making politics much more divisive.\N{\rChinese}好吧？它让政治更分裂。
+Dialogue: 0,0:09:30.60,0:09:32.40,English,,0,0,0,,It's making the economy much more volatile.\N{\rChinese}它让经济更波动。
+Dialogue: 0,0:09:33.06,0:09:36.82,English,,0,0,0,,The smartest people are engaged in speculative activities.\N{\rChinese}最聪明的人从事投机活动。
+Dialogue: 0,0:09:37.82,0:09:39.28,English,,0,0,0,,Young people don't want to work.\N{\rChinese}年轻人不想工作。
+Dialogue: 0,0:09:39.34,0:09:43.06,English,,0,0,0,,They just want to buy Bitcoin. coin. And\N{\rChinese}他们只想买比特币。
+Dialogue: 0,0:09:43.06,0:09:44.56,English,,0,0,0,,you can also make the argument that\N{\rChinese}你也可以说……
+Dialogue: 0,0:09:44.56,0:09:49.32,English,,0,0,0,,you're creating a rentier economy.\N{\rChinese}你正在创造租赁经济。
+Dialogue: 0,0:09:50.48,0:09:53.00,English,,0,0,0,,And the rentier economy just means that\N{\rChinese}租赁经济只意味着……
+Dialogue: 0,0:09:53.00,0:09:57.62,English,,0,0,0,,if you are young, you can never afford to buy a house.\N{\rChinese}如果你是年轻人，永远买不起房子。
+Dialogue: 0,0:09:57.74,0:10:00.30,English,,0,0,0,,You can only rent, which means that\N{\rChinese}你只能租赁，这意味着
+Dialogue: 0,0:10:00.30,0:10:02.42,English,,0,0,0,,you yourself can never go from,\N{\rChinese}你自己也永远从不…
+Dialogue: 0,0:10:02.58,0:10:05.84,English,,0,0,0,,you have no more social mobility.\N{\rChinese}你再也没有社会流动性。
+Dialogue: 0,0:10:06.82,0:10:12.48,English,,0,0,0,,So this overall is really bad for America.\N{\rChinese}因此整体来看，这对美国真的很糟。
+Dialogue: 0,0:10:12.88,0:10:16.64,English,,0,0,0,,Another question then is, how did America get to this point?\N{\rChinese}另一个问题是， 美国是如何走到这一步的？
+Dialogue: 0,0:10:16.84,0:10:19.36,English,,0,0,0,,How did it transition from a\N{\rChinese}它是如何从……过渡的？
+Dialogue: 0,0:10:19.36,0:10:23.28,English,,0,0,0,,manufacturing economy to a financial economy?\N{\rChinese}制造业经济转为金融经济？
+Dialogue: 0,0:10:24.10,0:10:25.82,English,,0,0,0,,And there are different theories out there.\N{\rChinese}还有各种不同的理论存在。
+Dialogue: 0,0:10:26.20,0:10:28.26,English,,0,0,0,,There are some economists who say that\N{\rChinese}有些经济学家认为
+Dialogue: 0,0:10:28.26,0:10:31.18,English,,0,0,0,,this is just late -stage capitalism.\N{\rChinese}这只是后期资本主义而已。
+Dialogue: 0,0:10:31.38,0:10:33.96,English,,0,0,0,,Okay? This is the natural evolution of capitalism.\N{\rChinese}这就是资本主义的自然演进。
+Dialogue: 0,0:10:34.64,0:10:37.96,English,,0,0,0,,There are some who argue that\N{\rChinese}有些人认为
+Dialogue: 0,0:10:37.96,0:10:42.66,English,,0,0,0,,it is the neoliberalism or the regular revolution that caused this.\N{\rChinese}是新自由主义或常规革命导致的。
+Dialogue: 0,0:10:43.10,0:10:46.46,English,,0,0,0,,Okay? When you take government, when you cut back the role of government,\N{\rChinese}好的？当你削减政府、缩小政府角色时，
+Dialogue: 0,0:10:46.66,0:10:50.38,English,,0,0,0,,when you emphasize free markets, then\N{\rChinese}当你强调自由市场时，
+Dialogue: 0,0:10:50.38,0:10:54.00,English,,0,0,0,,you have this situation.\N{\rChinese}你现在有这种情况。
+Dialogue: 0,0:10:54.24,0:10:56.66,English,,0,0,0,,The over -financialization of the economy.\N{\rChinese}经济的过度金融化。
+Dialogue: 0,0:10:56.80,0:11:00.70,English,,0,0,0,,Okay? What I want to show you today is\N{\rChinese}好的？我今天想给你展示的是
+Dialogue: 0,0:11:00.70,0:11:05.96,English,,0,0,0,,that you can't just buy a house and you can't just buy a house and you can't just buy a house and you can't just buy a house and you can't just buy a house. The real reason is the transition to empire.\N{\rChinese}你只买房子就能解决问题的想法是错的，真正原因是转向帝国。
+Dialogue: 0,0:11:07.50,0:11:12.30,English,,0,0,0,,Okay? There's a really simple explanation for why this is happening.\N{\rChinese}好吧？这件事发生的原因很简单。
+Dialogue: 0,0:11:12.48,0:11:16.48,English,,0,0,0,,The reason is that after the end of the Cold War,\N{\rChinese}原因是冷战结束后，
+Dialogue: 0,0:11:16.68,0:11:22.32,English,,0,0,0,,1991, America became a global empire.\N{\rChinese}1991年，美国成为全球帝国。
+Dialogue: 0,0:11:22.82,0:11:25.86,English,,0,0,0,,It could now set the rules of the game,\N{\rChinese}它现在可以制定游戏规则。
+Dialogue: 0,0:11:26.00,0:11:29.00,English,,0,0,0,,and it set the rules of the game so that it would always win.\N{\rChinese}并且它制定了游戏规则，使其始终获胜。
+Dialogue: 0,0:11:30.44,0:11:34.46,English,,0,0,0,,And then all money flowed to America,\N{\rChinese}随后所有资金流向美国。
+Dialogue: 0,0:11:34.68,0:11:37.90,English,,0,0,0,,which created all these asset bubbles.\N{\rChinese}这就产生了所有这些资产泡沫。
+Dialogue: 0,0:11:39.74,0:11:40.94,English,,0,0,0,,Okay? So\N{\rChinese}好吧？
+Dialogue: 0,0:11:40.94,0:11:45.44,English,,0,0,0,,that's the argument I'm making to you today.\N{\rChinese}这就是我今天要给你们阐述的论点。
+Dialogue: 0,0:11:45.54,0:11:50.02,English,,0,0,0,,Okay? So are we clear about what's happening?\N{\rChinese}好吧？我们现在对发生的事已经清楚了吗？
+Dialogue: 0,0:11:50.86,0:11:54.04,English,,0,0,0,,Any questions so far? Okay.\N{\rChinese}到此为止，大家有问题吗？好吧。
+Dialogue: 0,0:11:54.08,0:11:57.86,English,,0,0,0,,Now I want to explain to you how America became an empire.\N{\rChinese}现在我要向你们解释美国是如何成为帝国的。
+Dialogue: 0,0:11:58.06,0:12:02.30,English,,0,0,0,,In fact, I'm going to explain to you how America became an empire. In fact, the most powerful empire in human history\N{\rChinese}实际上，我要向你们解释美国是如何成为帝国的。实际上，最强大的帝国在人的历史上。
+Dialogue: 0,0:12:02.30,0:12:06.10,English,,0,0,0,,because even though Rome was powerful, it didn't really control the world.\N{\rChinese}因为即使罗马强大，却并未真正掌控世界。
+Dialogue: 0,0:12:06.30,0:12:10.48,English,,0,0,0,,Whereas America, the American empire today, controls the entire world.\N{\rChinese}而如今的美帝国则掌控全世界。
+Dialogue: 0,0:12:11.02,0:12:14.74,English,,0,0,0,,Okay? And so to understand how America became an empire,\N{\rChinese}好了，接下来我们来看看美国是如何成为帝国的。
+Dialogue: 0,0:12:15.06,0:12:16.84,English,,0,0,0,,you have to go back to the founding of America.\N{\rChinese}你得回到美国建国之初。
+Dialogue: 0,0:12:17.12,0:12:21.22,English,,0,0,0,,Okay? So in 1776, America declared independence\N{\rChinese}好吧？于是1776年，美国宣布从英国独立。
+Dialogue: 0,0:12:21.90,0:12:25.20,English,,0,0,0,,from Britain. And at\N{\rChinese}并且在。
+Dialogue: 0,0:12:25.20,0:12:27.66,English,,0,0,0,,that time, they had something called the Declaration of Independence.\N{\rChinese}那时，他们有一份叫《独立宣言》的文件。
+Dialogue: 0,0:12:31.62,0:12:33.50,English,,0,0,0,,And the Declaration of Independence,\N{\rChinese}《独立宣言》这份文件，
+Dialogue: 0,0:12:33.98,0:12:36.34,English,,0,0,0,,if you read the document, it's very clear.\N{\rChinese}如果你读一遍，内容很清晰。
+Dialogue: 0,0:12:36.60,0:12:39.44,English,,0,0,0,,It's what the founding fathers of America said is that\N{\rChinese}它就是美国建国之初所说的，即我们在美国创建一个以神为基础的新社会
+Dialogue: 0,0:12:39.44,0:12:44.94,English,,0,0,0,,we are founding a new society in America\N{\rChinese}我们正在美国创建一个新的社会
+Dialogue: 0,0:12:45.64,0:12:46.98,English,,0,0,0,,based on God.\N{\rChinese}基于神
+Dialogue: 0,0:12:47.90,0:12:51.18,English,,0,0,0,,Okay? Now, the founding fathers were Christians,\N{\rChinese}好的？现在，建国之父是基督徒，
+Dialogue: 0,0:12:51.44,0:12:55.66,English,,0,0,0,,but they were special type of Christians who believed in the idea of theism.\N{\rChinese}但他们是特殊类型的基督徒，信奉有神论的观念。
+Dialogue: 0,0:12:57.66,0:13:00.74,English,,0,0,0,,And deism is the idea that, yes, there is a God,\N{\rChinese}而自然神论则是指，确有一位神，
+Dialogue: 0,0:13:00.92,0:13:04.34,English,,0,0,0,,and God did create everything,\N{\rChinese}并且上帝造万物，
+Dialogue: 0,0:13:04.68,0:13:09.36,English,,0,0,0,,but God is not interested in managing human affairs.\N{\rChinese}但上帝不关心人间事务。
+Dialogue: 0,0:13:09.70,0:13:12.14,English,,0,0,0,,God leaves us alone, which means that\N{\rChinese}上帝把我们放在一边，意味着……
+Dialogue: 0,0:13:12.14,0:13:17.22,English,,0,0,0,,we as humans are empowered to create the world we want to create.\N{\rChinese}我们人类有能力创造我们想要的世界。
+Dialogue: 0,0:13:18.08,0:13:21.02,English,,0,0,0,,Okay? And the founding fathers wanted to create\N{\rChinese}好吧？而建国之父想要创建
+Dialogue: 0,0:13:21.02,0:13:23.62,English,,0,0,0,,a new society based\N{\rChinese}一个以……为基础的新社会
+Dialogue: 0,0:13:23.62,0:13:27.64,English,,0,0,0,,on the idea of the human structure,\N{\rChinese}关于人类结构的概念，
+Dialogue: 0,0:13:27.64,0:13:30.50,English,,0,0,0,,the structure of God, okay? And what they believed is that\N{\rChinese}上帝的结构，好的？他们认为的是
+Dialogue: 0,0:13:30.50,0:13:35.64,English,,0,0,0,,God gave human beings three fundamental rights,\N{\rChinese}上帝赐予人类三项基本权利，
+Dialogue: 0,0:13:35.74,0:13:40.58,English,,0,0,0,,that all governments must respect, okay? And so\N{\rChinese}所有政府都必须尊重的，好的？于是
+Dialogue: 0,0:13:40.58,0:13:46.22,English,,0,0,0,,the famous phrase is—do you guys know the famous phrase— 'Life,\N{\rChinese}那句著名的短语是——你们知道那句著名短语吗——‘生命，’
+Dialogue: 0,0:13:46.52,0:13:49.40,English,,0,0,0,,Liberty, and\N{\rChinese}自由，和
+Dialogue: 0,0:13:49.40,0:13:52.16,English,,0,0,0,,the Pursuit of happiness.\N{\rChinese}追求幸福。
+Dialogue: 0,0:13:53.48,0:13:56.68,English,,0,0,0,,That is the mission,\N{\rChinese}那就是使命，
+Dialogue: 0,0:13:56.86,0:14:00.36,English,,0,0,0,,the purpose of America,\N{\rChinese}美国的目的。
+Dialogue: 0,0:14:00.58,0:14:05.24,English,,0,0,0,,to ensure that every American would have life,\N{\rChinese}以确保每个美国人都有生命，
+Dialogue: 0,0:14:05.42,0:14:08.02,English,,0,0,0,,liberty, and the pursuit of happiness.\N{\rChinese}自由，和追求幸福。
+Dialogue: 0,0:14:08.44,0:14:11.40,English,,0,0,0,,And that's really the goal, the role of government.\N{\rChinese}这才是目标，政府的角色。
+Dialogue: 0,0:14:11.76,0:14:15.30,English,,0,0,0,,Life, to make you safe,\N{\rChinese}生命，让你安全，
+Dialogue: 0,0:14:15.36,0:14:17.56,English,,0,0,0,,to provide security against enemies.\N{\rChinese}提供对敌人的安全保障。
+Dialogue: 0,0:14:18.06,0:14:22.18,English,,0,0,0,,Liberty, the right to say whatever you believe,\N{\rChinese}自由，能说出你所信的任何话，
+Dialogue: 0,0:14:22.44,0:14:24.14,English,,0,0,0,,the right to believe whatever you believe.\N{\rChinese}能相信你所信的任何事物。
+Dialogue: 0,0:14:24.84,0:14:26.34,English,,0,0,0,,So the tolerance of all\N{\rChinese}于是容忍一切
+Dialogue: 0,0:14:27.38,0:14:30.68,English,,0,0,0,,creeds, religions. The last is the pursuit of happiness.\N{\rChinese}信条、宗教。最后是追求幸福。
+Dialogue: 0,0:14:31.70,0:14:33.08,English,,0,0,0,,What does pursuit of happiness mean?\N{\rChinese}追求幸福到底是什么？
+Dialogue: 0,0:14:33.60,0:14:35.76,English,,0,0,0,,You guys know? So\N{\rChinese}你们知道吗？于是
+Dialogue: 0,0:14:35.76,0:14:38.96,English,,0,0,0,,Thomas Jefferson wrote the Declaration of Independence, and\N{\rChinese}托马斯·杰斐逊写下独立宣言，且
+Dialogue: 0,0:14:38.96,0:14:43.16,English,,0,0,0,,when he wrote the pursuit of happiness, he had a very specific idea in mind.\N{\rChinese}他写下“追求幸福”时，脑中已有非常具体的想法。
+Dialogue: 0,0:14:43.38,0:14:45.12,English,,0,0,0,,What does the pursuit of happiness mean?\N{\rChinese}追求幸福到底是什么？
+Dialogue: 0,0:14:51.52,0:14:55.60,English,,0,0,0,,Which is what? Okay, so wealth, okay?\N{\rChinese}那又是什么？好吧，财富，行吗？
+Dialogue: 0,0:14:57.04,0:14:58.86,English,,0,0,0,,So in America, your fundamental right,\N{\rChinese}于是在美国，你的基本权利，
+Dialogue: 0,0:14:58.96,0:15:03.46,English,,0,0,0,,the fundamental purpose of your life is to make as much money as you can,\N{\rChinese}你的生命基本目的就是尽可能多赚钱，
+Dialogue: 0,0:15:03.58,0:15:07.66,English,,0,0,0,,to amass as much wealth as you can, okay?\N{\rChinese}尽可能多积累财富，好吗？
+Dialogue: 0,0:15:07.76,0:15:11.60,English,,0,0,0,,And the idea here is that in this society,\N{\rChinese}而这里的想法是，在这个社会里，
+Dialogue: 0,0:15:11.88,0:15:14.68,English,,0,0,0,,in this new societies, there's an experiment called America,\N{\rChinese}在这新的社会中，有一个叫做美国的实验，
+Dialogue: 0,0:15:14.68,0:15:16.62,English,,0,0,0,,if we allow everyone\N{\rChinese}如果我们让每个人
+Dialogue: 0,0:15:16.62,0:15:20.74,English,,0,0,0,,to pursue the\N{\rChinese}去追求
+Dialogue: 0,0:15:20.74,0:15:23.88,English,,0,0,0,,creation of wealth, then\N{\rChinese}财富的创造，然后
+Dialogue: 0,0:15:23.88,0:15:25.80,English,,0,0,0,,America will become powerful, okay?\N{\rChinese}美国将变得强大，好吗？
+Dialogue: 0,0:15:25.90,0:15:27.72,English,,0,0,0,,That's the idea. And it turned out that\N{\rChinese}这就是想法。结果证明
+Dialogue: 0,0:15:27.72,0:15:31.78,English,,0,0,0,,this idea was absolutely correct, okay?\N{\rChinese}这个想法完全正确，好吗？
+Dialogue: 0,0:15:31.90,0:15:33.62,English,,0,0,0,,In a very short amount of time,\N{\rChinese}在很短的时间里
+Dialogue: 0,0:15:33.96,0:15:37.50,English,,0,0,0,,America industrialized very rapidly,\N{\rChinese}美国工业化非常迅速，
+Dialogue: 0,0:15:37.70,0:15:40.84,English,,0,0,0,,and at the end of World War II,\N{\rChinese}第二次世界大战结束时，
+Dialogue: 0,0:15:41.20,0:15:46.30,English,,0,0,0,,America became the most powerful country in the world,\N{\rChinese}美国成为世界最强大的国家，好吗？
+Dialogue: 0,0:15:46.52,0:15:48.92,English,,0,0,0,,okay? After World War II,\N{\rChinese}第二次世界大战后，
+Dialogue: 0,0:15:49.26,0:15:51.50,English,,0,0,0,,it decided that\N{\rChinese}它决定了
+Dialogue: 0,0:15:51.50,0:15:54.64,English,,0,0,0,,it can now export\N{\rChinese}它现在可以出口
+Dialogue: 0,0:15:54.64,0:15:58.48,English,,0,0,0,,its philosophy to the rest of the world.\N{\rChinese}其哲学传递给世界其他地区。
+Dialogue: 0,0:15:58.88,0:16:03.62,English,,0,0,0,,So in 1944, there's something called the Bretton Woods Conference,\N{\rChinese}于是1944年，出现了一个叫布雷顿森林会议的事件。
+Dialogue: 0,0:16:03.90,0:16:06.26,English,,0,0,0,,okay?\N{\rChinese}好吗？
+Dialogue: 0,0:16:06.38,0:16:08.92,English,,0,0,0,,And so in 1944, everyone knew that\N{\rChinese}于是1944年，大家都知道了
+Dialogue: 0,0:16:08.92,0:16:11.30,English,,0,0,0,,Nazi Germany would be defeated, okay?\N{\rChinese}纳粹德国将被击败，好吗？
+Dialogue: 0,0:16:11.36,0:16:14.48,English,,0,0,0,,And Japan would be defeated, which would make America,\N{\rChinese}而日本也将被击败，这将使美国，
+Dialogue: 0,0:16:14.52,0:16:16.28,English,,0,0,0,,Japan, would be defeated, which would make America, Japan, would be defeated, which would make America, the most powerful,\N{\rChinese}日本将被击败，这将使美国……最强大
+Dialogue: 0,0:16:16.38,0:16:20.16,English,,0,0,0,,the richest nation on the planet, okay?\N{\rChinese}地球上最富裕的国家，好吗？
+Dialogue: 0,0:16:20.36,0:16:23.96,English,,0,0,0,,Now, the Soviet Union was a competitor, but\N{\rChinese}现在，苏联是竞争者，但
+Dialogue: 0,0:16:23.96,0:16:25.90,English,,0,0,0,,they didn't really matter, okay?\N{\rChinese}它们并不重要，好吗？
+Dialogue: 0,0:16:26.04,0:16:27.24,English,,0,0,0,,They had their own sphere of influence.\N{\rChinese}它们各自拥有势力范围。
+Dialogue: 0,0:16:27.60,0:16:30.96,English,,0,0,0,,So America got together with its allies in Europe,\N{\rChinese}于是美国与欧洲盟友聚首，决定新全球金融体系的样貌。
+Dialogue: 0,0:16:31.02,0:16:35.78,English,,0,0,0,,and they decided what the new global financial system would look like.\N{\rChinese}随后他们决定新全球金融体系的样貌。
+Dialogue: 0,0:16:36.30,0:16:38.26,English,,0,0,0,,And the idea was that\N{\rChinese}而想法是
+Dialogue: 0,0:16:39.52,0:16:42.38,English,,0,0,0,,with Bretton Woods, they decided that the US dollar\N{\rChinese}在布雷顿森林会议上，他们决定美元
+Dialogue: 0,0:16:43.68,0:16:47.00,English,,0,0,0,,would become the global reserve currency,\N{\rChinese}将成为全球储备货币，
+Dialogue: 0,0:16:47.28,0:16:51.22,English,,0,0,0,,which basically meant that you could buy anything with the US dollar.\N{\rChinese}这基本意味着你可以用美元买任何东西。
+Dialogue: 0,0:16:52.46,0:16:57.58,English,,0,0,0,,Now, there were some people at Bretton Woods,\N{\rChinese}现在，布雷顿森林会议上有一些人，
+Dialogue: 0,0:16:57.84,0:17:00.66,English,,0,0,0,,some economists who\N{\rChinese}一些经济学家
+Dialogue: 0,0:17:00.66,0:17:02.84,English,,0,0,0,,were afraid that\N{\rChinese}他们担心
+Dialogue: 0,0:17:02.84,0:17:05.58,English,,0,0,0,,this would cause problems, right?\N{\rChinese}这会造成问题，对吧？
+Dialogue: 0,0:17:05.66,0:17:07.76,English,,0,0,0,,If you have a government which\N{\rChinese}如果你有一个政府，
+Dialogue: 0,0:17:07.76,0:17:10.68,English,,0,0,0,,was in control of the global reserve currency,\N{\rChinese}它掌握了全球储备货币，
+Dialogue: 0,0:17:10.92,0:17:13.46,English,,0,0,0,,that would basically make the government God,\N{\rChinese}那基本就把政府变成了上帝。
+Dialogue: 0,0:17:13.82,0:17:17.36,English,,0,0,0,,right? If they could just print as much money as they wanted,\N{\rChinese}对吧？如果他们可以随便印制任意数量的钱，
+Dialogue: 0,0:17:17.64,0:17:19.22,English,,0,0,0,,they could become like Midas.\N{\rChinese}他们就能像米达斯一样。
+Dialogue: 0,0:17:19.40,0:17:21.46,English,,0,0,0,,If they touch something, it would become gold, okay?\N{\rChinese}只要他们碰到什么，便会变成黄金，对吧？
+Dialogue: 0,0:17:22.44,0:17:24.30,English,,0,0,0,,So some people thought it was dangerous.\N{\rChinese}于是有人认为这很危险。
+Dialogue: 0,0:17:24.80,0:17:26.88,English,,0,0,0,,And so the compromise is that\N{\rChinese}于是达成的折中方案是……
+Dialogue: 0,0:17:26.88,0:17:30.10,English,,0,0,0,,the US dollar had to be backed by gold, okay?\N{\rChinese}美国美元必须以黄金作背书，明白吗？
+Dialogue: 0,0:17:30.10,0:17:33.36,English,,0,0,0,,The gold standard. In other words,\N{\rChinese}金本位制。换句话说，
+Dialogue: 0,0:17:33.50,0:17:37.40,English,,0,0,0,,the US dollar was basically like a receipt for gold.\N{\rChinese}美元基本上就是一张金票。
+Dialogue: 0,0:17:37.66,0:17:41.58,English,,0,0,0,,If you had a million dollars, okay, you could go to any American bank\N{\rChinese}如果你有一百万美元，嗯，你可以去任何美国银行。
+Dialogue: 0,0:17:41.58,0:17:44.32,English,,0,0,0,,and get a million dollars worth of gold for it, okay?\N{\rChinese}并为此获得一百万美元等值的黄金，明白吗？
+Dialogue: 0,0:17:44.32,0:17:46.52,English,,0,0,0,,Does that make sense? So that's what we call the gold standard.\N{\rChinese}这样说通吗？这就是我们所说的金本位制。
+Dialogue: 0,0:17:47.26,0:17:50.20,English,,0,0,0,,And for the longest, and so that led,\N{\rChinese}而且最久的那段时间，因而导致了……
+Dialogue: 0,0:17:50.48,0:17:54.78,English,,0,0,0,,this Bretton Woods system led to\N{\rChinese}布雷顿-伍德斯体系带来了……
+Dialogue: 0,0:17:55.54,0:17:59.80,English,,0,0,0,,tremendous prosperity in America and in Europe and in Japan, okay?\N{\rChinese}……在美国、欧洲和日本都取得了巨大的繁荣，明白吗？
+Dialogue: 0,0:18:01.00,0:18:02.80,English,,0,0,0,,Then in 1971,\N{\rChinese}随后在1971年，
+Dialogue: 0,0:18:04.68,0:18:07.46,English,,0,0,0,,Richard Nixon did something really radical.\N{\rChinese}理查·尼克松做了一件非常大胆的事。
+Dialogue: 0,0:18:07.90,0:18:11.22,English,,0,0,0,,He basically said we America,\N{\rChinese}他基本上说我们美国，
+Dialogue: 0,0:18:11.40,0:18:15.08,English,,0,0,0,,we we're gonna go off the gold standard, okay?\N{\rChinese}我们要把金本位制抛开，明白吗？
+Dialogue: 0,0:18:16.30,0:18:18.34,English,,0,0,0,,Remember that America had spent too much money\N{\rChinese}记得美国花了太多钱
+Dialogue: 0,0:18:18.72,0:18:22.06,English,,0,0,0,,on the space race, on Vietnam, on domestic expenses,\N{\rChinese}用于太空竞赛、越南战争和国内开支，
+Dialogue: 0,0:18:22.42,0:18:27.04,English,,0,0,0,,okay? So they needed to transition out of the gold standard.\N{\rChinese}明白吗？于是他们需要把金本位制转出。
+Dialogue: 0,0:18:28.06,0:18:30.86,English,,0,0,0,,But if you transition out of the gold standard,\N{\rChinese}但如果你们把金本位制抛开，
+Dialogue: 0,0:18:31.60,0:18:36.92,English,,0,0,0,,then how do you ensure the US dollar is worth something?\N{\rChinese}那么怎样保证美元有价值呢？
+Dialogue: 0,0:18:38.38,0:18:41.26,English,,0,0,0,,How do you ensure the intricate worth of the US dollar?\N{\rChinese}怎样保证美元的内在价值呢？
+Dialogue: 0,0:18:41.26,0:18:43.54,English,,0,0,0,,So they transitioned from the gold standard to what?\N{\rChinese}于是他们从金本位制转向什么？
+Dialogue: 0,0:18:43.60,0:18:46.74,English,,0,0,0,,Do you guys know? Oil, okay, do you understand?\N{\rChinese}你们知道吗？石油，明白吗？
+Dialogue: 0,0:18:46.96,0:18:49.80,English,,0,0,0,,And that's what we call the petrodollar. And\N{\rChinese}这就是我们所说的石油美元。并且
+Dialogue: 0,0:18:49.80,0:18:52.14,English,,0,0,0,,the idea here is that, look,\N{\rChinese}这里的意思是，听着，
+Dialogue: 0,0:18:52.24,0:18:56.22,English,,0,0,0,,every economy needs oil to run, right?\N{\rChinese}每个经济体都需要石油来运转，对吧？
+Dialogue: 0,0:18:56.32,0:18:59.52,English,,0,0,0,,You need oil as the basis of your economy.\N{\rChinese}你需要石油作为经济的基础。
+Dialogue: 0,0:19:01.44,0:19:04.50,English,,0,0,0,,And so after America went off the gold standard,\N{\rChinese}于是美国脱离金本位制后，
+Dialogue: 0,0:19:04.86,0:19:08.28,English,,0,0,0,,these countries in the Middle East, mainly Saudi Arabia, but other countries as well,\N{\rChinese}这些中东国家，主要是沙特阿拉伯，但也有其他国家，
+Dialogue: 0,0:19:09.44,0:19:12.24,English,,0,0,0,,agreed that you could buy oil using US dollars.\N{\rChinese}同意用美元买油。
+Dialogue: 0,0:19:13.72,0:19:16.46,English,,0,0,0,,So the idea is, okay, before,\N{\rChinese}于是想法是，好的，之前，
+Dialogue: 0,0:19:16.58,0:19:19.82,English,,0,0,0,,if you had a million dollars, a million US dollars, you could change,\N{\rChinese}如果你有一百万美元，你可以把它换成金，
+Dialogue: 0,0:19:20.26,0:19:21.92,English,,0,0,0,,convert that to gold, okay?\N{\rChinese}把它换成金，好的？
+Dialogue: 0,0:19:22.02,0:19:23.64,English,,0,0,0,,And now you can convert it to oil.\N{\rChinese}现在你可以把它换成石油。
+Dialogue: 0,0:19:24.40,0:19:26.08,English,,0,0,0,,And this is what we call the petrodollar.\N{\rChinese}这就是我们所说的石油美元。
+Dialogue: 0,0:19:27.02,0:19:28.62,English,,0,0,0,,And this is really the basis\N{\rChinese}这才是其根本。
+Dialogue: 0,0:19:30.42,0:19:34.94,English,,0,0,0,,for the value of the US dollar today, okay?\N{\rChinese}美国美元今天的价值，好的？
+Dialogue: 0,0:19:37.18,0:19:39.88,English,,0,0,0,,So then what happened is that in 1991,\N{\rChinese}于是发生的事是，1991年，
+Dialogue: 0,0:19:43.28,0:19:44.78,English,,0,0,0,,the Soviet Union fell,\N{\rChinese}苏联解体。
+Dialogue: 0,0:19:45.26,0:19:49.80,English,,0,0,0,,and now America was in charge of the entire global economy,\N{\rChinese}现在美国掌控了整个全球经济，
+Dialogue: 0,0:19:49.94,0:19:53.14,English,,0,0,0,,basically, okay? And so America at\N{\rChinese}基本上，好的？于是美国在那时对大家说，
+Dialogue: 0,0:19:53.14,0:19:56.98,English,,0,0,0,,that time said to everyone, listen, let's focus on trade,\N{\rChinese}那时大家听好了，先聚焦贸易，
+Dialogue: 0,0:19:57.76,0:20:01.24,English,,0,0,0,,because trade will make everyone rich, okay?\N{\rChinese}因为贸易会让大家都富裕，好的？
+Dialogue: 0,0:20:01.32,0:20:02.94,English,,0,0,0,,So let me explain the theory of this, okay?\N{\rChinese}所以让我来解释一下这个理论，好吗？
+Dialogue: 0,0:20:03.08,0:20:05.92,English,,0,0,0,,So America basically wanted everyone to trade.\N{\rChinese}于是美国基本想让大家都进行贸易。
+Dialogue: 0,0:20:07.56,0:20:10.24,English,,0,0,0,,And the idea of trade, okay, this is like Russia,\N{\rChinese}再说贸易的概念，好吗？这就像俄罗斯，
+Dialogue: 0,0:20:11.22,0:20:14.20,English,,0,0,0,,this is like China, this is like China, this is like China, this is like America, China, South America.\N{\rChinese}这像中国，这像中国，这像中国，这像美国，中国，南美。
+Dialogue: 0,0:20:14.38,0:20:17.58,English,,0,0,0,,The idea of trade is that each country\N{\rChinese}贸易的概念是每个国家……
+Dialogue: 0,0:20:18.01,0:20:20.16,English,,0,0,0,,would focus on its competitive advantage.\N{\rChinese}将聚焦其竞争优势。
+Dialogue: 0,0:20:20.62,0:20:22.62,English,,0,0,0,,What are you good at? And then\N{\rChinese}你擅长什么？然后
+Dialogue: 0,0:20:22.62,0:20:27.44,English,,0,0,0,,you would sell this competitive advantage to other countries for what they're good at,\N{\rChinese}你会把这种竞争优势卖给其他国家，以换取他们擅长的东西，
+Dialogue: 0,0:20:27.54,0:20:30.16,English,,0,0,0,,okay? And the theory here is\N{\rChinese}好吧？这里的理论是
+Dialogue: 0,0:20:30.16,0:20:32.44,English,,0,0,0,,that if you do it this way,\N{\rChinese}如果你按这种方式去做，
+Dialogue: 0,0:20:33.00,0:20:37.18,English,,0,0,0,,then all countries will become rich, okay?\N{\rChinese}那么所有国家都会变得富裕，好吗？
+Dialogue: 0,0:20:37.32,0:20:38.56,English,,0,0,0,,So let me explain why.\N{\rChinese}好了，我来解释一下原因。
+Dialogue: 0,0:20:39.00,0:20:42.20,English,,0,0,0,,All right, so let's look at, you know, US and China.\N{\rChinese}好的，那我们来看看美国和中国。
+Dialogue: 0,0:20:43.02,0:20:46.60,English,,0,0,0,,So what China is really good at is cheap labor.\N{\rChinese}中国真正擅长的是低成本劳动力。
+Dialogue: 0,0:20:49.20,0:20:51.42,English,,0,0,0,,What the United States is really good at is technology.\N{\rChinese}美国真正擅长的是技术。
+Dialogue: 0,0:20:55.78,0:20:58.86,English,,0,0,0,,The idea is that the United States and China trade.\N{\rChinese}美国和中国的贸易思路是……
+Dialogue: 0,0:21:01.56,0:21:05.82,English,,0,0,0,,China makes all these cheap goods for American consumers.\N{\rChinese}中国为美国消费者生产这些低价商品。
+Dialogue: 0,0:21:06.70,0:21:08.12,English,,0,0,0,,But unfortunately,\N{\rChinese}但不幸的是，
+Dialogue: 0,0:21:08.28,0:21:13.76,English,,0,0,0,,Chinese consumers don't have enough purchasing power to buy American technology.\N{\rChinese}中国消费者的购买力不足以买得美国技术。
+Dialogue: 0,0:21:15.02,0:21:18.02,English,,0,0,0,,So what happens is that\N{\rChinese}于是发生的是
+Dialogue: 0,0:21:18.02,0:21:22.84,English,,0,0,0,,America gives China US dollars instead.\N{\rChinese}美国把美元送给中国。
+Dialogue: 0,0:21:23.08,0:21:24.62,English,,0,0,0,,Trillions and trillions of US dollars.\N{\rChinese}数万亿美元。
+Dialogue: 0,0:21:25.26,0:21:27.12,English,,0,0,0,,Now, in theory,\N{\rChinese}理论上，
+Dialogue: 0,0:21:27.36,0:21:29.90,English,,0,0,0,,what's supposed to happen is this money\N{\rChinese}本来应该发生的是这笔钱
+Dialogue: 0,0:21:29.90,0:21:33.48,English,,0,0,0,,trickles down to the average Chinese.\N{\rChinese}流入普通中国人手中
+Dialogue: 0,0:21:33.80,0:21:35.06,English,,0,0,0,,So that...\N{\rChinese}于是…
+Dialogue: 0,0:21:35.06,0:21:37.80,English,,0,0,0,,So that... The average Chinese worker,\N{\rChinese}于是……普通中国工人，
+Dialogue: 0,0:21:38.12,0:21:40.02,English,,0,0,0,,his wages go up, right?\N{\rChinese}他的工资上涨了，对吧？
+Dialogue: 0,0:21:40.52,0:21:41.86,English,,0,0,0,,And when his wages go up,\N{\rChinese}当他的工资上涨时，
+Dialogue: 0,0:21:41.94,0:21:46.30,English,,0,0,0,,what he can do now is buy US products like iPhones.\N{\rChinese}他现在能做的就是买美国产品，比如iPhone。
+Dialogue: 0,0:21:47.86,0:21:51.94,English,,0,0,0,,And so over time, trade evens out.\N{\rChinese}于是随着时间推移，贸易就会平衡。
+Dialogue: 0,0:21:52.14,0:21:54.08,English,,0,0,0,,Does that make sense? That's a theory.\N{\rChinese}这样说对吗？这就是一个理论。
+Dialogue: 0,0:21:54.62,0:21:56.26,English,,0,0,0,,That's the first theory.\N{\rChinese}第一条理论是这样。
+Dialogue: 0,0:21:56.62,0:22:00.30,English,,0,0,0,,The second theory is how capital moves.\N{\rChinese}第二条理论是资本如何流动。
+Dialogue: 0,0:22:00.84,0:22:03.04,English,,0,0,0,,And the idea here is that\N{\rChinese}这里的想法是……
+Dialogue: 0,0:22:03.04,0:22:05.66,English,,0,0,0,,capital is going to go to places.\N{\rChinese}资本正往各地流动。
+Dialogue: 0,0:22:07.90,0:22:10.28,English,,0,0,0,,Which allows it to grow the most.\N{\rChinese}这让它增长最快。
+Dialogue: 0,0:22:10.98,0:22:13.52,English,,0,0,0,,Okay? And so the idea is that when\N{\rChinese}于是，想法是……
+Dialogue: 0,0:22:13.52,0:22:15.66,English,,0,0,0,,you have a globalized world, then\N{\rChinese}你们有一个全球化的世界，随后
+Dialogue: 0,0:22:15.66,0:22:19.76,English,,0,0,0,,what happens is capital from the United States moves to China.\N{\rChinese}结果就是美国的资本流向中国。
+Dialogue: 0,0:22:21.00,0:22:24.42,English,,0,0,0,,Right? Because if you invest in China, your capital grows the most.\N{\rChinese}对吧？因为如果你在中国投资，你的资本增长最快。
+Dialogue: 0,0:22:25.38,0:22:27.94,English,,0,0,0,,You can buy a million dollar house in the United States.\N{\rChinese}你可以在美国买一栋价值一百万美元的房子。
+Dialogue: 0,0:22:28.94,0:22:32.48,English,,0,0,0,,Or you can buy ten houses for the same money in China.\N{\rChinese}或者你可以用同样的钱在中国买十栋房子。
+Dialogue: 0,0:22:32.82,0:22:34.88,English,,0,0,0,,So you're better off buying houses in China, right?\N{\rChinese}所以用钱买房子在中国更划算，对吧？
+Dialogue: 0,0:22:34.88,0:22:37.40,English,,0,0,0,,Okay? So these are the two theories.\N{\rChinese}好的？所以这就是两种理论。
+Dialogue: 0,0:22:37.58,0:22:41.46,English,,0,0,0,,One is that trade will make everyone rich.\N{\rChinese}一种是贸易会让每个人都变得富裕。
+Dialogue: 0,0:22:41.70,0:22:43.62,English,,0,0,0,,And second is that\N{\rChinese}第二种是……
+Dialogue: 0,0:22:43.62,0:22:46.72,English,,0,0,0,,capital will move from rich countries to poor countries.\N{\rChinese}资本会从富国流向贫国。
+Dialogue: 0,0:22:46.82,0:22:49.50,English,,0,0,0,,Okay? And when you actually go to university and\N{\rChinese}好？当你真正去大学学习经济学时，像杰克·沃尔夫一样。
+Dialogue: 0,0:22:49.50,0:22:52.48,English,,0,0,0,,you study economics, like Jack Wolfe,\N{\rChinese}you study economics, like Jack Wolfe,
+Dialogue: 0,0:22:52.72,0:22:54.32,English,,0,0,0,,then you actually have to learn these theories.\N{\rChinese}然后你实际上需要学习这些理论。
+Dialogue: 0,0:22:56.58,0:22:58.28,English,,0,0,0,,But in reality,\N{\rChinese}但在现实中，
+Dialogue: 0,0:22:58.52,0:23:01.64,English,,0,0,0,,these two theories aren't true.\N{\rChinese}这两种理论并不成立。
+Dialogue: 0,0:23:02.20,0:23:05.06,English,,0,0,0,,Okay? Okay? Why not?\N{\rChinese}好？好？为什么不呢？
+Dialogue: 0,0:23:06.28,0:23:07.82,English,,0,0,0,,Why not? Why aren't these two theories true?\N{\rChinese}为什么不呢？这两种理论为什么不成立？
+Dialogue: 0,0:23:09.10,0:23:11.04,English,,0,0,0,,So the first theory is that\N{\rChinese}所以第一个理论是……
+Dialogue: 0,0:23:11.04,0:23:14.62,English,,0,0,0,,if two countries trade, over time,\N{\rChinese}如果两国进行贸易，随着时间推移，
+Dialogue: 0,0:23:14.64,0:23:19.92,English,,0,0,0,,wealth trickles down to everyone in\N{\rChinese}财富会渗透到该国的每个人身上，
+Dialogue: 0,0:23:19.92,0:23:21.98,English,,0,0,0,,that country, which makes everyone richer.\N{\rChinese}从而使每个人都更富裕。
+Dialogue: 0,0:23:22.94,0:23:24.38,English,,0,0,0,,Okay? Is that true for China?\N{\rChinese}好？这对中国成立吗？
+Dialogue: 0,0:23:26.70,0:23:31.48,English,,0,0,0,,No, it's not. Okay? Workers' wages have not gone up for the past 30, 40 years.\N{\rChinese}不，成立。好？过去三四十年工薪没有上涨。
+Dialogue: 0,0:23:31.86,0:23:33.96,English,,0,0,0,,Why? Because of the idea of elite capture.\N{\rChinese}为什么？因为精英俘获的想法。
+Dialogue: 0,0:23:36.66,0:23:38.16,English,,0,0,0,,Elite capture. So\N{\rChinese}精英俘获。于是
+Dialogue: 0,0:23:38.16,0:23:42.46,English,,0,0,0,,all the money is captured by an elite group of people.\N{\rChinese}所有的钱都被一群精英俘获。
+Dialogue: 0,0:23:43.12,0:23:47.26,English,,0,0,0,,When that happens, okay, they can't spend it.\N{\rChinese}当那种情况发生时，好吧，他们就没法花了。
+Dialogue: 0,0:23:47.34,0:23:48.62,English,,0,0,0,,They can't buy U.S. goods, right?\N{\rChinese}他们买不到美国产品，对吧？
+Dialogue: 0,0:23:48.90,0:23:51.68,English,,0,0,0,,So the only thing they can do is invest it.\N{\rChinese}于是他们唯一能做的就是投资。
+Dialogue: 0,0:23:52.96,0:23:55.26,English,,0,0,0,,Right? Now, according to this theory,\N{\rChinese}对吧？按这个理论来讲。
+Dialogue: 0,0:23:55.64,0:23:58.56,English,,0,0,0,,they should invest it back in China because\N{\rChinese}他们应该把钱再投回中国，因为
+Dialogue: 0,0:23:58.56,0:24:02.32,English,,0,0,0,,if you invest it in China, right?\N{\rChinese}如果你把钱投回中国，对吧？
+Dialogue: 0,0:24:02.32,0:24:05.06,English,,0,0,0,,China should allow for more growth than investment anywhere else.\N{\rChinese}中国应该比其他地方更能让投资增长。
+Dialogue: 0,0:24:05.12,0:24:08.52,English,,0,0,0,,Okay? But in reality, where do they put their money?\N{\rChinese}好的？但实际上他们把钱放在哪里？
+Dialogue: 0,0:24:10.36,0:24:12.44,English,,0,0,0,,In the United States. And why would they do that?\N{\rChinese}在美国。那他们为什么要这么做？
+Dialogue: 0,0:24:18.14,0:24:20.82,English,,0,0,0,,Why? Exactly.\N{\rChinese}为什么？正是如此。
+Dialogue: 0,0:24:20.98,0:24:24.52,English,,0,0,0,,Okay? You don't put your money where you make the most money.\N{\rChinese}好的？你把钱投在最能赚的钱上。
+Dialogue: 0,0:24:24.62,0:24:26.76,English,,0,0,0,,You put your money where it's the most safe.\N{\rChinese}你把钱投在最安全的钱上。
+Dialogue: 0,0:24:26.88,0:24:29.80,English,,0,0,0,,Okay? That's why we have banks. So\N{\rChinese}好的？这就是我们有银行的原因。
+Dialogue: 0,0:24:29.80,0:24:32.30,English,,0,0,0,,because the United States controls the U.S.\N{\rChinese}因为美国掌握了美国本土的经济。
+Dialogue: 0,0:24:32.30,0:24:33.78,English,,0,0,0,,economy. The United States controls the U.S. dollar. And because\N{\rChinese}美国掌握了美元。并且因为
+Dialogue: 0,0:24:33.78,0:24:37.58,English,,0,0,0,,people's wealth is expressed in U.S.\N{\rChinese}人们的财富以美元计价。
+Dialogue: 0,0:24:37.62,0:24:40.54,English,,0,0,0,,dollars, it makes the most sense to put your money in the United States.\N{\rChinese}美元，投在美国最有意义。
+Dialogue: 0,0:24:40.66,0:24:43.60,English,,0,0,0,,Okay? And this is not just true for China.\N{\rChinese}好吧？这不只是中国的情况。
+Dialogue: 0,0:24:43.70,0:24:45.88,English,,0,0,0,,It's true for most countries in the world.\N{\rChinese}这对世界大多数国家都成立。
+Dialogue: 0,0:24:46.40,0:24:50.86,English,,0,0,0,,And that's why starting in the 90s,\N{\rChinese}于是从90年代开始，
+Dialogue: 0,0:24:50.86,0:24:55.72,English,,0,0,0,,you have all this wealth amassing in the United States.\N{\rChinese}你在美国积累了这笔财富。
+Dialogue: 0,0:24:56.28,0:24:58.92,English,,0,0,0,,Okay? Does that make sense? So\N{\rChinese}好吧？这样说通吗？
+Dialogue: 0,0:24:58.92,0:25:01.42,English,,0,0,0,,everything in the United States became overpriced.\N{\rChinese}一切在美国都被高估。
+Dialogue: 0,0:25:01.68,0:25:03.72,English,,0,0,0,,Everything. Everything became a speculative bubble.\N{\rChinese}一切都成了投机泡沫。
+Dialogue: 0,0:25:04.72,0:25:06.04,English,,0,0,0,,Okay? So let me give you an example.\N{\rChinese}好吧？让我给你举个例子。
+Dialogue: 0,0:25:06.50,0:25:08.08,English,,0,0,0,,Let's look at equities.\N{\rChinese}让我们看看股票。
+Dialogue: 0,0:25:08.12,0:25:11.08,English,,0,0,0,,Okay? Start market. Stocks.\N{\rChinese}好吧？开始市场。股票。
+Dialogue: 0,0:25:11.84,0:25:13.40,English,,0,0,0,,In the year 1900, okay?\N{\rChinese}在1900年，好吧？
+Dialogue: 0,0:25:13.54,0:25:16.56,English,,0,0,0,,In the year 1900, if you look at all the world's stock markets,\N{\rChinese}在1900年，如果你查看全世界的股票市场，
+Dialogue: 0,0:25:16.74,0:25:18.88,English,,0,0,0,,the largest was the U.K.\N{\rChinese}最大的就是英国。
+Dialogue: 0,0:25:19.34,0:25:21.08,English,,0,0,0,,Okay? Because obviously the U.K.\N{\rChinese}好吧？因为显然是英国。
+Dialogue: 0,0:25:21.44,0:25:23.20,English,,0,0,0,,is the most powerful country in the world.\N{\rChinese}是世界上最强大的国家。
+Dialogue: 0,0:25:23.30,0:25:24.86,English,,0,0,0,,It was the most powerful country at that time.\N{\rChinese}那时它是最强大的国家。
+Dialogue: 0,0:25:25.50,0:25:27.22,English,,0,0,0,,Sorry. At that time, the U.K.\N{\rChinese}抱歉，那时英国是最强大的国家。
+Dialogue: 0,0:25:27.24,0:25:28.90,English,,0,0,0,,was the most powerful country. Okay?\N{\rChinese}是最强大的国家。好吧？
+Dialogue: 0,0:25:28.98,0:25:32.28,English,,0,0,0,,So in a stock market, as a percentage of the entire world, the U.K.\N{\rChinese}在股票市场中，按全世界比例，英国占约25%。
+Dialogue: 0,0:25:32.28,0:25:36.56,English,,0,0,0,,was the most powerful country. And the entire global stock market was about 25%.\N{\rChinese}是最强大的国家。全世界股票市场约占25%。
+Dialogue: 0,0:25:36.56,0:25:38.40,English,,0,0,0,,Okay? 24 to 25%.\N{\rChinese}好的？24%到25%。
+Dialogue: 0,0:25:38.40,0:25:43.28,English,,0,0,0,,The United States was second at 14.5%.\N{\rChinese}美国排第二，14.5%。
+Dialogue: 0,0:25:43.90,0:25:45.24,English,,0,0,0,,And you had Germany,\N{\rChinese}还有德国，
+Dialogue: 0,0:25:45.34,0:25:49.08,English,,0,0,0,,about 13%.\N{\rChinese}约13%。
+Dialogue: 0,0:25:49.08,0:25:50.88,English,,0,0,0,,France at 11%.\N{\rChinese}法国占11%。
+Dialogue: 0,0:25:50.88,0:25:55.60,English,,0,0,0,,Okay? So that was the situation of wealth in the year 1900.\N{\rChinese}好吧？那就是1900年的财富分布情况。
+Dialogue: 0,0:25:55.96,0:26:01.80,English,,0,0,0,,And this makes sense. Right? These four countries are industrially extremely powerful.\N{\rChinese}这也很合理。对吧？这四个国家工业上极其强大。
+Dialogue: 0,0:26:04.24,0:26:05.92,English,,0,0,0,,Today, okay?\N{\rChinese}今天，好吗？
+Dialogue: 0,0:26:06.48,0:26:08.66,English,,0,0,0,,Today. The year 2024.\N{\rChinese}今天。2024年。
+Dialogue: 0,0:26:09.66,0:26:12.80,English,,0,0,0,,The United States has 60%\N{\rChinese}美国拥有60%。
+Dialogue: 0,0:26:12.80,0:26:16.02,English,,0,0,0,,of all the world's stock wealth.\N{\rChinese}全世界股票财富的60%。
+Dialogue: 0,0:26:17.00,0:26:19.02,English,,0,0,0,,Okay? Who's second?\N{\rChinese}好？第二名是谁？
+Dialogue: 0,0:26:19.12,0:26:22.68,English,,0,0,0,,Can you guys guess? Who would be second?\N{\rChinese}你们能猜到吗？谁会排第二？
+Dialogue: 0,0:26:25.12,0:26:26.42,English,,0,0,0,,Japan. Okay?\N{\rChinese}日本。好吗？
+Dialogue: 0,0:26:26.82,0:26:30.16,English,,0,0,0,,And what is the percentage of global stock wealth?\N{\rChinese}全球股票财富的百分比是多少？
+Dialogue: 0,0:26:30.64,0:26:32.18,English,,0,0,0,,Can you guys guess? A number?\N{\rChinese}你们能猜到吗？一个数字？
+Dialogue: 0,0:26:36.52,0:26:37.96,English,,0,0,0,,United States has 66%.\N{\rChinese}美国拥有66%。
+Dialogue: 0,0:26:37.96,0:26:40.56,English,,0,0,0,,60%. How much does Japan have?\N{\rChinese}60%。日本有多少？
+Dialogue: 0,0:26:40.74,0:26:44.34,English,,0,0,0,,Can you guess the number? 10% is a good guess, right?\N{\rChinese}你能猜到数字吗？10%是个不错的猜测，对吧？
+Dialogue: 0,0:26:44.56,0:26:47.30,English,,0,0,0,,It's actually 6%. Okay?\N{\rChinese}实际上是6%。好吗？
+Dialogue: 0,0:26:47.50,0:26:49.90,English,,0,0,0,,Do you see the disparity? Number one is 60%.\N{\rChinese}你看到了差距吗？第一名是60%。
+Dialogue: 0,0:26:49.90,0:26:52.54,English,,0,0,0,,Japan, number two, is 6%.\N{\rChinese}日本，第二位，6%。
+Dialogue: 0,0:26:53.06,0:26:54.32,English,,0,0,0,,It's huge disparity.\N{\rChinese}差距很大。
+Dialogue: 0,0:26:54.74,0:26:58.00,English,,0,0,0,,How much is China? The world's second largest economy?\N{\rChinese}中国是多少？世界第二大经济体？
+Dialogue: 0,0:27:01.20,0:27:04.02,English,,0,0,0,,3%. 3%. 3%. Do you understand?\N{\rChinese}3%。3%。3%。你明白了吗？
+Dialogue: 0,0:27:05.32,0:27:09.16,English,,0,0,0,,All right? So, all this wealth that's being generated around the world,\N{\rChinese}好了？所以，全球产生的这笔财富，
+Dialogue: 0,0:27:09.32,0:27:11.14,English,,0,0,0,,it can only end up one place.\N{\rChinese}它最终只能落到一个地方。
+Dialogue: 0,0:27:12.08,0:27:13.78,English,,0,0,0,,Okay? The United States.\N{\rChinese}好的？美国。
+Dialogue: 0,0:27:15.46,0:27:19.78,English,,0,0,0,,All right? So,\N{\rChinese}好了？所以，
+Dialogue: 0,0:27:19.78,0:27:20.74,English,,0,0,0,,you have... And\N{\rChinese}你有……
+Dialogue: 0,0:27:20.74,0:27:23.40,English,,0,0,0,,that's what's pushed the\N{\rChinese}那就是推动了美国的金融化。
+Dialogue: 0,0:27:23.40,0:27:26.92,English,,0,0,0,,financialization of the U.S.\N{\rChinese}金融化的美国经济。
+Dialogue: 0,0:27:26.94,0:27:31.16,English,,0,0,0,,economy. Okay? Because this wealth goes to the United States.\N{\rChinese}好的？因为这笔财富落到美国。
+Dialogue: 0,0:27:31.22,0:27:33.42,English,,0,0,0,,And someone has to pay for it. Someone has to manage this wealth.\N{\rChinese}有人要为此付费。有人要管理这笔财富。
+Dialogue: 0,0:27:33.98,0:27:36.22,English,,0,0,0,,And this is the financial services sector.\N{\rChinese}这就是金融服务业。
+Dialogue: 0,0:27:36.96,0:27:40.46,English,,0,0,0,,So, people on Wall Street, and this is very important, people on Wall Street,\N{\rChinese}于是，华尔街的人们，这一点很重要，华尔街的人们。
+Dialogue: 0,0:27:40.64,0:27:46.08,English,,0,0,0,,they make their money based on how they manage this wealth,\N{\rChinese}他们的收益取决于他们如何管理这笔财富，
+Dialogue: 0,0:27:46.30,0:27:49.88,English,,0,0,0,,not on whether or not they make money out of this money.\N{\rChinese}而非取决于他们是否从这笔钱中赚取利润。
+Dialogue: 0,0:27:50.06,0:27:53.44,English,,0,0,0,,Do you understand? They charge a management fee.\N{\rChinese}你明白吗？他们收取管理费。
+Dialogue: 0,0:27:53.66,0:27:56.40,English,,0,0,0,,Okay? So, in other words,\N{\rChinese}好的？所以，换句话说，
+Dialogue: 0,0:27:56.54,0:28:01.70,English,,0,0,0,,they're not actually incentivized to be concerned.\N{\rChinese}他们并不真正被激励去关心。
+Dialogue: 0,0:28:01.80,0:28:04.28,English,,0,0,0,,They're not actually incentivized to be conservative and make sure that this money grows.\N{\rChinese}他们并不真正被激励去保守，确保这笔钱增长。
+Dialogue: 0,0:28:04.68,0:28:09.16,English,,0,0,0,,What they're incentivized to do is design riskier\N{\rChinese}他们被激励去设计更具风险的
+Dialogue: 0,0:28:09.16,0:28:12.80,English,,0,0,0,,and riskier assets\N{\rChinese}更具风险的资产
+Dialogue: 0,0:28:12.80,0:28:14.26,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:28:14.26,0:28:18.36,English,,0,0,0,,investment opportunities to attract more investment,\N{\rChinese}吸引更多投资的投资机会
+Dialogue: 0,0:28:18.64,0:28:21.74,English,,0,0,0,,because then they can take a management fee, a cut.\N{\rChinese}因为这样他们就能收取管理费，分成。
+Dialogue: 0,0:28:22.32,0:28:25.94,English,,0,0,0,,Okay? Does that make sense? And that's what's led to so\N{\rChinese}好吧？这样说通吗？这就是导致……的原因。
+Dialogue: 0,0:28:25.94,0:28:31.78,English,,0,0,0,,much financial over speculation over the past 20 years in the U.S.\N{\rChinese}过去20年美国经济中出现了大量金融过度投机。
+Dialogue: 0,0:28:31.78,0:28:34.36,English,,0,0,0,,economy. And that's what's led to so much financial over speculation over investment opportunities And\N{\rChinese}这就是导致大量金融过度投机的原因。
+Dialogue: 0,0:28:34.36,0:28:36.50,English,,0,0,0,,one of America's biggest problems\N{\rChinese}美国最大的问题之一
+Dialogue: 0,0:28:36.50,0:28:40.90,English,,0,0,0,,is the growing national debt.\N{\rChinese}是不断增长的国债
+Dialogue: 0,0:28:41.18,0:28:46.90,English,,0,0,0,,Okay? So, the government is paying for a lot of government services just by putting money.\N{\rChinese}好的？所以，政府只要投入资金就能支付大量政府服务。
+Dialogue: 0,0:28:47.08,0:28:48.88,English,,0,0,0,,Okay? So, right now, the U.S.\N{\rChinese}好的？现在，美国……
+Dialogue: 0,0:28:48.88,0:28:51.84,English,,0,0,0,,national debt is about $34 trillion.\N{\rChinese}国债约为34万亿美元。
+Dialogue: 0,0:28:53.22,0:28:56.54,English,,0,0,0,,Okay? And this $34 trillion debt,\N{\rChinese}好？这34万亿美元的国债，
+Dialogue: 0,0:28:56.70,0:28:59.32,English,,0,0,0,,half of it is owned by foreigners.\N{\rChinese}其中一半由外国人持有。
+Dialogue: 0,0:28:59.50,0:29:01.40,English,,0,0,0,,Okay? So, Japan has about a trillion.\N{\rChinese}好的？所以，日本约有一万亿美元。
+Dialogue: 0,0:29:02.02,0:29:03.58,English,,0,0,0,,China has about $800 billion.\N{\rChinese}中国约有八百亿美元。
+Dialogue: 0,0:29:03.86,0:29:05.08,English,,0,0,0,,So, they buy U.S. treasuries.\N{\rChinese}于是他们买美国国债。
+Dialogue: 0,0:29:05.28,0:29:07.92,English,,0,0,0,,Okay? So, America owes Japan a trillion dollars.\N{\rChinese}好？美国欠日本一万亿美元。
+Dialogue: 0,0:29:08.36,0:29:10.30,English,,0,0,0,,America owes China $800 billion.\N{\rChinese}美国欠中国八百亿美元。
+Dialogue: 0,0:29:10.96,0:29:15.02,English,,0,0,0,,And then half of it, the government owes to its people.\N{\rChinese}然后其中一半，政府欠自己的人民。
+Dialogue: 0,0:29:15.22,0:29:19.44,English,,0,0,0,,So, the two largest expenses are the military and the pension system.\N{\rChinese}于是，最大的两项支出是军费和养老金。
+Dialogue: 0,0:29:19.60,0:29:22.72,English,,0,0,0,,Okay? So,\N{\rChinese}好？于是，
+Dialogue: 0,0:29:22.72,0:29:25.46,English,,0,0,0,,$34 trillion is a lot of money.\N{\rChinese}三四万亿美元是大笔钱。
+Dialogue: 0,0:29:26.70,0:29:29.80,English,,0,0,0,,Okay? And the U.S. GDP is about $100 trillion.\N{\rChinese}好？美国的国内生产总值约为100万亿美元。
+Dialogue: 0,0:29:30.16,0:29:35.96,English,,0,0,0,,So, the total debt is about a third of America's GDP.\N{\rChinese}于是，总债务约占美国国内生产总值的三分之一。
+Dialogue: 0,0:29:36.44,0:29:39.92,English,,0,0,0,,And this debt has interest. So,\N{\rChinese}而且这笔债务还要付利息。
+Dialogue: 0,0:29:39.96,0:29:45.78,English,,0,0,0,,this debt is growing about $1 to $2 trillion every two to three months.\N{\rChinese}这笔债务每两到三个月增长约1到2万亿美元。
+Dialogue: 0,0:29:46.06,0:29:49.14,English,,0,0,0,,Okay? And all this is saying, okay, these numbers,\N{\rChinese}好？而且这些数字说明，好的，这些数字，
+Dialogue: 0,0:29:49.20,0:29:53.08,English,,0,0,0,,all they're telling us is there's absolutely no way\N{\rChinese}他们告诉我们的就是完全没有办法。
+Dialogue: 0,0:29:53.08,0:29:55.12,English,,0,0,0,,that America can pay all this debt.\N{\rChinese}那美国能偿还这笔债务。
+Dialogue: 0,0:29:57.24,0:30:00.18,English,,0,0,0,,Okay? So, then the question then is,\N{\rChinese}好？于是，接下来的问题是，
+Dialogue: 0,0:30:00.42,0:30:03.34,English,,0,0,0,,if you're China and you're Japan,\N{\rChinese}如果你是中国或日本，
+Dialogue: 0,0:30:04.00,0:30:08.00,English,,0,0,0,,why do you have all this debt knowing that America can never pay you back?\N{\rChinese}为什么你们会有这么多债务，知道美国永远付不回来？
+Dialogue: 0,0:30:08.26,0:30:12.38,English,,0,0,0,,Or America will at some point default on this debt. Why?\N{\rChinese}或者美国在某个时点会违约。为什么？
+Dialogue: 0,0:30:18.22,0:30:22.66,English,,0,0,0,,Why does America, why does Japan and China and other countries have all this debt,\N{\rChinese}为什么美国、为什么日本、中国和其他国家会有这么多债务？
+Dialogue: 0,0:30:23.02,0:30:25.56,English,,0,0,0,,U.S. treasuries? Knowing that\N{\rChinese}美国国债？知道美国永远付不回来。
+Dialogue: 0,0:30:25.56,0:30:29.72,English,,0,0,0,,America can never really pay back all this debt.\N{\rChinese}为什么？好。于是，原因有很多。
+Dialogue: 0,0:30:29.86,0:30:39.14,English,,0,0,0,,Why? Okay. So, there are many reasons.\N{\rChinese}好？
+Dialogue: 0,0:30:39.24,0:30:42.50,English,,0,0,0,,Okay? The first reason is that in theory,\N{\rChinese}好的？第一原因是理论上，
+Dialogue: 0,0:30:42.82,0:30:46.58,English,,0,0,0,,Japan and China can always take this debt\N{\rChinese}日本和中国总能用这笔债务买油。
+Dialogue: 0,0:30:46.58,0:30:48.36,English,,0,0,0,,and buy oil with it.\N{\rChinese}and buy oil withit.
+Dialogue: 0,0:30:48.44,0:30:50.52,English,,0,0,0,,Okay? So, this is again the petrodollar.\N{\rChinese}好的？所以，这又是石油美元。
+Dialogue: 0,0:30:50.72,0:30:52.16,English,,0,0,0,,Okay? Okay.\N{\rChinese}好的？好的。
+Dialogue: 0,0:30:52.16,0:30:55.58,English,,0,0,0,,So, the second reason is that even\N{\rChinese}所以，第二个原因是……
+Dialogue: 0,0:30:55.58,0:30:58.80,English,,0,0,0,,though America's in debt, it's still an empire.\N{\rChinese}虽然美国负债，却仍是帝国。
+Dialogue: 0,0:30:59.10,0:31:02.02,English,,0,0,0,,It's still the greatest military power in the world.\N{\rChinese}它仍是世界最大的军力。
+Dialogue: 0,0:31:02.56,0:31:07.30,English,,0,0,0,,So, at some point, you feel that the money is safe there.\N{\rChinese}于是，你会觉得钱在那里安全。
+Dialogue: 0,0:31:07.42,0:31:10.54,English,,0,0,0,,Okay? Does that make sense? Because no one can actually challenge America militarily.\N{\rChinese}好的？这样说通吗？因为没人能真正用军力挑战美国。
+Dialogue: 0,0:31:11.34,0:31:13.82,English,,0,0,0,,And the third reason, and this is the most important reason is,\N{\rChinese}第三个原因，也是最重要的原因是，
+Dialogue: 0,0:31:14.00,0:31:17.02,English,,0,0,0,,there's no place for you to go.\N{\rChinese}你没有地方可去。
+Dialogue: 0,0:31:18.10,0:31:21.08,English,,0,0,0,,You understand? What else?\N{\rChinese}你明白了吗？还有什么？
+Dialogue: 0,0:31:21.08,0:31:23.12,English,,0,0,0,,What else? What else? So, where else can you put your money?\N{\rChinese}还有什么？还有什么？那么，你还能把钱放在哪里？
+Dialogue: 0,0:31:23.32,0:31:27.52,English,,0,0,0,,Nowhere. Okay? So, that's the issue right now.\N{\rChinese}没有地方。好吧？这就是现在的问题。
+Dialogue: 0,0:31:28.34,0:31:32.22,English,,0,0,0,,And so, in theory, because\N{\rChinese}于是，理论上，因为
+Dialogue: 0,0:31:32.22,0:31:34.66,English,,0,0,0,,China and\N{\rChinese}中国和
+Dialogue: 0,0:31:34.66,0:31:37.22,English,,0,0,0,,Japan can buy oil with it,\N{\rChinese}日本可以用它买油，
+Dialogue: 0,0:31:37.28,0:31:39.28,English,,0,0,0,,and because\N{\rChinese}并且因为
+Dialogue: 0,0:31:39.28,0:31:42.12,English,,0,0,0,,there's really no place for China and\N{\rChinese}中国和日本真的没有地方可以放这笔钱，理论上，这个系统可以一直持续下去。
+Dialogue: 0,0:31:42.12,0:31:46.52,English,,0,0,0,,Japan to put this money, in theory, this system can go on forever.\N{\rChinese}Japan to put this money, in theory, this system can go on forever.
+Dialogue: 0,0:31:46.96,0:31:48.86,English,,0,0,0,,Okay? So, it's possible that\N{\rChinese}好的？所以，可能会出现……
+Dialogue: 0,0:31:48.86,0:31:52.12,English,,0,0,0,,maybe in 10 years' time, the debt will go away.\N{\rChinese}也许在十年后，债务会消失。
+Dialogue: 0,0:31:52.12,0:31:53.52,English,,0,0,0,,It will be $340 trillion.\N{\rChinese}它将达到340万亿美元。
+Dialogue: 0,0:31:53.66,0:31:58.14,English,,0,0,0,,Okay? Who knows? Okay? So, in theory, this could go on forever.\N{\rChinese}好的吗？谁知道？好的吗？所以，理论上，这可以一直持续下去。
+Dialogue: 0,0:31:58.40,0:31:59.62,English,,0,0,0,,Right? Because America's an empire.\N{\rChinese}对吗？因为美国是一个帝国。
+Dialogue: 0,0:32:00.86,0:32:04.68,English,,0,0,0,,But then, what happened two,\N{\rChinese}但随后，发生了两件事。
+Dialogue: 0,0:32:04.78,0:32:07.90,English,,0,0,0,,three years ago is Russia invaded Ukraine.\N{\rChinese}三年前，俄罗斯入侵乌克兰。
+Dialogue: 0,0:32:09.28,0:32:11.54,English,,0,0,0,,Okay? Russia invaded Ukraine.\N{\rChinese}好的吗？俄罗斯入侵乌克兰。
+Dialogue: 0,0:32:13.30,0:32:16.32,English,,0,0,0,,And why this is important is\N{\rChinese}而这件事重要的原因是…
+Dialogue: 0,0:32:16.32,0:32:22.10,English,,0,0,0,,that this is basically Russia challenging China.\N{\rChinese}那就是俄罗斯在挑战中国。
+Dialogue: 0,0:32:22.10,0:32:25.12,English,,0,0,0,,Why? Because Russia is challenging the dominance of the American empire.\N{\rChinese}为什么？因为俄罗斯正在挑战美国帝国的主导地位。
+Dialogue: 0,0:32:25.98,0:32:29.54,English,,0,0,0,,Okay? What Putin is really saying to the United States is,\N{\rChinese}好的吗？普京真正对美国说的是，
+Dialogue: 0,0:32:29.68,0:32:32.96,English,,0,0,0,,I think your empire is full of lies.\N{\rChinese}我觉得你的帝国充满了谎言。
+Dialogue: 0,0:32:33.22,0:32:35.44,English,,0,0,0,,Your empire is based on nothing.\N{\rChinese}你的帝国根本无物。
+Dialogue: 0,0:32:35.86,0:32:40.14,English,,0,0,0,,Your empire is based on the perception that you are invincible in war.\N{\rChinese}你的帝国建立在你在战争中无敌可战的观念上。
+Dialogue: 0,0:32:40.60,0:32:43.40,English,,0,0,0,,Well, I'm going to invade Ukraine and prove everyone wrong.\N{\rChinese}好吧，我要进攻乌克兰，证明大家都错了。
+Dialogue: 0,0:32:44.20,0:32:48.20,English,,0,0,0,,Okay? I'm going to show that you, America, are in fact a paper tiger.\N{\rChinese}好的，我要证明美国其实是纸老虎。
+Dialogue: 0,0:32:49.86,0:32:51.86,English,,0,0,0,,Okay? And so,\N{\rChinese}好的，接下来是……
+Dialogue: 0,0:32:51.98,0:32:55.82,English,,0,0,0,,if Putin succeeds in his war in Ukraine,\N{\rChinese}如果普京在乌克兰战争中成功，
+Dialogue: 0,0:32:56.30,0:33:00.60,English,,0,0,0,,then the fundamental understanding of how the world works,\N{\rChinese}那么世界运作的根本理解将会改变，
+Dialogue: 0,0:33:00.70,0:33:03.64,English,,0,0,0,,that America is an empire, that America is invincible,\N{\rChinese}美国是帝国、美国是无敌可战的观念。
+Dialogue: 0,0:33:04.04,0:33:06.92,English,,0,0,0,,that the U.S. dollar is safe, will radically change.\N{\rChinese}美元安全的概念将被彻底改变。
+Dialogue: 0,0:33:07.34,0:33:08.60,English,,0,0,0,,It will be destroyed.\N{\rChinese}它将被摧毁。
+Dialogue: 0,0:33:08.60,0:33:10.26,English,,0,0,0,,It will be undermined. It will be subverted.\N{\rChinese}它将被削弱并被颠覆。
+Dialogue: 0,0:33:10.78,0:33:13.54,English,,0,0,0,,Okay? Does that make sense? So,\N{\rChinese}好的？这样说通吗？所以，
+Dialogue: 0,0:33:13.58,0:33:15.44,English,,0,0,0,,that's why America needs\N{\rChinese}这就是美国需要的原因
+Dialogue: 0,0:33:15.44,0:33:19.98,English,,0,0,0,,to stop Russia in Ukraine.\N{\rChinese}在乌克兰阻止俄罗斯
+Dialogue: 0,0:33:19.98,0:33:24.38,English,,0,0,0,,Okay? Can it stop Russia in Ukraine?\N{\rChinese}好的？它能在乌克兰阻止俄罗斯吗？
+Dialogue: 0,0:33:26.28,0:33:28.76,English,,0,0,0,,How's the war going for America in Ukraine?\N{\rChinese}乌克兰的战争对美国来说进展如何？
+Dialogue: 0,0:33:32.32,0:33:33.54,English,,0,0,0,,Pretty badly. Okay?\N{\rChinese}相当糟糕。好吧？
+Dialogue: 0,0:33:33.86,0:33:35.70,English,,0,0,0,,I mean, the war is almost over.\N{\rChinese}我的意思是，战争快结束了。
+Dialogue: 0,0:33:36.48,0:33:40.12,English,,0,0,0,,Okay. So, but\N{\rChinese}好的。那样，然而
+Dialogue: 0,0:33:40.12,0:33:41.94,English,,0,0,0,,what America can do,\N{\rChinese}美国可以做的事
+Dialogue: 0,0:33:42.36,0:33:45.88,English,,0,0,0,,okay, which will solve all these problems,\N{\rChinese}好的，这将解决所有这些问题，
+Dialogue: 0,0:33:46.08,0:33:50.36,English,,0,0,0,,is for America to transition from a financial system to a political system.\N{\rChinese}美国从金融体系转向政治体系是关键。
+Dialogue: 0,0:33:50.36,0:33:53.72,English,,0,0,0,,Okay? So, America can transition from a financial economy back to a manufacturing economy.\N{\rChinese}好的？那么，美国可以把金融经济转回制造业经济。
+Dialogue: 0,0:33:54.54,0:33:58.74,English,,0,0,0,,Okay? If America just does this, America has nothing to worry about.\N{\rChinese}好的？只要美国这么做，便无须再担忧。
+Dialogue: 0,0:33:58.82,0:34:00.98,English,,0,0,0,,It doesn't have to worry about the debt. It doesn't have to worry about Russia.\N{\rChinese}它不必担心债务，也不必担心俄罗斯。
+Dialogue: 0,0:34:01.76,0:34:03.32,English,,0,0,0,,It doesn't even have to worry about the world.\N{\rChinese}它甚至不必担心世界。
+Dialogue: 0,0:34:03.42,0:34:06.16,English,,0,0,0,,Okay? Because America is a self -sufficient economy,\N{\rChinese}好的？因为美国是自给自足的经济体，
+Dialogue: 0,0:34:06.52,0:34:09.44,English,,0,0,0,,meaning that it has the resources to sustain itself.\N{\rChinese}意味着它拥有维持自身所需的资源。
+Dialogue: 0,0:34:09.58,0:34:11.90,English,,0,0,0,,It doesn't really need to trade with the rest of the world. Okay?\N{\rChinese}它不必真的与世界其他地方进行贸易。
+Dialogue: 0,0:34:12.30,0:34:15.88,English,,0,0,0,,If America can return to\N{\rChinese}如果美国能回到
+Dialogue: 0,0:34:15.88,0:34:19.40,English,,0,0,0,,being a manufacturing economy,\N{\rChinese}成为制造业经济体，
+Dialogue: 0,0:34:19.62,0:34:21.38,English,,0,0,0,,then it can also be a self -sufficient Then it will be invincible.\N{\rChinese}然后它也可以自给自足，随后就会无敌可战。
+Dialogue: 0,0:34:22.34,0:34:24.90,English,,0,0,0,,Okay? Now, the question then is,\N{\rChinese}好的？现在，问题是，
+Dialogue: 0,0:34:25.14,0:34:27.38,English,,0,0,0,,can America re -industrialize?\N{\rChinese}美国能否再工业化？
+Dialogue: 0,0:34:27.94,0:34:32.38,English,,0,0,0,,Yes or no? Why not, Jack?\N{\rChinese}是还是不是？为什么不行，杰克？
+Dialogue: 0,0:34:33.58,0:34:35.92,English,,0,0,0,,Because the politics doesn't allow them to.\N{\rChinese}因为政治不允许他们这么做。
+Dialogue: 0,0:34:36.44,0:34:38.98,English,,0,0,0,,Because the politics does not allow them to.\N{\rChinese}因为政治不允许他们这么做。
+Dialogue: 0,0:34:39.08,0:34:40.36,English,,0,0,0,,Exactly. But can you explain that?\N{\rChinese}完全正确。你能解释一下吗？
+Dialogue: 0,0:34:40.74,0:34:44.24,English,,0,0,0,,Like, the financial system has, you know, incredible power.\N{\rChinese}比如说，金融体系拥有，你知道，惊人的力量。
+Dialogue: 0,0:34:46.04,0:34:50.32,English,,0,0,0,,There's all these countries that need to be a perpetual system.\N{\rChinese}还有很多国家需要保持这种持续的体系。
+Dialogue: 0,0:34:50.32,0:34:51.96,English,,0,0,0,,And the economy is a perpetual system.\N{\rChinese}而经济也是一个永续的体系。
+Dialogue: 0,0:34:52.04,0:34:53.82,English,,0,0,0,,Yeah. And they won't allow America to do that.\N{\rChinese}是的。它们也不让美国这么做。
+Dialogue: 0,0:34:54.72,0:34:55.98,English,,0,0,0,,That's exactly right, Jack. Okay?\N{\rChinese}正是如此，杰克。好了？
+Dialogue: 0,0:34:56.06,0:35:00.70,English,,0,0,0,,So, yes, the problem right now is the very structure of American society\N{\rChinese}于是，当前问题正是美国社会结构本身
+Dialogue: 0,0:35:00.70,0:35:02.20,English,,0,0,0,,and politics and the economy.\N{\rChinese}以及政治和经济。
+Dialogue: 0,0:35:02.38,0:35:05.04,English,,0,0,0,,Right now, the financial sector has all the power.\N{\rChinese}现在，金融部门拥有全部力量。
+Dialogue: 0,0:35:05.74,0:35:10.50,English,,0,0,0,,And they don't want to go back to the time when manufacturing had all the power.\N{\rChinese}而他们又不想回到制造业拥有全部力量的时代。
+Dialogue: 0,0:35:10.60,0:35:13.84,English,,0,0,0,,Right? So, that's the first problem.\N{\rChinese}对吗？所以，那是第一个问题。
+Dialogue: 0,0:35:14.98,0:35:18.36,English,,0,0,0,,But let's just say, for the sake of argument, that they agree to this.\N{\rChinese}但我们先假设，出于论证之便，大家都同意这一点。
+Dialogue: 0,0:35:18.50,0:35:20.06,English,,0,0,0,,Okay? What's your other problem?\N{\rChinese}好的？你还有什么问题？
+Dialogue: 0,0:35:21.92,0:35:23.48,English,,0,0,0,,If you want to re -industrialize?\N{\rChinese}如果你想再工业化？
+Dialogue: 0,0:35:30.94,0:35:33.82,English,,0,0,0,,. Excuse me?\N{\rChinese}请问一下？
+Dialogue: 0,0:35:34.50,0:35:37.92,English,,0,0,0,,. Okay.\N{\rChinese}好的。
+Dialogue: 0,0:35:38.70,0:35:40.62,English,,0,0,0,,But all the foreign investment can just go into factories.\N{\rChinese}但所有外资都可以直接投入工厂。
+Dialogue: 0,0:35:40.86,0:35:45.22,English,,0,0,0,,Right? But there's actually a really big problem with re -industrialization.\N{\rChinese}对吧？但再工业化确实有个大问题。
+Dialogue: 0,0:35:45.36,0:35:48.22,English,,0,0,0,,Okay? So, as Jack says, there will be political,\N{\rChinese}好吧？正如杰克所说，接下来会有政治…
+Dialogue: 0,0:35:48.32,0:35:50.70,English,,0,0,0,,you know, political, you know, political resistance to this.\N{\rChinese}你知道，政治，你知道，政治抵抗。
+Dialogue: 0,0:35:51.22,0:35:53.92,English,,0,0,0,,Okay? But then you have a bigger problem than this, which is what?\N{\rChinese}好吧？但随后你会有更大的问题，那是什么？
+Dialogue: 0,0:35:55.30,0:35:59.10,English,,0,0,0,,. Okay, guys.\N{\rChinese}. 好的，大家。
+Dialogue: 0,0:36:00.08,0:36:03.96,English,,0,0,0,,The problem with this economy is it creates a speculative mindset.\N{\rChinese}这个经济的难点在于它产生了投机心态。
+Dialogue: 0,0:36:04.26,0:36:08.36,English,,0,0,0,,Okay? So, therefore, no one wants to work hard.\N{\rChinese}好的？所以，结果就是没人想再辛苦工作。
+Dialogue: 0,0:36:08.58,0:36:11.66,English,,0,0,0,,No one wants to go to work in factories anymore.\N{\rChinese}没人想再去工厂工作了。
+Dialogue: 0,0:36:11.90,0:36:14.60,English,,0,0,0,,Do you understand? If you're a young person,\N{\rChinese}你明白吗？如果你是个年轻人，
+Dialogue: 0,0:36:14.80,0:36:18.20,English,,0,0,0,,you would much rather spend your time investing\N{\rChinese}你更愿意把时间投入投资
+Dialogue: 0,0:36:18.20,0:36:20.80,English,,0,0,0,,in Bitcoin than working in a factory.\N{\rChinese}比在工厂工作更好。
+Dialogue: 0,0:36:21.04,0:36:22.46,English,,0,0,0,,Do you understand? Because\N{\rChinese}你明白吗？因为
+Dialogue: 0,0:36:22.46,0:36:26.92,English,,0,0,0,,investing in Bitcoin gives you the opportunity to become rich.\N{\rChinese}投资比特币能让你变得富有。
+Dialogue: 0,0:36:27.50,0:36:28.88,English,,0,0,0,,But if you work in a factory,\N{\rChinese}但如果你在工厂工作，
+Dialogue: 0,0:36:29.10,0:36:32.92,English,,0,0,0,,you have to work hard for 40 years just to buy a house.\N{\rChinese}你得辛苦工作四十年才买得一房。
+Dialogue: 0,0:36:33.08,0:36:36.90,English,,0,0,0,,Okay? Does that make sense? So, you're not going to find people to work these factories.\N{\rChinese}好的？这样说通吗？所以你找不到人来操作这些工厂。
+Dialogue: 0,0:36:37.98,0:36:40.32,English,,0,0,0,,That's a bigger problem. Okay?\N{\rChinese}这更是个大问题。好吗？
+Dialogue: 0,0:36:40.54,0:36:45.04,English,,0,0,0,,And the third problem, of course, is just investment.\N{\rChinese}第三个问题当然是投资。
+Dialogue: 0,0:36:46.28,0:36:47.72,English,,0,0,0,,How do you...\N{\rChinese}你是怎么做的……
+Dialogue: 0,0:36:47.72,0:36:49.22,English,,0,0,0,,How do you build these factories?\N{\rChinese}你是怎么建造这些工厂的？
+Dialogue: 0,0:36:49.70,0:36:51.30,English,,0,0,0,,You not only have to build these factories, but\N{\rChinese}你不仅要建造这些工厂，还要……
+Dialogue: 0,0:36:51.30,0:36:55.44,English,,0,0,0,,you also have to build logistics networks to move goods from one place to the next.\N{\rChinese}你还得建造物流网络，把货物从一个地方运到另一个地方。
+Dialogue: 0,0:36:56.52,0:36:58.74,English,,0,0,0,,Okay? So, in other words,\N{\rChinese}好的？换句话说，
+Dialogue: 0,0:36:58.88,0:37:03.16,English,,0,0,0,,America could be industrialized, but it's a pain in the ass.\N{\rChinese}美国可以工业化，但这是一件麻烦事。
+Dialogue: 0,0:37:03.32,0:37:06.18,English,,0,0,0,,Right? You're going to face a lot of political opposition,\N{\rChinese}对吧？你将面临大量政治阻力，
+Dialogue: 0,0:37:06.46,0:37:08.26,English,,0,0,0,,especially from the financial sector.\N{\rChinese}尤其来自金融部门。
+Dialogue: 0,0:37:08.98,0:37:12.24,English,,0,0,0,,It's very hard for you to get people to work in factories.\N{\rChinese}对你来说，让人们在工厂工作很难。
+Dialogue: 0,0:37:13.14,0:37:15.16,English,,0,0,0,,And plus, where's all this money going to come from?\N{\rChinese}再说，这笔钱从哪儿来？
+Dialogue: 0,0:37:15.24,0:37:18.82,English,,0,0,0,,Okay? So,\N{\rChinese}好吧？那么，
+Dialogue: 0,0:37:18.82,0:37:21.70,English,,0,0,0,,if you can't beat Russia in Ukraine, and\N{\rChinese}如果你在乌克兰不能打败俄罗斯，且
+Dialogue: 0,0:37:21.70,0:37:24.42,English,,0,0,0,,if you can't re -industrialize, then\N{\rChinese}如果你不能再工业化，那么
+Dialogue: 0,0:37:24.42,0:37:27.42,English,,0,0,0,,what can you do to protect the petrodollar\N{\rChinese}你能做什么来保护石油美元
+Dialogue: 0,0:37:27.42,0:37:29.86,English,,0,0,0,,and your financial system?\N{\rChinese}以及你的金融体系？
+Dialogue: 0,0:37:35.46,0:37:36.90,English,,0,0,0,,Well, I have an idea. Okay?\N{\rChinese}我有个主意。
+Dialogue: 0,0:37:38.56,0:37:40.84,English,,0,0,0,,Invade Iran. Okay?\N{\rChinese}入侵伊朗。好吧？
+Dialogue: 0,0:37:40.94,0:37:45.34,English,,0,0,0,,Invade Iran. Now, why would you do that?\N{\rChinese}入侵伊朗。现在，为什么要这么做？
+Dialogue: 0,0:37:45.54,0:37:48.58,English,,0,0,0,,Okay? And the answer is that, unfortunately,\N{\rChinese}好吧？答案是，遗憾地说，
+Dialogue: 0,0:37:48.90,0:37:52.18,English,,0,0,0,,of all the options out there, okay,\N{\rChinese}在所有可选方案中，先说一下，
+Dialogue: 0,0:37:52.24,0:37:55.24,English,,0,0,0,,because America can't just sit back and let its empire collapse, right?\N{\rChinese}因为美国不能只是坐着等帝国崩溃，对吧？
+Dialogue: 0,0:37:55.40,0:37:57.06,English,,0,0,0,,Of all the options out there,\N{\rChinese}在所有可选方案中，
+Dialogue: 0,0:37:57.22,0:38:02.86,English,,0,0,0,,invading Iran happens to be politically the easiest to do.\N{\rChinese}入侵伊朗恰好是最容易的政治手段。
+Dialogue: 0,0:38:03.86,0:38:05.88,English,,0,0,0,,Okay? You're not...\N{\rChinese}好吧？你还不是……
+Dialogue: 0,0:38:05.88,0:38:09.40,English,,0,0,0,,You can't go fight a war against Russia because Russia has nuclear weapons.\N{\rChinese}你不能去跟俄罗斯打一场战争，因为俄罗斯有核武器。
+Dialogue: 0,0:38:09.68,0:38:13.96,English,,0,0,0,,You cannot re -industrialize because there'll be too much political opposition towards that.\N{\rChinese}你无法再工业化，因为会有太多政治反对。
+Dialogue: 0,0:38:13.96,0:38:16.08,English,,0,0,0,,Plus, it'll take you about 50 years to re -industrialize.\N{\rChinese}再加上，重新工业化大约需要五十年。
+Dialogue: 0,0:38:16.46,0:38:17.70,English,,0,0,0,,But if you invade Iran,\N{\rChinese}但如果你入侵伊朗，
+Dialogue: 0,0:38:18.18,0:38:19.68,English,,0,0,0,,well, you accomplish three things.\N{\rChinese}好吧，你完成了三件事。
+Dialogue: 0,0:38:19.82,0:38:24.44,English,,0,0,0,,Okay? The first thing is you show the world\N{\rChinese}好吧？第一件事是你向世界展示
+Dialogue: 0,0:38:24.44,0:38:26.30,English,,0,0,0,,that you're still the top dog.\N{\rChinese}你依旧是顶尖。
+Dialogue: 0,0:38:26.72,0:38:28.30,English,,0,0,0,,Your military is still invincible.\N{\rChinese}你的军队仍然无敌可战
+Dialogue: 0,0:38:28.72,0:38:31.16,English,,0,0,0,,Okay? So, you're a foreign investor in America.\N{\rChinese}好的？所以，你是美国的外资投资者。
+Dialogue: 0,0:38:31.40,0:38:32.76,English,,0,0,0,,You have a trillion US dollars.\N{\rChinese}你有一万亿美元。
+Dialogue: 0,0:38:32.94,0:38:34.24,English,,0,0,0,,You feel safe.\N{\rChinese}你觉得安全。
+Dialogue: 0,0:38:34.58,0:38:37.76,English,,0,0,0,,Okay? You don't think the US dollar will collapse.\N{\rChinese}好吧？你认为美元不会崩溃。
+Dialogue: 0,0:38:38.76,0:38:40.04,English,,0,0,0,,Okay? That's the first thing.\N{\rChinese}好吧？那是第一件事。
+Dialogue: 0,0:38:40.76,0:38:43.94,English,,0,0,0,,To show the world that America is still the best.\N{\rChinese}向世界展示美国依旧是最好的。
+Dialogue: 0,0:38:43.94,0:38:46.48,English,,0,0,0,,To show the world the world's foremost military power.\N{\rChinese}向世界展示世界最强的军事实力。
+Dialogue: 0,0:38:47.06,0:38:49.06,English,,0,0,0,,Therefore, the US dollar is safe.\N{\rChinese}因此，美元是安全的。
+Dialogue: 0,0:38:49.28,0:38:54.22,English,,0,0,0,,Okay? Second is oil,\N{\rChinese}好吧？第二个是油。
+Dialogue: 0,0:38:54.52,0:39:00.30,English,,0,0,0,,right? What is the US dollar based on?\N{\rChinese}对吧？美元是基于什么的？
+Dialogue: 0,0:39:00.40,0:39:02.60,English,,0,0,0,,Oil, right? Well, if you control oil,\N{\rChinese}油，对吗？那么，如果你掌握了油，
+Dialogue: 0,0:39:03.08,0:39:07.74,English,,0,0,0,,then you don't have to worry about people abandoning the US dollar.\N{\rChinese}然后你就不必担心人们放弃美元了。
+Dialogue: 0,0:39:08.00,0:39:09.76,English,,0,0,0,,Okay? Does that make sense? Okay?\N{\rChinese}好吧？这有道理吗？好吧？
+Dialogue: 0,0:39:09.82,0:39:13.06,English,,0,0,0,,And it happens that the Middle East produces...\N{\rChinese}并且中东产油量占全球的40%。
+Dialogue: 0,0:39:13.06,0:39:15.42,English,,0,0,0,,40% of the world's oil.\N{\rChinese}并且中东产油量占全球的40%。
+Dialogue: 0,0:39:16.42,0:39:22.02,English,,0,0,0,,And Iran is the world's fourth largest oil exporter.\N{\rChinese}伊朗是世界第四大油出口国。
+Dialogue: 0,0:39:22.44,0:39:25.90,English,,0,0,0,,But when you take over Iran, you also control Iraq as well.\N{\rChinese}但当你接管伊朗时，也就掌握了伊拉克。
+Dialogue: 0,0:39:26.10,0:39:28.00,English,,0,0,0,,You control that entire area.\N{\rChinese}你控制那整个区域。
+Dialogue: 0,0:39:28.32,0:39:34.02,English,,0,0,0,,Okay? And the third thing about invading Iran is trade.\N{\rChinese}好吧？再说，入侵伊朗的第三点是贸易。
+Dialogue: 0,0:39:34.26,0:39:37.50,English,,0,0,0,,Okay? So,\N{\rChinese}好吧？那么，
+Dialogue: 0,0:39:37.50,0:39:42.06,English,,0,0,0,,that area, most of the world's trade has to pass through that area.\N{\rChinese}那片区域，全球大部分贸易都要经过那里。
+Dialogue: 0,0:39:42.20,0:39:47.30,English,,0,0,0,,Right? So, invading Iran would allow you to control the world's shipping lanes.\N{\rChinese}对吗？所以，入侵伊朗就能让你掌握全球航运通道。
+Dialogue: 0,0:39:48.50,0:39:52.56,English,,0,0,0,,Okay? So,\N{\rChinese}好吧？那么，
+Dialogue: 0,0:39:52.56,0:39:56.30,English,,0,0,0,,that would be the theory behind invading Iran.\N{\rChinese}那就是入侵伊朗的理论依据。
+Dialogue: 0,0:39:56.60,0:39:57.58,English,,0,0,0,,Okay? But\N{\rChinese}好吧？但
+Dialogue: 0,0:39:57.58,0:40:00.62,English,,0,0,0,,the motivation would be\N{\rChinese}动机将是
+Dialogue: 0,0:40:00.62,0:40:04.12,English,,0,0,0,,to save the American empire.\N{\rChinese}拯救美国帝国
+Dialogue: 0,0:40:04.92,0:40:08.76,English,,0,0,0,,Because if Putin wins in Ukraine,\N{\rChinese}因为如果普京在乌克兰赢了，
+Dialogue: 0,0:40:09.22,0:40:12.46,English,,0,0,0,,then America is going to look weak.\N{\rChinese}于是美国将显得弱小。
+Dialogue: 0,0:40:13.04,0:40:14.36,English,,0,0,0,,It's going to look like a paper tiger.\N{\rChinese}看起来像只纸老虎。
+Dialogue: 0,0:40:14.60,0:40:17.14,English,,0,0,0,,Okay? And in this situation, as the empire,\N{\rChinese}好吧？而在这种情况下，作为帝国，
+Dialogue: 0,0:40:17.58,0:40:19.54,English,,0,0,0,,you have to act.\N{\rChinese}你得行动。
+Dialogue: 0,0:40:22.40,0:40:25.80,English,,0,0,0,,Today, you have a lot of countries in Africa\N{\rChinese}今天，你在非洲有许多国家
+Dialogue: 0,0:40:25.80,0:40:29.22,English,,0,0,0,,who are rebelling against the Western powers.\N{\rChinese}谁在对抗西方大国。
+Dialogue: 0,0:40:29.34,0:40:30.96,English,,0,0,0,,France, basically, and America.\N{\rChinese}法国，基本上，和美国。
+Dialogue: 0,0:40:31.38,0:40:34.22,English,,0,0,0,,Why? Because they think that Putin is now in charge.\N{\rChinese}为什么？因为他们认为普京现在掌权。
+Dialogue: 0,0:40:34.46,0:40:36.50,English,,0,0,0,,Okay? Why did October 7th...\N{\rChinese}好吧？10月7日为什么会发生…
+Dialogue: 0,0:40:36.50,0:40:41.22,English,,0,0,0,,Why did Hamas attack Israel?\N{\rChinese}为什么哈马斯袭击以色列？
+Dialogue: 0,0:40:41.22,0:40:44.28,English,,0,0,0,,I guarantee you that if it were not for the war in Ukraine,\N{\rChinese}我保证你，如果不是乌克兰战争，
+Dialogue: 0,0:40:44.58,0:40:46.20,English,,0,0,0,,Hamas would not have done such a thing.\N{\rChinese}哈马斯本不会做出这件事。
+Dialogue: 0,0:40:46.32,0:40:50.28,English,,0,0,0,,Okay? For the longest time before the war in Ukraine,\N{\rChinese}好吧？在乌克兰战争之前的很长一段时间里。
+Dialogue: 0,0:40:50.68,0:40:53.98,English,,0,0,0,,there was a perception in the world\N{\rChinese}世界上曾有一种观念
+Dialogue: 0,0:40:53.98,0:40:56.98,English,,0,0,0,,that America was militarily invincible.\N{\rChinese}美国在军事上无敌可战
+Dialogue: 0,0:40:57.34,0:40:58.26,English,,0,0,0,,No power,\N{\rChinese}无势力
+Dialogue: 0,0:40:58.54,0:41:03.74,English,,0,0,0,,no country could ever dare stand up against the United States.\N{\rChinese}没有任何国家敢对美国起而立
+Dialogue: 0,0:41:03.96,0:41:07.08,English,,0,0,0,,And by invading Ukraine, Putin has proved everyone wrong.\N{\rChinese}并且通过入侵乌克兰，普京证明了大家的错误。
+Dialogue: 0,0:41:07.28,0:41:09.72,English,,0,0,0,,Okay? The United States can be defeated.\N{\rChinese}好吧？美国可以被击败。
+Dialogue: 0,0:41:09.72,0:41:14.02,English,,0,0,0,,And so what the United States must do now is prove to the world,\N{\rChinese}于是美国现在必须做的事是向世界证明，
+Dialogue: 0,0:41:14.12,0:41:17.80,English,,0,0,0,,nope, we're still militarily the greatest power in the world.\N{\rChinese}没错，我们仍然是世界上最强大的军事力量。
+Dialogue: 0,0:41:18.02,0:41:20.66,English,,0,0,0,,Okay? Does that make sense? Okay?\N{\rChinese}好吧？这样说通吗？好吧？
+Dialogue: 0,0:41:20.82,0:41:23.92,English,,0,0,0,,And again, it must do\N{\rChinese}再一次，它必须做到。
+Dialogue: 0,0:41:23.92,0:41:27.22,English,,0,0,0,,so to protect its financial economy.\N{\rChinese}为此，保护其金融经济。
+Dialogue: 0,0:41:27.74,0:41:30.46,English,,0,0,0,,Otherwise, there's a very good chance\N{\rChinese}否则，出现很好的机会
+Dialogue: 0,0:41:30.46,0:41:34.04,English,,0,0,0,,that this financial economy will implode onto itself.\N{\rChinese}这个金融经济将会自我崩溃。
+Dialogue: 0,0:41:34.54,0:41:37.62,English,,0,0,0,,Okay? If China,\N{\rChinese}好吧？如果中国、
+Dialogue: 0,0:41:37.86,0:41:39.70,English,,0,0,0,,Japan, other countries pull out of the war, they will be able to do so.\N{\rChinese}日本、其他国家退出战争，他们就能做到。
+Dialogue: 0,0:41:39.70,0:41:42.24,English,,0,0,0,,If they pull out of the U.S.\N{\rChinese}如果他们退出美国
+Dialogue: 0,0:41:42.36,0:41:44.98,English,,0,0,0,,financial sector, okay? If they sell the U.S. treasuries,\N{\rChinese}金融部门，好吗？如果他们卖掉美国国债，
+Dialogue: 0,0:41:45.02,0:41:49.32,English,,0,0,0,,not only will America\N{\rChinese}不只是美国
+Dialogue: 0,0:41:49.32,0:41:52.72,English,,0,0,0,,face a sovereign debt crisis,\N{\rChinese}将面临主权债务危机
+Dialogue: 0,0:41:52.92,0:41:57.04,English,,0,0,0,,but it will lose access to easy money.\N{\rChinese}但它将失去易钱的渠道。
+Dialogue: 0,0:41:57.24,0:41:59.42,English,,0,0,0,,Okay? Easy money. And\N{\rChinese}好吧？易钱。还有
+Dialogue: 0,0:41:59.42,0:42:02.48,English,,0,0,0,,the problem in America today is that\N{\rChinese}美国今天的问题是
+Dialogue: 0,0:42:02.48,0:42:06.54,English,,0,0,0,,America is an empire addicted to easy money.\N{\rChinese}美国是一个沉迷于易钱的帝国。
+Dialogue: 0,0:42:07.45,0:42:11.64,English,,0,0,0,,Okay? People are so used to just sitting around\N{\rChinese}好的？人们已经习惯了只坐着发百万美元
+Dialogue: 0,0:42:11.64,0:42:13.86,English,,0,0,0,,and making millions of dollars that\N{\rChinese}and making millions of dollars that
+Dialogue: 0,0:42:13.86,0:42:18.00,English,,0,0,0,,they cannot imagine or tolerate a day when they have to go back to working hard.\N{\rChinese}他们想不出来也想不住得
+Dialogue: 0,0:42:19.02,0:42:21.56,English,,0,0,0,,Okay? So it's this addiction to easy money\N{\rChinese}好吧？这就是对易钱的沉迷
+Dialogue: 0,0:42:21.56,0:42:24.22,English,,0,0,0,,which will drive American,\N{\rChinese}这将驱使美国人
+Dialogue: 0,0:42:24.80,0:42:28.66,English,,0,0,0,,which will drive America to invade Iran.\N{\rChinese}这将驱使美国去入侵伊朗
+Dialogue: 0,0:42:28.92,0:42:31.12,English,,0,0,0,,Okay? Does that make sense? Okay, any questions?\N{\rChinese}好的？这样说通吗？好，问个问题吗？
+Dialogue: 0,0:42:32.80,0:42:36.26,English,,0,0,0,,..\N{\rChinese}…
+Dialogue: 0,0:42:36.26,0:42:39.28,English,,0,0,0,,..\N{\rChinese}…
+Dialogue: 0,0:42:42.70,0:42:44.44,English,,0,0,0,,...\N{\rChinese}…
+Dialogue: 0,0:42:44.44,0:42:45.66,English,,0,0,0,,............\N{\rChinese}......
+Dialogue: 0,0:42:45.66,0:42:48.52,English,,0,0,0,,.. managed okay so this is actually very complicated okay because\N{\rChinese}.. 已经处理好，好的，这实际上很复杂，好因为
+Dialogue: 0,0:42:48.52,0:42:51.32,English,,0,0,0,,again the financial sector is very large but\N{\rChinese}再次，金融业非常庞大，但
+Dialogue: 0,0:42:51.32,0:42:53.84,English,,0,0,0,,if you have us dollars then\N{\rChinese}如果你手里有美元的话
+Dialogue: 0,0:42:53.84,0:42:55.52,English,,0,0,0,,your options are you can invest in the stock\N{\rChinese}你的选择是：可以投资股市；可以投资房市；今天的问题是…
+Dialogue: 0,0:42:55.52,0:43:01.42,English,,0,0,0,,market you can invest in um houses okay the problem today is\N{\rChinese}因为世界上有太多富豪了。
+Dialogue: 0,0:43:01.42,0:43:05.28,English,,0,0,0,,because there are too many rich people in the world\N{\rChinese}because there are too many rich people in the world
+Dialogue: 0,0:43:05.28,0:43:06.30,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:43:06.30,0:43:11.58,English,,0,0,0,,all this money is going to america all assets are bubbles now okay\N{\rChinese}所有这笔钱都流向美国，所有资产现在都是泡沫，好吧
+Dialogue: 0,0:43:11.58,0:43:14.72,English,,0,0,0,,so the irony of all this is that\N{\rChinese}于是这件事的讽刺之处在于
+Dialogue: 0,0:43:14.72,0:43:17.46,English,,0,0,0,,you feel that\N{\rChinese}你觉得……
+Dialogue: 0,0:43:17.46,0:43:20.40,English,,0,0,0,,your only option is to invest in america but but when\N{\rChinese}你的唯一选择是投资美国，但当……
+Dialogue: 0,0:43:20.40,0:43:24.10,English,,0,0,0,,you do this you're actually losing value okay\N{\rChinese}你这么做时实际上是在失去价值
+Dialogue: 0,0:43:24.10,0:43:27.88,English,,0,0,0,,and that's why the system is not really sustainable everyone's going to america\N{\rChinese}于是这就是系统不太可持续的原因，大家都去美国
+Dialogue: 0,0:43:27.88,0:43:30.64,English,,0,0,0,,and that's driving up all these asset prices but\N{\rChinese}于是这又把所有资产价格推高了，但
+Dialogue: 0,0:43:30.64,0:43:31.98,English,,0,0,0,,in the long term that\N{\rChinese}从长远来看……
+Dialogue: 0,0:43:31.98,0:43:37.06,English,,0,0,0,,will destroy the american economy in the long term um it'll create all these bubbles\N{\rChinese}将会在长期内摧毁美国经济，随后会产生一连串泡沫
+Dialogue: 0,0:43:37.06,0:43:40.10,English,,0,0,0,,that will destroy that will also destroy individual wealth okay does that\N{\rChinese}这将会摧毁并且还会摧毁个人财富，行吗？
+Dialogue: 0,0:43:40.10,0:43:43.82,English,,0,0,0,,make sense any more questions so\N{\rChinese}还有问题吗？
+Dialogue: 0,0:43:43.82,0:43:46.42,English,,0,0,0,,like if america reaches the war\N{\rChinese}如果美国赢得战争
+Dialogue: 0,0:43:46.42,0:43:50.98,English,,0,0,0,,in iran like other countries\N{\rChinese}在伊朗以及其他国家
+Dialogue: 0,0:43:50.98,0:43:53.82,English,,0,0,0,,will be even more confident in america\N{\rChinese}将更有信心
+Dialogue: 0,0:43:56.22,0:43:59.10,English,,0,0,0,,okay so so so\N{\rChinese}好的，好的，好的
+Dialogue: 0,0:43:59.10,0:44:01.42,English,,0,0,0,,so jack asked a great question which\N{\rChinese}于是杰克提出了一个很好的问题，
+Dialogue: 0,0:44:01.42,0:44:04.56,English,,0,0,0,,is like listen if going to if going to\N{\rChinese}就是听着，如果去……
+Dialogue: 0,0:44:05.16,0:44:08.84,English,,0,0,0,,iran is all about restoring confidence\N{\rChinese}伊朗就是要恢复对美国的信心
+Dialogue: 0,0:44:08.84,0:44:12.54,English,,0,0,0,,in the united states well if america loses the war\N{\rChinese}如果美国输掉战争
+Dialogue: 0,0:44:12.54,0:44:15.14,English,,0,0,0,,then that would destroy even more confidence okay\N{\rChinese}那就会更进一步破坏信心
+Dialogue: 0,0:44:15.14,0:44:16.90,English,,0,0,0,,and so\N{\rChinese}和所以
+Dialogue: 0,0:44:16.90,0:44:20.40,English,,0,0,0,,this is this is the problem of empires\N{\rChinese}这就是帝国的难题
+Dialogue: 0,0:44:20.40,0:44:23.38,English,,0,0,0,,empires have something called hubris right imperial hubris\N{\rChinese}帝国有一种叫做帝国自大之气的东西
+Dialogue: 0,0:44:23.38,0:44:26.64,English,,0,0,0,,which means that\N{\rChinese}这意味着
+Dialogue: 0,0:44:26.64,0:44:30.86,English,,0,0,0,,they cannot imagine the possibility\N{\rChinese}他们无法想象失去战争的可能性
+Dialogue: 0,0:44:30.86,0:44:33.72,English,,0,0,0,,of losing a war okay\N{\rChinese}of losing a warokay
+Dialogue: 0,0:44:33.72,0:44:38.24,English,,0,0,0,,so why is that okay there are two reasons okay there are two reasons the first reason is\N{\rChinese}所以为什么可以，原因有两个，第一点是
+Dialogue: 0,0:44:38.24,0:44:43.64,English,,0,0,0,,that an empire what an empire is it is a war it's it's a force\N{\rChinese}一个帝国是什么，它是一场战争，是一种力量
+Dialogue: 0,0:44:43.64,0:44:49.22,English,,0,0,0,,that imposes reality onto others okay an empire makes you see the world\N{\rChinese}它把现实强加给别人，帝国让你看到世界
+Dialogue: 0,0:44:49.64,0:44:53.46,English,,0,0,0,,the way the empire wants you to see the world okay does\N{\rChinese}帝国想让你看到的世界方式，好的，明白了
+Dialogue: 0,0:44:53.46,0:44:56.44,English,,0,0,0,,that make sense which means there's no feedback loop which means\N{\rChinese}这有道理吗？这意味着没有反馈回路，意味着……
+Dialogue: 0,0:44:56.44,0:44:59.46,English,,0,0,0,,that you cannot actually tell the empire what you think it doesn't\N{\rChinese}你实际上无法告诉帝国你的想法，它不……
+Dialogue: 0,0:45:00.10,0:45:02.84,English,,0,0,0,,your voice doesn't matter which means that\N{\rChinese}你的声音不重要，这意味着……
+Dialogue: 0,0:45:02.84,0:45:06.14,English,,0,0,0,,an empire it's not possible for an empire to imagine\N{\rChinese}一个帝国不可能想象……
+Dialogue: 0,0:45:06.86,0:45:10.44,English,,0,0,0,,the possibility of it ever collapsing you understand\N{\rChinese}它有可能崩溃，你懂了
+Dialogue: 0,0:45:10.44,0:45:16.24,English,,0,0,0,,if it could it would never collapse okay that's the first problem second problem is\N{\rChinese}如果它能做到，它就永不崩溃——这就是第一个问题；第二个问题是……
+Dialogue: 0,0:45:16.24,0:45:19.26,English,,0,0,0,,that okay let's do a thought experiment\N{\rChinese}好了，先做个思考实验
+Dialogue: 0,0:45:19.80,0:45:24.48,English,,0,0,0,,if you had a choice if you had a choice would you rather be smart\N{\rChinese}如果你有选择，你会更愿意做聪明且有策略的，还是傲慢且愚蠢的？
+Dialogue: 0,0:45:24.48,0:45:27.46,English,,0,0,0,,and strategic or stupid and\N{\rChinese}和战略性或愚蠢且自大…
+Dialogue: 0,0:45:27.46,0:45:31.06,English,,0,0,0,,arrogant if you had a\N{\rChinese}如果你有一个…
+Dialogue: 0,0:45:31.06,0:45:36.00,English,,0,0,0,,choice in in an ideal world would you would you rather be smart\N{\rChinese}选择在理想世界里，你会更愿意…
+Dialogue: 0,0:45:36.00,0:45:37.48,English,,0,0,0,,and strategic or stupid and\N{\rChinese}和战略性或愚蠢且自大…
+Dialogue: 0,0:45:37.48,0:45:41.60,English,,0,0,0,,arrogant okay the answer is stupid\N{\rChinese}傲慢，好的答案是愚蠢的…
+Dialogue: 0,0:45:41.60,0:45:45.06,English,,0,0,0,,and arrogant because it makes you feel good okay stupid people\N{\rChinese}和傲慢，因为它让你觉得好，好的愚蠢人…
+Dialogue: 0,0:45:45.06,0:45:48.18,English,,0,0,0,,feel good about themselves right smart people\N{\rChinese}感觉好，自己很聪明的人
+Dialogue: 0,0:45:48.18,0:45:52.22,English,,0,0,0,,get depressed they doubt themselves they question themselves\N{\rChinese}他们会沮丧，怀疑自我，问自己问题
+Dialogue: 0,0:45:52.22,0:45:55.84,English,,0,0,0,,and that makes you feel bad most people in an ideal world\N{\rChinese}这让人感觉糟糕，理想世界里的人们
+Dialogue: 0,0:45:55.84,0:45:58.98,English,,0,0,0,,would want to feel good about themselves always okay\N{\rChinese}想让自己一直觉得好，没错吧
+Dialogue: 0,0:45:58.98,0:46:01.64,English,,0,0,0,,so it so when\N{\rChinese}于是如此，接着说
+Dialogue: 0,0:46:01.64,0:46:04.58,English,,0,0,0,,you are an empire you want to be stupid and arrogant\N{\rChinese}当你是一个帝国时，你想要愚蠢且傲慢
+Dialogue: 0,0:46:04.58,0:46:10.10,English,,0,0,0,,because it makes you feel good it doesn't make sense okay\N{\rChinese}因为它让你觉得好，它不太合理，好的吧
+Dialogue: 0,0:46:10.10,0:46:14.16,English,,0,0,0,,but that's why empires collapse because you're not going to be able to do what you want once they have too much power they become stupid\N{\rChinese}但正是因为如此，帝国才会崩溃：当你拥有过多的力量时，你会变得愚蠢且傲慢，失去考虑可能性的能力
+Dialogue: 0,0:46:14.16,0:46:18.30,English,,0,0,0,,and arrogant and they refuse to consider the possibility\N{\rChinese}and arrogant and they refuseto consider the possibility
+Dialogue: 0,0:46:18.30,0:46:20.96,English,,0,0,0,,that they could be wrong okay does that\N{\rChinese}那他们可能错了，行吗？
+Dialogue: 0,0:46:20.96,0:46:25.40,English,,0,0,0,,make sense jack okay any more questions\N{\rChinese}有道理吗，杰克？还有问题吗？
+Dialogue: 0,0:46:35.84,0:46:39.34,English,,0,0,0,,okay uh the american empire has been building for a long time okay\N{\rChinese}美国帝国已经建造很久了，行吗？
+Dialogue: 0,0:46:39.34,0:46:43.18,English,,0,0,0,,so you can make the argument that the empire really started after after World War II,\N{\rChinese}于是你可以说，帝国真正开始于二战之后，
+Dialogue: 0,0:46:43.36,0:46:46.36,English,,0,0,0,,because now America controlled half the world, and\N{\rChinese}因为那时美国掌控了世界一半，
+Dialogue: 0,0:46:46.36,0:46:50.40,English,,0,0,0,,then it became dominant after the end of the Cold War, when the Soviet Union collapsed.\N{\rChinese}随后在冷战结束、苏联崩溃后又成为主导。
+Dialogue: 0,0:46:51.48,0:46:54.72,English,,0,0,0,,And at that time, okay, before the collapse of the Cold War,\N{\rChinese}在那时，行吧，冷战崩溃之前，
+Dialogue: 0,0:46:56.00,0:46:57.64,English,,0,0,0,,America had to behave itself.\N{\rChinese}美国必须自我安排。
+Dialogue: 0,0:46:58.18,0:47:01.90,English,,0,0,0,,And the reason it had to behave itself was it wasn't afraid of the Soviet Union,\N{\rChinese}之所以要自我安排，是因为它不怕苏联。
+Dialogue: 0,0:47:02.06,0:47:03.84,English,,0,0,0,,it was afraid of communism, right?\N{\rChinese}它害怕共产主义，对吧？
+Dialogue: 0,0:47:04.62,0:47:08.36,English,,0,0,0,,That's why from 1950 to 1980, they treat their workers\N{\rChinese}这就是为什么从1950到1980年，他们对工人如此照顾，
+Dialogue: 0,0:47:08.36,0:47:12.56,English,,0,0,0,,so well, because they were afraid of a worker revolt, right?\N{\rChinese}因为他们害怕工人起义，对吧？
+Dialogue: 0,0:47:13.54,0:47:17.58,English,,0,0,0,,So the real threat was not the Soviet Union, the real threat was communism\N{\rChinese}于是真正的威胁不是苏联，而是共产主义
+Dialogue: 0,0:47:18.12,0:47:19.88,English,,0,0,0,,as an opposing ideology to capitalism.\N{\rChinese}作为对资本主义的对立意识形态
+Dialogue: 0,0:47:20.84,0:47:25.38,English,,0,0,0,,Unfortunately today, there's no opposing ideology towards capitalism,\N{\rChinese}可惜如今对资本主义已无对立意识形态
+Dialogue: 0,0:47:25.60,0:47:30.20,English,,0,0,0,,okay? And that's why America can do what it wants.\N{\rChinese}好的？这就是美国能随心所欲的原因。
+Dialogue: 0,0:47:30.32,0:47:34.22,English,,0,0,0,,It does not fear any enemies, it does not fear internal revolt.\N{\rChinese}它不怕任何敌人，也不怕内部起义。
+Dialogue: 0,0:47:34.62,0:47:40.28,English,,0,0,0,,Okay, does that make sense? Okay, all right, so I'll see you guys next week. Bye.\N{\rChinese}好，听得懂吧？好了，周末见。再见。

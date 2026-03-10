@@ -1,0 +1,1319 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:04.58,English,,0,0,0,,Okay, good morning. So today, this morning, we are doing the Renaissance.\N{\rChinese}好的，早上好。今天早上我们来讲文艺复兴。
+Dialogue: 0,0:00:05.20,0:00:09.44,English,,0,0,0,,Specifically, we are asking the question, how the Renaissance?\N{\rChinese}具体来说，我们要问的是，文艺复兴是怎么来的？
+Dialogue: 0,0:00:09.82,0:00:12.52,English,,0,0,0,,How did the Renaissance start?\N{\rChinese}文艺复兴是怎么开始的？
+Dialogue: 0,0:00:13.30,0:00:16.44,English,,0,0,0,,Because the Renaissance was an\N{\rChinese}因为文艺复兴是一次
+Dialogue: 0,0:00:16.44,0:00:21.34,English,,0,0,0,,intellectual revolution in Europe\N{\rChinese}欧洲的知识革命
+Dialogue: 0,0:00:21.34,0:00:24.14,English,,0,0,0,,that would ultimately change the fate of Europe.\N{\rChinese}最终改变了欧洲的命运。
+Dialogue: 0,0:00:24.24,0:00:29.62,English,,0,0,0,,Okay, guys? The Renaissance was a reimagining of classical Greece.\N{\rChinese}好的，大家好？文艺复兴是对古希腊的再想象。
+Dialogue: 0,0:00:30.00,0:00:31.66,English,,0,0,0,,In a Christian European context.\N{\rChinese}在基督教欧洲的语境里。
+Dialogue: 0,0:00:32.06,0:00:33.78,English,,0,0,0,,So what the Renaissance is going to do\N{\rChinese}文艺复兴将会做的事是……
+Dialogue: 0,0:00:33.78,0:00:38.52,English,,0,0,0,,is combine classical Greece with Christian Europe.\N{\rChinese}把古希腊与基督教欧洲结合起来。
+Dialogue: 0,0:00:38.86,0:00:41.64,English,,0,0,0,,And it's going to create modernity.\N{\rChinese}并将创造现代性。
+Dialogue: 0,0:00:42.18,0:00:46.28,English,,0,0,0,,So the ideas, the values\N{\rChinese}于是这些思想与价值观。
+Dialogue: 0,0:00:46.28,0:00:49.10,English,,0,0,0,,that underpin modernity, the world we live in today,\N{\rChinese}支撑现代性的，今天我们所处的世界，
+Dialogue: 0,0:00:49.24,0:00:51.22,English,,0,0,0,,starts with the Renaissance.\N{\rChinese}从文艺复兴开始。
+Dialogue: 0,0:00:54.90,0:00:59.16,English,,0,0,0,,Okay, so the question we are looking at this morning is, how?\N{\rChinese}今天早上我们要探讨的问题是：怎么回事？
+Dialogue: 0,0:01:00.00,0:01:02.04,English,,0,0,0,,How did the Renaissance start?\N{\rChinese}文艺复兴是怎么开始的？
+Dialogue: 0,0:01:03.14,0:01:06.86,English,,0,0,0,,Okay, and there are lots of very different theories.\N{\rChinese}好的，且有许多不同的理论。
+Dialogue: 0,0:01:07.14,0:01:10.48,English,,0,0,0,,And what scholars today believe is it\N{\rChinese}而今天学者们认为是这样：
+Dialogue: 0,0:01:10.48,0:01:13.84,English,,0,0,0,,was a perfect storm of cultural,\N{\rChinese}是一次文化、历史、经济趋势的完美风暴。
+Dialogue: 0,0:01:14.00,0:01:15.80,English,,0,0,0,,historical, economic trends.\N{\rChinese}好的，那我们来看看主要因素。
+Dialogue: 0,0:01:16.36,0:01:18.22,English,,0,0,0,,Okay, so let's look at the main factors.\N{\rChinese}Okay, so let's lookat the main factors.
+Dialogue: 0,0:01:18.58,0:01:22.04,English,,0,0,0,,The first is the decline of Constantinople.\N{\rChinese}第一点是君士坦丁堡的衰落。
+Dialogue: 0,0:01:22.26,0:01:25.38,English,,0,0,0,,So for hundreds of years,\N{\rChinese}于是百百年间，
+Dialogue: 0,0:01:25.78,0:01:28.94,English,,0,0,0,,Constantinople was the epicenter of European culture.\N{\rChinese}君士坦丁堡成为欧洲文化的中心。
+Dialogue: 0,0:01:28.98,0:01:30.30,English,,0,0,0,,It was the center of the European culture. If you\N{\rChinese}它是欧洲文化的中心。如果你
+Dialogue: 0,0:01:30.30,0:01:37.46,English,,0,0,0,,look at\N{\rChinese}看看
+Dialogue: 0,0:01:37.46,0:01:39.00,English,,0,0,0,,the eyes of the\N{\rChinese}那一方的眼睛
+Dialogue: 0,0:01:39.00,0:01:41.04,English,,0,0,0,,eyes of\N{\rChinese}眼睛
+Dialogue: 0,0:01:41.04,0:01:53.30,English,,0,0,0,,the eyes,\N{\rChinese}眼睛
+Dialogue: 0,0:01:53.30,0:01:55.08,English,,0,0,0,,class, it was a time when\N{\rChinese}班级，它是一个时代
+Dialogue: 0,0:01:55.08,0:02:00.64,English,,0,0,0,,Europeans encountered the Muslim world at mass.\N{\rChinese}欧洲人大量接触穆斯林世界。
+Dialogue: 0,0:02:01.02,0:02:03.82,English,,0,0,0,,And as a result, they absorbed a lot of the culture\N{\rChinese}于是他们吸收了伊斯兰黄金时代的许多文化。
+Dialogue: 0,0:02:03.82,0:02:07.06,English,,0,0,0,,and politics of the Islamic Golden Age.\N{\rChinese}并吸收了其政治体系。
+Dialogue: 0,0:02:08.04,0:02:09.68,English,,0,0,0,,Then there was a fact that\N{\rChinese}然后有一个事实是
+Dialogue: 0,0:02:09.68,0:02:15.10,English,,0,0,0,,in Italy you had many different city -states in competition with each other.\N{\rChinese}在意大利有许多不同的城邦互相竞争。
+Dialogue: 0,0:02:15.26,0:02:18.32,English,,0,0,0,,And as we discussed in many classes before, when\N{\rChinese}正如我们在许多课前讨论过的，
+Dialogue: 0,0:02:18.32,0:02:21.74,English,,0,0,0,,you have that, you have something called open cooperative competition,\N{\rChinese}你有那样，你有一种叫做开放协作竞争的东西，
+Dialogue: 0,0:02:22.02,0:02:25.30,English,,0,0,0,,which leads to innovation.\N{\rChinese}它导致创新。
+Dialogue: 0,0:02:26.56,0:02:29.60,English,,0,0,0,,Also, what's really important for us to remember is\N{\rChinese}另外，值得我们记住的事是
+Dialogue: 0,0:02:29.60,0:02:34.04,English,,0,0,0,,that because these city -states were always at war with each other,\N{\rChinese}因为这些城邦总是互相交战，所以每个人都是历史的参与者。
+Dialogue: 0,0:02:34.24,0:02:37.52,English,,0,0,0,,everyone was a participant in history.\N{\rChinese}记住，如果你在帝国官僚中，...
+Dialogue: 0,0:02:38.10,0:02:41.48,English,,0,0,0,,Remember, if you are in an imperial bureaucracy,\N{\rChinese}Remember, if you are inan imperial bureaucracy,
+Dialogue: 0,0:02:41.78,0:02:45.46,English,,0,0,0,,if you're a bureaucrat, you can sort of stand outside of history and observe history.\N{\rChinese}如果你是个官僚，你可以站在历史之外观察它。
+Dialogue: 0,0:02:45.86,0:02:50.62,English,,0,0,0,,But if you're a participant in history, then you are fighting wars.\N{\rChinese}但如果你是历史的参与者，你就会投身于战争。
+Dialogue: 0,0:02:50.74,0:02:52.74,English,,0,0,0,,You're a participant in politics. So, you're a participant in politics.\N{\rChinese}你是政治的参与者。
+Dialogue: 0,0:02:52.74,0:02:56.62,English,,0,0,0,,You're a participant in politics. You're always thinking about the relevance of your theory to reality.\N{\rChinese}你是政治的参与者，你总是在思考自己的理论与现实的关联。
+Dialogue: 0,0:02:58.04,0:03:02.70,English,,0,0,0,,The three major city -states of Italy\N{\rChinese}意大利的三大城邦
+Dialogue: 0,0:03:02.70,0:03:05.92,English,,0,0,0,,that will give rise to Renaissance are Florence, Venice,\N{\rChinese}佛罗伦萨、威尼斯、
+Dialogue: 0,0:03:06.22,0:03:07.78,English,,0,0,0,,and Genoa.\N{\rChinese}和热那。
+Dialogue: 0,0:03:08.00,0:03:11.10,English,,0,0,0,,Venice and Genoa are known for their slave trade.\N{\rChinese}威尼斯和热那以奴隶贸易闻名。
+Dialogue: 0,0:03:11.54,0:03:14.94,English,,0,0,0,,So, they're trading slaves with the Muslim world.\N{\rChinese}于是他们与穆斯林世界进行奴隶交易。
+Dialogue: 0,0:03:15.14,0:03:18.74,English,,0,0,0,,And through this trade, they're bringing back the books,\N{\rChinese}通过这笔贸易，他们把书籍带回来了，
+Dialogue: 0,0:03:18.80,0:03:22.72,English,,0,0,0,,the ideas, the values of the Islamic world into the world.\N{\rChinese}书籍、思想、价值观从伊斯兰世界传入世界。
+Dialogue: 0,0:03:22.74,0:03:25.66,English,,0,0,0,,And so, they're bringing back the books, the ideas, the values of the Islamic world into the world. As well, because of the trade and commerce,\N{\rChinese}于是，他们把书籍、思想、价值观从伊斯兰世界带回来了。
+Dialogue: 0,0:03:25.94,0:03:28.66,English,,0,0,0,,these three city -states become extremely wealthy,\N{\rChinese}这三座城邦变得极其富裕，
+Dialogue: 0,0:03:28.92,0:03:32.40,English,,0,0,0,,and that allows them to patronize the arts.\N{\rChinese}这使它们得以赞助艺术，
+Dialogue: 0,0:03:33.70,0:03:37.26,English,,0,0,0,,So, you have the rise of a merchant elite in Florence.\N{\rChinese}于是佛罗伦萨出现了商人贵族的崛起。
+Dialogue: 0,0:03:37.46,0:03:40.84,English,,0,0,0,,The family is called the Medici's.\N{\rChinese}家族被称为梅迪奇家族。
+Dialogue: 0,0:03:41.00,0:03:44.20,English,,0,0,0,,Why this is important is previous\N{\rChinese}这点重要的原因在于之前
+Dialogue: 0,0:03:44.20,0:03:48.52,English,,0,0,0,,elites were either of the warrior class or the priest class.\N{\rChinese}精英阶层要么是战士阶层，要么是祭司阶层。
+Dialogue: 0,0:03:48.86,0:03:52.72,English,,0,0,0,,If you're a warrior class, you win your legitimacy by fighting the war.\N{\rChinese}如果你是战士阶层，你的合法性来自于战斗。
+Dialogue: 0,0:03:52.72,0:03:54.62,English,,0,0,0,,If you're a priest,\N{\rChinese}如果你是祭司，
+Dialogue: 0,0:03:55.00,0:03:57.68,English,,0,0,0,,your legitimacy comes from God or the gods.\N{\rChinese}你的合法性来自于神或众神。
+Dialogue: 0,0:03:57.98,0:03:59.28,English,,0,0,0,,But if you're a merchant elite,\N{\rChinese}如果你是商人精英，
+Dialogue: 0,0:03:59.70,0:04:02.98,English,,0,0,0,,the question then is, where does your legitimacy come from?\N{\rChinese}问题是，你的合法性来自哪里？
+Dialogue: 0,0:04:03.26,0:04:04.98,English,,0,0,0,,And so, because of this question,\N{\rChinese}于是，因这个问题，
+Dialogue: 0,0:04:05.32,0:04:09.08,English,,0,0,0,,the Medici's are forced to patronize a lot of the arts.\N{\rChinese}梅迪奇家族被迫赞助大量艺术创作。
+Dialogue: 0,0:04:09.24,0:04:13.26,English,,0,0,0,,They will patronize individuals including Da Vinci,\N{\rChinese}他们赞助的对象包括达·芬奇、拉斐尔、米开朗等人。
+Dialogue: 0,0:04:13.96,0:04:18.04,English,,0,0,0,,Raphael, Michelangelo. Basically, the major artists of the Renaissance.\N{\rChinese}基本上是文艺复兴时期的主要艺术家。
+Dialogue: 0,0:04:20.58,0:04:22.70,English,,0,0,0,,At this time, from 1314, the Medici's are the most important artists.\N{\rChinese}在此时，1314年起，梅迪奇家族成为最重要的艺术赞助者。
+Dialogue: 0,0:04:22.72,0:04:26.20,English,,0,0,0,,From 1315 to 1378, there are actually two popes in Europe.\N{\rChinese}从1315年到1378年，欧洲出现了两位教皇。
+Dialogue: 0,0:04:26.38,0:04:30.38,English,,0,0,0,,There's a crisis of legitimacy and authority in the Catholic Church.\N{\rChinese}天主教会出现了合法性与权威的危机。
+Dialogue: 0,0:04:30.70,0:04:33.24,English,,0,0,0,,The pope moves to Avignon, and therefore\N{\rChinese}教皇迁至阿维尼翁，因此……
+Dialogue: 0,0:04:33.24,0:04:36.60,English,,0,0,0,,the pope doesn't really have authority over Italy.\N{\rChinese}教皇在意大利并无实权……
+Dialogue: 0,0:04:38.54,0:04:43.28,English,,0,0,0,,You also have the rise of universities and monasteries.\N{\rChinese}大学与修道院的崛起也在此时……
+Dialogue: 0,0:04:43.42,0:04:47.76,English,,0,0,0,,Universities and monasteries are places of theological debate\N{\rChinese}大学与修道院是进行神学辩论的场所。
+Dialogue: 0,0:04:47.76,0:04:49.34,English,,0,0,0,,and discussion.\N{\rChinese}和讨论。
+Dialogue: 0,0:04:49.34,0:04:52.54,English,,0,0,0,,And they store the classics.\N{\rChinese}他们保存经典。
+Dialogue: 0,0:04:52.74,0:04:56.96,English,,0,0,0,,And this is where a lot of new ideas will come from.\N{\rChinese}于是，许多新思想就会从这里诞生。
+Dialogue: 0,0:04:57.28,0:05:01.02,English,,0,0,0,,And then, the last factor to think about is,\N{\rChinese}接着，最后一个值得思考的因素是，
+Dialogue: 0,0:05:01.14,0:05:02.66,English,,0,0,0,,in 1440, around then,\N{\rChinese}1440年左右，此时有一位名叫古腾堡的人，他发明印刷机。
+Dialogue: 0,0:05:03.66,0:05:07.22,English,,0,0,0,,a man named Gutenberg, he will invent the printing press.\N{\rChinese}a man named Gutenberg, he will invent the printing press.
+Dialogue: 0,0:05:07.46,0:05:12.76,English,,0,0,0,,And the printing press allows for the rapid dissemination of literacy\N{\rChinese}印刷机使文字和知识得以快速传播。
+Dialogue: 0,0:05:12.76,0:05:14.06,English,,0,0,0,,and knowledge.\N{\rChinese}印刷机使文字和知识得以快速传播。
+Dialogue: 0,0:05:14.54,0:05:16.76,English,,0,0,0,,So what scholars believe is,\N{\rChinese}于是，学者们认为是，
+Dialogue: 0,0:05:17.00,0:05:19.12,English,,0,0,0,,these various factors,\N{\rChinese}这些各种因素，
+Dialogue: 0,0:05:19.34,0:05:22.48,English,,0,0,0,,will coalesce into the Renaissance\N{\rChinese}将汇聚为文艺复兴
+Dialogue: 0,0:05:22.48,0:05:26.50,English,,0,0,0,,and mark an intellectual revolution in Europe.\N{\rChinese}并在欧洲掀起一场知识革命。
+Dialogue: 0,0:05:26.86,0:05:28.98,English,,0,0,0,,Now, the thing that\N{\rChinese}现在，关于我在这门课上的教学，你会记住的事是，
+Dialogue: 0,0:05:28.98,0:05:34.06,English,,0,0,0,,you will remember about my teaching in this class is,\N{\rChinese}you will remember about myteaching in this class is,
+Dialogue: 0,0:05:34.22,0:05:36.46,English,,0,0,0,,I disagree with scholarship.\N{\rChinese}我与学术观点不合拍。
+Dialogue: 0,0:05:37.02,0:05:40.18,English,,0,0,0,,I think there's one factor that they're missing out,\N{\rChinese}我认为他们遗漏了一个因素，
+Dialogue: 0,0:05:40.44,0:05:42.98,English,,0,0,0,,and it's the main factor in the creation of the Renaissance.\N{\rChinese}而它是文艺复兴创生的主因。
+Dialogue: 0,0:05:43.42,0:05:47.50,English,,0,0,0,,I believe, I will argue to you today, that Dante,\N{\rChinese}我相信，今天我要向你们阐述，达·芬特，
+Dialogue: 0,0:05:47.86,0:05:51.64,English,,0,0,0,,the Divine Comedy, is what ultimately sparked the Renaissance.\N{\rChinese}《神曲》是最终掀起文艺复兴的火种。
+Dialogue: 0,0:05:52.14,0:05:54.74,English,,0,0,0,,Without Dante, the Renaissance, this revolution,\N{\rChinese}没有达·芬特，文艺复兴这场革命就不会出现。
+Dialogue: 0,0:05:54.96,0:05:57.60,English,,0,0,0,,would not have been possible.\N{\rChinese}会变得可能。
+Dialogue: 0,0:05:58.14,0:05:59.88,English,,0,0,0,,So, this class,\N{\rChinese}于是，这一课，
+Dialogue: 0,0:06:00.06,0:06:02.58,English,,0,0,0,,I'm going to present you the scholarly,\N{\rChinese}我将为你们呈现学术观点。
+Dialogue: 0,0:06:02.74,0:06:05.60,English,,0,0,0,,mainstream argument, and then I will present my argument,\N{\rChinese}主流论点，我随后会给出我的论点，
+Dialogue: 0,0:06:05.84,0:06:10.84,English,,0,0,0,,which is that Dante is most responsible for the Renaissance.\N{\rChinese}即：达·芬特是文艺复兴的最大功臣。
+Dialogue: 0,0:06:13.32,0:06:15.70,English,,0,0,0,,A basic fact that we need to remember.\N{\rChinese}我们需要记住的基本事实。
+Dialogue: 0,0:06:16.66,0:06:18.82,English,,0,0,0,,If you look at all the major figures,\N{\rChinese}如果你看所有主要人物，
+Dialogue: 0,0:06:19.34,0:06:22.92,English,,0,0,0,,all the Renaissance, including Raphael,\N{\rChinese}所有文艺复兴的，包括拉斐尔，
+Dialogue: 0,0:06:23.10,0:06:27.08,English,,0,0,0,,Galileo, Boccaccio,\N{\rChinese}伽利略，波卡乔，
+Dialogue: 0,0:06:27.34,0:06:30.52,English,,0,0,0,,Michelangelo, the person\N{\rChinese}米开朗·佩罗，出生最早的其实是达·芬特，1265年。
+Dialogue: 0,0:06:30.52,0:06:36.24,English,,0,0,0,,who was born the earliest is actually Dante,\N{\rChinese}所以，那个……
+Dialogue: 0,0:06:36.60,0:06:39.92,English,,0,0,0,,in 1265. So, that\N{\rChinese}in 1265. So, that
+Dialogue: 0,0:06:39.92,0:06:42.68,English,,0,0,0,,is a good clue to suggest that\N{\rChinese}是一个很好的线索，提示……
+Dialogue: 0,0:06:42.68,0:06:46.72,English,,0,0,0,,perhaps it was Dante that sparked the Renaissance.\N{\rChinese}也许正是达·芬特点燃了文艺复兴。
+Dialogue: 0,0:06:46.72,0:06:50.98,English,,0,0,0,,That he's the secret sauce that made the Renaissance possible.\N{\rChinese}他就是让文艺复兴得以实现的秘密酱料。
+Dialogue: 0,0:06:51.36,0:06:55.10,English,,0,0,0,,And throughout this class, I will make you this argument.\N{\rChinese}在这一课中，我会给你们提出这个论点。
+Dialogue: 0,0:06:55.38,0:07:00.08,English,,0,0,0,,But first, let's just go over through the scholarly, mainstream argument.\N{\rChinese}先让我们先回顾一下学界主流的论点。
+Dialogue: 0,0:07:00.56,0:07:04.64,English,,0,0,0,,So, first thing to remember is that before the Renaissance,\N{\rChinese}首先要记住的是，在文艺复兴之前，
+Dialogue: 0,0:07:05.10,0:07:08.88,English,,0,0,0,,Europe was connected with Africa,\N{\rChinese}欧洲通过这些密集的贸易网络与非洲、亚洲和中东相连。
+Dialogue: 0,0:07:09.22,0:07:13.58,English,,0,0,0,,Asia, and the Middle East, through these dense trade networks.\N{\rChinese}正如我们之前讨论的，三大城邦是……
+Dialogue: 0,0:07:13.88,0:07:18.16,English,,0,0,0,,As we discussed previously, the three main city -states\N{\rChinese}As we discussed previously,the three main city -states
+Dialogue: 0,0:07:18.16,0:07:20.04,English,,0,0,0,,that are involved in global trade are\N{\rChinese}那些参与全球贸易的是
+Dialogue: 0,0:07:23.18,0:07:25.32,English,,0,0,0,,Venice, Genoa, and Florence.\N{\rChinese}威尼斯、热那和佛罗伦萨。
+Dialogue: 0,0:07:25.62,0:07:28.74,English,,0,0,0,,Venice and Genoa are the ones who benefit the most from this trade,\N{\rChinese}威尼斯和热那是从这贸易中获益最多的。
+Dialogue: 0,0:07:28.86,0:07:31.24,English,,0,0,0,,because they are by the coast, and they are the ones that\N{\rChinese}因为它们靠海岸，而且是最具战略位置的
+Dialogue: 0,0:07:31.24,0:07:35.02,English,,0,0,0,,are most strategically located\N{\rChinese}最具战略位置的
+Dialogue: 0,0:07:35.02,0:07:38.28,English,,0,0,0,,to benefit from this trade.\N{\rChinese}能从这贸易中获益
+Dialogue: 0,0:07:39.42,0:07:42.18,English,,0,0,0,,And this trade, mainly slave trade actually,\N{\rChinese}并且这笔贸易，主要是奴隶贸易，实际上，
+Dialogue: 0,0:07:42.42,0:07:45.14,English,,0,0,0,,so Genoa and Venice were engaged mainly in this trade.\N{\rChinese}于是热那和威尼斯主要从事这笔贸易。
+Dialogue: 0,0:07:45.14,0:07:51.10,English,,0,0,0,,And so,\N{\rChinese}于是如此，
+Dialogue: 0,0:07:51.10,0:07:54.30,English,,0,0,0,,this is Venice,\N{\rChinese}这就是威尼斯，
+Dialogue: 0,0:07:54.64,0:07:57.98,English,,0,0,0,,and the slave trade made Venice extremely prosperous.\N{\rChinese}奴隶贸易让威尼斯极为繁荣。
+Dialogue: 0,0:07:58.24,0:08:02.02,English,,0,0,0,,This is Florence, in around the 15th century.\N{\rChinese}这就是佛罗伦萨，约在15世纪。
+Dialogue: 0,0:08:04.54,0:08:09.30,English,,0,0,0,,So, one thing to remember about Italy at this point is\N{\rChinese}于是，记住这点：到此时的意大利已分成互相争战的城邦。
+Dialogue: 0,0:08:09.30,0:08:13.04,English,,0,0,0,,that it is divided into warring city -states.\N{\rChinese}而且，你知道，奴隶贸易是欧洲贸易中极为重要的一环。
+Dialogue: 0,0:08:14.00,0:08:15.22,English,,0,0,0,,And, you know, the slave trade is a very important part of the European trade.\N{\rChinese}And, you know, the slave trade is a very important part of the European trade.
+Dialogue: 0,0:08:15.22,0:08:17.70,English,,0,0,0,,And as a result, they're always in competition with each other.\N{\rChinese}于是，它们彼此之间总是竞争。
+Dialogue: 0,0:08:17.76,0:08:20.12,English,,0,0,0,,They're always at war with each other.\N{\rChinese}它们彼此之间总是交战。
+Dialogue: 0,0:08:20.22,0:08:21.26,English,,0,0,0,,And as we discussed previously,\N{\rChinese}正如我们之前讨论的那样。
+Dialogue: 0,0:08:21.66,0:08:26.72,English,,0,0,0,,this scenario will drive innovation in Europe.\N{\rChinese}这个情景将推动欧洲的创新。
+Dialogue: 0,0:08:27.40,0:08:29.52,English,,0,0,0,,Mainly commercial innovation.\N{\rChinese}主要是商业创新。
+Dialogue: 0,0:08:30.44,0:08:32.32,English,,0,0,0,,By about the year 1000,\N{\rChinese}到约1000年左右，
+Dialogue: 0,0:08:32.76,0:08:34.60,English,,0,0,0,,as we discussed in the last class,\N{\rChinese}正如我们在上一节课讨论的那样，
+Dialogue: 0,0:08:34.92,0:08:37.86,English,,0,0,0,,Europe is now prosperous, and\N{\rChinese}欧洲现在繁荣，且
+Dialogue: 0,0:08:37.86,0:08:39.82,English,,0,0,0,,they are engaging in commercial trade.\N{\rChinese}它们正从事商业贸易。
+Dialogue: 0,0:08:39.82,0:08:43.62,English,,0,0,0,,The problem is, how do you facilitate trade?\N{\rChinese}问题是，怎样才能促进贸易？
+Dialogue: 0,0:08:43.94,0:08:48.04,English,,0,0,0,,Right? So, for example, if England has a lot of cotton,\N{\rChinese}对吧？比如说，如果英国有很多棉花，
+Dialogue: 0,0:08:48.68,0:08:52.28,English,,0,0,0,,and then France has a lot of bananas,\N{\rChinese}然后法国有很多香蕉，
+Dialogue: 0,0:08:54.12,0:08:56.12,English,,0,0,0,,what if England doesn't want bananas?\N{\rChinese}如果英国不想要香蕉呢？
+Dialogue: 0,0:08:56.36,0:08:59.28,English,,0,0,0,,Well, England and France cannot trade with each other.\N{\rChinese}那么，英法两国就无法互相贸易。
+Dialogue: 0,0:08:59.44,0:09:04.04,English,,0,0,0,,So, the only way to get around this is by creating a currency that everyone wants.\N{\rChinese}于是，唯一的办法就是创造一种人人想要的货币。
+Dialogue: 0,0:09:04.18,0:09:06.52,English,,0,0,0,,And the currency that everyone wants is gold.\N{\rChinese}金钱是人人想要的货币。
+Dialogue: 0,0:09:06.80,0:09:09.72,English,,0,0,0,,So, in Florence, they create something called the gold flora.\N{\rChinese}于是，佛罗伦萨人创造了一种叫做金花的东西。
+Dialogue: 0,0:09:09.82,0:09:12.90,English,,0,0,0,,And the gold flora is the currency of Florence.\N{\rChinese}金花成为佛罗伦萨的货币。
+Dialogue: 0,0:09:13.20,0:09:16.10,English,,0,0,0,,But because it is so prestigious,\N{\rChinese}但因为它如此有声望，
+Dialogue: 0,0:09:16.34,0:09:19.86,English,,0,0,0,,because it's mainly gold, everyone wants it. And so,\N{\rChinese}因为它主要是黄金，大家都想要。于是，
+Dialogue: 0,0:09:19.96,0:09:25.32,English,,0,0,0,,the gold flora becomes the currency of European trade.\N{\rChinese}金花成为欧洲贸易的货币。
+Dialogue: 0,0:09:25.66,0:09:28.96,English,,0,0,0,,And the family that most benefits\N{\rChinese}和最受益的家族
+Dialogue: 0,0:09:29.52,0:09:33.34,English,,0,0,0,,from the status of the flora is the Medici family.\N{\rChinese}从金花的地位中获益的家族是美第奇家族。
+Dialogue: 0,0:09:33.52,0:09:37.86,English,,0,0,0,,So, this is Cosomo, basically the founding patriarch of the family.\N{\rChinese}于是，这就是科索莫，基本上是家族的创始族长。
+Dialogue: 0,0:09:38.00,0:09:39.68,English,,0,0,0,,And so, what he will do is,\N{\rChinese}于是，他要做的事是，
+Dialogue: 0,0:09:39.82,0:09:44.52,English,,0,0,0,,he will pool the resources of rich people in Florence to create a bank.\N{\rChinese}他会把佛罗伦萨富人的资源汇聚成一家银行。
+Dialogue: 0,0:09:44.84,0:09:49.28,English,,0,0,0,,Meaning, if you're a merchant, you can borrow from this bank.\N{\rChinese}也就是说，如果你是商人，你可以向这家银行借款。
+Dialogue: 0,0:09:49.48,0:09:54.84,English,,0,0,0,,And what he will do is, he will set up branches all throughout Europe in order to facilitate\N{\rChinese}他要做的事是，在欧洲各地设立分支机构，以便于
+Dialogue: 0,0:09:54.84,0:09:56.94,English,,0,0,0,,and underwrite European trade.\N{\rChinese}并承保欧洲贸易。
+Dialogue: 0,0:09:57.50,0:10:01.88,English,,0,0,0,,And obviously, he gets a cut of all this trade.\N{\rChinese}显然，他也从这所有贸易中分得一份。
+Dialogue: 0,0:10:02.08,0:10:07.22,English,,0,0,0,,And as a result, the Medici family become tremendously wealthy.\N{\rChinese}于是，梅迪奇家族因此变得极其富有。
+Dialogue: 0,0:10:07.64,0:10:09.78,English,,0,0,0,,And they create the Medici family.\N{\rChinese}于是他们创立了梅迪奇家族。
+Dialogue: 0,0:10:09.82,0:10:13.62,English,,0,0,0,,And they create the Medici dynasty. From this family, four popes will emerge.\N{\rChinese}于是他们创立了梅迪奇王朝。从这家族中，四位教皇将相继诞生。
+Dialogue: 0,0:10:13.92,0:10:15.20,English,,0,0,0,,Four popes will emerge.\N{\rChinese}四位教皇将相继诞生。
+Dialogue: 0,0:10:15.32,0:10:19.74,English,,0,0,0,,They will eventually take over Florence and create their own monarchy.\N{\rChinese}他们最终将接管佛罗伦萨并创建自己的王朝。
+Dialogue: 0,0:10:20.00,0:10:24.44,English,,0,0,0,,As we discussed, if you're a merchant family, you have a legitimacy problem.\N{\rChinese}正如我们所说，若你是商人家族，便有合法性问题。
+Dialogue: 0,0:10:24.78,0:10:27.00,English,,0,0,0,,You didn't win the title.\N{\rChinese}你没有赢得头衔。
+Dialogue: 0,0:10:27.18,0:10:29.20,English,,0,0,0,,You didn't win your wealth on the battlefield.\N{\rChinese}你没有在战场上赢得财富。
+Dialogue: 0,0:10:29.64,0:10:32.36,English,,0,0,0,,You don't represent God. All you have is a lot of money.\N{\rChinese}你不代表上帝，只有一大笔钱。
+Dialogue: 0,0:10:32.60,0:10:34.72,English,,0,0,0,,So, in order to legitimize themselves,\N{\rChinese}于是，为了巩固自身地位，
+Dialogue: 0,0:10:35.10,0:10:38.12,English,,0,0,0,,they will go on a massive spending spree\N{\rChinese}他们将展开大规模的支出狂潮，
+Dialogue: 0,0:10:38.12,0:10:43.62,English,,0,0,0,,in order to make Florence the cultural capital of Europe.\N{\rChinese}以此把佛罗伦萨打造成欧洲的文化首都。
+Dialogue: 0,0:10:43.78,0:10:48.06,English,,0,0,0,,So, they will, first of all, fund these massive agricultural projects.\N{\rChinese}于是，他们首先会资助这些大规模的农业项目。
+Dialogue: 0,0:10:48.52,0:10:53.08,English,,0,0,0,,The most famous church in Florence is called the Santa Maria dei Fori.\N{\rChinese}佛罗伦萨最著名的教堂叫做圣玛利亚·德伊·福里。
+Dialogue: 0,0:10:53.30,0:10:55.36,English,,0,0,0,,It's still there. You guys can still visit it.\N{\rChinese}它依旧在。你们可以去参观。
+Dialogue: 0,0:10:55.56,0:10:58.38,English,,0,0,0,,It's the fourth largest church in the world.\N{\rChinese}它是世界第四大教堂。
+Dialogue: 0,0:10:58.42,0:11:03.98,English,,0,0,0,,It's absolutely stunning. Here's another view of the church\N{\rChinese}它绝对壮观。这里是教堂的另一视角。
+Dialogue: 0,0:11:03.98,0:11:06.38,English,,0,0,0,,and the city of Florence.\N{\rChinese}以及佛罗伦萨的城市景观。
+Dialogue: 0,0:11:06.50,0:11:08.00,English,,0,0,0,,And it's still there today.\N{\rChinese}它依旧在。
+Dialogue: 0,0:11:08.00,0:11:10.50,English,,0,0,0,,If you fly to Florence, you will still see this picture.\N{\rChinese}如果你飞到佛罗伦萨，你仍能看到这幅画。
+Dialogue: 0,0:11:10.70,0:11:12.64,English,,0,0,0,,It is incredibly well preserved.\N{\rChinese}它保存得非常好。
+Dialogue: 0,0:11:12.88,0:11:16.54,English,,0,0,0,,This is what inside the church looks like.\N{\rChinese}这就是教堂内部的样子。
+Dialogue: 0,0:11:18.70,0:11:23.44,English,,0,0,0,,They will also patronize artists.\N{\rChinese}他们还会赞助艺术家。
+Dialogue: 0,0:11:23.88,0:11:27.26,English,,0,0,0,,The most famous artists of this time\N{\rChinese}这时期最著名的艺术家。
+Dialogue: 0,0:11:27.88,0:11:29.96,English,,0,0,0,,were patronized by the Medici family.\N{\rChinese}被美第奇家族赞助。
+Dialogue: 0,0:11:30.26,0:11:34.30,English,,0,0,0,,So, Michelangelo actually lived\N{\rChinese}于是，米开朗在……
+Dialogue: 0,0:11:35.00,0:11:38.22,English,,0,0,0,,with the Medici family for a while.\N{\rChinese}他与美第奇家族一起住了一段时间。
+Dialogue: 0,0:11:38.36,0:11:42.12,English,,0,0,0,,And of course, he's most famous for a painting called The Creation of Adam,\N{\rChinese}当然，他最著名的画作是《创世亚当》
+Dialogue: 0,0:11:42.26,0:11:43.80,English,,0,0,0,,which we will discuss.\N{\rChinese}我们将讨论它。
+Dialogue: 0,0:11:44.22,0:11:49.16,English,,0,0,0,,The Creation of Adam is also famous for the statue of David.\N{\rChinese}《创世亚当》也因大卫的雕像而闻名。
+Dialogue: 0,0:11:51.04,0:11:53.60,English,,0,0,0,,You also have da Vinci, who\N{\rChinese}你也会想到达·芬奇，他…
+Dialogue: 0,0:11:53.60,0:11:58.56,English,,0,0,0,,is considered the archetypal Renaissance man.\N{\rChinese}他被认为是典型的文艺复兴之人。
+Dialogue: 0,0:11:58.84,0:12:01.52,English,,0,0,0,,When you think of the Renaissance, you think of da Vinci.\N{\rChinese}当你想到文艺复兴时，首先想到的是达·芬奇。
+Dialogue: 0,0:12:02.74,0:12:04.84,English,,0,0,0,,So, these are some of his paintings.\N{\rChinese}下面是他的几幅画作。
+Dialogue: 0,0:12:05.42,0:12:06.88,English,,0,0,0,,He is a painter.\N{\rChinese}他是一位画家。
+Dialogue: 0,0:12:06.88,0:12:10.10,English,,0,0,0,,He is a remarkable genius. He is what we call a polymath,\N{\rChinese}他是一位杰出的天才。我们称他为博学者。
+Dialogue: 0,0:12:10.30,0:12:12.74,English,,0,0,0,,which means that he dabbles,\N{\rChinese}这意味着他涉猎各类，或他对人类知识的每一领域都感兴趣。
+Dialogue: 0,0:12:12.74,0:12:16.56,English,,0,0,0,,or he's interested in every single field of human knowledge.\N{\rChinese}这意味着他涉猎各类，或他对人类知识的每一领域都感兴趣。
+Dialogue: 0,0:12:16.68,0:12:18.44,English,,0,0,0,,The sciences, philosophy,\N{\rChinese}科学、哲学，
+Dialogue: 0,0:12:19.00,0:12:21.78,English,,0,0,0,,poetry, art, music, everything.\N{\rChinese}诗歌、绘画、音乐，凡事。
+Dialogue: 0,0:12:22.08,0:12:24.68,English,,0,0,0,,And he takes all these different disciplines and\N{\rChinese}他把这些不同的学科都拿来，
+Dialogue: 0,0:12:24.68,0:12:27.14,English,,0,0,0,,combines them into his art.\N{\rChinese}然后把它们融合进自己的艺术。
+Dialogue: 0,0:12:28.92,0:12:32.02,English,,0,0,0,,This is one of his most famous paintings, The Last Supper.\N{\rChinese}这幅画是他的代表作之一，题为《最后的晚餐》。
+Dialogue: 0,0:12:32.18,0:12:35.62,English,,0,0,0,,And this painting I will show you is a work of genius.\N{\rChinese}这幅我将展示的作品堪称天才之作。
+Dialogue: 0,0:12:35.62,0:12:39.30,English,,0,0,0,,So, later on, we will actually discuss The Last Supper.\N{\rChinese}随后我们将具体讨论《最后的晚餐》。
+Dialogue: 0,0:12:39.42,0:12:41.24,English,,0,0,0,,But first, I introduce it to you here.\N{\rChinese}但先，我在这里向你介绍它。
+Dialogue: 0,0:12:42.64,0:12:46.06,English,,0,0,0,,This is The School of Athens by Raphael,\N{\rChinese}这幅是拉斐尔的《雅典学院》
+Dialogue: 0,0:12:46.78,0:12:49.20,English,,0,0,0,,one of the most famous paintings in the world.\N{\rChinese}它是世界上最著名的画作之一
+Dialogue: 0,0:12:50.50,0:12:52.98,English,,0,0,0,,You also have Botticelli,\N{\rChinese}你也会看到波提切利，[212]多纳泰洛。和…
+Dialogue: 0,0:12:56.54,0:13:01.24,English,,0,0,0,,Donatello. And\N{\rChinese}多纳泰洛。
+Dialogue: 0,0:13:01.24,0:13:05.46,English,,0,0,0,,again, these are the most famous artists of the Renaissance.\N{\rChinese}再次，这些都是文艺复兴时期最著名的画家。
+Dialogue: 0,0:13:05.46,0:13:07.74,English,,0,0,0,,And the Medici's patronized every single one of them.\N{\rChinese}而且每一位都得到了美第奇家族的赞助。
+Dialogue: 0,0:13:07.86,0:13:10.60,English,,0,0,0,,Later on in this class, we will actually discuss these paintings.\N{\rChinese}稍后在本课中，我们会真正讨论这些画作。
+Dialogue: 0,0:13:11.18,0:13:15.96,English,,0,0,0,,But as the Medici are patronizing art\N{\rChinese}但正如美第奇家族赞助艺术一样。
+Dialogue: 0,0:13:15.96,0:13:18.20,English,,0,0,0,,and culture in Florence,\N{\rChinese}在佛罗伦萨的艺术与文化中，
+Dialogue: 0,0:13:18.42,0:13:22.44,English,,0,0,0,,the printing press is being invented by Gutenberg in Germany.\N{\rChinese}古腾堡在德国发明印刷机。
+Dialogue: 0,0:13:22.84,0:13:25.70,English,,0,0,0,,And the printing press, it marks a revolution\N{\rChinese}而印刷机，则标志着欧洲识字革命。
+Dialogue: 0,0:13:26.80,0:13:29.64,English,,0,0,0,,of literacy in Europe.\N{\rChinese}of literacy in Europe.
+Dialogue: 0,0:13:29.80,0:13:33.54,English,,0,0,0,,This is a picture of what a printing shop looks like.\N{\rChinese}这是一张印刷店的样子。
+Dialogue: 0,0:13:33.72,0:13:36.98,English,,0,0,0,,Okay? So, think about this.\N{\rChinese}好的？所以，想想这个。
+Dialogue: 0,0:13:37.46,0:13:41.24,English,,0,0,0,,So, the printing press first arrives in Venice in 1469.\N{\rChinese}于是，印刷机首次于1469年抵达威尼斯。
+Dialogue: 0,0:13:41.96,0:13:43.60,English,,0,0,0,,Only 30 years later,\N{\rChinese}仅过了30年，
+Dialogue: 0,0:13:43.76,0:13:47.18,English,,0,0,0,,there are 417 printing presses in a city.\N{\rChinese}该城内已有417台印刷机。
+Dialogue: 0,0:13:47.36,0:13:48.88,English,,0,0,0,,Think of these as publishing houses.\N{\rChinese}把这些想成出版公司。
+Dialogue: 0,0:13:49.80,0:13:53.56,English,,0,0,0,,All right? In the first 50 years,\N{\rChinese}好的？在前50年里，
+Dialogue: 0,0:13:54.40,0:13:57.54,English,,0,0,0,,there are 20 million volumes of books that\N{\rChinese}有两千万册书在欧洲印刷。
+Dialogue: 0,0:13:57.54,0:13:59.64,English,,0,0,0,,are printed in Europe.\N{\rChinese}这些书已在欧洲印刷。
+Dialogue: 0,0:13:59.84,0:14:03.86,English,,0,0,0,,So, the printing press is a very important part of the city.\N{\rChinese}于是，印刷机是城市中非常重要的一部分。
+Dialogue: 0,0:14:03.86,0:14:06.24,English,,0,0,0,,And it's a revolution of literacy and\N{\rChinese}它是识字革命的标志。
+Dialogue: 0,0:14:06.24,0:14:09.58,English,,0,0,0,,knowledge in Europe that democratizes knowledge.\N{\rChinese}欧洲的知识已实现民主化。
+Dialogue: 0,0:14:09.94,0:14:14.32,English,,0,0,0,,Everyone now has access to Plato, Aristotle,\N{\rChinese}现在人人都能接触柏拉图、亚里士多德。
+Dialogue: 0,0:14:14.70,0:14:17.58,English,,0,0,0,,the Bible. And\N{\rChinese}圣经。还有
+Dialogue: 0,0:14:17.58,0:14:23.44,English,,0,0,0,,what they're reading are some of the major thinkers of the Renaissance.\N{\rChinese}他们正在读的，是文艺复兴时期的一些重要思想家。
+Dialogue: 0,0:14:23.88,0:14:25.90,English,,0,0,0,,So, in terms of poetry,\N{\rChinese}于是，在诗歌方面，
+Dialogue: 0,0:14:26.20,0:14:28.92,English,,0,0,0,,there are three major poets.\N{\rChinese}有三位主要诗人。
+Dialogue: 0,0:14:29.22,0:14:33.34,English,,0,0,0,,There's Dante, there's Petrarch, and there's Boccaccio.\N{\rChinese}有但丁、有佩特拉克，还有博卡乔。
+Dialogue: 0,0:14:33.86,0:14:39.20,English,,0,0,0,,All right? You also have Niccolo Machiavelli,\N{\rChinese}对吗？你还会看尼科洛·马基雅维利，
+Dialogue: 0,0:14:39.32,0:14:41.10,English,,0,0,0,,who we still read today.\N{\rChinese}他我们今天仍在读。
+Dialogue: 0,0:14:41.38,0:14:44.52,English,,0,0,0,,His most famous work is called The Prince.\N{\rChinese}他的最著名作品叫《君主论》。
+Dialogue: 0,0:14:44.70,0:14:49.24,English,,0,0,0,,And The Prince is really one of the first political treatises in the world.\N{\rChinese}《君主论》实际上是世界上最早的政治论文之一。
+Dialogue: 0,0:14:49.42,0:14:53.14,English,,0,0,0,,The question then is, how do you best govern a state?\N{\rChinese}问题是，怎样才能最好地治理一个民族国家？
+Dialogue: 0,0:14:53.46,0:14:57.72,English,,0,0,0,,And today, we remember The Prince for its strategy,\N{\rChinese}今天我们记住《君主论》是因为它的战略，
+Dialogue: 0,0:14:58.04,0:15:02.56,English,,0,0,0,,for its almost amoral strategy on how to rule a state.\N{\rChinese}它几乎是无道德的战略，关于怎样治理一个民族国家。
+Dialogue: 0,0:15:02.56,0:15:05.84,English,,0,0,0,,What we need to remember is that Machiavelli himself,\N{\rChinese}我们需要记住的是马基雅维利本人，
+Dialogue: 0,0:15:06.04,0:15:09.28,English,,0,0,0,,during this time, he was a startling democrat.\N{\rChinese}在此期间，他是一位惊人的民主派。
+Dialogue: 0,0:15:09.80,0:15:10.78,English,,0,0,0,,He believed that\N{\rChinese}他认为
+Dialogue: 0,0:15:10.78,0:15:16.30,English,,0,0,0,,the people needed to have a say over the affairs of Florence.\N{\rChinese}人们需要对佛罗伦萨事务有发言权。
+Dialogue: 0,0:15:16.58,0:15:21.24,English,,0,0,0,,And as a result, he came into contact with the Medici's who tortured him.\N{\rChinese}于是，他与马德奇家族接触，后者对他进行折磨。
+Dialogue: 0,0:15:21.52,0:15:26.10,English,,0,0,0,,Okay? But he wrote The Prince in order to raise awareness about politics.\N{\rChinese}于是他写《君主论》以提升人们对政治的认识。
+Dialogue: 0,0:15:26.34,0:15:30.20,English,,0,0,0,,He believed that if we are to have a well -functioning republic,\N{\rChinese}他认为若要建立运作良好的共和国，
+Dialogue: 0,0:15:30.56,0:15:34.10,English,,0,0,0,,then everyone needs to understand how politics works.\N{\rChinese}然后大家需要了解政治是如何运作的。
+Dialogue: 0,0:15:35.98,0:15:39.40,English,,0,0,0,,And then you also have, from Florence, Galileo,\N{\rChinese}随后你还会遇到来自佛罗伦萨的伽利略，
+Dialogue: 0,0:15:39.54,0:15:42.86,English,,0,0,0,,who we will discuss next week.\N{\rChinese}我们将在下周讨论他。
+Dialogue: 0,0:15:42.94,0:15:44.96,English,,0,0,0,,He is the father of science. Okay?\N{\rChinese}他是科学之父。好吗？
+Dialogue: 0,0:15:45.10,0:15:47.80,English,,0,0,0,,So these are the major thinkers of the Renaissance.\N{\rChinese}于是这些就是文艺复兴时期的主要思想家。
+Dialogue: 0,0:15:49.44,0:15:50.80,English,,0,0,0,,The philosophy,\N{\rChinese}哲学，
+Dialogue: 0,0:15:51.22,0:15:53.30,English,,0,0,0,,the value system that\N{\rChinese}价值体系是……
+Dialogue: 0,0:15:53.30,0:15:58.50,English,,0,0,0,,underpins all this artistic production is the idea of humanism.\N{\rChinese}……的基础是人文主义的理念。
+Dialogue: 0,0:15:58.66,0:16:01.44,English,,0,0,0,,Okay? So what is humanism?\N{\rChinese}好了？那人文主义是什么？
+Dialogue: 0,0:16:01.44,0:16:05.08,English,,0,0,0,,And how is it different from Christianity?\N{\rChinese}那它和基督教有什么不同？
+Dialogue: 0,0:16:05.38,0:16:07.42,English,,0,0,0,,Okay? So these are the three major differences, guys.\N{\rChinese}好了？这就是三大差别，大家。
+Dialogue: 0,0:16:07.56,0:16:09.14,English,,0,0,0,,Okay? So let's look at them.\N{\rChinese}好了？我们来看看。
+Dialogue: 0,0:16:09.62,0:16:12.84,English,,0,0,0,,If you're a Christian, the Catholic Church for the longest time\N{\rChinese}如果你是基督徒，天主教会在很久之前
+Dialogue: 0,0:16:13.31,0:16:16.08,English,,0,0,0,,struggled with what is the nature,\N{\rChinese}与什么是本质
+Dialogue: 0,0:16:16.26,0:16:19.88,English,,0,0,0,,what is the idea of God.\N{\rChinese}以及上帝的概念搏斗
+Dialogue: 0,0:16:20.70,0:16:23.52,English,,0,0,0,,Okay? And\N{\rChinese}好的？还有
+Dialogue: 0,0:16:23.52,0:16:28.86,English,,0,0,0,,humanists concerned themselves with what is the story of humans.\N{\rChinese}人文主义者关注的是人类的故事。
+Dialogue: 0,0:16:29.58,0:16:33.34,English,,0,0,0,,Okay? Do you guys understand? This is the major revolution\N{\rChinese}好的？你们明白了吗？这就是大革命。
+Dialogue: 0,0:16:34.10,0:16:35.68,English,,0,0,0,,in the intellect\N{\rChinese}在智识层面
+Dialogue: 0,0:16:36.32,0:16:37.46,English,,0,0,0,,brought on by the Renaissance.\N{\rChinese}由文艺复兴带来的变化
+Dialogue: 0,0:16:37.64,0:16:43.02,English,,0,0,0,,A transition from a focus on ideas to a focus on stories.\N{\rChinese}从聚焦于观念转向聚焦于故事
+Dialogue: 0,0:16:44.58,0:16:46.18,English,,0,0,0,,Second major difference is\N{\rChinese}第二个主要区别是
+Dialogue: 0,0:16:47.12,0:16:50.60,English,,0,0,0,,Christians always ask, how do I save my soul?\N{\rChinese}基督徒总是问，怎样才能救我的灵魂？
+Dialogue: 0,0:16:50.84,0:16:52.50,English,,0,0,0,,How do I ensure that I go to heaven?\N{\rChinese}怎样才能确保我去天堂？
+Dialogue: 0,0:16:53.36,0:16:56.96,English,,0,0,0,,But humanists ask, how do I flourish?\N{\rChinese}但人文主义者问，怎样才能繁荣？
+Dialogue: 0,0:16:57.40,0:16:59.84,English,,0,0,0,,How do I make the most out of my talents?\N{\rChinese}怎样才能充分发挥我的才华？
+Dialogue: 0,0:16:59.84,0:17:02.88,English,,0,0,0,,How do I have the best possible life on earth?\N{\rChinese}怎样才能在地球上拥有最好的生活？
+Dialogue: 0,0:17:03.14,0:17:05.78,English,,0,0,0,,Okay? So the Greek word is eudaimonia.\N{\rChinese}好的？希腊语词是eudaimonia。
+Dialogue: 0,0:17:06.36,0:17:11.00,English,,0,0,0,,All right? So humanism is actually a return to the values\N{\rChinese}好的？人文主义实际上是回到古希腊的价值观和信仰体系。
+Dialogue: 0,0:17:11.00,0:17:14.20,English,,0,0,0,,and belief systems of classical Greece.\N{\rChinese}and belief systemsof classical Greece.
+Dialogue: 0,0:17:14.86,0:17:16.86,English,,0,0,0,,Now last major difference is\N{\rChinese}现在最后一个主要区别是
+Dialogue: 0,0:17:17.96,0:17:21.96,English,,0,0,0,,Christians are always asked, how can we best serve God?\N{\rChinese}基督徒总是被问：我们怎样最好地服侍上帝？
+Dialogue: 0,0:17:22.22,0:17:23.82,English,,0,0,0,,How can we best obey God?\N{\rChinese}我们怎样最好地服侍上帝？
+Dialogue: 0,0:17:24.12,0:17:27.60,English,,0,0,0,,But humanists ask, how do we achieve goodness?\N{\rChinese}但人文主义者问，怎样才能实现善？
+Dialogue: 0,0:17:27.78,0:17:32.24,English,,0,0,0,,How do we make the world we live in today beautiful and truthful?\N{\rChinese}怎样让我们今天所居住的世界变得美好而真实？
+Dialogue: 0,0:17:32.70,0:17:35.92,English,,0,0,0,,Okay? So these are the three major differences\N{\rChinese}好吧？这就是三大区别。
+Dialogue: 0,0:17:35.92,0:17:40.72,English,,0,0,0,,that separate Christians from humanists. And\N{\rChinese}把基督徒与人文主义者分开的就是它。
+Dialogue: 0,0:17:40.72,0:17:46.36,English,,0,0,0,,what humanism will represent is a radical reorientation\N{\rChinese}人文主义将代表的是一种根本的重定向
+Dialogue: 0,0:17:49.36,0:17:51.86,English,,0,0,0,,of focus from\N{\rChinese}焦点从
+Dialogue: 0,0:17:51.86,0:17:57.04,English,,0,0,0,,the afterworld into the here\N{\rChinese}把后世带到此时此刻
+Dialogue: 0,0:17:57.04,0:18:00.84,English,,0,0,0,,and now. Okay? Christians care about what happens in heaven.\N{\rChinese}然后现在。好吧？基督徒关心天上事。
+Dialogue: 0,0:18:01.42,0:18:03.22,English,,0,0,0,,Humanists care about what happens today.\N{\rChinese}人文主义者关心今天事。
+Dialogue: 0,0:18:03.50,0:18:05.24,English,,0,0,0,,How do we make the most out of today?\N{\rChinese}今天我们怎么做得最好？
+Dialogue: 0,0:18:05.40,0:18:07.40,English,,0,0,0,,How do we make the world a better place?\N{\rChinese}我们怎样让世界更美好？
+Dialogue: 0,0:18:08.44,0:18:10.14,English,,0,0,0,,Okay? Does that make sense to you guys?\N{\rChinese}好吧？这对你们来说有道理吗？
+Dialogue: 0,0:18:10.52,0:18:13.44,English,,0,0,0,,All right. So having said\N{\rChinese}好的。说完这句话后，我们来具体了解一下这一次转变是怎样发生的。
+Dialogue: 0,0:18:13.44,0:18:18.86,English,,0,0,0,,that, let's understand concretely how this transition happened.\N{\rChinese}它主要是通过艺术实现的。
+Dialogue: 0,0:18:19.14,0:18:21.60,English,,0,0,0,,It happened mainly through art.\N{\rChinese}先说说……
+Dialogue: 0,0:18:21.80,0:18:23.96,English,,0,0,0,,Okay? So the main transition,\N{\rChinese}好的？那么主要的转变是……
+Dialogue: 0,0:18:25.58,0:18:31.10,English,,0,0,0,,to emphasize, is a transition from a focus on ideas to a focus on stories.\N{\rChinese}重点强调的是从关注概念转向关注故事的转变。
+Dialogue: 0,0:18:31.46,0:18:32.84,English,,0,0,0,,So what do I mean by that?\N{\rChinese}那我说的是什么呢？
+Dialogue: 0,0:18:33.08,0:18:36.10,English,,0,0,0,,Okay, let's look at some classical Greek sculptures.\N{\rChinese}好的，先来看看一些古典希腊雕塑。
+Dialogue: 0,0:18:36.50,0:18:39.46,English,,0,0,0,,If you look at some Greek sculptures, the thing that\N{\rChinese}如果你看一些希腊雕塑，最突出的是……
+Dialogue: 0,0:18:39.46,0:18:41.46,English,,0,0,0,,stands out is the motion,\N{\rChinese}……那就是它们的动作。
+Dialogue: 0,0:18:41.90,0:18:45.88,English,,0,0,0,,the tension, the emotion in the sculptures.\N{\rChinese}张力与情感在雕塑中展现。
+Dialogue: 0,0:18:46.18,0:18:48.06,English,,0,0,0,,Right? There's a story being told.\N{\rChinese}对吧？故事正在叙述。
+Dialogue: 0,0:18:48.76,0:18:51.20,English,,0,0,0,,You can almost feel that\N{\rChinese}你几乎能感受到它。
+Dialogue: 0,0:18:51.20,0:18:53.76,English,,0,0,0,,this person is alive and thinking.\N{\rChinese}此人还活着，正在思考。
+Dialogue: 0,0:18:54.00,0:18:57.32,English,,0,0,0,,All right? You can almost go into this person's character.\N{\rChinese}对吧？你几乎能进入此人的角色。
+Dialogue: 0,0:18:57.32,0:18:58.54,English,,0,0,0,,It's a story.\N{\rChinese}这是一段故事。
+Dialogue: 0,0:18:59.40,0:19:02.40,English,,0,0,0,,This sculpture is actually even more obvious.\N{\rChinese}这件雕塑更是显而易见。
+Dialogue: 0,0:19:02.70,0:19:06.40,English,,0,0,0,,Right? Within the sculpture, there's a story taking place.\N{\rChinese}对吧？在雕塑内部，故事正在上演。
+Dialogue: 0,0:19:06.54,0:19:08.36,English,,0,0,0,,It's almost like you're watching a movie.\N{\rChinese}就像你在看一部电影。
+Dialogue: 0,0:19:08.66,0:19:10.74,English,,0,0,0,,And what your mind does when\N{\rChinese}当你把脑袋投向雕塑时
+Dialogue: 0,0:19:10.74,0:19:13.44,English,,0,0,0,,it's looking at the sculpture, when\N{\rChinese}当你把脑袋投向雕塑时，正与之对话
+Dialogue: 0,0:19:13.44,0:19:17.74,English,,0,0,0,,it is in conversation with the sculpture, it is imagining what happens before\N{\rChinese}当你与雕塑对话时，脑袋在想象之前的情景
+Dialogue: 0,0:19:17.74,0:19:22.68,English,,0,0,0,,and after. You are making the sculpture alive with your imagination.\N{\rChinese}并且之后。你用想象让雕塑活了起来。
+Dialogue: 0,0:19:23.84,0:19:26.54,English,,0,0,0,,Okay? So that's classical Greece.\N{\rChinese}好吧？那就是古希腊。
+Dialogue: 0,0:19:26.54,0:19:28.80,English,,0,0,0,,By the time we hit medieval Christianity,\N{\rChinese}等到我们到达中世纪基督教时，
+Dialogue: 0,0:19:29.30,0:19:31.94,English,,0,0,0,,the very concept of art changes.\N{\rChinese}艺术的概念本身就发生了变化。
+Dialogue: 0,0:19:32.32,0:19:34.22,English,,0,0,0,,It becomes more of an idea.\N{\rChinese}它更像是一种概念。
+Dialogue: 0,0:19:34.74,0:19:37.80,English,,0,0,0,,Okay? So this is from the Carolingian Renaissance.\N{\rChinese}好了，这来自卡洛林复兴。
+Dialogue: 0,0:19:38.32,0:19:40.34,English,,0,0,0,,Okay? So basically the beginning of the Holy Roman Empire.\N{\rChinese}好的？这基本就是神圣罗马帝国的起始。
+Dialogue: 0,0:19:40.68,0:19:43.60,English,,0,0,0,,And as you can see, the artwork,\N{\rChinese}而且你可以看到，艺术作品，
+Dialogue: 0,0:19:43.82,0:19:45.60,English,,0,0,0,,it's much more static.\N{\rChinese}它更显得静态。
+Dialogue: 0,0:19:46.86,0:19:49.34,English,,0,0,0,,Okay? There's not really a story here.\N{\rChinese}好的？这里并没有真正的故事。
+Dialogue: 0,0:19:49.46,0:19:52.42,English,,0,0,0,,What's being conveyed to you is an idea.\N{\rChinese}传达给你的，是一个概念。
+Dialogue: 0,0:19:53.18,0:19:55.98,English,,0,0,0,,You don't really have to imagine what's going on,\N{\rChinese}你不必想象其中的情景。
+Dialogue: 0,0:19:55.98,0:20:00.70,English,,0,0,0,,because there's really no space for you to imagine what's going on.\N{\rChinese}因为你根本没机会想象其中的情景。
+Dialogue: 0,0:20:01.92,0:20:06.02,English,,0,0,0,,Okay? So the main artwork\N{\rChinese}好吧？所以主要的艺术作品
+Dialogue: 0,0:20:06.86,0:20:11.24,English,,0,0,0,,during the medieval Christian period are stained glass windows.\N{\rChinese}在中世纪基督教时期是彩绘玻璃窗。
+Dialogue: 0,0:20:11.64,0:20:16.04,English,,0,0,0,,So you go inside a church, and you see pictures on the windows.\N{\rChinese}于是你走进教堂，看到窗户上的图画。
+Dialogue: 0,0:20:16.30,0:20:19.80,English,,0,0,0,,And what these are, are almost like visual aids.\N{\rChinese}这些图画几乎像视觉辅助手。
+Dialogue: 0,0:20:19.92,0:20:24.72,English,,0,0,0,,So when the priest is talking about the stories of the Bible, he's using these,\N{\rChinese}于是当牧师讲述圣经故事时，他就用这些图画。
+Dialogue: 0,0:20:25.70,0:20:28.78,English,,0,0,0,,um, pictures to illustrate his point.\N{\rChinese}嗯，图画来说明他的观点。
+Dialogue: 0,0:20:28.94,0:20:32.30,English,,0,0,0,,Because remember, at this point, most people are illiterate.\N{\rChinese}因为记得，在这一点上，大多数人还是文盲。
+Dialogue: 0,0:20:32.82,0:20:34.42,English,,0,0,0,,Because of these stained glass windows,\N{\rChinese}因为这些彩绘玻璃窗。
+Dialogue: 0,0:20:34.80,0:20:37.58,English,,0,0,0,,the effect that is created, um,\N{\rChinese}产生的效果，嗯，
+Dialogue: 0,0:20:37.78,0:20:40.64,English,,0,0,0,,in the observer is blinding and awesome.\N{\rChinese}观察者感到眩目且壮观。
+Dialogue: 0,0:20:40.88,0:20:43.62,English,,0,0,0,,Remember, these are windows, and they're high up in the church.\N{\rChinese}记得，这些是窗户，位于教堂高处。
+Dialogue: 0,0:20:43.78,0:20:45.18,English,,0,0,0,,So the light is coming through.\N{\rChinese}光线透过来。
+Dialogue: 0,0:20:45.38,0:20:49.24,English,,0,0,0,,It makes the pictures wholly illuminated with light.\N{\rChinese}它让画面完全被光照亮。
+Dialogue: 0,0:20:49.36,0:20:51.72,English,,0,0,0,,It's awesome. You're forced to stand back.\N{\rChinese}真壮观，你得退后观赏。
+Dialogue: 0,0:20:51.96,0:20:55.02,English,,0,0,0,,But it's also blinding. Blinding just means, that\N{\rChinese}但它也很眩目。眩目就是指，嗯，很难想象正在发生的事。这些的目的，呃，…
+Dialogue: 0,0:20:55.02,0:20:59.58,English,,0,0,0,,it's hard for you to imagine what's going on.\N{\rChinese}但它也很眩目。眩目就是指，嗯，很难想象正在发生的事。这些的目的，呃，…
+Dialogue: 0,0:20:59.90,0:21:03.06,English,,0,0,0,,The purpose of these, um,\N{\rChinese}但它也很眩目。眩目就是指，嗯，很难想象正在发生的事。这些的目的，呃，…
+Dialogue: 0,0:21:03.24,0:21:06.22,English,,0,0,0,,of this artwork is to make you submit\N{\rChinese}这幅作品的目的就是让你投降
+Dialogue: 0,0:21:06.92,0:21:09.44,English,,0,0,0,,before the power of God.\N{\rChinese}在上帝的力量面前先投降
+Dialogue: 0,0:21:09.64,0:21:14.46,English,,0,0,0,,For you understand the awesomeness of God.\N{\rChinese}让你体会上帝的壮丽
+Dialogue: 0,0:21:14.68,0:21:17.38,English,,0,0,0,,Okay? Does that make sense? You're not here to participate.\N{\rChinese}好的？这样说通吗？你来这里不是为了参与。
+Dialogue: 0,0:21:17.58,0:21:19.30,English,,0,0,0,,You're here to submit.\N{\rChinese}你来这里是为了投降。
+Dialogue: 0,0:21:21.86,0:21:24.32,English,,0,0,0,,All right? So as you can see, this is a church.\N{\rChinese}好的？正如你所见，这是一座教堂。
+Dialogue: 0,0:21:24.64,0:21:26.16,English,,0,0,0,,You can see how the light comes in.\N{\rChinese}你可以看到光线是如何进入的。
+Dialogue: 0,0:21:26.30,0:21:28.26,English,,0,0,0,,And it blinds you.\N{\rChinese}它照得你眼花。
+Dialogue: 0,0:21:28.66,0:21:31.86,English,,0,0,0,,All right? And it's hard for you to really participate\N{\rChinese}好吧？你很难真正参与。
+Dialogue: 0,0:21:32.39,0:21:34.38,English,,0,0,0,,in the artwork.\N{\rChinese}在画作中。
+Dialogue: 0,0:21:34.72,0:21:37.80,English,,0,0,0,,So this is the idea of medieval Christianity.\N{\rChinese}于是这就是中世纪基督教的概念。
+Dialogue: 0,0:21:38.16,0:21:41.54,English,,0,0,0,,The idea that you, through artwork,\N{\rChinese}通过画作，你可以感受到的概念。
+Dialogue: 0,0:21:41.88,0:21:43.78,English,,0,0,0,,you are trying to represent the eternity,\N{\rChinese}你正试图表现永恒，
+Dialogue: 0,0:21:45.32,0:21:48.32,English,,0,0,0,,the awesomeness, the mystery that is God.\N{\rChinese}光辉，神的奥秘。
+Dialogue: 0,0:21:48.62,0:21:52.08,English,,0,0,0,,All right? By the time we hit the Renaissance,\N{\rChinese}好了？到达文艺复兴时，
+Dialogue: 0,0:21:52.52,0:21:54.26,English,,0,0,0,,the attitude is completely different.\N{\rChinese}姿态完全不同。
+Dialogue: 0,0:21:54.40,0:21:56.92,English,,0,0,0,,Okay? This is Da Vinci's The Last Supper.\N{\rChinese}好的？这就是达·芬奇的《最后的晚餐》。
+Dialogue: 0,0:21:57.24,0:22:01.28,English,,0,0,0,,And from blinding and awesome, we go to compelling and curious.\N{\rChinese}从眩目与壮丽到引人入胜与好奇。
+Dialogue: 0,0:22:02.00,0:22:04.38,English,,0,0,0,,What this means is, compelling means that\N{\rChinese}这意味着，精彩就是让你被画面吸引。
+Dialogue: 0,0:22:04.38,0:22:07.70,English,,0,0,0,,you are drawn into the picture.\N{\rChinese}你被画面吸引。
+Dialogue: 0,0:22:08.24,0:22:09.86,English,,0,0,0,,All right? Why?\N{\rChinese}好了？为什么？
+Dialogue: 0,0:22:10.02,0:22:11.68,English,,0,0,0,,Because of depth.\N{\rChinese}因为深度。
+Dialogue: 0,0:22:11.94,0:22:15.78,English,,0,0,0,,Okay? Meaning the picture moves backwards and it moves forwards.\N{\rChinese}好的吗？意思是画面往后移又往前移。
+Dialogue: 0,0:22:16.92,0:22:18.44,English,,0,0,0,,And because of this motion,\N{\rChinese}并且因为这种运动，
+Dialogue: 0,0:22:18.68,0:22:22.42,English,,0,0,0,,you are drawn into the picture.\N{\rChinese}你被画面吸引。
+Dialogue: 0,0:22:22.58,0:22:24.20,English,,0,0,0,,Look at this table, right?\N{\rChinese}看这张表格，好吗？
+Dialogue: 0,0:22:24.20,0:22:26.80,English,,0,0,0,,Look at this table. It's not a complete table.\N{\rChinese}看这张表格。它不是完整的表格。
+Dialogue: 0,0:22:27.22,0:22:30.98,English,,0,0,0,,It's too much too small for 13 people to eat.\N{\rChinese}太大又太小，13个人吃不完。
+Dialogue: 0,0:22:31.08,0:22:32.36,English,,0,0,0,,It's much too thin, right?\N{\rChinese}太薄了，没错吧？
+Dialogue: 0,0:22:32.54,0:22:37.18,English,,0,0,0,,So what your eye believes is, this table is expanding outwards.\N{\rChinese}所以你眼里看到的，就是这张表格向外扩展。
+Dialogue: 0,0:22:37.38,0:22:41.08,English,,0,0,0,,And so you are part of this picture.\N{\rChinese}于是你也成了这幅画的一部分。
+Dialogue: 0,0:22:43.16,0:22:45.18,English,,0,0,0,,Does that make sense? Okay?\N{\rChinese}这样说通吗？好了？
+Dialogue: 0,0:22:45.30,0:22:47.68,English,,0,0,0,,And also, it's curious because\N{\rChinese}而且，这很有趣，因为
+Dialogue: 0,0:22:48.20,0:22:52.38,English,,0,0,0,,clearly within this picture, there's a lot of tension.\N{\rChinese}显然在这幅画中，张力十足。
+Dialogue: 0,0:22:52.38,0:22:55.70,English,,0,0,0,,You see how these different groups are in discussion.\N{\rChinese}你看见这些不同的群体在讨论。
+Dialogue: 0,0:22:56.10,0:22:58.60,English,,0,0,0,,Okay? And they're all focused on Jesus.\N{\rChinese}好了？他们都聚焦在耶稣身上。
+Dialogue: 0,0:22:59.10,0:23:03.24,English,,0,0,0,,So this is the picture, the artwork of The Last Supper.\N{\rChinese}于是这幅画就是《最后的晚餐》这幅作品。
+Dialogue: 0,0:23:03.40,0:23:05.54,English,,0,0,0,,In The Last Supper, which appears in the Bible,\N{\rChinese}在《最后的晚餐》中，出现在圣经里，
+Dialogue: 0,0:23:06.44,0:23:11.20,English,,0,0,0,,Jesus reveals that someone has betrayed them.\N{\rChinese}耶稣揭示有人要背叛他们。
+Dialogue: 0,0:23:11.52,0:23:14.52,English,,0,0,0,,There's someone, his name is Judas Iscariot.\N{\rChinese}有个人，他叫犹大·伊斯卡略。
+Dialogue: 0,0:23:14.58,0:23:16.90,English,,0,0,0,,He has betrayed them. And\N{\rChinese}他已经背叛他们。然后
+Dialogue: 0,0:23:16.90,0:23:20.46,English,,0,0,0,,the next day, Jesus will be arrested\N{\rChinese}第二天，耶稣就会被捕捉。
+Dialogue: 0,0:23:20.46,0:23:21.76,English,,0,0,0,,and he will be crucified.\N{\rChinese}他随后被钉在十字架上。
+Dialogue: 0,0:23:21.76,0:23:25.14,English,,0,0,0,,And once Jesus announces this,\N{\rChinese}当耶稣宣布这一点时，
+Dialogue: 0,0:23:25.40,0:23:29.60,English,,0,0,0,,everyone becomes anxious.\N{\rChinese}众人都变得焦急。
+Dialogue: 0,0:23:29.90,0:23:31.52,English,,0,0,0,,Is it me? Is it me?\N{\rChinese}是我吗？是我吗？
+Dialogue: 0,0:23:31.62,0:23:33.08,English,,0,0,0,,Am I the betrayer? Okay?\N{\rChinese}我就是那个背叛者吗？好吧？
+Dialogue: 0,0:23:33.12,0:23:37.00,English,,0,0,0,,There's a lot of tension in this picture.\N{\rChinese}这幅画中有很多张力。
+Dialogue: 0,0:23:37.20,0:23:39.54,English,,0,0,0,,And as you can see, it's a radical departure.\N{\rChinese}如你所见，这是一次根本的变革。
+Dialogue: 0,0:23:40.44,0:23:42.52,English,,0,0,0,,This very painting is a radical departure\N{\rChinese}这幅画本身就是一次根本的变革
+Dialogue: 0,0:23:43.10,0:23:44.78,English,,0,0,0,,from medieval Christian art.\N{\rChinese}从中世纪基督教艺术中脱离出来
+Dialogue: 0,0:23:44.94,0:23:48.12,English,,0,0,0,,If you look at previous medieval Christian art, okay, below,\N{\rChinese}如果你看前面的中世纪基督教艺术，好吗，下面，
+Dialogue: 0,0:23:48.90,0:23:51.26,English,,0,0,0,,first of all, it's much more static.\N{\rChinese}首先，它更静态。
+Dialogue: 0,0:23:51.76,0:23:53.24,English,,0,0,0,,It's much more organized.\N{\rChinese}它更有条理。
+Dialogue: 0,0:23:54.24,0:23:57.42,English,,0,0,0,,There's not that much tension in the picture.\N{\rChinese}画面中并没有太多张力。
+Dialogue: 0,0:23:57.62,0:24:00.46,English,,0,0,0,,And what's most important is the idea of holiness.\N{\rChinese}最重要的是圣洁的概念。
+Dialogue: 0,0:24:00.62,0:24:04.96,English,,0,0,0,,You see this hallow surrounding each person in the picture, right?\N{\rChinese}你看见画中每个人周围的圣光，对吧？
+Dialogue: 0,0:24:05.32,0:24:08.08,English,,0,0,0,,It shows you that these are divine figures.\N{\rChinese}它展示了这些是神圣人物。
+Dialogue: 0,0:24:08.48,0:24:11.42,English,,0,0,0,,What Leonardo da Vinci has done, which is very important,\N{\rChinese}列奥纳多·达·芬奇所做的事很重要，
+Dialogue: 0,0:24:11.54,0:24:16.38,English,,0,0,0,,is he's really taking out the humanity in the picture.\N{\rChinese}他把画面中的人性展现出来。
+Dialogue: 0,0:24:16.42,0:24:18.90,English,,0,0,0,,There are no hallows. What's left is the humanity.\N{\rChinese}没有圣光，剩下的是人性。
+Dialogue: 0,0:24:19.42,0:24:23.60,English,,0,0,0,,Okay? These are first and foremost humans, not divine figures.\N{\rChinese}好的？这些先是人类，非神圣人物。
+Dialogue: 0,0:24:25.08,0:24:27.82,English,,0,0,0,,Okay? So this is another picture previously.\N{\rChinese}好的？这又是之前的另一幅画。
+Dialogue: 0,0:24:28.10,0:24:31.14,English,,0,0,0,,So there's much more detail, but again, as you can see,\N{\rChinese}于是细节更多，但正如你所见，并没有像达·芬奇那般的张力与戏剧。
+Dialogue: 0,0:24:31.26,0:24:37.24,English,,0,0,0,,not as much tension, not as much drama as in da Vinci's.\N{\rChinese}好的？这才是最新的。
+Dialogue: 0,0:24:37.54,0:24:39.86,English,,0,0,0,,All right? And this is the most recent.\N{\rChinese}好的？这才是最新的。
+Dialogue: 0,0:24:40.08,0:24:42.02,English,,0,0,0,,Okay? This is the most recent.\N{\rChinese}好的吗？这是最新的。
+Dialogue: 0,0:24:42.18,0:24:46.00,English,,0,0,0,,Now, in this artwork,\N{\rChinese}现在，在这幅作品中，
+Dialogue: 0,0:24:47.06,0:24:49.24,English,,0,0,0,,Judas Iscariot stands out.\N{\rChinese}犹大·以斯卡里奥显得突出。
+Dialogue: 0,0:24:49.24,0:24:51.02,English,,0,0,0,,From the rest.\N{\rChinese}从其余下。
+Dialogue: 0,0:24:51.20,0:24:55.08,English,,0,0,0,,And so that signals him as the betrayer.\N{\rChinese}于是便把他标记为叛徒。
+Dialogue: 0,0:24:55.18,0:24:59.08,English,,0,0,0,,But in da Vinci's work,\N{\rChinese}但在达·芬奇的作品中，
+Dialogue: 0,0:24:59.26,0:25:01.82,English,,0,0,0,,it's not obvious who is the betrayer.\N{\rChinese}谁是叛徒并不明显。
+Dialogue: 0,0:25:01.92,0:25:06.14,English,,0,0,0,,Everyone is afraid\N{\rChinese}大家都怕他或她是叛徒。
+Dialogue: 0,0:25:06.14,0:25:08.24,English,,0,0,0,,that he or she is the betrayer.\N{\rChinese}that he or she is the betrayer.
+Dialogue: 0,0:25:08.58,0:25:09.94,English,,0,0,0,,Okay? And then\N{\rChinese}好的？然后……
+Dialogue: 0,0:25:09.94,0:25:13.42,English,,0,0,0,,what this does is it forces you to investigate.\N{\rChinese}这件事的作用就是让你去探究。
+Dialogue: 0,0:25:13.64,0:25:18.14,English,,0,0,0,,It forces you, the observer, to observe the details in order to figure out\N{\rChinese}它让你——观者——去观察细节，以便弄清。
+Dialogue: 0,0:25:18.14,0:25:19.36,English,,0,0,0,,who is who.\N{\rChinese}谁是谁。
+Dialogue: 0,0:25:20.30,0:25:21.24,English,,0,0,0,,All right?\N{\rChinese}好的？
+Dialogue: 0,0:25:22.78,0:25:26.84,English,,0,0,0,,What's amazing about this picture\N{\rChinese}这幅图的精彩之处是……
+Dialogue: 0,0:25:26.84,0:25:30.00,English,,0,0,0,,is the focus on human anatomy.\N{\rChinese}聚焦于人体解剖。
+Dialogue: 0,0:25:30.24,0:25:31.52,English,,0,0,0,,Facial expressions.\N{\rChinese}面部表情。
+Dialogue: 0,0:25:32.02,0:25:34.88,English,,0,0,0,,Right? You see the tensions in the neck.\N{\rChinese}对吧？你能看到颈部的张力。
+Dialogue: 0,0:25:34.98,0:25:36.96,English,,0,0,0,,You see the hand gestures.\N{\rChinese}你能看到手部动作。
+Dialogue: 0,0:25:37.34,0:25:40.46,English,,0,0,0,,So what da Vinci believed is\N{\rChinese}于是达·芬奇所相信的是
+Dialogue: 0,0:25:40.46,0:25:42.98,English,,0,0,0,,that the hands, the hand motions,\N{\rChinese}手、手部动作，
+Dialogue: 0,0:25:43.02,0:25:46.18,English,,0,0,0,,they are a window into the soul of a person.\N{\rChinese}它们是人灵魂的窗口。
+Dialogue: 0,0:25:46.32,0:25:48.38,English,,0,0,0,,Okay? If you want to understand how a person thinks,\N{\rChinese}好了？如果你想了解一个人是怎么思考的，
+Dialogue: 0,0:25:48.50,0:25:52.22,English,,0,0,0,,you see how he or she uses the hands.\N{\rChinese}你就能看到他或她如何运用双手。
+Dialogue: 0,0:25:52.46,0:25:56.64,English,,0,0,0,,Okay? And you can see how the hands are all in different motions,\N{\rChinese}好的？你可以看到手部动作各不相同，
+Dialogue: 0,0:25:56.84,0:25:59.12,English,,0,0,0,,which signifies different personalities,\N{\rChinese}这表明不同的个性，
+Dialogue: 0,0:25:59.32,0:26:01.86,English,,0,0,0,,different thoughts inside that person.\N{\rChinese}那个人内部的不同思绪。
+Dialogue: 0,0:26:02.60,0:26:05.04,English,,0,0,0,,And again, you're forced to investigate.\N{\rChinese}又一次，你被迫去探究。
+Dialogue: 0,0:26:05.38,0:26:08.44,English,,0,0,0,,All right? You can see the anxiety,\N{\rChinese}好了？你能看到每张脸上的焦虑、紧张与戏剧。
+Dialogue: 0,0:26:08.76,0:26:12.16,English,,0,0,0,,the stress, the drama in each of the faces.\N{\rChinese}the stress, the dramain each of the faces.
+Dialogue: 0,0:26:12.66,0:26:13.98,English,,0,0,0,,Da Vinci was first and\N{\rChinese}达·芬奇首先是……
+Dialogue: 0,0:26:13.98,0:26:18.44,English,,0,0,0,,foremost an astute observer of emotions.\N{\rChinese}他是情感观察的先驱者。
+Dialogue: 0,0:26:18.92,0:26:22.28,English,,0,0,0,,Okay? How emotions are expressed through the face,\N{\rChinese}好？情感是怎样通过面部表达的。
+Dialogue: 0,0:26:22.46,0:26:25.82,English,,0,0,0,,through body tension, through breathing, through the eyes.\N{\rChinese}通过身体紧张、呼吸、眼神。
+Dialogue: 0,0:26:29.76,0:26:31.94,English,,0,0,0,,The man who\N{\rChinese}那位男人
+Dialogue: 0,0:26:31.94,0:26:36.04,English,,0,0,0,,is ultimately responsible for the betrayal is Judas Iscariot.\N{\rChinese}最终负责背叛的人是犹大·伊斯卡里奥
+Dialogue: 0,0:26:36.18,0:26:40.62,English,,0,0,0,,And you can see how Dante subliminally,\N{\rChinese}而你可以看到达·芬奇潜移地、稍微地、以细腻的方式强调他的背叛。
+Dialogue: 0,0:26:40.72,0:26:45.24,English,,0,0,0,,sorry, subtly, with subtlety emphasizes his betrayal.\N{\rChinese}抱歉，稍微地，以细腻的方式强调他的背叛。
+Dialogue: 0,0:26:45.46,0:26:49.54,English,,0,0,0,,Right? Okay? So you can see how he's darker than the other individuals.\N{\rChinese}对吧？好？这样你就能看到他比其他人更深沉。
+Dialogue: 0,0:26:49.82,0:26:51.02,English,,0,0,0,,So he's turning away from the light.\N{\rChinese}于是他转向光的背面。
+Dialogue: 0,0:26:51.24,0:26:54.78,English,,0,0,0,,He's betrayed God by turning away from the light.\N{\rChinese}他背叛上帝，转离光明。
+Dialogue: 0,0:26:55.34,0:26:59.18,English,,0,0,0,,Okay? Also, in his hand,\N{\rChinese}好？另外，他手里握着…
+Dialogue: 0,0:26:59.26,0:27:02.74,English,,0,0,0,,he's clutching some silver coins.\N{\rChinese}他正抓着几枚银币。
+Dialogue: 0,0:27:03.02,0:27:05.38,English,,0,0,0,,Okay? And you can see his neck.\N{\rChinese}好？你可以看到他的脖子。
+Dialogue: 0,0:27:05.48,0:27:07.38,English,,0,0,0,,His neck is being emphasized. Why?\N{\rChinese}他的脖子被强调。为什么？
+Dialogue: 0,0:27:07.50,0:27:09.62,English,,0,0,0,,Because of the tension in his neck.\N{\rChinese}因为脖子里的紧张。
+Dialogue: 0,0:27:09.72,0:27:10.94,English,,0,0,0,,Okay? He can't breathe.\N{\rChinese}好？他喘不过气。
+Dialogue: 0,0:27:11.36,0:27:13.14,English,,0,0,0,,Everyone else is anxious. They're talking.\N{\rChinese}其他人都很焦急，大家在说话。
+Dialogue: 0,0:27:13.34,0:27:16.26,English,,0,0,0,,But he cannot bring himself to talk.\N{\rChinese}但他还是说不出来。
+Dialogue: 0,0:27:16.38,0:27:19.62,English,,0,0,0,,So all the tension is captured in his neck.\N{\rChinese}于是所有的紧张都集中在他的脖子上。
+Dialogue: 0,0:27:20.10,0:27:22.18,English,,0,0,0,,Okay? All right?\N{\rChinese}好？没问题？
+Dialogue: 0,0:27:22.26,0:27:26.58,English,,0,0,0,,So you see all the subtlety here, right? Okay.\N{\rChinese}于是你看到了这里的细微之处，对吧？好。
+Dialogue: 0,0:27:26.98,0:27:30.70,English,,0,0,0,,Something really fun about The Last Supper is\N{\rChinese}关于最后的晚餐有件很有趣的事是
+Dialogue: 0,0:27:30.70,0:27:34.72,English,,0,0,0,,it becomes the basis for a very famous book called The Da Vinci Code.\N{\rChinese}它成为了一本非常著名的书《达·芬奇密码》的基础。
+Dialogue: 0,0:27:35.00,0:27:37.86,English,,0,0,0,,And The Da Vinci Code is a very popular book.\N{\rChinese}《达·芬奇密码》是一本非常流行的书。
+Dialogue: 0,0:27:38.02,0:27:40.04,English,,0,0,0,,No scholarship. It's just made for entertainment.\N{\rChinese}没有学术研究，纯粘娱乐。
+Dialogue: 0,0:27:40.56,0:27:45.34,English,,0,0,0,,What it argues is that Jesus did not die in the last supper.\N{\rChinese}它的主张是耶稣在最后的晚餐并未死亡。
+Dialogue: 0,0:27:47.76,0:27:50.82,English,,0,0,0,,Jesus died. But before he died,\N{\rChinese}耶稣去世。可在去世之前，
+Dialogue: 0,0:27:50.98,0:27:53.26,English,,0,0,0,,he married his lover, who\N{\rChinese}他与情人结婚，
+Dialogue: 0,0:27:53.26,0:27:56.32,English,,0,0,0,,is Mary Magdalene.\N{\rChinese}情人即玛利亚·马格达莲。
+Dialogue: 0,0:27:56.42,0:27:58.34,English,,0,0,0,,Okay? And so\N{\rChinese}好的？于是
+Dialogue: 0,0:27:58.34,0:28:01.98,English,,0,0,0,,this picture becomes one of the sources for the book.\N{\rChinese}这幅图成为书的来源之一。
+Dialogue: 0,0:28:02.28,0:28:05.88,English,,0,0,0,,So previously, scholars have believed\N{\rChinese}之前，学者们认为
+Dialogue: 0,0:28:05.88,0:28:07.80,English,,0,0,0,,that this person is one of the apostles.\N{\rChinese}那个人是使徒之一。
+Dialogue: 0,0:28:08.34,0:28:12.54,English,,0,0,0,,But when you look at him, okay, it turns out\N{\rChinese}但你看他，嗯，结果是她，几乎是她，对吧？
+Dialogue: 0,0:28:13.32,0:28:15.24,English,,0,0,0,,she's, it's almost a she, right?\N{\rChinese}她，几乎是她，对吧？
+Dialogue: 0,0:28:15.34,0:28:19.52,English,,0,0,0,,Okay? And if you look at how Jesus\N{\rChinese}好吧？再看耶稣的姿势
+Dialogue: 0,0:28:19.52,0:28:23.82,English,,0,0,0,,and this person is stationed, it creates an M shape.\N{\rChinese}再看这人摆放的姿势，形成了一个M字形
+Dialogue: 0,0:28:24.06,0:28:26.42,English,,0,0,0,,Right? An M can mean Mary.\N{\rChinese}对吧？M字可以代表玛利亚
+Dialogue: 0,0:28:26.60,0:28:30.28,English,,0,0,0,,But it stands for their closeness together.\N{\rChinese}但它代表他们的紧密相聚。
+Dialogue: 0,0:28:30.56,0:28:33.40,English,,0,0,0,,So people speculate that\N{\rChinese}于是人们推测，
+Dialogue: 0,0:28:33.40,0:28:35.96,English,,0,0,0,,these two are married.\N{\rChinese}这两人已结为夫妻。
+Dialogue: 0,0:28:36.18,0:28:37.74,English,,0,0,0,,And by doing this,\N{\rChinese}并且如此，我所要做的事是：
+Dialogue: 0,0:28:37.86,0:28:42.84,English,,0,0,0,,what Dante is really emphasizing is the humanity of Jesus.\N{\rChinese}达·芬特真正强调的是耶稣的人性。耶稣是第一位，首要的。
+Dialogue: 0,0:28:43.02,0:28:44.62,English,,0,0,0,,Jesus is first and foremost,\N{\rChinese}耶稣是第一位，首要的。
+Dialogue: 0,0:28:45.34,0:28:47.24,English,,0,0,0,,a human. Okay?\N{\rChinese}一个人。好吗？
+Dialogue: 0,0:28:47.34,0:28:48.86,English,,0,0,0,,So this is, this is interesting, guys.\N{\rChinese}所以这件事很有趣，大家。
+Dialogue: 0,0:28:49.02,0:28:52.00,English,,0,0,0,,Okay? Scholars don't really agree with this analysis,\N{\rChinese}好的？学者们对此分析并不完全一致。
+Dialogue: 0,0:28:52.24,0:28:55.70,English,,0,0,0,,but it becomes the basis of the Da Vinci Code, which is a really fun book.\N{\rChinese}但它成为了《达·芬特密码》的基础，这本书真的很有趣。
+Dialogue: 0,0:28:56.12,0:28:58.58,English,,0,0,0,,All right. Something that\N{\rChinese}好的。还有一点是
+Dialogue: 0,0:28:58.58,0:29:02.08,English,,0,0,0,,scholars do believe is the mathematics.\N{\rChinese}学者们确实相信的是数学。
+Dialogue: 0,0:29:02.68,0:29:05.34,English,,0,0,0,,So if you look at where\N{\rChinese}所以如果你看手和面包的位置，并且
+Dialogue: 0,0:29:05.34,0:29:07.80,English,,0,0,0,,the hands and the bread are, and\N{\rChinese}把它映射到乐谱上，你就能真正演奏音乐。
+Dialogue: 0,0:29:07.80,0:29:11.64,English,,0,0,0,,you map it onto a music sheet, you can actually play the music.\N{\rChinese}you map it onto a music sheet,you can actually play the music.
+Dialogue: 0,0:29:12.08,0:29:15.38,English,,0,0,0,,Okay? It's designed to be musical.\N{\rChinese}好的？它被设计成音乐的。
+Dialogue: 0,0:29:15.52,0:29:17.48,English,,0,0,0,,Also, look at the configuration.\N{\rChinese}另外，看看配置。
+Dialogue: 0,0:29:17.90,0:29:22.60,English,,0,0,0,,It's a 3 -3 -1 -3 -3 configuration.\N{\rChinese}它是一个3-3-1-3-3的配置。
+Dialogue: 0,0:29:22.72,0:29:26.10,English,,0,0,0,,Okay? It turns out, if you look at the Bible,\N{\rChinese}好的？如果你看圣经的话，结果是这样的。
+Dialogue: 0,0:29:26.22,0:29:29.08,English,,0,0,0,,and you look for the passage 33 -1 -33,\N{\rChinese}然后你去找33-1-33这一段落，
+Dialogue: 0,0:29:29.38,0:29:33.06,English,,0,0,0,,you get this quotation in Lamentations.\N{\rChinese}你会得到这段《哀歌》里的引用。
+Dialogue: 0,0:29:33.06,0:29:34.40,English,,0,0,0,,Okay? In the Bible. It says,\N{\rChinese}好的？在圣经里说，
+Dialogue: 0,0:29:34.64,0:29:38.38,English,,0,0,0,,For no one is cast off by the Lord forever.\N{\rChinese}凡被主抛弃的人永不再抛弃。
+Dialogue: 0,0:29:38.74,0:29:43.06,English,,0,0,0,,Though he brings grief, he will show compassion.\N{\rChinese}他虽带来悲伤，却必显恩慈。
+Dialogue: 0,0:29:43.42,0:29:44.88,English,,0,0,0,,So great is his name.\N{\rChinese}如此伟大的是他的名字。
+Dialogue: 0,0:29:44.88,0:29:50.18,English,,0,0,0,,He is unfailing love. For he does not willingly bring affliction or grief to anyone.\N{\rChinese}他是无误的爱。因为他并非自愿给人带来苦难或悲伤。
+Dialogue: 0,0:29:50.70,0:29:54.20,English,,0,0,0,,And so the idea here is that God will always love you.\N{\rChinese}于是这里的意思是：上帝永远爱你。
+Dialogue: 0,0:29:54.30,0:29:59.00,English,,0,0,0,,God is love. God is incapable of hating you.\N{\rChinese}上帝是爱。上帝不可能恨你。
+Dialogue: 0,0:29:59.22,0:30:01.82,English,,0,0,0,,Okay? He will always find a way to forgive you.\N{\rChinese}好吧？他总会想办法原你。
+Dialogue: 0,0:30:02.54,0:30:04.52,English,,0,0,0,,And if you remember from last semester,\N{\rChinese}若你记得上学期的事，
+Dialogue: 0,0:30:04.78,0:30:07.48,English,,0,0,0,,this is the very idea of the Divine Comedy.\N{\rChinese}这就是《神曲》的核心概念。
+Dialogue: 0,0:30:08.30,0:30:12.02,English,,0,0,0,,Okay? Leonardo da Vinci is getting this idea from Dante.\N{\rChinese}好吧？达芬奇从但丁那里得到这个概念。
+Dialogue: 0,0:30:12.02,0:30:17.18,English,,0,0,0,,And this idea is the backbone of the Last Supper.\N{\rChinese}而这个概念正是《最后的晚餐》的脊梁。
+Dialogue: 0,0:30:17.50,0:30:20.96,English,,0,0,0,,Jesus knows he's been betrayed by Judas Iscariot.\N{\rChinese}耶稣知道自己被犹大·以斯卡里奥背叛。
+Dialogue: 0,0:30:21.02,0:30:22.36,English,,0,0,0,,But look at him.\N{\rChinese}但看他。
+Dialogue: 0,0:30:22.46,0:30:24.30,English,,0,0,0,,Okay? Let's go back and look at him.\N{\rChinese}好吧？回去再看他。
+Dialogue: 0,0:30:24.36,0:30:26.86,English,,0,0,0,,He's calm. He's reassured.\N{\rChinese}他很平静，安心了。
+Dialogue: 0,0:30:27.28,0:30:30.10,English,,0,0,0,,He's already forgiven Judas Iscariot.\N{\rChinese}他已经原谅犹大·以斯卡里奥。
+Dialogue: 0,0:30:30.62,0:30:33.28,English,,0,0,0,,All right? There's no hatred in him.\N{\rChinese}他里面没有仇恨。
+Dialogue: 0,0:30:33.42,0:30:35.90,English,,0,0,0,,There's no anger. The anger and\N{\rChinese}没有愤怒。愤怒与别人的恨意。
+Dialogue: 0,0:30:35.90,0:30:38.38,English,,0,0,0,,the hatred is everyone else.\N{\rChinese}全都好？于是就是最后的晚餐。
+Dialogue: 0,0:30:38.60,0:30:41.08,English,,0,0,0,,All right? So that's the Last Supper.\N{\rChinese}全都好？
+Dialogue: 0,0:30:41.08,0:30:42.54,English,,0,0,0,,And as you can see,\N{\rChinese}如你所见，
+Dialogue: 0,0:30:42.64,0:30:46.50,English,,0,0,0,,it is heavily influenced by Dante.\N{\rChinese}它深受但丁影响。
+Dialogue: 0,0:30:46.76,0:30:48.94,English,,0,0,0,,All right. This is the most famous painting in the world,\N{\rChinese}好的。这是世界上最著名的画。
+Dialogue: 0,0:30:49.32,0:30:54.72,English,,0,0,0,,the Mona Lisa. It has captured the imagination of millions of people.\N{\rChinese}蒙娜丽莎。它已捕捉了数百万人的想象。
+Dialogue: 0,0:30:54.82,0:30:57.66,English,,0,0,0,,Millions of people every year will go to France,\N{\rChinese}每年有数百万的人前往法国，去卢浮宫，排队等候，只为能花十秒钟观赏此幅画。
+Dialogue: 0,0:30:57.78,0:31:02.84,English,,0,0,0,,the Louvre, to stand in line just so they can spend ten seconds to look at this picture. Okay?\N{\rChinese}好了？
+Dialogue: 0,0:31:03.82,0:31:09.02,English,,0,0,0,,What makes this picture remarkable is it's secretly alive.\N{\rChinese}这幅画之所以出众，是它暗藏着生命。
+Dialogue: 0,0:31:09.38,0:31:11.42,English,,0,0,0,,Okay? So it's a picture of a man in a suit.\N{\rChinese}好？它是一幅穿着西装的男子画像。
+Dialogue: 0,0:31:11.42,0:31:14.52,English,,0,0,0,,Dante spent 16 years crafting this in a way\N{\rChinese}但丁花了十六年时间来打磨这幅画。
+Dialogue: 0,0:31:14.52,0:31:17.70,English,,0,0,0,,that by just talking with it,\N{\rChinese}只要跟它说话，就能让它活起来。
+Dialogue: 0,0:31:17.80,0:31:22.12,English,,0,0,0,,by moving around in conversation with it, it becomes alive.\N{\rChinese}只要在与它的对话中来回转动，它就会变得有生命。
+Dialogue: 0,0:31:22.76,0:31:24.56,English,,0,0,0,,So when you just look at it directly,\N{\rChinese}于是你只要直视它，
+Dialogue: 0,0:31:25.22,0:31:26.88,English,,0,0,0,,Mona Lisa isn't really doing anything.\N{\rChinese}蒙娜丽萨其实没在做什么。
+Dialogue: 0,0:31:26.96,0:31:28.40,English,,0,0,0,,She's just smiling. Sorry.\N{\rChinese}她只是笑着。抱歉。
+Dialogue: 0,0:31:28.68,0:31:31.06,English,,0,0,0,,She's neutral in her expression.\N{\rChinese}她的表情中性。
+Dialogue: 0,0:31:31.22,0:31:36.02,English,,0,0,0,,Right? But if you turn away from her, what happens is this.\N{\rChinese}对吧？但你转开视线时，情况就是这样。
+Dialogue: 0,0:31:36.54,0:31:39.40,English,,0,0,0,,What happens is she starts to have a smile.\N{\rChinese}随后她会露出笑容。
+Dialogue: 0,0:31:40.34,0:31:42.62,English,,0,0,0,,Okay? She starts to have a smile.\N{\rChinese}她开始笑了。
+Dialogue: 0,0:31:43.00,0:31:46.24,English,,0,0,0,,So your eyes play tricks on you.\N{\rChinese}于是你的眼睛会给你玩花招。
+Dialogue: 0,0:31:46.34,0:31:48.34,English,,0,0,0,,When you move away from the picture,\N{\rChinese}当你离开画面时，
+Dialogue: 0,0:31:48.58,0:31:52.48,English,,0,0,0,,what happens is your peripheral vision still picks up the picture,\N{\rChinese}结果是你的视野仍能捕捉到画面。
+Dialogue: 0,0:31:52.70,0:31:54.12,English,,0,0,0,,but the expression is different.\N{\rChinese}但表达方式不同。
+Dialogue: 0,0:31:54.26,0:31:56.78,English,,0,0,0,,Okay? So this is the central version.\N{\rChinese}好了？这才是核心版本。
+Dialogue: 0,0:31:56.86,0:32:00.44,English,,0,0,0,,We just look at her directly. But as you move further away from her, she smiles.\N{\rChinese}我们直接看她。只要你离她更远，她就会笑。
+Dialogue: 0,0:32:02.18,0:32:04.12,English,,0,0,0,,Okay? So what is this saying?\N{\rChinese}好了？这句话说的是？
+Dialogue: 0,0:32:04.16,0:32:09.78,English,,0,0,0,,What this is saying is the art is alive if you engage in it.\N{\rChinese}这句话的意思是：只要你参与其中，艺术才会活起来。
+Dialogue: 0,0:32:09.78,0:32:11.46,English,,0,0,0,,Engage with it. Okay?\N{\rChinese}参与其中。好了？
+Dialogue: 0,0:32:11.58,0:32:15.54,English,,0,0,0,,Art is not meant to be blinding and awesome.\N{\rChinese}艺术不是要炫目耀眼的。
+Dialogue: 0,0:32:15.74,0:32:17.86,English,,0,0,0,,It's meant to be here and now.\N{\rChinese}它是要在此此刻存在的。
+Dialogue: 0,0:32:18.08,0:32:21.62,English,,0,0,0,,Only if you participate in the art does it become alive.\N{\rChinese}只有你参与其中，艺术才会活起来。
+Dialogue: 0,0:32:22.00,0:32:23.82,English,,0,0,0,,Only when\N{\rChinese}只有当它活起来时，它才实现真正意义。
+Dialogue: 0,0:32:23.82,0:32:27.86,English,,0,0,0,,it becomes alive does it achieve its true meaning.\N{\rChinese}好了？这就是蒙娜丽莎。
+Dialogue: 0,0:32:28.12,0:32:29.74,English,,0,0,0,,Okay? So this is the Mona Lisa.\N{\rChinese}Okay? So this isthe Mona Lisa.
+Dialogue: 0,0:32:31.46,0:32:35.22,English,,0,0,0,,All right. Let's look at the School of Athens by Raphael.\N{\rChinese}好的。让我们来看看拉斐尔的《雅典学院》
+Dialogue: 0,0:32:36.54,0:32:40.54,English,,0,0,0,,The actual name for this painting is actually a painting called The National School of Athens.\N{\rChinese}这幅画的正式名称是《雅典的国立学院》
+Dialogue: 0,0:32:40.70,0:32:42.50,English,,0,0,0,,It's actually called Philosophy. And\N{\rChinese}它实际上叫做《哲学》
+Dialogue: 0,0:32:42.50,0:32:45.22,English,,0,0,0,,the reason why is it was commissioned by\N{\rChinese}原因是它是由梵蒂冈的朱利叶二世教皇委托的。
+Dialogue: 0,0:32:45.22,0:32:47.72,English,,0,0,0,,Pope Julius II of the Vatican\N{\rChinese}Pope Julius II of the Vatican
+Dialogue: 0,0:32:47.72,0:32:51.74,English,,0,0,0,,in order to decorate his papal apartments.\N{\rChinese}按顺序装饰他的教皇套房。
+Dialogue: 0,0:32:52.04,0:32:54.34,English,,0,0,0,,So if you go inside his papal apartments today,\N{\rChinese}所以如果你今天去他的教皇套房里…
+Dialogue: 0,0:32:54.58,0:32:58.92,English,,0,0,0,,there are four major frescoes, paintings.\N{\rChinese}有四幅大型壁画，画作。
+Dialogue: 0,0:32:59.36,0:33:03.42,English,,0,0,0,,The first is called Philosophy, and then right beside Philosophy is called Religion.\N{\rChinese}第一幅叫做哲学，紧挨哲学的是宗教。
+Dialogue: 0,0:33:03.84,0:33:07.40,English,,0,0,0,,Okay? So Religion and Philosophy balance each other out.\N{\rChinese}好的？所以宗教与哲学相互平衡。
+Dialogue: 0,0:33:07.52,0:33:09.56,English,,0,0,0,,They are dependent on each other.\N{\rChinese}它们彼此相互依赖。
+Dialogue: 0,0:33:09.78,0:33:13.90,English,,0,0,0,,And then across the wall are two more paintings,\N{\rChinese}随后在墙另一侧还有两幅画，分别是《诗歌》和《法则》。
+Dialogue: 0,0:33:14.08,0:33:16.88,English,,0,0,0,,Poetry and Law.\N{\rChinese}Poetry and Law.
+Dialogue: 0,0:33:17.24,0:33:18.68,English,,0,0,0,,All right? So\N{\rChinese}好的？所以
+Dialogue: 0,0:33:18.68,0:33:21.86,English,,0,0,0,,that's the very ideal of the Renaissance,\N{\rChinese}那正是文艺复兴的核心理想
+Dialogue: 0,0:33:22.12,0:33:23.90,English,,0,0,0,,open -mindedness, exploration,\N{\rChinese}开放心态，探索，
+Dialogue: 0,0:33:24.36,0:33:27.38,English,,0,0,0,,and holistic learning.\N{\rChinese}以及整体学习。
+Dialogue: 0,0:33:27.74,0:33:30.02,English,,0,0,0,,All right. So let's look at this painting.\N{\rChinese}好的。现在看这幅画。
+Dialogue: 0,0:33:30.16,0:33:34.88,English,,0,0,0,,First of all, at the very center are two figures, Plato and Aristotle.\N{\rChinese}首先，最中心的两个人物是柏拉图和亚里士多德。
+Dialogue: 0,0:33:35.34,0:33:38.00,English,,0,0,0,,How do we know? Because they're holding two books.\N{\rChinese}我们怎么知道？因为他们手里拿着两本书。
+Dialogue: 0,0:33:38.10,0:33:39.76,English,,0,0,0,,This is a Timaeus. This is a Roman.\N{\rChinese}这本是提马欧斯。那本是罗马。
+Dialogue: 0,0:33:47.48,0:33:53.36,English,,0,0,0,,This is a Chinese text from the Chinese text from the Chinese text from the\N{\rChinese}这是一段中文文本，从中文文本开始
+Dialogue: 0,0:33:53.36,0:33:58.66,English,,0,0,0,,Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text from the Chinese text\N{\rChinese}中文文本从中文文本从中文文本从中文文本从中文文本从中文文本从中文文本从中文文本从中文文本中文文本从中文文本从中文文本从中文文本从中文文本从中文文本从中文文本从中文文本从中文文本从中文文本从中文文本从中文文本从中文文本
+Dialogue: 0,0:33:59.06,0:34:00.50,English,,0,0,0,,from the Chinese text from the Chinese text from the Chinese text from the Chinese text\N{\rChinese}来自中文文本的中文文本的中文文本的中文文本
+Dialogue: 0,0:34:00.50,0:34:02.30,English,,0,0,0,,from the Chinese text from the Chinese text from the\N{\rChinese}来自中文文本的中文文本的中文文本的
+Dialogue: 0,0:34:02.30,0:34:08.20,English,,0,0,0,,Chinese text from the Chinese text from the Chinese text from the Chinese text Aristotle,\N{\rChinese}中文文本从中文文本的中文文本的中文文本的中文文本的亚里士多德，
+Dialogue: 0,0:34:08.36,0:34:12.34,English,,0,0,0,,his most famous book is called Ethics, How to Lead a Good Life.\N{\rChinese}他的最著名著作叫《伦理学》，即《如何过上好生活》。
+Dialogue: 0,0:34:12.94,0:34:17.00,English,,0,0,0,,What's amazing about this picture is you can see that these two are having a debate.\N{\rChinese}这幅图最妙之处在于你能看到这两人正在辩论。
+Dialogue: 0,0:34:17.72,0:34:20.28,English,,0,0,0,,So first thing is Plato is pointing upwards.\N{\rChinese}首先，柏拉图指向上方。
+Dialogue: 0,0:34:20.68,0:34:24.92,English,,0,0,0,,What he's saying is the real world, what matters is heaven.\N{\rChinese}他所说的是实在世界，重要的是天界。
+Dialogue: 0,0:34:25.36,0:34:30.16,English,,0,0,0,,And what Aristotle is saying, no, what matters is down here on earth.\N{\rChinese}阿里士多德所说的，呃，重要的是这儿地球上的事。
+Dialogue: 0,0:34:31.74,0:34:36.24,English,,0,0,0,,Aristotle is concerned about earthly matters.\N{\rChinese}阿里士多德关注的是地球上的事务。
+Dialogue: 0,0:34:36.24,0:34:40.32,English,,0,0,0,,Also, look at their colors.\N{\rChinese}另外，看看他们的颜色。
+Dialogue: 0,0:34:40.64,0:34:44.02,English,,0,0,0,,So Plato is wearing white\N{\rChinese}于是柏拉图穿着白色。
+Dialogue: 0,0:34:44.02,0:34:46.08,English,,0,0,0,,and red.\N{\rChinese}白色象征空气，红色象征火焰。
+Dialogue: 0,0:34:46.24,0:34:49.90,English,,0,0,0,,White symbolizes air, red symbolizes fire, right?\N{\rChinese}白色象征空气，红色象征火焰。
+Dialogue: 0,0:34:50.08,0:34:52.68,English,,0,0,0,,These are spiritual colors.\N{\rChinese}这些是灵性颜色。
+Dialogue: 0,0:34:53.61,0:34:57.84,English,,0,0,0,,But Aristotle is wearing blue, which signifies water.\N{\rChinese}而阿里士多德穿着蓝色，象征水。
+Dialogue: 0,0:34:58.65,0:35:01.80,English,,0,0,0,,And then he's also wearing brown, which signifies the earth.\N{\rChinese}随后他又穿着棕色，象征土。
+Dialogue: 0,0:35:02.38,0:35:05.84,English,,0,0,0,,Okay? So they're having this debate.\N{\rChinese}好的？所以他们正在讨论这个问题。
+Dialogue: 0,0:35:06.24,0:35:08.86,English,,0,0,0,,And this debate is, as we discussed previously,\N{\rChinese}而这场辩论，正如我们之前所说，是西方哲学今日辩论的根基。
+Dialogue: 0,0:35:09.04,0:35:13.24,English,,0,0,0,,it is what underpins the debate within Western philosophy even today.\N{\rChinese}它正是我们之前讨论过的，是西方哲学今日辩论的根基。
+Dialogue: 0,0:35:14.96,0:35:18.30,English,,0,0,0,,Okay? Now, what's amazing is\N{\rChinese}好吧？现在，令人惊讶的是
+Dialogue: 0,0:35:18.30,0:35:21.42,English,,0,0,0,,that as the two are walking, all right,\N{\rChinese}当两人行走时，一切顺利
+Dialogue: 0,0:35:21.56,0:35:24.08,English,,0,0,0,,they're splitting the world into two, right?\N{\rChinese}他们把世界分成两部分，对吧？
+Dialogue: 0,0:35:24.32,0:35:27.78,English,,0,0,0,,There are those philosophers who support Aristotle\N{\rChinese}有些哲学家支持亚里士多德
+Dialogue: 0,0:35:27.78,0:35:30.30,English,,0,0,0,,and they focus on earthly matters.\N{\rChinese}他们聚焦于尘世事务。
+Dialogue: 0,0:35:30.56,0:35:33.00,English,,0,0,0,,And then there are people who support Plato who\N{\rChinese}随后还有支持柏拉图的人们。
+Dialogue: 0,0:35:33.00,0:35:36.22,English,,0,0,0,,focus on spiritual matters, on discovering the secrets.\N{\rChinese}聚焦于灵性事务，探寻奥秘。
+Dialogue: 0,0:35:36.24,0:35:39.12,English,,0,0,0,,And then there are people who support Aristotle who focus on the secrets of the universe. All right?\N{\rChinese}随后还有支持亚里士多德的人，他们聚焦于宇宙奥秘。
+Dialogue: 0,0:35:39.16,0:35:42.32,English,,0,0,0,,Aristotle is concerned about everyday science,\N{\rChinese}亚里士多德关注日常科学，
+Dialogue: 0,0:35:42.40,0:35:44.38,English,,0,0,0,,on uncovering the secrets of a reality.\N{\rChinese}揭示现实奥秘。
+Dialogue: 0,0:35:45.60,0:35:47.08,English,,0,0,0,,Okay? So they're splitting the two.\N{\rChinese}好的？他们把两者分开了。
+Dialogue: 0,0:35:47.40,0:35:52.10,English,,0,0,0,,And as you can see, there is depth to this painting.\N{\rChinese}正如你所见，这幅画有深度。
+Dialogue: 0,0:35:52.36,0:35:54.22,English,,0,0,0,,Okay? There's a sky to the back.\N{\rChinese}好的？天空在后面。
+Dialogue: 0,0:35:54.26,0:35:57.26,English,,0,0,0,,There are these arches. And so it's extending forward.\N{\rChinese}有这些拱门，画面向前延伸。
+Dialogue: 0,0:35:57.54,0:36:00.66,English,,0,0,0,,And so we're being drawn into the picture.\N{\rChinese}于是我们被拉进画中。
+Dialogue: 0,0:36:00.78,0:36:03.54,English,,0,0,0,,That's the power of depth and perception.\N{\rChinese}深度与感知的力量就在这里。
+Dialogue: 0,0:36:05.66,0:36:09.48,English,,0,0,0,,Okay? This is Pythagoras.\N{\rChinese}好吧？这就是毕达哥拉斯。
+Dialogue: 0,0:36:09.64,0:36:12.68,English,,0,0,0,,You will know him from Pythagoras' theorem.\N{\rChinese}你会从毕达哥拉斯定理认识他。
+Dialogue: 0,0:36:12.88,0:36:14.78,English,,0,0,0,,But he's first and foremost a spiritualist.\N{\rChinese}他首先是个灵性主义者。
+Dialogue: 0,0:36:14.84,0:36:16.08,English,,0,0,0,,He's concerned about mysticism.\N{\rChinese}他关注的是神秘主义。
+Dialogue: 0,0:36:16.30,0:36:19.00,English,,0,0,0,,He's concerned about God.\N{\rChinese}他关注的是上帝。
+Dialogue: 0,0:36:19.68,0:36:23.82,English,,0,0,0,,This is Euclid, okay, who is one of the inventors of geometry.\N{\rChinese}这是欧几里得，好吗，他是几何学的发明之一。
+Dialogue: 0,0:36:24.98,0:36:28.58,English,,0,0,0,,All right? And here he's focused on using science,\N{\rChinese}好的？他专注于用科学，
+Dialogue: 0,0:36:28.66,0:36:32.38,English,,0,0,0,,using logic, using deduction to teach his students.\N{\rChinese}用逻辑，用演绎来教他的学生。
+Dialogue: 0,0:36:34.28,0:36:35.72,English,,0,0,0,,You also have...\N{\rChinese}你也有……
+Dialogue: 0,0:36:35.72,0:36:38.20,English,,0,0,0,,Okay? In the picture, many different personalities.\N{\rChinese}好的？在图中，出现了许多不同的人物。
+Dialogue: 0,0:36:38.48,0:36:42.48,English,,0,0,0,,You have Zoroaster, who is the founder of Zoroastrianism,\N{\rChinese}你有祁罗阿斯特，祁罗阿斯特是祁罗阿斯特教的创始人，
+Dialogue: 0,0:36:42.50,0:36:44.10,English,,0,0,0,,okay, the religion of Persia.\N{\rChinese}好的，波斯的宗教。
+Dialogue: 0,0:36:44.22,0:36:45.84,English,,0,0,0,,You have Ptolemy, who\N{\rChinese}你有托勒密，他
+Dialogue: 0,0:36:45.84,0:36:49.70,English,,0,0,0,,investigated how the planets move.\N{\rChinese}研究行星如何运行。
+Dialogue: 0,0:36:49.96,0:36:53.12,English,,0,0,0,,All right? And as you can see, Zoroaster...\N{\rChinese}好的？你看见了吗，祁罗阿斯特……
+Dialogue: 0,0:36:53.12,0:36:54.42,English,,0,0,0,,Can you see this picture clearly?\N{\rChinese}你能清楚地看到这幅图吗？
+Dialogue: 0,0:36:54.60,0:36:58.46,English,,0,0,0,,Okay. This is more clear. Zoroaster is concerned with the heavens,\N{\rChinese}好的。这样更清晰。祁罗阿斯特关注的是天空，
+Dialogue: 0,0:36:58.66,0:37:02.72,English,,0,0,0,,with spiritual matters. Ptolemy is concerned with the earth,\N{\rChinese}托勒密关注的是大地。
+Dialogue: 0,0:37:02.92,0:37:04.26,English,,0,0,0,,with all reality.\N{\rChinese}与所有现实相连。
+Dialogue: 0,0:37:04.86,0:37:07.84,English,,0,0,0,,All right? So this is Raphael acknowledging\N{\rChinese}好吧？这就是拉斐尔的自画像。
+Dialogue: 0,0:37:07.84,0:37:09.82,English,,0,0,0,,that there are two different realities.\N{\rChinese}有两种不同的现实。
+Dialogue: 0,0:37:10.10,0:37:14.54,English,,0,0,0,,There's the material reality, but then there's also a spiritual reality, and they're both important.\N{\rChinese}有物质现实，也有精神现实，两者都重要。
+Dialogue: 0,0:37:14.84,0:37:19.20,English,,0,0,0,,All right? Now, what's amazing here is that Raphael...\N{\rChinese}现在，令人惊奇的是拉斐尔……
+Dialogue: 0,0:37:19.20,0:37:21.68,English,,0,0,0,,This is Raphael, actually. This is a self -portrait of Raphael.\N{\rChinese}这就是拉斐尔，实际上。是拉斐尔的自画像。
+Dialogue: 0,0:37:21.74,0:37:25.70,English,,0,0,0,,He will actually engage in the conversation.\N{\rChinese}他会真正参与对话。
+Dialogue: 0,0:37:26.02,0:37:29.76,English,,0,0,0,,He will listen in. He will insert himself in the painting.\N{\rChinese}他会倾听，并把自己插入画中。
+Dialogue: 0,0:37:30.08,0:37:32.16,English,,0,0,0,,Okay? Now, remember that\N{\rChinese}好的？现在，记住那点。
+Dialogue: 0,0:37:32.16,0:37:36.22,English,,0,0,0,,Christianity focuses on the idea of humility, on self -negation, on removing the negative.\N{\rChinese}基督教聚焦于谦逊的观念，关于自我否定，去除负面。
+Dialogue: 0,0:37:36.22,0:37:38.70,English,,0,0,0,,So, you're removing yourself from the world.\N{\rChinese}于是，你把自己从世界里去掉。
+Dialogue: 0,0:37:38.84,0:37:41.88,English,,0,0,0,,But Raphael is reinserting himself into the world and\N{\rChinese}但拉斐尔把自己重新投入世界，并且
+Dialogue: 0,0:37:41.88,0:37:45.18,English,,0,0,0,,celebrating his curiosity, celebrating his humanity.\N{\rChinese}庆祝他的好奇心，庆祝他的人性。
+Dialogue: 0,0:37:46.18,0:37:48.86,English,,0,0,0,,Okay? And where does he get this idea from?\N{\rChinese}好了？他从哪里得到这个想法？
+Dialogue: 0,0:37:49.00,0:37:50.62,English,,0,0,0,,From Dante. Right?\N{\rChinese}来自但丁。对吗？
+Dialogue: 0,0:37:50.84,0:37:55.22,English,,0,0,0,,Because Dante makes himself the hero of divine comedy.\N{\rChinese}因为但丁把自己塑造成神剧的主角。
+Dialogue: 0,0:37:55.40,0:37:58.18,English,,0,0,0,,He makes himself the focus of the divine comedy.\N{\rChinese}他把自己定位为神剧的焦点。
+Dialogue: 0,0:37:58.90,0:38:03.98,English,,0,0,0,,And to go back to the conversation between Plato\N{\rChinese}回到柏拉图与亚里士多德的对话…
+Dialogue: 0,0:38:03.98,0:38:05.22,English,,0,0,0,,and Aristotle...\N{\rChinese}看这个，好的？这是一幅神剧的视觉呈现。
+Dialogue: 0,0:38:05.82,0:38:10.98,English,,0,0,0,,Look at this, okay? This is a visual representation of the divine comedy.\N{\rChinese}Look at this, okay? This is a visualrepresentation of the divine comedy.
+Dialogue: 0,0:38:11.22,0:38:13.92,English,,0,0,0,,Because remember, in the divine comedy, Virgil and\N{\rChinese}因为记得，神剧里维吉尔和但丁正激烈辩论爱情的本质，以及罪的本性。
+Dialogue: 0,0:38:13.92,0:38:18.74,English,,0,0,0,,Dante are engaged in a vigorous debate about the nature of love,\N{\rChinese}维吉尔和但丁正激烈辩论爱情的本质，以及罪的本性。
+Dialogue: 0,0:38:18.96,0:38:20.74,English,,0,0,0,,the nature of sin. Right?\N{\rChinese}维吉尔和但丁正激烈辩论爱情的本质，以及罪的本性。
+Dialogue: 0,0:38:21.62,0:38:24.76,English,,0,0,0,,Okay? So, this is representing the divine comedy.\N{\rChinese}好的？这就是神剧的再现。
+Dialogue: 0,0:38:24.98,0:38:27.66,English,,0,0,0,,The structure is the same as the divine comedy. They're also,\N{\rChinese}结构与神剧相同。他们也在……
+Dialogue: 0,0:38:27.72,0:38:33.38,English,,0,0,0,,as they walk from inferno to purgatory,\N{\rChinese}他们从地狱走向炼狱，
+Dialogue: 0,0:38:33.60,0:38:35.20,English,,0,0,0,,they're also talking to others.\N{\rChinese}他们也在跟别人说话。
+Dialogue: 0,0:38:35.20,0:38:37.36,English,,0,0,0,,They're talking to other historical figures as well.\N{\rChinese}他们也在跟其他历史人物说话。
+Dialogue: 0,0:38:37.84,0:38:41.78,English,,0,0,0,,All right? So, this is directly inspired by Dante.\N{\rChinese}好了？这直接受但丁启发。
+Dialogue: 0,0:38:43.46,0:38:45.34,English,,0,0,0,,Does it make sense to you guys? Okay?\N{\rChinese}这对你们来说有意义吗？好吧？
+Dialogue: 0,0:38:51.40,0:38:52.80,English,,0,0,0,,Okay, so this is Raphael.\N{\rChinese}好的，那就是拉斐尔。
+Dialogue: 0,0:38:52.96,0:38:56.00,English,,0,0,0,,Okay? So, not only does Raphael insert himself into the picture,\N{\rChinese}好的？所以拉斐尔不仅把自己插进画面。
+Dialogue: 0,0:38:56.12,0:38:58.26,English,,0,0,0,,he also inserts his friend, Michelangelo.\N{\rChinese}他也把朋友米开朗佐插进画面。
+Dialogue: 0,0:38:58.34,0:39:00.02,English,,0,0,0,,Okay? This is Michelangelo.\N{\rChinese}好的？这就是米开朗佐。
+Dialogue: 0,0:39:00.54,0:39:02.48,English,,0,0,0,,Michelangelo is known for being reclusive.\N{\rChinese}米开朗佐以独居著称。
+Dialogue: 0,0:39:02.48,0:39:06.88,English,,0,0,0,,He's known for not enjoying the company of others.\N{\rChinese}他以不喜他人相伴而闻名。
+Dialogue: 0,0:39:07.38,0:39:10.94,English,,0,0,0,,And Michelangelo here, he's conflated with another historical figure,\N{\rChinese}而米开朗佐在此与另一历史人物合并，
+Dialogue: 0,0:39:11.14,0:39:13.44,English,,0,0,0,,a philosopher named Heraclitus, who\N{\rChinese}一位名为赫拉克利特斯的哲学家，
+Dialogue: 0,0:39:13.44,0:39:17.60,English,,0,0,0,,is also known for not enjoying the company of others.\N{\rChinese}他也以不喜他人相伴而闻名。
+Dialogue: 0,0:39:18.18,0:39:22.76,English,,0,0,0,,Okay? So, this picture just shows you the immense diversity of human thought\N{\rChinese}好的吗？这幅画只展示了人类思维与个性之大异。
+Dialogue: 0,0:39:22.76,0:39:27.72,English,,0,0,0,,and human personality. It's a subversion of what it means to be human.\N{\rChinese}它是对人类意义的再颠覆。
+Dialogue: 0,0:39:27.84,0:39:31.32,English,,0,0,0,,Okay? So, these paintings leave us with a fundamental question.\N{\rChinese}好的？所以，这些画作给我们留下了一个根本问题。
+Dialogue: 0,0:39:31.86,0:39:37.08,English,,0,0,0,,All right? We can now see the radical differences between Christian art\N{\rChinese}好了？我们现在可以看到基督教艺术与文艺复兴艺术之间的根本差异。
+Dialogue: 0,0:39:37.08,0:39:38.60,English,,0,0,0,,and Renaissance art.\N{\rChinese}好了？我们现在可以看到基督教艺术与文艺复兴艺术之间的根本差异。
+Dialogue: 0,0:39:38.98,0:39:40.18,English,,0,0,0,,So, another question then is,\N{\rChinese}于是，接下来又有一个问题，
+Dialogue: 0,0:39:40.42,0:39:46.18,English,,0,0,0,,how did Dante spark the confident self -exploration\N{\rChinese}但丁那是怎样点燃自信探索的？
+Dialogue: 0,0:39:46.18,0:39:49.02,English,,0,0,0,,and triumphant self -expression of the Renaissance?\N{\rChinese}以及文艺复兴的自信表达？
+Dialogue: 0,0:39:49.68,0:39:51.46,English,,0,0,0,,If you look at the art, it is confident.\N{\rChinese}如果你看艺术，它是自信的。
+Dialogue: 0,0:39:52.36,0:39:53.62,English,,0,0,0,,It is triumphant.\N{\rChinese}它是辉煌的。
+Dialogue: 0,0:39:53.82,0:39:55.48,English,,0,0,0,,Okay? It's celebrating what it means to be human.\N{\rChinese}好了？它在庆祝人类的意义。
+Dialogue: 0,0:39:56.24,0:39:59.14,English,,0,0,0,,And what I will show you now is, what he will do is,\N{\rChinese}接下来，我要给你们展示的，就是他将要做的事，
+Dialogue: 0,0:39:59.30,0:40:02.46,English,,0,0,0,,he will reimagine our relationship with the Renaissance.\N{\rChinese}他将重新想象我们与文艺复兴的关系。
+Dialogue: 0,0:40:02.48,0:40:07.08,English,,0,0,0,,He will reimagine our relationship with God, which is the fundamental question of Europe at this time.\N{\rChinese}他将重新想象我们与上帝的关系，这正是当时欧洲的根本问题。
+Dialogue: 0,0:40:07.34,0:40:09.40,English,,0,0,0,,Okay. So, most people,\N{\rChinese}好了。于是，大多数人，
+Dialogue: 0,0:40:09.42,0:40:13.54,English,,0,0,0,,they're grappling with three major questions, especially intellectuals.\N{\rChinese}他们正在思考三个主要问题，尤其是知识分子。
+Dialogue: 0,0:40:14.14,0:40:16.62,English,,0,0,0,,The first question is, what is God?\N{\rChinese}第一个问题是，神是什么？
+Dialogue: 0,0:40:16.94,0:40:18.42,English,,0,0,0,,Okay? What is the idea?\N{\rChinese}好的？想法是什么？
+Dialogue: 0,0:40:18.60,0:40:20.20,English,,0,0,0,,What is the nature of God?\N{\rChinese}上帝的本性是什么？
+Dialogue: 0,0:40:20.46,0:40:24.88,English,,0,0,0,,The second question is, what is the nature of the relationship between God\N{\rChinese}第二个问题是，上帝与人之间关系的本性是什么？
+Dialogue: 0,0:40:24.88,0:40:26.74,English,,0,0,0,,and humans? What did God create us?\N{\rChinese}以及人类？上帝创造了我们？
+Dialogue: 0,0:40:26.86,0:40:29.48,English,,0,0,0,,What is our responsibility to God?\N{\rChinese}我们对上帝的责任是什么？
+Dialogue: 0,0:40:29.64,0:40:32.46,English,,0,0,0,,Okay? And the last question is, how can we best understand God?\N{\rChinese}好了？最后一个问题是，怎样才能最好地理解上帝？
+Dialogue: 0,0:40:32.46,0:40:36.32,English,,0,0,0,,How can we best worship God? Meaning, how can we best ensure our divinity?\N{\rChinese}我们怎样最好地敬拜上帝？也就是怎样最好地保证我们的神性？
+Dialogue: 0,0:40:36.54,0:40:39.76,English,,0,0,0,,How can we best ensure that we will rise to heaven?\N{\rChinese}我们怎样最好地保证自己能升天？
+Dialogue: 0,0:40:40.32,0:40:46.04,English,,0,0,0,,Alright? So, these are the three fundamental questions underlying Christian society at this point.\N{\rChinese}好了？所以，这就是在此时点基督教社会的三大基本问题。
+Dialogue: 0,0:40:46.62,0:40:47.88,English,,0,0,0,,Alright? So,\N{\rChinese}好了？所以，
+Dialogue: 0,0:40:48.00,0:40:52.86,English,,0,0,0,,you can take these three questions\N{\rChinese}你可以把这三个问题合并成一个问题，真的，就是为什么耶稣必须去死？
+Dialogue: 0,0:40:52.86,0:40:57.44,English,,0,0,0,,and just ask one question, really, which is, why did Jesus have to die?\N{\rChinese}and just ask one question, really,which is, why did Jesus have to die?
+Dialogue: 0,0:40:58.20,0:40:59.44,English,,0,0,0,,Why was Jesus crucified?\N{\rChinese}耶稣为何被钉十字架？
+Dialogue: 0,0:40:59.96,0:41:02.34,English,,0,0,0,,Okay? This is the crucification.\N{\rChinese}好？这就是钉十字架的情形。
+Dialogue: 0,0:41:02.72,0:41:07.22,English,,0,0,0,,Okay? Why is it that the Son of God, the Messiah, had to die?\N{\rChinese}好？为什么上帝之子，弥赛亚，必须死去？
+Dialogue: 0,0:41:07.86,0:41:12.38,English,,0,0,0,,And this idea was first understood\N{\rChinese}并且这个想法最先被理解
+Dialogue: 0,0:41:12.38,0:41:14.82,English,,0,0,0,,and discussed by Paul.\N{\rChinese}并且被讨论
+Dialogue: 0,0:41:15.00,0:41:16.82,English,,0,0,0,,Okay? And Paul's idea is this.\N{\rChinese}好？而保罗的想法就是这样
+Dialogue: 0,0:41:18.18,0:41:20.80,English,,0,0,0,,God created us and gave us paradise.\N{\rChinese}上帝造我们并赐给我们乐园。
+Dialogue: 0,0:41:21.08,0:41:24.08,English,,0,0,0,,Okay? This is Adam and Eve in the Garden of Eden.\N{\rChinese}好？这就是亚当与夏娃在伊甸园。
+Dialogue: 0,0:41:24.22,0:41:27.06,English,,0,0,0,,But because we were arrogant,\N{\rChinese}但因为我们自大，
+Dialogue: 0,0:41:27.26,0:41:29.92,English,,0,0,0,,because we were proud, we wanted to become God,\N{\rChinese}因为我们自大，想成为上帝
+Dialogue: 0,0:41:30.20,0:41:33.68,English,,0,0,0,,we wanted to eat that food from the Tree of Knowledge,\N{\rChinese}我们想吃那树上的果实
+Dialogue: 0,0:41:33.80,0:41:36.10,English,,0,0,0,,which would make us like God.\N{\rChinese}让我们像上帝一样
+Dialogue: 0,0:41:36.32,0:41:39.74,English,,0,0,0,,And because we disobeyed God, God had no choice\N{\rChinese}因为我们不顺从上帝，上帝无奈只好把我们赶出伊甸园。
+Dialogue: 0,0:41:39.74,0:41:44.32,English,,0,0,0,,but to banish us from the Garden of Eden.\N{\rChinese}好？于是如此。
+Dialogue: 0,0:41:44.46,0:41:46.36,English,,0,0,0,,Okay? And so,\N{\rChinese}Okay? And so,
+Dialogue: 0,0:41:46.42,0:41:49.98,English,,0,0,0,,why did Jesus have to come to earth and sacrifice himself?\N{\rChinese}为什么耶稣必须来到人间并自我牺？
+Dialogue: 0,0:41:51.84,0:41:54.78,English,,0,0,0,,Because without God,\N{\rChinese}因为没有上帝，我们人类只能犯下更多的罪。
+Dialogue: 0,0:41:55.02,0:41:57.54,English,,0,0,0,,we humans can only commit more and more sin.\N{\rChinese}we humans can only commit more and more sin.
+Dialogue: 0,0:41:57.78,0:42:00.30,English,,0,0,0,,Okay? So to redeem us and\N{\rChinese}好的？于是为赎回我们并
+Dialogue: 0,0:42:00.30,0:42:03.54,English,,0,0,0,,to beg for forgiveness from God,\N{\rChinese}向上帝求赎罪
+Dialogue: 0,0:42:03.72,0:42:06.28,English,,0,0,0,,Jesus came down and sacrificed himself.\N{\rChinese}耶稣降临并自我牺。
+Dialogue: 0,0:42:06.90,0:42:11.34,English,,0,0,0,,Okay? And his sacrifice made God relent\N{\rChinese}好的？他的牺让上帝动容。
+Dialogue: 0,0:42:11.34,0:42:14.28,English,,0,0,0,,and forgive us. And so\N{\rChinese}并赦免我们。于是我们已被洗净，重新开始。
+Dialogue: 0,0:42:14.28,0:42:18.66,English,,0,0,0,,now we are cleansed of our sins and now we can begin anew.\N{\rChinese}现在我们已被洗净，重新开始。
+Dialogue: 0,0:42:18.76,0:42:21.78,English,,0,0,0,,Right? That's the idea that Paul is presenting.\N{\rChinese}对吧？这就是保罗所阐述的观点。
+Dialogue: 0,0:42:21.92,0:42:25.06,English,,0,0,0,,Why Jesus is the Messiah and why he had to kill himself.\N{\rChinese}为什么耶稣是弥赛亚，以及他为何要自我牺。
+Dialogue: 0,0:42:25.06,0:42:27.34,English,,0,0,0,,The problem though\N{\rChinese}问题在于
+Dialogue: 0,0:42:27.34,0:42:30.50,English,,0,0,0,,is as Christianity grows and grows,\N{\rChinese}随着基督教不断发展
+Dialogue: 0,0:42:30.96,0:42:34.04,English,,0,0,0,,the divinity of Christ, the divinity of Jesus expands.\N{\rChinese}基督的神性，耶稣的神性得以扩展。
+Dialogue: 0,0:42:34.62,0:42:38.96,English,,0,0,0,,Before he was just a human who was favored by God.\N{\rChinese}在此之前，他只是被上帝青睦的凡人。
+Dialogue: 0,0:42:39.12,0:42:42.76,English,,0,0,0,,Then he became the son of God. But by the time of a man named Tertullian,\N{\rChinese}然后他成为了上帝之子。到提图利安那位约二世纪的人出现时，
+Dialogue: 0,0:42:42.90,0:42:45.08,English,,0,0,0,,who lived about the second century,\N{\rChinese}他生活在约二世纪
+Dialogue: 0,0:42:45.30,0:42:48.06,English,,0,0,0,,he argued for the Holy Trinity, which is that\N{\rChinese}他为圣三位一体论辩护，
+Dialogue: 0,0:42:48.06,0:42:52.36,English,,0,0,0,,God, Jesus, and the Holy Spirit are separate but equal.\N{\rChinese}上帝、耶稣与圣灵是分离而平等的。
+Dialogue: 0,0:42:52.56,0:42:53.90,English,,0,0,0,,Jesus is God.\N{\rChinese}耶稣就是上帝。
+Dialogue: 0,0:42:54.44,0:42:56.32,English,,0,0,0,,Okay? Now you have a problem now.\N{\rChinese}好了？现在你有个问题了。
+Dialogue: 0,0:42:56.50,0:42:58.00,English,,0,0,0,,If Jesus is truly God,\N{\rChinese}如果耶稣真是上帝，那上帝为什么要自杀？
+Dialogue: 0,0:42:58.44,0:43:00.26,English,,0,0,0,,then why did God have to kill himself?\N{\rChinese}我们可以理解耶稣是上帝之子。
+Dialogue: 0,0:43:00.62,0:43:03.04,English,,0,0,0,,We can understand if Jesus is a son of God,\N{\rChinese}如果耶稣真是上帝，那上帝为什么要自杀？
+Dialogue: 0,0:43:03.26,0:43:07.70,English,,0,0,0,,Jesus kills himself to beg for his father's forgiveness.\N{\rChinese}耶稣自杀是为了向父亲求赎罪。
+Dialogue: 0,0:43:07.90,0:43:09.14,English,,0,0,0,,That makes sense. All right?\N{\rChinese}这有道理。好吗？
+Dialogue: 0,0:43:09.42,0:43:10.98,English,,0,0,0,,But if Jesus is God,\N{\rChinese}但若耶稣是上帝，
+Dialogue: 0,0:43:11.34,0:43:13.44,English,,0,0,0,,then why did he have to kill himself?\N{\rChinese}那他为什么要自杀？
+Dialogue: 0,0:43:13.64,0:43:16.30,English,,0,0,0,,Okay? This is now causing a lot of confusion.\N{\rChinese}好？这现在造成了很多混乱。
+Dialogue: 0,0:43:16.66,0:43:19.44,English,,0,0,0,,So another Christian theologian by the name of Origen.\N{\rChinese}于是又有一位名叫奥利根的基督教神学家。
+Dialogue: 0,0:43:20.78,0:43:22.58,English,,0,0,0,,Okay, so this is the Trinity, right?\N{\rChinese}好的，这就是三位一体，对吧？
+Dialogue: 0,0:43:23.20,0:43:24.50,English,,0,0,0,,By the name Origen,\N{\rChinese}名叫奥利根
+Dialogue: 0,0:43:24.74,0:43:28.58,English,,0,0,0,,his explanation is something called the Ransom Theory.\N{\rChinese}他的解释叫赎价理论
+Dialogue: 0,0:43:29.18,0:43:30.56,English,,0,0,0,,All right? And the theory goes like this.\N{\rChinese}好的？理论是这样说的。
+Dialogue: 0,0:43:32.26,0:43:35.98,English,,0,0,0,,When we were cast off from the Garden of Eden,\N{\rChinese}当我们离开伊甸园时，
+Dialogue: 0,0:43:36.14,0:43:40.60,English,,0,0,0,,we became subject to Satan, the devil.\N{\rChinese}我们就沦为撒旦的奴仆。
+Dialogue: 0,0:43:40.72,0:43:43.04,English,,0,0,0,,We became slaves to the devil.\N{\rChinese}我们沦为撒旦的奴仆。
+Dialogue: 0,0:43:43.18,0:43:47.72,English,,0,0,0,,Remember, it was Satan, the devil, who tempted Eve to eat that fruit, right?\N{\rChinese}记得是撒旦，那个魔鬼，诱惑夏娃吃那果子，对吧？
+Dialogue: 0,0:43:48.08,0:43:52.04,English,,0,0,0,,And when she ate that fruit, she now swears allegiance to the devil.\N{\rChinese}当她吃下那果子后，她就宣誓效忠于魔鬼。
+Dialogue: 0,0:43:52.04,0:43:55.06,English,,0,0,0,,We are now slaves to the devil.\N{\rChinese}我们现在沦为魔鬼的奴仆。
+Dialogue: 0,0:43:55.12,0:43:56.58,English,,0,0,0,,We are now his property. So\N{\rChinese}我们现在是他的财产。于是
+Dialogue: 0,0:43:56.58,0:44:02.52,English,,0,0,0,,the only way for God to redeem us is by ransoming us from Satan,\N{\rChinese}只有上帝才能把我们从撒旦手中赎回。
+Dialogue: 0,0:44:02.66,0:44:05.82,English,,0,0,0,,by offering something so valuable that\N{\rChinese}通过提供极其珍贵的东西，萨塔恩才愿意交易，没错？
+Dialogue: 0,0:44:05.82,0:44:08.50,English,,0,0,0,,Satan is willing to make a trade, right?\N{\rChinese}于是上帝提供了什么？
+Dialogue: 0,0:44:08.70,0:44:09.90,English,,0,0,0,,So what did God offer?\N{\rChinese}So what did Godoffer?
+Dialogue: 0,0:44:10.02,0:44:11.38,English,,0,0,0,,God offered his life.\N{\rChinese}上帝献上了自己的生命。
+Dialogue: 0,0:44:12.76,0:44:16.66,English,,0,0,0,,The trick though is that God cannot be killed\N{\rChinese}关键在于，上帝是不可被杀死的。
+Dialogue: 0,0:44:16.66,0:44:18.62,English,,0,0,0,,because God is eternal and perfect.\N{\rChinese}因为上帝是永恒且完美的。
+Dialogue: 0,0:44:18.74,0:44:20.34,English,,0,0,0,,So God tricked Satan.\N{\rChinese}于是上帝把萨塔恩骗了过去。
+Dialogue: 0,0:44:20.52,0:44:22.02,English,,0,0,0,,But what's really important is that God is eternal.\N{\rChinese}关键在于，上帝是永恒的。
+Dialogue: 0,0:44:22.04,0:44:25.42,English,,0,0,0,,So what we want to understand is this. Before, we were slaves to Satan.\N{\rChinese}所以我们要理解的是：之前我们是萨塔恩的奴隶。
+Dialogue: 0,0:44:25.62,0:44:27.84,English,,0,0,0,,But because God made this trade,\N{\rChinese}因为上帝做了这笔交易，我们现在是上帝的奴隶。
+Dialogue: 0,0:44:28.16,0:44:31.12,English,,0,0,0,,we are now slaves to God.\N{\rChinese}好的？我们现在是上帝的奴隶。
+Dialogue: 0,0:44:31.50,0:44:34.14,English,,0,0,0,,Okay? We are now slaves to God.\N{\rChinese}好的？我们现在是上帝的奴隶。
+Dialogue: 0,0:44:36.32,0:44:39.20,English,,0,0,0,,And this very idea will be expanded\N{\rChinese}并且这点概念将被扩展
+Dialogue: 0,0:44:39.20,0:44:40.10,English,,0,0,0,,and\N{\rChinese}并且
+Dialogue: 0,0:44:40.10,0:44:43.24,English,,0,0,0,,elaborated by Augustine in order to\N{\rChinese}随后由奥古斯丁阐述
+Dialogue: 0,0:44:43.24,0:44:47.24,English,,0,0,0,,create the intellectual blueprint for the Catholic Church, all right?\N{\rChinese}创建了天主教会的知识蓝图，行吗？
+Dialogue: 0,0:44:47.36,0:44:48.84,English,,0,0,0,,This idea of the Ransom Theory.\N{\rChinese}这就是赎价理论的概念。
+Dialogue: 0,0:44:49.08,0:44:51.88,English,,0,0,0,,All right. So remember, it's the City of God.\N{\rChinese}记住，都是《天主之城》里的内容。
+Dialogue: 0,0:44:53.74,0:44:55.32,English,,0,0,0,,Augustine will say certain things.\N{\rChinese}奥古斯丁会说一些话。
+Dialogue: 0,0:44:55.64,0:44:59.14,English,,0,0,0,,It's really important for us to remember what he said in the City of God.\N{\rChinese}我们记住他在《天主之城》里的话很重要。
+Dialogue: 0,0:44:59.38,0:45:03.10,English,,0,0,0,,Okay? The main idea is that because God ransomed us,\N{\rChinese}主旨是因为上帝赎价我们，
+Dialogue: 0,0:45:03.30,0:45:04.54,English,,0,0,0,,we are now his slaves.\N{\rChinese}我们现在是他的奴仆。
+Dialogue: 0,0:45:04.82,0:45:06.70,English,,0,0,0,,And therefore, we must obey him.\N{\rChinese}于是，我们要服从他。
+Dialogue: 0,0:45:06.76,0:45:08.34,English,,0,0,0,,We must submit. All right?\N{\rChinese}我们要投身。
+Dialogue: 0,0:45:08.36,0:45:09.72,English,,0,0,0,,So let's go over what he says.\N{\rChinese}于是我们来回顾他的话。
+Dialogue: 0,0:45:10.12,0:45:13.12,English,,0,0,0,,Augustine. First thing he says is, when\N{\rChinese}奥古斯丁。首先他说的是，当……
+Dialogue: 0,0:45:13.12,0:45:16.80,English,,0,0,0,,man lives by the standard of man, when we trust ourselves, when we use our imagination,\N{\rChinese}人按人定的标准生活时，当我们自信时，当我们用想象时……
+Dialogue: 0,0:45:17.18,0:45:19.26,English,,0,0,0,,when we use our intuition, we are slaves to God.\N{\rChinese}当我们用直觉时，我们是上帝的奴仆。
+Dialogue: 0,0:45:20.14,0:45:22.02,English,,0,0,0,,And not by the standard of God.\N{\rChinese}而不是按上帝的标准。
+Dialogue: 0,0:45:22.14,0:45:24.26,English,,0,0,0,,The standard of God is to submit to him, to obey him.\N{\rChinese}上帝的标准是投身于他，服从他。
+Dialogue: 0,0:45:25.14,0:45:26.44,English,,0,0,0,,He is like the devil.\N{\rChinese}他像魔鬼一样。
+Dialogue: 0,0:45:26.52,0:45:29.30,English,,0,0,0,,Okay? You understand? When we use our imagination, when\N{\rChinese}好了？你明白了吗？当我们用想象时，……
+Dialogue: 0,0:45:29.30,0:45:31.98,English,,0,0,0,,we use our intuition, we are like Satan.\N{\rChinese}当我们用直觉时，我们就像撒旦。
+Dialogue: 0,0:45:33.06,0:45:35.38,English,,0,0,0,,At our core is the essence of Satan.\N{\rChinese}在我们之中，撒旦的本质在于此。
+Dialogue: 0,0:45:35.82,0:45:38.70,English,,0,0,0,,It is only by submitting ourselves to God that\N{\rChinese}只有把自己投身于上帝，才可得脱离撒旦的影响。
+Dialogue: 0,0:45:38.70,0:45:41.62,English,,0,0,0,,we are freed from the influence of Satan.\N{\rChinese}我们得以此为核心，方能摆脱撒旦的影响。
+Dialogue: 0,0:45:41.72,0:45:45.84,English,,0,0,0,,Okay? Could anything but pride happen at the start of the evil will?\N{\rChinese}好了？除了自负，邪意的起点还能有别的原因吗？
+Dialogue: 0,0:45:45.92,0:45:47.18,English,,0,0,0,,Why did we disobey God?\N{\rChinese}我们为何不听从上帝？
+Dialogue: 0,0:45:47.48,0:45:49.84,English,,0,0,0,,Why did we eat that fruit? Because we want to become God.\N{\rChinese}我们为何吃那果子？因为我们想成上帝。
+Dialogue: 0,0:45:50.14,0:45:53.80,English,,0,0,0,,So there's an arrogance. There's a pride to us\N{\rChinese}于是出现了傲慢。我们有一种自负
+Dialogue: 0,0:45:53.80,0:45:55.66,English,,0,0,0,,that is the essence of Satan.\N{\rChinese}那是撒旦的本质
+Dialogue: 0,0:45:55.96,0:45:58.76,English,,0,0,0,,Okay? Satan fell from heaven because of his pride.\N{\rChinese}好了？撒旦因自负而坠落天宫。
+Dialogue: 0,0:45:59.24,0:46:01.50,English,,0,0,0,,If we just trust our nature,\N{\rChinese}如果我们只信赖本性，我们也会像撒旦一样堕落。
+Dialogue: 0,0:46:01.72,0:46:04.30,English,,0,0,0,,we will also fall like Satan.\N{\rChinese}他的罪过是轻微的过失。
+Dialogue: 0,0:46:05.80,0:46:08.20,English,,0,0,0,,His was a venial transgression when\N{\rChinese}他离不开他的伴侣，即使这离去伴随是罪。
+Dialogue: 0,0:46:08.20,0:46:11.20,English,,0,0,0,,he refused to desert his life's companion, even though\N{\rChinese}他不肯离开生命伴侣，虽说这离开是与罪同行的伴随。
+Dialogue: 0,0:46:11.20,0:46:13.04,English,,0,0,0,,the refusal entailed companionship in sin.\N{\rChinese}伊凡被魔鬼诱惑。
+Dialogue: 0,0:46:13.36,0:46:16.62,English,,0,0,0,,Eve was tempted by the devil.\N{\rChinese}Eve was temptedby the devil.
+Dialogue: 0,0:46:17.36,0:46:20.78,English,,0,0,0,,But Adam ate the fruit\N{\rChinese}但亚当吃了果实
+Dialogue: 0,0:46:20.78,0:46:22.50,English,,0,0,0,,because of his love for Eve.\N{\rChinese}因为他爱以挽。
+Dialogue: 0,0:46:23.10,0:46:27.54,English,,0,0,0,,Therefore, love can only misguide you.\N{\rChinese}于是，爱只会误导你。
+Dialogue: 0,0:46:27.62,0:46:29.46,English,,0,0,0,,Love can only trick you.\N{\rChinese}爱只会把你骗过去。
+Dialogue: 0,0:46:29.68,0:46:33.74,English,,0,0,0,,Love can only lead you to an evil path.\N{\rChinese}爱只会把你引向一条坏路。
+Dialogue: 0,0:46:34.12,0:46:35.48,English,,0,0,0,,Okay? Do not trust your intuition.\N{\rChinese}好？别把自己的直觉当真理。
+Dialogue: 0,0:46:35.66,0:46:37.70,English,,0,0,0,,Do not trust your imagination. But most importantly,\N{\rChinese}别把想象当真理。最重要的是，
+Dialogue: 0,0:46:37.90,0:46:42.38,English,,0,0,0,,do not trust your love of others, especially women.\N{\rChinese}别把对别人的爱当真理，尤其是对女人的爱。
+Dialogue: 0,0:46:42.60,0:46:46.60,English,,0,0,0,,Okay? The will derives its existence as an image of God.\N{\rChinese}好的？意志的存在是作为神的形象而产生的。
+Dialogue: 0,0:46:48.28,0:46:51.66,English,,0,0,0,,If God's eyes flee from God's eyes, eyes flee from God's eyes, eyes flee from God's eyes, eyes flee from God's eyes,\N{\rChinese}若神之眼飞离神之眼，眼飞离神之眼，眼飞离神之眼，眼飞离神之眼，
+Dialogue: 0,0:46:51.74,0:46:54.74,English,,0,0,0,,eyes flee from God's eyes, eyes flee from God's eyes, eyes flee from God's eyes, eyes flee from God's eyes,\N{\rChinese}眼飞离神之眼，眼飞离神之眼，眼飞离神之眼，眼飞离神之眼，
+Dialogue: 0,0:46:54.80,0:46:57.90,English,,0,0,0,,eyes flee from God's eyes, eyes flee from God's eyes, eyes flee from God's eyes, eyes flee from God's eyes, eyes flee from God's eyes, eyes flee from God's eyes, eyes flee from God's eyes,\N{\rChinese}眼飞离神之眼，眼飞离神之眼，眼飞离神之眼，眼飞离神之眼，眼飞离神之眼，眼飞离神之眼，眼飞离神之眼，
+Dialogue: 0,0:46:58.38,0:47:01.70,English,,0,0,0,,eyes flee from God's eyes, eyes flee from God's eyes,\N{\rChinese}眼飞离神之眼，眼飞离神之眼，
+Dialogue: 0,0:47:02.12,0:47:03.64,English,,0,0,0,,eyes flee from God's eyes,\N{\rChinese}眼飞离神之眼，
+Dialogue: 0,0:47:04.22,0:47:08.42,English,,0,0,0,,eyes flee from God's eyes, eyes flee from God's eyes,\N{\rChinese}眼飞离神之眼，眼飞离神之眼，
+Dialogue: 0,0:47:08.44,0:47:11.36,English,,0,0,0,,eyes flee from God's eyes,\N{\rChinese}眼飞离神之眼，
+Dialogue: 0,0:47:11.40,0:47:13.88,English,,0,0,0,,eyes flee from God's eyes,\N{\rChinese}眼飞离神之眼，
+Dialogue: 0,0:47:14.16,0:47:17.16,English,,0,0,0,,eyes flee from God's eyes, We must deny who\N{\rChinese}眼飞离神之眼，我们必须否认谁
+Dialogue: 0,0:47:17.16,0:47:21.08,English,,0,0,0,,we are and submit ourselves to the glory that is God.\N{\rChinese}我们是并投身于神的荣耀。
+Dialogue: 0,0:47:21.22,0:47:26.02,English,,0,0,0,,All right? We see the two cities were created by two kinds of love.\N{\rChinese}对吗？我们看到两座城市是由两种爱创造的。
+Dialogue: 0,0:47:26.22,0:47:30.90,English,,0,0,0,,The earthly city was created by self -love, reaching the point of contempt for God.\N{\rChinese}尘世城市是由自爱创造的，达到对神的轻视。
+Dialogue: 0,0:47:31.06,0:47:33.26,English,,0,0,0,,When we love ourselves, we disobey God.\N{\rChinese}当我们爱自己时，便违背上帝。
+Dialogue: 0,0:47:33.52,0:47:36.04,English,,0,0,0,,And that's what explains the world we live in today.\N{\rChinese}这正是我们今天所处世界的由来。
+Dialogue: 0,0:47:36.86,0:47:39.88,English,,0,0,0,,This world is evil because of our pride,\N{\rChinese}这个世界因我们的自负而变得邪恶。
+Dialogue: 0,0:47:40.02,0:47:42.58,English,,0,0,0,,because of our self -love, because of love for others.\N{\rChinese}因为自爱，因对他人的爱。
+Dialogue: 0,0:47:43.84,0:47:48.32,English,,0,0,0,,But the heavenly city, by the love of God, carried as far as contempt of self.\N{\rChinese}而天城则因对上帝的爱，延伸至自我轻视。
+Dialogue: 0,0:47:48.44,0:47:50.50,English,,0,0,0,,When we deny who we are,\N{\rChinese}当我们否认自我时，
+Dialogue: 0,0:47:50.58,0:47:54.88,English,,0,0,0,,when we submit fully to God, we can create a perfect world.\N{\rChinese}当我们完全服从上帝时，便能创造一个完美的世界。
+Dialogue: 0,0:47:54.98,0:47:57.06,English,,0,0,0,,We can achieve heaven. Okay?\N{\rChinese}我们可以达成天堂。好吗？
+Dialogue: 0,0:47:57.38,0:47:58.70,English,,0,0,0,,So, again,\N{\rChinese}于是，再次说……
+Dialogue: 0,0:47:58.86,0:48:04.44,English,,0,0,0,,this is the very idea for the Catholic Church.\N{\rChinese}这正是天主教会的核心理念。
+Dialogue: 0,0:48:04.92,0:48:06.94,English,,0,0,0,,Self -denial, self -negation.\N{\rChinese}自我否认，自我消解。
+Dialogue: 0,0:48:07.50,0:48:11.00,English,,0,0,0,,Okay? Now, you can think about this\N{\rChinese}好了，现在你可以思考这点。
+Dialogue: 0,0:48:11.00,0:48:12.46,English,,0,0,0,,and understand now why.\N{\rChinese}并且现在明白了原因。
+Dialogue: 0,0:48:12.58,0:48:16.22,English,,0,0,0,,Why the Islamic world raced ahead of Europe.\N{\rChinese}为什么伊斯兰世界比欧洲更早起步。
+Dialogue: 0,0:48:16.56,0:48:19.26,English,,0,0,0,,Because in Europe, people were paralyzed.\N{\rChinese}因为在欧洲，人们已陷于停滞。
+Dialogue: 0,0:48:19.64,0:48:21.32,English,,0,0,0,,People were afraid to do anything.\N{\rChinese}人们害怕做任何事。
+Dialogue: 0,0:48:21.50,0:48:23.36,English,,0,0,0,,Because they couldn't really trust themselves.\N{\rChinese}因为他们真没法信自己。
+Dialogue: 0,0:48:25.98,0:48:28.82,English,,0,0,0,,Okay? But eventually,\N{\rChinese}好了，最终呢。
+Dialogue: 0,0:48:29.44,0:48:31.90,English,,0,0,0,,the contrast between the Islamic world and\N{\rChinese}伊斯兰世界与欧洲基督教世界的对比如此之大，
+Dialogue: 0,0:48:31.90,0:48:35.20,English,,0,0,0,,the European Christian world was so great that\N{\rChinese}甚至天主教会也不得不承认，
+Dialogue: 0,0:48:35.20,0:48:37.54,English,,0,0,0,,even the Catholic Church had to admit there\N{\rChinese}……
+Dialogue: 0,0:48:37.54,0:48:41.30,English,,0,0,0,,were problems with the theology of Augustine.\N{\rChinese}[850] 有关于奥古斯丁神学的问题。
+Dialogue: 0,0:48:41.96,0:48:44.92,English,,0,0,0,,Okay? If you ask people to deny who they are\N{\rChinese}[851] 好了？如果让人们否认自己的身份
+Dialogue: 0,0:48:44.92,0:48:48.90,English,,0,0,0,,and to submit themselves completely to the power of the Church,\N{\rChinese}[852] 并完全服从教会的权力
+Dialogue: 0,0:48:49.12,0:48:53.10,English,,0,0,0,,it leads to corruption, stagnation, and inequality.\N{\rChinese}它导致腐败、停滞与不平等。
+Dialogue: 0,0:48:53.98,0:48:55.20,English,,0,0,0,,Okay? So,\N{\rChinese}好啦？于是，
+Dialogue: 0,0:48:55.28,0:48:59.44,English,,0,0,0,,there are some major reforms undertaken by the Church in response to this.\N{\rChinese}教会为应对此作出若干大改革。
+Dialogue: 0,0:49:00.08,0:49:03.36,English,,0,0,0,,One major reform are the creation of the university system.\N{\rChinese}一个重要改革是大学制度的创建。
+Dialogue: 0,0:49:03.74,0:49:07.40,English,,0,0,0,,So, this is the University of Paris, which is chartered in 1200.\N{\rChinese}于是，这就是巴黎大学，成立于1200年。
+Dialogue: 0,0:49:07.78,0:49:09.84,English,,0,0,0,,This today is called the Sorbonne, okay?\N{\rChinese}今天它被称为索邦大学，好的？
+Dialogue: 0,0:49:09.90,0:49:12.22,English,,0,0,0,,Which is the most famous university.\N{\rChinese}最著名的大学。
+Dialogue: 0,0:49:12.58,0:49:16.04,English,,0,0,0,,It's the most famous university in France and in Europe, basically.\N{\rChinese}它是法国和欧洲最著名的大学，基本上。
+Dialogue: 0,0:49:17.86,0:49:22.90,English,,0,0,0,,One of the most famous professors of theology at the University of Paris is Thomas Aquinas.\N{\rChinese}巴黎大学最著名的神学教授之一是托马斯·阿奎那。
+Dialogue: 0,0:49:23.14,0:49:25.86,English,,0,0,0,,And Thomas Aquinas, he's a saint in the Catholic Church.\N{\rChinese}而且托马斯·阿奎那是天主教会的圣人。
+Dialogue: 0,0:49:26.06,0:49:28.08,English,,0,0,0,,His importance is he's trying\N{\rChinese}他的意义在于他正在尝试
+Dialogue: 0,0:49:28.08,0:49:30.92,English,,0,0,0,,to revise Augustine\N{\rChinese}修订奥古斯丁
+Dialogue: 0,0:49:30.92,0:49:35.38,English,,0,0,0,,for a Europe in\N{\rChinese}为欧洲
+Dialogue: 0,0:49:35.38,0:49:37.04,English,,0,0,0,,conflict with Islam.\N{\rChinese}与伊斯兰的冲突
+Dialogue: 0,0:49:37.40,0:49:41.98,English,,0,0,0,,Okay? What he's really trying to do is he's trying to take the pure platonic,\N{\rChinese}好的？他真正想做的是把奥古斯丁的纯柏拉图世界与亚里士多德的科学结合起来。
+Dialogue: 0,0:49:42.58,0:49:46.54,English,,0,0,0,,world of Augustine and combine it with Aristotelian science\N{\rChinese}world of Augustine and combine it with Aristotelian science
+Dialogue: 0,0:49:46.54,0:49:48.12,English,,0,0,0,,and logic and reason.\N{\rChinese}和逻辑与理性。
+Dialogue: 0,0:49:48.68,0:49:50.76,English,,0,0,0,,He's trying to combine faith and reason.\N{\rChinese}他正试图把信仰与理性结合起来。
+Dialogue: 0,0:49:51.48,0:49:56.20,English,,0,0,0,,Okay? And so, he's trying to update the Catholic Church.\N{\rChinese}好的？于是他正试图更新天主教会。
+Dialogue: 0,0:49:56.68,0:49:59.24,English,,0,0,0,,But ultimately, he doesn't succeed.\N{\rChinese}但最终他没有成功。
+Dialogue: 0,0:49:59.58,0:50:04.12,English,,0,0,0,,And the reason why is people don't really understand what he's trying to do.\N{\rChinese}于是人们才会明白他要做的事。
+Dialogue: 0,0:50:04.26,0:50:07.46,English,,0,0,0,,Also, Augustine has been in power for like centuries.\N{\rChinese}另外，奥古斯丁已经掌权好几百年了。
+Dialogue: 0,0:50:07.58,0:50:12.36,English,,0,0,0,,And so, he's really become part of the culture, the milieu of Europe.\N{\rChinese}于是他真正融入了欧洲的文化，欧洲的氛围。
+Dialogue: 0,0:50:12.58,0:50:14.72,English,,0,0,0,,Okay? He's in the air. You breathe.\N{\rChinese}好了？他在空气中。你呼吸。
+Dialogue: 0,0:50:15.38,0:50:16.64,English,,0,0,0,,That's the power of culture.\N{\rChinese}那就是文化的力量。
+Dialogue: 0,0:50:18.66,0:50:19.78,English,,0,0,0,,The man who\N{\rChinese}那个人是……
+Dialogue: 0,0:50:19.78,0:50:24.72,English,,0,0,0,,will ultimately free Europe from the grasp of Augustine is actually Dante.\N{\rChinese}最终将把欧洲从奥古斯丁的掌握中解放出来的人，正是但丁。
+Dialogue: 0,0:50:25.20,0:50:29.50,English,,0,0,0,,And Dante will do so for his poetry.\N{\rChinese}而但丁会为他的诗歌做这件事。
+Dialogue: 0,0:50:29.76,0:50:35.40,English,,0,0,0,,For his poetry, he's going to reimagine the human relationship with God.\N{\rChinese}为他的诗歌，他将重新想象人与上帝的关系。
+Dialogue: 0,0:50:36.22,0:50:40.66,English,,0,0,0,,Okay? So, in the line comedy, he will make certain assertions.\N{\rChinese}好的？所以，在这句喜剧里，他会作出若干断言。
+Dialogue: 0,0:50:40.90,0:50:42.50,English,,0,0,0,,The first major assertion.\N{\rChinese}第一个主要断言。
+Dialogue: 0,0:50:42.58,0:50:45.88,English,,0,0,0,,The second major assertion is this. Okay, guys.\N{\rChinese}第二个主要断言是这个。好了，大家。
+Dialogue: 0,0:50:45.94,0:50:50.08,English,,0,0,0,,Let's read together. The greatest gift to the magnanimity of God\N{\rChinese}让我们一起读。给上帝的最大礼物是宏大的恩惠。
+Dialogue: 0,0:50:50.08,0:50:53.96,English,,0,0,0,,as he created gave the gift most suited to his goodness,\N{\rChinese}当他创造时，赐下最适合其善的礼物，
+Dialogue: 0,0:50:54.14,0:50:57.68,English,,0,0,0,,gift that he most prizes was the freedom of the will.\N{\rChinese}他最珍视的礼物是意志的自由。
+Dialogue: 0,0:50:58.04,0:50:59.64,English,,0,0,0,,Okay? So, what this is saying is this.\N{\rChinese}好了？所以，这句话的意思是这样。
+Dialogue: 0,0:50:59.78,0:51:02.92,English,,0,0,0,,When God created us to show his generosity,\N{\rChinese}当上帝创造我们时，展示他的慷慨，
+Dialogue: 0,0:51:03.08,0:51:05.30,English,,0,0,0,,to show that he is perfect, to show his goodness,\N{\rChinese}展示他是完美的，展示他的善良，
+Dialogue: 0,0:51:05.56,0:51:08.18,English,,0,0,0,,he gave us the gift that\N{\rChinese}于是赐下了礼物
+Dialogue: 0,0:51:08.18,0:51:12.56,English,,0,0,0,,only God can give us, the gift that he most prizes, which is the freedom from his will.\N{\rChinese}只有上帝能赐予我们，他最珍视的礼物——即从他意志中获得的自由。
+Dialogue: 0,0:51:14.00,0:51:18.28,English,,0,0,0,,Right? You are of God, but now you are free of God.\N{\rChinese}对吧？你属于上帝，但现在你已脱离上帝的束缚。
+Dialogue: 0,0:51:18.48,0:51:20.06,English,,0,0,0,,You can do whatever you want.\N{\rChinese}你可以随心所欲地行动。
+Dialogue: 0,0:51:20.82,0:51:22.26,English,,0,0,0,,All right? So,\N{\rChinese}好的？那就开始吧。
+Dialogue: 0,0:51:22.28,0:51:26.28,English,,0,0,0,,that's one of the central ideas of the divine comedy.\N{\rChinese}这就是《神曲》的核心思想之一。
+Dialogue: 0,0:51:26.46,0:51:30.82,English,,0,0,0,,That what makes us fundamentally human is freedom of the will.\N{\rChinese}让我们成为人类的根本是自由意志。
+Dialogue: 0,0:51:30.92,0:51:34.04,English,,0,0,0,,That we can choose the life we lead.\N{\rChinese}我们可以选择自己的人生。
+Dialogue: 0,0:51:34.58,0:51:35.98,English,,0,0,0,,Right? All right.\N{\rChinese}对吧？好的。
+Dialogue: 0,0:51:36.34,0:51:38.32,English,,0,0,0,,So, let's study the divine comedy.\N{\rChinese}那就来研究《神曲》吧。
+Dialogue: 0,0:51:38.54,0:51:42.54,English,,0,0,0,,This is going to be Canto VII of Pius VII.\N{\rChinese}这将是《神曲》第七章的第七节。
+Dialogue: 0,0:51:42.54,0:51:53.54,English,,0,0,0,,If you're\N{\rChinese}如果你已经在观看了，这段录制在YouTube上是第一次。
+Dialogue: 0,0:51:53.54,0:51:56.76,English,,0,0,0,,watching this already, this is the first time this segment has been recorded on YouTube, YouTube.\N{\rChinese}这段录制在YouTube上是第一次。
+Dialogue: 0,0:51:56.78,0:52:01.36,English,,0,0,0,,If this segment comes to YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube, YouTube,\N{\rChinese}如果这段录制上传到YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube，YouTube
+Dialogue: 0,0:52:02.22,0:52:09.36,English,,0,0,0,,YouTube, okay\N{\rChinese}YouTube，好的
+Dialogue: 0,0:52:09.36,0:52:13.04,English,,0,0,0,,God had to redeem us ransom us\N{\rChinese}上帝必须为我们赎回我们
+Dialogue: 0,0:52:13.04,0:52:18.72,English,,0,0,0,,from Satan now what's it what what Donnie is going to do is he's gonna propose a new theory\N{\rChinese}来自撒旦的，现在是什么？什么？多尼接下来要做的事是他要提出一个新理论
+Dialogue: 0,0:52:18.72,0:52:19.70,English,,0,0,0,,and\N{\rChinese}然后
+Dialogue: 0,0:52:19.70,0:52:24.88,English,,0,0,0,,this new theory is going to radically reimagine our relationship with God okay\N{\rChinese}这个新理论将彻底重新想象我们与上帝的关系，好吗？
+Dialogue: 0,0:52:24.88,0:52:25.86,English,,0,0,0,,so so\N{\rChinese}那么，好吗？
+Dialogue: 0,0:52:25.86,0:52:29.32,English,,0,0,0,,let's look at this very closely you say this is Beatrice\N{\rChinese}让我们仔细看看，你说这就是贝阿特丽丝
+Dialogue: 0,0:52:29.32,0:52:32.60,English,,0,0,0,,talking to Dante what I've heard is clear to me but\N{\rChinese}我听到的很清楚
+Dialogue: 0,0:52:32.60,0:52:35.10,English,,0,0,0,,this is hidden from me why God\N{\rChinese}这对我来说是隐藏的，为什么上帝会先行这条救赎之路
+Dialogue: 0,0:52:35.10,0:52:38.52,English,,0,0,0,,will precede this pathway for redemption\N{\rChinese}will precede this pathway for redemption
+Dialogue: 0,0:52:38.52,0:52:41.62,English,,0,0,0,,okay okay God wants to save us\N{\rChinese}好的，好的，上帝想要救我们
+Dialogue: 0,0:52:41.62,0:52:43.58,English,,0,0,0,,but why did God have to kill himself\N{\rChinese}但为什么上帝要自杀
+Dialogue: 0,0:52:44.64,0:52:46.50,English,,0,0,0,,that's a question here that\N{\rChinese}那是个问题，先说这点
+Dialogue: 0,0:52:46.50,0:52:51.54,English,,0,0,0,,makes no sense okay if you're not if you're non -christian it's almost impossible explain to someone else\N{\rChinese}如果你不是基督徒，几乎无法向别人解释
+Dialogue: 0,0:52:51.54,0:52:53.82,English,,0,0,0,,who is not a Christian why Jesus had to die\N{\rChinese}谁不是基督徒，耶稣为何要死去？
+Dialogue: 0,0:52:53.82,0:52:57.46,English,,0,0,0,,all right it makes no sense brother this\N{\rChinese}好了，兄弟，这没道理。
+Dialogue: 0,0:52:57.46,0:53:00.62,English,,0,0,0,,ordinance is buried from the eyes of everyone whose\N{\rChinese}条例已被所有人眼中埋藏。
+Dialogue: 0,0:53:00.62,0:53:06.02,English,,0,0,0,,intellect has not matured within the flame of love okay this is impetus is making this argument\N{\rChinese}智力在爱的火焰中尚未成熟，好的，这就是推动这论点的动力
+Dialogue: 0,0:53:06.02,0:53:09.26,English,,0,0,0,,which is like you know only understand this this this this this this this\N{\rChinese}这就像你只懂得这这这这这这这
+Dialogue: 0,0:53:09.26,0:53:10.78,English,,0,0,0,,this this this this this this this this this this this\N{\rChinese}这这这这这这这这这这这这这
+Dialogue: 0,0:53:10.78,0:53:17.26,English,,0,0,0,,this this\N{\rChinese}这这
+Dialogue: 0,0:53:17.26,0:53:20.62,English,,0,0,0,,this this this this this this this\N{\rChinese}这这...
+Dialogue: 0,0:53:20.62,0:53:25.04,English,,0,0,0,,this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this\N{\rChinese}这这...
+Dialogue: 0,0:53:25.04,0:53:29.48,English,,0,0,0,,this this this this this this this this this this this this this this this this this this this this this this\N{\rChinese}这这这这这这这这这这这这这这这这这这这这这这这
+Dialogue: 0,0:53:29.48,0:53:34.52,English,,0,0,0,,this this this this this this this this this this this this this this this this this this this this this this There can be no hate,\N{\rChinese}这这这这这这这这这这这这这这这这这这这这这这这这可以没有仇
+Dialogue: 0,0:53:34.66,0:53:39.06,English,,0,0,0,,there can be no envy, there can be no blemishes within the nature of God.\N{\rChinese}有了恩惠，神的本性里就没有嫉妒，也没有瑕疵。
+Dialogue: 0,0:53:39.60,0:53:41.28,English,,0,0,0,,All that\N{\rChinese}一切皆是如此。
+Dialogue: 0,0:53:41.28,0:53:43.92,English,,0,0,0,,derives directly from this goodness is everlasting,\N{\rChinese}直接来自这永恒的善，
+Dialogue: 0,0:53:44.22,0:53:47.96,English,,0,0,0,,since the seal of goodness impresses an imprint that never alters.\N{\rChinese}因为善的印记留下不变的烙印。
+Dialogue: 0,0:53:48.38,0:53:49.66,English,,0,0,0,,So God,\N{\rChinese}于是上帝，
+Dialogue: 0,0:53:50.04,0:53:53.10,English,,0,0,0,,when God creates, what he creates is also perfect.\N{\rChinese}当神创造时，他所创造的也同样完好。
+Dialogue: 0,0:53:56.86,0:53:59.32,English,,0,0,0,,Only man's sin annuls man's liberty,\N{\rChinese}只有人的罪才消灭人的自由。
+Dialogue: 0,0:53:59.60,0:54:02.30,English,,0,0,0,,makes him unlike the highest good, so that\N{\rChinese}使他与至善不同，以便
+Dialogue: 0,0:54:02.30,0:54:05.12,English,,0,0,0,,in him the brightness of his light is dim.\N{\rChinese}在他身上，他光的明亮变得黯淡。
+Dialogue: 0,0:54:05.38,0:54:08.46,English,,0,0,0,,Okay? So God is in us.\N{\rChinese}好的？于是上帝就在我们里面。
+Dialogue: 0,0:54:08.56,0:54:12.84,English,,0,0,0,,God is the light that burns in us and allows us to love others.\N{\rChinese}上帝是燃烧在我们内的光，让我们能去爱他人。
+Dialogue: 0,0:54:13.02,0:54:17.94,English,,0,0,0,,When we love others, the brightness burns brighter.\N{\rChinese}当我们去爱他人时，光亮更灿烂。
+Dialogue: 0,0:54:18.34,0:54:19.90,English,,0,0,0,,The light burns brighter.\N{\rChinese}光亮更灿烂。
+Dialogue: 0,0:54:20.40,0:54:23.02,English,,0,0,0,,Okay? That's how we celebrate God, by loving others.\N{\rChinese}好吧？这就是我们通过爱他人来庆祝上帝的方式。
+Dialogue: 0,0:54:25.28,0:54:27.50,English,,0,0,0,,We also have the freedom of the will.\N{\rChinese}我们也拥有意志的自由。
+Dialogue: 0,0:54:27.66,0:54:30.18,English,,0,0,0,,Okay? So these are the two things that God has given us.\N{\rChinese}好吧？这就是上帝赐给我们的两件事。
+Dialogue: 0,0:54:30.22,0:54:34.94,English,,0,0,0,,Freedom to choose. Freedom to lead the lives we want to live,\N{\rChinese}自由选择。自由过我们想过的生活，以及爱与想象的力量。
+Dialogue: 0,0:54:35.51,0:54:39.40,English,,0,0,0,,as well as the power to love and to imagine.\N{\rChinese}自由选择。自由过我们想过的生活，以及爱与想象的力量。
+Dialogue: 0,0:54:39.94,0:54:43.70,English,,0,0,0,,But these things come into conflict when we choose to do bad.\N{\rChinese}但这些事物在我们选择做坏事时会相互冲突。
+Dialogue: 0,0:54:44.46,0:54:47.66,English,,0,0,0,,When we choose to disobey, when we choose to commit sin,\N{\rChinese}当我们选择不服从时，当我们选择犯罪时。
+Dialogue: 0,0:54:47.86,0:54:52.12,English,,0,0,0,,we are turning away from God and therefore dampening the brightness in us.\N{\rChinese}我们正离开上帝，因而把我们内在的光亮抑制下来。
+Dialogue: 0,0:54:53.26,0:54:57.40,English,,0,0,0,,Okay? We are purposely stuffing out the flame in us.\N{\rChinese}好吧？我们有意把内在的火焰塞住。
+Dialogue: 0,0:54:59.24,0:55:01.04,English,,0,0,0,,And man cannot regain his dignity,\N{\rChinese}而人若要恢复尊严，只有在罪空缺之处填补时才行得通
+Dialogue: 0,0:55:01.68,0:55:04.48,English,,0,0,0,,unless where sin left emptiness, man fills that\N{\rChinese}人若要恢复尊严，只有在罪空缺之处填补时才行得通
+Dialogue: 0,0:55:04.48,0:55:06.70,English,,0,0,0,,void with just amends for evil pleasure.\N{\rChinese}以仅补偿邪乐而空虚。
+Dialogue: 0,0:55:06.92,0:55:10.26,English,,0,0,0,,Okay? So when we commit sin, you must make amends.\N{\rChinese}好吧？所以当我们犯下罪时，你必须补偿。
+Dialogue: 0,0:55:10.32,0:55:11.90,English,,0,0,0,,You must force yourself.\N{\rChinese}你必须自我强行。
+Dialogue: 0,0:55:12.02,0:55:16.04,English,,0,0,0,,You must choose to go on the proper path and make amends.\N{\rChinese}你必须选择走正确的道路并补偿。
+Dialogue: 0,0:55:20.10,0:55:22.78,English,,0,0,0,,But for when your nature sinned so\N{\rChinese}但当你的本性犯下罪时……
+Dialogue: 0,0:55:22.78,0:55:25.80,English,,0,0,0,,totally within its seed, then from these dignities,\N{\rChinese}完全在其种子之内，然后从这些尊贵之中，
+Dialogue: 0,0:55:26.12,0:55:28.34,English,,0,0,0,,just as from paradise, that nature parted.\N{\rChinese}正如从天堂，那个本性分离。
+Dialogue: 0,0:55:28.58,0:55:31.60,English,,0,0,0,,Okay? Sometimes you could commit a sin that's so terrible,\N{\rChinese}好吧？有时你会犯下如此可怕的罪，光就离你而去。
+Dialogue: 0,0:55:31.60,0:55:33.38,English,,0,0,0,,the light leaves you.\N{\rChinese}好吧？有时你会犯下如此可怕的罪，光就离你而去。
+Dialogue: 0,0:55:34.32,0:55:38.78,English,,0,0,0,,And that's when we disobeyed God in the Garden of Eden.\N{\rChinese}那时我们在伊甸园里违背了上帝。
+Dialogue: 0,0:55:39.60,0:55:42.64,English,,0,0,0,,That sin, the original sin, was so terrible\N{\rChinese}那罪，原罪，极其可怕。
+Dialogue: 0,0:55:42.64,0:55:47.40,English,,0,0,0,,that Adam doomed all his progeny to darkness.\N{\rChinese}那亚当让他的后裔陷入黑暗。
+Dialogue: 0,0:55:48.48,0:55:50.24,English,,0,0,0,,Okay? And\N{\rChinese}好吧？
+Dialogue: 0,0:55:50.24,0:55:53.82,English,,0,0,0,,they could never be regained if you consider carefully by any way\N{\rChinese}他们若仔细考虑，若不经过这两座堡垒，便永不再得回。
+Dialogue: 0,0:55:53.82,0:55:56.50,English,,0,0,0,,that did not pass across one of these two forts.\N{\rChinese}若不跨过这两座堡垒，便永不再得回。
+Dialogue: 0,0:55:56.66,0:55:58.28,English,,0,0,0,,Okay? So how do we forgive?\N{\rChinese}好吧？那我们怎么求赎？
+Dialogue: 0,0:55:58.62,0:56:00.34,English,,0,0,0,,How do we ask for forgiveness?\N{\rChinese}我们怎么请求赎？
+Dialogue: 0,0:56:00.72,0:56:05.32,English,,0,0,0,,Okay? There are two possibilities. Either through nothing other than his mercy,\N{\rChinese}好吧？有两种可能。要么仅凭他的恩典。
+Dialogue: 0,0:56:05.52,0:56:08.14,English,,0,0,0,,God had to pardon man, or of himself,\N{\rChinese}上帝必须赎回人，或赎回自己，
+Dialogue: 0,0:56:08.50,0:56:11.04,English,,0,0,0,,man had to proffer payment for his father.\N{\rChinese}人必须为父亲提供报酬，
+Dialogue: 0,0:56:11.30,0:56:14.38,English,,0,0,0,,So there are two ways for us to get that\N{\rChinese}于是我们有两种方式获得赎回
+Dialogue: 0,0:56:14.38,0:56:17.18,English,,0,0,0,,light back in us, to redeem ourselves in the eyes of God.\N{\rChinese}光回到我们心中，以在上帝眼中赎回自己。
+Dialogue: 0,0:56:17.34,0:56:19.72,English,,0,0,0,,The first way is if God just forgives us.\N{\rChinese}第一种方式是上帝只赎回我们。
+Dialogue: 0,0:56:19.78,0:56:22.36,English,,0,0,0,,If God says, I'm total,\N{\rChinese}如果上帝说，我完全……
+Dialogue: 0,0:56:22.52,0:56:25.42,English,,0,0,0,,I'm perfect, I'm total perfect in this, I forgive you.\N{\rChinese}我完美，我在此完全完美，我赎你。
+Dialogue: 0,0:56:25.48,0:56:26.98,English,,0,0,0,,Because that's what I do, I forgive you.\N{\rChinese}因为这就是我所做的，我赎你。
+Dialogue: 0,0:56:27.54,0:56:29.34,English,,0,0,0,,To show mercy. That's one possibility.\N{\rChinese}以示恩。那是一个可能。
+Dialogue: 0,0:56:30.90,0:56:34.88,English,,0,0,0,,But when he does that, the problem is we've learned nothing.\N{\rChinese}但当他这么做时，问题是我们没有学到什么。
+Dialogue: 0,0:56:35.04,0:56:37.06,English,,0,0,0,,We haven't grown. Okay?\N{\rChinese}我们没有成长。好吗？
+Dialogue: 0,0:56:37.66,0:56:41.84,English,,0,0,0,,Another possibility is if we figure\N{\rChinese}另一种可能是我们想出来。
+Dialogue: 0,0:56:41.84,0:56:44.04,English,,0,0,0,,out a way to redeem ourselves.\N{\rChinese}出路去赎回自己。
+Dialogue: 0,0:56:44.18,0:56:46.04,English,,0,0,0,,If we make amends.\N{\rChinese}若我们补偿。
+Dialogue: 0,0:56:46.32,0:56:49.02,English,,0,0,0,,If we give God all the gold in the world.\N{\rChinese}若我们把世界上所有黄金都给上帝。
+Dialogue: 0,0:56:49.70,0:56:52.62,English,,0,0,0,,Okay? But because our crime was so\N{\rChinese}好的？但因为我们的罪行如此之大，因我们否认上帝之爱，所做之事无一能赎回我们之罪。
+Dialogue: 0,0:56:52.62,0:56:55.70,English,,0,0,0,,great, because we denied the love of God, nothing we do,\N{\rChinese}因为我们的罪行如此之大，因我们否认上帝之爱，所做之事无一能赎回我们之罪。
+Dialogue: 0,0:56:56.04,0:57:00.42,English,,0,0,0,,there's nothing we could give God that would redeem us from our sin.\N{\rChinese}因为我们的罪行如此之大，因我们否认上帝之爱，所做之事无一能赎回我们之罪。
+Dialogue: 0,0:57:00.42,0:57:01.94,English,,0,0,0,,Okay? That's a conflict here.\N{\rChinese}好的？这就是一个冲突。
+Dialogue: 0,0:57:01.96,0:57:05.14,English,,0,0,0,,That's a paradox. God cannot forgive us because if he did\N{\rChinese}那是个悖论。若上帝赦免我们，便不再有成长与学习。
+Dialogue: 0,0:57:05.14,0:57:07.32,English,,0,0,0,,so, we would not grow and learn.\N{\rChinese}so, we would notgrow and learn.
+Dialogue: 0,0:57:08.56,0:57:13.84,English,,0,0,0,,And there's nothing we can do to redeem ourselves in the eyes of God\N{\rChinese}好吧？但因为我们的罪行如此之大，所做之事无一能赎回我们之罪。
+Dialogue: 0,0:57:13.84,0:57:15.90,English,,0,0,0,,because our crimes were so great. So that's the paradox.\N{\rChinese}好吧？这就是一个悖论。
+Dialogue: 0,0:57:18.24,0:57:21.78,English,,0,0,0,,Man's limits could not recompensate for no obedience,\N{\rChinese}人的极限无法补偿无顺从的缺失，而他随后所献的谦逊也不足以补偿。
+Dialogue: 0,0:57:21.88,0:57:24.72,English,,0,0,0,,no humility he offered later could have been so\N{\rChinese}人的极限无法补偿无顺从的缺失，随后他所献的谦逊也不足以补偿。
+Dialogue: 0,0:57:24.72,0:57:29.18,English,,0,0,0,,deep that it could match the heights he meant to reach through disobedience.\N{\rChinese}深深的，他的失意能与他通过不顺从想要达到的高度相匹配。
+Dialogue: 0,0:57:29.18,0:57:32.02,English,,0,0,0,,Man lacked the power to offer satisfaction by himself.\N{\rChinese}人类缺乏自我所能提供的满足之力。
+Dialogue: 0,0:57:32.54,0:57:34.28,English,,0,0,0,,We want to kill God.\N{\rChinese}我们想杀上帝。
+Dialogue: 0,0:57:34.70,0:57:35.98,English,,0,0,0,,That was the original sin.\N{\rChinese}那是最初的罪。
+Dialogue: 0,0:57:36.14,0:57:39.22,English,,0,0,0,,We wanted to eat that fruit, become God, and\N{\rChinese}我们想吃那果实，成为上帝，且
+Dialogue: 0,0:57:39.22,0:57:41.12,English,,0,0,0,,then kill God and become God itself.\N{\rChinese}然后杀死上帝并成为上帝本身。
+Dialogue: 0,0:57:41.72,0:57:44.84,English,,0,0,0,,That's the greatest crime. So how can you redeem yourself?\N{\rChinese}那是最大的罪。那你又怎么能自我赎呢？
+Dialogue: 0,0:57:45.22,0:57:49.84,English,,0,0,0,,How can you ask for forgiveness if the crime is to kill God?\N{\rChinese}如果罪是杀上帝，你怎么能求赎呢？
+Dialogue: 0,0:57:50.20,0:57:56.52,English,,0,0,0,,Right? For God showed greater generosity in giving his own self\N{\rChinese}对吧？因为上帝在自我奉献时表现出更大的慷慨。
+Dialogue: 0,0:57:56.52,0:57:58.74,English,,0,0,0,,that men might be able to rise.\N{\rChinese}那样人们就能崛起。
+Dialogue: 0,0:57:58.74,0:58:00.56,English,,0,0,0,,Than if he simply pardoned.\N{\rChinese}那如果他只是赦免。
+Dialogue: 0,0:58:00.74,0:58:02.50,English,,0,0,0,,Okay? So for thousands of years,\N{\rChinese}好吧？于是千百年间，
+Dialogue: 0,0:58:02.68,0:58:07.34,English,,0,0,0,,God had to think of a way to redeem us,\N{\rChinese}上帝必须想出一种办法来赎我们，
+Dialogue: 0,0:58:07.40,0:58:08.76,English,,0,0,0,,to forgive us, but\N{\rChinese}再来赦我们，
+Dialogue: 0,0:58:08.76,0:58:12.56,English,,0,0,0,,at the same time ensure we would not do anything like this ever again.\N{\rChinese}在同一时间，确保我们以后再也不会做类似的事。
+Dialogue: 0,0:58:13.82,0:58:17.20,English,,0,0,0,,Okay? And the path he chose was to sacrifice himself.\N{\rChinese}好的？他选择的道路就是自我牺献。
+Dialogue: 0,0:58:19.76,0:58:22.96,English,,0,0,0,,For every other means fell short of justice except\N{\rChinese}对其他手段都不足以实现正义，唯有那种方式——神之子在成道时自我降卑。
+Dialogue: 0,0:58:22.96,0:58:26.86,English,,0,0,0,,the way whereby the Son of God humbled himself when he became incarnate.\N{\rChinese}the way whereby the Son of God humbled himself when he became incarnate.
+Dialogue: 0,0:58:27.32,0:58:31.34,English,,0,0,0,,Okay? So. I'm going to use a metaphor to explain this idea.\N{\rChinese}好的？那么。我打算用个比喻来说明这个想法。
+Dialogue: 0,0:58:32.48,0:58:35.32,English,,0,0,0,,It's a very, it's not a great metaphor, but\N{\rChinese}这比喻很简单，算不上大比喻，但……
+Dialogue: 0,0:58:35.32,0:58:38.12,English,,0,0,0,,I think this will illustrate what Beatrice is saying here about God.\N{\rChinese}我觉得这能说明贝娅特丽丝在这里说的关于上帝的事。
+Dialogue: 0,0:58:38.70,0:58:40.10,English,,0,0,0,,Let's just say I have a daughter named Eve.\N{\rChinese}就说我有个叫伊娃的女儿吧。
+Dialogue: 0,0:58:40.34,0:58:42.78,English,,0,0,0,,I have a favorite dog named Johnny.\N{\rChinese}我有一只叫约翰尼的狗。
+Dialogue: 0,0:58:42.88,0:58:44.16,English,,0,0,0,,I love Johnny and I love Eve.\N{\rChinese}我爱约翰尼，也爱伊娃。
+Dialogue: 0,0:58:44.22,0:58:46.38,English,,0,0,0,,I love both. Okay? And I say to Eve,\N{\rChinese}我两者都爱。好了？然后我对伊娃说，
+Dialogue: 0,0:58:46.48,0:58:49.82,English,,0,0,0,,Johnny is my favorite dog.\N{\rChinese}约翰尼是我最爱的狗。
+Dialogue: 0,0:58:50.16,0:58:51.82,English,,0,0,0,,You're my favorite, favorite daughter.\N{\rChinese}你是我最爱的女儿。
+Dialogue: 0,0:58:52.14,0:58:56.84,English,,0,0,0,,I love you both. Eve, because she's young and she's stupid.\N{\rChinese}我两者都爱。伊娃，因为她年轻又笨。”
+Dialogue: 0,0:58:56.84,0:59:00.00,English,,0,0,0,,She decides I only want my father to love me.\N{\rChinese}她决定我只想让父亲爱我。
+Dialogue: 0,0:59:00.08,0:59:02.84,English,,0,0,0,,So Eve purposely kills my dog, Johnny.\N{\rChinese}于是伊娃故意杀死我的狗约翰尼。
+Dialogue: 0,0:59:03.56,0:59:06.74,English,,0,0,0,,All right? Now, what do I do?\N{\rChinese}一切都好？现在，我该怎么做？
+Dialogue: 0,0:59:07.14,0:59:11.28,English,,0,0,0,,I'm Eve's father. If I just say, Eve, don't worry about it.\N{\rChinese}我是伊娃的父亲。如果我只是说，伊娃，别担心。
+Dialogue: 0,0:59:11.36,0:59:12.78,English,,0,0,0,,You're young. It was a mistake.\N{\rChinese}你还年轻，犯了个错误。
+Dialogue: 0,0:59:13.32,0:59:15.24,English,,0,0,0,,Eve is probably going to go hurt someone else.\N{\rChinese}伊娃大概会去伤害别人。
+Dialogue: 0,0:59:15.40,0:59:17.16,English,,0,0,0,,Right? I have to teach her a lesson.\N{\rChinese}对吗？我得给她上一课。
+Dialogue: 0,0:59:18.88,0:59:23.10,English,,0,0,0,,But if I hit her or I punish her,\N{\rChinese}但如果我打她或惩罚她，
+Dialogue: 0,0:59:23.26,0:59:26.82,English,,0,0,0,,then that might suggest to Eve, I'm going to punish her.\N{\rChinese}然后这可能会让伊娃觉得，我要惩罚她。
+Dialogue: 0,0:59:26.82,0:59:29.32,English,,0,0,0,,I don't really love her. It doesn't make sense.\N{\rChinese}我并不是真的爱她，这没什么意义。
+Dialogue: 0,0:59:29.38,0:59:32.00,English,,0,0,0,,That's a paradox here. That's a conflict. And so\N{\rChinese}那是个悖论。那是个冲突。于是…
+Dialogue: 0,0:59:32.00,0:59:34.44,English,,0,0,0,,what I choose to do after many weeks\N{\rChinese}我在许多周后选择做的事…
+Dialogue: 0,0:59:34.44,0:59:37.50,English,,0,0,0,,of intense thinking is I choose\N{\rChinese}强烈思考之后，我决定为伊娃惩罚自己。
+Dialogue: 0,0:59:37.50,0:59:40.74,English,,0,0,0,,to punish myself on behalf of Eve.\N{\rChinese}好的？我拿起一根棍子。
+Dialogue: 0,0:59:41.30,0:59:43.54,English,,0,0,0,,Okay? I take a bat and\N{\rChinese}Okay? I take a bat and
+Dialogue: 0,0:59:43.54,0:59:46.12,English,,0,0,0,,I hit myself or I take a whip and I hit myself and\N{\rChinese}我自打自己或自鞭自打自己并且
+Dialogue: 0,0:59:46.12,0:59:48.40,English,,0,0,0,,my hand is bleeding and Eve watches this.\N{\rChinese}我的手流血，伊娃在看着
+Dialogue: 0,0:59:49.42,0:59:51.96,English,,0,0,0,,And you can see that when\N{\rChinese}你可以看到这一点
+Dialogue: 0,0:59:51.96,0:59:54.32,English,,0,0,0,,Eve sees this, she has to cry.\N{\rChinese}伊娃看到后哭了起来。
+Dialogue: 0,0:59:54.82,0:59:56.80,English,,0,0,0,,She has to cry and feel sorry.\N{\rChinese}她哭了又感到抱歉。
+Dialogue: 0,0:59:56.82,0:59:59.70,English,,0,0,0,,She has to feel remorse for what she did.\N{\rChinese}她为所做之事感到悔悟。
+Dialogue: 0,1:00:00.04,1:00:03.62,English,,0,0,0,,And she also cries because she knows I truly love her.\N{\rChinese}她也哭了，因为她知道我真的爱她。
+Dialogue: 0,1:00:04.48,1:00:06.64,English,,0,0,0,,Okay? So that's what features is saying here.\N{\rChinese}好的？所以这就是特征在这里说的。
+Dialogue: 0,1:00:06.80,1:00:09.22,English,,0,0,0,,God loves us so much that\N{\rChinese}上帝如此爱我们，
+Dialogue: 0,1:00:09.22,1:00:14.42,English,,0,0,0,,he's willing to do everything in order to teach us to be better human beings.\N{\rChinese}他愿意做一切事来教我们成为更好的人。
+Dialogue: 0,1:00:14.64,1:00:17.14,English,,0,0,0,,Okay? That's the power of God.\N{\rChinese}好？这就是上帝的力量。
+Dialogue: 0,1:00:18.10,1:00:20.42,English,,0,0,0,,All right. All right.\N{\rChinese}好的。好的。
+Dialogue: 0,1:00:20.46,1:00:25.12,English,,0,0,0,,So the conversation continues and this story makes sense.\N{\rChinese}于是对话继续，故事也就有了意义。
+Dialogue: 0,1:00:25.12,1:00:27.56,English,,0,0,0,,But it's also going to create a lot of problems.\N{\rChinese}但它也会带来不少问题。
+Dialogue: 0,1:00:27.86,1:00:31.14,English,,0,0,0,,Okay? One major problem is if God created us\N{\rChinese}好？一个大问题是如果上帝造了我们…
+Dialogue: 0,1:00:31.14,1:00:35.12,English,,0,0,0,,and God loves us,\N{\rChinese}而上帝爱我们，
+Dialogue: 0,1:00:35.32,1:00:38.20,English,,0,0,0,,why are we making mistakes?\N{\rChinese}为什么我们会犯错？
+Dialogue: 0,1:00:38.94,1:00:41.30,English,,0,0,0,,Why are we dying?\N{\rChinese}我们为什么会死去？
+Dialogue: 0,1:00:41.54,1:00:43.02,English,,0,0,0,,Why are we in pain? Okay?\N{\rChinese}我们为什么会痛？好？
+Dialogue: 0,1:00:43.10,1:00:44.50,English,,0,0,0,,And this is what features says.\N{\rChinese}这就是特征所说的。
+Dialogue: 0,1:00:44.86,1:00:47.94,English,,0,0,0,,You say, I see that water set fire\N{\rChinese}你说，我看见水点燃。
+Dialogue: 0,1:00:47.94,1:00:51.66,English,,0,0,0,,and ear and earth and all that they compose come to corruption\N{\rChinese}耳朔和地球以及它们所组成的一切都归于腐败
+Dialogue: 0,1:00:51.66,1:00:53.00,English,,0,0,0,,and endure so briefly.\N{\rChinese}并且短暂地承受。
+Dialogue: 0,1:00:53.12,1:00:56.80,English,,0,0,0,,Okay? So in this world there is death, there is dying, there is pain, there is suffering.\N{\rChinese}好了？所以在这个世界里有死亡，有逝亡，有痛苦，有苦难。
+Dialogue: 0,1:00:56.92,1:00:58.60,English,,0,0,0,,Why is that? And\N{\rChinese}为什么会这样？而且
+Dialogue: 0,1:00:58.60,1:01:03.32,English,,0,0,0,,yet these two were things created if what has been said above is true,\N{\rChinese}于是这两件事若前面所说成立，则已被创造
+Dialogue: 0,1:01:03.46,1:01:06.42,English,,0,0,0,,then these things never should be subject to corruption.\N{\rChinese}于是这些事物就不应受腐败。
+Dialogue: 0,1:01:06.88,1:01:09.58,English,,0,0,0,,If whatever God creates is perfect,\N{\rChinese}若上帝所造皆为完好。
+Dialogue: 0,1:01:09.88,1:01:11.94,English,,0,0,0,,then things shouldn't die.\N{\rChinese}于是事物就不应死亡。
+Dialogue: 0,1:01:12.74,1:01:15.60,English,,0,0,0,,All right? Brother,\N{\rChinese}好了？兄弟，
+Dialogue: 0,1:01:15.60,1:01:18.96,English,,0,0,0,,the angels in the pure country where\N{\rChinese}天使在你现在所在的纯净之国，已可说是按其全然而被造。
+Dialogue: 0,1:01:18.96,1:01:22.84,English,,0,0,0,,you are now, these may be said to be created as they are in all their being.\N{\rChinese}天使在你现在所在的纯净之国，已可说是按其全然而被造。
+Dialogue: 0,1:01:23.28,1:01:26.42,English,,0,0,0,,Okay? Yes, it is true that God created everything in this world,\N{\rChinese}好的？是的，确实上帝造了这世界的一切事物。
+Dialogue: 0,1:01:26.58,1:01:28.40,English,,0,0,0,,but there's a problem.\N{\rChinese}但有个问题。
+Dialogue: 0,1:01:28.46,1:01:31.44,English,,0,0,0,,There's a difference. Whereas the elements that\N{\rChinese}有区别。虽然那些元素
+Dialogue: 0,1:01:31.44,1:01:33.98,English,,0,0,0,,you have mentioned, as well as those things that\N{\rChinese}你提到的，以及那些事物
+Dialogue: 0,1:01:33.98,1:01:37.78,English,,0,0,0,,are made from them, received their form from a created power,\N{\rChinese}它们由此而成，形态由造物之力所获，所含物质正如星辰之中所造，赋形之力亦已被造。
+Dialogue: 0,1:01:38.42,1:01:44.12,English,,0,0,0,,the matter they contain had been created just as within the stars\N{\rChinese}它们由此而成，形态由造物之力所获，所含物质正如星辰之中所造，赋形之力亦已被造。
+Dialogue: 0,1:01:44.12,1:01:47.46,English,,0,0,0,,that wheel around them, the power to give form had been created.\N{\rChinese}它们由此而成，形态由造物之力所获，所含物质正如星辰之中所造，赋形之力亦已被造。
+Dialogue: 0,1:01:47.58,1:01:52.78,English,,0,0,0,,The rays and motion of the holy light draw forth the soul of every animal\N{\rChinese}神圣之光的光束与运动，提拉出每只动物的灵魂
+Dialogue: 0,1:01:52.78,1:01:57.14,English,,0,0,0,,and every being. If God\N{\rChinese}并且每个存在。如果上帝创建了这个世界，
+Dialogue: 0,1:01:57.14,1:02:01.38,English,,0,0,0,,created this world,\N{\rChinese}created this world,
+Dialogue: 0,1:02:02.98,1:02:06.00,English,,0,0,0,,this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world,\N{\rChinese}这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界
+Dialogue: 0,1:02:06.00,1:02:09.52,English,,0,0,0,,this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world, this world,\N{\rChinese}这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界这个世界
+Dialogue: 0,1:02:09.52,1:02:12.42,English,,0,0,0,,this world, this world, this world, this world,\N{\rChinese}这个世界，这个世界，这个世界，这个世界，
+Dialogue: 0,1:02:12.68,1:02:16.38,English,,0,0,0,,this world, this world, this world,\N{\rChinese}这个世界，这个世界，这个世界，
+Dialogue: 0,1:02:16.88,1:02:19.20,English,,0,0,0,,this world, this world,\N{\rChinese}这个世界，这个世界，
+Dialogue: 0,1:02:19.82,1:02:24.02,English,,0,0,0,,this world, new creations can come out, okay?\N{\rChinese}这个世界，新的创造可以出现，好吗？
+Dialogue: 0,1:02:24.84,1:02:27.52,English,,0,0,0,,When an animal dies,\N{\rChinese}当动物死亡时，
+Dialogue: 0,1:02:27.80,1:02:30.42,English,,0,0,0,,the atoms break away and then a new form comes into being.\N{\rChinese}原子分离，随后出现新的形态。
+Dialogue: 0,1:02:30.54,1:02:34.18,English,,0,0,0,,That's the law of the universe. So that's perfect, but not the animals and plants are perfect.\N{\rChinese}那是宇宙的规律。所以它是完美的，但动物和植物并非完美。
+Dialogue: 0,1:02:36.92,1:02:40.36,English,,0,0,0,,But your life is breathed forth immediately by the chief good\N{\rChinese}但你的生命立即由至善所吹出。
+Dialogue: 0,1:02:40.36,1:02:44.18,English,,0,0,0,,who so enamors it of his own self that it desires him always.\N{\rChinese}谁把它自己迷住，便总想它。
+Dialogue: 0,1:02:44.54,1:02:48.40,English,,0,0,0,,Okay, so now the question then is, if animals and plants aren't perfect,\N{\rChinese}好了，现在的问题是，如果动物和植物不完美，
+Dialogue: 0,1:02:49.54,1:02:54.26,English,,0,0,0,,what are humans then? So,\N{\rChinese}人类又是什么？那么，
+Dialogue: 0,1:02:54.26,1:02:58.04,English,,0,0,0,,okay, and this is what she says.\N{\rChinese}好了，这就是她说的，
+Dialogue: 0,1:02:58.26,1:03:02.06,English,,0,0,0,,So reasoning, you can also can deduce your resurrection.\N{\rChinese}于是推理，你也可以推断你的复活。
+Dialogue: 0,1:03:02.24,1:03:06.50,English,,0,0,0,,You need but remember the way in which your human flesh was fashioned\N{\rChinese}你只需记住你人类肉体成形的方式
+Dialogue: 0,1:03:06.94,1:03:08.94,English,,0,0,0,,when both of the first parents were created.\N{\rChinese}当第一对父母被造时的那一刻
+Dialogue: 0,1:03:09.16,1:03:10.72,English,,0,0,0,,Okay, so this is the trick.\N{\rChinese}好了，这就是诀窍。
+Dialogue: 0,1:03:11.08,1:03:14.50,English,,0,0,0,,You have to remember this. Animals\N{\rChinese}你要记住这一点。动物
+Dialogue: 0,1:03:14.50,1:03:17.70,English,,0,0,0,,and plants are created from the laws of the universe which God created.\N{\rChinese}植物也是由宇宙规律所造，正是上帝所造。
+Dialogue: 0,1:03:18.48,1:03:21.68,English,,0,0,0,,Angels are created by God himself.\N{\rChinese}天使由上帝亲自所造。
+Dialogue: 0,1:03:22.96,1:03:27.26,English,,0,0,0,,And therefore the angels are perfect. We humans have a dual nature.\N{\rChinese}于是天使完好无缺。我们人类有双重本性。
+Dialogue: 0,1:03:27.70,1:03:30.48,English,,0,0,0,,We are both created from the laws of the universe and\N{\rChinese}我们同样是由宇宙规律造就的。
+Dialogue: 0,1:03:30.48,1:03:33.48,English,,0,0,0,,we are both created by God itself, all right?\N{\rChinese}我们同样是上帝亲自所造，没错吗？
+Dialogue: 0,1:03:34.28,1:03:37.32,English,,0,0,0,,Because when God created Adam,\N{\rChinese}因为当上帝造亚当时，
+Dialogue: 0,1:03:37.58,1:03:41.28,English,,0,0,0,,God created him from out of dust, okay?\N{\rChinese}上帝把他从尘土中造出来，没错吗？
+Dialogue: 0,1:03:41.48,1:03:45.04,English,,0,0,0,,But then what God did was breathe life into him.\N{\rChinese}然后上帝所做的就是给他注入生命。
+Dialogue: 0,1:03:45.80,1:03:49.78,English,,0,0,0,,So the essence of God is within Adam and therefore us.\N{\rChinese}于是神的本质在亚当之中，也在我们之中。
+Dialogue: 0,1:03:50.88,1:03:52.74,English,,0,0,0,,Our bodies are mortal.\N{\rChinese}我们的身体是有形的。
+Dialogue: 0,1:03:52.74,1:03:54.50,English,,0,0,0,,Our souls are immortal. But our souls are immortal.\N{\rChinese}我们的灵魂是永生的。我们的灵魂是永生的。
+Dialogue: 0,1:03:55.00,1:03:59.32,English,,0,0,0,,Our souls have the essence of God, which is love.\N{\rChinese}我们的灵魂拥有神的本质，即爱。
+Dialogue: 0,1:03:59.56,1:04:03.12,English,,0,0,0,,The more we love, the more the light burns in us.\N{\rChinese}我们越爱，内心的光芒越燃起。
+Dialogue: 0,1:04:03.98,1:04:05.84,English,,0,0,0,,And as light burns in us,\N{\rChinese}光芒在我们心中燃起时，
+Dialogue: 0,1:04:06.58,1:04:09.70,English,,0,0,0,,it will allow for our resurrection,\N{\rChinese}它将为我们的复活提供机会，
+Dialogue: 0,1:04:10.12,1:04:12.16,English,,0,0,0,,okay? Because\N{\rChinese}好了？因为
+Dialogue: 0,1:04:12.16,1:04:15.54,English,,0,0,0,,the matter will regenerate.\N{\rChinese}事物将会再生。
+Dialogue: 0,1:04:15.62,1:04:18.30,English,,0,0,0,,The soul is eternal, okay?\N{\rChinese}灵魂永存，好的？
+Dialogue: 0,1:04:18.42,1:04:20.88,English,,0,0,0,,So that's what Dante is saying here.\N{\rChinese}这就是但丁在这里说的。
+Dialogue: 0,1:04:20.88,1:04:24.48,English,,0,0,0,,The best way to celebrate God is by loving others.\N{\rChinese}最好的方式是通过爱他人来庆祝上帝。
+Dialogue: 0,1:04:24.64,1:04:29.60,English,,0,0,0,,When you love others, you are activating your imagination.\N{\rChinese}当你爱他人时，你就激活了你的想象力。
+Dialogue: 0,1:04:30.12,1:04:31.50,English,,0,0,0,,You are learning wisdom.\N{\rChinese}你正在学习智慧。
+Dialogue: 0,1:04:31.72,1:04:33.54,English,,0,0,0,,You are gaining experience. And that\N{\rChinese}你正在获得经验。
+Dialogue: 0,1:04:33.54,1:04:37.00,English,,0,0,0,,will only cause the light to grow, okay?\N{\rChinese}只会让光更亮，好的？
+Dialogue: 0,1:04:38.14,1:04:41.54,English,,0,0,0,,So even though, going back to the story of Eve\N{\rChinese}于是即使回到伊甸的故事和我的狗，虽然我自伤自痛，
+Dialogue: 0,1:04:41.54,1:04:43.52,English,,0,0,0,,and my dog, even though I'm hurting myself,\N{\rChinese}and my dog, even though I'm hurting myself,
+Dialogue: 0,1:04:43.88,1:04:49.58,English,,0,0,0,,okay, I am using my tremendous imagination in order to come up with this plan,\N{\rChinese}好的，我正用我巨大的想象力来构思这个计划，以此来挽回自己，好的？以此来挽回我的女儿。
+Dialogue: 0,1:04:49.70,1:04:51.50,English,,0,0,0,,in order to redeem myself, okay? To redeem my daughter.\N{\rChinese}因为这份想象力，
+Dialogue: 0,1:04:51.82,1:04:53.28,English,,0,0,0,,And because of this imagination,\N{\rChinese}And because of this imagination,
+Dialogue: 0,1:04:54.78,1:04:56.16,English,,0,0,0,,I'm developing wisdom.\N{\rChinese}我正在培养智慧。
+Dialogue: 0,1:04:56.30,1:04:58.58,English,,0,0,0,,And this light in me grows stronger.\N{\rChinese}而我内在的光芒愈发光。
+Dialogue: 0,1:04:59.90,1:05:01.80,English,,0,0,0,,All right? So that's the purpose of life.\N{\rChinese}好了？这就是人生的目的。
+Dialogue: 0,1:05:02.00,1:05:05.12,English,,0,0,0,,The purpose of life is to celebrate God\N{\rChinese}生命的目的就是庆祝上帝
+Dialogue: 0,1:05:05.82,1:05:09.56,English,,0,0,0,,by celebrating God in you.\N{\rChinese}通过在你身中庆祝上帝
+Dialogue: 0,1:05:09.64,1:05:13.14,English,,0,0,0,,By loving someone else so wholeheartedly that your imagination,\N{\rChinese}用全心去爱他人，使你的想象力
+Dialogue: 0,1:05:13.54,1:05:16.58,English,,0,0,0,,your wisdom, grows and grows so that\N{\rChinese}你的智慧愈发光，直到
+Dialogue: 0,1:05:16.58,1:05:18.38,English,,0,0,0,,your soul becomes eternal.\N{\rChinese}你的灵魂变得永恒。
+Dialogue: 0,1:05:18.88,1:05:22.58,English,,0,0,0,,When it becomes eternal, it will always be resurrected in the world.\N{\rChinese}当它变得永恒时，它将永远在世界中复活。
+Dialogue: 0,1:05:23.64,1:05:27.68,English,,0,0,0,,And your soul will remember the love inside you,\N{\rChinese}你的灵魂会记住内在的爱，并且会不断成长，好的？
+Dialogue: 0,1:05:27.76,1:05:30.80,English,,0,0,0,,and it will continue to grow and grow, okay?\N{\rChinese}这就是上帝造我们的原因。
+Dialogue: 0,1:05:31.12,1:05:32.64,English,,0,0,0,,This is why God created us.\N{\rChinese}This is why Godcreated us.
+Dialogue: 0,1:05:32.78,1:05:36.18,English,,0,0,0,,Because if God, if you're perfect, okay, if you're perfect,\N{\rChinese}因为如果上帝，如果你完美，好的，如果你完美，
+Dialogue: 0,1:05:36.48,1:05:39.72,English,,0,0,0,,you are incapable of imagination by definition, right?\N{\rChinese}你按定义就没有想象力，对吗？
+Dialogue: 0,1:05:39.76,1:05:43.30,English,,0,0,0,,Because you can make no mistakes. Because we are the dual nature,\N{\rChinese}因为你不会犯错。因为我们是双重本性，
+Dialogue: 0,1:05:43.40,1:05:47.74,English,,0,0,0,,we are both body and soul, we can make mistakes.\N{\rChinese}我们既是身体又是灵魂，能犯错。
+Dialogue: 0,1:05:48.02,1:05:49.98,English,,0,0,0,,We can err. We can err.\N{\rChinese}我们能犯错。我们能犯错。
+Dialogue: 0,1:05:50.00,1:05:53.12,English,,0,0,0,,And in this process, we develop experience and\N{\rChinese}在这个过程中，我们积累经验。
+Dialogue: 0,1:05:53.12,1:05:56.16,English,,0,0,0,,wisdom, which allows us to love and to have imagination,\N{\rChinese}智慧，让我们能爱与想象，
+Dialogue: 0,1:05:56.90,1:05:58.64,English,,0,0,0,,and to have wisdom, all right?\N{\rChinese}以及拥有智慧，一切都好？
+Dialogue: 0,1:06:00.32,1:06:02.36,English,,0,0,0,,All right. So\N{\rChinese}好的。
+Dialogue: 0,1:06:02.36,1:06:07.00,English,,0,0,0,,let me use an everyday example that you've experienced in order to illustrate this point.\N{\rChinese}让我用一个你亲身经历过的日常例子来说明这一点。
+Dialogue: 0,1:06:07.52,1:06:10.10,English,,0,0,0,,Let's think about two teachers, a teacher who\N{\rChinese}我们来想想两位老师，一位老师……
+Dialogue: 0,1:06:10.10,1:06:13.20,English,,0,0,0,,loves his or her students, and a teacher who\N{\rChinese}……又是一位老师……
+Dialogue: 0,1:06:13.20,1:06:15.12,English,,0,0,0,,does not love his or her students, okay?\N{\rChinese}不爱自己的学生，好吗？
+Dialogue: 0,1:06:15.20,1:06:17.84,English,,0,0,0,,What's the difference? All right, so there are three major differences.\N{\rChinese}有什么区别？好，三点主要区别是：
+Dialogue: 0,1:06:18.24,1:06:21.44,English,,0,0,0,,The teacher who loves students, or is asking himself or herself,\N{\rChinese}那位爱学生的老师，或者他/她自己在问自己，
+Dialogue: 0,1:06:21.64,1:06:23.72,English,,0,0,0,,are my students learning in my class?\N{\rChinese}我的学生在我的课上学习吗？
+Dialogue: 0,1:06:23.84,1:06:25.08,English,,0,0,0,,Are they growing as people?\N{\rChinese}他们在成长为人吗？
+Dialogue: 0,1:06:25.58,1:06:29.56,English,,0,0,0,,Whereas another teacher might be like, are my students getting good grades?\N{\rChinese}而另一位老师可能会问：我的学生拿到好成绩了吗？
+Dialogue: 0,1:06:29.92,1:06:32.16,English,,0,0,0,,All he or she cares about are test scores, right?\N{\rChinese}他/她只关心的是考试成绩，对吗？
+Dialogue: 0,1:06:32.36,1:06:33.60,English,,0,0,0,,That's the first major difference.\N{\rChinese}这就是第一个主要区别。
+Dialogue: 0,1:06:34.22,1:06:38.02,English,,0,0,0,,The first teacher who loves you cares about what is happening inside you.\N{\rChinese}第一位爱你的老师关心的是你内在发生的事。
+Dialogue: 0,1:06:39.12,1:06:40.74,English,,0,0,0,,What, the teacher who\N{\rChinese}什么，那个老师只关心让父母满意，没事吗？
+Dialogue: 0,1:06:40.74,1:06:44.46,English,,0,0,0,,doesn't love you only cares about pleasing parents, okay?\N{\rChinese}第二个区别是这个。那个爱你的老师在问，…
+Dialogue: 0,1:06:45.30,1:06:48.82,English,,0,0,0,,Second difference is this. The teacher who loves you are asking,\N{\rChinese}Second difference is this. The teacher who loves you are asking,
+Dialogue: 0,1:06:48.82,1:06:50.44,English,,0,0,0,,are my students working hard?\N{\rChinese}我的学生们在努力吗？
+Dialogue: 0,1:06:51.38,1:06:53.24,English,,0,0,0,,Okay, because only by working hard can you learn.\N{\rChinese}好的，只有努力学习才能学会。
+Dialogue: 0,1:06:55.00,1:06:58.34,English,,0,0,0,,The second teacher is asking, do students like me, okay?\N{\rChinese}第二位老师在问，学生们像我一样吗？
+Dialogue: 0,1:06:58.56,1:07:02.14,English,,0,0,0,,The teacher wants you to write a good evaluation at the end of semester, okay?\N{\rChinese}老师想让你在学期末写一份好评语，行吗？
+Dialogue: 0,1:07:02.58,1:07:05.72,English,,0,0,0,,Right? And then if you write a good evaluation,\N{\rChinese}对吗？然后如果你写了一份好评语，
+Dialogue: 0,1:07:06.24,1:07:09.88,English,,0,0,0,,the teacher might get a raise or some reward, right?\N{\rChinese}老师可能会得到加薪或奖励，对吧？
+Dialogue: 0,1:07:10.38,1:07:13.12,English,,0,0,0,,And then the last difference, and this is the most important difference, is this.\N{\rChinese}然后最后一个区别，这个区别最重要，便是这样。
+Dialogue: 0,1:07:13.28,1:07:17.82,English,,0,0,0,,A good teacher who loves you is always asking, am I growing personally and professionally?\N{\rChinese}一位爱你的好老师总是问：我个人和专业上是否在成长？
+Dialogue: 0,1:07:17.82,1:07:19.32,English,,0,0,0,,Am I growing as a person?\N{\rChinese}我作为一个人是否在成长？
+Dialogue: 0,1:07:20.04,1:07:23.32,English,,0,0,0,,All right? Because if you're growing, then I'm growing.\N{\rChinese}好的？因为你在成长，我也在成长。
+Dialogue: 0,1:07:23.50,1:07:25.26,English,,0,0,0,,And if I'm growing, then you're growing.\N{\rChinese}如果我在成长，你也在成长。
+Dialogue: 0,1:07:26.14,1:07:28.18,English,,0,0,0,,That's the power of love, okay?\N{\rChinese}这就是爱的力量，行吗？
+Dialogue: 0,1:07:28.28,1:07:30.70,English,,0,0,0,,When you love others, you're actually loving yourself.\N{\rChinese}当你爱别人时，实际上就是在爱自己。
+Dialogue: 0,1:07:32.24,1:07:33.88,English,,0,0,0,,And that's how God designed it.\N{\rChinese}这就是上帝的设计。
+Dialogue: 0,1:07:35.10,1:07:38.34,English,,0,0,0,,But if you're a teacher who does not love, then you're always asking,\N{\rChinese}如果你是个不爱人的老师，那你就总是在问，
+Dialogue: 0,1:07:38.50,1:07:40.00,English,,0,0,0,,how much money am I making?\N{\rChinese}我赚了多少钱？
+Dialogue: 0,1:07:40.16,1:07:42.36,English,,0,0,0,,That's how you measure your success in life.\N{\rChinese}这就是你衡量人生成功的方式。
+Dialogue: 0,1:07:42.50,1:07:45.42,English,,0,0,0,,Am I making a lot of money? If I'm making millions of dollars a year,\N{\rChinese}我赚了很多钱吗？如果我一年赚上百万美元，
+Dialogue: 0,1:07:45.50,1:07:47.80,English,,0,0,0,,then that means I'm the best teacher in China, okay?\N{\rChinese}那么这就意味着我是中国最好的老师，行吗？
+Dialogue: 0,1:07:47.82,1:07:50.60,English,,0,0,0,,But a really good teacher who's capable of love,\N{\rChinese}但真正优秀的老师能做到爱，
+Dialogue: 0,1:07:50.72,1:07:54.02,English,,0,0,0,,who loves teaching and who loves his or her students,\N{\rChinese}他/她爱教学，也爱他的学生们。
+Dialogue: 0,1:07:54.16,1:07:56.22,English,,0,0,0,,is always asking, am I growing?\N{\rChinese}我一直在问，我自己在成长吗？
+Dialogue: 0,1:07:56.40,1:07:58.62,English,,0,0,0,,Because if I'm growing, then I know my students are growing.\N{\rChinese}因为如果我在成长，那我就知道我的学生也在成长。
+Dialogue: 0,1:07:59.88,1:08:02.12,English,,0,0,0,,Okay? So\N{\rChinese}好的？那么
+Dialogue: 0,1:08:02.12,1:08:05.46,English,,0,0,0,,that's what Dante is saying here about love.\N{\rChinese}那就是但丁在这里说的关于爱的内容。
+Dialogue: 0,1:08:06.48,1:08:08.52,English,,0,0,0,,Meaning that we have intuition.\N{\rChinese}也就是说我们有直觉。
+Dialogue: 0,1:08:09.46,1:08:12.52,English,,0,0,0,,We have the power to know truth for ourselves\N{\rChinese}我们有能力自己知道真理。
+Dialogue: 0,1:08:12.52,1:08:15.28,English,,0,0,0,,because God made us this way.\N{\rChinese}因为上帝让我们如此。
+Dialogue: 0,1:08:17.56,1:08:19.44,English,,0,0,0,,Okay. So\N{\rChinese}好的。那么
+Dialogue: 0,1:08:19.44,1:08:22.90,English,,0,0,0,,something I want you to remember\N{\rChinese}我想让你记住的事是
+Dialogue: 0,1:08:22.90,1:08:25.46,English,,0,0,0,,from this class is the\N{\rChinese}从这门课得到的是
+Dialogue: 0,1:08:25.46,1:08:29.48,English,,0,0,0,,Italian Renaissance was really just another,\N{\rChinese}意大利文艺复兴实际上只是另一种
+Dialogue: 0,1:08:29.66,1:08:32.80,English,,0,0,0,,it's reimagining the Greek civilization,\N{\rChinese}它重新想象了希腊文明，
+Dialogue: 0,1:08:33.34,1:08:34.40,English,,0,0,0,,okay? And\N{\rChinese}好的？还有
+Dialogue: 0,1:08:34.40,1:08:40.00,English,,0,0,0,,these are the two major periods of tremendous creativity in Western Europe.\N{\rChinese}这些是西欧两大创意高峰期。
+Dialogue: 0,1:08:40.58,1:08:45.16,English,,0,0,0,,All right, so let's look at the similarities to understand how creativity happened.\N{\rChinese}好了，先看相似点，理解创意如何产生。
+Dialogue: 0,1:08:45.16,1:08:47.56,English,,0,0,0,,What happens in civilization. Okay, so\N{\rChinese}文明中发生了什么。好了，先说第一个相似点。
+Dialogue: 0,1:08:47.56,1:08:52.06,English,,0,0,0,,the first similarity is classical\N{\rChinese}第一个相似点是古典希腊。
+Dialogue: 0,1:08:52.06,1:08:54.58,English,,0,0,0,,Greece had open cooperative competition, okay?\N{\rChinese}古典希腊有开放的协作竞争。
+Dialogue: 0,1:08:54.68,1:08:56.48,English,,0,0,0,,So ideas could flow freely.\N{\rChinese}于是思想可以自由流动。
+Dialogue: 0,1:08:57.26,1:08:58.98,English,,0,0,0,,That's the first major similarity.\N{\rChinese}这就是第一个主要相似点。
+Dialogue: 0,1:08:59.32,1:09:02.80,English,,0,0,0,,Second major similarity is in classical Greece,\N{\rChinese}第二个主要相似点是古典希腊。
+Dialogue: 0,1:09:03.00,1:09:06.68,English,,0,0,0,,they transitioned from Linear B, which is very complicated,\N{\rChinese}他们从非常复杂的线性B文字转向字母表，明白吗？
+Dialogue: 0,1:09:07.32,1:09:09.64,English,,0,0,0,,idiographic language to the alphabet, okay?\N{\rChinese}字母表只把口语转写成文字。
+Dialogue: 0,1:09:09.80,1:09:13.56,English,,0,0,0,,The alphabet just transcribes the written, the spoken word into the written word.\N{\rChinese}The alphabet just transcribes the written, the spoken word into the written word.
+Dialogue: 0,1:09:13.56,1:09:16.88,English,,0,0,0,,This allows for massive literacy\N{\rChinese}这使得古希腊的文盲率大幅提升，知识得以大规模传播。
+Dialogue: 0,1:09:16.88,1:09:19.66,English,,0,0,0,,and the transfusion of knowledge in Greece.\N{\rChinese}并且，若要成为真正的创意社会，关键在于……
+Dialogue: 0,1:09:19.92,1:09:22.98,English,,0,0,0,,And the idea here is if you are truly to be a creative society,\N{\rChinese}And the idea here is if you aretruly to be a creative society,
+Dialogue: 0,1:09:23.24,1:09:24.86,English,,0,0,0,,you must be egalitarian.\N{\rChinese}你必须是平等的。
+Dialogue: 0,1:09:25.16,1:09:28.10,English,,0,0,0,,You must allow anyone to learn,\N{\rChinese}你必须让任何人都能学习，
+Dialogue: 0,1:09:28.26,1:09:31.92,English,,0,0,0,,everyone to express his or her ideas,\N{\rChinese}每个人都能表达自己的想法。
+Dialogue: 0,1:09:32.22,1:09:33.50,English,,0,0,0,,which is what the Renaissance did, okay?\N{\rChinese}这就是文艺复兴所做的事，明白吗？
+Dialogue: 0,1:09:34.44,1:09:37.26,English,,0,0,0,,The Italian Renaissance was supported by the fact that\N{\rChinese}意大利文艺复兴得以此为支撑，原因是……
+Dialogue: 0,1:09:37.26,1:09:40.32,English,,0,0,0,,they transitioned from Latin to the vernacular, the spoken language.\N{\rChinese}他们从拉丁语转向方言，即口语。
+Dialogue: 0,1:09:40.60,1:09:43.54,English,,0,0,0,,It was Dante who allowed the transition to Latin.\N{\rChinese}是但丁让这一转变成了拉丁语。
+Dialogue: 0,1:09:43.56,1:09:48.60,English,,0,0,0,,to happen, okay? Dante purposefully chose not to write in Latin,\N{\rChinese}发生了，明白吗？但丁有意地选择不写拉丁语，
+Dialogue: 0,1:09:48.74,1:09:52.66,English,,0,0,0,,even though Latin was the official language of the intellectual class in Europe at this time.\N{\rChinese}即便拉丁语是当时欧洲知识阶层的官方语言。
+Dialogue: 0,1:09:52.78,1:09:56.42,English,,0,0,0,,He purposely chose to write in Tuscan, which is a local language.\N{\rChinese}他专门选择用托斯卡语写作，这是一种地方语言。
+Dialogue: 0,1:09:56.64,1:09:59.56,English,,0,0,0,,And because he did that, he made Tuscan, first of all,\N{\rChinese}因为他这么做，托斯卡语首先成为意大利的官方语言，至今仍被使用。
+Dialogue: 0,1:09:59.60,1:10:04.36,English,,0,0,0,,the official language of Italy, they still speak it today, but it also makes the line comedy accessible\N{\rChinese}这也让戏剧更易被大众理解。
+Dialogue: 0,1:10:05.00,1:10:07.84,English,,0,0,0,,to common people, which was the intention, okay?\N{\rChinese}给普通人听，正是意图，明白吗？
+Dialogue: 0,1:10:09.08,1:10:11.86,English,,0,0,0,,And the third similarity, and this is the most important,\N{\rChinese}第三点相似，且最重要的是，
+Dialogue: 0,1:10:13.56,1:10:16.72,English,,0,0,0,,the perfect storm of factors don't really matter\N{\rChinese}完美的因素风暴并不重要
+Dialogue: 0,1:10:17.62,1:10:20.18,English,,0,0,0,,unless you have a great poet,\N{\rChinese}如果你没有一位伟大的诗人，
+Dialogue: 0,1:10:20.40,1:10:21.84,English,,0,0,0,,a great thinker,\N{\rChinese}一位伟大的思想家，
+Dialogue: 0,1:10:21.88,1:10:26.06,English,,0,0,0,,a great intellectual to create the spark to ignite your civilization,\N{\rChinese}一位伟大的知识分子来点燃你们的文明
+Dialogue: 0,1:10:26.44,1:10:29.52,English,,0,0,0,,okay? So in Greece, they had Homer,\N{\rChinese}好的？在希腊，他们有荷马，
+Dialogue: 0,1:10:29.68,1:10:32.96,English,,0,0,0,,and today we can think of Homer as the father of civilization.\N{\rChinese}今天我们可以把荷马当作文明之父。
+Dialogue: 0,1:10:34.46,1:10:37.16,English,,0,0,0,,In the Italian Renaissance, you had Dante.\N{\rChinese}在意大利文艺复兴时期，你有但丁。
+Dialogue: 0,1:10:37.32,1:10:39.54,English,,0,0,0,,You can think of him as the father of modernity.\N{\rChinese}你可以把他当作现代性的父亲。
+Dialogue: 0,1:10:39.68,1:10:42.74,English,,0,0,0,,The values that he creates, the values that\N{\rChinese}他创造的价值观， 他所表达的价值观， 他在喜剧中所拥有的价值观将成为现代性的基础。
+Dialogue: 0,1:10:42.74,1:10:47.90,English,,0,0,0,,he expresses, the values that he has in the line comedy will become the basis for modernity,\N{\rChinese}he expresses, the values that he has in the line comedy will become the basis for modernity,
+Dialogue: 0,1:10:47.96,1:10:51.08,English,,0,0,0,,especially the idea of individuality, of humanism, right?\N{\rChinese}尤其是个体性、人的主义的观念，对吧？
+Dialogue: 0,1:10:52.34,1:10:56.00,English,,0,0,0,,What is an individual? An individual is someone who celebrates himself\N{\rChinese}个体是什么？个体是自我庆祝的人，
+Dialogue: 0,1:10:56.40,1:11:00.98,English,,0,0,0,,and pursues his or her curiosity to explore the world\N{\rChinese}他或她追随好奇去探世界
+Dialogue: 0,1:11:00.98,1:11:05.32,English,,0,0,0,,and in this process create goodness in the world,\N{\rChinese}并在此过程中在世界中创造善良，并创造真理与美感。
+Dialogue: 0,1:11:05.36,1:11:08.96,English,,0,0,0,,to create truth and beauty. This is the idea that will underpin the Renaissance\N{\rChinese}这就是支撑文艺复兴的理念，也仍是西方现代性与现代世界的基石。
+Dialogue: 0,1:11:09.30,1:11:12.90,English,,0,0,0,,and which still underpins Western modernity and the modern world.\N{\rChinese}and which still underpins Western modernity and the modern world.
+Dialogue: 0,1:11:14.88,1:11:20.44,English,,0,0,0,,So, what is the ultimate message?\N{\rChinese}那么，最终的意思是什么？
+Dialogue: 0,1:11:24.50,1:11:26.16,English,,0,0,0,,The ultimate message is the ultimate secret of the universe.\N{\rChinese}最终的意思就是宇宙的终极秘密。
+Dialogue: 0,1:11:26.26,1:11:27.56,English,,0,0,0,,I want you to remember, okay?\N{\rChinese}我想让你记住，好吗？
+Dialogue: 0,1:11:27.62,1:11:30.44,English,,0,0,0,,And both Homer and Dante expressed this in their poetry.\N{\rChinese}并且荷马与但丁都在诗中表达了这一点。
+Dialogue: 0,1:11:30.58,1:11:34.88,English,,0,0,0,,It's this. Love is the unifying force of the universe,\N{\rChinese}这就是了。爱是宇宙的统一力量，
+Dialogue: 0,1:11:35.14,1:11:37.10,English,,0,0,0,,okay? Love is God.\N{\rChinese}好吧？爱即是上帝。
+Dialogue: 0,1:11:37.26,1:11:40.94,English,,0,0,0,,God is love. It's what unites everyone, okay?\N{\rChinese}上帝是爱。它把大家统一在一起，好吗？
+Dialogue: 0,1:11:41.04,1:11:43.40,English,,0,0,0,,By loving someone else, you can become that person.\N{\rChinese}通过爱别人，你可以成为那个人。
+Dialogue: 0,1:11:43.46,1:11:45.18,English,,0,0,0,,So, you can become that person. That person can become you.\N{\rChinese}于是，你就能成为那个人。那个人又能成为你。
+Dialogue: 0,1:11:45.40,1:11:49.80,English,,0,0,0,,And the imagination is the animating force, okay?\N{\rChinese}并且想象是动能的力量，好吗？
+Dialogue: 0,1:11:49.90,1:11:53.54,English,,0,0,0,,What gives life to the world is not God, but our imagination.\N{\rChinese}给世界生命的不是上帝，而是我们的想象。
+Dialogue: 0,1:11:54.12,1:11:56.84,English,,0,0,0,,By imagining the world, the world becomes alive.\N{\rChinese}通过想象世界，世界就变得有生气。
+Dialogue: 0,1:11:57.18,1:11:58.56,English,,0,0,0,,So, the greater our imagination,\N{\rChinese}于是，想象越大，想象就越有生气。
+Dialogue: 0,1:11:58.96,1:12:01.48,English,,0,0,0,,the more alive our imagination becomes.\N{\rChinese}而这点在画中最直观地表现出来。
+Dialogue: 0,1:12:01.88,1:12:06.64,English,,0,0,0,,And this idea is most visually expressed in the painting,\N{\rChinese}And this idea is most visually expressed in the painting,
+Dialogue: 0,1:12:06.76,1:12:10.62,English,,0,0,0,,The Creation of Adam, by Michelangelo, okay?\N{\rChinese}《创世亚当》由米开朗创作，好吗？
+Dialogue: 0,1:12:11.12,1:12:12.46,English,,0,0,0,,This is Michelangelo.\N{\rChinese}这就是米开朗。
+Dialogue: 0,1:12:13.14,1:12:14.44,English,,0,0,0,,The Creation of Adam.\N{\rChinese}《创世亚当》。
+Dialogue: 0,1:12:14.82,1:12:18.62,English,,0,0,0,,And so, this goes back to the story of how God created Adam.\N{\rChinese}于是，这回到上帝创造亚当的故事。
+Dialogue: 0,1:12:19.46,1:12:21.92,English,,0,0,0,,God created Adam out of dust, and\N{\rChinese}上帝用尘土造亚当，且……
+Dialogue: 0,1:12:21.92,1:12:25.62,English,,0,0,0,,he breathed the essence of life into Adam, okay?\N{\rChinese}并把生命的精气吹入亚当。
+Dialogue: 0,1:12:26.12,1:12:30.46,English,,0,0,0,,Now, there are two ways of looking at this painting, okay?\N{\rChinese}现在，有两种方式来看这幅画，好吗？
+Dialogue: 0,1:12:30.66,1:12:32.92,English,,0,0,0,,There are two ways of understanding the title, The Creation of Adam.\N{\rChinese}有两种方式来理解标题《创世亚当》。”
+Dialogue: 0,1:12:33.18,1:12:36.38,English,,0,0,0,,You can first understand it in the typical way, which\N{\rChinese}你可以先按典型方式理解，……
+Dialogue: 0,1:12:36.38,1:12:40.08,English,,0,0,0,,is that God created Adam, and that they are equals, okay?\N{\rChinese}是的，神造了亚当，且他们是平等的，行吗？
+Dialogue: 0,1:12:40.18,1:12:44.04,English,,0,0,0,,You can see that these two worlds, the creation of Adam, and God, they're almost equal.\N{\rChinese}你可以看到这两个世界，亚当的创造和神，几乎是平等的。
+Dialogue: 0,1:12:44.20,1:12:47.46,English,,0,0,0,,We are equal to God. But then you can change perspective,\N{\rChinese}我们与神平等。但随后你可以换个视角。
+Dialogue: 0,1:12:47.62,1:12:49.80,English,,0,0,0,,and you can say, the creation of Adam really means\N{\rChinese}并且你可以说，亚当的创造真正意味着
+Dialogue: 0,1:12:50.48,1:12:52.34,English,,0,0,0,,God is Adam's creation.\N{\rChinese}神是亚当的创造物。
+Dialogue: 0,1:12:53.66,1:12:56.24,English,,0,0,0,,God is what we created from our imagination,\N{\rChinese}神是我们从想象中创造的。
+Dialogue: 0,1:12:56.62,1:13:02.58,English,,0,0,0,,all right? Now, you can see God is surrounded by his angels,\N{\rChinese}一切都对吗？现在，你可以看到神被他的天使包围着，
+Dialogue: 0,1:13:02.84,1:13:06.42,English,,0,0,0,,okay? But you take them away, and what do you have behind them?\N{\rChinese}好了？但你把它们拿走，背后你得到什么？
+Dialogue: 0,1:13:07.28,1:13:11.46,English,,0,0,0,,Guys, this is a picture of the human brain, right?\N{\rChinese}伙计们，这是一幅人脑的图，没错吧？
+Dialogue: 0,1:13:11.46,1:13:14.88,English,,0,0,0,,Do you see this? Okay, this is a stem, okay?\N{\rChinese}你看见这个了吗？好了，这是一根干，好的？
+Dialogue: 0,1:13:14.98,1:13:17.40,English,,0,0,0,,And this is the human brain, okay?\N{\rChinese}而这就是人脑，好的？
+Dialogue: 0,1:13:17.48,1:13:21.38,English,,0,0,0,,You take them away, and hidden behind is the human brain, right?\N{\rChinese}你把它们拿走，隐藏在后面的是人脑，对吗？
+Dialogue: 0,1:13:21.68,1:13:23.34,English,,0,0,0,,Which means what? Which means that\N{\rChinese}哪意味着什么？哪意味着……
+Dialogue: 0,1:13:23.34,1:13:26.52,English,,0,0,0,,God is an emanation from our imagination,\N{\rChinese}上帝是我们想象的衍生物，
+Dialogue: 0,1:13:26.96,1:13:28.36,English,,0,0,0,,okay?\N{\rChinese}好了？
+Dialogue: 0,1:13:29.16,1:13:33.68,English,,0,0,0,,Not the true God. The true God is like light itself,\N{\rChinese}不是那真神。真神就像光本身，吧？
+Dialogue: 0,1:13:33.88,1:13:38.00,English,,0,0,0,,right? Love itself, okay? But this God has given us a capacity to imagine,\N{\rChinese}爱本身，好的？但这神赐给我们想象的能力，
+Dialogue: 0,1:13:38.14,1:13:41.04,English,,0,0,0,,so we've imagined another God to be,\N{\rChinese}于是我们想象了另一位神
+Dialogue: 0,1:13:41.04,1:13:45.28,English,,0,0,0,,to take place of the real God, okay?\N{\rChinese}取代真正的神，好的？
+Dialogue: 0,1:13:45.34,1:13:48.40,English,,0,0,0,,Do you understand? So the real God is the human imagination,\N{\rChinese}你明白了吗？于是真正的神就是人类的想象，
+Dialogue: 0,1:13:49.22,1:13:50.78,English,,0,0,0,,the human brain, the human mind.\N{\rChinese}人类的大脑，人类的心智。
+Dialogue: 0,1:13:51.58,1:13:53.42,English,,0,0,0,,That's what gives life to the universe, okay?\N{\rChinese}这就是赋予宇宙生命的原因，吧？
+Dialogue: 0,1:13:53.76,1:13:55.10,English,,0,0,0,,So this, if you think about it,\N{\rChinese}所以这件事，如果你思考一下，
+Dialogue: 0,1:13:55.18,1:14:00.16,English,,0,0,0,,it is a radical revolution in human intellectual history.\N{\rChinese}它是人类知识史上的一次根本革命。
+Dialogue: 0,1:14:00.90,1:14:02.48,English,,0,0,0,,You guys, do you know where this painting is?\N{\rChinese}你们知道这幅画在哪里吗？
+Dialogue: 0,1:14:03.24,1:14:08.62,English,,0,0,0,,This painting is on the top of something called the Sistine Chapel in the Vatican.\N{\rChinese}这幅画在梵蒂冈的西斯廷教堂顶部。
+Dialogue: 0,1:14:10.38,1:14:12.88,English,,0,0,0,,It's at the Vatican. It's at the very heart of the Catholic Church.\N{\rChinese}它在梵蒂冈，正是天主教会的心脏。
+Dialogue: 0,1:14:13.60,1:14:16.14,English,,0,0,0,,So what Darnay has been able to do\N{\rChinese}于是达纳伊所能做到的事
+Dialogue: 0,1:14:16.14,1:14:21.52,English,,0,0,0,,is destroy an empire peacefully for the power of poetry,\N{\rChinese}是用诗歌的力量，平静地摧毁一个帝国，
+Dialogue: 0,1:14:22.22,1:14:25.06,English,,0,0,0,,for subtlety, for the power of love.\N{\rChinese}用细腻与爱的力量
+Dialogue: 0,1:14:25.58,1:14:28.94,English,,0,0,0,,Darnay was able to influence Michelangelo, who was able to take his ideas\N{\rChinese}达纳伊能够影响米开朗，米开朗又把他的想法植入天主教会的心脏，
+Dialogue: 0,1:14:28.94,1:14:34.00,English,,0,0,0,,and then plant his ideas within the very heart of the Catholic Church,\N{\rChinese}随后把这些想法植入天主教会的心脏，
+Dialogue: 0,1:14:34.18,1:14:36.14,English,,0,0,0,,and thus reinvent the Catholic Church.\N{\rChinese}从而重新塑造了天主教会。
+Dialogue: 0,1:14:36.36,1:14:37.80,English,,0,0,0,,That is the power of love.\N{\rChinese}那就是爱的力量。
+Dialogue: 0,1:14:37.92,1:14:40.04,English,,0,0,0,,That is the power of imagination, right?\N{\rChinese}那就是想象的力量，对吧？
+Dialogue: 0,1:14:41.70,1:14:44.78,English,,0,0,0,,Great. Okay, any questions?\N{\rChinese}好的，任何问题吗？
+Dialogue: 0,1:14:53.48,1:14:55.14,English,,0,0,0,,Okay, so think of some questions.\N{\rChinese}好的，先想想几个问题。
+Dialogue: 0,1:14:55.60,1:15:00.40,English,,0,0,0,,Next class, we will do the Protestant Reformation, okay?\N{\rChinese}下节课我们来讲新教改革，好吗？

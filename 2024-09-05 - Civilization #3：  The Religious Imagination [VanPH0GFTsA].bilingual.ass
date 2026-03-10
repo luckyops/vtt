@@ -1,0 +1,940 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.06,0:00:04.62,English,,0,0,0,,Okay, so I want to summarize\N{\rChinese}好的，我想先做个总结
+Dialogue: 0,0:00:04.62,0:00:07.94,English,,0,0,0,,and review what we have learned so far.\N{\rChinese}再回顾一下到目前为止学到的内容
+Dialogue: 0,0:00:08.34,0:00:12.06,English,,0,0,0,,So the main message is\N{\rChinese}所以主要信息是
+Dialogue: 0,0:00:12.06,0:00:15.84,English,,0,0,0,,that for most of human history,\N{\rChinese}在大多数人类历史里，
+Dialogue: 0,0:00:16.10,0:00:19.76,English,,0,0,0,,we have been peaceful, egalitarian,\N{\rChinese}我们一直是和平、平等的，
+Dialogue: 0,0:00:20.12,0:00:21.80,English,,0,0,0,,and artistic. So\N{\rChinese}并且富有艺术气息。
+Dialogue: 0,0:00:21.80,0:00:24.66,English,,0,0,0,,about 200,000 years ago,\N{\rChinese}大约20万年前，我们的物种，智人，诞生于非洲。
+Dialogue: 0,0:00:24.70,0:00:27.32,English,,0,0,0,,our species, Homo sapiens,\N{\rChinese}我们在非洲诞生。
+Dialogue: 0,0:00:27.66,0:00:29.96,English,,0,0,0,,were born in Africa.\N{\rChinese}were born in Africa.
+Dialogue: 0,0:00:30.46,0:00:34.32,English,,0,0,0,,And then 50,000 years ago,\N{\rChinese}然后大约5万年前，
+Dialogue: 0,0:00:34.44,0:00:36.48,English,,0,0,0,,because of climate change,\N{\rChinese}因为气候变化，
+Dialogue: 0,0:00:36.80,0:00:40.68,English,,0,0,0,,we started to spread around the world.\N{\rChinese}我们开始在世界各地扩散。
+Dialogue: 0,0:00:41.20,0:00:44.08,English,,0,0,0,,And throughout most of our history,\N{\rChinese}在我们历史的大部分里，
+Dialogue: 0,0:00:44.40,0:00:48.72,English,,0,0,0,,we have been hunter -gatherers.\N{\rChinese}我们一直是狩猎采集者。
+Dialogue: 0,0:00:48.84,0:00:50.88,English,,0,0,0,,And we don't know.\N{\rChinese}我们也不清楚。
+Dialogue: 0,0:00:50.90,0:00:53.44,English,,0,0,0,,We don't know that much about our history.\N{\rChinese}我们对自己的历史了解不多。
+Dialogue: 0,0:00:53.60,0:00:55.72,English,,0,0,0,,We can only guess. But\N{\rChinese}我们只能猜测。但
+Dialogue: 0,0:00:55.72,0:01:00.24,English,,0,0,0,,based on the available archaeological evidence, we were,\N{\rChinese}根据现有的考古证据，我们是……
+Dialogue: 0,0:01:01.46,0:01:05.12,English,,0,0,0,,for most of the time, peaceful, egalitarian, and artistic.\N{\rChinese}大部分时间里，平静、平等且富有艺术气息。
+Dialogue: 0,0:01:05.88,0:01:10.42,English,,0,0,0,,Okay, so peaceful does not mean we were not violent.\N{\rChinese}好的，平静并不代表我们没有暴力。
+Dialogue: 0,0:01:10.86,0:01:15.40,English,,0,0,0,,There is lots of evidence that there was in -group conflict.\N{\rChinese}有大量证据表明，群内曾有冲突。
+Dialogue: 0,0:01:17.64,0:01:20.88,English,,0,0,0,,So, for example, we discovered that\N{\rChinese}所以，例如，我们发现……
+Dialogue: 0,0:01:20.88,0:01:26.56,English,,0,0,0,,the people in burials were people with skull fractures.\N{\rChinese}墓葬中的人们都有颅骨骨折的痕迹。
+Dialogue: 0,0:01:27.02,0:01:29.24,English,,0,0,0,,So there has been violence, but\N{\rChinese}因此，曾经有过暴力，但
+Dialogue: 0,0:01:29.24,0:01:33.86,English,,0,0,0,,there has been no evidence of organized warfare.\N{\rChinese}已无有组织战争的证据。
+Dialogue: 0,0:01:34.28,0:01:35.72,English,,0,0,0,,That comes much later.\N{\rChinese}这件事要晚点才出现。
+Dialogue: 0,0:01:36.56,0:01:37.84,English,,0,0,0,,That's the first thing.\N{\rChinese}这就是第一件事。
+Dialogue: 0,0:01:38.04,0:01:41.08,English,,0,0,0,,The second thing is that we were egalitarian,\N{\rChinese}第二件事是我们是平等的，
+Dialogue: 0,0:01:41.44,0:01:45.30,English,,0,0,0,,meaning that there was no difference in status\N{\rChinese}意思是男女之间没有身份差别，
+Dialogue: 0,0:01:45.30,0:01:47.02,English,,0,0,0,,and power between men and women.\N{\rChinese}并且权力也相等。
+Dialogue: 0,0:01:47.22,0:01:49.70,English,,0,0,0,,Men and women were considered equal.\N{\rChinese}男女被视为平等。
+Dialogue: 0,0:01:51.02,0:01:54.08,English,,0,0,0,,There was no hierarchy, meaning that\N{\rChinese}没有层级，意味着……
+Dialogue: 0,0:01:54.08,0:01:58.08,English,,0,0,0,,there were people who were considered more wealthy than other people.\N{\rChinese}有些人被视为比其他人更富有。
+Dialogue: 0,0:01:58.22,0:01:59.84,English,,0,0,0,,We know because\N{\rChinese}我们知道因为
+Dialogue: 0,0:01:59.84,0:02:05.22,English,,0,0,0,,we could not find any evidence of hierarchy,\N{\rChinese}我们找不到任何层级的证据，
+Dialogue: 0,0:02:05.50,0:02:08.86,English,,0,0,0,,meaning larger houses, meaning groups with special privileges.\N{\rChinese}即大屋，指有特殊特权的团体。
+Dialogue: 0,0:02:09.48,0:02:11.74,English,,0,0,0,,Now, there are individuals\N{\rChinese}现在，有些个体
+Dialogue: 0,0:02:11.74,0:02:14.96,English,,0,0,0,,who might have higher status.\N{\rChinese}他们可能拥有更高的地位。
+Dialogue: 0,0:02:15.18,0:02:16.60,English,,0,0,0,,And we know because\N{\rChinese}我们知道因为
+Dialogue: 0,0:02:16.60,0:02:20.88,English,,0,0,0,,they were buried more elaborately than other people.\N{\rChinese}他们的葬礼比其他人更为精致。
+Dialogue: 0,0:02:20.88,0:02:23.22,English,,0,0,0,,So, for example, shamans, right?\N{\rChinese}比如说，巫师，对吧？
+Dialogue: 0,0:02:23.60,0:02:26.70,English,,0,0,0,,Shamans were their religious leaders, and\N{\rChinese}巫师是他们的宗教领袖，且
+Dialogue: 0,0:02:26.70,0:02:29.74,English,,0,0,0,,as such, they were quoted higher status than everyone else.\N{\rChinese}于是，他们被认为比其他人更高贵。
+Dialogue: 0,0:02:30.10,0:02:33.00,English,,0,0,0,,Okay? And the third thing is artistic.\N{\rChinese}好的？第三点是艺术。
+Dialogue: 0,0:02:33.58,0:02:38.04,English,,0,0,0,,So, as we know, they were engaged in cave paintings.\N{\rChinese}因此，正如我们所知，他们从事洞穴绘画。
+Dialogue: 0,0:02:38.14,0:02:42.54,English,,0,0,0,,They built monuments in order to celebrate and worship their religion.\N{\rChinese}他们建造纪念碑以庆祝并崇拜他们的宗教。
+Dialogue: 0,0:02:42.74,0:02:46.44,English,,0,0,0,,So for them, art really was about the expression\N{\rChinese}于是，对他们而言，艺术真正是表达与庆祝宗教的方式。
+Dialogue: 0,0:02:46.44,0:02:50.58,English,,0,0,0,,and celebration of their religion.\N{\rChinese}and celebrationof their religion.
+Dialogue: 0,0:02:50.88,0:02:53.84,English,,0,0,0,,Okay? So, for most of human history,\N{\rChinese}好的？所以，在人类历史的大部分里，我们是和平、平等且富有艺术的。
+Dialogue: 0,0:02:54.08,0:02:56.74,English,,0,0,0,,we were peaceful, egalitarian, and artistic.\N{\rChinese}我们知道今天，我们已不再是和平的。
+Dialogue: 0,0:02:57.12,0:03:00.14,English,,0,0,0,,And we know that today, we are not peaceful.\N{\rChinese}And we know that today, we are not peaceful.
+Dialogue: 0,0:03:00.52,0:03:01.98,English,,0,0,0,,We are not egalitarian.\N{\rChinese}我们不再是平等的。
+Dialogue: 0,0:03:02.28,0:03:04.58,English,,0,0,0,,We are not that artistic. So what changed?\N{\rChinese}我们也不再是那样的艺术家。那又有什么变化？
+Dialogue: 0,0:03:05.36,0:03:09.78,English,,0,0,0,,Next week, I will explain to you what changed. Okay?\N{\rChinese}下周，我会告诉你变化了什么。
+Dialogue: 0,0:03:09.84,0:03:15.74,English,,0,0,0,,Basically, a new group of people called the Yamnaya came into being,\N{\rChinese}基本上，出现了一群被称为雅马雅人的新族群，
+Dialogue: 0,0:03:15.88,0:03:19.32,English,,0,0,0,,and they had a different religion that celebrated warfare,\N{\rChinese}他们拥有一种不同的宗教，庆祝战争、父系制等。
+Dialogue: 0,0:03:19.72,0:03:21.90,English,,0,0,0,,patriarchalism, and the like. Okay?\N{\rChinese}好吗？
+Dialogue: 0,0:03:22.80,0:03:26.02,English,,0,0,0,,And eventually spread all around Europe\N{\rChinese}最终在欧洲和亚洲传播开来，
+Dialogue: 0,0:03:26.02,0:03:30.30,English,,0,0,0,,and Asia, and they conquered everyone, and they created a new history of humanity.\N{\rChinese}并征服了所有人，创造了人类的新历史。
+Dialogue: 0,0:03:30.54,0:03:31.72,English,,0,0,0,,That's next week. Okay? So\N{\rChinese}下周再说。
+Dialogue: 0,0:03:31.72,0:03:35.26,English,,0,0,0,,I want to explain the\N{\rChinese}我想解释一下
+Dialogue: 0,0:03:35.26,0:03:39.80,English,,0,0,0,,evidence for why we think most of human history,\N{\rChinese}我们认为大部分人类历史的证据
+Dialogue: 0,0:03:40.04,0:03:42.74,English,,0,0,0,,we were peaceful, egalitarian, and artistic.\N{\rChinese}我们是和平、平等、艺术的
+Dialogue: 0,0:03:43.12,0:03:46.14,English,,0,0,0,,Okay. So something else\N{\rChinese}好的。还有别的事
+Dialogue: 0,0:03:46.14,0:03:50.84,English,,0,0,0,,that we discuss in class is we don't want to be a group of people who are not happy with what we do.\N{\rChinese}我们在课堂上讨论的另一件事是我们不想成为一群对自己所做的事不满意的人。
+Dialogue: 0,0:03:50.86,0:03:54.44,English,,0,0,0,,We don't know what their religion was,\N{\rChinese}我们不知道他们的宗教是什么。
+Dialogue: 0,0:03:54.80,0:03:58.60,English,,0,0,0,,but we suspect that it was animism and shamanism.\N{\rChinese}但我们猜测那是灵物论与巫术。
+Dialogue: 0,0:03:58.80,0:04:01.88,English,,0,0,0,,Okay? Remember that animism is the belief\N{\rChinese}好的？记住灵物论是指我们都来自母神，
+Dialogue: 0,0:04:01.88,0:04:06.58,English,,0,0,0,,that we all come from the mother goddess,\N{\rChinese}that we all come from the mother goddess,
+Dialogue: 0,0:04:06.78,0:04:10.46,English,,0,0,0,,from one source of life, including trees,\N{\rChinese}来自同一生命源，包括树木
+Dialogue: 0,0:04:10.84,0:04:12.66,English,,0,0,0,,animals, and humans.\N{\rChinese}动物，和人类。
+Dialogue: 0,0:04:12.86,0:04:17.04,English,,0,0,0,,So every living being has a soul.\N{\rChinese}于是每个有生命的存在都有灵魂。
+Dialogue: 0,0:04:17.84,0:04:20.84,English,,0,0,0,,Okay? And the other thing is that we are not religious.\N{\rChinese}好的？另外一件事是我们不是宗教的。
+Dialogue: 0,0:04:20.86,0:04:23.84,English,,0,0,0,,Okay? And by religious we mean that the soul is permanent.\N{\rChinese}好的？而说宗教就是指灵魂是永恒的。
+Dialogue: 0,0:04:24.04,0:04:25.28,English,,0,0,0,,You can't ever kill it.\N{\rChinese}你永远不能杀死它。
+Dialogue: 0,0:04:25.86,0:04:28.48,English,,0,0,0,,Okay? The body and the soul are different.\N{\rChinese}好吧？身体和灵魂是不同的。
+Dialogue: 0,0:04:28.66,0:04:31.48,English,,0,0,0,,So it doesn't really matter if you die because\N{\rChinese}所以你死了也不算什么事，因为你的灵魂会去别处，或许会回来。
+Dialogue: 0,0:04:31.48,0:04:34.84,English,,0,0,0,,your soul will go somewhere else and maybe come back.\N{\rChinese}your soul will go somewhere else and maybe come back.
+Dialogue: 0,0:04:35.02,0:04:36.60,English,,0,0,0,,Okay? So death was not a big deal.\N{\rChinese}好吧？死亡不算大事。
+Dialogue: 0,0:04:36.94,0:04:39.24,English,,0,0,0,,And the third thing is that\N{\rChinese}第三件事是……
+Dialogue: 0,0:04:39.24,0:04:42.48,English,,0,0,0,,there's a spirit world or another world\N{\rChinese}有一个灵界或另一个世界
+Dialogue: 0,0:04:42.48,0:04:45.20,English,,0,0,0,,which is more real than our world.\N{\rChinese}它比我们的世界更真实
+Dialogue: 0,0:04:45.32,0:04:48.90,English,,0,0,0,,Okay? Our world is just a manifestation,\N{\rChinese}我们的世界只是一个显现，物质的显现是精神显现的表现。
+Dialogue: 0,0:04:49.34,0:04:50.84,English,,0,0,0,,a physical manifestation of spiritualporteriality.\N{\rChinese}a physical manifestationof spiritualporteriality.
+Dialogue: 0,0:04:50.86,0:04:54.00,English,,0,0,0,,of the spirit world, but what matters is the spirit world.\N{\rChinese}灵界的事，重要的是灵界本身。
+Dialogue: 0,0:04:54.56,0:04:57.58,English,,0,0,0,,And the last thing is that\N{\rChinese}最后一件事是……
+Dialogue: 0,0:04:57.58,0:05:01.66,English,,0,0,0,,there's an order to the universe.\N{\rChinese}宇宙有其秩序。
+Dialogue: 0,0:05:01.94,0:05:03.46,English,,0,0,0,,We have a part to play.\N{\rChinese}我们有一段要演的。
+Dialogue: 0,0:05:03.78,0:05:07.20,English,,0,0,0,,So for example, we can kill animals to feed ourselves,\N{\rChinese}比如说，我们可以杀动物来喂自己，
+Dialogue: 0,0:05:07.56,0:05:10.22,English,,0,0,0,,but we must pay tribute to these animals\N{\rChinese}但我们得给这些动物交贡。
+Dialogue: 0,0:05:11.26,0:05:16.24,English,,0,0,0,,before and after we kill them in order to maintain the harmony of the universe.\N{\rChinese}在我们杀死它们之前和之后，以维持宇宙的和谐。
+Dialogue: 0,0:05:16.96,0:05:18.34,English,,0,0,0,,Okay? So\N{\rChinese}好吧？所以
+Dialogue: 0,0:05:18.34,0:05:21.38,English,,0,0,0,,that's what we believe the\N{\rChinese}这就是我们所信的
+Dialogue: 0,0:05:21.38,0:05:26.50,English,,0,0,0,,religion of early humans were everywhere in the world,\N{\rChinese}早期人类的宗教遍布世界各地，
+Dialogue: 0,0:05:26.64,0:05:29.48,English,,0,0,0,,okay? Including in China, including in Europe.\N{\rChinese}好吧？包括中国，也包括欧洲。
+Dialogue: 0,0:05:30.16,0:05:32.92,English,,0,0,0,,This is Gopalatepe, and\N{\rChinese}这就是Gopalatepe，
+Dialogue: 0,0:05:32.92,0:05:36.80,English,,0,0,0,,you can see that this is a T -pillar\N{\rChinese}你可以看到这是一根T柱
+Dialogue: 0,0:05:37.56,0:05:39.86,English,,0,0,0,,and it's meant to represent a human.\N{\rChinese}它的意思是代表人类
+Dialogue: 0,0:05:40.06,0:05:42.64,English,,0,0,0,,And inside the T -pillar is an animal.\N{\rChinese}T柱内部是动物
+Dialogue: 0,0:05:42.88,0:05:47.58,English,,0,0,0,,So basically, the T -pillar represents a human being.\N{\rChinese}于是，T柱代表的是人类本身。
+Dialogue: 0,0:05:47.60,0:05:50.44,English,,0,0,0,,And the animal is the manifestation of the animal spirit in us.\N{\rChinese}而动物则是我们内在的动物精神的显现。
+Dialogue: 0,0:05:50.62,0:05:53.84,English,,0,0,0,,And we believe that this is a religious festival\N{\rChinese}我们认为这是一场宗教节庆。
+Dialogue: 0,0:05:53.84,0:05:57.02,English,,0,0,0,,that they would have before they went hunting.\N{\rChinese}他们在去狩猎之前会有这些东西。
+Dialogue: 0,0:05:57.32,0:05:59.86,English,,0,0,0,,And the evidence for this is that at this site,\N{\rChinese}而且证据是，在这个地点，
+Dialogue: 0,0:05:59.94,0:06:02.44,English,,0,0,0,,we found a lot of animal bones.\N{\rChinese}我们发现了大量动物骨骼。
+Dialogue: 0,0:06:03.00,0:06:06.06,English,,0,0,0,,Okay? So does that make sense, guys?\N{\rChinese}好的？这样说通吗，大家？
+Dialogue: 0,0:06:07.26,0:06:09.98,English,,0,0,0,,Alright. So again, this is all just review.\N{\rChinese}好的。再说一次，这一切都是回顾。
+Dialogue: 0,0:06:11.68,0:06:15.52,English,,0,0,0,,This religion goes back a long time, okay?\N{\rChinese}这种宗教可以追溯很久以前，好的？
+Dialogue: 0,0:06:15.78,0:06:17.58,English,,0,0,0,,So this is 40,000 years ago.\N{\rChinese}这就是四万年前的事。
+Dialogue: 0,0:06:17.60,0:06:21.24,English,,0,0,0,,We found this small figurine, okay?\N{\rChinese}我们在德国的一个洞穴里发现了这个小雕像，好的？
+Dialogue: 0,0:06:21.32,0:06:24.34,English,,0,0,0,,It's a very small figurine in a cave in Germany.\N{\rChinese}它是一个非常小的雕像。
+Dialogue: 0,0:06:24.46,0:06:27.78,English,,0,0,0,,And this dates back to 40,000 years ago.\N{\rChinese}它的年代可追溯到四万年前。
+Dialogue: 0,0:06:28.22,0:06:33.00,English,,0,0,0,,Okay? So remember, 50,000 years ago, we started to leave Africa\N{\rChinese}好吧？记住，五万年前我们开始离开非洲，向欧洲及世界各地进发。
+Dialogue: 0,0:06:33.37,0:06:37.20,English,,0,0,0,,and venture into Europe and around the world, okay?\N{\rChinese}and venture into Europe and around the world, okay?
+Dialogue: 0,0:06:37.40,0:06:39.78,English,,0,0,0,,So this goes back to the beginning, the dawn of humanity.\N{\rChinese}于是这回溯到人类的起始，黎明之初。
+Dialogue: 0,0:06:40.20,0:06:41.90,English,,0,0,0,,This is a flute, okay?\N{\rChinese}这是一支笛子，好的？
+Dialogue: 0,0:06:42.10,0:06:45.10,English,,0,0,0,,That goes back to the same time.\N{\rChinese}它同样回溯到同一时刻。
+Dialogue: 0,0:06:45.48,0:06:47.58,English,,0,0,0,,So at the beginning, this is a flute.\N{\rChinese}于是在起始时，这是一支笛子。
+Dialogue: 0,0:06:47.60,0:06:49.96,English,,0,0,0,,And at the beginning of humanity, we were religious.\N{\rChinese}而在人的起始，我们已具宗教性。
+Dialogue: 0,0:06:50.12,0:06:53.66,English,,0,0,0,,We celebrated our religion through music\N{\rChinese}我们以音乐庆祝我们的宗教。
+Dialogue: 0,0:06:53.66,0:06:55.70,English,,0,0,0,,and through art and through shamanism.\N{\rChinese}并通过艺术和萨满教。
+Dialogue: 0,0:06:56.60,0:06:58.10,English,,0,0,0,,Okay? Does that make sense, guys?\N{\rChinese}好的？这有道理吗，大家？
+Dialogue: 0,0:06:59.68,0:07:05.34,English,,0,0,0,,Yes? It's a figurine.\N{\rChinese}是的？这是一件小雕像。
+Dialogue: 0,0:07:05.46,0:07:08.12,English,,0,0,0,,It's a doll. Okay?\N{\rChinese}它是一只娃娃。好吗？
+Dialogue: 0,0:07:08.32,0:07:09.96,English,,0,0,0,,So they believe that\N{\rChinese}于是他们相信
+Dialogue: 0,0:07:09.96,0:07:13.46,English,,0,0,0,,these dolls have religious qualities, right?\N{\rChinese}这些娃娃具有宗教属性，对吧？
+Dialogue: 0,0:07:14.44,0:07:16.36,English,,0,0,0,,Okay? Does that make sense? It's like paintings.\N{\rChinese}好吧？这有道理吗？就像画一样。
+Dialogue: 0,0:07:20.44,0:07:23.42,English,,0,0,0,,It's like paintings. So remember,\N{\rChinese}就像画一样。所以记住，
+Dialogue: 0,0:07:23.66,0:07:26.38,English,,0,0,0,,they also have these cave paintings where\N{\rChinese}他们还有这些洞穴壁画，
+Dialogue: 0,0:07:26.38,0:07:30.72,English,,0,0,0,,they're celebrating the mother goddess, and they're celebrating the fact that life is a circle.\N{\rChinese}他们在庆祝母神，并且庆祝生命是圆环的事实。
+Dialogue: 0,0:07:30.92,0:07:34.92,English,,0,0,0,,After you kill the animals, their soul goes back into the spirit world,\N{\rChinese}杀死动物后，它们的灵魂回到灵界，
+Dialogue: 0,0:07:35.12,0:07:38.10,English,,0,0,0,,and then through proper tribute\N{\rChinese}随后通过适当的祭祀
+Dialogue: 0,0:07:38.10,0:07:41.18,English,,0,0,0,,and worship, you can bring them back into this world, okay?\N{\rChinese}并且祭祀，你可以把它们带回这个世界，好吗？
+Dialogue: 0,0:07:45.04,0:07:48.88,English,,0,0,0,,Okay? This is a shaman dressed as an animal.\N{\rChinese}好吧？这是一位穿着动物装束的萨满。
+Dialogue: 0,0:07:49.90,0:07:53.30,English,,0,0,0,,Okay? So now the question then is, okay,\N{\rChinese}好吧？现在问题是，好吗？
+Dialogue: 0,0:07:53.50,0:07:56.58,English,,0,0,0,,if we cannot go back in time\N{\rChinese}如果我们不能回到过去
+Dialogue: 0,0:07:56.58,0:08:01.08,English,,0,0,0,,and observe the religion,\N{\rChinese}并观察宗教
+Dialogue: 0,0:08:01.32,0:08:04.28,English,,0,0,0,,how do we know what the religion is?\N{\rChinese}我们又如何知道宗教是什么？
+Dialogue: 0,0:08:04.44,0:08:08.24,English,,0,0,0,,And the answer is we have a field of study called anthropology.\N{\rChinese}并且答案是我们有一个叫做人类学的研究领域。
+Dialogue: 0,0:08:08.78,0:08:10.42,English,,0,0,0,,Okay? Anthropology.\N{\rChinese}好吧？人类学。
+Dialogue: 0,0:08:10.76,0:08:13.78,English,,0,0,0,,Anthropology is a study of other cultures.\N{\rChinese}人类学是研究其他文化的学科。
+Dialogue: 0,0:08:14.12,0:08:16.94,English,,0,0,0,,Okay? And if our theory is right,\N{\rChinese}好的？如果我们的理论是对的，
+Dialogue: 0,0:08:17.14,0:08:20.14,English,,0,0,0,,then we should be able to find other cultures\N{\rChinese}那么我们应该能找到其他仍然活着的文化，
+Dialogue: 0,0:08:20.14,0:08:22.94,English,,0,0,0,,that are still alive today\N{\rChinese}并且能找到它们的宗教实践
+Dialogue: 0,0:08:22.94,0:08:25.48,English,,0,0,0,,that practice this religion.\N{\rChinese}那他们在南美丛林、非洲、澳洲等地实践这宗教。
+Dialogue: 0,0:08:25.80,0:08:28.60,English,,0,0,0,,And what we've discovered is that\N{\rChinese}而我们发现的是，
+Dialogue: 0,0:08:28.60,0:08:32.16,English,,0,0,0,,if you go to places\N{\rChinese}如果你去那些地方
+Dialogue: 0,0:08:32.16,0:08:35.96,English,,0,0,0,,in the jungle in South America\N{\rChinese}在南美丛林中
+Dialogue: 0,0:08:36.44,0:08:38.34,English,,0,0,0,,and in Africa, in Australia,\N{\rChinese}以及在非洲、澳洲中
+Dialogue: 0,0:08:38.76,0:08:40.90,English,,0,0,0,,they do practice this religion.\N{\rChinese}他们在那里实践这宗教
+Dialogue: 0,0:08:41.36,0:08:42.80,English,,0,0,0,,Okay? So\N{\rChinese}好的？所以
+Dialogue: 0,0:08:42.80,0:08:48.52,English,,0,0,0,,understanding the religion gives us tremendous insight into the thinking\N{\rChinese}理解宗教能让我们深入了解早期人类的思维与宗教。
+Dialogue: 0,0:08:48.52,0:08:51.88,English,,0,0,0,,and religion of early humans.\N{\rChinese}and religion ofearly humans.
+Dialogue: 0,0:08:52.12,0:08:53.56,English,,0,0,0,,And that's what we will do today.\N{\rChinese}今天我们就这么做。
+Dialogue: 0,0:08:53.72,0:08:57.98,English,,0,0,0,,Okay? To truly understand what early humans thought\N{\rChinese}好？要真正理解早期人类的思维
+Dialogue: 0,0:08:57.98,0:09:01.08,English,,0,0,0,,and how they understood the world.\N{\rChinese}以及他们如何理解世界。
+Dialogue: 0,0:09:01.22,0:09:04.42,English,,0,0,0,,Okay? Does that make sense, guys? All right. So\N{\rChinese}好的？这有道理吗，大家？好了。于是
+Dialogue: 0,0:09:04.42,0:09:06.64,English,,0,0,0,,the first passage we're going\N{\rChinese}我们先要看的第一段文字
+Dialogue: 0,0:09:06.64,0:09:11.92,English,,0,0,0,,to look at is from a book called The Wayfinders.\N{\rChinese}来自一本叫《航路者》的书。
+Dialogue: 0,0:09:11.92,0:09:13.18,English,,0,0,0,,By Wade Davis.\N{\rChinese}由Wade Davis所著。
+Dialogue: 0,0:09:13.40,0:09:14.94,English,,0,0,0,,Okay? This is a great book.\N{\rChinese}好的？这本书很棒。
+Dialogue: 0,0:09:15.08,0:09:17.70,English,,0,0,0,,If you guys ever have a chance, please read this book.\N{\rChinese}如果你们有机会，请读这本书。
+Dialogue: 0,0:09:17.80,0:09:21.02,English,,0,0,0,,Okay? It's extremely well written. Wade Davis,\N{\rChinese}好的？写得非常好。Wade Davis，
+Dialogue: 0,0:09:21.38,0:09:23.18,English,,0,0,0,,he's an anthropologist, Canadian.\N{\rChinese}他是一名加拿大人类学家。
+Dialogue: 0,0:09:24.86,0:09:26.40,English,,0,0,0,,And this recently came out.\N{\rChinese}这本书刚刚出版。
+Dialogue: 0,0:09:26.48,0:09:31.40,English,,0,0,0,,Okay? So he spent a lot of time traveling around the world to explore\N{\rChinese}好的？于是他花了很多时间在世界各地旅行，去探索
+Dialogue: 0,0:09:31.40,0:09:35.68,English,,0,0,0,,and to understand indigenous peoples, people who are native to the land.\N{\rChinese}并去了解土著民族，土生之人。
+Dialogue: 0,0:09:35.78,0:09:37.32,English,,0,0,0,,And they've been there for a long, long time.\N{\rChinese}他们已经在那儿住了很久很久。
+Dialogue: 0,0:09:37.74,0:09:41.82,English,,0,0,0,,So this is what he says about a tribe.\N{\rChinese}于是他这样说关于一个部落的事。
+Dialogue: 0,0:09:41.82,0:09:43.04,English,,0,0,0,,This is a story about a tribe in the Amazon forest.\N{\rChinese}这是关于亚马逊森林里一个部落的故事。
+Dialogue: 0,0:09:43.20,0:09:45.32,English,,0,0,0,,Okay? In the beginning,\N{\rChinese}好吧？一开始，
+Dialogue: 0,0:09:45.54,0:09:47.78,English,,0,0,0,,before the creation of seasons,\N{\rChinese}在季节诞生之前，
+Dialogue: 0,0:09:47.98,0:09:51.50,English,,0,0,0,,before the ancestral mother, Romi Kumu,\N{\rChinese}在祖母罗米库姆诞生之前，
+Dialogue: 0,0:09:51.66,0:09:54.88,English,,0,0,0,,woman shaman, opened her womb,\N{\rChinese}女巫师罗米库姆开启她的子宫，
+Dialogue: 0,0:09:55.08,0:09:56.74,English,,0,0,0,,before her blood and\N{\rChinese}在她血液之前，
+Dialogue: 0,0:09:56.74,0:09:59.64,English,,0,0,0,,breast milk gave rise to rivers\N{\rChinese}乳汁孕育河流，
+Dialogue: 0,0:09:59.64,0:10:04.28,English,,0,0,0,,and her ribs to the mountain ridges of the world,\N{\rChinese}她的肋骨化作世界山脊
+Dialogue: 0,0:10:04.36,0:10:07.78,English,,0,0,0,,there was only chaos in the universe.\N{\rChinese}宇宙中只有混沌。
+Dialogue: 0,0:10:08.64,0:10:10.88,English,,0,0,0,,Spirits and demons known as He.\N{\rChinese}被称为“He”的灵与魔。
+Dialogue: 0,0:10:10.88,0:10:13.48,English,,0,0,0,,Prayed on their own kindred.\N{\rChinese}为自己的亲族祈祷。
+Dialogue: 0,0:10:13.88,0:10:17.76,English,,0,0,0,,Bread without thought, committed incest without consequence,\N{\rChinese}面包无思，乱偶无果，吞食自幼。
+Dialogue: 0,0:10:18.12,0:10:19.82,English,,0,0,0,,devoured their own young.\N{\rChinese}罗米库姆以火与洪毁世。
+Dialogue: 0,0:10:20.38,0:10:25.98,English,,0,0,0,,Romi Kumu responded by destroying the world with fire and floods. Then,\N{\rChinese}Romi Kumu responded by destroying the world with fire and floods. Then,
+Dialogue: 0,0:10:26.12,0:10:31.86,English,,0,0,0,,just as a mother turns over a warm slab of maniac bread on the griddle,\N{\rChinese}刚好像母亲把热腾腾的面饼翻到铁板上，
+Dialogue: 0,0:10:32.04,0:10:35.64,English,,0,0,0,,she turned the inundated and charred world upside down,\N{\rChinese}她把被淹没又烤焦的世界翻过来，
+Dialogue: 0,0:10:35.76,0:10:39.42,English,,0,0,0,,creating a flat and empty template from\N{\rChinese}创造出一个平坦空旮的模板
+Dialogue: 0,0:10:39.42,0:10:41.50,English,,0,0,0,,which life could emerge once again.\N{\rChinese}哪种生命再次出现。
+Dialogue: 0,0:10:41.74,0:10:44.38,English,,0,0,0,,As woman shaman, she then\N{\rChinese}作为女巫师，她随后
+Dialogue: 0,0:10:44.38,0:10:47.56,English,,0,0,0,,gave birth to a new world, land,\N{\rChinese}诞生了一个新世界，陆地，
+Dialogue: 0,0:10:47.78,0:10:50.42,English,,0,0,0,,water, forest, and animals.\N{\rChinese}水、森林与动物。
+Dialogue: 0,0:10:50.66,0:10:54.48,English,,0,0,0,,Okay? So this is what we call a creation myth.\N{\rChinese}好的？这就是我们所说的创世神话。
+Dialogue: 0,0:10:54.72,0:10:56.44,English,,0,0,0,,And every single civilization,\N{\rChinese}而每一个文明，
+Dialogue: 0,0:10:56.80,0:11:01.34,English,,0,0,0,,every single people have a creation myth.\N{\rChinese}每个民族都有自己的创世神话。
+Dialogue: 0,0:11:01.68,0:11:03.20,English,,0,0,0,,So let me ask you this question, okay?\N{\rChinese}那我来问你一个问题，好吗？
+Dialogue: 0,0:11:03.96,0:11:06.46,English,,0,0,0,,Why? Why do you need a creation myth?\N{\rChinese}为什么？你为什么需要一个创世神话？
+Dialogue: 0,0:11:09.74,0:11:12.82,English,,0,0,0,,What's this creation myth doing? What does it explain?\N{\rChinese}这创世神话做了什么？它解释了什么？
+Dialogue: 0,0:11:15.98,0:11:17.74,English,,0,0,0,,Okay, how the world forms, okay?\N{\rChinese}好的，世界是怎么形成的，明白吗？
+Dialogue: 0,0:11:18.02,0:11:20.94,English,,0,0,0,,But there's something much more important than that, which is what?\N{\rChinese}但还有更重要的东西，那是什么呢？
+Dialogue: 0,0:11:23.04,0:11:25.64,English,,0,0,0,,Excuse me? Who are we?\N{\rChinese}请问一下？我们是谁？
+Dialogue: 0,0:11:25.78,0:11:27.36,English,,0,0,0,,Where we come from?\N{\rChinese}我们来自哪里？
+Dialogue: 0,0:11:27.50,0:11:30.72,English,,0,0,0,,Yes. But there's something, yes, it explains all that.\N{\rChinese}是的。但还有一点，确实解释了这一切。
+Dialogue: 0,0:11:30.88,0:11:33.04,English,,0,0,0,,Who we are, where we come from, okay?\N{\rChinese}我们是谁，来自哪里，明白吗？
+Dialogue: 0,0:11:33.12,0:11:34.74,English,,0,0,0,,That's what all creation myths do.\N{\rChinese}这就是所有创世神话的作用。
+Dialogue: 0,0:11:35.08,0:11:39.62,English,,0,0,0,,What else is this myth doing, which is very important for us? Okay.\N{\rChinese}除此之外，这个神话还做了什么，对我们很重要？
+Dialogue: 0,0:11:47.74,0:11:51.14,English,,0,0,0,,So it's telling us how the universe was formed, okay?\N{\rChinese}于是它告诉我们宇宙是如何形成的，明白吗？
+Dialogue: 0,0:11:52.70,0:11:55.64,English,,0,0,0,,Okay. What is in here that's very important\N{\rChinese}好的，这里有什么非常重要的内容？
+Dialogue: 0,0:11:55.64,0:11:58.54,English,,0,0,0,,and which is important for society to function well?\N{\rChinese}以及这些内容对社会正常运转的重要性？
+Dialogue: 0,0:12:04.28,0:12:08.26,English,,0,0,0,,Okay. So the woman shaman is the mother goddess. Well,\N{\rChinese}好的。女祭司是母神。
+Dialogue: 0,0:12:08.32,0:12:14.14,English,,0,0,0,,what's in this page page page page page page page page page page page page page Paragraph that's very important in order for society to function.\N{\rChinese}这一页页页页页页页页页页页页段落里有什么非常重要的内容，顺序对社会运转很关键。
+Dialogue: 0,0:12:15.12,0:12:16.78,English,,0,0,0,,What do you need for society to function?\N{\rChinese}你需要什么才能让社会运转？
+Dialogue: 0,0:12:19.44,0:12:22.28,English,,0,0,0,,You need rules and laws right so\N{\rChinese}你需要规则和法律，对吧？
+Dialogue: 0,0:12:22.28,0:12:26.52,English,,0,0,0,,what this creation myth is doing what all creation myths is doing is build\N{\rChinese}这个创世神话所做的事，所有创世神话所做的事就是构建
+Dialogue: 0,0:12:27.34,0:12:30.40,English,,0,0,0,,Explaining to you the legal structure\N{\rChinese}向你解释法律结构
+Dialogue: 0,0:12:30.40,0:12:34.00,English,,0,0,0,,of your society why you can't do certain things\N{\rChinese}你们社会的结构，为什么你们不能做某些事
+Dialogue: 0,0:12:34.64,0:12:36.76,English,,0,0,0,,Okay, so for example you can't\N{\rChinese}好的，例如你们不能做
+Dialogue: 0,0:12:37.98,0:12:42.54,English,,0,0,0,,commit incest Okay, you can't eat your young people you can't kill the young people okay?\N{\rChinese}做同父同母的事，吃自己的孩子，杀自己的孩子
+Dialogue: 0,0:12:42.76,0:12:45.20,English,,0,0,0,,Why because that's what evil people do\N{\rChinese}因为那是邪恶之人所为
+Dialogue: 0,0:12:45.78,0:12:48.10,English,,0,0,0,,You understand? So\N{\rChinese}你明白了吗？于是
+Dialogue: 0,0:12:48.10,0:12:51.24,English,,0,0,0,,what this Christian myth is doing is it's basically\N{\rChinese}这基督教神话所做的事，就是它基本上
+Dialogue: 0,0:12:52.54,0:12:55.64,English,,0,0,0,,Explaining the legal system the rules\N{\rChinese}解释法律体系的规则
+Dialogue: 0,0:12:55.64,0:12:58.84,English,,0,0,0,,and why we have them We have these rules\N{\rChinese}以及我们之所以有它们的原因
+Dialogue: 0,0:12:58.84,0:13:02.48,English,,0,0,0,,because they're evil they represent the evil spirit\N{\rChinese}我们之所以有这些规则是因为它们是邪恶的，代表着邪恶之灵
+Dialogue: 0,0:13:03.54,0:13:05.26,English,,0,0,0,,Okay, does that make sense guys?\N{\rChinese}好的，听懂了吗？
+Dialogue: 0,0:13:05.72,0:13:10.04,English,,0,0,0,,Okay The other thing that you will notice about this creation myth is\N{\rChinese}另外，你会注意到这个创世神话的另一个点是
+Dialogue: 0,0:13:10.04,0:13:13.06,English,,0,0,0,,that it's very sophisticated and very elaborate\N{\rChinese}它非常精巧且极其繁复
+Dialogue: 0,0:13:13.94,0:13:14.86,English,,0,0,0,,Okay, so\N{\rChinese}好的，接下来
+Dialogue: 0,0:13:14.86,0:13:20.40,English,,0,0,0,,this is a visualization of their understanding of creation as you can understand.\N{\rChinese}这是他们对创世理解的可视化，你可以理解。
+Dialogue: 0,0:13:20.78,0:13:22.00,English,,0,0,0,,It's very\N{\rChinese}很棒
+Dialogue: 0,0:13:22.92,0:13:25.58,English,,0,0,0,,Complicated okay Does that make sense?\N{\rChinese}复杂了，好吗？听懂了吗？
+Dialogue: 0,0:13:26.32,0:13:27.70,English,,0,0,0,,Why is it complicated?\N{\rChinese}它为什么这么复杂？
+Dialogue: 0,0:13:31.58,0:13:34.06,English,,0,0,0,,Why is it complicated why is\N{\rChinese}它为什么这么复杂？
+Dialogue: 0,0:13:35.46,0:13:36.90,English,,0,0,0,,Is this so complicated?\N{\rChinese}这太复杂了吗？
+Dialogue: 0,0:13:37.26,0:13:38.46,English,,0,0,0,,Is this so complicated?\N{\rChinese}这太复杂了吗？
+Dialogue: 0,0:13:38.46,0:13:39.70,English,,0,0,0,,There are reasons for it why?\N{\rChinese}有原因吗？
+Dialogue: 0,0:13:42.30,0:13:44.62,English,,0,0,0,,Why is it complicated? Why is it complicated?\N{\rChinese}它为什么这么复杂？它为什么这么复杂？
+Dialogue: 0,0:13:45.56,0:13:48.38,English,,0,0,0,,Why is it complicated? Why is it complicated?\N{\rChinese}它为什么这么复杂？它为什么这么复杂？
+Dialogue: 0,0:13:49.24,0:13:51.54,English,,0,0,0,,Why is it complicated? Why is it complicated?\N{\rChinese}它为什么这么复杂？它为什么这么复杂？
+Dialogue: 0,0:13:51.54,0:13:54.70,English,,0,0,0,,Okay, so one thing that you will learn in this class is that\N{\rChinese}好的，接下来你在这门课里会学到的一件事是……
+Dialogue: 0,0:13:55.30,0:13:59.62,English,,0,0,0,,What's really important is for you to believe that your religion is correct, okay?\N{\rChinese}重要的是你要相信自己的宗教是正确的，好吗？
+Dialogue: 0,0:13:59.70,0:14:03.40,English,,0,0,0,,It is just correct as science and what makes people believe\N{\rChinese}它就像科学一样正确，能让人们相信。
+Dialogue: 0,0:14:04.06,0:14:08.62,English,,0,0,0,,That your religion is correct Yet you have to accomplish three things.\N{\rChinese}那就是你的宗教是正确的，但你还要完成三件事。
+Dialogue: 0,0:14:08.72,0:14:11.10,English,,0,0,0,,Okay, the first is grandness\N{\rChinese}好的，第一件事是宏大。
+Dialogue: 0,0:14:14.16,0:14:16.80,English,,0,0,0,,Meaning that is come huge Okay,\N{\rChinese}意思是要有大气势。
+Dialogue: 0,0:14:16.88,0:14:18.52,English,,0,0,0,,it's vast and\N{\rChinese}它很广阔，且
+Dialogue: 0,0:14:18.52,0:14:23.40,English,,0,0,0,,as you can see this is a vast religion of vast cosmology of how things started\N{\rChinese}正如你所见，这是一种广阔的宗教，包含了关于万物起源的宏大宇宙观
+Dialogue: 0,0:14:23.96,0:14:26.90,English,,0,0,0,,So grandness is very important then you have you\N{\rChinese}宏大是非常重要的，随后你会有……
+Dialogue: 0,0:14:26.90,0:14:29.52,English,,0,0,0,,then you then you need completeness\N{\rChinese}然后你需要完整性
+Dialogue: 0,0:14:31.44,0:14:34.42,English,,0,0,0,,And the idea of completeness is That\N{\rChinese}完整性的概念是那样的
+Dialogue: 0,0:14:35.36,0:14:40.24,English,,0,0,0,,Everything that you see in the world must be explained in this cosmology.\N{\rChinese}你在世界里看到的一切都必须在这宇宙观中得到解释
+Dialogue: 0,0:14:40.44,0:14:44.04,English,,0,0,0,,Okay, so what this is doing is explained to you how everything\N{\rChinese}好的，接下来我会给你解释一切事物的起源
+Dialogue: 0,0:14:45.44,0:14:49.30,English,,0,0,0,,Started okay, where everything comes from so completeness is important.\N{\rChinese}好了，事物从哪里来，完整性就显得重要
+Dialogue: 0,0:14:49.54,0:14:50.92,English,,0,0,0,,The last thing is\N{\rChinese}最后一件事
+Dialogue: 0,0:14:51.68,0:14:55.52,English,,0,0,0,,unity Meaning that there's a beginning and there's an end\N{\rChinese}统一，意味着有开始也有结束
+Dialogue: 0,0:14:56.42,0:15:00.20,English,,0,0,0,,Okay, as you can see there's a beginning and then there's an end.\N{\rChinese}好的，正如你所见，开始后有结束
+Dialogue: 0,0:15:00.44,0:15:04.80,English,,0,0,0,,Okay So this is something that we will learn in this class as we explore other religions including\N{\rChinese}好的，这就是我们在本课中学习的内容，随后我们会探讨其他宗教
+Dialogue: 0,0:15:05.42,0:15:07.54,English,,0,0,0,,Judaism and Christianity where\N{\rChinese}犹太教与基督教在此处
+Dialogue: 0,0:15:07.54,0:15:11.10,English,,0,0,0,,for religion to be powerful for it to be\N{\rChinese}宗教要强大，必须具备此点
+Dialogue: 0,0:15:11.84,0:15:16.14,English,,0,0,0,,Authoritative you need these three ideas grandness completeness\N{\rChinese}权威需这三点：宏大、完整
+Dialogue: 0,0:15:16.14,0:15:18.06,English,,0,0,0,,and unity. Okay, does that make sense?\N{\rChinese}并且统一。好的，这有道理吗？
+Dialogue: 0,0:15:18.26,0:15:20.68,English,,0,0,0,,All right, let's keep let's keep on going\N{\rChinese}好的，继续继续吧。
+Dialogue: 0,0:15:23.38,0:15:25.06,English,,0,0,0,,All right\N{\rChinese}好的，继续吧。
+Dialogue: 0,0:15:26.08,0:15:27.74,English,,0,0,0,,so thus\N{\rChinese}于是如此
+Dialogue: 0,0:15:28.28,0:15:31.92,English,,0,0,0,,For the people living today in the forests of\N{\rChinese}今天住在帕拉帕拉纳森林里的人民
+Dialogue: 0,0:15:31.92,0:15:34.06,English,,0,0,0,,the para Parana Okay This is the Amazon\N{\rChinese}帕拉帕拉纳的亚马逊
+Dialogue: 0,0:15:34.06,0:15:39.04,English,,0,0,0,,forest the entire natural world is saturated with meaning\N{\rChinese}森林，整个自然界都充满了意义
+Dialogue: 0,0:15:39.04,0:15:41.68,English,,0,0,0,,and cosmological significance Okay,\N{\rChinese}以及宇宙学意义，好吧，
+Dialogue: 0,0:15:41.76,0:15:45.98,English,,0,0,0,,they feel that everything around them has life\N{\rChinese}他们觉得周围的一切都有生命
+Dialogue: 0,0:15:45.98,0:15:48.04,English,,0,0,0,,and it's all connected.\N{\rChinese}而这一切都相连。
+Dialogue: 0,0:15:48.20,0:15:52.10,English,,0,0,0,,It's one unified whole. Okay every rock and\N{\rChinese}它是一个统一的整体。好的
+Dialogue: 0,0:15:52.83,0:15:54.86,English,,0,0,0,,waterfall embodies a story\N{\rChinese}每一块岩石和瀑布都承载着一个故事
+Dialogue: 0,0:15:55.49,0:15:57.20,English,,0,0,0,,Plants and animals are but\N{\rChinese}植物与动物只是同一精神本质的不同物理表现
+Dialogue: 0,0:15:57.20,0:16:02.80,English,,0,0,0,,distinct physical manifestations of the same essential spiritual essence\N{\rChinese}distinct physical manifestations ofthe same essential spiritual essence
+Dialogue: 0,0:16:03.50,0:16:05.98,English,,0,0,0,,And we all come from the woman Shaman.\N{\rChinese}我们都来自女巫师。
+Dialogue: 0,0:16:06.10,0:16:08.46,English,,0,0,0,,We all come from the mother goddess Therefore\N{\rChinese}我们都来自母神。
+Dialogue: 0,0:16:08.46,0:16:11.18,English,,0,0,0,,we all have the spark of life in us\N{\rChinese}我们都有生命的火花在身内
+Dialogue: 0,0:16:11.18,0:16:13.88,English,,0,0,0,,and therefore we must be respected Okay,\N{\rChinese}于是我们也应被尊敬
+Dialogue: 0,0:16:13.96,0:16:18.38,English,,0,0,0,,the plants and the animals all must be respected as much as we are respected\N{\rChinese}植物与动物都应像我们一样受到尊敬
+Dialogue: 0,0:16:19.02,0:16:20.54,English,,0,0,0,,at the same time\N{\rChinese}同时亦如此
+Dialogue: 0,0:16:21.06,0:16:24.74,English,,0,0,0,,Everything is more than it appears for the visible world is only one\N{\rChinese}一切都比表面更深，能见的世界只有一层感知
+Dialogue: 0,0:16:25.46,0:16:29.38,English,,0,0,0,,level of perception behind every tangible form\N{\rChinese}每个有形形态背后都有一层感知
+Dialogue: 0,0:16:29.94,0:16:33.48,English,,0,0,0,,That everyone means concrete physical Okay every planet animal is an incredible!\N{\rChinese}那每个人都说是具体的物理，好的每个行星动物都是不可思议的！
+Dialogue: 0,0:16:08.30,0:16:33.70,English,,0,0,0,,! is\N{\rChinese}！
+Dialogue: 0,0:16:33.70,0:16:35.22,English,,0,0,0,,a shadow dimension,\N{\rChinese}影子维度，
+Dialogue: 0,0:16:35.68,0:16:40.16,English,,0,0,0,,a place invisible to ordinary people, but visible to the shaman.\N{\rChinese}普通人看不见但萨满能见的地方。
+Dialogue: 0,0:16:40.34,0:16:44.48,English,,0,0,0,,So in other words, our world is a world we can see.\N{\rChinese}换句话说，我们的世界是我们能看到的世界。
+Dialogue: 0,0:16:44.80,0:16:47.12,English,,0,0,0,,But there are other worlds, the shadow dimension,\N{\rChinese}但还有其他世界，影子维度，
+Dialogue: 0,0:16:47.56,0:16:49.72,English,,0,0,0,,which is more real, which\N{\rChinese}它更真实，
+Dialogue: 0,0:16:49.72,0:16:54.16,English,,0,0,0,,captures our essence, where the soul resides.\N{\rChinese}它捕捉我们的本质，灵魂居住之处。
+Dialogue: 0,0:16:54.72,0:16:58.44,English,,0,0,0,,That's more real. And it's the job of the shaman to see\N{\rChinese}更真实了。萨满的工作就是去看见并与这个世界沟通。
+Dialogue: 0,0:16:58.44,0:17:00.30,English,,0,0,0,,and communicate with this world.\N{\rChinese}这是一个属于He灵魂的领域。
+Dialogue: 0,0:17:02.32,0:17:04.82,English,,0,0,0,,This is a realm of the He spirits,\N{\rChinese}This is a realmof the He spirits,
+Dialogue: 0,0:17:05.26,0:17:09.66,English,,0,0,0,,a world of deified ancestors where rocks and rivers are alive.\N{\rChinese}一个神化祖先的世界，岩石与河流皆有生命。
+Dialogue: 0,0:17:10.28,0:17:13.30,English,,0,0,0,,Plants and animals are human beings, sap and\N{\rChinese}植物与动物皆为人类，树汁与血液是安阿卡纳原始河流的体液。
+Dialogue: 0,0:17:13.30,0:17:18.52,English,,0,0,0,,blood the bodily fluids of the primordial river of the Anakana.\N{\rChinese}blood the bodily fluids of theprimordial river of the Anakana.
+Dialogue: 0,0:17:18.74,0:17:23.86,English,,0,0,0,,Hidden in cataracts behind the physical veil of waterfalls,\N{\rChinese}隐藏在瀑布的水幕后，石头中心的光点里，是赫灵的伟大马拉卡斯，一切都在其中。
+Dialogue: 0,0:17:23.88,0:17:28.34,English,,0,0,0,,in the very center of stones are the great malakas of the He spirit,\N{\rChinese}在石头的中心，隐藏着赫灵的伟大马拉卡斯，一切都在其中。
+Dialogue: 0,0:17:28.82,0:17:30.28,English,,0,0,0,,where everything is.\N{\rChinese}石头中心隐藏着赫灵的伟大马拉卡斯，一切都在其中。
+Dialogue: 0,0:17:30.30,0:17:33.50,English,,0,0,0,,Everything is beautiful. The shining feathers, the koka,\N{\rChinese}一切皆美丽。闪耀的羽毛，科卡，
+Dialogue: 0,0:17:33.66,0:17:36.72,English,,0,0,0,,the calabash of tobacco powder, which\N{\rChinese}烟草粉的葫芦，
+Dialogue: 0,0:17:36.72,0:17:39.56,English,,0,0,0,,is in itself the skull and brain of the sun.\N{\rChinese}它本身即是太阳的头骨与脑部。
+Dialogue: 0,0:17:40.16,0:17:42.30,English,,0,0,0,,Okay? Now, reading this,\N{\rChinese}好的？现在读完这段，
+Dialogue: 0,0:17:42.56,0:17:46.06,English,,0,0,0,,what can we say about their religion?\N{\rChinese}我们能说些什么关于他们的宗教？
+Dialogue: 0,0:17:47.06,0:17:48.72,English,,0,0,0,,What can we say about their religion?\N{\rChinese}我们能说些什么关于他们的宗教？
+Dialogue: 0,0:17:50.90,0:17:52.64,English,,0,0,0,,That would be surprising to you.\N{\rChinese}这会让你惊讶。
+Dialogue: 0,0:17:56.84,0:17:58.96,English,,0,0,0,,Okay, first of all, it's very imaginative, right?\N{\rChinese}先说，首先它很有想象力，对吧？
+Dialogue: 0,0:18:00.30,0:18:01.74,English,,0,0,0,,It's very imaginative.\N{\rChinese}它很有想象力。
+Dialogue: 0,0:18:04.98,0:18:07.26,English,,0,0,0,,They have a vivid imagination, okay?\N{\rChinese}他们有生动的想象力，好的？
+Dialogue: 0,0:18:07.52,0:18:10.94,English,,0,0,0,,The other thing is that it's extremely sophisticated\N{\rChinese}另外一点是它非常精巧
+Dialogue: 0,0:18:10.94,0:18:12.48,English,,0,0,0,,and complex.\N{\rChinese}而且复杂。
+Dialogue: 0,0:18:18.04,0:18:22.72,English,,0,0,0,,So, one major prejudice\N{\rChinese}于是，关于这些人的一个主要偏见是，
+Dialogue: 0,0:18:22.72,0:18:25.84,English,,0,0,0,,that we might have of these people is, well,\N{\rChinese}好吧，
+Dialogue: 0,0:18:25.88,0:18:30.12,English,,0,0,0,,they don't drive cars, they don't have cell phones, therefore they must be stupid.\N{\rChinese}他们不开车，也没有手机，所以一定很笨。
+Dialogue: 0,0:18:30.12,0:18:31.60,English,,0,0,0,,Therefore, they must be stupid. But clearly,\N{\rChinese}因此，他们一定很笨。但显然，
+Dialogue: 0,0:18:31.76,0:18:35.00,English,,0,0,0,,from our understanding of their religious beliefs,\N{\rChinese}从我们对他们宗教信仰的理解来看，
+Dialogue: 0,0:18:35.34,0:18:38.94,English,,0,0,0,,they're actually extremely imaginative and extremely sophisticated.\N{\rChinese}他们实际上非常富有想象力且极为精巧。
+Dialogue: 0,0:18:39.52,0:18:41.10,English,,0,0,0,,Okay? Does that make sense, guys?\N{\rChinese}好的？这样说通吗，大家？
+Dialogue: 0,0:18:41.50,0:18:47.32,English,,0,0,0,,All right. So,\N{\rChinese}好的。那么，
+Dialogue: 0,0:18:47.46,0:18:52.32,English,,0,0,0,,this is their shamans in religious practice.\N{\rChinese}这就是他们在宗教实践中的巫师。
+Dialogue: 0,0:18:52.80,0:18:56.58,English,,0,0,0,,Okay? What can we say about this picture?\N{\rChinese}好的？这幅图我们能说些什么？
+Dialogue: 0,0:18:57.52,0:18:59.80,English,,0,0,0,,What stands out about this picture?\N{\rChinese}这幅图最显眼的是什么？
+Dialogue: 0,0:19:05.78,0:19:07.70,English,,0,0,0,,What surprises your...\N{\rChinese}让你惊讶的是什么？
+Dialogue: 0,0:19:07.70,0:19:10.58,English,,0,0,0,,What catches your eye about them?\N{\rChinese}他们身上有什么吸引你的？
+Dialogue: 0,0:19:10.88,0:19:14.14,English,,0,0,0,,What can we say about their beliefs based on this picture?\N{\rChinese}从这幅图可以说出他们的信仰是什么？
+Dialogue: 0,0:19:18.20,0:19:19.92,English,,0,0,0,,Okay, yeah. So,\N{\rChinese}好的，嗯。
+Dialogue: 0,0:19:20.00,0:19:23.54,English,,0,0,0,,there's a lot of...\N{\rChinese}有很多……
+Dialogue: 0,0:19:27.88,0:19:30.44,English,,0,0,0,,There's a lot of\N{\rChinese}有很多……
+Dialogue: 0,0:19:30.44,0:19:35.08,English,,0,0,0,,thought put into what they wear, right?\N{\rChinese}他们穿着的东西投入了很多思考，对吧？
+Dialogue: 0,0:19:36.04,0:19:38.04,English,,0,0,0,,Okay? So, again, sophistication.\N{\rChinese}好的？再说一次，精致。
+Dialogue: 0,0:19:39.32,0:19:42.54,English,,0,0,0,,Their clothing, the way they dress, suggests\N{\rChinese}他们的服装，穿着方式，暗示
+Dialogue: 0,0:19:42.54,0:19:45.88,English,,0,0,0,,that this is a very sophisticated religion.\N{\rChinese}这是一种非常精致的宗教。
+Dialogue: 0,0:19:46.18,0:19:47.92,English,,0,0,0,,Okay? It's not like they just put on anything.\N{\rChinese}好的？他们不是随便穿什么的。
+Dialogue: 0,0:19:48.20,0:19:50.90,English,,0,0,0,,It's like it seems they put a lot of care and\N{\rChinese}好像他们在穿什么上都很用心，且……
+Dialogue: 0,0:19:50.90,0:19:53.40,English,,0,0,0,,thought into what they wear.\N{\rChinese}……并投入了很多思考。
+Dialogue: 0,0:19:53.56,0:19:54.82,English,,0,0,0,,Okay? That's the first thing.\N{\rChinese}好的？那是第一件事。
+Dialogue: 0,0:19:54.88,0:20:00.38,English,,0,0,0,,Okay? That's the first thing. Okay? Okay?\N{\rChinese}好的？那是第一件事。好的？好的？
+Dialogue: 0,0:20:00.76,0:20:03.20,English,,0,0,0,,Okay? Okay?\N{\rChinese}好的？好的？
+Dialogue: 0,0:20:04.04,0:20:05.50,English,,0,0,0,,Okay? Okay?\N{\rChinese}好的？好的？
+Dialogue: 0,0:20:05.92,0:20:08.08,English,,0,0,0,,Okay? Okay?\N{\rChinese}好的？好的？
+Dialogue: 0,0:20:08.12,0:20:10.60,English,,0,0,0,,Okay? Okay?\N{\rChinese}好的？好的？
+Dialogue: 0,0:20:11.82,0:20:13.06,English,,0,0,0,,Okay? Okay?\N{\rChinese}好的？好的？
+Dialogue: 0,0:20:30.90,0:20:34.98,English,,0,0,0,,Okay, yeah, I mean, he probably has a higher status, okay?\N{\rChinese}好的，嗯，我是说，他可能有更高的地位，好的？
+Dialogue: 0,0:20:35.06,0:20:40.68,English,,0,0,0,,And he stands in the middle, okay? What else? Excuse me?\N{\rChinese}他站在中间，好的？还有什么？请问一下？
+Dialogue: 0,0:20:47.02,0:20:52.60,English,,0,0,0,,Okay, so you're right in like,\N{\rChinese}好的，基本上你说得对，像是这样，
+Dialogue: 0,0:20:52.70,0:20:56.84,English,,0,0,0,,okay, if this is a tribe and all they're trying to do is hunt\N{\rChinese}好的，如果这是一支部落，全部他们想做的就是狩猎和吃饭，没啥意义，没错吗？
+Dialogue: 0,0:20:56.84,0:20:59.32,English,,0,0,0,,and eat food, none of this makes any sense, right?\N{\rChinese}and eat food, none of this makes any sense, right?
+Dialogue: 0,0:20:59.72,0:21:03.20,English,,0,0,0,,But the main argument that I've been trying to tell you is like,\N{\rChinese}但我一直想告诉你的主要论点是这样的，
+Dialogue: 0,0:21:03.34,0:21:07.54,English,,0,0,0,,no, their first priority is their religion, okay?\N{\rChinese}不，他们的首要任务是宗教，好的？
+Dialogue: 0,0:21:07.70,0:21:11.38,English,,0,0,0,,So everything they do has a religious significance to it.\N{\rChinese}所以他们所做的一切都具有宗教意义。
+Dialogue: 0,0:21:11.52,0:21:12.92,English,,0,0,0,,We don't know what it is.\N{\rChinese}我们不知道它是什么。
+Dialogue: 0,0:21:13.10,0:21:14.46,English,,0,0,0,,They don't really speak our language.\N{\rChinese}他们并不真正说我们的语言。
+Dialogue: 0,0:21:15.08,0:21:17.08,English,,0,0,0,,But for them, everything that\N{\rChinese}但对他们来说，一切都是……
+Dialogue: 0,0:21:17.08,0:21:21.08,English,,0,0,0,,they do must have a religious meaning, okay?\N{\rChinese}他们所做的必须有宗教意义，好的？
+Dialogue: 0,0:21:21.24,0:21:24.80,English,,0,0,0,,So it's their religion that says, okay,\N{\rChinese}所以是他们的宗教说，好的，
+Dialogue: 0,0:21:26.96,0:21:28.74,English,,0,0,0,,we're going to do this, okay? So the other thing I would say is,\N{\rChinese}我们要做这个，好的？
+Dialogue: 0,0:21:28.92,0:21:33.26,English,,0,0,0,,you can see there's some organization in order to it, right?\N{\rChinese}你可以看到有组织性安排在其中，对吧？
+Dialogue: 0,0:21:33.42,0:21:38.04,English,,0,0,0,,So as you say, the person, the elder stands in the middle, okay?\N{\rChinese}正如你所说，老人站在中间，好的？
+Dialogue: 0,0:21:38.34,0:21:40.48,English,,0,0,0,,And these two, can you see the symmetry?\N{\rChinese}这两个人，你能看到对称吗？
+Dialogue: 0,0:21:41.62,0:21:45.44,English,,0,0,0,,Okay? It's clear that they are doing a religious ceremony. And because\N{\rChinese}好的？很明显他们在进行宗教仪式。并且
+Dialogue: 0,0:21:45.44,0:21:48.90,English,,0,0,0,,this religious ceremony requires their bodies to\N{\rChinese}这个宗教仪式要求他们的身体
+Dialogue: 0,0:21:48.90,0:21:53.44,English,,0,0,0,,be a certain way in relation to each other, it requires,\N{\rChinese}以某种方式相互关联
+Dialogue: 0,0:21:53.86,0:21:55.70,English,,0,0,0,,them to dress a certain way.\N{\rChinese}他们要穿着一定的服装。
+Dialogue: 0,0:21:55.82,0:21:59.32,English,,0,0,0,,It requires them to say certain things, okay?\N{\rChinese}他们要说出特定的话，明白吗？
+Dialogue: 0,0:22:00.12,0:22:02.50,English,,0,0,0,,Clearly, they are in prayer of some sort.\N{\rChinese}显然，他们正进行某种祷告。
+Dialogue: 0,0:22:02.78,0:22:04.70,English,,0,0,0,,We call this the idea of ritual.\N{\rChinese}我们把它称为仪式的概念。
+Dialogue: 0,0:22:07.58,0:22:12.90,English,,0,0,0,,Ritual is just the expression of religion in everyday practice.\N{\rChinese}仪式只是宗教在日常实践中的表现。
+Dialogue: 0,0:22:13.22,0:22:14.46,English,,0,0,0,,In other words,\N{\rChinese}换句话说，
+Dialogue: 0,0:22:14.62,0:22:18.66,English,,0,0,0,,their lives are extremely ritualized.\N{\rChinese}他们的生活极其仪式化。
+Dialogue: 0,0:22:19.78,0:22:23.84,English,,0,0,0,,Meaning, what they do every second has a ritual.\N{\rChinese}也就是说，他们每一秒的动作都有仪式。
+Dialogue: 0,0:22:25.28,0:22:26.68,English,,0,0,0,,Okay?\N{\rChinese}明白吗？
+Dialogue: 0,0:22:26.68,0:22:28.60,English,,0,0,0,,different kids. Okay?\N{\rChinese}不同的孩子。明白吗？
+Dialogue: 0,0:22:28.70,0:22:31.86,English,,0,0,0,,Does that make sense to you guys? Right?\N{\rChinese}这对你们来说有道理吗？对吧？
+Dialogue: 0,0:22:32.02,0:22:36.68,English,,0,0,0,,So for example, you come to school and you think your life is very ordered, right?\N{\rChinese}比如说，你来学校，觉得自己的生活很有条理，对吧？
+Dialogue: 0,0:22:36.76,0:22:39.28,English,,0,0,0,,Because maybe at 8 o 'clock you start class.\N{\rChinese}因为也许在八点钟你就开始上课。
+Dialogue: 0,0:22:40.04,0:22:43.54,English,,0,0,0,,And then when class starts, the teacher takes attendance.\N{\rChinese}然后当课开始时，老师会点名。
+Dialogue: 0,0:22:44.96,0:22:47.86,English,,0,0,0,,Okay? That's all ritual. And then\N{\rChinese}明白吗？这全是仪式。
+Dialogue: 0,0:22:47.86,0:22:51.98,English,,0,0,0,,at 8.45, the bell rings and then you go off and get some water or something, okay?\N{\rChinese}在8点45分铃声响起后，你会去拿水或其他东西，明白吗？
+Dialogue: 0,0:22:52.38,0:22:54.36,English,,0,0,0,,If you want to go to the restroom, you have to raise your hand.\N{\rChinese}如果你想去洗手间，得举手示意。
+Dialogue: 0,0:22:54.48,0:22:55.68,English,,0,0,0,,This is all what we call ritual.\N{\rChinese}这就是我们所说的仪式。
+Dialogue: 0,0:22:55.94,0:22:58.72,English,,0,0,0,,So your lives are extremely ritualized.\N{\rChinese}于是你们的生活极其仪式化。
+Dialogue: 0,0:22:58.86,0:23:02.26,English,,0,0,0,,And the thing about ritual is behind the ritual,\N{\rChinese}而仪式的事物在仪式之后，
+Dialogue: 0,0:23:02.46,0:23:05.54,English,,0,0,0,,there has to be a belief system.\N{\rChinese}必须有一套信仰体系。
+Dialogue: 0,0:23:06.34,0:23:09.64,English,,0,0,0,,Okay? So for us, the school,\N{\rChinese}好的？所以对我们来说，学校，
+Dialogue: 0,0:23:10.42,0:23:13.70,English,,0,0,0,,we believe the system is set up\N{\rChinese}我们认为制度是这样设立的，
+Dialogue: 0,0:23:13.70,0:23:19.32,English,,0,0,0,,so that you learn how to do well in life,\N{\rChinese}以便你学会在生活中做得好
+Dialogue: 0,0:23:19.46,0:23:21.52,English,,0,0,0,,right? You learn how to be on time.\N{\rChinese}对吧？你学会准时到场。
+Dialogue: 0,0:23:21.80,0:23:23.74,English,,0,0,0,,You learn how to respect authority.\N{\rChinese}你学会敬重权威。
+Dialogue: 0,0:23:23.74,0:23:26.26,English,,0,0,0,,You learn how to read books.\N{\rChinese}你学会读书。
+Dialogue: 0,0:23:26.50,0:23:28.08,English,,0,0,0,,Okay? So\N{\rChinese}好的？所以
+Dialogue: 0,0:23:28.08,0:23:31.32,English,,0,0,0,,this society is exactly the same way\N{\rChinese}这个社会正是如此相同
+Dialogue: 0,0:23:31.32,0:23:35.90,English,,0,0,0,,where every minute of their lives there's order\N{\rChinese}在他们生活的每一分钟都有秩序
+Dialogue: 0,0:23:35.90,0:23:40.50,English,,0,0,0,,and structure to what they do that has meaning and purpose.\N{\rChinese}并将其结构化为他们所做的有意义且有目的的事。
+Dialogue: 0,0:23:41.12,0:23:42.64,English,,0,0,0,,Okay? Does that make sense to you guys?\N{\rChinese}好吧？这对你们来说有道理吗？
+Dialogue: 0,0:23:47.84,0:23:50.28,English,,0,0,0,,Okay. So\N{\rChinese}好的。所以
+Dialogue: 0,0:23:50.28,0:23:53.04,English,,0,0,0,,let's talk about their ritual.\N{\rChinese}让我们谈谈他们的仪式。
+Dialogue: 0,0:23:53.08,0:23:56.74,English,,0,0,0,,Okay? Okay. It is to the realm of the He -spirit\N{\rChinese}好？好。它是进入萨满仪式的灵界。
+Dialogue: 0,0:23:56.74,0:23:58.86,English,,0,0,0,,that the shaman goes in ritual.\N{\rChinese}萨满在仪式中进入的就是那个灵界。
+Dialogue: 0,0:23:59.12,0:24:04.26,English,,0,0,0,,So the shaman is responsible for entering the world of the demons\N{\rChinese}于是萨满负责进入鬼域并与之谈判、沟通。
+Dialogue: 0,0:24:04.26,0:24:07.36,English,,0,0,0,,and negotiating and communicating with them.\N{\rChinese}那就是他的职责。正因如此，他才拥有那份力量与权柄。
+Dialogue: 0,0:24:07.44,0:24:10.26,English,,0,0,0,,That's his role. That's why he has his power and authority.\N{\rChinese}That's his role. That's why he has his power and authority.
+Dialogue: 0,0:24:11.58,0:24:14.60,English,,0,0,0,,Contrary to popular lore in the West,\N{\rChinese}相反于西方的流行说法，
+Dialogue: 0,0:24:14.78,0:24:19.98,English,,0,0,0,,the shaman of the Barazana never uses or manipulates medicinal plants.\N{\rChinese}巴拉扎纳的萨满并不使用或操纵药用植物。
+Dialogue: 0,0:24:19.98,0:24:21.62,English,,0,0,0,,His duty and\N{\rChinese}他的职责是
+Dialogue: 0,0:24:21.62,0:24:26.90,English,,0,0,0,,sacred task is to move in the timeless realm of the He,\N{\rChinese}神圣任务是进入赫的永恒境界，
+Dialogue: 0,0:24:27.06,0:24:29.96,English,,0,0,0,,embrace the primordial powers and\N{\rChinese}拥抱原初之力，
+Dialogue: 0,0:24:29.96,0:24:34.18,English,,0,0,0,,harness and restore the energy of all creation.\N{\rChinese}并驾驭并复兴万物之能量。
+Dialogue: 0,0:24:34.66,0:24:36.98,English,,0,0,0,,He is like a modern engineer who\N{\rChinese}他像一名现代工程师，进入核反应堆的深处以更新整个宇宙秩序。
+Dialogue: 0,0:24:36.98,0:24:42.72,English,,0,0,0,,enters the depths of a nuclear reactor to renew the entire cosmic order.\N{\rChinese}于是如果，…】
+Dialogue: 0,0:24:43.60,0:24:47.20,English,,0,0,0,,So if,\N{\rChinese}So if,
+Dialogue: 0,0:24:47.48,0:24:49.78,English,,0,0,0,,for example, plants are dying.\N{\rChinese}例如，植物正在死亡。
+Dialogue: 0,0:24:49.98,0:24:51.42,English,,0,0,0,,Outside, what does this mean?\N{\rChinese}外面，这意味着什么？
+Dialogue: 0,0:24:52.36,0:24:53.74,English,,0,0,0,,If plants are dying outside,\N{\rChinese}如果外面的植物正在死亡，
+Dialogue: 0,0:24:54.10,0:24:55.38,English,,0,0,0,,what does this mean?\N{\rChinese}这意味着什么？
+Dialogue: 0,0:24:56.20,0:24:57.82,English,,0,0,0,,The animals and plants are dying.\N{\rChinese}动物和植物正在死亡。
+Dialogue: 0,0:24:58.76,0:25:00.00,English,,0,0,0,,How can we fix the problem?\N{\rChinese}我们该如何解决这个问题？
+Dialogue: 0,0:25:06.20,0:25:07.50,English,,0,0,0,,Why are bad things happening?\N{\rChinese}为什么会有坏事发生？
+Dialogue: 0,0:25:14.88,0:25:19.36,English,,0,0,0,,Bad things are happening because the spirits are unhappy.\N{\rChinese}坏事发生是因为灵魂不安。
+Dialogue: 0,0:25:19.98,0:25:22.60,English,,0,0,0,,Does that make sense? So therefore,\N{\rChinese}这样说对吗？
+Dialogue: 0,0:25:22.90,0:25:25.46,English,,0,0,0,,you must go into the spirit world\N{\rChinese}你必须进入灵界
+Dialogue: 0,0:25:25.46,0:25:29.68,English,,0,0,0,,and understand why the spirits are unhappy\N{\rChinese}并了解灵魂不安的原因
+Dialogue: 0,0:25:29.68,0:25:30.96,English,,0,0,0,,and fix it.\N{\rChinese}然后去修复它
+Dialogue: 0,0:25:31.04,0:25:32.94,English,,0,0,0,,And that's the role of the shaman.\N{\rChinese}而这就是萨满的角色。
+Dialogue: 0,0:25:33.72,0:25:35.90,English,,0,0,0,,And what this is saying is this.\N{\rChinese}这句话的意思是这样。
+Dialogue: 0,0:25:36.38,0:25:40.72,English,,0,0,0,,What this is saying is that our world doesn't matter guys.\N{\rChinese}这句话的意思是我们的世界不重要。
+Dialogue: 0,0:25:41.36,0:25:43.34,English,,0,0,0,,Our world is insignificant.\N{\rChinese}我们的世界不重要。
+Dialogue: 0,0:25:43.74,0:25:46.36,English,,0,0,0,,What matters is the spirit world.\N{\rChinese}重要的是灵界。
+Dialogue: 0,0:25:46.52,0:25:49.96,English,,0,0,0,,Because the spirit world is what controls everything.\N{\rChinese}因为灵界才是万物之主。
+Dialogue: 0,0:25:50.66,0:25:52.12,English,,0,0,0,,Does that make sense guys?\N{\rChinese}这有道理吗，大家？
+Dialogue: 0,0:25:52.76,0:25:57.24,English,,0,0,0,,Okay? Among the Barasana,\N{\rChinese}好的？在巴拉萨人中，
+Dialogue: 0,0:25:57.44,0:26:00.80,English,,0,0,0,,such renewal is a fundamental obligation of the living.\N{\rChinese}这种更新是活着的人的基本义务。
+Dialogue: 0,0:26:01.04,0:26:04.04,English,,0,0,0,,In practice, this implies that\N{\rChinese}在实践中，这意味着巴拉萨人把地球视为有力的
+Dialogue: 0,0:26:04.04,0:26:06.44,English,,0,0,0,,the Barasana see the earth as potent,\N{\rChinese}地球的力量被视为充满灵性生物的活力
+Dialogue: 0,0:26:06.72,0:26:09.54,English,,0,0,0,,the force as being alive with spiritual beings\N{\rChinese}the force as being alive with spiritual beings
+Dialogue: 0,0:26:09.54,0:26:11.72,English,,0,0,0,,and ancestral powers.\N{\rChinese}和祖先的力量。
+Dialogue: 0,0:26:11.98,0:26:15.68,English,,0,0,0,,To live off the land is to embrace both its creative\N{\rChinese}在陆地上生活即是拥抱其创造性与破坏性潜能。
+Dialogue: 0,0:26:15.68,0:26:16.96,English,,0,0,0,,and destructive potential.\N{\rChinese}and destructivepotential.
+Dialogue: 0,0:26:17.82,0:26:19.94,English,,0,0,0,,Human beings, plants and animals, are not the same.\N{\rChinese}人类、植物和动物并非同一物种。
+Dialogue: 0,0:26:19.96,0:26:22.96,English,,0,0,0,,They share the same cosmic origin and\N{\rChinese}它们共享同一宇宙起源，且……
+Dialogue: 0,0:26:22.96,0:26:26.18,English,,0,0,0,,in a profound sense are seen as essentially identical.\N{\rChinese}在深层意义上被视为本质相同。
+Dialogue: 0,0:26:26.94,0:26:30.16,English,,0,0,0,,Responsive to the same principles, obligated by the same duties,\N{\rChinese}响应同样原则，承担同样职责，并负责创造之集体福祉。
+Dialogue: 0,0:26:30.32,0:26:33.54,English,,0,0,0,,responsible for the collective well -being of creation.\N{\rChinese}自然与文化无分离。
+Dialogue: 0,0:26:33.92,0:26:36.98,English,,0,0,0,,There is no separation between nature and culture.\N{\rChinese}There is no separation between nature and culture.
+Dialogue: 0,0:26:37.46,0:26:41.00,English,,0,0,0,,Without the forests and the rivers, humans would perish.\N{\rChinese}没有森林和河流，人类将灭亡。
+Dialogue: 0,0:26:41.30,0:26:42.58,English,,0,0,0,,Without people,\N{\rChinese}没有人类，
+Dialogue: 0,0:26:42.82,0:26:46.22,English,,0,0,0,,the natural world would have no order or meaning.\N{\rChinese}自然界将失去秩序与意义。
+Dialogue: 0,0:26:46.44,0:26:47.96,English,,0,0,0,,All would be chaos.\N{\rChinese}一切将陷入混沌。
+Dialogue: 0,0:26:47.96,0:26:49.48,English,,0,0,0,,The norms that\N{\rChinese}那些规范
+Dialogue: 0,0:26:49.48,0:26:53.12,English,,0,0,0,,drive social behavior would have no order or meaning.\N{\rChinese}推动社会行为的规范将失去秩序与意义。
+Dialogue: 0,0:26:53.50,0:26:56.20,English,,0,0,0,,It would also define the manner in which\N{\rChinese}它还将定义人类与野外、植物与动物相互作用的方式。
+Dialogue: 0,0:26:56.20,0:26:59.32,English,,0,0,0,,human beings interact with the wild, the plants and animals,\N{\rChinese}它还将定义人类与野外、植物与动物相互作用的方式。
+Dialogue: 0,0:26:59.64,0:27:02.64,English,,0,0,0,,the multiple phenomena of the natural world,\N{\rChinese}它还将定义人类与野外、植物与动物相互作用的方式。
+Dialogue: 0,0:27:02.80,0:27:05.96,English,,0,0,0,,lightning and thunder, the sun and the moon, the scent of a blossom,\N{\rChinese}闪电与雷鸣，太阳与月亮，花香，
+Dialogue: 0,0:27:06.18,0:27:07.74,English,,0,0,0,,the sound order of death.\N{\rChinese}死亡的声音顺序。
+Dialogue: 0,0:27:08.32,0:27:11.30,English,,0,0,0,,Everything is connected with each other.\N{\rChinese}一切相互连通。
+Dialogue: 0,0:27:11.42,0:27:15.08,English,,0,0,0,,We are all equals. Does that make sense guys?\N{\rChinese}我们都是平等的。这样说对吗？
+Dialogue: 0,0:27:15.82,0:27:17.34,English,,0,0,0,,This is what we call animism.\N{\rChinese}这就是我们所说的灵物论。
+Dialogue: 0,0:27:22.38,0:27:25.88,English,,0,0,0,,Alright, so let's talk about hunting.\N{\rChinese}好了，接下来聊聊狩猎。
+Dialogue: 0,0:27:26.16,0:27:28.14,English,,0,0,0,,This is something we talked about last class.\N{\rChinese}这就是我们上节课讨论过的内容。
+Dialogue: 0,0:27:28.56,0:27:32.20,English,,0,0,0,,If we are the same as animals\N{\rChinese}如果我们和动物一样
+Dialogue: 0,0:27:32.20,0:27:34.52,English,,0,0,0,,and plants, what allows us,\N{\rChinese}以及植物，是什么让我们能够……
+Dialogue: 0,0:27:34.58,0:27:37.08,English,,0,0,0,,what gives us permission to kill other animals?\N{\rChinese}是什么让我们有权杀死其他动物？
+Dialogue: 0,0:27:37.70,0:27:39.50,English,,0,0,0,,And this passage explains it.\N{\rChinese}这段话解释了这一点。
+Dialogue: 0,0:27:39.78,0:27:42.76,English,,0,0,0,,When men go to the forest to hunt or fish,\N{\rChinese}当人们去森林里打猎或捕鱼时…
+Dialogue: 0,0:27:42.92,0:27:44.66,English,,0,0,0,,it is never a trivial passage.\N{\rChinese}它从来不是一段简单的文字。
+Dialogue: 0,0:27:44.66,0:27:47.54,English,,0,0,0,,You cannot just go and hunt.\N{\rChinese}你不能随便去打猎。
+Dialogue: 0,0:27:47.64,0:27:50.02,English,,0,0,0,,You need permission. First,\N{\rChinese}你需要先得到许可。
+Dialogue: 0,0:27:50.12,0:27:54.56,English,,0,0,0,,the shaman must travel in trance to negotiate with the masters of the animals,\N{\rChinese}萨满必须在恍惚状态下前往，与动物之主协商。
+Dialogue: 0,0:27:54.72,0:27:58.24,English,,0,0,0,,forging a mystical contract with the\N{\rChinese}与灵守护者缔造神秘契约，始终以互惠为基。
+Dialogue: 0,0:27:58.24,0:28:02.66,English,,0,0,0,,spirit guardians in exchange based always on reciprocity.\N{\rChinese}以互惠为根，缔造与灵守护者的神秘契约。
+Dialogue: 0,0:28:04.40,0:28:06.08,English,,0,0,0,,Reciprocity means give and take.\N{\rChinese}互惠即是付与收。
+Dialogue: 0,0:28:06.30,0:28:08.54,English,,0,0,0,,If I give you a present, you must give me a present.\N{\rChinese}若我送你礼物，你也要送我礼物。
+Dialogue: 0,0:28:09.04,0:28:14.64,English,,0,0,0,,The brasarana compared to marriage for hunting too is a form of courtesanism.\N{\rChinese}与狩猎相似的布拉萨拉纳婚礼是一种陪伴式的仪式。
+Dialogue: 0,0:28:14.64,0:28:19.06,English,,0,0,0,,It is a form of courtship in which one seeks the blessings of a greater authority\N{\rChinese}这是一种求偶像更高权威祝福的求偶仪式。
+Dialogue: 0,0:28:19.06,0:28:23.22,English,,0,0,0,,for the honor of taking into one's family a precious being.\N{\rChinese}为将珍贵之物纳入家族的荣耀而献祭。
+Dialogue: 0,0:28:23.48,0:28:26.38,English,,0,0,0,,Meat is not the right of a hunter, but\N{\rChinese}肉并非猎人之权利，而是…
+Dialogue: 0,0:28:26.38,0:28:28.32,English,,0,0,0,,a gift from the spirit world.\N{\rChinese}来自灵界的礼物。
+Dialogue: 0,0:28:28.54,0:28:32.78,English,,0,0,0,,To kill without permission is to risk death by a spirit guardian,\N{\rChinese}未经许可杀戮，冒着灵守者之死的风险。
+Dialogue: 0,0:28:32.98,0:28:35.90,English,,0,0,0,,be it in the form of a jaguar,\N{\rChinese}变成美洲豹的形态，
+Dialogue: 0,0:28:35.98,0:28:38.72,English,,0,0,0,,anaconda, tapir, or harpy eagle.\N{\rChinese}变成安康达、塔皮尔或哈比鹰的形态。
+Dialogue: 0,0:28:39.00,0:28:41.34,English,,0,0,0,,This is something that we discussed in the cave paintings.\N{\rChinese}这件事我们在洞穴壁画里讨论过。
+Dialogue: 0,0:28:41.52,0:28:44.62,English,,0,0,0,,Why did they spend so much time painting the cave paintings?\N{\rChinese}他们为什么花这么多时间画洞穴壁画呢？
+Dialogue: 0,0:28:44.64,0:28:46.08,English,,0,0,0,,They were painting these animals.\N{\rChinese}他们在画这些动物。
+Dialogue: 0,0:28:46.38,0:28:48.30,English,,0,0,0,,We said it's because\N{\rChinese}我们说是因为
+Dialogue: 0,0:28:48.30,0:28:51.64,English,,0,0,0,,they're trying to pay tribute to the animals.\N{\rChinese}他们想向动物献祭。
+Dialogue: 0,0:28:51.82,0:28:53.20,English,,0,0,0,,If I kill you,\N{\rChinese}如果我杀了你，
+Dialogue: 0,0:28:53.42,0:28:57.86,English,,0,0,0,,I must thank you for taking your meat to replenish myself,\N{\rChinese}我得感谢你把肉送给我补充自己，
+Dialogue: 0,0:28:58.24,0:29:00.64,English,,0,0,0,,but I also must ask for your forgiveness.\N{\rChinese}我也得请你原谅。
+Dialogue: 0,0:29:01.08,0:29:04.46,English,,0,0,0,,Otherwise, the animal's soul may seek vengeance.\N{\rChinese}否则，动物的灵魂可能会寻求报复。
+Dialogue: 0,0:29:04.96,0:29:09.84,English,,0,0,0,,Does that make sense? This is the essence of the religion.\N{\rChinese}这有道理吗？这就是宗教的精髓。
+Dialogue: 0,0:29:11.60,0:29:14.62,English,,0,0,0,,If we hunt, we must first seek the blessings of the spirit guardian.\N{\rChinese}若我们狩猎，先要请得灵守的祝福。
+Dialogue: 0,0:29:14.64,0:29:15.92,English,,0,0,0,,We must pay tribute to the spirit guardian.\N{\rChinese}我们必须向灵守献祭品。
+Dialogue: 0,0:29:16.28,0:29:20.94,English,,0,0,0,,That's what explains the kata hoik.\N{\rChinese}这就是解释卡塔霍伊克的原因。
+Dialogue: 0,0:29:22.32,0:29:24.54,English,,0,0,0,,The bull and\N{\rChinese}公牛和
+Dialogue: 0,0:29:24.54,0:29:30.42,English,,0,0,0,,the people must pay tribute to all the animals before they go hunting.\N{\rChinese}人们在狩猎前必须向所有动物献祭。
+Dialogue: 0,0:29:35.34,0:29:37.94,English,,0,0,0,,You also look at the cave paintings.\N{\rChinese}你还会看到洞穴壁画。
+Dialogue: 0,0:29:38.16,0:29:39.60,English,,0,0,0,,They have all these cave paintings.\N{\rChinese}它们有这些洞穴壁画。
+Dialogue: 0,0:29:39.76,0:29:41.44,English,,0,0,0,,What they celebrate is not themselves.\N{\rChinese}他们庆祝的不是自己。
+Dialogue: 0,0:29:41.80,0:29:43.82,English,,0,0,0,,What they celebrate are the animals.\N{\rChinese}他们庆祝的是动物。
+Dialogue: 0,0:29:44.64,0:29:48.36,English,,0,0,0,,They celebrate the animals that give them life.\N{\rChinese}他们庆祝给他们生命的动物。
+Dialogue: 0,0:29:48.68,0:29:51.70,English,,0,0,0,,They give them nourishment and meat. Does that make sense?\N{\rChinese}它们给他们提供食物和肉。这样说对吗？
+Dialogue: 0,0:29:59.80,0:30:03.80,English,,0,0,0,,You can see this in caves all around Europe\N{\rChinese}你可以在欧洲各地的洞穴里看到这一点
+Dialogue: 0,0:30:03.80,0:30:04.80,English,,0,0,0,,and around the world.\N{\rChinese}以及世界各地的洞穴里
+Dialogue: 0,0:30:13.08,0:30:14.62,English,,0,0,0,,As the ritual begins, the kata hoik is a ritual.\N{\rChinese}当仪式开始时，卡塔霍伊克是一种仪式。
+Dialogue: 0,0:30:14.62,0:30:16.74,English,,0,0,0,,As the ritual begins, time collapses.\N{\rChinese}当仪式开始时，时间坍塌。
+Dialogue: 0,0:30:17.02,0:30:22.26,English,,0,0,0,,There are two series of dances separated by the liminal moments of the day,\N{\rChinese}有两组舞蹈，分别在日间的临界时刻之间。
+Dialogue: 0,0:30:22.44,0:30:25.42,English,,0,0,0,,dawn, dusk, and midnight.\N{\rChinese}黎明、黄昏与午夜。
+Dialogue: 0,0:30:26.68,0:30:29.86,English,,0,0,0,,The shaman, during the ritual,\N{\rChinese}萨满在仪式中，
+Dialogue: 0,0:30:30.24,0:30:35.10,English,,0,0,0,,needs to communicate with the animals in the spirit world.\N{\rChinese}需要与灵界的动物沟通。
+Dialogue: 0,0:30:35.22,0:30:41.12,English,,0,0,0,,To do that, he changes from fish to animal to human being\N{\rChinese}为此，他从鱼变为动物再变为人，随后又回到起点，跨越所有形态，
+Dialogue: 0,0:30:41.12,0:30:44.38,English,,0,0,0,,and back again, transcending every form,\N{\rChinese}成为在各维度中流动的纯能量。
+Dialogue: 0,0:30:44.52,0:30:48.90,English,,0,0,0,,becoming pure energy flowing among every dimension of reality,\N{\rChinese}becoming pure energy flowing among every dimension of reality,
+Dialogue: 0,0:30:49.18,0:30:53.42,English,,0,0,0,,past and present, here and there, mythic and mundane.\N{\rChinese}过去与现在，那里与此处，神话与凡俗。
+Dialogue: 0,0:30:53.72,0:30:57.40,English,,0,0,0,,His chants recall by name every point of\N{\rChinese}他的咒语按名称回忆安康达祖辈旅程中遇到的每一地理点
+Dialogue: 0,0:30:57.40,0:31:00.30,English,,0,0,0,,geography met on the ancestral journey of the anaconda.\N{\rChinese}geography met on the ancestral journey of the anaconda.
+Dialogue: 0,0:31:00.62,0:31:03.52,English,,0,0,0,,As you can see, before the hunt,\N{\rChinese}如你所见，狩猎之前，
+Dialogue: 0,0:31:03.70,0:31:06.06,English,,0,0,0,,the ritual is extremely elaborate,\N{\rChinese}仪式极为繁复
+Dialogue: 0,0:31:06.54,0:31:08.04,English,,0,0,0,,sophisticated, and complex.\N{\rChinese}复杂而精巧。
+Dialogue: 0,0:31:08.38,0:31:12.04,English,,0,0,0,,Its main purpose is to celebrate the unity of the animal.\N{\rChinese}其主要目的是庆祝动物的统一。
+Dialogue: 0,0:31:12.92,0:31:15.22,English,,0,0,0,,The ritual is to ask for\N{\rChinese}仪式是请猎人杀动物时求赎罪。
+Dialogue: 0,0:31:15.22,0:31:19.84,English,,0,0,0,,forgiveness as the hunters go kill the animals.\N{\rChinese}请猎人杀动物时求赎罪。
+Dialogue: 0,0:31:20.20,0:31:24.34,English,,0,0,0,,Does that make sense? Again,\N{\rChinese}这有道理吗？再说一次，
+Dialogue: 0,0:31:24.34,0:31:25.70,English,,0,0,0,,this explains\N{\rChinese}这就解释了
+Dialogue: 0,0:31:25.70,0:31:31.46,English,,0,0,0,,the shaman's\N{\rChinese}萨满的
+Dialogue: 0,0:31:31.46,0:31:35.04,English,,0,0,0,,change into animals in order to better communicate with the animals.\N{\rChinese}变身为动物，以更好地与动物沟通。
+Dialogue: 0,0:31:35.28,0:31:38.22,English,,0,0,0,,This explains all the cave paintings\N{\rChinese}这解释了所有的洞穴壁画
+Dialogue: 0,0:31:38.22,0:31:41.84,English,,0,0,0,,and how 40,000 years ago,\N{\rChinese}以及四万年前的情形
+Dialogue: 0,0:31:42.06,0:31:46.84,English,,0,0,0,,they were creating dolls of shamans dressed as animals.\N{\rChinese}他们正在制作萨满的动物服装娃娃。
+Dialogue: 0,0:31:47.00,0:31:51.58,English,,0,0,0,,Because for them, this is what is true.\N{\rChinese}因为对他们来说，这就是事实。
+Dialogue: 0,0:31:53.46,0:31:55.26,English,,0,0,0,,Does that make sense, guys?\N{\rChinese}这有道理吗，大家？
+Dialogue: 0,0:31:56.20,0:31:58.96,English,,0,0,0,,Any questions so far before I move on?\N{\rChinese}还有问题吗？
+Dialogue: 0,0:32:02.48,0:32:04.32,English,,0,0,0,,Are you guys clear about what's going on?\N{\rChinese}你们明白现在发生了什么吗？
+Dialogue: 0,0:32:05.16,0:32:06.66,English,,0,0,0,,Okay? Alright.\N{\rChinese}好的，开始吧。
+Dialogue: 0,0:32:09.24,0:32:11.52,English,,0,0,0,,Now, let's move to Africa.\N{\rChinese}现在，让我们去非洲。
+Dialogue: 0,0:32:11.66,0:32:14.20,English,,0,0,0,,Okay? We were in South America, and they're still there today.\N{\rChinese}好的？我们在南美洲，那里今天还在。
+Dialogue: 0,0:32:14.38,0:32:16.30,English,,0,0,0,,If you want to go visit that tribe, you can do so.\N{\rChinese}如果你想去参观那个部落，你可以去。
+Dialogue: 0,0:32:16.96,0:32:18.74,English,,0,0,0,,Okay? Now, let's go to Africa.\N{\rChinese}好的？现在，让我们去非洲。
+Dialogue: 0,0:32:19.02,0:32:21.66,English,,0,0,0,,And in Africa, there's a group of people called the Pygmies.\N{\rChinese}在非洲，有一群人叫做比格米人。
+Dialogue: 0,0:32:21.98,0:32:26.74,English,,0,0,0,,Okay? The Pygmies. And\N{\rChinese}好的？比格米人。
+Dialogue: 0,0:32:26.74,0:32:28.80,English,,0,0,0,,there's a very famous book by\N{\rChinese}有一本非常著名的书
+Dialogue: 0,0:32:28.80,0:32:32.56,English,,0,0,0,,a British anthropologist by\N{\rChinese}由英国人类学家所著
+Dialogue: 0,0:32:32.56,0:32:36.36,English,,0,0,0,,the name of Colin Turnbull.\N{\rChinese}名字叫做科林·特恩布尔
+Dialogue: 0,0:32:36.48,0:32:41.80,English,,0,0,0,,Okay? And he discusses how the Pygmies practiced their religious beliefs.\N{\rChinese}好的？他还谈到比格米人如何实践他们的宗教信仰。
+Dialogue: 0,0:32:41.80,0:32:44.36,English,,0,0,0,,At the very center of the\N{\rChinese}在宗教的核心是一个叫做莫利莫的东西。
+Dialogue: 0,0:32:44.36,0:32:47.80,English,,0,0,0,,religion is something called the Molimo.\N{\rChinese}莫利莫是他们宗教的核心。
+Dialogue: 0,0:32:48.82,0:32:50.86,English,,0,0,0,,Okay? Which is a trumpet -like instrument.\N{\rChinese}好的？这是一种类似喇叭的乐器。
+Dialogue: 0,0:32:51.62,0:32:55.98,English,,0,0,0,,And the Molimo allows them to communicate with the forest.\N{\rChinese}而莫利莫让他们与森林沟通。
+Dialogue: 0,0:32:56.28,0:32:58.84,English,,0,0,0,,It allows them to communicate with the spirit world.\N{\rChinese}它让他们与灵界沟通。
+Dialogue: 0,0:32:59.50,0:33:01.76,English,,0,0,0,,And that's how they resolve every issue.\N{\rChinese}于是他们就这样解决所有问题。
+Dialogue: 0,0:33:01.92,0:33:03.42,English,,0,0,0,,Okay? And\N{\rChinese}好的吗？然后
+Dialogue: 0,0:33:03.42,0:33:08.50,English,,0,0,0,,the Molimo also captures the sound\N{\rChinese}莫利莫还能捕捉声音。
+Dialogue: 0,0:33:08.50,0:33:10.88,English,,0,0,0,,and spirit of the forest.\N{\rChinese}和森林的灵魂。
+Dialogue: 0,0:33:10.88,0:33:12.94,English,,0,0,0,,Okay? Alright?\N{\rChinese}好的吗？好的？
+Dialogue: 0,0:33:13.14,0:33:16.12,English,,0,0,0,,So, even though\N{\rChinese}于是，即使……
+Dialogue: 0,0:33:16.12,0:33:19.26,English,,0,0,0,,we are in a different part of the world, we're in Africa, and\N{\rChinese}我们在世界的不同地方，位于非洲，且
+Dialogue: 0,0:33:19.26,0:33:24.10,English,,0,0,0,,even though the Pygmies have different religious beliefs than the people of the Amazon,\N{\rChinese}即使比姆人有不同的宗教信仰与亚马逊人相同，
+Dialogue: 0,0:33:24.40,0:33:27.34,English,,0,0,0,,what you will discover, what you will notice is that\N{\rChinese}你会发现，你会注意到的事是
+Dialogue: 0,0:33:27.34,0:33:29.58,English,,0,0,0,,essentially, it's the same religion.\N{\rChinese}基本上，都是同一种宗教。
+Dialogue: 0,0:33:29.74,0:33:33.16,English,,0,0,0,,Okay? The same idea that we are part of nature,\N{\rChinese}好的？同样的想法，我们是自然的一部分，
+Dialogue: 0,0:33:33.34,0:33:34.78,English,,0,0,0,,and that\N{\rChinese}以及……
+Dialogue: 0,0:33:34.78,0:33:39.48,English,,0,0,0,,our job is to help nature maintain balance and harmony.\N{\rChinese}我们的工作是帮助大自然保持平衡与和谐。
+Dialogue: 0,0:33:40.12,0:33:45.08,English,,0,0,0,,Okay? Okay.\N{\rChinese}好？好。
+Dialogue: 0,0:33:45.16,0:33:48.04,English,,0,0,0,,Okay. So, what I want to do now,\N{\rChinese}好的。现在我想做的是……
+Dialogue: 0,0:33:48.34,0:33:50.86,English,,0,0,0,,okay, is compare and\N{\rChinese}好的，先比较一下
+Dialogue: 0,0:33:50.86,0:33:54.92,English,,0,0,0,,contrast the way we think today and how they thought before.\N{\rChinese}再对比我们今天的思考方式和他们以前的思考方式
+Dialogue: 0,0:33:55.16,0:33:57.02,English,,0,0,0,,Okay? So, let's read.\N{\rChinese}好的？那我们开始读吧
+Dialogue: 0,0:33:57.44,0:34:01.46,English,,0,0,0,,I had no idea of how far we had come or in what direction.\N{\rChinese}我不知道我们已经走了多远，也不知道方向。
+Dialogue: 0,0:34:01.78,0:34:04.78,English,,0,0,0,,So he's following the group of Pygmies around as they hunt.\N{\rChinese}于是他跟着那群比格米人四处打猎。
+Dialogue: 0,0:34:05.24,0:34:09.04,English,,0,0,0,,But I knew we had left the camp far behind.\N{\rChinese}但我知道我们已经离营地很远了。
+Dialogue: 0,0:34:09.30,0:34:10.86,English,,0,0,0,,It was the first time I had seen the Pygmies.\N{\rChinese}那是我第一次见到比格米人。
+Dialogue: 0,0:34:10.88,0:34:13.56,English,,0,0,0,,I had known a group of Pygmies to be so silent.\N{\rChinese}我曾见过一群比格米人如此安静。
+Dialogue: 0,0:34:14.70,0:34:18.18,English,,0,0,0,,Normally, unless hunting, they are deliberately noisy.\N{\rChinese}平时除狩猎外，他们往往会很吵。
+Dialogue: 0,0:34:18.48,0:34:21.34,English,,0,0,0,,But now, just at the time that\N{\rChinese}但现在，正好在豹子觅食的时刻，
+Dialogue: 0,0:34:21.34,0:34:25.58,English,,0,0,0,,leopards would be prowling about in search of food,\N{\rChinese}leopards would be prowling about in search of food,
+Dialogue: 0,0:34:25.78,0:34:29.58,English,,0,0,0,,they seem unwilling to disturb the\N{\rChinese}他们似乎不愿打扰森林或隐藏其中的动物。
+Dialogue: 0,0:34:29.58,0:34:31.94,English,,0,0,0,,forest or the animals it concealed.\N{\rChinese}forest or the animals it concealed.
+Dialogue: 0,0:34:32.50,0:34:34.54,English,,0,0,0,,Just the opposite, in fact.\N{\rChinese}正好相反，实际上如此。
+Dialogue: 0,0:34:34.72,0:34:38.46,English,,0,0,0,,It was as if they were a part of the silence\N{\rChinese}就像它们是沉默的一部分。
+Dialogue: 0,0:34:38.46,0:34:41.16,English,,0,0,0,,and the darkness of the forest itself. And\N{\rChinese}以及森林本身的黑暗。然后
+Dialogue: 0,0:34:41.16,0:34:44.82,English,,0,0,0,,were only fearful lest any sound might\N{\rChinese}只怕有任何声音出现
+Dialogue: 0,0:34:44.82,0:34:49.46,English,,0,0,0,,betray their presence to some person or thing not of the forest.\N{\rChinese}他们站在那里，安静而静止。
+Dialogue: 0,0:34:50.26,0:34:53.12,English,,0,0,0,,They stood there, quiet and still.\N{\rChinese}他们把自己的存在透露给了森林之外的某人或某物。
+Dialogue: 0,0:34:53.30,0:34:56.02,English,,0,0,0,,And it struck me with a sudden shock that\N{\rChinese}然后我突然被一阵冲击震动，
+Dialogue: 0,0:34:56.02,0:34:59.98,English,,0,0,0,,not one of them carried a spear or bow\N{\rChinese}他们中没有人携带矛或弓。
+Dialogue: 0,0:34:59.98,0:35:03.46,English,,0,0,0,,and arrow. As they peered into the dust\N{\rChinese}和箭。它们注视尘埃
+Dialogue: 0,0:35:03.46,0:35:06.58,English,,0,0,0,,and cocked their heads first on the side,\N{\rChinese}先把头倾向一侧
+Dialogue: 0,0:35:06.74,0:35:10.30,English,,0,0,0,,then on that, satisfying themselves that we were really alone,\N{\rChinese}再转向另一侧，确认我们确实独自一人
+Dialogue: 0,0:35:10.74,0:35:13.24,English,,0,0,0,,it seemed that they felt themselves so\N{\rChinese}看起来他们把自己视为森林的一部分，并且是所有生物的一部分，只怕不属于森林的事物。
+Dialogue: 0,0:35:13.24,0:35:17.34,English,,0,0,0,,much a part of the forest and of all the living things in it,\N{\rChinese}看起来他们把自己视为森林的一部分，并且是所有生物的一部分，只怕不属于森林的事物。
+Dialogue: 0,0:35:17.46,0:35:22.08,English,,0,0,0,,they had no need to fear anything except that which was not of the forest.\N{\rChinese}看起来他们把自己视为森林的一部分，并且是所有生物的一部分，只怕不属于森林的事物。
+Dialogue: 0,0:35:22.60,0:35:24.86,English,,0,0,0,,One of them said to me later, When\N{\rChinese}其中一人后来对我说，
+Dialogue: 0,0:35:24.86,0:35:26.56,English,,0,0,0,,we are the children of the forest,\N{\rChinese}当我们是森林之子时，
+Dialogue: 0,0:35:26.84,0:35:29.76,English,,0,0,0,,what need have we to be afraid of it?\N{\rChinese}我们为何还要怕它？
+Dialogue: 0,0:35:29.84,0:35:33.30,English,,0,0,0,,We are only afraid of that which is outside the forest.\N{\rChinese}我们只怕森林之外的事物。
+Dialogue: 0,0:35:33.78,0:35:37.50,English,,0,0,0,,So, what I want to do now is,\N{\rChinese}于是，我现在想做的是，
+Dialogue: 0,0:35:37.50,0:35:40.48,English,,0,0,0,,by analyzing this passage,\N{\rChinese}通过分析这段文字，
+Dialogue: 0,0:35:43.02,0:35:46.56,English,,0,0,0,,explore how our minds are different from their minds.\N{\rChinese}探究我们与他们的思维差异。
+Dialogue: 0,0:35:47.02,0:35:49.38,English,,0,0,0,,So our mind is what we consider modern,\N{\rChinese}于是我们的思维就是我们所认为的现代，
+Dialogue: 0,0:35:50.46,0:35:53.06,English,,0,0,0,,and their mind is what we consider pre -modern.\N{\rChinese}而他们的思维则是我们所认为的前现代。
+Dialogue: 0,0:35:55.52,0:35:58.10,English,,0,0,0,,What's the first major difference between I,\N{\rChinese}第一个主要差异是什么？
+Dialogue: 0,0:35:58.24,0:36:02.24,English,,0,0,0,,the British anthropologist, and how we think, and how they think?\N{\rChinese}英国人类学家与我们思考方式的差异？
+Dialogue: 0,0:36:02.38,0:36:05.66,English,,0,0,0,,What's the first difference you notice from this passage?\N{\rChinese}从这段文字里你首先注意到的差异是什么？
+Dialogue: 0,0:36:12.74,0:36:15.46,English,,0,0,0,,First of all, what is the word that\N{\rChinese}首先，那个词是什么？
+Dialogue: 0,0:36:15.46,0:36:19.48,English,,0,0,0,,tells us that he doesn't really understand how these people think\N{\rChinese}告诉我们他并不真正理解这些人是怎么想的
+Dialogue: 0,0:36:19.48,0:36:22.60,English,,0,0,0,,and behave? What's the word\N{\rChinese}并且行为？这个词是什么
+Dialogue: 0,0:36:22.60,0:36:25.34,English,,0,0,0,,that tells us he doesn't really understand these people?\N{\rChinese}这句话告诉我们他并不真正理解这些人？
+Dialogue: 0,0:36:29.00,0:36:30.64,English,,0,0,0,,This is actually a great SAT question,\N{\rChinese}这实际上是一个很好的SAT题目。
+Dialogue: 0,0:36:31.38,0:36:33.26,English,,0,0,0,,if you guys plan on taking the SAT.\N{\rChinese}如果你们打算去考SAT。
+Dialogue: 0,0:36:33.54,0:36:36.90,English,,0,0,0,,There's a word in this passage that tells us he is actually,\N{\rChinese}这段文字里有个词告诉我们他实际上，
+Dialogue: 0,0:36:37.54,0:36:41.84,English,,0,0,0,,he is actually, he doesn't really understand how these people think and feel.\N{\rChinese}他实际上是，他并不真正理解这些人是怎么想和感受的。
+Dialogue: 0,0:36:42.22,0:36:52.10,English,,0,0,0,,What's the word? Shock, right? Shock.\N{\rChinese}是什么词？震惊，对吧？震惊。
+Dialogue: 0,0:36:53.72,0:36:56.52,English,,0,0,0,,So he's surprised by their behavior.\N{\rChinese}于是他被他们的行为惊讶。
+Dialogue: 0,0:36:56.74,0:37:01.62,English,,0,0,0,,Why is he surprised? What confuses him?\N{\rChinese}他为什么惊讶？是什么让他困惑？
+Dialogue: 0,0:37:02.80,0:37:10.28,English,,0,0,0,,Anyone? Why? Yes, exactly.\N{\rChinese}有人吗？为什么？是的，正是如此。
+Dialogue: 0,0:37:10.38,0:37:11.76,English,,0,0,0,,Why does that surprise him?\N{\rChinese}为什么这让他惊讶？
+Dialogue: 0,0:37:17.00,0:37:20.70,English,,0,0,0,,Exactly. So here's the first big difference.\N{\rChinese}正是如此。于是这里是第一个大区别。
+Dialogue: 0,0:37:20.96,0:37:23.22,English,,0,0,0,,Why do we think that nature is dangerous?\N{\rChinese}我们为什么认为自然是危险的？
+Dialogue: 0,0:37:23.28,0:37:25.58,English,,0,0,0,,Why do we think that nature is dangerous? Why do they not think nature is dangerous?\N{\rChinese}我们为什么认为自然是危险的？他们又为什么不认为自然是危险的？
+Dialogue: 0,0:37:25.88,0:37:29.50,English,,0,0,0,,Why? Why, guys?\N{\rChinese}为什么？为什么，大家？
+Dialogue: 0,0:37:29.82,0:37:33.74,English,,0,0,0,,That's exactly right. He thinks nature is dangerous because they're leopards.\N{\rChinese}正是如此。他认为自然是危险的，因为他们是豹子。
+Dialogue: 0,0:37:33.84,0:37:37.32,English,,0,0,0,,They're predators. They don't think nature is dangerous.\N{\rChinese}它们是捕食者。他们不认为自然是危险的。
+Dialogue: 0,0:37:37.44,0:37:41.54,English,,0,0,0,,What's the difference? What's the difference?\N{\rChinese}有什么区别？有什么区别？
+Dialogue: 0,0:37:43.00,0:37:45.74,English,,0,0,0,,What's the difference? Okay, the first major difference is this.\N{\rChinese}有什么区别？好了，第一个主要区别就是这个。
+Dialogue: 0,0:37:46.12,0:37:48.94,English,,0,0,0,,Our minds think that\N{\rChinese}我们的思维认为
+Dialogue: 0,0:37:48.94,0:37:50.92,English,,0,0,0,,we are separate from nature, okay?\N{\rChinese}我们与自然分离，好的？
+Dialogue: 0,0:37:51.22,0:37:52.78,English,,0,0,0,,Man versus nature.\N{\rChinese}人与自然的对抗。
+Dialogue: 0,0:37:53.28,0:37:55.00,English,,0,0,0,,Man versus nature.\N{\rChinese}人对自然。
+Dialogue: 0,0:37:57.46,0:38:00.76,English,,0,0,0,,But they think they are part of nature, okay?\N{\rChinese}但他们认为自己是自然的一部分，好的？
+Dialogue: 0,0:38:06.12,0:38:10.00,English,,0,0,0,,So let me ask you this question. Why do we fear nature?\N{\rChinese}让我问你一个问题：我们为什么会害怕自然？
+Dialogue: 0,0:38:11.14,0:38:13.80,English,,0,0,0,,Why do we fear nature? What makes us fear nature? If I put you in a forest, you're afraid.\N{\rChinese}我们为什么会害怕自然？是什么让我们害怕自然？如果我把你放进森林，你会害怕。
+Dialogue: 0,0:38:13.98,0:38:19.18,English,,0,0,0,,Why? Yes,\N{\rChinese}为什么？是的，
+Dialogue: 0,0:38:19.32,0:38:20.72,English,,0,0,0,,okay. Why are you afraid of the unknown?\N{\rChinese}好的。你为什么怕未知？
+Dialogue: 0,0:38:30.38,0:38:31.66,English,,0,0,0,,Okay, you don't know what you encounter,\N{\rChinese}好的，你不知道你会遇到什么，
+Dialogue: 0,0:38:32.02,0:38:33.22,English,,0,0,0,,but why does that make you afraid?\N{\rChinese}但这为什么会让你害怕？
+Dialogue: 0,0:38:38.06,0:38:41.46,English,,0,0,0,,Okay. Why? Why would the unknown make you afraid?\N{\rChinese}好的。为什么？未知会让你害怕吗？
+Dialogue: 0,0:38:42.48,0:38:45.42,English,,0,0,0,,Why? What is it that we are obsessed with?\N{\rChinese}为什么？我们到底迷恋什么？
+Dialogue: 0,0:38:51.56,0:38:53.34,English,,0,0,0,,Hmm? Jimmy?\N{\rChinese}嗯？吉米？
+Dialogue: 0,0:38:56.96,0:38:59.92,English,,0,0,0,,Okay. We're obsessed with control, right?\N{\rChinese}好的。我们确实迷恋控制，对吧？
+Dialogue: 0,0:39:02.20,0:39:03.94,English,,0,0,0,,We have to control everything.\N{\rChinese}我们得把一切都控制住。
+Dialogue: 0,0:39:04.56,0:39:07.72,English,,0,0,0,,We want to know something because we want to control it, okay?\N{\rChinese}我们想知道某件事，就是想控制它，行吗？
+Dialogue: 0,0:39:08.00,0:39:10.68,English,,0,0,0,,We like animals in the zoo, right?\N{\rChinese}我们喜欢动物园里的动物，对吧？
+Dialogue: 0,0:39:11.00,0:39:13.32,English,,0,0,0,,We do not like animals in the forest.\N{\rChinese}我们不喜欢森林里的动物。
+Dialogue: 0,0:39:13.66,0:39:15.96,English,,0,0,0,,We can control animals in the zoo.\N{\rChinese}我们能控制动物园里的动物。
+Dialogue: 0,0:39:16.06,0:39:18.54,English,,0,0,0,,We cannot control animals in the forest, okay?\N{\rChinese}我们能控制森林里的动物，行吗？
+Dialogue: 0,0:39:20.38,0:39:22.16,English,,0,0,0,,So, we're obsessed with control.\N{\rChinese}于是我们对控制着迷恋。
+Dialogue: 0,0:39:22.80,0:39:24.84,English,,0,0,0,,Why aren't they afraid of nature?\N{\rChinese}他们为什么不怕大自然？
+Dialogue: 0,0:39:27.56,0:39:29.78,English,,0,0,0,,What's their attitude? What are the pygmies' attitudes?\N{\rChinese}他们的态度怎样？毕加米人的态度又如何？
+Dialogue: 0,0:39:33.18,0:39:35.94,English,,0,0,0,,We want to control nature, but they...\N{\rChinese}我们想控制自然，但他们……
+Dialogue: 0,0:39:38.64,0:39:42.66,English,,0,0,0,,They what? Therefore they...\N{\rChinese}他们是……因此他们……
+Dialogue: 0,0:39:44.28,0:39:46.68,English,,0,0,0,,Therefore they... Okay, the word is trust, right?\N{\rChinese}于是他们……好了，词是信任，对吧？
+Dialogue: 0,0:39:47.04,0:39:51.72,English,,0,0,0,,Trust. They don't have to control nature because they trust nature.\N{\rChinese}信任。他们不必控制自然，因为他们信任自然。
+Dialogue: 0,0:39:52.02,0:39:54.22,English,,0,0,0,,They believe the leopards\N{\rChinese}他们相信豹子
+Dialogue: 0,0:39:55.38,0:39:57.58,English,,0,0,0,,know them and they know the leopards, okay?\N{\rChinese}知道它们并且它们知道豹子，好的？
+Dialogue: 0,0:39:58.64,0:40:00.86,English,,0,0,0,,Does that make sense? Okay.\N{\rChinese}这样说通吗？好的。
+Dialogue: 0,0:40:01.00,0:40:04.24,English,,0,0,0,,So, that's the first major difference between our world\N{\rChinese}所以，这就是我们世界与他们世界的第一个主要区别。
+Dialogue: 0,0:40:04.24,0:40:06.44,English,,0,0,0,,and their world.\N{\rChinese}与他们世界。
+Dialogue: 0,0:40:07.28,0:40:08.70,English,,0,0,0,,We've been taught that\N{\rChinese}我们被教导为…
+Dialogue: 0,0:40:10.00,0:40:13.54,English,,0,0,0,,nature is our enemy or nature is outside us,\N{\rChinese}自然是我们的敌人或自然在我们之外，
+Dialogue: 0,0:40:13.66,0:40:16.22,English,,0,0,0,,whereas they believe that they are part of nature.\N{\rChinese}而他们则认为自己是自然的一部分。
+Dialogue: 0,0:40:17.36,0:40:19.28,English,,0,0,0,,Okay? Does that make sense, guys?\N{\rChinese}好吧？这样说通吗，大家？
+Dialogue: 0,0:40:19.70,0:40:25.26,English,,0,0,0,,Alright, let's move on. Alright.\N{\rChinese}好的，接着说。
+Dialogue: 0,0:40:27.60,0:40:29.20,English,,0,0,0,,So, this is about\N{\rChinese}所以，这个是关于
+Dialogue: 0,0:40:29.78,0:40:31.60,English,,0,0,0,,their religious practice, okay?\N{\rChinese}他们的宗教实践，好的？
+Dialogue: 0,0:40:31.72,0:40:34.94,English,,0,0,0,,So, they have a meal together and then\N{\rChinese}于是他们一起吃饭，然后
+Dialogue: 0,0:40:35.42,0:40:36.84,English,,0,0,0,,they sing\N{\rChinese}他们便开始歌唱
+Dialogue: 0,0:40:37.40,0:40:41.18,English,,0,0,0,,or they use the malomo to make noises and they sing and dance, okay?\N{\rChinese}或者他们用马洛莫发出声音，然后唱歌跳舞，好吗？
+Dialogue: 0,0:40:41.96,0:40:44.80,English,,0,0,0,,Everyone ate his fill as and when he pleased.\N{\rChinese}每个人吃到饱为止，随心所欲。
+Dialogue: 0,0:40:45.02,0:40:48.52,English,,0,0,0,,A couple of the older men saying they would\N{\rChinese}一两位年长的男子说他们会等到小孩儿吃完再吃。
+Dialogue: 0,0:40:48.52,0:40:51.34,English,,0,0,0,,wait until the youngsters had finished before they ate.\N{\rChinese}他们说会等到小孩儿吃完再吃。
+Dialogue: 0,0:40:51.62,0:40:54.24,English,,0,0,0,,But they did not wait for long.\N{\rChinese}但他们并没有等很久。
+Dialogue: 0,0:40:54.54,0:40:58.84,English,,0,0,0,,I was told, however, that everyone had to eat just as no adult male\N{\rChinese}我被告知，然而每个人都必须随时吃饭。
+Dialogue: 0,0:40:59.34,0:41:02.28,English,,0,0,0,,was allowed to sleep, but to sing while\N{\rChinese}被允许睡觉，但在唱歌时……
+Dialogue: 0,0:41:02.28,0:41:04.74,English,,0,0,0,,malomo was singing was in progress.\N{\rChinese}马洛莫正在唱歌的过程中……
+Dialogue: 0,0:41:05.64,0:41:08.88,English,,0,0,0,,Apparently, one of the greatest crimes that a pygmy can commit,\N{\rChinese}显然，最重大的小人犯下的罪行，若非最重大的话，便是被发现睡着时，马洛莫正在唱歌。
+Dialogue: 0,0:41:08.98,0:41:13.38,English,,0,0,0,,if not the greatest, is to be found asleep when the malomo is singing.\N{\rChinese}显然，最重大的小人犯下的罪行，若非最重大的话，便是被发现睡着时，马洛莫正在唱歌。
+Dialogue: 0,0:41:13.80,0:41:17.66,English,,0,0,0,,One of the men stood up and miming, as all pygmies love to do,\N{\rChinese}一名男子站起，像所有小人一样做了个手势，
+Dialogue: 0,0:41:17.82,0:41:20.88,English,,0,0,0,,he showed how they used to search for sleeping men,\N{\rChinese}他示范了他们寻找睡着的人的方式。
+Dialogue: 0,0:41:21.10,0:41:24.46,English,,0,0,0,,a spear under each arm, and how if they found one,\N{\rChinese}每只手臂下放一支矛，若他们发现一人，他们会把矛刺进他的腹部，彻底杀死他。我听说那时他的尸体…
+Dialogue: 0,0:41:24.56,0:41:28.38,English,,0,0,0,,they would spear him in the stomach and kill him completely and forever.\N{\rChinese}每只手臂下放一支矛，若他们发现一人，他们会把矛刺进他的腹部，彻底杀死他。我听说那时他的尸体…
+Dialogue: 0,0:41:28.62,0:41:30.90,English,,0,0,0,,I was told that then his body\N{\rChinese}I was told thatthen his body
+Dialogue: 0,0:41:31.42,0:41:33.88,English,,0,0,0,,would be buried under the komalamo,\N{\rChinese}被埋在科马拉莫之下
+Dialogue: 0,0:41:34.40,0:41:38.78,English,,0,0,0,,okay, the komalamo is a great fire in which they practice their religion, okay?\N{\rChinese}好的，科马拉莫是一场大火，他们在其中进行宗教仪式，好吗？
+Dialogue: 0,0:41:38.94,0:41:42.48,English,,0,0,0,,And nobody would be allowed to mention his death,\N{\rChinese}没有人能提及他的死亡
+Dialogue: 0,0:41:42.62,0:41:44.18,English,,0,0,0,,even to remark on his absence.\N{\rChinese}甚至提到他的缺席。
+Dialogue: 0,0:41:44.54,0:41:46.92,English,,0,0,0,,The woman would be told that the malomo\N{\rChinese}女子会被告知，malomo本身，森林的伟大动物，
+Dialogue: 0,0:41:47.54,0:41:50.18,English,,0,0,0,,itself, the great animal of the forest,\N{\rChinese}itself, the great animal of the forest,
+Dialogue: 0,0:41:50.32,0:41:53.72,English,,0,0,0,,had carried off one of their number, but like the men,\N{\rChinese}被带走了他们中的一个，但像男人一样，
+Dialogue: 0,0:41:53.84,0:41:58.38,English,,0,0,0,,they would ask no questions and would never again mention the missing men.\N{\rChinese}他们不问问题，也不再提起失踪的男人。
+Dialogue: 0,0:41:58.74,0:42:01.12,English,,0,0,0,,Okay. So in this world,\N{\rChinese}好的。所以在这个世界里。
+Dialogue: 0,0:42:01.76,0:42:04.92,English,,0,0,0,,the greatest crime you can commit is not to kill someone,\N{\rChinese}你能犯下的最大罪行就是不杀人。
+Dialogue: 0,0:42:05.86,0:42:10.18,English,,0,0,0,,but to sleep during the religion.\N{\rChinese}但在宗教中睡觉。
+Dialogue: 0,0:42:11.94,0:42:15.30,English,,0,0,0,,Can someone explain why that's the case?\N{\rChinese}有人能解释为什么会这样吗？
+Dialogue: 0,0:42:17.24,0:42:21.80,English,,0,0,0,,In this world, okay, the pygmy world, the worst thing you can do is sleep.\N{\rChinese}在这个世界里，好的，侏儒世界，最糟的事就是睡觉。
+Dialogue: 0,0:42:25.64,0:42:26.76,English,,0,0,0,,Why is that the case?\N{\rChinese}为什么会这样呢？
+Dialogue: 0,0:42:31.18,0:42:35.02,English,,0,0,0,,Okay. Let's just say that we're having a class,\N{\rChinese}好的。我们先说我们在上课，
+Dialogue: 0,0:42:36.00,0:42:38.46,English,,0,0,0,,and one of you is sleeping, okay?\N{\rChinese}其中有人在睡觉，好的？
+Dialogue: 0,0:42:39.40,0:42:41.00,English,,0,0,0,,And I get so angry\N{\rChinese}我会很生气我想要杀了他。
+Dialogue: 0,0:42:42.04,0:42:43.50,English,,0,0,0,,that I want to kill that person.\N{\rChinese}我会很生气我想要杀了他。
+Dialogue: 0,0:42:44.48,0:42:46.74,English,,0,0,0,,Why would I want to do that? What's my logic?\N{\rChinese}我为什么想这么做？我的逻辑是什么？
+Dialogue: 0,0:42:48.52,0:42:50.10,English,,0,0,0,,It's disrespectful of what?\N{\rChinese}这是什么不敬之处？
+Dialogue: 0,0:42:51.86,0:42:54.88,English,,0,0,0,,Okay, it's disrespectful of my authority, that\N{\rChinese}好的，这算是对我的权威不敬
+Dialogue: 0,0:42:54.88,0:42:56.76,English,,0,0,0,,is true, but then I just\N{\rChinese}是的，但随后我只是
+Dialogue: 0,0:42:57.18,0:42:59.04,English,,0,0,0,,ask a person to leave my class, right?\N{\rChinese}请人离开我的课堂，对吧？
+Dialogue: 0,0:42:59.24,0:43:01.78,English,,0,0,0,,Or I shout at that person, but I want to kill that person.\N{\rChinese}或者我大喊那人，我想杀那人。
+Dialogue: 0,0:43:01.84,0:43:03.84,English,,0,0,0,,Why? What's happened?\N{\rChinese}为什么？发生了什么？
+Dialogue: 0,0:43:07.70,0:43:09.62,English,,0,0,0,,Okay. Okay.\N{\rChinese}好的。好的。
+Dialogue: 0,0:43:09.62,0:43:13.44,English,,0,0,0,,What is a classroom? What is a classroom?\N{\rChinese}什么是教室？什么是教室？
+Dialogue: 0,0:43:19.00,0:43:21.26,English,,0,0,0,,Okay. A place to study.\N{\rChinese}好的。一个学习的地方。
+Dialogue: 0,0:43:21.34,0:43:24.42,English,,0,0,0,,What else? What are we doing now?\N{\rChinese}还有什么？我们现在在做什么？
+Dialogue: 0,0:43:26.36,0:43:28.46,English,,0,0,0,,Yeah, but what is class? What is classroom?\N{\rChinese}是的，但什么是课堂？什么是教室？
+Dialogue: 0,0:43:33.92,0:43:38.30,English,,0,0,0,,What allows a classroom to exist? What allows a classroom to exist?\N{\rChinese}什么让教室得以存在？什么让教室得以存在？
+Dialogue: 0,0:43:48.40,0:43:52.48,English,,0,0,0,,Hmm? What is the ritual we're practicing?\N{\rChinese}嗯？我们正在练习的仪式是什么？
+Dialogue: 0,0:43:53.20,0:43:57.96,English,,0,0,0,,Okay, so a classroom, you can understand as the collective experience,\N{\rChinese}好的，教室可以理解为集体经验，
+Dialogue: 0,0:43:58.38,0:44:02.36,English,,0,0,0,,okay? A classroom happens when everyone is participating in it.\N{\rChinese}好的？教室就是大家一起参与时才会出现。
+Dialogue: 0,0:44:02.60,0:44:05.40,English,,0,0,0,,Does that make sense? That's why we take classroom alive.\N{\rChinese}这样说通吗？这就是我们让教室活起来的原因。
+Dialogue: 0,0:44:07.84,0:44:10.70,English,,0,0,0,,So why would I be angry if one of you is sleeping?\N{\rChinese}那我为什么会生气，如果你们中有人睡着呢？
+Dialogue: 0,0:44:15.80,0:44:17.34,English,,0,0,0,,But why does that matter?\N{\rChinese}那又为什么重要？
+Dialogue: 0,0:44:18.08,0:44:20.80,English,,0,0,0,,......\N{\rChinese}....
+Dialogue: 0,0:44:23.46,0:44:25.74,English,,0,0,0,,......\N{\rChinese}......
+Dialogue: 0,0:44:25.74,0:44:27.54,English,,0,0,0,,If you're sleeping, what are you telling me?\N{\rChinese}如果你睡着，跟我说的是什么？
+Dialogue: 0,0:44:29.54,0:44:33.16,English,,0,0,0,,... Yeah, it's not a classroom.\N{\rChinese}…是的，没成教室。
+Dialogue: 0,0:44:33.28,0:44:36.34,English,,0,0,0,,It's not real. This discussion is not real.\N{\rChinese}这不是现实的。这次讨论也是如此。
+Dialogue: 0,0:44:36.46,0:44:38.34,English,,0,0,0,,It's pointless. You understand?\N{\rChinese}这没意义。你明白吗？
+Dialogue: 0,0:44:39.26,0:44:40.64,English,,0,0,0,,So that's what's happening here.\N{\rChinese}于是这里就发生了这些事。
+Dialogue: 0,0:44:41.18,0:44:43.96,English,,0,0,0,,Their malemo singing, the ritual,\N{\rChinese}他们的 malemo 唱歌，仪式，
+Dialogue: 0,0:44:44.16,0:44:48.56,English,,0,0,0,,it's meant for everyone to recognize that the religion is real.\N{\rChinese}它的设定是让大家认识到宗教是真实。
+Dialogue: 0,0:44:48.70,0:44:50.06,English,,0,0,0,,It's more real than reality.\N{\rChinese}它比现实更真实。
+Dialogue: 0,0:44:51.40,0:44:54.60,English,,0,0,0,,Okay? But if you're sleeping, you're saying, no guys, this doesn't matter, okay?\N{\rChinese}好的？但如果你在睡觉，你就说，没事，伙计们，这不重要，好吗？
+Dialogue: 0,0:44:54.74,0:44:56.62,English,,0,0,0,,What we're doing does not matter.\N{\rChinese}我们正在做的事不重要。
+Dialogue: 0,0:44:57.58,0:45:00.20,English,,0,0,0,,And therefore, what you're doing is,\N{\rChinese}于是，你所做的事是，
+Dialogue: 0,0:45:00.42,0:45:03.66,English,,0,0,0,,you're not committing violence on one person,\N{\rChinese}你并没有对一个人造成暴力。
+Dialogue: 0,0:45:03.76,0:45:05.96,English,,0,0,0,,you're committing violence on the community.\N{\rChinese}你正在对社区施暴力。
+Dialogue: 0,0:45:07.08,0:45:09.04,English,,0,0,0,,You're committing violence on the religion.\N{\rChinese}你正在对宗教施暴力。
+Dialogue: 0,0:45:09.38,0:45:11.40,English,,0,0,0,,You're insulting the forest.\N{\rChinese}你在侮辱森林。
+Dialogue: 0,0:45:11.72,0:45:13.02,English,,0,0,0,,You're insulting the god.\N{\rChinese}你在侮辱神。
+Dialogue: 0,0:45:13.46,0:45:16.04,English,,0,0,0,,Does that make sense? And that's the word for the worst crime.\N{\rChinese}这有道理吗？这就是“最坏的”词。
+Dialogue: 0,0:45:17.43,0:45:19.00,English,,0,0,0,,Because reality happens.\N{\rChinese}因为现实就发生了。
+Dialogue: 0,0:45:19.12,0:45:21.00,English,,0,0,0,,This religion is only possible\N{\rChinese}这宗教才有可能
+Dialogue: 0,0:45:21.39,0:45:24.14,English,,0,0,0,,if everyone believes that it is true.\N{\rChinese}如果大家都相信它是真的。
+Dialogue: 0,0:45:24.56,0:45:28.28,English,,0,0,0,,If you're sleeping, it means you don't think it's true.\N{\rChinese}如果你在睡觉，那就说明你不认为它是真的。
+Dialogue: 0,0:45:29.48,0:45:32.00,English,,0,0,0,,And therefore, you are,\N{\rChinese}于是，你们是，
+Dialogue: 0,0:45:32.78,0:45:35.44,English,,0,0,0,,first of all, rejecting the community, right?\N{\rChinese}首先，离开社区，对吧？
+Dialogue: 0,0:45:35.64,0:45:37.46,English,,0,0,0,,You're telling everyone, you're all idiots.\N{\rChinese}你在跟大家说，你们都是傻瓜。
+Dialogue: 0,0:45:38.02,0:45:40.88,English,,0,0,0,,Okay? Second is that you might\N{\rChinese}好的？第二点是你可能
+Dialogue: 0,0:45:41.57,0:45:44.52,English,,0,0,0,,endanger the community because you're insulting the forest.\N{\rChinese}因为你侮辱森林而危及社区。
+Dialogue: 0,0:45:45.84,0:45:48.28,English,,0,0,0,,Does that make sense, guys? Okay?\N{\rChinese}那有道理吗，大家？好吧？
+Dialogue: 0,0:45:48.38,0:45:50.34,English,,0,0,0,,So for most of human history,\N{\rChinese}所以在大部分人类历史里，
+Dialogue: 0,0:45:51.78,0:45:54.52,English,,0,0,0,,people take their religion extremely seriously.\N{\rChinese}人们把自己的宗教极其认真。
+Dialogue: 0,0:45:55.34,0:45:58.96,English,,0,0,0,,So seriously that they think it's more real than\N{\rChinese}如此认真，以至认为它比……更真实。
+Dialogue: 0,0:46:00.44,0:46:03.16,English,,0,0,0,,reality. As long as everyone believes in it, it's true.\N{\rChinese}现实。只要大家都相信它，它就是真的。
+Dialogue: 0,0:46:03.38,0:46:06.18,English,,0,0,0,,But if someone doesn't believe in it, then we have to kill that person.\N{\rChinese}但若有人不相信它，我们就得把那个人杀掉。
+Dialogue: 0,0:46:06.34,0:46:10.84,English,,0,0,0,,Because if he doesn't believe in it, then it might cause our religion to die.\N{\rChinese}因为如果他不相信它，就会导致我们的宗教死亡。
+Dialogue: 0,0:46:11.02,0:46:13.62,English,,0,0,0,,Okay? Does that make sense? Any questions so far?\N{\rChinese}好的？这样说通吗？到现在还有问题吗？
+Dialogue: 0,0:46:15.80,0:46:17.08,English,,0,0,0,,Any questions?\N{\rChinese}还有问题吗？
+Dialogue: 0,0:46:17.24,0:46:19.26,English,,0,0,0,,We're all clear, right? Okay?\N{\rChinese}我们都明白了吧？
+Dialogue: 0,0:46:19.70,0:46:23.46,English,,0,0,0,,And what I'm trying to show you is the power of religion.\N{\rChinese}我想给你们展示的是宗教的力量。
+Dialogue: 0,0:46:23.66,0:46:26.72,English,,0,0,0,,Okay? How once we have the religious imagination,\N{\rChinese}好？一旦我们拥有宗教想象，
+Dialogue: 0,0:46:27.36,0:46:30.84,English,,0,0,0,,we can create things that are actually for us more real\N{\rChinese}我们可以创造的东西，实际上对我们更真实
+Dialogue: 0,0:46:31.48,0:46:33.76,English,,0,0,0,,than reality. Okay? So\N{\rChinese}比现实更… 好吗？所以
+Dialogue: 0,0:46:33.76,0:46:35.92,English,,0,0,0,,that's the second thing that's different\N{\rChinese}第二点与其他人类不同
+Dialogue: 0,0:46:35.92,0:46:40.06,English,,0,0,0,,about us from other human beings.\N{\rChinese}关于我们的区别
+Dialogue: 0,0:46:40.12,0:46:43.96,English,,0,0,0,,For most of human history, we were spiritual.\N{\rChinese}在大部分人类历史里，我们是灵性的。
+Dialogue: 0,0:46:44.32,0:46:48.90,English,,0,0,0,,Okay? We were spiritual meaning like we believe like the world of spirits,\N{\rChinese}好？我们是灵性的，意思是我们相信灵界。
+Dialogue: 0,0:46:49.56,0:46:51.40,English,,0,0,0,,our soul, it exists.\N{\rChinese}我们的灵魂，它存在。
+Dialogue: 0,0:46:51.74,0:46:54.76,English,,0,0,0,,Okay? Today the word we use is\N{\rChinese}好了？今天我们使用的词是
+Dialogue: 0,0:46:56.18,0:46:59.48,English,,0,0,0,,materialistic. Materialistic.\N{\rChinese}唯物主义的。唯物主义的。
+Dialogue: 0,0:46:59.92,0:47:01.86,English,,0,0,0,,And the idea of materialistic is this.\N{\rChinese}而唯物主义的概念是这样的。
+Dialogue: 0,0:47:02.00,0:47:05.14,English,,0,0,0,,If we cannot see it, okay, it's not real.\N{\rChinese}如果我们看不见它，好了，它就不是真的。
+Dialogue: 0,0:47:05.36,0:47:09.64,English,,0,0,0,,Okay? God can't be real because we can't find it.\N{\rChinese}好？上帝看不见它，它就不是真的。
+Dialogue: 0,0:47:09.74,0:47:13.24,English,,0,0,0,,The soul can't be real because we can't measure it.\N{\rChinese}灵魂之能测量，故其可为真。
+Dialogue: 0,0:47:14.50,0:47:16.48,English,,0,0,0,,Imagination can't be real because\N{\rChinese}想象之能测量，故其可为真。
+Dialogue: 0,0:47:17.10,0:47:18.52,English,,0,0,0,,we don't know where it comes from.\N{\rChinese}我们不知道它来自哪里。
+Dialogue: 0,0:47:18.70,0:47:20.70,English,,0,0,0,,Okay? Does that make sense? And obviously,\N{\rChinese}好？这有道理吗？显然，
+Dialogue: 0,0:47:21.06,0:47:25.36,English,,0,0,0,,okay, obviously, this idea of materialism is wrong.\N{\rChinese}好，显然，这个唯物主义的概念是错的。
+Dialogue: 0,0:47:25.94,0:47:30.00,English,,0,0,0,,How can you say the imagination doesn't exist?\N{\rChinese}想象怎么会不存在？
+Dialogue: 0,0:47:31.88,0:47:36.30,English,,0,0,0,,But unfortunately, we have structured our society around this idea.\N{\rChinese}可惜的是，我们把社会组织在这个想法上。
+Dialogue: 0,0:47:36.52,0:47:39.58,English,,0,0,0,,All of science, okay, when you go to science class, they teach you this.\N{\rChinese}科学全都如此，去上科学课就会学到这点。
+Dialogue: 0,0:47:39.70,0:47:42.94,English,,0,0,0,,Okay? If it's real, you can measure it.\N{\rChinese}好的？如果它是真的，你可以测量它。
+Dialogue: 0,0:47:43.06,0:47:46.36,English,,0,0,0,,You can see it. You can feel it.\N{\rChinese}你可以看到它。你可以感受它。
+Dialogue: 0,0:47:46.94,0:47:50.12,English,,0,0,0,,But for most of human history, we didn't believe that.\N{\rChinese}但在大多数人类历史里，我们并不相信这一点。
+Dialogue: 0,0:47:50.20,0:47:53.46,English,,0,0,0,,We thought like, okay, there is a spiritual world\N{\rChinese}我们想，好的，存在一个灵性世界
+Dialogue: 0,0:47:53.92,0:47:56.00,English,,0,0,0,,and that matters just as much as reality.\N{\rChinese}而且它和现实一样重要
+Dialogue: 0,0:47:56.20,0:47:58.96,English,,0,0,0,,Okay? In fact, it probably matters more\N{\rChinese}好的？实际上，它可能更重要
+Dialogue: 0,0:47:59.44,0:48:02.80,English,,0,0,0,,than reality. Okay?\N{\rChinese}比现实更重要。好的吗？
+Dialogue: 0,0:48:02.88,0:48:06.22,English,,0,0,0,,So, this is making sense, right guys? Okay.\N{\rChinese}所以，这样说就有道理了，对吧，大家？好。
+Dialogue: 0,0:48:11.92,0:48:14.86,English,,0,0,0,,Okay. For a month,\N{\rChinese}好。持续一个月，
+Dialogue: 0,0:48:14.92,0:48:19.02,English,,0,0,0,,I sat every evening at the Kamal Molo listening, watching, okay?\N{\rChinese}我每晚坐在卡马尔·莫洛旁边听着，看的，行吗？
+Dialogue: 0,0:48:20.64,0:48:23.00,English,,0,0,0,,If I still had little idea of what was going on,\N{\rChinese}如果我还对发生的事有一点点想法，
+Dialogue: 0,0:48:23.18,0:48:26.88,English,,0,0,0,,at least I felt that ear of importance and expectancy.\N{\rChinese}至少我能感受到那种重要与期待的耳朵。
+Dialogue: 0,0:48:27.58,0:48:30.36,English,,0,0,0,,Every evening, when the woman shut themselves up,\N{\rChinese}每晚，女人关上门时，
+Dialogue: 0,0:48:30.54,0:48:34.12,English,,0,0,0,,pretending that they were afraid to see the animal in the forest.\N{\rChinese}假装他们怕在森林里看到动物。
+Dialogue: 0,0:48:34.36,0:48:37.70,English,,0,0,0,,Every evening, when the man gathered around the fire,\N{\rChinese}每晚，男人围着火堆聚集时。
+Dialogue: 0,0:48:37.76,0:48:40.56,English,,0,0,0,,pretending they thought that the woman thought\N{\rChinese}假装他们以为女人认为
+Dialogue: 0,0:48:40.56,0:48:42.86,English,,0,0,0,,that the drain pipes were animals.\N{\rChinese}假装他们以为女人认为排水管是动物
+Dialogue: 0,0:48:43.14,0:48:45.06,English,,0,0,0,,Every evening, when the trumpet dropped,\N{\rChinese}每晚，号角落下时
+Dialogue: 0,0:48:45.66,0:48:49.60,English,,0,0,0,,the drain pipes imitated leopards and elephants and buffaloes.\N{\rChinese}排水管像豹子、象和水牛一样
+Dialogue: 0,0:48:49.80,0:48:54.28,English,,0,0,0,,Every evening, when all this make -believe was going on,\N{\rChinese}每晚，当这一切全都在进行时
+Dialogue: 0,0:48:54.48,0:48:59.24,English,,0,0,0,,I felt that something very real and very great was going on beneath it.\N{\rChinese}我感觉到有一件非常真实、非常伟大的事在其下方进行
+Dialogue: 0,0:48:59.38,0:49:02.88,English,,0,0,0,,Something that everyone else took for granted and about\N{\rChinese}一件大家都视为理所当然的事，关于……
+Dialogue: 0,0:49:03.42,0:49:04.74,English,,0,0,0,,which only I was ignorant.\N{\rChinese}只有我才是无知的。
+Dialogue: 0,0:49:05.46,0:49:09.26,English,,0,0,0,,Okay. Clearly, he does not understand these people.\N{\rChinese}好的。显然，他完全不懂这些人。
+Dialogue: 0,0:49:09.44,0:49:12.36,English,,0,0,0,,What word tells us he does not understand these people?\N{\rChinese}什么词告诉我们他不懂这些人？
+Dialogue: 0,0:49:13.84,0:49:15.20,English,,0,0,0,,He doesn't know what's going on.\N{\rChinese}他不知道发生了什么事。
+Dialogue: 0,0:49:15.30,0:49:17.46,English,,0,0,0,,Why? What word tells us this?\N{\rChinese}为什么？什么词告诉我们这个？
+Dialogue: 0,0:49:19.30,0:49:21.74,English,,0,0,0,,Excuse me? Why is he ignorant?\N{\rChinese}请问一下？他为什么会无知？
+Dialogue: 0,0:49:23.72,0:49:27.42,English,,0,0,0,,There's a word in here that tells us he doesn't understand these people at all.\N{\rChinese}这里有个词告诉我们他完全不懂这些人。
+Dialogue: 0,0:49:32.84,0:49:35.96,English,,0,0,0,,This word shows that\N{\rChinese}这个词表明了这一点。
+Dialogue: 0,0:49:36.98,0:49:38.40,English,,0,0,0,,there's a chasm, okay?\N{\rChinese}有个深坑，行吗？
+Dialogue: 0,0:49:38.64,0:49:42.08,English,,0,0,0,,A huge difference between the pygmies and us.\N{\rChinese}比比姆与我们的差距大得很。
+Dialogue: 0,0:49:42.20,0:49:45.96,English,,0,0,0,,What is this word? It's a word that the pygmies use.\N{\rChinese}这个词是什么？是比比姆用的词。
+Dialogue: 0,0:49:45.96,0:49:47.92,English,,0,0,0,,What word would the pygmies not use here?\N{\rChinese}什么词是比比姆不想用的？
+Dialogue: 0,0:49:49.12,0:49:50.48,English,,0,0,0,,They'd be insulted by this word.\N{\rChinese}他们会被这词冒犯的。
+Dialogue: 0,0:49:54.04,0:49:57.24,English,,0,0,0,,What's the word? You use it over and over again, right?\N{\rChinese}这个词是什么？你一遍又一遍地用，对吧？
+Dialogue: 0,0:49:57.46,0:49:58.92,English,,0,0,0,,There's a word here that's insulting.\N{\rChinese}这里有个词很冒犯。
+Dialogue: 0,0:50:02.88,0:50:06.48,English,,0,0,0,,No. What word here\N{\rChinese}不。这里的哪个词？
+Dialogue: 0,0:50:07.02,0:50:09.78,English,,0,0,0,,in this passage would the pygmies find insulting?\N{\rChinese}在这段话里，哪一个词会让比比姆觉得冒犯？
+Dialogue: 0,0:50:11.66,0:50:15.64,English,,0,0,0,,No. What word here\N{\rChinese}不。这里的哪个词？
+Dialogue: 0,0:50:19.36,0:50:22.58,English,,0,0,0,,is insulting? So if another teacher comes into\N{\rChinese}是哪个词？
+Dialogue: 0,0:50:24.00,0:50:28.60,English,,0,0,0,,my class and he says, wow, your class is a lot of fun.\N{\rChinese}我的班级，他说，哇，你的班级很有趣。
+Dialogue: 0,0:50:30.14,0:50:31.34,English,,0,0,0,,I'd be insulted. Why?\N{\rChinese}我会被冒犯。为什么？
+Dialogue: 0,0:50:33.90,0:50:38.22,English,,0,0,0,,I'd be insulted. Why? No.\N{\rChinese}我会被冒犯。为什么？不。
+Dialogue: 0,0:50:41.70,0:50:43.62,English,,0,0,0,,Wow, you guys have so much fun in this class.\N{\rChinese}哇，你们这班真有趣。
+Dialogue: 0,0:50:46.20,0:50:47.34,English,,0,0,0,,I've been insulted, why?\N{\rChinese}我被冒犯了，为什么？
+Dialogue: 0,0:50:52.66,0:50:57.02,English,,0,0,0,,Excuse me? Yeah, this is not studying, okay?\N{\rChinese}请问一下？是的，这不是学习，好的？
+Dialogue: 0,0:50:57.14,0:50:59.98,English,,0,0,0,,This is not serious academic work.\N{\rChinese}这不是正式的学术工作。
+Dialogue: 0,0:51:00.18,0:51:02.56,English,,0,0,0,,This is playing. It has no significance,\N{\rChinese}这是一种游戏，没什么意义。
+Dialogue: 0,0:51:02.92,0:51:04.72,English,,0,0,0,,no meaning, right?\N{\rChinese}没有意义，对吧？
+Dialogue: 0,0:51:05.40,0:51:08.18,English,,0,0,0,,So what word implies that here?\N{\rChinese}那么这里用什么词来表示呢？
+Dialogue: 0,0:51:13.30,0:51:14.90,English,,0,0,0,,It repeats itself over and over.\N{\rChinese}它一遍又一遍地重复。
+Dialogue: 0,0:51:20.00,0:51:21.74,English,,0,0,0,,Pretending, right? Pretending.\N{\rChinese}假装，对吧？假装。
+Dialogue: 0,0:51:23.12,0:51:24.56,English,,0,0,0,,We think they're playing.\N{\rChinese}我们认为他们在玩耍。
+Dialogue: 0,0:51:24.86,0:51:25.76,English,,0,0,0,,What do they think?\N{\rChinese}他们在想什么？
+Dialogue: 0,0:51:30.50,0:51:32.54,English,,0,0,0,,We think they're pretending. We think they're playing.\N{\rChinese}我们认为他们在假装。我们认为他们在玩耍。
+Dialogue: 0,0:51:33.52,0:51:37.60,English,,0,0,0,,What do they think? They think it's all true, do you understand?\N{\rChinese}他们在想什么？他们认为这一切都是真的，你明白吗？
+Dialogue: 0,0:51:38.18,0:51:41.96,English,,0,0,0,,For them, their religion is more true than this world,\N{\rChinese}对他们来说，他们的宗教比这世界更真实。
+Dialogue: 0,0:51:42.14,0:51:43.62,English,,0,0,0,,okay?\N{\rChinese}好吗？
+Dialogue: 0,0:51:44.30,0:51:46.76,English,,0,0,0,,That's a power of the human imagination.\N{\rChinese}这就是人类想象的力量。
+Dialogue: 0,0:51:47.40,0:51:50.14,English,,0,0,0,,You can imagine a world, and this world,\N{\rChinese}你可以想象一个世界，这个世界，
+Dialogue: 0,0:51:50.40,0:51:52.84,English,,0,0,0,,as long as many of you are imagining it together,\N{\rChinese}只要你们许多人一起想象它，
+Dialogue: 0,0:51:53.54,0:51:56.18,English,,0,0,0,,it's more true, more powerful,\N{\rChinese}更真实，更强大，
+Dialogue: 0,0:51:56.32,0:51:58.34,English,,0,0,0,,more real than this world.\N{\rChinese}比这世界更真实。
+Dialogue: 0,0:51:58.56,0:52:00.38,English,,0,0,0,,That's a power of religion, okay?\N{\rChinese}这就是宗教的力量，好的？
+Dialogue: 0,0:52:00.64,0:52:02.12,English,,0,0,0,,What we call the religious imagination.\N{\rChinese}我们所说的宗教想象。
+Dialogue: 0,0:52:02.66,0:52:05.62,English,,0,0,0,,And we'll see this over and over again in human history, okay?\N{\rChinese}我们会在历史中一次又一次看到这一点，好的？
+Dialogue: 0,0:52:06.36,0:52:08.52,English,,0,0,0,,Does that make sense, guys? Okay?\N{\rChinese}这有道理吗，大家？好的？
+Dialogue: 0,0:52:08.60,0:52:11.74,English,,0,0,0,,So we've been taught that oh, you can't see it.\N{\rChinese}所以我们被教导，哦，你看不见它。
+Dialogue: 0,0:52:11.86,0:52:13.30,English,,0,0,0,,It must be pretending.\N{\rChinese}这一定是伪装。
+Dialogue: 0,0:52:13.86,0:52:15.94,English,,0,0,0,,It must be make -believe.\N{\rChinese}它一定是让人相信的。
+Dialogue: 0,0:52:16.08,0:52:19.74,English,,0,0,0,,But for most of human history, for most people,\N{\rChinese}但在大部分人类历史中，在大多数人中，
+Dialogue: 0,0:52:19.94,0:52:22.12,English,,0,0,0,,this is not playing.\N{\rChinese}这不是在玩。
+Dialogue: 0,0:52:22.36,0:52:24.46,English,,0,0,0,,This is not pretending. It's true.\N{\rChinese}这不是伪装。它是真的。
+Dialogue: 0,0:52:24.62,0:52:28.44,English,,0,0,0,,It's real. It's what allows us to be close to God,\N{\rChinese}它是真的。它让我们能靠近上帝。
+Dialogue: 0,0:52:28.64,0:52:29.84,English,,0,0,0,,okay?\N{\rChinese}好的？
+Dialogue: 0,0:52:29.94,0:52:34.46,English,,0,0,0,,God is real. This world we live in, it's not real.\N{\rChinese}上帝是真的。我们所居住的这世界，却不是实在。
+Dialogue: 0,0:52:35.62,0:52:39.20,English,,0,0,0,,Okay? Does that make sense, guys? All right.\N{\rChinese}好？这样说通吗，大家？没问题。
+Dialogue: 0,0:52:44.76,0:52:49.00,English,,0,0,0,,Okay, so let's look at the last paragraph, and then we'll finish for the day.\N{\rChinese}好的，那我们先看最后一段，然后结束今天的工作。
+Dialogue: 0,0:52:49.42,0:52:50.66,English,,0,0,0,,He went on to tell that\N{\rChinese}他继续说……
+Dialogue: 0,0:52:50.66,0:52:54.56,English,,0,0,0,,the pygmies called their malomo whenever things seemed to be going wrong.\N{\rChinese}比姆人把他们的malomo称作当事物似乎走错路时。
+Dialogue: 0,0:52:54.80,0:52:57.48,English,,0,0,0,,It may be that the hunting is bad, he said,\N{\rChinese}他可能是说狩猎不顺利。
+Dialogue: 0,0:52:57.78,0:53:02.30,English,,0,0,0,,or that someone is ill, or, as now, that someone has died.\N{\rChinese}或者有人生病，或者现在有人去世。
+Dialogue: 0,0:53:02.56,0:53:05.66,English,,0,0,0,,These are not good things, and we like things to be good.\N{\rChinese}这些事不算好事，我们喜欢好事。
+Dialogue: 0,0:53:05.66,0:53:08.16,English,,0,0,0,,So we call out the malomo, and\N{\rChinese}于是我们呼唤 malomo，
+Dialogue: 0,0:53:08.16,0:53:11.42,English,,0,0,0,,it makes them good as they should be, okay?\N{\rChinese}让它们变得如其本应之好，明白吗？
+Dialogue: 0,0:53:11.54,0:53:16.18,English,,0,0,0,,So this is very similar to the shaman going into the spirit world\N{\rChinese}所以这与萨满进入灵界非常相似
+Dialogue: 0,0:53:16.18,0:53:18.62,English,,0,0,0,,when things are bad, okay?\N{\rChinese}当事物不顺利时，好吗？
+Dialogue: 0,0:53:18.88,0:53:21.98,English,,0,0,0,,Things are bad because the spirits are unhappy.\N{\rChinese}事物不顺利是因为灵魂不安
+Dialogue: 0,0:53:24.88,0:53:28.16,English,,0,0,0,,Normally, everything goes well in our world, in our forest,\N{\rChinese}通常，在我们的世界里，在我们的森林里，一切都顺利。
+Dialogue: 0,0:53:28.30,0:53:30.76,English,,0,0,0,,but at night when we are sleeping,\N{\rChinese}但在夜里我们睡觉时，
+Dialogue: 0,0:53:30.98,0:53:35.56,English,,0,0,0,,sometimes things go wrong because we are not awake.\N{\rChinese}有时事物会出错，因为我们没醒
+Dialogue: 0,0:53:35.66,0:53:37.92,English,,0,0,0,,To stop them from going wrong.\N{\rChinese}为止它们走错。
+Dialogue: 0,0:53:38.75,0:53:40.56,English,,0,0,0,,Army ants invade the camp.\N{\rChinese}军蚁入营。
+Dialogue: 0,0:53:40.88,0:53:45.40,English,,0,0,0,,Leopards may come in and steal a hunting dog or even a child.\N{\rChinese}豹子可能会闯进来，偷走猎犬甚至孩子。
+Dialogue: 0,0:53:45.68,0:53:49.24,English,,0,0,0,,If we were awake, these things would not happen.\N{\rChinese}若我们醒着，这些事就不会发生。
+Dialogue: 0,0:53:49.38,0:53:51.44,English,,0,0,0,,So when something big goes wrong,\N{\rChinese}于是当大事出错时，
+Dialogue: 0,0:53:51.66,0:53:54.96,English,,0,0,0,,like illness or bad hunting or death,\N{\rChinese}就像疾病、捕猎失败或死亡一样，
+Dialogue: 0,0:53:55.18,0:53:58.14,English,,0,0,0,,it must be because the forest is sleeping and\N{\rChinese}它一定是因为森林在睡觉而
+Dialogue: 0,0:53:58.14,0:54:00.28,English,,0,0,0,,not looking after its children.\N{\rChinese}没有照顾它的孩子们。
+Dialogue: 0,0:54:00.88,0:54:03.42,English,,0,0,0,,So what do we do? We wake it up.\N{\rChinese}那我们怎么做？我们把它唤醒。
+Dialogue: 0,0:54:03.46,0:54:05.52,English,,0,0,0,,We wake it up by singing to it.\N{\rChinese}我们通过唱歌来唤醒它。
+Dialogue: 0,0:54:05.66,0:54:09.16,English,,0,0,0,,and we do this because we want it to awaken happy,\N{\rChinese}我们这样做是因为想让它醒来时充满喜悦
+Dialogue: 0,0:54:09.42,0:54:12.56,English,,0,0,0,,then everything will be well and good again.\N{\rChinese}然后一切都会再次安好。
+Dialogue: 0,0:54:12.68,0:54:15.10,English,,0,0,0,,So when our world is going well,\N{\rChinese}当我们的世界运转顺利时，
+Dialogue: 0,0:54:15.68,0:54:18.52,English,,0,0,0,,then also we sing to the forest\N{\rChinese}我们也会为森林歌唱
+Dialogue: 0,0:54:18.52,0:54:21.48,English,,0,0,0,,because we want it to share our happiness, okay?\N{\rChinese}因为我们想让它分享我们的喜悦，好吗？
+Dialogue: 0,0:54:22.18,0:54:25.88,English,,0,0,0,,Do you understand? So this is like them going to the spirit world\N{\rChinese}你明白了吗？这就像他们去灵界一样。
+Dialogue: 0,0:54:25.88,0:54:27.84,English,,0,0,0,,and communicating with the spirits.\N{\rChinese}并与灵体沟通。
+Dialogue: 0,0:54:28.20,0:54:30.04,English,,0,0,0,,So it's almost the same religion, okay?\N{\rChinese}所以它几乎是同一种宗教，好吗？
+Dialogue: 0,0:54:31.26,0:54:34.76,English,,0,0,0,,Maybe the details are different, but the idea is the same.\N{\rChinese}也许细节不同，但思路相同。
+Dialogue: 0,0:54:35.66,0:54:37.32,English,,0,0,0,,The idea is that we're all interconnected.\N{\rChinese}思路是我们彼此相连。
+Dialogue: 0,0:54:38.88,0:54:41.48,English,,0,0,0,,Animals, plants, humans, all the same.\N{\rChinese}动物、植物、人类，皆同一体。
+Dialogue: 0,0:54:42.70,0:54:44.14,English,,0,0,0,,This is not the real world.\N{\rChinese}这才是真实世界。
+Dialogue: 0,0:54:44.26,0:54:48.14,English,,0,0,0,,The spirit world, the forest, they're the real world.\N{\rChinese}灵界、森林，它们才是真实世界。
+Dialogue: 0,0:54:48.94,0:54:52.88,English,,0,0,0,,And for us to maintain our health\N{\rChinese}而我们保持健康的方式是……
+Dialogue: 0,0:54:52.88,0:54:54.42,English,,0,0,0,,and our happiness and our safety,\N{\rChinese}以及我们的幸福与安全，
+Dialogue: 0,0:54:54.54,0:54:59.78,English,,0,0,0,,we must always communicate with this other world\N{\rChinese}我们必须始终与这另一世界沟通，
+Dialogue: 0,0:54:59.78,0:55:01.74,English,,0,0,0,,and make sure they're happy.\N{\rChinese}并确保它们的喜乐。
+Dialogue: 0,0:55:03.00,0:55:07.20,English,,0,0,0,,Okay, does it make sense? And\N{\rChinese}好的，听得懂吗？然后
+Dialogue: 0,0:55:07.20,0:55:09.12,English,,0,0,0,,because of this belief,\N{\rChinese}因为这个信念，
+Dialogue: 0,0:55:09.28,0:55:12.50,English,,0,0,0,,it means we shouldn't go to war with other people, okay?\N{\rChinese}这意味着我们不该与别人开战，好吗？
+Dialogue: 0,0:55:12.70,0:55:17.14,English,,0,0,0,,Because then that causes mayhem\N{\rChinese}因为这样就会造成混乱
+Dialogue: 0,0:55:17.14,0:55:19.50,English,,0,0,0,,and chaos in the spirit world.\N{\rChinese}以及灵界的混沌
+Dialogue: 0,0:55:19.66,0:55:22.50,English,,0,0,0,,Our job is to maintain harmony and balance in this world.\N{\rChinese}我们的工作是维持此界的和谐与平衡
+Dialogue: 0,0:55:22.60,0:55:23.84,English,,0,0,0,,We're caretakers, okay?\N{\rChinese}我们是看护者，好吗？
+Dialogue: 0,0:55:24.82,0:55:28.28,English,,0,0,0,,It means we should not be in conflict with each other.\N{\rChinese}这意味着我们彼此不冲突。
+Dialogue: 0,0:55:28.40,0:55:30.82,English,,0,0,0,,We should be egalitarian. We should be equal because\N{\rChinese}我们要平等，彼此相等。
+Dialogue: 0,0:55:30.82,0:55:33.56,English,,0,0,0,,we're all from the same mother goddess.\N{\rChinese}我们都来自同一位母神。
+Dialogue: 0,0:55:33.76,0:55:35.64,English,,0,0,0,,We're all from the same forest. We're all from...\N{\rChinese}我们都来自同一片森林。我们都来自……
+Dialogue: 0,0:55:35.66,0:55:37.90,English,,0,0,0,,We're all from the same woman shaman, okay?\N{\rChinese}我们都来自同一位女巫师，好的？
+Dialogue: 0,0:55:38.48,0:55:41.42,English,,0,0,0,,It means we have to be artistic because we have to celebrate\N{\rChinese}它意味着我们要有艺术性，因为我们要庆祝并崇拜灵界。
+Dialogue: 0,0:55:43.36,0:55:46.04,English,,0,0,0,,and worship the spirit world.\N{\rChinese}这有道理吗？再说一次，…
+Dialogue: 0,0:55:46.46,0:55:48.74,English,,0,0,0,,Does that make sense? So again,\N{\rChinese}Does that make sense? So again,
+Dialogue: 0,0:55:48.88,0:55:51.92,English,,0,0,0,,for most of human history, we were like this.\N{\rChinese}在大多数人类历史中，我们就是这样。
+Dialogue: 0,0:55:52.02,0:55:56.10,English,,0,0,0,,And even today, in a lot of cultures around the world, they're still like this.\N{\rChinese}即便到今天，世界上许多文化仍然是如此。
+Dialogue: 0,0:55:57.44,0:55:58.84,English,,0,0,0,,So now the question is,\N{\rChinese}于是现在的问题是，
+Dialogue: 0,0:56:01.14,0:56:03.72,English,,0,0,0,,what changed? Why do we have war?\N{\rChinese}什么改变了？我们为什么会有战争？
+Dialogue: 0,0:56:04.34,0:56:05.70,English,,0,0,0,,Why do we have... Why do we have hierarchy?\N{\rChinese}我们为什么会有……我们为什么会有层级？
+Dialogue: 0,0:56:06.64,0:56:08.50,English,,0,0,0,,Why do we have patriarchy?\N{\rChinese}我们为什么会有父系制？
+Dialogue: 0,0:56:08.78,0:56:10.38,English,,0,0,0,,Why are men superior to women?\N{\rChinese}男人为何优于女人？
+Dialogue: 0,0:56:10.96,0:56:14.62,English,,0,0,0,,Why do some rich people have all the power, okay?\N{\rChinese}为什么有些富人掌握全部权力？
+Dialogue: 0,0:56:14.82,0:56:18.44,English,,0,0,0,,This clearly goes against this religion. And\N{\rChinese}这显然与此宗教相反。
+Dialogue: 0,0:56:18.44,0:56:24.28,English,,0,0,0,,what I will show you starting next class is the beginning of a new religion\N{\rChinese}接下来上课我会展示的，是一种新宗教的起点
+Dialogue: 0,0:56:24.28,0:56:27.80,English,,0,0,0,,and how this new religion that\N{\rChinese}以及这新宗教的样子
+Dialogue: 0,0:56:27.80,0:56:29.34,English,,0,0,0,,worships wealth,\N{\rChinese}它崇拜财富，
+Dialogue: 0,0:56:31.02,0:56:34.66,English,,0,0,0,,power, and war conquered everyone, okay?\N{\rChinese}权力与战争征服了所有人，行吗？
+Dialogue: 0,0:56:35.44,0:56:37.74,English,,0,0,0,,Does that make sense? Okay, any questions?\N{\rChinese}这样说通吗？行，任何问题吗？
+Dialogue: 0,0:56:39.72,0:56:41.00,English,,0,0,0,,Before we break...\N{\rChinese}在我们开始之前……
+Dialogue: 0,0:56:42.94,0:56:44.06,English,,0,0,0,,Anything you're unclear about?\N{\rChinese}还有什么不清楚的吗？
+Dialogue: 0,0:56:48.76,0:56:52.42,English,,0,0,0,,Okay. Okay. Okay.\N{\rChinese}好的。好的。好的。

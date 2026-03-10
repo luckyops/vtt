@@ -1,0 +1,728 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 3840
+PlayResY: 2160
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,129,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,133,1
+Style: Chinese,PingFang SC,153,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,133,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.02,English,,0,0,0,,Today we start the Odyssey.\N{\rChinese}今天我们开始《奥德赛》
+Dialogue: 0,0:00:02.38,0:00:05.96,English,,0,0,0,,And the Odyssey is a sequel to the Iliad.\N{\rChinese}《奥德赛》是《伊利亚特》的续集
+Dialogue: 0,0:00:06.30,0:00:08.24,English,,0,0,0,,And it's a family story.\N{\rChinese}这是一段家族故事
+Dialogue: 0,0:00:08.44,0:00:10.42,English,,0,0,0,,It's a story about a homecoming.\N{\rChinese}它是一段归乡的故事
+Dialogue: 0,0:00:10.60,0:00:11.82,English,,0,0,0,,There are three main characters.\N{\rChinese}有三位主角
+Dialogue: 0,0:00:13.06,0:00:14.42,English,,0,0,0,,There's Odysseus.\N{\rChinese}有奥德修斯
+Dialogue: 0,0:00:14.72,0:00:19.64,English,,0,0,0,,Sorry. Odysseus.\N{\rChinese}抱歉。奥德修斯。
+Dialogue: 0,0:00:21.18,0:00:22.42,English,,0,0,0,,Who is the main character.\N{\rChinese}他是主角。
+Dialogue: 0,0:00:22.76,0:00:24.82,English,,0,0,0,,And it's called the Odyssey.\N{\rChinese}它叫《奥德赛》。
+Dialogue: 0,0:00:26.74,0:00:29.26,English,,0,0,0,,Then there is Penelope.\N{\rChinese}然后是佩妮洛普。
+Dialogue: 0,0:00:30.00,0:00:32.06,English,,0,0,0,,Who is his wife.\N{\rChinese}她是他的妻子。
+Dialogue: 0,0:00:32.14,0:00:34.20,English,,0,0,0,,And there's Tanakas. Who\N{\rChinese}还有塔纳卡斯。
+Dialogue: 0,0:00:34.20,0:00:37.70,English,,0,0,0,,is their son.\N{\rChinese}是他们的儿子。
+Dialogue: 0,0:00:39.62,0:00:44.30,English,,0,0,0,,And as we discussed when we read the Iliad.\N{\rChinese}正如我们在读《伊利亚特》时讨论的那样。
+Dialogue: 0,0:00:44.70,0:00:49.20,English,,0,0,0,,Homer is first and foremost concerned about the human condition.\N{\rChinese}荷马首先关注的是人类的状态。
+Dialogue: 0,0:00:49.50,0:00:52.08,English,,0,0,0,,What does it mean to be human?\N{\rChinese}是什么才是人类的意义？
+Dialogue: 0,0:00:53.00,0:00:57.60,English,,0,0,0,,What does it mean to live in a world of war,\N{\rChinese}在战争、创伤、悲剧的世界里生活是什么样子？
+Dialogue: 0,0:00:57.82,0:00:59.84,English,,0,0,0,,of trauma, of tragedy?\N{\rChinese}……
+Dialogue: 0,0:01:00.00,0:01:03.94,English,,0,0,0,,And how can we overcome this adversity?\N{\rChinese}那我们怎样才能克服这段艰难？
+Dialogue: 0,0:01:05.34,0:01:10.94,English,,0,0,0,,So the Odyssey is about three individuals\N{\rChinese}于是《奥德赛》讲述的是三个人和一个家族。
+Dialogue: 0,0:01:10.94,0:01:13.74,English,,0,0,0,,and a family. And they are all traumatized.\N{\rChinese}他们都已被创伤所累。
+Dialogue: 0,0:01:13.98,0:01:15.96,English,,0,0,0,,And they're all heartbroken.\N{\rChinese}他们都心碎了。
+Dialogue: 0,0:01:16.60,0:01:22.28,English,,0,0,0,,Okay. So Odysseus is trying to return home from the war.\N{\rChinese}好的。于是奥德修斯正试图从战争中归家。
+Dialogue: 0,0:01:23.06,0:01:27.16,English,,0,0,0,,And his problem is that he has PTSD.\N{\rChinese}他的难题是他患有创伤后应激障碍。
+Dialogue: 0,0:01:30.00,0:01:32.12,English,,0,0,0,,Which is post -traumatic stress disorder.\N{\rChinese}这就是创伤后应激障碍。
+Dialogue: 0,0:01:32.34,0:01:35.56,English,,0,0,0,,And this is very common for soldiers who return from war.\N{\rChinese}这在从战场归来的士兵中非常常见。
+Dialogue: 0,0:01:35.84,0:01:37.26,English,,0,0,0,,They've seen so much violence.\N{\rChinese}他们见证了如此多的暴力。
+Dialogue: 0,0:01:37.50,0:01:39.62,English,,0,0,0,,They've seen so much tragedy.\N{\rChinese}他们见证了如此多的悲剧。
+Dialogue: 0,0:01:39.80,0:01:41.42,English,,0,0,0,,They've seen so much senseless death.\N{\rChinese}他们见证了如此多的无意义死亡。
+Dialogue: 0,0:01:41.64,0:01:43.90,English,,0,0,0,,That their souls are shattered.\N{\rChinese}于是他们的灵魂被打碎。
+Dialogue: 0,0:01:44.10,0:01:45.90,English,,0,0,0,,And that is Odysseus' problem.\N{\rChinese}那就是奥德修斯的问题。
+Dialogue: 0,0:01:46.60,0:01:49.16,English,,0,0,0,,Then you have Penelope. Who is suffering from depression.\N{\rChinese}然后你有佩妮洛普。她正经历抑郁。
+Dialogue: 0,0:01:50.06,0:01:51.26,English,,0,0,0,,And why is she depressed?\N{\rChinese}她为什么会抑郁呢？
+Dialogue: 0,0:01:51.98,0:01:55.36,English,,0,0,0,,Because her husband has been away for 20 years.\N{\rChinese}因为她的丈夫已经离家20年。
+Dialogue: 0,0:01:55.84,0:01:59.18,English,,0,0,0,,And she doesn't know if he's alive.\N{\rChinese}而她不知道他是活着还是去世。
+Dialogue: 0,0:01:59.18,0:02:01.32,English,,0,0,0,,Or he's dead.\N{\rChinese}或者他已经去世。
+Dialogue: 0,0:02:02.20,0:02:03.68,English,,0,0,0,,He's probably dead.\N{\rChinese}他大概已经去世。
+Dialogue: 0,0:02:03.96,0:02:07.60,English,,0,0,0,,Right? It's been 20 years. There's been no sign of him for the past 20 years.\N{\rChinese}对吧？已经20年了，过去20年没见过他。
+Dialogue: 0,0:02:07.92,0:02:11.44,English,,0,0,0,,But she cannot bring herself to admitting\N{\rChinese}但她还是提不出来。
+Dialogue: 0,0:02:11.44,0:02:14.38,English,,0,0,0,,that he's dead.\N{\rChinese}他已经去世。
+Dialogue: 0,0:02:14.54,0:02:18.10,English,,0,0,0,,So she's put herself in a very precarious situation.\N{\rChinese}于是她把自己置于非常不稳定的境地。
+Dialogue: 0,0:02:18.92,0:02:22.82,English,,0,0,0,,There's dozens of suitors who want her hand in marriage.\N{\rChinese}有数十位求婚者想娶她为妻。
+Dialogue: 0,0:02:23.36,0:02:26.02,English,,0,0,0,,And she wants to say no.\N{\rChinese}她想说不。
+Dialogue: 0,0:02:26.70,0:02:28.84,English,,0,0,0,,But she's afraid that...\N{\rChinese}但她怕……
+Dialogue: 0,0:02:28.84,0:02:30.70,English,,0,0,0,,If she does that...\N{\rChinese}如果她这么做……
+Dialogue: 0,0:02:30.70,0:02:33.82,English,,0,0,0,,Then she'll be alone for the rest of her life.\N{\rChinese}然后她余生将独自一人。
+Dialogue: 0,0:02:34.00,0:02:35.24,English,,0,0,0,,But she doesn't want to say yes.\N{\rChinese}但她不想说是。
+Dialogue: 0,0:02:35.38,0:02:38.92,English,,0,0,0,,Because she refuses to admit\N{\rChinese}因为她不愿承认。
+Dialogue: 0,0:02:38.92,0:02:42.88,English,,0,0,0,,that her husband, the love of her life, Odysseus, is dead.\N{\rChinese}她丈夫——她一生的挚爱奥德修斯已去世。
+Dialogue: 0,0:02:43.22,0:02:47.84,English,,0,0,0,,In her heart, she feels that he's still alive.\N{\rChinese}在她心里，她觉得他仍然活着。
+Dialogue: 0,0:02:48.28,0:02:51.80,English,,0,0,0,,But in her head, she cannot justify it.\N{\rChinese}但在她脑中，却说不出来。
+Dialogue: 0,0:02:51.84,0:02:53.68,English,,0,0,0,,She cannot explain it. It's just a feeling in her.\N{\rChinese}她说不出来，只是心里有种感觉。
+Dialogue: 0,0:02:54.08,0:02:58.38,English,,0,0,0,,Okay? And so her response, and this is what we call cognitive dissonance.\N{\rChinese}好吧？于是她的反应，就是我们说的认知失调。
+Dialogue: 0,0:03:00.78,0:03:04.18,English,,0,0,0,,Her response is just to shut down.\N{\rChinese}她的反应就是关掉它。
+Dialogue: 0,0:03:04.66,0:03:07.72,English,,0,0,0,,Okay? She just spends all her time alone in her room.\N{\rChinese}好的？她把所有时间都花在自己的房间里。
+Dialogue: 0,0:03:08.42,0:03:10.04,English,,0,0,0,,At first she's weaving stuff.\N{\rChinese}起初她在编织东西。
+Dialogue: 0,0:03:10.20,0:03:12.12,English,,0,0,0,,But then she just sits in her room.\N{\rChinese}随后她就坐在房间里。
+Dialogue: 0,0:03:12.62,0:03:15.34,English,,0,0,0,,Right? And then there's Tammacus.\N{\rChinese}对吧？然后出现了塔马库斯。
+Dialogue: 0,0:03:16.18,0:03:19.18,English,,0,0,0,,Tammacus, his problem is that\N{\rChinese}塔马库斯，他的问题是……
+Dialogue: 0,0:03:19.18,0:03:23.92,English,,0,0,0,,he doesn't know if his father is dead or alive.\N{\rChinese}他不知道父亲是死了还是活着。
+Dialogue: 0,0:03:24.58,0:03:26.74,English,,0,0,0,,But the man is a legend.\N{\rChinese}但这人是传说中的英雄。
+Dialogue: 0,0:03:27.06,0:03:28.82,English,,0,0,0,,This is a man who won the trophy.\N{\rChinese}这位英雄赢得了奖杯。
+Dialogue: 0,0:03:28.82,0:03:32.68,English,,0,0,0,,And he won the trophy because he won the Trojan War by coming up with a stratagem of a Trojan horse.\N{\rChinese}他之所以赢得奖杯，是因为他用木马计策赢得了特洛伊之战。
+Dialogue: 0,0:03:33.12,0:03:35.62,English,,0,0,0,,Okay? So he is a legend in this world.\N{\rChinese}好的？所以他在这个世界里是传说中的人物。
+Dialogue: 0,0:03:35.74,0:03:37.38,English,,0,0,0,,And everyone sings his praises.\N{\rChinese}大家都在歌颂他的赞歌。
+Dialogue: 0,0:03:37.86,0:03:41.54,English,,0,0,0,,And he's his son so he's living in his shadow.\N{\rChinese}他是他的儿子，所以住在他的影子里。
+Dialogue: 0,0:03:41.70,0:03:44.02,English,,0,0,0,,Okay? And\N{\rChinese}好吧？然后
+Dialogue: 0,0:03:44.02,0:03:48.38,English,,0,0,0,,he wants to prove he's better than his father.\N{\rChinese}他想证明自己比父亲更好。
+Dialogue: 0,0:03:48.84,0:03:51.14,English,,0,0,0,,He wants to become a hero himself.\N{\rChinese}他想自己成为英雄。
+Dialogue: 0,0:03:51.76,0:03:56.80,English,,0,0,0,,But he's being burdened by the legacy of his father.\N{\rChinese}但他背负着父亲的遗产。
+Dialogue: 0,0:03:56.80,0:03:58.92,English,,0,0,0,,The other issue is that\N{\rChinese}另外一个问题是……
+Dialogue: 0,0:03:58.92,0:04:01.08,English,,0,0,0,,unless his father is dead,\N{\rChinese}除非父亲已去世，
+Dialogue: 0,0:04:01.36,0:04:04.18,English,,0,0,0,,he cannot inherit his father's legacy, right?\N{\rChinese}他能继承父亲的遗产吗？
+Dialogue: 0,0:04:04.40,0:04:05.32,English,,0,0,0,,His property,\N{\rChinese}他的财产，
+Dialogue: 0,0:04:06.18,0:04:10.86,English,,0,0,0,,the reputation cannot be transferred to him.\N{\rChinese}声誉也能传给他。
+Dialogue: 0,0:04:11.06,0:04:15.36,English,,0,0,0,,Then there's his mother who's just sitting around the house every single day.\N{\rChinese}然后还有他的母亲，整天坐在屋里。
+Dialogue: 0,0:04:15.92,0:04:18.80,English,,0,0,0,,If she were to get married, she would leave\N{\rChinese}如果她结婚，她就会离开，
+Dialogue: 0,0:04:18.80,0:04:21.60,English,,0,0,0,,and then he could be master of his own house, right?\N{\rChinese}然后他就能掌管自己的屋子，对吧？
+Dialogue: 0,0:04:22.08,0:04:24.66,English,,0,0,0,,But she's still around, so he's kind of stuck.\N{\rChinese}但她还在， 他有点卡住了。
+Dialogue: 0,0:04:24.66,0:04:28.92,English,,0,0,0,,At the same time, the suitors are waiting for Pernopi's answer,\N{\rChinese}与此同时，求婚者们正等待佩尔波尼的答复，
+Dialogue: 0,0:04:29.22,0:04:32.02,English,,0,0,0,,which is never going to come. So they're just in the house and\N{\rChinese}答案永远不会到来。
+Dialogue: 0,0:04:32.02,0:04:35.88,English,,0,0,0,,they're eating up all his wealth.\N{\rChinese}他们把他的财富吃光了。
+Dialogue: 0,0:04:36.90,0:04:41.40,English,,0,0,0,,So he is just seeing his life wither away and there's nothing he can do about it.\N{\rChinese}于是他只看到自己的生命在枯萎，自己却无能为之。
+Dialogue: 0,0:04:42.06,0:04:43.58,English,,0,0,0,,All right? So\N{\rChinese}好了？
+Dialogue: 0,0:04:43.58,0:04:48.28,English,,0,0,0,,he is just depressed as well\N{\rChinese}他也正沮丧着
+Dialogue: 0,0:04:48.28,0:04:52.94,English,,0,0,0,,and he's angry. But all these things are the same thing.\N{\rChinese}他又愤怒。可这些事都一样。
+Dialogue: 0,0:04:53.02,0:04:55.60,English,,0,0,0,,It's really one. It's really one of cognitive dissonance.\N{\rChinese}这真是一件事。真是一种认知失调。
+Dialogue: 0,0:04:55.76,0:04:57.44,English,,0,0,0,,It's really one of depression.\N{\rChinese}它真是一种抑郁。
+Dialogue: 0,0:04:57.76,0:04:58.98,English,,0,0,0,,It's really one of trauma.\N{\rChinese}它真是一种创伤。
+Dialogue: 0,0:04:59.90,0:05:04.78,English,,0,0,0,,All right? So there's another way we can analyze what's going on\N{\rChinese}好了？所以我们还有另一种方式来分析正在发生的事。
+Dialogue: 0,0:05:04.78,0:05:08.02,English,,0,0,0,,and to think about the soul. And\N{\rChinese}并且思考灵魂。且
+Dialogue: 0,0:05:08.02,0:05:09.50,English,,0,0,0,,the soul is something that\N{\rChinese}灵魂是个事物
+Dialogue: 0,0:05:09.50,0:05:13.54,English,,0,0,0,,the ancients were really concerned about\N{\rChinese}古人确实关心此事
+Dialogue: 0,0:05:13.54,0:05:18.38,English,,0,0,0,,because it was really the most fundamental issue of what it means to be a human being.\N{\rChinese}因为它确实是人类存在意义的最根本问题。
+Dialogue: 0,0:05:18.56,0:05:21.32,English,,0,0,0,,It's something that we don't talk about today, something that\N{\rChinese}它是我们今天不谈论的事物，亦是我们今天不思考的事物，因我们生活在一个物质科学的世界里。
+Dialogue: 0,0:05:21.32,0:05:23.90,English,,0,0,0,,we don't think about today, because we live in a world.\N{\rChinese}我们今天不思考的事物，因我们生活在一个物质科学的世界里。
+Dialogue: 0,0:05:23.90,0:05:27.04,English,,0,0,0,,We live in a world of material science. If we can't see it, it doesn't exist.\N{\rChinese}我们生活在一个物质科学的世界里。如果我们看不见它，它就不存在。
+Dialogue: 0,0:05:28.42,0:05:29.88,English,,0,0,0,,But for most of humanity,\N{\rChinese}但对大多数人类而言，
+Dialogue: 0,0:05:30.42,0:05:32.52,English,,0,0,0,,sorry, for most of human history,\N{\rChinese}抱歉，对大多数人类历史而言，
+Dialogue: 0,0:05:32.72,0:05:36.22,English,,0,0,0,,humanity has understood the soul as very present\N{\rChinese}人类把灵魂理解为极其存在的事物
+Dialogue: 0,0:05:36.22,0:05:40.76,English,,0,0,0,,and as very real and the most significant thing in our lives.\N{\rChinese}并且认为它是我们生命中最重要的事物
+Dialogue: 0,0:05:40.92,0:05:43.32,English,,0,0,0,,Okay? So the soul that they understood,\N{\rChinese}好的？所以他们所理解的灵魂
+Dialogue: 0,0:05:43.92,0:05:46.58,English,,0,0,0,,let's talk about their understanding of the soul.\N{\rChinese}我们来聊聊他们对灵魂的理解。
+Dialogue: 0,0:05:46.72,0:05:48.56,English,,0,0,0,,And this is true for actually a lot of cultures.\N{\rChinese}这在很多文化中都成立。
+Dialogue: 0,0:05:49.22,0:05:53.06,English,,0,0,0,,First of all, soul is a very complex thing.\N{\rChinese}首先，灵魂是个非常复杂的东西。
+Dialogue: 0,0:05:53.80,0:05:55.96,English,,0,0,0,,Okay? It is almost infinite dimensions.\N{\rChinese}好的？它几乎是无限维度。
+Dialogue: 0,0:05:56.98,0:06:00.66,English,,0,0,0,,The different layers to the soul.\N{\rChinese}灵魂的不同层次。
+Dialogue: 0,0:06:00.88,0:06:04.18,English,,0,0,0,,And there's really a part of the soul\N{\rChinese}灵魂中确实有一部分。
+Dialogue: 0,0:06:04.18,0:06:06.02,English,,0,0,0,,that is you.\N{\rChinese}那就是你。
+Dialogue: 0,0:06:06.20,0:06:09.34,English,,0,0,0,,Okay? That's just you, the person.\N{\rChinese}好？那就是你本人。
+Dialogue: 0,0:06:09.92,0:06:11.18,English,,0,0,0,,But who\N{\rChinese}但谁是呢。
+Dialogue: 0,0:06:11.18,0:06:17.16,English,,0,0,0,,you are as a person is ultimately influenced by other influences as well,\N{\rChinese}你作为一个人最终也会受到其他影响的作用，
+Dialogue: 0,0:06:17.26,0:06:18.60,English,,0,0,0,,by other factors as well.\N{\rChinese}同样也会受到其他因素的影响，
+Dialogue: 0,0:06:18.70,0:06:23.42,English,,0,0,0,,Okay? So these influences include your family.\N{\rChinese}好的？这些影响包括你的家庭。
+Dialogue: 0,0:06:23.90,0:06:26.24,English,,0,0,0,,Okay? Your culture,\N{\rChinese}好的？你的文化，
+Dialogue: 0,0:06:26.36,0:06:30.04,English,,0,0,0,,the history, and\N{\rChinese}历史，
+Dialogue: 0,0:06:30.04,0:06:31.70,English,,0,0,0,,maybe the gods.\N{\rChinese}也许是神。
+Dialogue: 0,0:06:31.88,0:06:34.68,English,,0,0,0,,Okay? So again, they're infinite dimensions and\N{\rChinese}好的？所以再次，它们是无限维度，且…
+Dialogue: 0,0:06:34.68,0:06:37.84,English,,0,0,0,,these dimensions have an impact on you.\N{\rChinese}这些维度对你有影响。
+Dialogue: 0,0:06:39.42,0:06:43.22,English,,0,0,0,,And maybe when you die, maybe there's a part of you that lives on.\N{\rChinese}也许当你死后，或许有一部分你继续存在。
+Dialogue: 0,0:06:43.46,0:06:45.22,English,,0,0,0,,Okay? But there's also parts of you that\N{\rChinese}好的？但还有你的一部分也会回流到宇宙的不同流中。
+Dialogue: 0,0:06:45.22,0:06:50.56,English,,0,0,0,,flows back into these different streams of the universe.\N{\rChinese}好的？所以它是一件非常复杂的事。
+Dialogue: 0,0:06:51.06,0:06:52.88,English,,0,0,0,,Okay? So it's a very complex thing.\N{\rChinese}好的？现在灵魂，……
+Dialogue: 0,0:06:53.74,0:06:56.00,English,,0,0,0,,Okay? Now the soul,\N{\rChinese}好的？现在灵魂，
+Dialogue: 0,0:06:56.42,0:06:59.06,English,,0,0,0,,another name for the soul that we use today,\N{\rChinese}另一个我们今天使用的灵魂名称，
+Dialogue: 0,0:06:59.46,0:07:01.50,English,,0,0,0,,if you go to psychology class,\N{\rChinese}如果你去上心理学课，
+Dialogue: 0,0:07:01.94,0:07:04.46,English,,0,0,0,,their name for the soul is the worldview.\N{\rChinese}他们把灵魂称作世界观。
+Dialogue: 0,0:07:08.74,0:07:09.94,English,,0,0,0,,Okay? So\N{\rChinese}好吧？所以
+Dialogue: 0,0:07:09.94,0:07:15.60,English,,0,0,0,,we have a much more simplistic understanding of our psychology than the ancients.\N{\rChinese}我们对心理的理解比古人更简单。
+Dialogue: 0,0:07:15.82,0:07:18.84,English,,0,0,0,,The idea of the worldview is just our understanding of who\N{\rChinese}世界观的概念就是我们对自己是谁、来自何处以及在宇宙中的位置的理解。
+Dialogue: 0,0:07:18.84,0:07:23.22,English,,0,0,0,,we are, where we came from, and our place in the universe.\N{\rChinese}好吧？我们认为它来自我们的记忆。
+Dialogue: 0,0:07:23.30,0:07:27.00,English,,0,0,0,,Okay? And we believe it comes from our memories\N{\rChinese}Okay? And we believe itcomes from our memories
+Dialogue: 0,0:07:27.00,0:07:29.80,English,,0,0,0,,and our experiences.\N{\rChinese}和我们的经历。
+Dialogue: 0,0:07:33.66,0:07:36.88,English,,0,0,0,,Okay? And the worldview is important\N{\rChinese}好吧？而世界观很重要
+Dialogue: 0,0:07:36.88,0:07:39.82,English,,0,0,0,,because it allows us\N{\rChinese}因为它让我们
+Dialogue: 0,0:07:39.82,0:07:42.14,English,,0,0,0,,and ourselves, this is important\N{\rChinese}并且自己，这很重要
+Dialogue: 0,0:07:42.65,0:07:45.02,English,,0,0,0,,for things such as planning.\N{\rChinese}像规划之类的事
+Dialogue: 0,0:07:45.48,0:07:47.72,English,,0,0,0,,Right? Only if you know who\N{\rChinese}对吧？只有你知道谁
+Dialogue: 0,0:07:47.72,0:07:50.72,English,,0,0,0,,you are can you actually plan ahead because\N{\rChinese}你能提前计划吗？
+Dialogue: 0,0:07:50.72,0:07:53.30,English,,0,0,0,,then you know what you want to do, what you want to accomplish.\N{\rChinese}然后你就知道自己想做什么，想完成什么。
+Dialogue: 0,0:07:53.30,0:07:57.36,English,,0,0,0,,Okay? It allows for empathy,\N{\rChinese}好吧？它让你产生共情。
+Dialogue: 0,0:07:57.68,0:08:00.96,English,,0,0,0,,building relationships with others.\N{\rChinese}建立与他人的关系。
+Dialogue: 0,0:08:01.44,0:08:04.32,English,,0,0,0,,Okay? And it allows for judgment.\N{\rChinese}好吧？并且它让你产生判断。
+Dialogue: 0,0:08:07.66,0:08:09.44,English,,0,0,0,,Basically, what's good, what's bad.\N{\rChinese}基本上，什么好，什么坏。
+Dialogue: 0,0:08:09.60,0:08:10.86,English,,0,0,0,,What do you like? What don't you like? Okay?\N{\rChinese}你喜欢什么？你不喜欢什么？
+Dialogue: 0,0:08:11.44,0:08:15.82,English,,0,0,0,,So the worldview and the soul are fundamental to who we are.\N{\rChinese}于是，世界观与灵魂是我们身份的根本。
+Dialogue: 0,0:08:17.12,0:08:21.16,English,,0,0,0,,Now, in psychology, what they will teach you is\N{\rChinese}现在，在心理学里，他们会教给你的是
+Dialogue: 0,0:08:21.16,0:08:23.28,English,,0,0,0,,that trauma is not a physical thing.\N{\rChinese}那种创伤不是物理事物。
+Dialogue: 0,0:08:24.90,0:08:27.14,English,,0,0,0,,Trauma splinters the worldview.\N{\rChinese}创伤把世界观撕裂。
+Dialogue: 0,0:08:27.48,0:08:30.30,English,,0,0,0,,Okay? There's something about your experience\N{\rChinese}好的？关于你的经历有件事是你身份的根本。
+Dialogue: 0,0:08:30.30,0:08:33.72,English,,0,0,0,,that is fundamental to your identity,\N{\rChinese}that is fundamental to your identity,
+Dialogue: 0,0:08:33.94,0:08:36.98,English,,0,0,0,,but because it is\N{\rChinese}但因为它是
+Dialogue: 0,0:08:36.98,0:08:38.56,English,,0,0,0,,so painful,\N{\rChinese}如此痛苦，
+Dialogue: 0,0:08:38.64,0:08:42.06,English,,0,0,0,,you forget about it or you refuse to see it.\N{\rChinese}你忘记它或拒绝看到它。
+Dialogue: 0,0:08:42.12,0:08:46.76,English,,0,0,0,,And this causes a rupture in your identity,\N{\rChinese}这导致你的身份出现断裂，
+Dialogue: 0,0:08:46.90,0:08:50.52,English,,0,0,0,,in your coherent sense of the world, which destroys your worldview.\N{\rChinese}在你连贯的世界观中，摧毁了你的世界观。
+Dialogue: 0,0:08:50.72,0:08:52.70,English,,0,0,0,,Okay? And this leads to depression.\N{\rChinese}好的？这就导致了抑郁。
+Dialogue: 0,0:08:53.30,0:08:54.46,English,,0,0,0,,What is depression?\N{\rChinese}抑郁是什么？
+Dialogue: 0,0:08:54.88,0:09:00.38,English,,0,0,0,,Depression is the inability to act\N{\rChinese}抑郁就是行动不遂。
+Dialogue: 0,0:09:00.38,0:09:04.60,English,,0,0,0,,and to think. Okay? You don't know what you want to accomplish.\N{\rChinese}然后去思考。好吧？你不知道自己想完成什么。
+Dialogue: 0,0:09:05.00,0:09:06.82,English,,0,0,0,,You don't trust yourself.\N{\rChinese}你不相信自己。
+Dialogue: 0,0:09:07.16,0:09:08.52,English,,0,0,0,,You don't know what you like.\N{\rChinese}你不知道自己喜欢什么。
+Dialogue: 0,0:09:08.80,0:09:10.40,English,,0,0,0,,And so what are the symptoms of depression?\N{\rChinese}[163] 那么抑郁的症状是什么？
+Dialogue: 0,0:09:10.74,0:09:14.18,English,,0,0,0,,You sleep a lot. You find no pleasure in anything.\N{\rChinese}[164] 你睡得很多，什么事都找不到乐趣。
+Dialogue: 0,0:09:16.36,0:09:17.96,English,,0,0,0,,You feel no emotion.\N{\rChinese}[165] 你没有任何情绪。
+Dialogue: 0,0:09:18.22,0:09:20.46,English,,0,0,0,,You feel sort of numbness. Okay? And that's why people,\N{\rChinese}你有点麻木的感觉。好吧？这就是人们的原因。
+Dialogue: 0,0:09:20.62,0:09:25.66,English,,0,0,0,,they tend to take drugs or they just sleep all the time or whatever.\N{\rChinese}他们往往会服药，或者整天睡觉，或者随便而已。
+Dialogue: 0,0:09:26.32,0:09:27.82,English,,0,0,0,,All right? Because you're unable to act.\N{\rChinese}好吧？因为你没能行动。
+Dialogue: 0,0:09:27.92,0:09:32.60,English,,0,0,0,,And that's exactly what's happening to Odysseus, Penelope, and Tanaka.\N{\rChinese}这正是奥德修斯、佩妮洛普和田中所经历的。
+Dialogue: 0,0:09:33.30,0:09:35.78,English,,0,0,0,,All right? There's a trauma in their lives.\N{\rChinese}好吧？他们的生活中有一次创伤。
+Dialogue: 0,0:09:36.12,0:09:38.20,English,,0,0,0,,Okay? And they just believe this as well.\N{\rChinese}好吧？他们也这么相信。
+Dialogue: 0,0:09:38.32,0:09:41.86,English,,0,0,0,,Okay? There could be a trauma that splits the soul.\N{\rChinese}好的？可能有一次创伤把灵魂撕开。
+Dialogue: 0,0:09:43.06,0:09:44.92,English,,0,0,0,,Okay? And it could be a demon.\N{\rChinese}好的？它也可能是个魔鬼。
+Dialogue: 0,0:09:45.18,0:09:48.90,English,,0,0,0,,It could be a really painful incident.\N{\rChinese}它可能是一件非常痛苦的事件。
+Dialogue: 0,0:09:48.90,0:09:51.24,English,,0,0,0,,It could be anything. Okay? But it splits your soul.\N{\rChinese}它可以是任何事。好吧？但它会撕裂你的灵魂。
+Dialogue: 0,0:09:52.38,0:09:56.34,English,,0,0,0,,And if you are to recover, then you have to repair your soul.\N{\rChinese}如果你要恢复，就得修复自己的灵魂。
+Dialogue: 0,0:09:56.66,0:09:59.36,English,,0,0,0,,And that's a fundamental conflict and\N{\rChinese}而这就是奥德赛中的基本冲突，以及其中的一个难题。
+Dialogue: 0,0:09:59.36,0:10:01.46,English,,0,0,0,,a dilemma within the Odyssey.\N{\rChinese}而这就是奥德赛中的基本冲突，以及其中的一个难题。
+Dialogue: 0,0:10:01.78,0:10:03.20,English,,0,0,0,,You have three individuals,\N{\rChinese}你有三个人，
+Dialogue: 0,0:10:04.00,0:10:06.00,English,,0,0,0,,Odysseus, Penelope, and Tanaka.\N{\rChinese}奥德修斯、佩内洛普和田中。
+Dialogue: 0,0:10:06.20,0:10:08.00,English,,0,0,0,,Their soul has been splintered.\N{\rChinese}他们的灵魂已碎裂。
+Dialogue: 0,0:10:08.06,0:10:11.06,English,,0,0,0,,And so they're on a journey, their own Odyssey,\N{\rChinese}于是他们踏上旅程，自己的奥德赛
+Dialogue: 0,0:10:11.30,0:10:13.98,English,,0,0,0,,to repair their soul.\N{\rChinese}修复他们的灵魂。
+Dialogue: 0,0:10:14.70,0:10:18.48,English,,0,0,0,,And the answer, of course, is each other.\N{\rChinese}答案当然是彼此。
+Dialogue: 0,0:10:18.48,0:10:20.26,English,,0,0,0,,Okay? Their love for each other.\N{\rChinese}好的？他们彼此的爱。
+Dialogue: 0,0:10:20.34,0:10:23.02,English,,0,0,0,,That's what's going to save the world.\N{\rChinese}那就是拯救世界的关键。
+Dialogue: 0,0:10:23.12,0:10:24.90,English,,0,0,0,,Okay? The love of family.\N{\rChinese}好的？家族之爱。
+Dialogue: 0,0:10:26.52,0:10:30.80,English,,0,0,0,,And that is the fundamental message of the Odyssey.\N{\rChinese}这就是《奥德赛》的根本信息。
+Dialogue: 0,0:10:31.60,0:10:35.14,English,,0,0,0,,All right? And that's why it's such a powerful read.\N{\rChinese}好的？这就是它如此精彩的原因。
+Dialogue: 0,0:10:36.26,0:10:37.52,English,,0,0,0,,Okay. So\N{\rChinese}好的。
+Dialogue: 0,0:10:37.52,0:10:41.66,English,,0,0,0,,let me give you some background as to the plot.\N{\rChinese}让我先给你们介绍一下情节背景。
+Dialogue: 0,0:10:42.96,0:10:47.38,English,,0,0,0,,So, as you know, the Odyssey begins in immediate rest.\N{\rChinese}所以，正如你们所知，《奥德赛》一开始就处于即刻的休止。
+Dialogue: 0,0:10:47.64,0:10:50.20,English,,0,0,0,,Okay? And it's a story about two middle things, which is to say that\N{\rChinese}好的？这是一段关于两件中间事物的故事，意思是……
+Dialogue: 0,0:10:50.20,0:10:52.10,English,,0,0,0,,a lot of things have already taken place and\N{\rChinese}许多事已发生
+Dialogue: 0,0:10:52.10,0:10:55.40,English,,0,0,0,,happens just in the middle of the plot.\N{\rChinese}发生在情节中段。
+Dialogue: 0,0:10:55.86,0:10:57.96,English,,0,0,0,,Okay? In the beginning,\N{\rChinese}好的吗？一开始，
+Dialogue: 0,0:10:58.36,0:11:00.78,English,,0,0,0,,Odysseus has been away for 20 years.\N{\rChinese}奥德修斯已离开二十年。
+Dialogue: 0,0:11:01.34,0:11:03.08,English,,0,0,0,,And he's stuck on an island with Calypso.\N{\rChinese}他与卡吕普索一起被困在一座岛上。
+Dialogue: 0,0:11:04.12,0:11:07.44,English,,0,0,0,,Penelope is depressed and sitting by herself in the room.\N{\rChinese}佩妮洛普郁郁地坐在房间里。
+Dialogue: 0,0:11:07.62,0:11:08.92,English,,0,0,0,,Tanaka is angry. Okay?\N{\rChinese}田中愤怒。好的吗？
+Dialogue: 0,0:11:09.00,0:11:12.20,English,,0,0,0,,And Athena comes and tells Tanaka, come with me.\N{\rChinese}雅典娜出现，告诉田中，跟我来。
+Dialogue: 0,0:11:12.28,0:11:13.70,English,,0,0,0,,I will help you find your father.\N{\rChinese}我会帮你找到父亲。
+Dialogue: 0,0:11:13.86,0:11:16.88,English,,0,0,0,,Okay? So,\N{\rChinese}好的吗？所以，
+Dialogue: 0,0:11:18.00,0:11:22.26,English,,0,0,0,,Okay. So, the story starts with the Trojan War, of course.\N{\rChinese}好的。于是，故事就从特洛伊战争开始，当然。
+Dialogue: 0,0:11:22.44,0:11:27.06,English,,0,0,0,,Okay? So remember, Helen has been taken to Troy.\N{\rChinese}好的吗？记住，海伦已被带到特洛伊。
+Dialogue: 0,0:11:27.14,0:11:29.58,English,,0,0,0,,She falls in love with Paris because\N{\rChinese}她爱上帕里斯，因为……
+Dialogue: 0,0:11:29.58,0:11:32.92,English,,0,0,0,,that's what Aphrodite promised Paris as a prize.\N{\rChinese}那是阿佛洛狄给帕里斯的奖赏。
+Dialogue: 0,0:11:34.68,0:11:37.60,English,,0,0,0,,And now her husband, the king of Sparta,\N{\rChinese}现在她的丈夫，斯巴达国王，
+Dialogue: 0,0:11:37.80,0:11:41.30,English,,0,0,0,,Menelaus, and his brother,\N{\rChinese}梅内劳斯，和他的兄弟，
+Dialogue: 0,0:11:41.48,0:11:45.96,English,,0,0,0,,Agamemnon, the king of kings, are like, we're going to raise an army and we're going to get back Helen.\N{\rChinese}阿伽墨农，王中之王，我们要组军去取回海伦。
+Dialogue: 0,0:11:46.08,0:11:48.26,English,,0,0,0,,Okay? And this is prophesized.\N{\rChinese}好的？这就是预言的内容。
+Dialogue: 0,0:11:48.92,0:11:52.66,English,,0,0,0,,This is to be the greatest war in human history.\N{\rChinese}这将成为人类历史上最伟大的战争。
+Dialogue: 0,0:11:52.84,0:11:56.66,English,,0,0,0,,It will make mortals into gods.\N{\rChinese}它会让凡人变成神。
+Dialogue: 0,0:11:56.90,0:12:00.12,English,,0,0,0,,Right? That's why Achilles enters this war.\N{\rChinese}对吧？这就是阿基琉斯投身此战的原因。
+Dialogue: 0,0:12:00.32,0:12:03.26,English,,0,0,0,,Because this is the opportunity for him to prove that\N{\rChinese}因为这是他证明自己的机会。
+Dialogue: 0,0:12:03.26,0:12:06.68,English,,0,0,0,,he is the greatest warrior in all of human history.\N{\rChinese}他要证明自己是人类历史上最伟大的战士。
+Dialogue: 0,0:12:06.92,0:12:08.32,English,,0,0,0,,And that's why he goes to Troy.\N{\rChinese}于是他就去投身特洛伊。
+Dialogue: 0,0:12:10.04,0:12:14.52,English,,0,0,0,,Odysseus is also supposed to go to this war.\N{\rChinese}奥德修斯也应该去这场战争。
+Dialogue: 0,0:12:14.68,0:12:16.24,English,,0,0,0,,But Odysseus, he's not.\N{\rChinese}但奥德修斯却没有去。
+Dialogue: 0,0:12:16.24,0:12:19.46,English,,0,0,0,,He's different from Achilles. Because\N{\rChinese}他与阿基琉斯不同。因为
+Dialogue: 0,0:12:19.46,0:12:21.66,English,,0,0,0,,Odysseus loves his wife, Penelope.\N{\rChinese}奥德修斯爱他的妻子佩妮洛普。
+Dialogue: 0,0:12:22.86,0:12:26.94,English,,0,0,0,,And he has a new son, six months old, Tanakes.\N{\rChinese}而且他有个新儿子，六个月大的塔纳克斯。
+Dialogue: 0,0:12:27.20,0:12:28.64,English,,0,0,0,,So he's conflicted.\N{\rChinese}于是他心里有点纠结。
+Dialogue: 0,0:12:28.84,0:12:30.44,English,,0,0,0,,And he really doesn't want to go to war.\N{\rChinese}而且他真的是不想去打仗。
+Dialogue: 0,0:12:30.78,0:12:34.26,English,,0,0,0,,But the Greeks need him because the gods have told the Greeks\N{\rChinese}但希腊人需要他，因为众神已告诉他们。
+Dialogue: 0,0:12:34.26,0:12:36.92,English,,0,0,0,,that it is really Odysseus who will win the war.\N{\rChinese}那是奥德修斯真正赢得战争的人。
+Dialogue: 0,0:12:37.08,0:12:40.76,English,,0,0,0,,Because he's the one who will come up with the Trojan horse, the stratagem that will win this war.\N{\rChinese}因为他是那个会想出木马计策的，能赢得这场战争的人。
+Dialogue: 0,0:12:40.94,0:12:42.56,English,,0,0,0,,So you need this guy. Okay?\N{\rChinese}所以你需要这个人。
+Dialogue: 0,0:12:42.82,0:12:44.08,English,,0,0,0,,So Odysseus doesn't want to go.\N{\rChinese}于是奥德修斯不想去。
+Dialogue: 0,0:12:44.36,0:12:45.72,English,,0,0,0,,But the Greeks insist.\N{\rChinese}但希腊人坚持。
+Dialogue: 0,0:12:45.72,0:12:49.66,English,,0,0,0,,So the Greeks send two messengers to Ithaca\N{\rChinese}于是希腊人派两名使者去伊塔卡。
+Dialogue: 0,0:12:49.66,0:12:52.60,English,,0,0,0,,where Odysseus lives.\N{\rChinese}在奥德修斯居住的地方。
+Dialogue: 0,0:12:53.04,0:12:58.06,English,,0,0,0,,Now Odysseus, what he does is he pretends to be mad.\N{\rChinese}于是奥德修斯，所做的事是装疯。
+Dialogue: 0,0:12:58.40,0:12:59.84,English,,0,0,0,,So he dresses up like a beggar.\N{\rChinese}于是他打扮成乞人。
+Dialogue: 0,0:12:59.90,0:13:02.82,English,,0,0,0,,Okay? He's a king. But he dresses up really badly.\N{\rChinese}好的？他是国王，但他打扮得很糟。
+Dialogue: 0,0:13:03.00,0:13:07.62,English,,0,0,0,,And he's going around the farmland and throwing salt everywhere he goes.\N{\rChinese}他在田间走来走去，撒盐到处处。
+Dialogue: 0,0:13:07.76,0:13:11.68,English,,0,0,0,,He looks crazy. Okay? And you throw salt in the land to kill crops.\N{\rChinese}他看起来很疯，撒盐到田里去杀庄稼。
+Dialogue: 0,0:13:12.18,0:13:14.84,English,,0,0,0,,So he looks kind of crazy. But the Greeks...\N{\rChinese}于是他看起来有点疯。可是希腊人……
+Dialogue: 0,0:13:14.84,0:13:18.72,English,,0,0,0,,But the Greeks understand that this is a man of disguise.\N{\rChinese}但希腊人知道这是一位伪装高手。
+Dialogue: 0,0:13:19.30,0:13:21.86,English,,0,0,0,,He's a man of stratagems.\N{\rChinese}他是个诡计高手。
+Dialogue: 0,0:13:22.16,0:13:24.58,English,,0,0,0,,He's very clever. So it's probably a trick.\N{\rChinese}他很聪明，应该是个诡计。
+Dialogue: 0,0:13:24.92,0:13:28.44,English,,0,0,0,,So what they do is they take his six -month -old son,\N{\rChinese}于是他们把他六个月大的儿子，塔马库斯，取出来，
+Dialogue: 0,0:13:28.84,0:13:30.16,English,,0,0,0,,Tammacus. Okay?\N{\rChinese}好吧？
+Dialogue: 0,0:13:30.26,0:13:33.32,English,,0,0,0,,And put him in front of Odysseus.\N{\rChinese}把他放在奥德修斯面前。
+Dialogue: 0,0:13:33.42,0:13:36.50,English,,0,0,0,,Now Odysseus is plowing the field and salting the fields.\N{\rChinese}现在奥德修斯正耕田撒盐。
+Dialogue: 0,0:13:36.58,0:13:38.38,English,,0,0,0,,Okay? And basically the test is this.\N{\rChinese}好吧？基本上考验就是这样。
+Dialogue: 0,0:13:38.48,0:13:42.32,English,,0,0,0,,If you're really mad, you're going to run over your son, Tammacus, and kill him.\N{\rChinese}如果你真是疯了，就会跑去把你的儿子塔马库斯杀掉。
+Dialogue: 0,0:13:42.56,0:13:44.18,English,,0,0,0,,If you're not mad...\N{\rChinese}如果你没疯……
+Dialogue: 0,0:13:44.18,0:13:47.24,English,,0,0,0,,If you're not really crazy, then you're going to stop\N{\rChinese}如果你真没疯，那就会停下来。
+Dialogue: 0,0:13:47.24,0:13:49.10,English,,0,0,0,,and go somewhere else and save your son.\N{\rChinese}去别处去，救你的儿子。
+Dialogue: 0,0:13:49.36,0:13:51.24,English,,0,0,0,,So let's see if you're really crazy.\N{\rChinese}好了，看看你到底有多疯。
+Dialogue: 0,0:13:52.12,0:13:56.24,English,,0,0,0,,And so Odysseus, of course, turns away\N{\rChinese}于是，奥德修斯当然转身离去。
+Dialogue: 0,0:13:56.24,0:13:58.32,English,,0,0,0,,and saves his son. And the Greeks are like, Ha!\N{\rChinese}并救了他的儿子。希腊人们则笑道，哈！
+Dialogue: 0,0:13:58.46,0:14:00.06,English,,0,0,0,,You see? You're tricking us all along.\N{\rChinese}你看到了吧？你一直在把我们骗过去。
+Dialogue: 0,0:14:00.14,0:14:02.94,English,,0,0,0,,Come with us to Troy.\N{\rChinese}跟我们一起去特洛伊吧。
+Dialogue: 0,0:14:03.10,0:14:05.44,English,,0,0,0,,And so Odysseus has no choice but to go.\N{\rChinese}于是，奥德修斯无路可走，只能出发。
+Dialogue: 0,0:14:05.98,0:14:09.84,English,,0,0,0,,Okay? So this is why Odysseus goes.\N{\rChinese}好吧？这就是奥德修斯出发的原因。
+Dialogue: 0,0:14:09.98,0:14:12.16,English,,0,0,0,,He's forced to go. But you think about it.\N{\rChinese}他被迫离去。你想想看。
+Dialogue: 0,0:14:12.22,0:14:13.66,English,,0,0,0,,This story doesn't really make any sense.\N{\rChinese}这个故事真的没什么意义。
+Dialogue: 0,0:14:14.40,0:14:17.58,English,,0,0,0,,Right? And that's the greatness of Homer.\N{\rChinese}对吧？这就是荷马的伟大之处。
+Dialogue: 0,0:14:17.84,0:14:21.36,English,,0,0,0,,Because he's telling us the complexity of human psychology.\N{\rChinese}因为他在告诉我们人类心理的复杂性。
+Dialogue: 0,0:14:22.46,0:14:23.86,English,,0,0,0,,Odysseus is really, really smart.\N{\rChinese}奥德修斯真是非常聪明。
+Dialogue: 0,0:14:24.06,0:14:26.68,English,,0,0,0,,He thinks ahead. Right? He should know that\N{\rChinese}他会提前思考。对吧？他应该知道，
+Dialogue: 0,0:14:26.68,0:14:31.34,English,,0,0,0,,if he were to have this strategy, the Greeks would see through it really quickly.\N{\rChinese}如果他采用这种策略，希腊人很快就会看穿。
+Dialogue: 0,0:14:31.54,0:14:34.90,English,,0,0,0,,Right? So what he should be doing is hiding from the Greeks.\N{\rChinese}对吧？他应该做的就是躲避希腊人。
+Dialogue: 0,0:14:35.02,0:14:39.32,English,,0,0,0,,Right? Or maybe just moving away.\N{\rChinese}对吧？或者只是搬离。
+Dialogue: 0,0:14:39.76,0:14:42.70,English,,0,0,0,,If you really, really don't want to go to this war, you just run away.\N{\rChinese}如果你真的不想去这场战争，就跑掉吧。
+Dialogue: 0,0:14:42.70,0:14:43.96,English,,0,0,0,,And take your family with you.\N{\rChinese}把家人一起带走。
+Dialogue: 0,0:14:44.38,0:14:45.84,English,,0,0,0,,Okay? Or you know what?\N{\rChinese}好吧？或者你知道怎么做？
+Dialogue: 0,0:14:46.16,0:14:48.30,English,,0,0,0,,Just kill these guys. Because you're crazy.\N{\rChinese}直接把这几个人干掉。因为你很疯狂。
+Dialogue: 0,0:14:48.42,0:14:50.72,English,,0,0,0,,Right? All right?\N{\rChinese}对吧？全部都好？
+Dialogue: 0,0:14:50.76,0:14:54.18,English,,0,0,0,,So what this tells us is\N{\rChinese}所以这告诉我们的就是
+Dialogue: 0,0:14:54.18,0:14:58.70,English,,0,0,0,,that, yes, Odysseus really loves his family.\N{\rChinese}是的，奥德修斯真的很爱他的家人。
+Dialogue: 0,0:14:58.86,0:15:02.06,English,,0,0,0,,And he wants to be with his family.\N{\rChinese}他想和家人一起。
+Dialogue: 0,0:15:02.22,0:15:04.74,English,,0,0,0,,Because he knows that if he goes to Troy, he'll be gone for 20 years.\N{\rChinese}因为他知道去特洛伊会离家二十年。
+Dialogue: 0,0:15:05.46,0:15:10.20,English,,0,0,0,,That's 20 years that he won't be able to see his son, Tammacus, grow up.\N{\rChinese}二十年里他看不到儿子塔马库斯成长。
+Dialogue: 0,0:15:10.56,0:15:12.86,English,,0,0,0,,Okay? But at the same time,\N{\rChinese}好的？但与此同时，
+Dialogue: 0,0:15:12.98,0:15:15.54,English,,0,0,0,,this is the greatest war in human history.\N{\rChinese}这是人类历史上最大的战争。
+Dialogue: 0,0:15:16.04,0:15:17.88,English,,0,0,0,,Achilles is going. Achaemenon is going.\N{\rChinese}阿基琉斯要去，阿赫美尼翁也要去。
+Dialogue: 0,0:15:18.54,0:15:20.62,English,,0,0,0,,Does Odysseus really want to be left out?\N{\rChinese}奥德修斯真的想被留下吗？
+Dialogue: 0,0:15:21.14,0:15:26.06,English,,0,0,0,,Does he really want to be the one guy who's like a coward?\N{\rChinese}他真的想成为那个唯一的胆小子吗？
+Dialogue: 0,0:15:26.26,0:15:28.08,English,,0,0,0,,Who's like, you know what? I'm just going to stay home.\N{\rChinese}谁说的，嗯，我就回家去。
+Dialogue: 0,0:15:29.04,0:15:33.66,English,,0,0,0,,Right? The Greeks will just laugh at him for the rest of his life saying, you're just a pussy.\N{\rChinese}对吧？希腊人会一直嘲笑他，叫他是只小毛虫。
+Dialogue: 0,0:15:34.60,0:15:37.38,English,,0,0,0,,Right? You've been pussy whipped by your wife.\N{\rChinese}对吧？你被老婆打得像只小毛虫。
+Dialogue: 0,0:15:37.58,0:15:39.48,English,,0,0,0,,He doesn't want to do that. So it's a conflict.\N{\rChinese}他不想这么做。于是就产生了冲突。
+Dialogue: 0,0:15:39.84,0:15:43.06,English,,0,0,0,,Right? So what he does is he comes up with a stratagem that\N{\rChinese}对吧？于是他想出了一个计策
+Dialogue: 0,0:15:43.06,0:15:46.48,English,,0,0,0,,allows the Greeks to see through it really quickly\N{\rChinese}让希腊人很快看透它
+Dialogue: 0,0:15:46.48,0:15:51.10,English,,0,0,0,,and force him to go so he doesn't have to bear any responsibility for what he does.\N{\rChinese}并逼他去做事，这样他就不用为所作承担责任
+Dialogue: 0,0:15:51.88,0:15:55.36,English,,0,0,0,,All right? And that is a complexity of the human soul.\N{\rChinese}对吧？这就是人心的复杂性。
+Dialogue: 0,0:15:55.46,0:15:57.72,English,,0,0,0,,That is a complexity of our worldview.\N{\rChinese}这就是我们世界观的复杂性。
+Dialogue: 0,0:15:58.96,0:16:02.48,English,,0,0,0,,All right? So he goes to Troy\N{\rChinese}对吧？于是他去特洛伊
+Dialogue: 0,0:16:02.48,0:16:07.74,English,,0,0,0,,and he has to explain to himself why he's there.\N{\rChinese}然后他得自己解释为什么在那里
+Dialogue: 0,0:16:07.74,0:16:10.82,English,,0,0,0,,And he knows he's going to be away from home for 20 years,\N{\rChinese}他知道自己将离家20年，
+Dialogue: 0,0:16:10.88,0:16:13.04,English,,0,0,0,,10 years in Troy, 10 years being lost at sea.\N{\rChinese}10年在特洛伊，10年在海上漂泊
+Dialogue: 0,0:16:13.32,0:16:15.44,English,,0,0,0,,Right? So his worldview is this.\N{\rChinese}对吧？于是他的世界观就是这样。
+Dialogue: 0,0:16:19.08,0:16:21.44,English,,0,0,0,,Why am I here in Troy?\N{\rChinese}我为什么会在特洛伊呢？
+Dialogue: 0,0:16:21.78,0:16:26.20,English,,0,0,0,,Well, the first reason is just justice.\N{\rChinese}好吧，第一理由就是正义。
+Dialogue: 0,0:16:28.94,0:16:31.20,English,,0,0,0,,Right? This is a just war because\N{\rChinese}对吧？这是一场正义之战。
+Dialogue: 0,0:16:31.20,0:16:34.70,English,,0,0,0,,the Trojans stole Helen.\N{\rChinese}特洛伊人抢走了海伦。
+Dialogue: 0,0:16:34.70,0:16:36.02,English,,0,0,0,,And therefore\N{\rChinese}于是
+Dialogue: 0,0:16:36.02,0:16:41.92,English,,0,0,0,,the Greeks must avenge the honor of Menelaus.\N{\rChinese}希腊必须为墨涅劳斯的荣誉报仇。
+Dialogue: 0,0:16:42.38,0:16:45.00,English,,0,0,0,,Okay? Second is family.\N{\rChinese}好吧？第二个是家族。
+Dialogue: 0,0:16:47.14,0:16:49.24,English,,0,0,0,,Helen should be with her children.\N{\rChinese}海伦应该和她的孩子们在一起。
+Dialogue: 0,0:16:49.62,0:16:53.48,English,,0,0,0,,Helen should be with her family in Sparta.\N{\rChinese}海伦应该和她的家族在斯巴达。
+Dialogue: 0,0:16:53.94,0:16:57.36,English,,0,0,0,,We have to return her to Sparta.\N{\rChinese}我们要把她送回斯巴达。
+Dialogue: 0,0:16:57.86,0:17:00.26,English,,0,0,0,,How would I feel if Penelope were stolen from me?\N{\rChinese}如果佩内洛普被抢走，我会怎样感受？
+Dialogue: 0,0:17:00.36,0:17:03.60,English,,0,0,0,,I would want everyone to go fight with me to get her back as well.\N{\rChinese}我想让大家一起去战斗，拿回她。
+Dialogue: 0,0:17:03.70,0:17:05.96,English,,0,0,0,,Right? So I'm going to go fight with my family. Okay?\N{\rChinese}对吧？所以我要和家族一起去战斗。好吧？
+Dialogue: 0,0:17:06.10,0:17:09.24,English,,0,0,0,,Now, third reason is legacy.\N{\rChinese}现在，第三个理由是遗产。
+Dialogue: 0,0:17:10.62,0:17:15.36,English,,0,0,0,,Yes, he will not see his son,\N{\rChinese}是的，他会在二十年里看不到他的儿子，
+Dialogue: 0,0:17:15.42,0:17:16.80,English,,0,0,0,,Timarchus, for 20 years.\N{\rChinese}提马尔库斯，
+Dialogue: 0,0:17:17.44,0:17:20.52,English,,0,0,0,,Therefore, he has to build him a legacy\N{\rChinese}因此，他必须为他建造一段遗产。
+Dialogue: 0,0:17:20.52,0:17:24.40,English,,0,0,0,,that will carry him for the rest of his life.\N{\rChinese}那将伴随他余生。
+Dialogue: 0,0:17:24.60,0:17:28.12,English,,0,0,0,,If he is in Troy and he wins this great war\N{\rChinese}若他在特洛伊并赢得这场大战
+Dialogue: 0,0:17:28.12,0:17:31.08,English,,0,0,0,,and becomes this great hero, then\N{\rChinese}并成为伟大英雄，
+Dialogue: 0,0:17:31.08,0:17:34.68,English,,0,0,0,,Timarchus himself will be famous as a son of a Trojan.\N{\rChinese}提马尔库斯本人将因是特洛伊之子而闻名。
+Dialogue: 0,0:17:34.68,0:17:38.36,English,,0,0,0,,He will be the son of Odysseus. People will respect Timarchus.\N{\rChinese}他将是奥德修斯之子。人们会敬佩提马尔库斯。
+Dialogue: 0,0:17:38.58,0:17:40.48,English,,0,0,0,,He wants to build a legacy for his son.\N{\rChinese}他想为自己的儿子打造一段遗产。
+Dialogue: 0,0:17:40.58,0:17:42.68,English,,0,0,0,,He wants to tell his son,\N{\rChinese}他想对儿子说，
+Dialogue: 0,0:17:42.84,0:17:45.52,English,,0,0,0,,this is how you should live your life.\N{\rChinese}这就是你应该过的生活。
+Dialogue: 0,0:17:45.68,0:17:49.40,English,,0,0,0,,You should live a life of honor, of justice, of truth.\N{\rChinese}你要过一种荣耀、正义、真理的生活。
+Dialogue: 0,0:17:49.82,0:17:55.50,English,,0,0,0,,Okay? So these are the three reasons why he goes to Troy.\N{\rChinese}好的？所以这就是他去特洛伊的三个理由。
+Dialogue: 0,0:17:56.00,0:18:01.30,English,,0,0,0,,And we have to remember that this is all to justify his conflict.\N{\rChinese}我们要记住，这一切都是为了证明他的冲突。
+Dialogue: 0,0:18:01.44,0:18:03.30,English,,0,0,0,,Okay? There's a conflict. There's a rupture in his soul.\N{\rChinese}好的？有冲突，心里也有裂痕。
+Dialogue: 0,0:18:03.42,0:18:08.62,English,,0,0,0,,He needs to mend it by explaining why he's doing what he's doing.\N{\rChinese}他需要通过解释自己所做之事来修补它。
+Dialogue: 0,0:18:09.56,0:18:12.38,English,,0,0,0,,Okay? Because again, he's abandoned his family for 20 years.\N{\rChinese}好吧？因为他又一次，离开了家人二十年。
+Dialogue: 0,0:18:13.12,0:18:14.74,English,,0,0,0,,Okay. So\N{\rChinese}好的。
+Dialogue: 0,0:18:14.74,0:18:19.06,English,,0,0,0,,what's going to happen is this.\N{\rChinese}接下来会发生的事就是这样。
+Dialogue: 0,0:18:19.22,0:18:23.72,English,,0,0,0,,This is the worldview that Odysseus has when he enters Troy.\N{\rChinese}这是奥德修斯进入特洛伊时的世界观。
+Dialogue: 0,0:18:24.74,0:18:28.78,English,,0,0,0,,The problem starts when they win the war.\N{\rChinese}问题在于他们赢得战争之后。
+Dialogue: 0,0:18:29.10,0:18:32.22,English,,0,0,0,,Okay? Because when they win the war, then Odysseus, he's going to be the king of the world.\N{\rChinese}好的？因为他们赢得战争后，奥德修斯就会成为世界之王。
+Dialogue: 0,0:18:32.22,0:18:35.06,English,,0,0,0,,And Odysseus is forced to see that\N{\rChinese}而奥德修斯被迫看到
+Dialogue: 0,0:18:35.06,0:18:40.48,English,,0,0,0,,all of these three things were wrong.\N{\rChinese}这三件事都错了。
+Dialogue: 0,0:18:41.10,0:18:44.46,English,,0,0,0,,Okay? He will discover that\N{\rChinese}好的？他会发现
+Dialogue: 0,0:18:44.46,0:18:46.06,English,,0,0,0,,this war was not about justice.\N{\rChinese}这场战争不是关于正义的。
+Dialogue: 0,0:18:46.44,0:18:49.12,English,,0,0,0,,It was just about revenge and murder.\N{\rChinese}只是关于复仇与杀戮。
+Dialogue: 0,0:18:49.62,0:18:51.28,English,,0,0,0,,It is about family.\N{\rChinese}它关乎家庭。
+Dialogue: 0,0:18:51.34,0:18:54.12,English,,0,0,0,,It's about destroying families. Because when\N{\rChinese}它关乎破坏家庭。因为当
+Dialogue: 0,0:18:54.12,0:18:57.56,English,,0,0,0,,you win this war, you enslave the woman and kill the husbands.\N{\rChinese}你赢得这场战争，你奴役女人并杀死丈夫。
+Dialogue: 0,0:18:58.08,0:18:59.86,English,,0,0,0,,Right? That's destroying families.\N{\rChinese}对吧？那就是破坏家庭。
+Dialogue: 0,0:19:00.64,0:19:02.44,English,,0,0,0,,And it's not about legacy. It's about legacy because\N{\rChinese}而且不是关于遗产。是关于遗产，因为
+Dialogue: 0,0:19:02.44,0:19:05.44,English,,0,0,0,,you've destroyed the Trojan civilization\N{\rChinese}你已经毁灭了特洛伊文明
+Dialogue: 0,0:19:05.44,0:19:08.84,English,,0,0,0,,for no particular reason.\N{\rChinese}无特定原因。
+Dialogue: 0,0:19:08.98,0:19:11.96,English,,0,0,0,,Because Helen doesn't even want to go back to Sparta.\N{\rChinese}因为海伦甚至不想回到斯巴达。
+Dialogue: 0,0:19:12.56,0:19:15.36,English,,0,0,0,,Okay? And this causes cognitive dissonance.\N{\rChinese}于是产生认知失调。
+Dialogue: 0,0:19:18.06,0:19:19.90,English,,0,0,0,,This is what causes\N{\rChinese}这就是原因
+Dialogue: 0,0:19:19.90,0:19:25.80,English,,0,0,0,,his PTSD or trauma.\N{\rChinese}他的创伤后应激或创伤
+Dialogue: 0,0:19:26.12,0:19:31.76,English,,0,0,0,,Okay? So the Odyssey is his journey.\N{\rChinese}好的？所以《奥德赛》是他的旅程。
+Dialogue: 0,0:19:31.76,0:19:35.16,English,,0,0,0,,His journey to repair his soul so that he can go home.\N{\rChinese}他的旅程是修复灵魂，让他能归家。
+Dialogue: 0,0:19:35.78,0:19:37.04,English,,0,0,0,,Okay? Does it make sense, guys?\N{\rChinese}好吧？这样说通吗，大家？
+Dialogue: 0,0:19:37.42,0:19:39.64,English,,0,0,0,,That's what the Odyssey is about. Okay.\N{\rChinese}这就是《奥德赛》的主题。好。
+Dialogue: 0,0:19:40.06,0:19:46.00,English,,0,0,0,,So what we're going to do now is we are going to read certain sections.\N{\rChinese}所以我们现在要做的事是读一些特定章节。
+Dialogue: 0,0:19:46.16,0:19:47.84,English,,0,0,0,,Okay? So this is from the Iliad actually.\N{\rChinese}好吧？这其实是来自《伊利亚特》。
+Dialogue: 0,0:19:48.36,0:19:49.58,English,,0,0,0,,Okay? This is from the Iliad.\N{\rChinese}好吧？这来自《伊利亚特》。
+Dialogue: 0,0:19:51.92,0:19:54.84,English,,0,0,0,,And so remember in book one of the Iliad,\N{\rChinese}记住《伊利亚特》第一卷的情节，
+Dialogue: 0,0:19:54.90,0:19:59.08,English,,0,0,0,,Achilles and Agamemnon have this nasty fight where Achilles is like, screw you, you're a dog.\N{\rChinese}阿基琉斯和阿伽门农发生了一场激烈的争斗，阿基琉斯说：我去你吧，你这只狗。
+Dialogue: 0,0:19:59.18,0:20:00.42,English,,0,0,0,,I'm not going to fight for you ever again.\N{\rChinese}我再也不为你而战了。
+Dialogue: 0,0:20:00.82,0:20:02.58,English,,0,0,0,,Agamemnon is like, screw you, you're a dog. Screw you, I don't need you.\N{\rChinese}阿伽门农说：我去你吧，你这只狗，我不需要你。
+Dialogue: 0,0:20:02.76,0:20:05.78,English,,0,0,0,,Okay? But in book two, Agamemnon recognizes that, oh,\N{\rChinese}好吧？但在第二卷，阿伽门农意识到，哦，这实际上是个问题，因为阿基琉斯是我们最伟大的战士。
+Dialogue: 0,0:20:05.96,0:20:09.74,English,,0,0,0,,this is actually a problem because Achilles is the greatest warrior that we have.\N{\rChinese}好吧？但在第二卷，阿伽门农意识到，哦，这实际上是个问题，因为阿基琉斯是我们最伟大的战士。
+Dialogue: 0,0:20:09.96,0:20:13.62,English,,0,0,0,,And if Achilles doesn't want to fight, then that's bad for morale.\N{\rChinese}如果阿基琉斯不想战斗，那就会影响士气。
+Dialogue: 0,0:20:14.38,0:20:15.94,English,,0,0,0,,Okay? We might actually lose this war.\N{\rChinese}好吧？我们可能真的会输这场战争。
+Dialogue: 0,0:20:16.46,0:20:18.36,English,,0,0,0,,So Agamemnon being stupid,\N{\rChinese}于是阿伽门农也很傻，
+Dialogue: 0,0:20:18.72,0:20:20.50,English,,0,0,0,,he has this stupid idea.\N{\rChinese}他也有这个傻想法。
+Dialogue: 0,0:20:20.62,0:20:24.88,English,,0,0,0,,And this stupid idea is this. How can I rally my soldiers?\N{\rChinese}而这个傻想法就是这样。我要怎么召集我的士兵？
+Dialogue: 0,0:20:25.26,0:20:28.38,English,,0,0,0,,How can I galvanize them into action now\N{\rChinese}我要怎么把他们调动起来做行动？
+Dialogue: 0,0:20:28.38,0:20:30.58,English,,0,0,0,,that Achilles has abandoned battlefield?\N{\rChinese}那是阿基琉斯已离开战场？
+Dialogue: 0,0:20:30.96,0:20:35.30,English,,0,0,0,,I don't know. I'll tell them they can go home.\N{\rChinese}我不晓得。我会告诉他们可以回家。
+Dialogue: 0,0:20:35.56,0:20:37.64,English,,0,0,0,,Ha. Reverse psychology, guys.\N{\rChinese}哈。逆向心理，伙计们。
+Dialogue: 0,0:20:37.84,0:20:41.24,English,,0,0,0,,Right? Reverse psychology. Because when I say you guys can go home,\N{\rChinese}对吧？逆向心理。因为我说你们可以回家，每个希腊人都会说：不。我们一路来到特洛，想为你赢得荣耀，…】
+Dialogue: 0,0:20:41.56,0:20:44.40,English,,0,0,0,,every Greek will be like, no.\N{\rChinese}】
+Dialogue: 0,0:20:45.40,0:20:49.78,English,,0,0,0,,We came all the way to Troy to win glory for you,\N{\rChinese}】
+Dialogue: 0,0:20:49.84,0:20:53.42,English,,0,0,0,,Agamemnon. We're going to fight to the death to ensure\N{\rChinese}阿加美农。我们要打到死去，确保你们获得荣耀，阿加美农。
+Dialogue: 0,0:20:53.42,0:20:54.86,English,,0,0,0,,that you get your glory, Agamemnon.\N{\rChinese}我们不想回家。别让我们回家。
+Dialogue: 0,0:20:55.02,0:20:57.26,English,,0,0,0,,We don't want to go home. Don't make us go home.\N{\rChinese}We don't want to go home. Don't make us go home.
+Dialogue: 0,0:20:57.56,0:20:59.48,English,,0,0,0,,We're going to fight. Okay? So that's the plan.\N{\rChinese}我们要去打仗。好吧？这就是计划。
+Dialogue: 0,0:21:00.08,0:21:01.74,English,,0,0,0,,And of course, it doesn't matter.\N{\rChinese}当然，没什么大不了的。
+Dialogue: 0,0:21:01.74,0:21:04.58,English,,0,0,0,,It backfires. And when people hear,\N{\rChinese}反而起作用。人们听到后……
+Dialogue: 0,0:21:04.72,0:21:07.70,English,,0,0,0,,oh, we go home, they all run away.\N{\rChinese}哦，我们回家，他们都跑了。
+Dialogue: 0,0:21:07.98,0:21:10.40,English,,0,0,0,,And Agamemnon's like, he now has cognitive dissonance.\N{\rChinese}阿加美农说，他现在有认知失调。
+Dialogue: 0,0:21:10.48,0:21:11.96,English,,0,0,0,,He's like, what?\N{\rChinese}他问，怎么了？
+Dialogue: 0,0:21:12.36,0:21:14.88,English,,0,0,0,,Oh, what? He doesn't understand what's going on.\N{\rChinese}哦，怎么了？他不明白发生了什么事。
+Dialogue: 0,0:21:14.98,0:21:17.68,English,,0,0,0,,Okay? And at this point in the story,\N{\rChinese}好吧？在故事的这一点，
+Dialogue: 0,0:21:17.90,0:21:21.64,English,,0,0,0,,the war should be over because all the Greeks just went home.\N{\rChinese}战争本该结束，因为所有希腊人都回家了。
+Dialogue: 0,0:21:22.26,0:21:26.40,English,,0,0,0,,And again, what happens is Odysseus will come\N{\rChinese}又一次，发生的事是奥德修斯会出现
+Dialogue: 0,0:21:26.40,0:21:29.68,English,,0,0,0,,and save everyone because he will recognize\N{\rChinese}并拯救大家，因为他会认出
+Dialogue: 0,0:21:30.18,0:21:31.58,English,,0,0,0,,that Agamemnon's just being stupid.\N{\rChinese}阿加美农只是愚笨
+Dialogue: 0,0:21:31.58,0:21:36.86,English,,0,0,0,,And he will force all the Greeks to return back to their post.\N{\rChinese}他将迫使所有希腊人返回各自阵地。
+Dialogue: 0,0:21:36.98,0:21:39.10,English,,0,0,0,,Okay? All right. So, Ivory, can you read please?\N{\rChinese}好的？没问题。好了，象牙，请读一遍好吗？
+Dialogue: 0,0:21:39.60,0:21:42.52,English,,0,0,0,,Testing his men. Testing his men, but\N{\rChinese}检验他的部下。检验他的部下，
+Dialogue: 0,0:21:42.52,0:21:44.94,English,,0,0,0,,he only made the spirit race inside their chests.\N{\rChinese}他只让灵魂在胸中奔跑。
+Dialogue: 0,0:21:45.14,0:21:47.72,English,,0,0,0,,All the rank and file who'd never heard his plan.\N{\rChinese}所有从军士都未曾听闻他的计策。
+Dialogue: 0,0:21:48.12,0:21:51.88,English,,0,0,0,,And the whole assembly surged like big waves at sea.\N{\rChinese}整个集结如大海浪般汹涌。
+Dialogue: 0,0:21:52.06,0:21:55.22,English,,0,0,0,,The Icarian sea when east and south winds drive it on,\N{\rChinese}当伊卡里海被东南风推送时，
+Dialogue: 0,0:21:55.34,0:21:58.38,English,,0,0,0,,blasting down in force from the clouds of Father Zeus.\N{\rChinese}从宙斯之云中猛烈冲击而下，
+Dialogue: 0,0:21:58.74,0:22:04.00,English,,0,0,0,,Or when the west wind shakes the deep -standing grain with hurricane gusts\N{\rChinese}或当西风摇晃深海之粒，带来飓风般的劲风。
+Dialogue: 0,0:22:04.00,0:22:05.46,English,,0,0,0,,that flatten down the stalks.\N{\rChinese}把它们压平在杆子上。
+Dialogue: 0,0:22:05.96,0:22:08.86,English,,0,0,0,,So the mass assembly of troops was shaken now.\N{\rChinese}于是大批部队被震动。
+Dialogue: 0,0:22:09.18,0:22:12.42,English,,0,0,0,,They cried an alarm and charged towards the ships and\N{\rChinese}他们大声呼喊，冲向船只。
+Dialogue: 0,0:22:12.42,0:22:16.72,English,,0,0,0,,the dust went whirling up from under rushing feet as the men jostled back\N{\rChinese}尘土随奔腾脚步旋起，众人相互推挤
+Dialogue: 0,0:22:16.72,0:22:18.12,English,,0,0,0,,and forth, shouting orders.\N{\rChinese}并往复，喊令。
+Dialogue: 0,0:22:18.94,0:22:23.72,English,,0,0,0,,Grapple the ships, drag them down to the bright sea, clean out the launching channels.\N{\rChinese}抓船，拖下光海，扫出发船道。
+Dialogue: 0,0:22:24.72,0:22:27.94,English,,0,0,0,,Shrill shouts hitting the heavens, fighters racing for home,\N{\rChinese}尖锐的喊声冲向天空，战士们奔向归途，
+Dialogue: 0,0:22:28.06,0:22:30.32,English,,0,0,0,,knocking the blacks out underneath the holes.\N{\rChinese}把黑色的洞口敲开，击落其下的黑物。
+Dialogue: 0,0:22:30.32,0:22:33.00,English,,0,0,0,,Okay, so this just shows you how stupid Agamemnon is.\N{\rChinese}好的，这就展示了阿伽马农有多笨拙。
+Dialogue: 0,0:22:33.14,0:22:35.78,English,,0,0,0,,Because Agamemnon thinks that his soldiers actually want to fight this war.\N{\rChinese}因为阿伽马农认为他的士兵们真的想打这场战争。
+Dialogue: 0,0:22:36.04,0:22:37.82,English,,0,0,0,,But all the soldiers are homesick.\N{\rChinese}但所有士兵都思乡。
+Dialogue: 0,0:22:37.82,0:22:39.10,English,,0,0,0,,They're sick of this stupid war.\N{\rChinese}他们厌倦这场愚蠢的战争。
+Dialogue: 0,0:22:39.46,0:22:42.10,English,,0,0,0,,They don't even know why they're in this war.\N{\rChinese}他们甚至不知道自己为何参加这场战争。
+Dialogue: 0,0:22:42.32,0:22:45.34,English,,0,0,0,,Okay? So the moment that Agamemnon says, you guys can go home,\N{\rChinese}好的？于是阿伽马农说：你们可以回家了
+Dialogue: 0,0:22:45.44,0:22:48.04,English,,0,0,0,,they're all like, we're going to get home as soon as possible.\N{\rChinese}他们都说，尽快回家。
+Dialogue: 0,0:22:48.14,0:22:50.08,English,,0,0,0,,Okay? They miss their wives. They miss their children.\N{\rChinese}好吧？他们想念妻子。想念孩子。
+Dialogue: 0,0:22:50.52,0:22:53.42,English,,0,0,0,,All right? So Aphrodite\N{\rChinese}好吧？于是阿佛洛狄提
+Dialogue: 0,0:22:53.42,0:22:55.70,English,,0,0,0,,and Hera are up in the sky.\N{\rChinese}而赫尔在天空中。
+Dialogue: 0,0:22:55.86,0:22:59.90,English,,0,0,0,,Okay? Mount Olympus. And they watch this and like, oh my God.\N{\rChinese}好的？奥林匹斯山。然后他们看着，哦我的天。
+Dialogue: 0,0:22:59.92,0:23:02.32,English,,0,0,0,,They're like, oh my God. Agamemnon's going to lose us this war.\N{\rChinese}他们说，哦我的天。阿伽马农要让我们在这场战争中失利。
+Dialogue: 0,0:23:02.58,0:23:06.18,English,,0,0,0,,What a moron. And Hera says to Athena,\N{\rChinese}多么傻瓜。赫尔说给阿特娜，
+Dialogue: 0,0:23:06.64,0:23:09.14,English,,0,0,0,,oh sorry, sorry, sorry. It's not actually Hera and Aphrodite.\N{\rChinese}哦抱歉，抱歉，抱歉。其实不是赫尔和阿佛洛狄提。
+Dialogue: 0,0:23:09.14,0:23:13.04,English,,0,0,0,,It's Hera and Athena because they're the ones who lost the contest to Aphrodite.\N{\rChinese}是赫尔和阿特娜，因为他们是那位在与阿佛洛狄提的比赛中失利的人。
+Dialogue: 0,0:23:13.16,0:23:15.86,English,,0,0,0,,Okay? But Hera says to Athena, you get down there, man.\N{\rChinese}好的？但赫尔对阿特娜说，去那里吧，兄弟。
+Dialogue: 0,0:23:16.04,0:23:17.40,English,,0,0,0,,And you stop this.\N{\rChinese}我停下来了。
+Dialogue: 0,0:23:17.56,0:23:20.64,English,,0,0,0,,Okay? So Athena rushes down and\N{\rChinese}好的？于是阿特娜冲下来。
+Dialogue: 0,0:23:20.64,0:23:22.56,English,,0,0,0,,he talks to Odysseus.\N{\rChinese}他跟奥德修斯说话。
+Dialogue: 0,0:23:22.82,0:23:29.66,English,,0,0,0,,Okay? All right. Can you read?\N{\rChinese}好吧？没问题。你能读吗？
+Dialogue: 0,0:23:29.80,0:23:33.24,English,,0,0,0,,I'm sorry. And now they might have won their journey home.\N{\rChinese}我很抱歉。现在他们或许已赢得归途。
+Dialogue: 0,0:23:33.28,0:23:35.40,English,,0,0,0,,The men of Argos fighting the will of fate.\N{\rChinese}阿尔戈人之战，命运之意已战。
+Dialogue: 0,0:23:35.74,0:23:37.96,English,,0,0,0,,Yes. If Hera had not alerted Athena.\N{\rChinese}是的。若赫拉未召唤雅典娜。
+Dialogue: 0,0:23:39.44,0:23:42.66,English,,0,0,0,,Inconceivable. Child of Zeus whose battle shield is thunder.\N{\rChinese}不可思议。宙斯之子，战甲如雷。
+Dialogue: 0,0:23:43.10,0:23:45.38,English,,0,0,0,,Tireless one. Athena. What?\N{\rChinese}不息者。雅典娜。什么？
+Dialogue: 0,0:23:45.58,0:23:49.18,English,,0,0,0,,Is this the way? All the Argives flying home to their fatherland.\N{\rChinese}这就是路吗？所有阿尔戈人都飞回故乡。
+Dialogue: 0,0:23:49.44,0:23:51.18,English,,0,0,0,,Sailing over to seize Brodback.\N{\rChinese}航行至布罗德巴克。
+Dialogue: 0,0:23:51.60,0:23:55.48,English,,0,0,0,,Leaving Priam and all the men of Troy a trophy to glory over.\N{\rChinese}离开普里阿姆，留给特洛斯的众人一枚胜利之奖。
+Dialogue: 0,0:23:55.74,0:24:00.28,English,,0,0,0,,Helen Argos. Helen for whom so many Argives lost their lives in Troy.\N{\rChinese}海伦·阿尔戈。海伦，因她众多阿尔戈人赴特洛斯而失去生命。
+Dialogue: 0,0:24:00.28,0:24:01.86,English,,0,0,0,,Far from native land.\N{\rChinese}离故乡很远。
+Dialogue: 0,0:24:02.42,0:24:05.88,English,,0,0,0,,Go. Range the ranks of Achaeans armed in bronze.\N{\rChinese}去吧。排开装甲的阿卡伊人。
+Dialogue: 0,0:24:06.24,0:24:09.32,English,,0,0,0,,With your winning words hold back each man you find.\N{\rChinese}用你的胜利之词把每个人都收住。
+Dialogue: 0,0:24:09.72,0:24:12.24,English,,0,0,0,,Don't let them halt their rolling ships to sea.\N{\rChinese}不要让他们停下滚动的船去海上。
+Dialogue: 0,0:24:13.20,0:24:14.66,English,,0,0,0,,Okay. Can we read?\N{\rChinese}好的。我们可以读吗。
+Dialogue: 0,0:24:17.08,0:24:20.32,English,,0,0,0,,The bright -eyed goddess Pallas lost no time.\N{\rChinese}明眸女神帕拉斯毫不耽搁。
+Dialogue: 0,0:24:20.82,0:24:23.58,English,,0,0,0,,Down she flashed from the peaks of Mount Olympus.\N{\rChinese}她从奥林匹斯山峰闪现而下。
+Dialogue: 0,0:24:23.72,0:24:26.80,English,,0,0,0,,Quickly reached the ships and found Odysseus first.\N{\rChinese}迅速抵达船只，先见奥德修斯。
+Dialogue: 0,0:24:27.08,0:24:28.34,English,,0,0,0,,A mastermind like Zeus.\N{\rChinese}像宙斯的主谋者。
+Dialogue: 0,0:24:28.56,0:24:32.34,English,,0,0,0,,Still standing fast. He had not laid a hand in his back.\N{\rChinese}仍然稳立。手未落在背后。
+Dialogue: 0,0:24:32.68,0:24:36.58,English,,0,0,0,,Black benched hull. Such anguish racked from his heart and fighting spirit.\N{\rChinese}黑色船身。心中激起痛楚与战意。
+Dialogue: 0,0:24:37.16,0:24:40.46,English,,0,0,0,,Now close beside him the bright -eyed goddess stood and urged him on.\N{\rChinese}现在，明眸女神靠近他，站在他身旁，催促他前行。
+Dialogue: 0,0:24:41.04,0:24:42.24,English,,0,0,0,,Royal son of...\N{\rChinese}王子……
+Dialogue: 0,0:24:43.20,0:24:45.26,English,,0,0,0,,Laertes. Laertes. Odysseus.\N{\rChinese}拉埃特斯。拉埃特斯。奥德修斯。
+Dialogue: 0,0:24:45.30,0:24:47.62,English,,0,0,0,,Great testician. What?\N{\rChinese}伟大的试验者。什么？
+Dialogue: 0,0:24:47.72,0:24:51.00,English,,0,0,0,,Is this the way? Okay. So, um, so\N{\rChinese}这是方式吗？好吧。于是……
+Dialogue: 0,0:24:51.00,0:24:52.76,English,,0,0,0,,everyone's trying to go home and you would think that\N{\rChinese}大家都想回家，你会想……
+Dialogue: 0,0:24:52.76,0:24:57.22,English,,0,0,0,,Odysseus would be the first person to get on a ship to go back to see his son\N{\rChinese}奥德修斯会是第一个登船回去看他儿子和妻子的人。好吗？
+Dialogue: 0,0:24:57.22,0:25:00.12,English,,0,0,0,,and his wife. Okay? So he's, um,\N{\rChinese}于是，他，呃，……
+Dialogue: 0,0:25:00.52,0:25:02.32,English,,0,0,0,,standing there. He's kind of confused.\N{\rChinese}他站在那里，略显困惑。
+Dialogue: 0,0:25:02.92,0:25:05.78,English,,0,0,0,,All right? So he's like, this doesn't make any sense to me.\N{\rChinese}好的？于是他说，这一切对我来说毫无意义。
+Dialogue: 0,0:25:05.84,0:25:08.86,English,,0,0,0,,Why would Agamemnon do this? But at the same time, he sort of shows you\N{\rChinese}为什么阿伽墨农会这么做？但同时，他也让你觉得……
+Dialogue: 0,0:25:08.86,0:25:10.84,English,,0,0,0,,that he actually doesn't really want to go home.\N{\rChinese}他实际上并不是真的想回家。
+Dialogue: 0,0:25:11.34,0:25:13.96,English,,0,0,0,,Right? Because if he really wanted to go home, he'd be home by now.\N{\rChinese}对吗？如果他真的想回家，到现在就已经回到家里了。
+Dialogue: 0,0:25:14.20,0:25:18.16,English,,0,0,0,,Keep on going. All you Argives flying home to your fatherland,\N{\rChinese}继续前进。你们这些阿尔基人正飞回祖国。
+Dialogue: 0,0:25:18.38,0:25:20.20,English,,0,0,0,,tumbling into your oarswept ships,\N{\rChinese}翻滚进你的桨划船，离开普里阿姆与所有特洛伊人，留下一枚奖杯供他们在荣耀中欢庆。
+Dialogue: 0,0:25:20.62,0:25:24.72,English,,0,0,0,,leaving Priam and all the men of Troy a trophy to glory over.\N{\rChinese}翻滚进你的桨划船，离开普里阿姆与所有特洛伊人，留下一枚奖杯供他们在荣耀中欢庆。
+Dialogue: 0,0:25:27.18,0:25:29.50,English,,0,0,0,,Helen of Argos. Helen of Argos.\N{\rChinese}阿格斯的海伦。阿格斯的海伦。
+Dialogue: 0,0:25:29.50,0:25:34.04,English,,0,0,0,,Helen of Argos. It was Helen for whom so many Argives lost their lives in Troy, far from native land.\N{\rChinese}阿格斯的海伦。正是这位海伦，让无数阿格斯人赴战，离乡去战。
+Dialogue: 0,0:25:34.60,0:25:36.12,English,,0,0,0,,No, don't give up now.\N{\rChinese}不，别现在放弃。
+Dialogue: 0,0:25:36.48,0:25:38.96,English,,0,0,0,,Rang the Achaean ranks, with your winning words,\N{\rChinese}响起阿契亚军列，凭你的胜利之语。
+Dialogue: 0,0:25:39.06,0:25:42.74,English,,0,0,0,,hold back each man you find, don't let them haul the rolling ship to sea.\N{\rChinese}把你找到的每个人都挡住，别让他们把滚船拉上海去。
+Dialogue: 0,0:25:43.70,0:25:45.08,English,,0,0,0,,He knew the goddess' voice.\N{\rChinese}他听见女神的声音。
+Dialogue: 0,0:25:45.54,0:25:49.28,English,,0,0,0,,He went on a run, flinging off his cape as Eurybates picked it up,\N{\rChinese}他奔跑，掷下披风，欧里巴特斯拾起
+Dialogue: 0,0:25:49.44,0:25:53.18,English,,0,0,0,,the Herald of Ithaca always at his side,\N{\rChinese}伊塔卡的信使始终在侧
+Dialogue: 0,0:25:53.32,0:25:56.68,English,,0,0,0,,coming face -to -face with Atreides' Agamemnon,\N{\rChinese}面对阿特里德斯的阿伽墨农，正面相遇。
+Dialogue: 0,0:25:56.88,0:25:59.72,English,,0,0,0,,he relieved him of his father's royal scepter.\N{\rChinese}他把父亲的王杖交给他。
+Dialogue: 0,0:25:59.96,0:26:03.38,English,,0,0,0,,Its power can never die, and grasping it tightly off,\N{\rChinese}它的力量永不消亡，紧握着它。
+Dialogue: 0,0:26:03.62,0:26:06.36,English,,0,0,0,,he strode the ships of Argives armed and bronze.\N{\rChinese}他踏上了阿尔吉夫的船只，船身装甲与青铜铠甲。
+Dialogue: 0,0:26:06.52,0:26:12.26,English,,0,0,0,,Okay, so he's now going to single handedly save the Greeks from losing this war,\N{\rChinese}好了，他现在要单枪救出希腊人，免得他们在这场战争中失利。
+Dialogue: 0,0:26:12.38,0:26:15.80,English,,0,0,0,,okay? So, Athena,\N{\rChinese}好了？所以，雅典娜，
+Dialogue: 0,0:26:16.32,0:26:21.64,English,,0,0,0,,right? Athena is always part of Odysseus.\N{\rChinese}右吗？雅典娜总是奥德修斯的一部分。
+Dialogue: 0,0:26:21.70,0:26:23.12,English,,0,0,0,,It's part of his soul, right?\N{\rChinese}它是他灵魂的一部分，对吧？
+Dialogue: 0,0:26:23.14,0:26:27.26,English,,0,0,0,,The intuition. And his intuition tells him, something's wrong here.\N{\rChinese}直觉。直觉告诉他，这里有点不对劲。
+Dialogue: 0,0:26:27.44,0:26:31.52,English,,0,0,0,,I need to stop this, okay? Also, look at Agamemnon.\N{\rChinese}我得停下来，好吗？再看看阿伽墨农。
+Dialogue: 0,0:26:32.34,0:26:33.78,English,,0,0,0,,Agamemnon is frozen.\N{\rChinese}阿伽墨农已经停住了。
+Dialogue: 0,0:26:34.16,0:26:38.82,English,,0,0,0,,He is so distraught, he's shut down, okay?\N{\rChinese}他很慌张，已经关机，好吗？
+Dialogue: 0,0:26:39.02,0:26:40.42,English,,0,0,0,,His brain has stopped working.\N{\rChinese}他的脑子已经停止工作。
+Dialogue: 0,0:26:40.54,0:26:43.50,English,,0,0,0,,It's frozen, because this is not supposed to happen, right?\N{\rChinese}它已经冻结，因为这本来应该不会发生，对吧？
+Dialogue: 0,0:26:43.72,0:26:46.60,English,,0,0,0,,When he says that you guys can go home, he wanted everyone to say,\N{\rChinese}当他说你们可以回家时，他想让大家都说，
+Dialogue: 0,0:26:46.72,0:26:49.08,English,,0,0,0,,no, we're going to stay and fight for you, Agamemnon.\N{\rChinese}不，我们会留下来为你而战，阿伽墨农。
+Dialogue: 0,0:26:49.58,0:26:51.40,English,,0,0,0,,All right, so it's kind of dissonance.\N{\rChinese}好的，算是有点不和谐。
+Dialogue: 0,0:26:51.76,0:26:53.72,English,,0,0,0,,It's so much kind of dissonance that when\N{\rChinese}不止于此，正是如此不和谐。
+Dialogue: 0,0:26:53.72,0:26:56.82,English,,0,0,0,,Odysseus takes the royal scepter.\N{\rChinese}奥德修斯举起王杖。
+Dialogue: 0,0:26:57.90,0:27:01.54,English,,0,0,0,,Agamemnon, doesn't even notice. The royal scepter is part of his soul, right?\N{\rChinese}阿伽墨农根本不觉。王杖是他灵魂的一部分，对吧？
+Dialogue: 0,0:27:01.68,0:27:04.16,English,,0,0,0,,It's his legacy. It's what gives him authority.\N{\rChinese}这是他的遗产，赋予他权威。
+Dialogue: 0,0:27:04.42,0:27:08.48,English,,0,0,0,,He's the king of kings. And Odysseus just takes the crown from him\N{\rChinese}他是王中之王。奥德修斯刚把王冠夺走，说：不，我是现在的王，来拯救这场战争，好吗？
+Dialogue: 0,0:27:08.48,0:27:12.68,English,,0,0,0,,and says, no, I'm the king for now to save this war, okay?\N{\rChinese}这句话正好展示奥德修斯为赢得这场战争的决心。
+Dialogue: 0,0:27:13.04,0:27:17.60,English,,0,0,0,,And it just shows you how committed Odysseus is to winning this war.\N{\rChinese}And it just shows you how committed Odysseus is to winning this war.
+Dialogue: 0,0:27:17.76,0:27:21.48,English,,0,0,0,,He really believes that this war is about justice,\N{\rChinese}他真相信这场战争是关于正义的
+Dialogue: 0,0:27:21.80,0:27:25.10,English,,0,0,0,,about family, about building a legacy for his son.\N{\rChinese}关于家族，关于为儿子建造遗产。
+Dialogue: 0,0:27:25.20,0:27:27.52,English,,0,0,0,,So, he refuses to lose this war.\N{\rChinese}于是，他决意不输这场战争。
+Dialogue: 0,0:27:28.34,0:27:29.64,English,,0,0,0,,All right, keep on going.\N{\rChinese}好的，继续吧。
+Dialogue: 0,0:27:31.28,0:27:33.04,English,,0,0,0,,I thought I - Oh, sorry, sorry.\N{\rChinese}我想我——哦，抱歉，抱歉。
+Dialogue: 0,0:27:33.28,0:27:35.32,English,,0,0,0,,Yeah. All right.\N{\rChinese}好的。
+Dialogue: 0,0:27:35.90,0:27:40.82,English,,0,0,0,,All right. So, but\N{\rChinese}好的。于是，
+Dialogue: 0,0:27:40.82,0:27:42.30,English,,0,0,0,,that's the Iliad, okay?\N{\rChinese}那就是《伊利亚特》了，行吗？
+Dialogue: 0,0:27:42.40,0:27:46.22,English,,0,0,0,,And again, what will happen is that Odysseus will win this war,\N{\rChinese}再说一次，接下来会发生的是奥德修斯会赢得这场战争。
+Dialogue: 0,0:27:46.28,0:27:50.62,English,,0,0,0,,and he will win eternal glory for himself with the stratagem of the Trojan horse, right?\N{\rChinese}他将凭借特洛伊木马的计谋赢得永恒的荣耀，对吧？
+Dialogue: 0,0:27:51.14,0:27:54.78,English,,0,0,0,,Now, we go to the Odyssey.\N{\rChinese}现在，我们进入《奥德修斯》篇章。
+Dialogue: 0,0:27:55.06,0:28:00.48,English,,0,0,0,,And in the Odyssey, we don't actually meet Odysseus for many,\N{\rChinese}在《奥德修斯》中，我们实际上要等到很多书才会遇到奥德修斯。
+Dialogue: 0,0:28:00.58,0:28:01.78,English,,0,0,0,,many books, okay?\N{\rChinese}大约很多书之后，才会见到他。
+Dialogue: 0,0:28:01.86,0:28:05.68,English,,0,0,0,,It's only towards the middle that we meet Odysseus.\N{\rChinese}它只有在中间才会遇到奥德修斯。
+Dialogue: 0,0:28:05.70,0:28:09.80,English,,0,0,0,,In the first few books, it's a story of Tammacus and his journey to find his father, okay?\N{\rChinese}前几本书是塔马库斯的故事，他去寻找父亲，行吗？
+Dialogue: 0,0:28:10.32,0:28:12.62,English,,0,0,0,,And when we meet Odysseus,\N{\rChinese}当我们遇到奥德修斯时，
+Dialogue: 0,0:28:12.64,0:28:17.68,English,,0,0,0,,he's a very different person from the Iliad.\N{\rChinese}他在《伊利亚特》里是一个完全不同的人。
+Dialogue: 0,0:28:17.78,0:28:20.28,English,,0,0,0,,Remember, in the Iliad, he is trying to win this war.\N{\rChinese}记住，在《伊利亚特》中，他正试图赢得这场战争。
+Dialogue: 0,0:28:20.42,0:28:22.58,English,,0,0,0,,He's very energetic. He's galvanized.\N{\rChinese}他很有活力，充满了动力。
+Dialogue: 0,0:28:22.78,0:28:24.56,English,,0,0,0,,He's very heroic, okay?\N{\rChinese}他很英勇，行吗？
+Dialogue: 0,0:28:24.60,0:28:28.84,English,,0,0,0,,But when we see the Iliad, we see that he's a very heroic person. And when we see the Iliad, we see him in the Odyssey, he's a changed person.\N{\rChinese}但在《伊利亚特》中我们看到他很英勇；在《奥德赛》中我们看到他已变成另一人。
+Dialogue: 0,0:28:29.10,0:28:30.72,English,,0,0,0,,In fact, he's a broken person.\N{\rChinese}事实上，他是一个破碎的人。
+Dialogue: 0,0:28:31.04,0:28:34.58,English,,0,0,0,,So, what's happening is that Odysseus\N{\rChinese}于是，发生的事是奥德修斯……
+Dialogue: 0,0:28:34.58,0:28:37.06,English,,0,0,0,,and his crew try to go home, and they get lost at sea.\N{\rChinese}他和船员们试着回家，却在海上迷失。
+Dialogue: 0,0:28:37.16,0:28:40.22,English,,0,0,0,,They have many adventures, and they get shipwrecked on an island,\N{\rChinese}他们经历了许多冒险，最终在一座岛上船只沉没。
+Dialogue: 0,0:28:40.40,0:28:44.28,English,,0,0,0,,and he becomes the sex toy,\N{\rChinese}他变成了性玩具，
+Dialogue: 0,0:28:44.54,0:28:48.24,English,,0,0,0,,okay, literally a sex toy, of a goddess named Calypso, all right?\N{\rChinese}好的，字面意思是性玩具，女神卡吕普索的玩具，没问题？
+Dialogue: 0,0:28:48.34,0:28:51.40,English,,0,0,0,,So, basically, he's getting raped every day at night,\N{\rChinese}于是，他基本上每天晚上都被强奸，
+Dialogue: 0,0:28:51.52,0:28:56.62,English,,0,0,0,,and then he goes to the beach and he cries. Okay?\N{\rChinese}然后他去海边，哭了。
+Dialogue: 0,0:28:56.74,0:29:02.58,English,,0,0,0,,So, he's a prisoner of Calypso for many years,\N{\rChinese}于是，他在卡吕普索手中做了多年的囚徒，
+Dialogue: 0,0:29:02.68,0:29:04.74,English,,0,0,0,,and the gods, Zeus, Athena,\N{\rChinese}神们，宙斯、雅典娜，
+Dialogue: 0,0:29:05.18,0:29:07.74,English,,0,0,0,,they get together and say, you know what?\N{\rChinese}他们聚在一起说，你知道吗？
+Dialogue: 0,0:29:07.80,0:29:09.12,English,,0,0,0,,We can't have this happen anymore, okay?\N{\rChinese}我们不想再让它发生了，好吗？
+Dialogue: 0,0:29:09.56,0:29:11.18,English,,0,0,0,,Odysseus needs to go home.\N{\rChinese}奥德修斯需要回家。
+Dialogue: 0,0:29:11.32,0:29:15.60,English,,0,0,0,,So, they send Hermes to tell Calypso, you have to send Odysseus home.\N{\rChinese}于是他们派赫尔墨斯去告诉卡吕普索，你得把奥德修斯送回家。
+Dialogue: 0,0:29:15.70,0:29:18.68,English,,0,0,0,,The gods will it. And Calypso says, sure, why not?\N{\rChinese}神们决定了。卡吕普索说，当然，为什么不呢？
+Dialogue: 0,0:29:18.82,0:29:23.42,English,,0,0,0,,Okay? So, can you read? With that, the powerful giant killer sped away.\N{\rChinese}好了？那么你能读吗？于是那位强大的巨人杀手迅速离去。
+Dialogue: 0,0:29:23.60,0:29:27.06,English,,0,0,0,,So, it's Hermes, okay? So, Hermes has told Calypso, you have to let this guy go.\N{\rChinese}于是，赫尔墨斯来了，好吗？于是赫尔墨斯告诉卡吕普索，你得让这家伙走。
+Dialogue: 0,0:29:27.80,0:29:30.58,English,,0,0,0,,The queenly nymph sought out the great Odysseus,\N{\rChinese}女王般的仙女去寻找伟大的奥德修斯。
+Dialogue: 0,0:29:30.66,0:29:33.84,English,,0,0,0,,the commands of Zeus still ringing in her ears, and\N{\rChinese}宙斯的命令仍在她耳边回响，且
+Dialogue: 0,0:29:33.84,0:29:36.66,English,,0,0,0,,found him there on the headland, sitting, still,\N{\rChinese}他在半岛上被发现，坐着，静止，
+Dialogue: 0,0:29:36.84,0:29:38.98,English,,0,0,0,,weeping, his eyes never dry,\N{\rChinese}泪流不止，眼眶未干
+Dialogue: 0,0:29:39.18,0:29:43.12,English,,0,0,0,,his sweet life flowing away with the tears he wept for his royal journey home,\N{\rChinese}他的甜蜜人生随泪水流去，回想他王者归途的旅程，
+Dialogue: 0,0:29:43.32,0:29:45.18,English,,0,0,0,,since then no longer pleased.\N{\rChinese}自此以后已不再欢喜。
+Dialogue: 0,0:29:45.50,0:29:50.08,English,,0,0,0,,So, he's sitting, he's still, he's weeping, his eyes never dry,\N{\rChinese}于是他坐着，仍在泪流，眼眶未干。
+Dialogue: 0,0:29:50.62,0:29:53.82,English,,0,0,0,,and all he's thinking about is the past, okay?\N{\rChinese}和他想的全是过去，好吗？
+Dialogue: 0,0:29:53.96,0:29:56.30,English,,0,0,0,,This is clear signs of, okay, this is clear signs of, okay, this is clear signs of, okay, this is clear signs of, depression,\N{\rChinese}这明显是……这明显是……这明显是……这明显是……抑郁的明显迹象，
+Dialogue: 0,0:29:56.72,0:29:59.92,English,,0,0,0,,PDST, okay? Do you want to read?\N{\rChinese}PDST，好吗？你想读吗？
+Dialogue: 0,0:30:00.66,0:30:05.44,English,,0,0,0,,In the night true he'd sleep with her in the arching cave.\N{\rChinese}在夜里，他会与她在弧形洞穴里睡觉。
+Dialogue: 0,0:30:05.66,0:30:10.18,English,,0,0,0,,He had no choice, unwilling lover alongside lover all too willing.\N{\rChinese}他没有选择，爱人与爱人同在，皆甘心。
+Dialogue: 0,0:30:10.50,0:30:13.00,English,,0,0,0,,But all his days he sat on rocks and beaches,\N{\rChinese}但他所有日子都坐在岩石与海滩上。
+Dialogue: 0,0:30:13.24,0:30:16.16,English,,0,0,0,,wrenching his heart with sobs and groans in anguish,\N{\rChinese}用嗓声和咳嗓把心扯开，痛哭不止，
+Dialogue: 0,0:30:16.46,0:30:19.34,English,,0,0,0,,gazing out over the barren sea through blinding tears.\N{\rChinese}眺望空旮海面，泪眼朦胧。
+Dialogue: 0,0:30:19.58,0:30:20.94,English,,0,0,0,,Okay, so he's a broken man.\N{\rChinese}好了，他是个破碎的人。
+Dialogue: 0,0:30:21.14,0:30:25.34,English,,0,0,0,,He's a very different person from the Iliad, okay?\N{\rChinese}他是《伊利亚特》里的人物完全不同，明白吗？
+Dialogue: 0,0:30:25.42,0:30:27.04,English,,0,0,0,,So, now, the question then is why?\N{\rChinese}于是，现在的问题是为什么？
+Dialogue: 0,0:30:27.36,0:30:30.30,English,,0,0,0,,What happened to him? All right?\N{\rChinese}他发生了什么事？好了么？
+Dialogue: 0,0:30:30.76,0:30:33.64,English,,0,0,0,,So, Calypso says to Odysseus, you know what?\N{\rChinese}于是，卡吕普索对奥德修斯说：你知道吗？
+Dialogue: 0,0:30:34.58,0:30:37.50,English,,0,0,0,,It's been great having a sex toy, but\N{\rChinese}拥有性玩具真不错，
+Dialogue: 0,0:30:37.50,0:30:40.54,English,,0,0,0,,the gods insist that you have to go home.\N{\rChinese}但众神坚持你必须回家。
+Dialogue: 0,0:30:40.64,0:30:45.38,English,,0,0,0,,But you know what? You can choose to be my sex toy for all of eternity.\N{\rChinese}但你知道吗？你可以选择成为我永恒的性玩具。
+Dialogue: 0,0:30:45.70,0:30:47.32,English,,0,0,0,,I can make you immortal, right?\N{\rChinese}我可以让你变成不朽的存在，对吧？
+Dialogue: 0,0:30:47.40,0:30:50.38,English,,0,0,0,,You can go home, but I can make you immortal, and you'll be my sex toy for all of eternity.\N{\rChinese}你可以回家，但我能让你变成不朽的存在，你将成为我永恒的性玩具。
+Dialogue: 0,0:30:50.70,0:30:53.54,English,,0,0,0,,Now, this is like, that's a really nice offer.\N{\rChinese}现在，这就像是个很好的提议。
+Dialogue: 0,0:30:53.94,0:30:55.64,English,,0,0,0,,I really want to do this.\N{\rChinese}我真的想做这件事。
+Dialogue: 0,0:30:55.64,0:30:57.10,English,,0,0,0,,But I need to go home, okay?\N{\rChinese}我需要回家，好吗？
+Dialogue: 0,0:30:57.20,0:31:00.66,English,,0,0,0,,So, he leaves, and he gets on an island.\N{\rChinese}于是他离开，随后抵达一座小岛。
+Dialogue: 0,0:31:02.08,0:31:06.16,English,,0,0,0,,And on this island, he's given a ship to go home, okay?\N{\rChinese}在这座岛上，他得到了一艘船去回家，好吗？
+Dialogue: 0,0:31:06.22,0:31:08.98,English,,0,0,0,,But before he goes home, as a custom,\N{\rChinese}但在他回家之前，按惯例，
+Dialogue: 0,0:31:09.20,0:31:12.60,English,,0,0,0,,they host a banquet for him, okay?\N{\rChinese}他们为他举办了一场宴会，好吗？
+Dialogue: 0,0:31:12.74,0:31:14.64,English,,0,0,0,,And they really don't know who he is.\N{\rChinese}他们真的不知道他是谁。
+Dialogue: 0,0:31:14.78,0:31:17.66,English,,0,0,0,,They don't really know he's Odysseus.\N{\rChinese}他们还没完全知道他是奥德修斯。
+Dialogue: 0,0:31:17.98,0:31:20.98,English,,0,0,0,,All right? So, during the banquet,\N{\rChinese}好的？于是在宴会上，传统是举行舞会，酒吧演唱一段大事记，好吗？
+Dialogue: 0,0:31:23.70,0:31:27.94,English,,0,0,0,,the tradition is to have a ball, and the bar sings a great story, okay?\N{\rChinese}the tradition is to have a ball, and the bar sings a great story, okay?
+Dialogue: 0,0:31:28.00,0:31:31.32,English,,0,0,0,,To sing a story of great deeds.\N{\rChinese}唱响伟业的故事。
+Dialogue: 0,0:31:31.56,0:31:34.04,English,,0,0,0,,And of course, he sings about the Trojan War, okay?\N{\rChinese}当然，他在唱歌时提到了特洛伊战争，好吗？
+Dialogue: 0,0:31:34.32,0:31:36.88,English,,0,0,0,,So, can you read, Avery?\N{\rChinese}那么，你能读出来吗，艾弗里？
+Dialogue: 0,0:31:37.02,0:31:41.40,English,,0,0,0,,Yeah. The Strife Between Odysseus and Achilles, Peleus' son.\N{\rChinese}是的。奥德修斯与阿基琉斯、佩勒斯之子之间的争斗。
+Dialogue: 0,0:31:41.52,0:31:44.20,English,,0,0,0,,Okay, so the bar is singing about the Trojan War, okay?\N{\rChinese}好的，酒吧在唱歌时提到了特洛伊战争，好吗？
+Dialogue: 0,0:31:44.84,0:31:47.04,English,,0,0,0,,How once at the gods' flowing feast,\N{\rChinese}曾经在众神的盛宴中，
+Dialogue: 0,0:31:47.18,0:31:50.38,English,,0,0,0,,the captains clashed in the savage war of wards, while\N{\rChinese}船长们在激烈的守卫战中交锋，随后
+Dialogue: 0,0:31:50.38,0:31:53.78,English,,0,0,0,,Agamemnon, lord of armies, rejoiced at heart\N{\rChinese}阿加美农，军队之主，心中喜悦
+Dialogue: 0,0:31:53.78,0:31:56.20,English,,0,0,0,,that Achilles' bravest men, were battling so.\N{\rChinese}那时，阿基琉斯最勇敢的战士们正在交战。
+Dialogue: 0,0:31:56.62,0:31:59.66,English,,0,0,0,,For this was the victory sign, the Apollo of prophecies,\N{\rChinese}这就是胜利的标志，预言之阿波罗
+Dialogue: 0,0:31:59.70,0:32:01.84,English,,0,0,0,,at his shrine in Pitho, when\N{\rChinese}在其毕托神殿，时
+Dialogue: 0,0:32:01.84,0:32:05.84,English,,0,0,0,,Agamemnon strode across the rocky threshold, asking the oracle for advice.\N{\rChinese}阿加美农踏过岩石门槛，向神谕求助
+Dialogue: 0,0:32:06.32,0:32:09.72,English,,0,0,0,,The start of the tidal waves of ruin tumbling down on Troy's\N{\rChinese}特洛伊的毁灭潮汹涌而来
+Dialogue: 0,0:32:09.72,0:32:14.50,English,,0,0,0,,and Achilles' forces, both at once, thanks to the will of Zeus, who rules the world.\N{\rChinese}并且阿基琉斯的军队，两者同时，因宙斯之意，宙斯主宙世
+Dialogue: 0,0:32:15.34,0:32:17.94,English,,0,0,0,,That was the song the famous harper sang but\N{\rChinese}那是那位著名的哈珀所唱的歌
+Dialogue: 0,0:32:17.94,0:32:19.44,English,,0,0,0,,Odysseus,\N{\rChinese}奥德修斯,
+Dialogue: 0,0:32:19.48,0:32:22.72,English,,0,0,0,,clutching his flaring sea -blue cape in both powerful hands,\N{\rChinese}抓住那绚蓝海色的披风，双手握紧
+Dialogue: 0,0:32:22.96,0:32:25.50,English,,0,0,0,,drew it over his head, and buried his handsome face.\N{\rChinese}把它披在头上，掩住俊朗的面容
+Dialogue: 0,0:32:25.50,0:32:28.96,English,,0,0,0,,He was a man of the world. He was a man of the world. He was a man of the world. He was a man of the world. He was a man of the world. He was a man of the world. Ashamed, his host might see him shedding tears.\N{\rChinese}他是个世间人。 他是个世间人。 他是个世间人。 他是个世间人。 他是个世间人。 他是个世间人。 他是个世间人。 失意之时，他的主人可见他泪流满面。
+Dialogue: 0,0:32:29.74,0:32:32.06,English,,0,0,0,,Whenever the rapt bard would pause in the song,\N{\rChinese}每当那狂歌者在歌中停顿时，
+Dialogue: 0,0:32:32.24,0:32:34.52,English,,0,0,0,,he'd lift the cape from his head,\N{\rChinese}他把披风从头上掀起，擦去泪水
+Dialogue: 0,0:32:34.68,0:32:37.94,English,,0,0,0,,wipe off his tears, and hoisting his double -handed cup,\N{\rChinese}举起双手装满的杯子
+Dialogue: 0,0:32:38.16,0:32:39.50,English,,0,0,0,,pour it out to the gods.\N{\rChinese}把它倒给诸神。
+Dialogue: 0,0:32:40.40,0:32:44.48,English,,0,0,0,,But soon as the bard would start again, impelled to sing by\N{\rChinese}但很快，歌者又起身，随之而唱。
+Dialogue: 0,0:32:45.30,0:32:47.80,English,,0,0,0,,Theseus' lords, who reveled in his tale,\N{\rChinese}忒修斯的贵族们，沉醉于他的故事，
+Dialogue: 0,0:32:47.98,0:32:51.06,English,,0,0,0,,again Odysseus hid his face and wept.\N{\rChinese}又一次奥德修斯掩面而泪
+Dialogue: 0,0:32:51.14,0:32:55.90,English,,0,0,0,,Okay, so this is a great banquet, and the bard's singing about the Trojan War.\N{\rChinese}好的，这是一场盛宴，歌者正唱着特洛伊战争。
+Dialogue: 0,0:32:56.36,0:32:59.50,English,,0,0,0,,And at this point you would think that Odysseus would be like, hey, that's me, man.\N{\rChinese}此时你会想，奥德修斯会说：嘿，我就是那个人。
+Dialogue: 0,0:32:59.62,0:33:03.44,English,,0,0,0,,He'd be very proud. But instead he cries and he cries, okay?\N{\rChinese}他会非常自豪。但他却哭了，哭了，好吗？
+Dialogue: 0,0:33:03.68,0:33:05.80,English,,0,0,0,,This again is trauma, where\N{\rChinese}这又是一场创伤，记忆在他心中积存痛楚。
+Dialogue: 0,0:33:06.70,0:33:09.92,English,,0,0,0,,the memories are storing pain in him.\N{\rChinese}记忆在他心中积存痛楚。
+Dialogue: 0,0:33:10.16,0:33:13.70,English,,0,0,0,,So clearly something happened during the Trojan War\N{\rChinese}于是，特洛伊战争期间发生了某件事
+Dialogue: 0,0:33:14.42,0:33:18.50,English,,0,0,0,,that made him want to forget about it, that made him resent himself,\N{\rChinese}那让他想忘记它，让他自怨
+Dialogue: 0,0:33:18.90,0:33:22.82,English,,0,0,0,,okay? That caused his soul to be ruptured, all right?\N{\rChinese}好吧？那使他的灵魂破裂，好吗？
+Dialogue: 0,0:33:22.88,0:33:28.82,English,,0,0,0,,All right, so um keep on going.\N{\rChinese}好的，继续吧。
+Dialogue: 0,0:33:30.40,0:33:33.62,English,,0,0,0,,Odysseus, master of many exploits, praised the singer.\N{\rChinese}奥德修斯，功绩多多的主人，称赞歌者。
+Dialogue: 0,0:33:34.08,0:33:37.96,English,,0,0,0,,I respect you, Demodocus, more than any man alive.\N{\rChinese}我敬重你，德莫多克斯，胜过世间所有人。
+Dialogue: 0,0:33:38.52,0:33:41.12,English,,0,0,0,,Surely the muse has taught you, Zeus' daughter,\N{\rChinese}当然，缪斯已经教会了你，宙斯之女
+Dialogue: 0,0:33:41.40,0:33:45.40,English,,0,0,0,,or god Apollo himself, how true to life, all too true.\N{\rChinese}或是阿波罗神本人，真是如此贴近生活，真是如此真实。
+Dialogue: 0,0:33:45.90,0:33:48.78,English,,0,0,0,,You sing the Achaeans' fate, all they did and\N{\rChinese}你唱着雅克人的命运，所有他们所做的
+Dialogue: 0,0:33:48.78,0:33:50.44,English,,0,0,0,,suffered, all they soldiered through,\N{\rChinese}所受的苦难，所有他们经历的战斗
+Dialogue: 0,0:33:50.60,0:33:54.76,English,,0,0,0,,as if you were the as if you were there yourself or heard from one who was.\N{\rChinese}如你亲自到场，或听自一人所述。
+Dialogue: 0,0:33:55.50,0:33:59.16,English,,0,0,0,,But come now, shift your ground, sing of the wooden horse,\N{\rChinese}来吧，转移你之舞台，歌颂木马。
+Dialogue: 0,0:33:59.28,0:34:01.98,English,,0,0,0,,goal goal goal goal goal goal goal goal\N{\rChinese}目标目标目标目标目标目标目标目标
+Dialogue: 0,0:34:01.98,0:34:06.02,English,,0,0,0,,goal goal goal goal goal goal goal goal goal goal goal goal\N{\rChinese}目标目标目标目标目标目标目标目标目标目标目标目标
+Dialogue: 0,0:34:06.02,0:34:08.32,English,,0,0,0,,goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal\N{\rChinese}目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标
+Dialogue: 0,0:34:08.32,0:34:09.48,English,,0,0,0,,goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal\N{\rChinese}目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标
+Dialogue: 0,0:34:09.48,0:34:17.78,English,,0,0,0,,goal goal\N{\rChinese}目标目标
+Dialogue: 0,0:34:17.78,0:34:21.32,English,,0,0,0,,goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal gave you the gods his own gift of song okay so\N{\rChinese}目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标给你们神的自己的歌声礼物，好吗？
+Dialogue: 0,0:34:21.32,0:34:24.48,English,,0,0,0,,he's feeling all this pain because\N{\rChinese}他此刻感受这份痛楚，因为
+Dialogue: 0,0:34:24.48,0:34:27.06,English,,0,0,0,,of memories of the children war but he recognizes that\N{\rChinese}关于儿童战争的回忆，但他意识到
+Dialogue: 0,0:34:27.06,0:34:28.68,English,,0,0,0,,if he's willing to go home because\N{\rChinese}如果他愿意回家，因为
+Dialogue: 0,0:34:28.68,0:34:34.34,English,,0,0,0,,remember he's on his journey home he needs to confront his pain he needs to admit his pain okay\N{\rChinese}记住他正在归途，需要面对痛楚，承认痛楚
+Dialogue: 0,0:34:34.34,0:34:37.98,English,,0,0,0,,so now he's going to ask the bar to sing the memory\N{\rChinese}于是他现在要请酒吧唱起那段记忆
+Dialogue: 0,0:34:37.98,0:34:43.08,English,,0,0,0,,that he's most trying to repress he's trying to he he wants to now focus on the children war\N{\rChinese}他最想压抑的就是他现在想把注意力集中在儿童战争上
+Dialogue: 0,0:34:43.08,0:34:47.88,English,,0,0,0,,and really come to terms with his own trauma okay all right\N{\rChinese}并且真正与自己的创伤达成和解，好的，没问题
+Dialogue: 0,0:34:47.88,0:34:49.08,English,,0,0,0,,so this so so\N{\rChinese}于是这就是
+Dialogue: 0,0:34:49.08,0:34:52.92,English,,0,0,0,,let's let's see what happens sorry\N{\rChinese}好了，看看会怎样吧，抱歉
+Dialogue: 0,0:34:52.92,0:34:56.58,English,,0,0,0,,sir now by the muse the bard launched out in\N{\rChinese}先生，现在由缪斯之力，诗人展开了
+Dialogue: 0,0:34:56.58,0:34:59.34,English,,0,0,0,,the fine blaze of song starting at just the point where\N{\rChinese}歌曲的细腻火焰从刚刚开始的那一点起
+Dialogue: 0,0:34:59.34,0:35:03.96,English,,0,0,0,,the main achian force setting their camps of fire had boarded the ore swept ships\N{\rChinese}主力阿基亚军队搭建火营，已登上掠夺的船只
+Dialogue: 0,0:35:03.96,0:35:06.12,English,,0,0,0,,and sailed for home but\N{\rChinese}并驶向家乡，却……
+Dialogue: 0,0:35:06.12,0:35:11.56,English,,0,0,0,,famed odysseus's men already crouched in hiding in the heart of troy's assembly darkened\N{\rChinese}著名的奥德修斯的部下已在特洛伊议会的心脏处潜伏……
+Dialogue: 0,0:35:11.58,0:35:18.06,English,,0,0,0,,that horse the trojans dragged themselves to the city heights now it stood there looming and\N{\rChinese}那匹木马，特洛伊人拖着它登上城高处，现已矗立在那里，俯瞰四周
+Dialogue: 0,0:35:18.06,0:35:23.58,English,,0,0,0,,round its bulk the trojans sat debating clashing days on end three plans split ranks\N{\rChinese}在它的庞大周围，特洛伊人围坐，争论三策，分列成行
+Dialogue: 0,0:35:24.28,0:35:29.30,English,,0,0,0,,either to hack open the hollow vault with ruthless bronze or haul it up to the highest ridge\N{\rChinese}或用无情的青铜打开空洞的箱子，或把它搬到最高的山脊上
+Dialogue: 0,0:35:29.30,0:35:34.60,English,,0,0,0,,and pitch it down the cliffs or lit it's sand a glorious offering made to pacify the gods\N{\rChinese}然后把它投到悬崖上，或把它点燃，献上一份光辉的祭品以安抚众神
+Dialogue: 0,0:35:35.24,0:35:36.22,English,,0,0,0,,and that that\N{\rChinese}并且那件事
+Dialogue: 0,0:35:36.22,0:35:39.60,English,,0,0,0,,final plan was bound to win the day for troy\N{\rChinese}最终计划注定能为特洛伊赢得一天
+Dialogue: 0,0:35:39.60,0:35:44.24,English,,0,0,0,,was fated to perish once the city lodged inside her walls the monstrous wooden horse\N{\rChinese}那匹木马注定要在城墙内安居后消亡
+Dialogue: 0,0:35:44.24,0:35:47.90,English,,0,0,0,,where the prime of our guy power lay in wait with death\N{\rChinese}我们力量的核心在此等待死亡
+Dialogue: 0,0:35:47.90,0:35:51.50,English,,0,0,0,,and slaughter bearing down on troy okay\N{\rChinese}并且在特洛伊上屠宰而来
+Dialogue: 0,0:35:54.22,0:35:57.92,English,,0,0,0,,all right troops of achians broke achians broke\N{\rChinese}所有的阿基亚军队都已突破阿基亚
+Dialogue: 0,0:35:57.92,0:36:01.82,English,,0,0,0,,from cover streaming out of the horse's hollow flanks to plunder troy\N{\rChinese}从马壳的侧面溢出光线，掠夺特洛伊
+Dialogue: 0,0:36:02.52,0:36:03.74,English,,0,0,0,,he's saying how left and\N{\rChinese}他在说剩下的事
+Dialogue: 0,0:36:03.74,0:36:08.46,English,,0,0,0,,right they ravaged the seeps city saying how odysseus marched right up to\N{\rChinese}随后他们掠夺城池，正如奥德修斯所行
+Dialogue: 0,0:36:09.72,0:36:15.04,English,,0,0,0,,the phoebus's house like the god of war on attack with die hard men laws\N{\rChinese}菲比斯的宫殿如同战争之神般进攻，硬汉们的法则已死去
+Dialogue: 0,0:36:15.04,0:36:18.10,English,,0,0,0,,but the phoebus isn't a name for pride okay they want to go\N{\rChinese}但菲比斯并非自豪之名，好的他们要去
+Dialogue: 0,0:36:18.10,0:36:20.62,English,,0,0,0,,kill the king you want to go away there he's\N{\rChinese}杀王吧，你要去离开他
+Dialogue: 0,0:36:20.62,0:36:24.46,English,,0,0,0,,saying odysseus fought the grimace fight he had ever braved\N{\rChinese}说奥德修斯在那场激战中奋战，已是他最勇敢的时刻
+Dialogue: 0,0:36:24.46,0:36:28.66,English,,0,0,0,,but he won through at last thanks to athenus's superhuman power\N{\rChinese}但他最终获胜，归功于阿特努斯的超凡之力
+Dialogue: 0,0:36:28.66,0:36:30.04,English,,0,0,0,,that\N{\rChinese}那
+Dialogue: 0,0:36:30.04,0:36:33.10,English,,0,0,0,,was the song the famous harper sang the great odysseus\N{\rChinese}那是那位著名的哈珀所唱的歌，歌颂伟大的奥德修斯
+Dialogue: 0,0:36:33.10,0:36:36.72,English,,0,0,0,,melted into tears running down from his eyes with his cheeks\N{\rChinese}泪水从他眼眶流下，脸颊湿润
+Dialogue: 0,0:36:37.40,0:36:40.64,English,,0,0,0,,as a woman weeps her arms flung around her darling husband\N{\rChinese}女人泪眼，手臂环抱亲爱丈夫
+Dialogue: 0,0:36:41.40,0:36:43.90,English,,0,0,0,,a man who fell in battle fighting for town and\N{\rChinese}一位在战场上倒下的男子，奋战为城镇而归
+Dialogue: 0,0:36:43.90,0:36:46.86,English,,0,0,0,,townsmen trying to beat the day of doom from home and\N{\rChinese}城镇居民试图在归家之日击败厄运
+Dialogue: 0,0:36:46.86,0:36:50.90,English,,0,0,0,,children seeing the man go down dying gasping\N{\rChinese}孩子们看见那人倒下，喘息着去世
+Dialogue: 0,0:36:50.90,0:36:53.84,English,,0,0,0,,for breath she clings for dear life screams\N{\rChinese}她紧握生命，呼喊着
+Dialogue: 0,0:36:53.84,0:36:55.42,English,,0,0,0,,and shrills but\N{\rChinese}并发出尖叫，却
+Dialogue: 0,0:36:55.42,0:36:58.88,English,,0,0,0,,the victor is just behind her digging spear butts into her back\N{\rChinese}胜者正站在她身后，掏出矛尖刺入她的背部
+Dialogue: 0,0:36:58.88,0:37:03.08,English,,0,0,0,,and shoulders drag her off in bondage yoked to hard labor pain\N{\rChinese}肩膀拖她离去，束缚于艰辛劳作之痛
+Dialogue: 0,0:37:03.08,0:37:05.70,English,,0,0,0,,and the most heartbreaking torment was her cheeks\N{\rChinese}最令人心碎的痛楚在她的双颊
+Dialogue: 0,0:37:06.58,0:37:09.92,English,,0,0,0,,so from odysseus's eyes ran tears of heartbreak now okay\N{\rChinese}于是从奥德修斯的眼中流出心碎的泪水，现在好了
+Dialogue: 0,0:37:09.92,0:37:12.86,English,,0,0,0,,so now we know what happened okay all right so\N{\rChinese}于是我们知道发生了什么，全部都好
+Dialogue: 0,0:37:12.86,0:37:16.24,English,,0,0,0,,what happened was this for 10 years odysseus\N{\rChinese}发生的事是这样的：十年间，奥德修斯……
+Dialogue: 0,0:37:16.24,0:37:19.28,English,,0,0,0,,and the greeks were trying to defeat the trojans and they could not do it\N{\rChinese}希腊人正试图击败特洛伊人，却未能成功
+Dialogue: 0,0:37:19.28,0:37:22.62,English,,0,0,0,,because the trojans were behind a walled city so\N{\rChinese}因为特洛伊人在城墙后面，所以
+Dialogue: 0,0:37:22.62,0:37:25.80,English,,0,0,0,,this is prayed and prayed to athena for inspiration and\N{\rChinese}于是他们向雅典娜祈祷求灵感，随后
+Dialogue: 0,0:37:25.80,0:37:28.72,English,,0,0,0,,then one day he had it the trojan horse okay\N{\rChinese}某一天，他拿到了木马，特洛伊人就这样
+Dialogue: 0,0:37:28.72,0:37:30.50,English,,0,0,0,,so he sneaks in so\N{\rChinese}于是他悄悄溜进去，
+Dialogue: 0,0:37:30.50,0:37:33.96,English,,0,0,0,,he gets into the underbelly of the trojan horse along with other soldiers\N{\rChinese}他和其他士兵一起进入木马内部，
+Dialogue: 0,0:37:34.44,0:37:36.52,English,,0,0,0,,and then they get into the city and\N{\rChinese}随后他们闯进城内
+Dialogue: 0,0:37:36.52,0:37:39.88,English,,0,0,0,,like you know they're really scared they're really excited then\N{\rChinese}像你知道他们真的很怕，真的很兴奋，然后
+Dialogue: 0,0:37:41.40,0:37:44.52,English,,0,0,0,,they decide to uh leave the trojan horse and\N{\rChinese}他们决定把木马留在外面，然后
+Dialogue: 0,0:37:44.52,0:37:46.92,English,,0,0,0,,then open the gates of troy and the greeks stream in and\N{\rChinese}打开特洛伊城门，希腊人冲进去
+Dialogue: 0,0:37:46.92,0:37:50.10,English,,0,0,0,,they start to conquer the city and\N{\rChinese}他们开始攻占城池，随后……
+Dialogue: 0,0:37:50.10,0:37:53.54,English,,0,0,0,,then odysseus you know he is killing okay\N{\rChinese}于是奥德修斯，你知道他正杀戮……
+Dialogue: 0,0:37:53.54,0:37:56.38,English,,0,0,0,,because it's war and he's full of adrenaline\N{\rChinese}因为是战争，他满怀冲劲
+Dialogue: 0,0:37:56.38,0:37:57.70,English,,0,0,0,,but then\N{\rChinese}但随后
+Dialogue: 0,0:37:57.70,0:38:02.68,English,,0,0,0,,something catches his eye all right he strikes down a soldier\N{\rChinese}有件事吸引了他的目光，他立刻击倒一名士兵
+Dialogue: 0,0:38:02.68,0:38:04.48,English,,0,0,0,,and then\N{\rChinese}然后
+Dialogue: 0,0:38:04.48,0:38:08.08,English,,0,0,0,,the a woman comes crying\N{\rChinese}一位女子哭着出现
+Dialogue: 0,0:38:08.08,0:38:09.92,English,,0,0,0,,and\N{\rChinese}并且
+Dialogue: 0,0:38:12.44,0:38:15.66,English,,0,0,0,,she's traumatized at the sight of the death of her husband\N{\rChinese}她看到丈夫死亡时惊魂
+Dialogue: 0,0:38:15.66,0:38:17.56,English,,0,0,0,,and he's and\N{\rChinese}并且他又
+Dialogue: 0,0:38:17.56,0:38:20.98,English,,0,0,0,,this is traumatized by this woman being traumatized\N{\rChinese}这位女子因他来特洛伊而被打动，正如同样被打动
+Dialogue: 0,0:38:20.98,0:38:25.24,English,,0,0,0,,because he came to troy to save\N{\rChinese}因为他来特洛伊去救
+Dialogue: 0,0:38:26.70,0:38:30.60,English,,0,0,0,,the woman right he sees penelope in this woman\N{\rChinese}女子正好看到佩妮洛普在这位女子身旁
+Dialogue: 0,0:38:30.60,0:38:33.98,English,,0,0,0,,he says i came all this way to make sure\N{\rChinese}他说我一路来，只为确保
+Dialogue: 0,0:38:33.98,0:38:37.02,English,,0,0,0,,that helen could be safe of her husband and\N{\rChinese}海伦能安全归于丈夫
+Dialogue: 0,0:38:37.02,0:38:41.08,English,,0,0,0,,now he just recognized that i just killed someone's husband\N{\rChinese}现在他只是意识到我刚刚杀了某人的丈夫
+Dialogue: 0,0:38:41.71,0:38:44.30,English,,0,0,0,,but not only that but\N{\rChinese}但不只是那点，还有
+Dialogue: 0,0:38:47.33,0:38:49.12,English,,0,0,0,,the greeks come and\N{\rChinese}希腊人来了
+Dialogue: 0,0:38:49.12,0:38:52.54,English,,0,0,0,,they take her off to be enslaved\N{\rChinese}他们把她送去做奴隶
+Dialogue: 0,0:38:52.54,0:38:54.80,English,,0,0,0,,so\N{\rChinese}于是
+Dialogue: 0,0:38:54.80,0:38:59.12,English,,0,0,0,,he by witness war has has destroyed\N{\rChinese}他凭借战争见证已被毁灭
+Dialogue: 0,0:38:59.77,0:39:05.68,English,,0,0,0,,every single family in troy he's caused the suffering of thousands\N{\rChinese}每个特洛伊家庭都在他手中遭受千百人的痛苦
+Dialogue: 0,0:39:05.68,0:39:08.74,English,,0,0,0,,and thousands of women and children\N{\rChinese}以及千百名妇女与孩童
+Dialogue: 0,0:39:08.74,0:39:11.42,English,,0,0,0,,and that is what he's doing and he's killing all these women and children that\N{\rChinese}这正是他所做的，他正杀死这些妇女与孩童
+Dialogue: 0,0:39:11.42,0:39:13.42,English,,0,0,0,,he knows that she's the goal goal\N{\rChinese}他知道她是目标目标
+Dialogue: 0,0:39:13.42,0:39:14.82,English,,0,0,0,,goal goal\N{\rChinese}目标目标
+Dialogue: 0,0:39:14.82,0:39:20.54,English,,0,0,0,,goal goal goal goal goal goal\N{\rChinese}目标目标目标目标目标目标
+Dialogue: 0,0:39:20.54,0:39:24.94,English,,0,0,0,,goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal\N{\rChinese}目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标
+Dialogue: 0,0:39:24.94,0:39:27.66,English,,0,0,0,,goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal\N{\rChinese}目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标目标
+Dialogue: 0,0:39:27.66,0:39:32.40,English,,0,0,0,,goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal goal I'm destroying a civilization.\N{\rChinese}我正在毁灭一个文明
+Dialogue: 0,0:39:32.94,0:39:34.16,English,,0,0,0,,This is not a war about family.\N{\rChinese}这不是关于家庭的战争。
+Dialogue: 0,0:39:34.38,0:39:36.28,English,,0,0,0,,This is a war about destroying families.\N{\rChinese}这是一场关于摧毁家庭的战争。
+Dialogue: 0,0:39:36.54,0:39:38.70,English,,0,0,0,,And what legacy am I leaving my son?\N{\rChinese}我给儿子留下了什么遗产？
+Dialogue: 0,0:39:39.80,0:39:45.62,English,,0,0,0,,How will my son feel if he knows how I destroyed families like ours?\N{\rChinese}我的儿子知道我如何摧毁像我们这样的家庭时会怎样感受？
+Dialogue: 0,0:39:46.82,0:39:49.00,English,,0,0,0,,And this causes trauma in him.\N{\rChinese}这让他产生创伤。
+Dialogue: 0,0:39:49.06,0:39:50.54,English,,0,0,0,,It splits his soul.\N{\rChinese}它把他的灵魂撕裂。
+Dialogue: 0,0:39:52.08,0:39:56.10,English,,0,0,0,,And it drives him crazy, basically.\N{\rChinese}基本上，它把他搞疯了。
+Dialogue: 0,0:39:56.38,0:40:00.72,English,,0,0,0,,And that's a conflict, the central conflict in the Odyssey.\N{\rChinese}这就是冲突，奥德赛的核心冲突。
+Dialogue: 0,0:40:02.10,0:40:05.78,English,,0,0,0,,Having done so much evil, how can you go home?\N{\rChinese}做了这么多恶事，怎么回家呢？
+Dialogue: 0,0:40:06.30,0:40:08.68,English,,0,0,0,,How can you repair yourself?\N{\rChinese}你怎么能修复自己？
+Dialogue: 0,0:40:09.04,0:40:11.86,English,,0,0,0,,How can you mend your soul and\N{\rChinese}你怎么能修复灵魂？
+Dialogue: 0,0:40:11.86,0:40:16.14,English,,0,0,0,,repair your worldview so that you can live for your family, okay?\N{\rChinese}修整你的世界观，让你能为家人而活，好吗？

@@ -1,0 +1,1168 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.22,English,,0,0,0,,Good morning.\N{\rChinese}早安。
+Dialogue: 0,0:00:01.38,0:00:06.16,English,,0,0,0,,Today we will do Genghis Khan and the Mongolian conquest.\N{\rChinese}今天我们来讲成吉·汗与蒙古征服。
+Dialogue: 0,0:00:06.97,0:00:08.52,English,,0,0,0,,Now, as you know,\N{\rChinese}现在，正如你所知。
+Dialogue: 0,0:00:08.66,0:00:13.16,English,,0,0,0,,the Mongols have a terrible reputation for their brutality,\N{\rChinese}蒙古人以其残暴闻名，
+Dialogue: 0,0:00:13.50,0:00:17.68,English,,0,0,0,,for their atrocities.\N{\rChinese}以其大屠行闻名。
+Dialogue: 0,0:00:20.84,0:00:23.68,English,,0,0,0,,Today, I want to make the argument to you\N{\rChinese}今天，我想向你们提出这个论点。
+Dialogue: 0,0:00:23.68,0:00:26.66,English,,0,0,0,,that what they did,\N{\rChinese}那就是他们所做的事，
+Dialogue: 0,0:00:26.82,0:00:28.88,English,,0,0,0,,given the circumstances,\N{\rChinese}在当时的情形下，
+Dialogue: 0,0:00:29.36,0:00:33.16,English,,0,0,0,,given the constraints they were under,\N{\rChinese}在他们所处的条件下，
+Dialogue: 0,0:00:33.32,0:00:36.30,English,,0,0,0,,was actually logical and understandable.\N{\rChinese}这其实是合乎逻辑且易于理解的。
+Dialogue: 0,0:00:37.50,0:00:41.02,English,,0,0,0,,So that's the argument I will make to you today.\N{\rChinese}于是我今天要给你们提出的论点就是这样。
+Dialogue: 0,0:00:42.20,0:00:43.94,English,,0,0,0,,All right, so the Mongols.\N{\rChinese}好了，接下来谈谈蒙古人。
+Dialogue: 0,0:00:44.10,0:00:47.66,English,,0,0,0,,The Mongols, as you know, they are a steppe people.\N{\rChinese}蒙古人，正如你所知，是草原民族。
+Dialogue: 0,0:00:47.68,0:00:51.96,English,,0,0,0,,The steppe are divided into the Western steppes\N{\rChinese}草原分为西草原与东草原。
+Dialogue: 0,0:00:51.96,0:00:54.68,English,,0,0,0,,and the Eastern steppes. And\N{\rChinese}and the Easternsteppes. And
+Dialogue: 0,0:00:54.68,0:00:59.08,English,,0,0,0,,they basically go from Hungary\N{\rChinese}他们基本上从欧洲的匈牙走到今天的蒙古。
+Dialogue: 0,0:00:59.08,0:01:04.78,English,,0,0,0,,in Europe all the way to what is modern -day Mongolia.\N{\rChinese}正如我们讨论的那样。
+Dialogue: 0,0:01:05.48,0:01:07.48,English,,0,0,0,,And as we discussed,\N{\rChinese}And as we discussed,
+Dialogue: 0,0:01:08.02,0:01:10.36,English,,0,0,0,,steppe culture is very\N{\rChinese}草原文化非常不同于我们在卢萨蒂亚看到的农业文化
+Dialogue: 0,0:01:10.36,0:01:14.08,English,,0,0,0,,different from agricultural culture\N{\rChinese}草原文化非常不同于我们在卢萨蒂亚看到的农业文化
+Dialogue: 0,0:01:14.08,0:01:17.66,English,,0,0,0,,that we find in the Lusatian.\N{\rChinese}草原文化非常不同于我们在卢萨蒂亚看到的农业文化
+Dialogue: 0,0:01:18.22,0:01:21.18,English,,0,0,0,,continuation continuation continuation\N{\rChinese}继续 继续 继续
+Dialogue: 0,0:01:29.14,0:01:33.38,English,,0,0,0,,continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation!\N{\rChinese}继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续 继续
+Dialogue: 0,0:01:43.48,0:01:49.40,English,,0,0,0,,! Their society,\N{\rChinese}！他们的社会，
+Dialogue: 0,0:01:49.58,0:01:51.84,English,,0,0,0,,their culture is based around violence.\N{\rChinese}他们的文化以暴力为核心。
+Dialogue: 0,0:01:52.38,0:01:57.98,English,,0,0,0,,And there's a lot of competition within these certain groups.\N{\rChinese}这些群体内部竞争激烈。
+Dialogue: 0,0:01:58.74,0:02:02.60,English,,0,0,0,,So, rather than think of these\N{\rChinese}于是，最好把这些人视为一种文化。
+Dialogue: 0,0:02:02.60,0:02:08.40,English,,0,0,0,,people as a nation or a race of people,\N{\rChinese}而不是把他们当作一个民族或一族人。
+Dialogue: 0,0:02:08.54,0:02:10.36,English,,0,0,0,,it's better to think of them as a culture.\N{\rChinese}更好把他们视为一种文化。
+Dialogue: 0,0:02:10.36,0:02:13.72,English,,0,0,0,,And for the longest time, throughout human history,\N{\rChinese}并且在漫长的历史中，
+Dialogue: 0,0:02:14.08,0:02:19.56,English,,0,0,0,,they have been divided among many different tribes.\N{\rChinese}他们被分割成许多不同的部落。
+Dialogue: 0,0:02:20.54,0:02:22.08,English,,0,0,0,,Throughout human history,\N{\rChinese}在漫长的历史中，
+Dialogue: 0,0:02:22.42,0:02:25.80,English,,0,0,0,,the nomadic pastoral people of the steppes have\N{\rChinese}草原的游牧牧民始终与农耕帝国相冲突。
+Dialogue: 0,0:02:25.80,0:02:29.40,English,,0,0,0,,always been in conflict with the agricultural empires.\N{\rChinese}草原的游牧牧民始终与农耕帝国相冲突。
+Dialogue: 0,0:02:30.28,0:02:32.40,English,,0,0,0,,So, in response,\N{\rChinese}于是，作为回应，
+Dialogue: 0,0:02:32.82,0:02:35.64,English,,0,0,0,,the agricultural empires, China and\N{\rChinese}农业帝国，中国和
+Dialogue: 0,0:02:35.64,0:02:39.78,English,,0,0,0,,the Persians, they have built walls and fortifications.\N{\rChinese}波斯人，他们建造了墙和城垛。
+Dialogue: 0,0:02:40.36,0:02:42.74,English,,0,0,0,,To counter their threat.\N{\rChinese}为抵御其威胁。
+Dialogue: 0,0:02:42.96,0:02:44.46,English,,0,0,0,,So, as you can see,\N{\rChinese}如你所见，
+Dialogue: 0,0:02:44.58,0:02:48.14,English,,0,0,0,,the Mongols will eventually come south\N{\rChinese}蒙古人最终会向南迁移
+Dialogue: 0,0:02:48.14,0:02:49.86,English,,0,0,0,,and invade most of China.\N{\rChinese}并入侵中国大部位
+Dialogue: 0,0:02:50.46,0:02:54.50,English,,0,0,0,,And historically, the response has been the Great Wall of China.\N{\rChinese}于是历史上回应便是万里长城
+Dialogue: 0,0:02:55.88,0:02:58.06,English,,0,0,0,,But also, in Central Asia,\N{\rChinese}但在中亚，草原人也同样是威胁。
+Dialogue: 0,0:02:58.32,0:03:00.80,English,,0,0,0,,the steppe people have been a threat as well.\N{\rChinese}他们也建造了城垛以作回应。
+Dialogue: 0,0:03:01.02,0:03:05.10,English,,0,0,0,,And they have built fortified cities as a response.\N{\rChinese}And they have built fortified cities as a response.
+Dialogue: 0,0:03:06.40,0:03:10.34,English,,0,0,0,,So, even though the steppes are not the only people who are in conflict with the agricultural empires,\N{\rChinese}于是，即使草原人不是唯一与农耕帝国冲突的民族，
+Dialogue: 0,0:03:10.36,0:03:14.84,English,,0,0,0,,the steppe people and their agricultural empires have always been in conflict,\N{\rChinese}草原人和他们的农耕帝国始终相互冲突，
+Dialogue: 0,0:03:15.10,0:03:17.56,English,,0,0,0,,the Mongols have had a unique reputation\N{\rChinese}蒙古人拥有独特的声誉
+Dialogue: 0,0:03:17.56,0:03:21.68,English,,0,0,0,,in Western history as the most brutal,\N{\rChinese}在西方史上被认为最残暴的
+Dialogue: 0,0:03:21.86,0:03:25.68,English,,0,0,0,,as the most violent.\N{\rChinese}被认为最暴戾的
+Dialogue: 0,0:03:26.02,0:03:28.10,English,,0,0,0,,So, the question we're looking at today is,\N{\rChinese}于是，今天我们要探讨的问题是
+Dialogue: 0,0:03:28.34,0:03:33.16,English,,0,0,0,,why were the Mongols unique in their brutality? So,\N{\rChinese}为什么蒙古人以其残暴独具特色？于是，
+Dialogue: 0,0:03:33.42,0:03:38.86,English,,0,0,0,,there are lots of things\N{\rChinese}有许多事被说成关于蒙古人的事。
+Dialogue: 0,0:03:38.86,0:03:40.34,English,,0,0,0,,that were said about the Mongols.\N{\rChinese}这些事被说成关于蒙古人的事。
+Dialogue: 0,0:03:40.34,0:03:43.98,English,,0,0,0,,There are lots of things that were said about the Mongols that we now know today are not true.\N{\rChinese}有许多事被说成关于蒙古人的事，而我们现在知道并非如此。
+Dialogue: 0,0:03:44.12,0:03:46.20,English,,0,0,0,,So, for example, back in the day,\N{\rChinese}于是，例如，回到那时，
+Dialogue: 0,0:03:46.26,0:03:49.20,English,,0,0,0,,they had a reputation for cannibalism.\N{\rChinese}他们有吃人的名声。
+Dialogue: 0,0:03:49.76,0:03:52.36,English,,0,0,0,,They ate their opponents.\N{\rChinese}他们吞食对手。
+Dialogue: 0,0:03:52.60,0:03:55.52,English,,0,0,0,,They ate their enemies. And we know that's not true today.\N{\rChinese}他们吞食敌人。如今我们知道这不是真的。
+Dialogue: 0,0:03:56.09,0:04:00.22,English,,0,0,0,,They also had a reputation for being devious.\N{\rChinese}他们也以诡计著称。
+Dialogue: 0,0:04:00.56,0:04:03.52,English,,0,0,0,,So, for example, when they approached an enemy,\N{\rChinese}于是，例如，当他们逼近敌人时，
+Dialogue: 0,0:04:03.74,0:04:06.16,English,,0,0,0,,they would hold the cross.\N{\rChinese}他们举起十字架。
+Dialogue: 0,0:04:06.34,0:04:08.16,English,,0,0,0,,The cross is a symbol of Christianity.\N{\rChinese}十字架是基督教的象征。
+Dialogue: 0,0:04:08.16,0:04:12.48,English,,0,0,0,,So, the Christian enemies would see this and think that they are allies.\N{\rChinese}于是，基督教的敌人看到这一幕后会以为盟友之想。
+Dialogue: 0,0:04:13.66,0:04:16.64,English,,0,0,0,,And only when they discovered that\N{\rChinese}而当他们发现其实是蒙古人时，已是大晚。
+Dialogue: 0,0:04:16.64,0:04:21.38,English,,0,0,0,,these are actually Mongols, by then it was much too late.\N{\rChinese}此时已是太迟了。
+Dialogue: 0,0:04:21.64,0:04:26.68,English,,0,0,0,,So, the Mongols had a reputation for being extremely devious.\N{\rChinese}于是，蒙古人以极其狡猍著称。
+Dialogue: 0,0:04:27.66,0:04:31.00,English,,0,0,0,,They had a reputation for wanton brutality.\N{\rChinese}他们以无情残暴闻名。
+Dialogue: 0,0:04:31.34,0:04:35.50,English,,0,0,0,,They would destroy entire cities and kill all the people.\N{\rChinese}他们会摧毁整座城池，杀光所有人。
+Dialogue: 0,0:04:37.86,0:04:42.96,English,,0,0,0,,Previously, historians believed they killed about 65 million people.\N{\rChinese}之前，历史学家认为他们杀死了约6500万人。
+Dialogue: 0,0:04:44.04,0:04:45.94,English,,0,0,0,,Today, that figure is disputed.\N{\rChinese}如今，这个数字已被争议。
+Dialogue: 0,0:04:46.04,0:04:48.78,English,,0,0,0,,But if that were the case, then\N{\rChinese}但如果真是这样的话，
+Dialogue: 0,0:04:48.78,0:04:51.40,English,,0,0,0,,the Mongols killed more people than any other\N{\rChinese}蒙古人杀死的人数比20世纪以前的任何政权都多。
+Dialogue: 0,0:04:51.40,0:04:55.12,English,,0,0,0,,regime in human history before the 20th century.\N{\rChinese}丹尼尔斯·可汗被认为是人类历史上最伟大的征服者。
+Dialogue: 0,0:04:57.66,0:05:02.86,English,,0,0,0,,Daniels Khan is considered the greatest conqueror in human history.\N{\rChinese}Daniels Khan is considered the greatest conqueror in human history.
+Dialogue: 0,0:05:03.10,0:05:05.48,English,,0,0,0,,So, the statistics are very clear.\N{\rChinese}于是，统计数据非常清晰。
+Dialogue: 0,0:05:05.48,0:05:07.86,English,,0,0,0,,The statistic that surprised everyone is that\N{\rChinese}让大家惊讶的统计是：
+Dialogue: 0,0:05:07.86,0:05:09.60,English,,0,0,0,,one out of 200\N{\rChinese}每200人中就有1人。
+Dialogue: 0,0:05:09.60,0:05:14.74,English,,0,0,0,,males today are direct\N{\rChinese}今天的男性是直接的
+Dialogue: 0,0:05:14.74,0:05:18.16,English,,0,0,0,,descendants of Daniels Khan. So, that's 60 million people.\N{\rChinese}后代是丹尼尔斯·可汗的直系后裔。所以，正好有六千万人。
+Dialogue: 0,0:05:18.34,0:05:23.74,English,,0,0,0,,60 million males in the world are direct descendants of Daniels Khan.\N{\rChinese}六千万名男性在世界上是丹尼尔斯·可汗的直系后裔。
+Dialogue: 0,0:05:24.28,0:05:26.78,English,,0,0,0,,So, that is the reputation that\N{\rChinese}于是，这就是蒙古人在大部分历史中所拥有的声誉。
+Dialogue: 0,0:05:26.78,0:05:29.42,English,,0,0,0,,the Mongols had for most of history.\N{\rChinese}而我今天想给你们展示的就是……
+Dialogue: 0,0:05:29.82,0:05:32.12,English,,0,0,0,,And what I want to show you today is that\N{\rChinese}And what I want to show you today is that
+Dialogue: 0,0:05:32.12,0:05:35.10,English,,0,0,0,,the Mongols are not unique among the steppe people.\N{\rChinese}蒙古人并非草原民族中唯一的存在。
+Dialogue: 0,0:05:35.48,0:05:37.40,English,,0,0,0,,And the way they behaved,\N{\rChinese}而他们的行动方式，
+Dialogue: 0,0:05:37.58,0:05:41.66,English,,0,0,0,,there was a strategy,\N{\rChinese}其中有一套策略。
+Dialogue: 0,0:05:41.98,0:05:45.02,English,,0,0,0,,there was a logic to the way they behaved,\N{\rChinese}有一种逻辑在他们的行动方式中，
+Dialogue: 0,0:05:45.18,0:05:49.04,English,,0,0,0,,given the circumstances and constraints they found themselves under.\N{\rChinese}在他们所处的环境与约束下，形成了这种逻辑。
+Dialogue: 0,0:05:50.62,0:05:52.68,English,,0,0,0,,So, as you know in this class,\N{\rChinese}所以，正如你们在本课中所知。
+Dialogue: 0,0:05:53.58,0:05:57.84,English,,0,0,0,,the steppe people were the greatest conquerors in human history.\N{\rChinese}草原民族是人类历史上最伟大的征服者。
+Dialogue: 0,0:05:58.56,0:06:00.72,English,,0,0,0,,So, let's start with the Amnaya, who\N{\rChinese}于是，让我们从阿姆纳雅开始，他们是……
+Dialogue: 0,0:06:00.72,0:06:04.48,English,,0,0,0,,were based in the Ukraine area.\N{\rChinese}他们位于乌克兰地区。
+Dialogue: 0,0:06:04.48,0:06:06.66,English,,0,0,0,,And we know the Amnaya, who\N{\rChinese}我们知道阿姆纳雅，他们是……
+Dialogue: 0,0:06:06.66,0:06:11.14,English,,0,0,0,,are also referred to as the Proto -Indo -Europeans, as well as the Aryans.\N{\rChinese}他们也被称为原始印欧人以及雅利安人。
+Dialogue: 0,0:06:11.70,0:06:16.16,English,,0,0,0,,They spread throughout most of the Western world.\N{\rChinese}他们在西方世界大部分地区传播。
+Dialogue: 0,0:06:16.32,0:06:19.86,English,,0,0,0,,So, they went to Europe. And as you know,\N{\rChinese}于是，他们来到欧洲。正如你所知，他们基本上取代了欧洲全部男性人口。
+Dialogue: 0,0:06:20.08,0:06:24.62,English,,0,0,0,,they basically replaced the entire male population of Europe.\N{\rChinese}他们与当地女子通婚，形成了欧洲文化。
+Dialogue: 0,0:06:25.00,0:06:30.66,English,,0,0,0,,And they intermarried with the local women to create European culture.\N{\rChinese}And they intermarried with the local women to create European culture.
+Dialogue: 0,0:06:30.66,0:06:33.74,English,,0,0,0,,They also went south and\N{\rChinese}他们也向南进发并且征服了伊朗和印度。
+Dialogue: 0,0:06:33.74,0:06:37.44,English,,0,0,0,,conquered Iran and India.\N{\rChinese}随后他们又向东部草原进军。
+Dialogue: 0,0:06:37.60,0:06:42.68,English,,0,0,0,,And then they went over to the eastern steppes as well.\N{\rChinese}And then they went over tothe eastern steppes as well.
+Dialogue: 0,0:06:42.86,0:06:45.40,English,,0,0,0,,So, it's really important for us to remember,\N{\rChinese}于是，记住这点很重要，
+Dialogue: 0,0:06:45.80,0:06:48.70,English,,0,0,0,,and I know this is hard, but\N{\rChinese}我知道这很难，但
+Dialogue: 0,0:06:48.70,0:06:50.08,English,,0,0,0,,the Mongol people,\N{\rChinese}蒙古人，
+Dialogue: 0,0:06:50.22,0:06:52.78,English,,0,0,0,,they are culturally more\N{\rChinese}他们在文化上更像阿姆纳雅，而非中国人。
+Dialogue: 0,0:06:52.78,0:06:57.88,English,,0,0,0,,similar to the Amnaya\N{\rChinese}他们在文化上更像阿姆纳雅，而非中国人。
+Dialogue: 0,0:06:57.88,0:06:59.32,English,,0,0,0,,than they are to the Chinese.\N{\rChinese}他们在文化上更像阿姆纳雅，而非中国人。
+Dialogue: 0,0:06:59.32,0:07:00.66,English,,0,0,0,,Even though genetically,\N{\rChinese}即使基因上，蒙古人可能更像中国人。
+Dialogue: 0,0:07:01.14,0:07:03.46,English,,0,0,0,,the Mongols may be more similar to the Chinese.\N{\rChinese}在这一课里，我们聚焦文化价值而非基因亲缘。
+Dialogue: 0,0:07:03.68,0:07:08.74,English,,0,0,0,,In this class, we focus on cultural values rather than genetic affinity.\N{\rChinese}In this class, we focus on culturalvalues rather than genetic affinity.
+Dialogue: 0,0:07:11.82,0:07:14.26,English,,0,0,0,,So, over time,\N{\rChinese}于是，随着时间的推移，
+Dialogue: 0,0:07:14.34,0:07:16.76,English,,0,0,0,,what will happen to the Western steppes is\N{\rChinese}西部草原将会怎样呢？
+Dialogue: 0,0:07:16.76,0:07:19.38,English,,0,0,0,,it will slowly acclimatize itself\N{\rChinese}它会慢慢地适应下来。
+Dialogue: 0,0:07:19.38,0:07:23.04,English,,0,0,0,,to the surrounding agricultural empires.\N{\rChinese}至周边的农耕帝国。
+Dialogue: 0,0:07:23.30,0:07:24.90,English,,0,0,0,,And slowly,\N{\rChinese}而且，慢慢地，
+Dialogue: 0,0:07:25.14,0:07:29.30,English,,0,0,0,,the Western steppes will become integrated into the Western world.\N{\rChinese}西部草原将融入西方世界。
+Dialogue: 0,0:07:29.30,0:07:34.30,English,,0,0,0,,And into the agricultural neighbors.\N{\rChinese}并进入农耕邻国。
+Dialogue: 0,0:07:34.62,0:07:38.80,English,,0,0,0,,So, the example here is Scythia. So, Scythia is slowly...\N{\rChinese}于是，这里以色西提亚为例。于是，色西提亚正在慢慢地……
+Dialogue: 0,0:07:39.60,0:07:41.96,English,,0,0,0,,It's an empire. It's a steppe empire.\N{\rChinese}它是一个帝国。它是一个草原帝国。
+Dialogue: 0,0:07:42.14,0:07:47.76,English,,0,0,0,,But slowly, it's about to integrate itself into what is modern -day Eurasia.\N{\rChinese}但慢慢地，它正准备融入现代的欧亚大陆。
+Dialogue: 0,0:07:49.04,0:07:51.54,English,,0,0,0,,From the Scythians,\N{\rChinese}从色西提亚人起，
+Dialogue: 0,0:07:51.70,0:07:54.86,English,,0,0,0,,you will have arise something called the Median Empire,\N{\rChinese}你将看到一个被称为米底帝国的东西出现。
+Dialogue: 0,0:07:55.14,0:07:57.70,English,,0,0,0,,which will then give way to the Persian Empire.\N{\rChinese}这将随后让位给波斯帝国。
+Dialogue: 0,0:07:58.64,0:08:01.70,English,,0,0,0,,Okay. Over in the Eastern steppes,\N{\rChinese}好了。就在东部草原上，
+Dialogue: 0,0:08:01.70,0:08:06.34,English,,0,0,0,,the steppe people come into conflict with the Han Dynasty.\N{\rChinese}草原人和汉朝发生冲突。
+Dialogue: 0,0:08:06.78,0:08:09.92,English,,0,0,0,,And the Han Dynasty, as we know from last class,\N{\rChinese}而汉朝，正如上节所说，是真正的汉族朝代。
+Dialogue: 0,0:08:10.10,0:08:14.28,English,,0,0,0,,is really the last ethnically Chinese dynasty. And\N{\rChinese}而且他们已准备好去…
+Dialogue: 0,0:08:14.28,0:08:18.20,English,,0,0,0,,they are intent on a\N{\rChinese}they are intenton a
+Dialogue: 0,0:08:18.20,0:08:21.12,English,,0,0,0,,policy of eradication against the steppe people.\N{\rChinese}对草原人的消灭政策。
+Dialogue: 0,0:08:21.30,0:08:24.42,English,,0,0,0,,So, they come into conflict with the steppe people, who are now called the Xiongnu.\N{\rChinese}于是他们与草原人发生冲突，草原人现在被称为匮奴。
+Dialogue: 0,0:08:25.16,0:08:29.28,English,,0,0,0,,And what this conflict will do is drive these people...\N{\rChinese}这场冲突将把这些人推向……
+Dialogue: 0,0:08:29.80,0:08:31.48,English,,0,0,0,,West. Okay.\N{\rChinese}西方。好的。
+Dialogue: 0,0:08:31.90,0:08:35.14,English,,0,0,0,,And this is interesting for us because when they go west,\N{\rChinese}这点对我们很有趣，因为他们向西走时，
+Dialogue: 0,0:08:35.38,0:08:38.56,English,,0,0,0,,they will splinter off into different groups.\N{\rChinese}他们会分裂成不同的团体。
+Dialogue: 0,0:08:38.70,0:08:42.10,English,,0,0,0,,When they go all the way to Europe, they will be known as the Huns.\N{\rChinese}当他们一路走到欧洲时，就会被称为匮奴。
+Dialogue: 0,0:08:42.10,0:08:43.54,English,,0,0,0,,You may know Attila the Hun.\N{\rChinese}你可能知道匮奴的阿提拉。
+Dialogue: 0,0:08:43.70,0:08:46.82,English,,0,0,0,,Well, Attila the Hun is what was the leader of these people.\N{\rChinese}阿提拉就是这群人的领袖。
+Dialogue: 0,0:08:46.98,0:08:51.30,English,,0,0,0,,The Huns will drive the Western steppe people,\N{\rChinese}匮奴将把西部草原人——哥特人——推入罗马帝国。
+Dialogue: 0,0:08:51.42,0:08:54.14,English,,0,0,0,,meaning the Goths, into the Roman Empire,\N{\rChinese}这导致了与罗马帝国的冲突。
+Dialogue: 0,0:08:54.34,0:08:56.26,English,,0,0,0,,causing conflict with the Roman Empire.\N{\rChinese}causing conflict with the Roman Empire.
+Dialogue: 0,0:08:56.44,0:09:01.10,English,,0,0,0,,Okay. And the Goths will become the foundation of modern day Europeans.\N{\rChinese}好的。哥特人将成为现代欧洲人的基础。
+Dialogue: 0,0:09:03.80,0:09:06.40,English,,0,0,0,,Okay. So,\N{\rChinese}好的。所以，
+Dialogue: 0,0:09:06.48,0:09:09.42,English,,0,0,0,,this is the Hun Empire at its peak when\N{\rChinese}这就是匮奴帝国在鼎盛时期。
+Dialogue: 0,0:09:09.42,0:09:12.46,English,,0,0,0,,it's in conflict with the Roman Empire.\N{\rChinese}与罗马帝国冲突。
+Dialogue: 0,0:09:14.34,0:09:16.52,English,,0,0,0,,The steppe people, the Huns,\N{\rChinese}草原人，匮奴，
+Dialogue: 0,0:09:16.52,0:09:20.28,English,,0,0,0,,will also give rise to a people called the Gorturk Empire.\N{\rChinese}又将孕育一民族——哥特土耳克帝国。
+Dialogue: 0,0:09:20.76,0:09:24.94,English,,0,0,0,,Okay. And they will sweep down and they will become the Seljuk Turks.\N{\rChinese}好的。他们会一路南下，成为塞尔柱土耳克人。
+Dialogue: 0,0:09:24.94,0:09:28.38,English,,0,0,0,,Which will take over Mesopotamia.\N{\rChinese}随后他们将占领美索不达。
+Dialogue: 0,0:09:28.54,0:09:33.62,English,,0,0,0,,And then eventually you will have emerged the Ottoman Empire from these people.\N{\rChinese}最终从这些人中诞生了奥斯曼帝国。
+Dialogue: 0,0:09:33.96,0:09:36.82,English,,0,0,0,,Alright. So, in other words,\N{\rChinese}好的。换句话说，
+Dialogue: 0,0:09:36.92,0:09:40.12,English,,0,0,0,,the Mongols are just the\N{\rChinese}蒙古人就是
+Dialogue: 0,0:09:40.12,0:09:44.16,English,,0,0,0,,most successful iteration of the steppe people\N{\rChinese}草原人的最成功的迭代
+Dialogue: 0,0:09:44.16,0:09:49.38,English,,0,0,0,,and their conflicts with the agricultural empires. So,\N{\rChinese}以及它们与农耕帝国的冲突。于是，
+Dialogue: 0,0:09:49.44,0:09:54.92,English,,0,0,0,,the Mongol Empire is the second largest empire ever in human history.\N{\rChinese}蒙古帝国是人类历史上第二大帝国。
+Dialogue: 0,0:09:54.92,0:09:59.76,English,,0,0,0,,Only the British Empire had more land.\N{\rChinese}仅有大英帝国更大。
+Dialogue: 0,0:10:00.06,0:10:04.08,English,,0,0,0,,The Mongols were the largest contiguous empire,\N{\rChinese}蒙古人是最大的连续帝国，
+Dialogue: 0,0:10:04.44,0:10:07.76,English,,0,0,0,,meaning it was all interconnected together.\N{\rChinese}也就是说它们全部相互连通。
+Dialogue: 0,0:10:09.00,0:10:14.18,English,,0,0,0,,Alright. At its height,\N{\rChinese}好了。它的鼎盛时期，
+Dialogue: 0,0:10:14.38,0:10:17.42,English,,0,0,0,,the Mongol Empire extended from basically what is\N{\rChinese}蒙古帝国从基本上从今天的俄罗斯延伸到中国。
+Dialogue: 0,0:10:17.42,0:10:21.94,English,,0,0,0,,modern day Russia all the way to China.\N{\rChinese}好的。继续继续继续。
+Dialogue: 0,0:10:22.22,0:10:23.50,English,,0,0,0,,Okay. continuation continuation continuation\N{\rChinese}继续继续继续。
+Dialogue: 0,0:10:29.52,0:10:34.78,English,,0,0,0,,continuation continuation continuation continuation continuation\N{\rChinese}继续 继续 继续 继续 继续
+Dialogue: 0,0:10:38.02,0:10:41.52,English,,0,0,0,,continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation\N{\rChinese}继续 继续 继续 继续 继续 继续 继续继续 继续 继续 继续 继续 继续 继续
+Dialogue: 0,0:10:54.56,0:10:56.24,English,,0,0,0,,empires. And\N{\rChinese}帝国。并且
+Dialogue: 0,0:10:56.24,0:10:59.68,English,,0,0,0,,these four major empires themselves will assimilate\N{\rChinese}这四大帝国本身也会被同化
+Dialogue: 0,0:10:59.68,0:11:02.66,English,,0,0,0,,and integrate into the local culture.\N{\rChinese}并融入当地文化。
+Dialogue: 0,0:11:03.16,0:11:08.98,English,,0,0,0,,The Golden Horde will eventually give rise to the Russian Empire.\N{\rChinese}金色部落最终孕育俄罗斯帝国。
+Dialogue: 0,0:11:11.00,0:11:15.40,English,,0,0,0,,The Yuan Dynasty will eventually fall\N{\rChinese}元朝最终会崩溃，并孕育明帝国。
+Dialogue: 0,0:11:15.40,0:11:17.48,English,,0,0,0,,and give rise to the Ming Empire.\N{\rChinese}and give rise tothe Ming Empire.
+Dialogue: 0,0:11:17.82,0:11:21.56,English,,0,0,0,,So even though they conquer a lot of territory,\N{\rChinese}所以即使他们占领大量领土，
+Dialogue: 0,0:11:22.14,0:11:25.00,English,,0,0,0,,ultimately their empire is not sustainable.\N{\rChinese}最终他们的帝国并不具可持续性。
+Dialogue: 0,0:11:25.32,0:11:28.26,English,,0,0,0,,And later on I will explain to you why it was not sustainable\N{\rChinese}随后我会解释它为何不具可持续性
+Dialogue: 0,0:11:28.26,0:11:30.88,English,,0,0,0,,and why ultimately the Mongol Empire declined.\N{\rChinese}以及为何最终蒙古帝国衰落
+Dialogue: 0,0:11:33.60,0:11:36.76,English,,0,0,0,,But while it was still in place,\N{\rChinese}但在它仍然存在时，
+Dialogue: 0,0:11:36.88,0:11:39.58,English,,0,0,0,,it created something called the Pax Monogalica.\N{\rChinese}它创造了一个叫做“Pax Monogalica”的东西。
+Dialogue: 0,0:11:39.80,0:11:41.62,English,,0,0,0,,This is Latin for the Mongol peace.\N{\rChinese}这句拉丁语是蒙古和平的意思。
+Dialogue: 0,0:11:42.06,0:11:43.68,English,,0,0,0,,You've heard of the Pax Romana.\N{\rChinese}你应该听说过《罗马和平》吧。
+Dialogue: 0,0:11:43.86,0:11:46.40,English,,0,0,0,,We are now living in the Pax Americana.\N{\rChinese}我们现在正处于美洲和平时期。
+Dialogue: 0,0:11:46.58,0:11:51.04,English,,0,0,0,,So the Mongols created something called the Pax Monogalica.\N{\rChinese}于是蒙古人创造了一个叫做“Pax Monogalica”的东西。
+Dialogue: 0,0:11:51.18,0:11:54.60,English,,0,0,0,,Which just meant they believed in globalization.\N{\rChinese}这意味着他们相信全球化。
+Dialogue: 0,0:11:55.02,0:11:58.48,English,,0,0,0,,They wanted their conquered nations to trade with each other\N{\rChinese}他们希望被征服的各国互相贸易。
+Dialogue: 0,0:11:58.48,0:12:02.54,English,,0,0,0,,because they could collect taxes on the trade.\N{\rChinese}因为这样他们就能从贸易中征税。
+Dialogue: 0,0:12:02.68,0:12:04.78,English,,0,0,0,,And they encouraged people, especially merchants,\N{\rChinese}他们鼓励人们，尤其是商人，去跨越帝国旅行
+Dialogue: 0,0:12:05.14,0:12:08.36,English,,0,0,0,,to travel across their empire\N{\rChinese}去跨越帝国旅行
+Dialogue: 0,0:12:08.36,0:12:10.78,English,,0,0,0,,and trade with each other.\N{\rChinese}去跨越帝国旅行
+Dialogue: 0,0:12:11.02,0:12:12.66,English,,0,0,0,,And during this time,\N{\rChinese}在此期间，
+Dialogue: 0,0:12:12.82,0:12:18.42,English,,0,0,0,,a very famous Italian named Marco Polo had a chance to visit the world.\N{\rChinese}一位非常著名的意大利人马可·波罗有机会游历世界。
+Dialogue: 0,0:12:18.60,0:12:20.64,English,,0,0,0,,And his travels, especially\N{\rChinese}他的旅行，尤其是
+Dialogue: 0,0:12:22.48,0:12:25.96,English,,0,0,0,,those to China, captured the imagination of Europeans.\N{\rChinese}那些前往中国的行程，俘获了欧洲人的想象。
+Dialogue: 0,0:12:26.26,0:12:28.40,English,,0,0,0,,This is really the first time that China\N{\rChinese}这真是中国
+Dialogue: 0,0:12:29.02,0:12:30.96,English,,0,0,0,,figured into the European imagination.\N{\rChinese}首次进入欧洲人的想象。
+Dialogue: 0,0:12:31.58,0:12:35.92,English,,0,0,0,,So this is a map of Marco Polo's travels.\N{\rChinese}于是这是一张马可·波罗行程的地图。
+Dialogue: 0,0:12:37.76,0:12:39.36,English,,0,0,0,,And as you can see,\N{\rChinese}正如你所见，
+Dialogue: 0,0:12:39.44,0:12:40.52,English,,0,0,0,,he basically traveled all\N{\rChinese}他基本上走遍了全世界
+Dialogue: 0,0:12:40.52,0:12:41.64,English,,0,0,0,,across the\N{\rChinese}跨越各地
+Dialogue: 0,0:12:41.64,0:12:46.80,English,,0,0,0,,Pax Monogalica.\N{\rChinese}单一世界和平。
+Dialogue: 0,0:12:47.60,0:12:50.76,English,,0,0,0,,The problem though is that when you integrate the world like this,\N{\rChinese}问题在于，当你把世界整合成这样时，
+Dialogue: 0,0:12:51.18,0:12:54.42,English,,0,0,0,,you also give rise to disease. So\N{\rChinese}你也会引发疾病。所以
+Dialogue: 0,0:12:54.42,0:13:00.28,English,,0,0,0,,the Black Death traveled all across the world.\N{\rChinese}黑死病遍布全球。
+Dialogue: 0,0:13:00.44,0:13:03.92,English,,0,0,0,,So we believe the Black Death originated in Central\N{\rChinese}于是我们认为黑死病起源于中亚
+Dialogue: 0,0:13:03.92,0:13:07.90,English,,0,0,0,,Asia in a place we call Kyrgyzstan today.\N{\rChinese}在今天我们称之为吉尔吉斯斯坦的地方。
+Dialogue: 0,0:13:08.18,0:13:13.08,English,,0,0,0,,And it traveled all over the Mongol Empire.\N{\rChinese}它在蒙古帝国遍布各地。
+Dialogue: 0,0:13:13.56,0:13:15.84,English,,0,0,0,,It made its way to Europe and it devastated Europe.\N{\rChinese}它传至欧洲并给欧洲带来大灾。
+Dialogue: 0,0:13:16.00,0:13:21.16,English,,0,0,0,,It killed anywhere between a third to half of the entire population of Europe.\N{\rChinese}它在欧洲造成了三分之一到一半的人口死亡。
+Dialogue: 0,0:13:22.38,0:13:27.60,English,,0,0,0,,It traveled also to the former Islamic Empire\N{\rChinese}它也传到了前伊斯兰帝国。
+Dialogue: 0,0:13:27.60,0:13:28.92,English,,0,0,0,,and it traveled to China.\N{\rChinese}它又传到了中国。
+Dialogue: 0,0:13:29.04,0:13:30.30,English,,0,0,0,,But it was not as devastating.\N{\rChinese}但它并没有那么致命。
+Dialogue: 0,0:13:30.88,0:13:32.48,English,,0,0,0,,It's very important for us to understand.\N{\rChinese}这点对我们来说非常重要。
+Dialogue: 0,0:13:32.74,0:13:35.20,English,,0,0,0,,The Black Death was devastating for Europe.\N{\rChinese}黑死病在欧洲造成了大灾。
+Dialogue: 0,0:13:35.44,0:13:39.58,English,,0,0,0,,But it was not that devastating for China and the Islamic Empire.\N{\rChinese}但它对中国和伊斯兰帝国并没有那么致命。
+Dialogue: 0,0:13:39.74,0:13:42.42,English,,0,0,0,,And the reason why is sanitation and hygiene.\N{\rChinese}其原因在于卫生与清洁。
+Dialogue: 0,0:13:42.98,0:13:45.26,English,,0,0,0,,So in China and\N{\rChinese}于是，在中国和
+Dialogue: 0,0:13:45.26,0:13:46.90,English,,0,0,0,,in the former Islamic Empire,\N{\rChinese}在前伊斯兰帝国，
+Dialogue: 0,0:13:47.24,0:13:51.16,English,,0,0,0,,their cities were pretty well organized, pretty well -organized.\N{\rChinese}他们的城市相当有序，颇为有序。
+Dialogue: 0,0:13:51.16,0:13:52.44,English,,0,0,0,,And the reason why is because of the geography, pretty civilized.\N{\rChinese}其原因在于地理，颇为文明。
+Dialogue: 0,0:13:52.70,0:13:54.00,English,,0,0,0,,But in Europe,\N{\rChinese}但在欧洲，
+Dialogue: 0,0:13:54.28,0:13:58.12,English,,0,0,0,,their streets were literally filled with manure.\N{\rChinese}他们的街道上堆满了粪便。
+Dialogue: 0,0:13:58.34,0:14:00.78,English,,0,0,0,,They had horses. They didn't have sanitation.\N{\rChinese}他们有马，却没有卫生设施。
+Dialogue: 0,0:14:01.22,0:14:04.62,English,,0,0,0,,People just threw shit onto the streets.\N{\rChinese}人们把粪便随便扔在街上。
+Dialogue: 0,0:14:04.76,0:14:08.12,English,,0,0,0,,And so when you walk the streets, they were literally covered with shit.\N{\rChinese}于是走在街上时，街面上满是粪便。
+Dialogue: 0,0:14:08.28,0:14:11.82,English,,0,0,0,,And in that sort of environment, disease is spread very rapidly.\N{\rChinese}在这种环境里，疾病传播得很快。
+Dialogue: 0,0:14:12.60,0:14:15.18,English,,0,0,0,,But the Black Death is important for us also because\N{\rChinese}但黑死病对我们也很重要，因为
+Dialogue: 0,0:14:15.18,0:14:17.60,English,,0,0,0,,it will give rise to the Renaissance,\N{\rChinese}它将催生文艺复兴，
+Dialogue: 0,0:14:18.06,0:14:21.14,English,,0,0,0,,which we'll do next week. So about the Black Death, historians will talk about it.\N{\rChinese}我们下周会再说。
+Dialogue: 0,0:14:21.16,0:14:22.78,English,,0,0,0,,But I believe the Renaissance could not have happened.\N{\rChinese}但我认为文艺复兴若没有它就不会发生。
+Dialogue: 0,0:14:23.30,0:14:27.20,English,,0,0,0,,The Black Death basically meant a reset of European society\N{\rChinese}黑死病基本上是欧洲社会的重置。
+Dialogue: 0,0:14:27.20,0:14:31.66,English,,0,0,0,,and it allowed massive innovation in Europe.\N{\rChinese}它让欧洲出现大规模创新。
+Dialogue: 0,0:14:33.98,0:14:35.70,English,,0,0,0,,So as you can see,\N{\rChinese}于是你可以看到，
+Dialogue: 0,0:14:35.84,0:14:40.18,English,,0,0,0,,the Black Death was extremely devastating for Europe.\N{\rChinese}黑死病对欧洲极其致命。
+Dialogue: 0,0:14:45.34,0:14:50.00,English,,0,0,0,,After the Mongols will come another great conqueror called Timur the Lame,\N{\rChinese}随后，蒙古人又出现了另一位伟大征服者，称为跛脚铁木人。
+Dialogue: 0,0:14:50.06,0:14:53.68,English,,0,0,0,,Timur Lame. And he will be the last great conqueror from the steppes.\N{\rChinese}铁木人。随后他将成为来自草原的最后一位伟大征服者。
+Dialogue: 0,0:14:53.86,0:14:55.68,English,,0,0,0,,After Timur Lame,\N{\rChinese}铁木人之后，
+Dialogue: 0,0:14:55.74,0:15:00.22,English,,0,0,0,,the agricultural empires will develop the technology to repel the steppe invaders,\N{\rChinese}农业帝国将发展技术以抵御草原入侵者。
+Dialogue: 0,0:15:00.32,0:15:02.00,English,,0,0,0,,mainly gunpowder.\N{\rChinese}主要是火药。
+Dialogue: 0,0:15:02.34,0:15:05.14,English,,0,0,0,,The technology and\N{\rChinese}技术与
+Dialogue: 0,0:15:05.14,0:15:08.78,English,,0,0,0,,mass armies will overwhelm the steppe people.\N{\rChinese}大规模军队将压倒草原人。
+Dialogue: 0,0:15:08.98,0:15:12.52,English,,0,0,0,,And eventually, over time, the agricultural nations,\N{\rChinese}随后，随着时间推移，农耕国家，主要是俄罗斯，将开始殖民并征服草原。
+Dialogue: 0,0:15:12.74,0:15:16.28,English,,0,0,0,,mainly Russia, will start to colonize and conquer the steppes.\N{\rChinese}全部好了。
+Dialogue: 0,0:15:16.96,0:15:20.16,English,,0,0,0,,All right. Okay.\N{\rChinese}All right. Okay.
+Dialogue: 0,0:15:20.64,0:15:22.94,English,,0,0,0,,So let's look at today at Genghis Khan, who\N{\rChinese}于是我们来看看今天的成吉斯·汗，他是蒙古帝国的创始人。
+Dialogue: 0,0:15:22.94,0:15:27.52,English,,0,0,0,,is the founder of the Mongol Empire.\N{\rChinese}成吉斯·汗将会，
+Dialogue: 0,0:15:32.90,0:15:35.08,English,,0,0,0,,Genghis Khan will,\N{\rChinese}Genghis Khan will,
+Dialogue: 0,0:15:35.26,0:15:39.68,English,,0,0,0,,first of all, unite the warring tribes of the Mongol people.\N{\rChinese}首先，统一蒙古人的战乱部落。
+Dialogue: 0,0:15:39.80,0:15:41.30,English,,0,0,0,,He'll turn them into a confederation.\N{\rChinese}他会把他们变成一个联盟。
+Dialogue: 0,0:15:41.62,0:15:45.32,English,,0,0,0,,And then the confederation will aim to conquer China.\N{\rChinese}随后这个联盟将着手去征服中国。
+Dialogue: 0,0:15:45.50,0:15:49.54,English,,0,0,0,,But then it will come into conflict with the Central Asian nations.\N{\rChinese}但随后它将与中亚各国发生冲突。
+Dialogue: 0,0:15:49.54,0:15:54.90,English,,0,0,0,,And so Genghis Khan will embark on the Central Asian campaigns\N{\rChinese}于是成吉斯·汗将踏上中亚战役，
+Dialogue: 0,0:15:54.90,0:15:57.32,English,,0,0,0,,that are brutal. He'll wipe out entire cities.\N{\rChinese}那场战役将十分残酷，他将把整座城镇夷为平地。
+Dialogue: 0,0:15:57.62,0:15:59.96,English,,0,0,0,,He'll kill all the inhabitants.\N{\rChinese}他会杀光所有居民。
+Dialogue: 0,0:16:01.04,0:16:04.82,English,,0,0,0,,And he will lay the foundation for the Mongol conquest\N{\rChinese}他将为随后蒙古征服奠定基础。
+Dialogue: 0,0:16:04.82,0:16:07.06,English,,0,0,0,,that will follow after him.\N{\rChinese}随后将跟随其后的征服。
+Dialogue: 0,0:16:08.06,0:16:09.90,English,,0,0,0,,Okay. And again,\N{\rChinese}好的。再说一次，
+Dialogue: 0,0:16:10.04,0:16:12.98,English,,0,0,0,,after the death of his son, Ogedei,\N{\rChinese}在他儿子奥格德去世之后，
+Dialogue: 0,0:16:13.10,0:16:16.76,English,,0,0,0,,the Mongols were split into four major factions.\N{\rChinese}蒙古人被分成四大派系。
+Dialogue: 0,0:16:16.82,0:16:19.52,English,,0,0,0,,And they will attempt to continue the legacy of the Mongol Empire.\N{\rChinese}他们将继续蒙古帝国的遗志。
+Dialogue: 0,0:16:21.04,0:16:26.30,English,,0,0,0,,But what happened is after they conquered the Song Empire in 1279,\N{\rChinese}但事后他们在1279年征服宋朝后，发生了什么事，
+Dialogue: 0,0:16:26.52,0:16:30.54,English,,0,0,0,,they will attempt to conquer Japan and Vietnam.\N{\rChinese}他们将尝试征服日本和越南。
+Dialogue: 0,0:16:31.02,0:16:34.06,English,,0,0,0,,And when they try to do so, they will be repelled.\N{\rChinese}当他们尝试这样做时，必将被击退。
+Dialogue: 0,0:16:34.28,0:16:35.76,English,,0,0,0,,They try to conquer Japan twice.\N{\rChinese}他们曾两次尝试征服日本。
+Dialogue: 0,0:16:36.68,0:16:39.22,English,,0,0,0,,And even though the legend is that\N{\rChinese}传说如此，
+Dialogue: 0,0:16:39.22,0:16:42.06,English,,0,0,0,,Japan was saved by the kamikaze, right,\N{\rChinese}日本被神风救了，吧，大神风，我来给你演示这其实不对。
+Dialogue: 0,0:16:42.12,0:16:45.50,English,,0,0,0,,the great divine wind, I will show you that's actually not true.\N{\rChinese}还有一个原因，说明蒙古人为什么停了对日本的入侵。
+Dialogue: 0,0:16:46.10,0:16:49.50,English,,0,0,0,,There's another reason why the Mongols stopped invading Japan.\N{\rChinese}There's another reason why theMongols stopped invading Japan.
+Dialogue: 0,0:16:49.50,0:16:53.10,English,,0,0,0,,So in the East, they've reached the limit of their conquest.\N{\rChinese}于是在东部，他们已到达征服的极限。
+Dialogue: 0,0:16:53.72,0:16:56.78,English,,0,0,0,,They tried to conquer India as well.\N{\rChinese}他们也曾试图征服印度。
+Dialogue: 0,0:16:57.02,0:17:00.08,English,,0,0,0,,But when they tried to do so, they were repelled.\N{\rChinese}但他们尝试时被击退。
+Dialogue: 0,0:17:00.36,0:17:04.12,English,,0,0,0,,And historians argue about the reason why this is the case.\N{\rChinese}历史学家们争论这件事的原因。
+Dialogue: 0,0:17:04.40,0:17:07.66,English,,0,0,0,,Some believe it was because of the climate of India.\N{\rChinese}有人认为是因为印度的气候。
+Dialogue: 0,0:17:07.86,0:17:09.52,English,,0,0,0,,Some believe it was because\N{\rChinese}有人认为是因为……
+Dialogue: 0,0:17:09.52,0:17:13.54,English,,0,0,0,,the southern of\N{\rChinese}南部的德里有条组织化且保守的回应。
+Dialogue: 0,0:17:13.54,0:17:17.64,English,,0,0,0,,Delhi had an organized and conservative response.\N{\rChinese}有些人认为这只是内部原因。
+Dialogue: 0,0:17:17.98,0:17:19.48,English,,0,0,0,,Some others believe it was just internal.\N{\rChinese}Some others believeit was just internal.
+Dialogue: 0,0:17:19.50,0:17:23.16,English,,0,0,0,,But the truth is that the Mongols were fighting in a very internal way. When they tried to reach Europe,\N{\rChinese}但事实是，蒙古人以非常内部的方式作战。当他们试图到达欧洲时，
+Dialogue: 0,0:17:23.28,0:17:27.56,English,,0,0,0,,they will try to conquer Poland\N{\rChinese}他们会尝试征服波兰和匈牙。并且即使…
+Dialogue: 0,0:17:27.56,0:17:29.46,English,,0,0,0,,and Hungary. And even though\N{\rChinese}and Hungary. Andeven though
+Dialogue: 0,0:17:29.46,0:17:32.74,English,,0,0,0,,they win every single battle against the Poles\N{\rChinese}他们在与波兰人和匈牙人的每一场战斗中获胜，随后又会回去。
+Dialogue: 0,0:17:32.74,0:17:35.60,English,,0,0,0,,and Hungarians, they will ultimately turn back.\N{\rChinese}于是他们在西方的征服就到此为止。
+Dialogue: 0,0:17:35.88,0:17:41.74,English,,0,0,0,,And that will be the limit of their conquest in the West. So\N{\rChinese}And that will be the limit oftheir conquest in the West. So
+Dialogue: 0,0:17:41.74,0:17:47.66,English,,0,0,0,,the Mongolian fighting style is great\N{\rChinese}蒙古人的作战风格在平原上极佳
+Dialogue: 0,0:17:47.66,0:17:49.48,English,,0,0,0,,when you fight in flat land.\N{\rChinese}当你在平原上作战时
+Dialogue: 0,0:17:49.48,0:17:52.08,English,,0,0,0,,These are horsemen with bulls.\N{\rChinese}这些是骑马的牛头人
+Dialogue: 0,0:17:52.28,0:17:54.18,English,,0,0,0,,So they're fast.\N{\rChinese}于是他们很快。
+Dialogue: 0,0:17:54.48,0:17:55.96,English,,0,0,0,,They can cover great distances.\N{\rChinese}他们能跨越大距离。
+Dialogue: 0,0:17:57.56,0:18:00.20,English,,0,0,0,,But when they try to reach Europe, and\N{\rChinese}但当他们试图抵达欧洲时，
+Dialogue: 0,0:18:00.20,0:18:04.64,English,,0,0,0,,Europe is thick forest, right, they really can't conquer that terrain.\N{\rChinese}欧洲是茂密森林，没错，他们真的无法征服那片地形。
+Dialogue: 0,0:18:05.74,0:18:10.14,English,,0,0,0,,One really stunning event is when they try to conquer Egypt.\N{\rChinese}当他们试图征服埃及时，出现了一个非常惊人的事件。
+Dialogue: 0,0:18:10.34,0:18:15.04,English,,0,0,0,,Remember, Egypt for the longest time was the wealthiest part of the Western world.\N{\rChinese}记住，埃及在很长一段时间里是西方世界最富饶的地区。
+Dialogue: 0,0:18:15.18,0:18:19.46,English,,0,0,0,,But when they try to conquer Egypt, they run into a people called the Mongols.\N{\rChinese}但当他们试图征服埃及时，遇到了一支叫做蒙古人的人。
+Dialogue: 0,0:18:19.46,0:18:24.08,English,,0,0,0,,They're the Mamluks, who fight very similarly to the Mongols.\N{\rChinese}他们是马穆鲁克人，作战方式与蒙古人极为相似。
+Dialogue: 0,0:18:24.18,0:18:27.32,English,,0,0,0,,In fact, the Mamluks are originally from the steppes as well.\N{\rChinese}实际上，马穆鲁克人也起源于草原。
+Dialogue: 0,0:18:27.52,0:18:29.02,English,,0,0,0,,And for the first time,\N{\rChinese}于是，第一次，
+Dialogue: 0,0:18:29.02,0:18:33.22,English,,0,0,0,,the Mongols will be defeated militarily on the battlefield.\N{\rChinese}蒙古人将在战场上被击败。
+Dialogue: 0,0:18:33.72,0:18:37.28,English,,0,0,0,,And this sort of destroys the aura of inevitability\N{\rChinese}这就把那种必然的光环打破。
+Dialogue: 0,0:18:37.28,0:18:39.76,English,,0,0,0,,and invincibility that the Mongols had for the longest time.\N{\rChinese}以及蒙古人长期拥有的无敌可战的优势。
+Dialogue: 0,0:18:40.94,0:18:46.14,English,,0,0,0,,And this will be the extent of their conquest in the West.\N{\rChinese}这将是他们在西方征服的范围。
+Dialogue: 0,0:18:46.14,0:18:49.14,English,,0,0,0,,And after these conquests,\N{\rChinese}在这些征服之后，
+Dialogue: 0,0:18:49.14,0:18:51.42,English,,0,0,0,,the Mongol Empire will try\N{\rChinese}蒙古帝国将尝试
+Dialogue: 0,0:18:51.42,0:18:56.88,English,,0,0,0,,to rule their respective empires.\N{\rChinese}各自统领各自的王国。
+Dialogue: 0,0:18:57.08,0:18:58.66,English,,0,0,0,,But ultimately, they will fail.\N{\rChinese}但终究会失败。
+Dialogue: 0,0:18:58.92,0:19:02.96,English,,0,0,0,,And later on, I'll explain to you why they were doomed to fail.\N{\rChinese}随后我会告诉你它们为何注定失败。
+Dialogue: 0,0:19:03.40,0:19:06.76,English,,0,0,0,,And the irony is, the reasons\N{\rChinese}而且讽刺的是，造就帝国的原因也是它最终崩溃的原因。
+Dialogue: 0,0:19:06.76,0:19:11.80,English,,0,0,0,,that gave rise to the empire are also reasons why their empire ultimately collapsed.\N{\rChinese}这些原因既是帝国崛起的根源，也是其最终衰落的根源。
+Dialogue: 0,0:19:16.14,0:19:18.70,English,,0,0,0,,Okay, so I want to first talk about Genghis Khan.\N{\rChinese}好的，我先来聊聊成吉斯·可汗。
+Dialogue: 0,0:19:18.98,0:19:22.32,English,,0,0,0,,And so we don't know much about Genghis Khan.\N{\rChinese}于是我们对成吉斯·可汗了解不多。
+Dialogue: 0,0:19:22.52,0:19:27.40,English,,0,0,0,,What we do know comes from a book called The Secret History of the Mongols.\N{\rChinese}我们所知道的来自一本叫《蒙古人秘密史》的书。
+Dialogue: 0,0:19:27.68,0:19:33.30,English,,0,0,0,,So it is an oral history of the life\N{\rChinese}于是它就是一段关于他生平的口述史
+Dialogue: 0,0:19:33.30,0:19:36.42,English,,0,0,0,,and times of Genghis Khan and his son, Ogedei.\N{\rChinese}以及成吉斯·可汗和他的儿子奥格德的时代。
+Dialogue: 0,0:19:37.74,0:19:43.10,English,,0,0,0,,Now, the story in The Secret History is suspicious.\N{\rChinese}现在，《蒙古人秘密史》里的故事很可疑。
+Dialogue: 0,0:19:43.54,0:19:45.32,English,,0,0,0,,And it's suspicious because\N{\rChinese}而且很可疑，因为
+Dialogue: 0,0:19:45.32,0:19:48.08,English,,0,0,0,,it fits very well into the\N{\rChinese}它很完美地融入了
+Dialogue: 0,0:19:48.08,0:19:52.00,English,,0,0,0,,structure of proto -Indo -European myth.\N{\rChinese}原始印欧神话的结构。
+Dialogue: 0,0:19:52.38,0:19:54.76,English,,0,0,0,,So let me show you how it's similar.\N{\rChinese}让我给你展示它的相似之处。
+Dialogue: 0,0:19:55.20,0:19:57.70,English,,0,0,0,,Okay, in The Secret History, Genghis Khan,\N{\rChinese}好的，在《蒙古人秘密史》中，成吉斯·可汗，
+Dialogue: 0,0:19:58.04,0:20:01.22,English,,0,0,0,,his mother, and\N{\rChinese}他的母亲，
+Dialogue: 0,0:20:01.22,0:20:03.40,English,,0,0,0,,again, they are in the Mongolian grasslands,\N{\rChinese}再次，他们在蒙古草原里
+Dialogue: 0,0:20:03.58,0:20:07.70,English,,0,0,0,,his mother is about to be wed to her husband.\N{\rChinese}他的母亲即将与丈夫成亲
+Dialogue: 0,0:20:07.86,0:20:09.68,English,,0,0,0,,So she's in her carriage, and\N{\rChinese}于是她在车上，并且
+Dialogue: 0,0:20:09.68,0:20:13.38,English,,0,0,0,,she's along the way to her husband's tribe.\N{\rChinese}她正沿途前往丈夫的部落
+Dialogue: 0,0:20:13.64,0:20:16.94,English,,0,0,0,,But along the way, she is ambushed and kidnapped.\N{\rChinese}但途中她被伏击并被绑架。
+Dialogue: 0,0:20:17.32,0:20:19.20,English,,0,0,0,,That's a very common thing in that culture.\N{\rChinese}这在那种文化里很常见。
+Dialogue: 0,0:20:19.40,0:20:22.78,English,,0,0,0,,The way that you obtain a wife is by stealing someone else's wife.\N{\rChinese}获得妻子的方法是偷别人的妻子。
+Dialogue: 0,0:20:23.46,0:20:26.84,English,,0,0,0,,And so she's forced to marry a stranger.\N{\rChinese}于是她被迫嫁给陌生人。
+Dialogue: 0,0:20:27.62,0:20:30.44,English,,0,0,0,,But the stranger, Genghis Khan's eventual father,\N{\rChinese}但那陌生人，就是成吉思·汗的后来的父亲。
+Dialogue: 0,0:20:30.64,0:20:34.36,English,,0,0,0,,dies when Genghis Khan is eight years old.\N{\rChinese}他在八岁时去世。
+Dialogue: 0,0:20:34.78,0:20:36.14,English,,0,0,0,,When the father dies,\N{\rChinese}父亲去世后，
+Dialogue: 0,0:20:36.52,0:20:41.14,English,,0,0,0,,the tribe abandons the mother and her young children.\N{\rChinese}部落抛下母亲与幼子。
+Dialogue: 0,0:20:41.26,0:20:43.98,English,,0,0,0,,So they're forced to fend for themselves.\N{\rChinese}于是他们被迫自力维生。
+Dialogue: 0,0:20:47.02,0:20:52.20,English,,0,0,0,,Eventually, the mother finds a way to find a supporting tribe.\N{\rChinese}最终，母亲找到支援部落。
+Dialogue: 0,0:20:52.66,0:20:57.06,English,,0,0,0,,And Genghis Khan slowly finds mentors for protection.\N{\rChinese}成吉思·汗慢慢寻得护卫师。
+Dialogue: 0,0:20:58.78,0:21:01.94,English,,0,0,0,,He eventually finds a mentor who becomes his best friend.\N{\rChinese}他最终找到一位导师，成为他的好友。
+Dialogue: 0,0:21:02.06,0:21:04.54,English,,0,0,0,,And this best friend's name is Jemokha.\N{\rChinese}这位好友的名字叫杰莫卡。
+Dialogue: 0,0:21:04.86,0:21:08.82,English,,0,0,0,,And the two together are great warriors,\N{\rChinese}两人合力，成为伟大战士。
+Dialogue: 0,0:21:08.98,0:21:11.24,English,,0,0,0,,and they conquer a lot of territory together.\N{\rChinese}并且他们一起征服了大量领土。
+Dialogue: 0,0:21:11.62,0:21:14.68,English,,0,0,0,,In fact, when Genghis Khan's wife is shot,\N{\rChinese}实际上，当成吉思·汗的妻子被射杀时，
+Dialogue: 0,0:21:14.68,0:21:16.74,English,,0,0,0,,and stolen by a tribe,\N{\rChinese}并被一支部落偷走，
+Dialogue: 0,0:21:16.90,0:21:20.04,English,,0,0,0,,the two will race off and get the wife back.\N{\rChinese}两人会冲出去把妻子抢回来。
+Dialogue: 0,0:21:20.94,0:21:22.38,English,,0,0,0,,But by this time,\N{\rChinese}但到这时，
+Dialogue: 0,0:21:22.48,0:21:26.90,English,,0,0,0,,Genghis Khan's wife is pregnant with another man's son.\N{\rChinese}成吉思·汗的妻子怀上了别人的孩子。
+Dialogue: 0,0:21:27.70,0:21:32.60,English,,0,0,0,,Genghis Khan raised the son as his own.\N{\rChinese}成吉思·汗把这孩子当作自己的儿子抚养。
+Dialogue: 0,0:21:32.74,0:21:36.02,English,,0,0,0,,And he made the son heir to his empire, which\N{\rChinese}随后把他立为帝国继承者，随后……
+Dialogue: 0,0:21:36.02,0:21:39.10,English,,0,0,0,,will cause great difficulties when Genghis Khan dies.\N{\rChinese}这将在成吉思·汗去世时造成大难。
+Dialogue: 0,0:21:39.32,0:21:43.00,English,,0,0,0,,But that just shows you the generosity of this man.\N{\rChinese}但这只是展示了这位人物的慷慨。
+Dialogue: 0,0:21:43.58,0:21:46.76,English,,0,0,0,,Eventually, Genghis Khan will run into conflict with Jemokha.\N{\rChinese}最终，成吉思·汗将与杰莫卡发生冲突。
+Dialogue: 0,0:21:47.08,0:21:50.42,English,,0,0,0,,And the two are competing for control of the Mongol world.\N{\rChinese}两人正争夺蒙古世界的掌控权。
+Dialogue: 0,0:21:50.70,0:21:54.78,English,,0,0,0,,Genghis Khan kills him to achieve his dominance.\N{\rChinese}成吉思·汗杀了他以巩固自己的霸权。
+Dialogue: 0,0:21:57.60,0:22:02.42,English,,0,0,0,,And Genghis Khan will overthrow the existing Mongolian social order.\N{\rChinese}随后成吉思·汗推翻了原有的蒙古社会秩序。
+Dialogue: 0,0:22:02.60,0:22:05.50,English,,0,0,0,,Basically, all these top chieftains, all these top shamans,\N{\rChinese}基本上，所有这些顶级酋长，所有这些顶级巫师，
+Dialogue: 0,0:22:05.50,0:22:08.46,English,,0,0,0,,he will kill in order to unite the Mongol people\N{\rChinese}他将杀人以统一蒙古人并建立新的社会秩序。
+Dialogue: 0,0:22:08.46,0:22:10.72,English,,0,0,0,,and bring about a new social order.\N{\rChinese}于是这就是我们从《秘史》中得到的故事。
+Dialogue: 0,0:22:10.72,0:22:14.34,English,,0,0,0,,So that's the story that we have from the Secret History.\N{\rChinese}So that's the story that wehave from the Secret History.
+Dialogue: 0,0:22:14.94,0:22:17.34,English,,0,0,0,,And that's very similar, by the way,\N{\rChinese}顺便说一句，这很相似，
+Dialogue: 0,0:22:17.50,0:22:21.38,English,,0,0,0,,to other founding myths of other people.\N{\rChinese}跟其他民族的建国神话很像，
+Dialogue: 0,0:22:21.54,0:22:22.68,English,,0,0,0,,Like, for example, let's look at Rome.\N{\rChinese}比如说，先看罗马吧。
+Dialogue: 0,0:22:25.14,0:22:28.58,English,,0,0,0,,Remember last semester we discussed Virgil's Ineat.\N{\rChinese}记得上学期我们讨论过维吉尔的《伊涅阿伊德》吗？
+Dialogue: 0,0:22:28.86,0:22:32.72,English,,0,0,0,,And it's about the founder of Rome, his name is Aeneas.\N{\rChinese}它讲的是罗马的创始者，他的名字叫阿涅阿斯。
+Dialogue: 0,0:22:32.92,0:22:34.88,English,,0,0,0,,Aeneas is a prince of Troy.\N{\rChinese}阿涅阿斯是特洛伊的王子。
+Dialogue: 0,0:22:35.14,0:22:38.52,English,,0,0,0,,And he has to watch the destruction of Troy.\N{\rChinese}他还得目睹特洛伊的毁灭。
+Dialogue: 0,0:22:38.64,0:22:42.52,English,,0,0,0,,He escapes the... He escapes the sacking of Troy, where everyone is killed.\N{\rChinese}他逃离了……他逃离了特洛伊的掠夺，那里人人被杀。
+Dialogue: 0,0:22:42.84,0:22:44.14,English,,0,0,0,,But he gets lost at sea.\N{\rChinese}但他在海上迷失了方向。
+Dialogue: 0,0:22:44.94,0:22:48.48,English,,0,0,0,,Eventually, he stumbles under Carthage,\N{\rChinese}最终，他踏入迦特加，
+Dialogue: 0,0:22:48.56,0:22:51.30,English,,0,0,0,,where he falls in love with a queen there named Dido.\N{\rChinese}在那里他与一位名叫蒂多的女王相恋。
+Dialogue: 0,0:22:52.04,0:22:54.66,English,,0,0,0,,But the gods demand that\N{\rChinese}但众神要求他……
+Dialogue: 0,0:22:54.66,0:22:58.14,English,,0,0,0,,he leaves Dido, the woman that he loves, and he's married.\N{\rChinese}他离开了蒂多，自己爱的人，然后结婚。
+Dialogue: 0,0:22:58.38,0:23:00.86,English,,0,0,0,,And he does. He betrays Dido, who then kills herself.\N{\rChinese}他确实这么做了。他背叛了蒂多，后者自杀。
+Dialogue: 0,0:23:01.36,0:23:03.34,English,,0,0,0,,Then he goes to Italy, where\N{\rChinese}随后他前往意大利。
+Dialogue: 0,0:23:03.34,0:23:08.04,English,,0,0,0,,he has to fight a war in order to establish the Trojan people on Italy.\N{\rChinese}他必须发动战争，以便在意大利建立特洛伊人。
+Dialogue: 0,0:23:08.28,0:23:09.66,English,,0,0,0,,And they will eventually give rise to Rome.\N{\rChinese}他们最终将孕育罗马。
+Dialogue: 0,0:23:09.68,0:23:13.26,English,,0,0,0,,And they will eventually give rise to the Roman people. So it's a very similar structure,\N{\rChinese}他们最终将孕育罗马人。
+Dialogue: 0,0:23:13.42,0:23:14.94,English,,0,0,0,,the story of Genghis Khan.\N{\rChinese}成吉斯汗的故事
+Dialogue: 0,0:23:15.72,0:23:17.92,English,,0,0,0,,Let's go to another story from Rome.\N{\rChinese}我们再来讲一个罗马的故事
+Dialogue: 0,0:23:18.08,0:23:21.74,English,,0,0,0,,So the founder of Rome is named Romulus,\N{\rChinese}罗马的创始者叫罗姆卢斯
+Dialogue: 0,0:23:21.82,0:23:23.66,English,,0,0,0,,who was a direct descendant of Aeneas.\N{\rChinese}他是埃涅阿斯的直系后裔。
+Dialogue: 0,0:23:26.14,0:23:30.32,English,,0,0,0,,So there's a king called Numator,\N{\rChinese}于是有一位名叫努马托的国王，
+Dialogue: 0,0:23:30.36,0:23:34.00,English,,0,0,0,,and his brother, Aemilius, usurps the throne.\N{\rChinese}他的兄弟埃米利乌斯篡夺王位。
+Dialogue: 0,0:23:34.44,0:23:37.20,English,,0,0,0,,And once Aemilius usurps the throne,\N{\rChinese}于是埃米利乌斯篡夺王位，他把努马托的女儿送进寺庙，并让她成为处女。 但火星……
+Dialogue: 0,0:23:37.20,0:23:42.04,English,,0,0,0,,he puts Numator's daughter into a temple\N{\rChinese}他把努马托的女儿送进寺庙，并让她成为处女。 但火星……
+Dialogue: 0,0:23:42.04,0:23:44.48,English,,0,0,0,,and makes her a virgin. But Mars,\N{\rChinese}他把努马托的女儿送进寺庙，并让她成为处女。 但火星……
+Dialogue: 0,0:23:44.62,0:23:48.76,English,,0,0,0,,the war guard Mars, visits her and impregnates her with twins.\N{\rChinese}战争守卫者火星造访她并怀上双胎。
+Dialogue: 0,0:23:49.54,0:23:52.10,English,,0,0,0,,Numator demands the twins be killed.\N{\rChinese}努马托命令双胎被杀。
+Dialogue: 0,0:23:52.32,0:23:57.52,English,,0,0,0,,And the twins are left alone by the Tiber River.\N{\rChinese}双胎被留在提伯河畔独自漂泊。
+Dialogue: 0,0:23:57.76,0:23:59.40,English,,0,0,0,,And everyone thinks that they will drown.\N{\rChinese}于是大家都以为他们会淹死为念。
+Dialogue: 0,0:23:59.76,0:24:02.16,English,,0,0,0,,But they are miraculously saved, and\N{\rChinese}但他们奇迹般得救，随后又有一只雌狼抚养他们，牧羊人收养他们。
+Dialogue: 0,0:24:02.16,0:24:05.28,English,,0,0,0,,a she -wolf nurses them, and a shepherd adopts them.\N{\rChinese}a she -wolf nurses them, and a shepherd adopts them.
+Dialogue: 0,0:24:05.28,0:24:09.60,English,,0,0,0,,Eventually, they discover their true heritage, and they help their grandfather,\N{\rChinese}最终，他们发现自己的真实血统，并帮助祖父努马托杀死他的兄弟阿米利乌斯，恢复王位。
+Dialogue: 0,0:24:09.96,0:24:14.48,English,,0,0,0,,Numator, kill his brother,\N{\rChinese}努马托杀死他的兄弟阿米利乌斯，恢复王位。
+Dialogue: 0,0:24:14.58,0:24:16.48,English,,0,0,0,,Aemilius, and restore the throne.\N{\rChinese}最终，他们发现自己的真实血统，并帮助祖父努马托杀死他的兄弟阿米利乌斯，恢复王位。
+Dialogue: 0,0:24:16.76,0:24:21.38,English,,0,0,0,,Then the two go off to found their own city, which is Rome.\N{\rChinese}于是两人各自去建城，城名为罗马。
+Dialogue: 0,0:24:22.03,0:24:25.18,English,,0,0,0,,But there's going to be one king, so the two fight,\N{\rChinese}随后会有一位国王出现，于是两人相争。
+Dialogue: 0,0:24:25.36,0:24:28.76,English,,0,0,0,,and Romulus kills his twin brother, Remus.\N{\rChinese}罗慕鲁斯斩杀双胞兄弟雷姆斯。
+Dialogue: 0,0:24:30.90,0:24:34.16,English,,0,0,0,,And then Romulus becomes Rome's first king,\N{\rChinese}然后罗慕鲁斯成为罗马的第一位国王，
+Dialogue: 0,0:24:34.16,0:24:39.42,English,,0,0,0,,which will eventually give rise to the greatest empire in the European world.\N{\rChinese}随后这将最终孕育出欧洲世界最伟大的帝国。
+Dialogue: 0,0:24:39.62,0:24:42.96,English,,0,0,0,,So as you can see, the structures are very similar.\N{\rChinese}如你所见，结构非常相似。
+Dialogue: 0,0:24:43.20,0:24:46.28,English,,0,0,0,,So let's go over very quickly the structure\N{\rChinese}先快速回顾一下原始-印欧-欧洲神话的结构
+Dialogue: 0,0:24:46.28,0:24:51.08,English,,0,0,0,,and meaning of Proto -Indo -European myth.\N{\rChinese}以及其含义
+Dialogue: 0,0:24:51.30,0:24:54.56,English,,0,0,0,,The thing I want you to remember is that what mythology ultimately is,\N{\rChinese}我想让你记住的核心是：神话最终是……
+Dialogue: 0,0:24:54.70,0:24:59.06,English,,0,0,0,,it's a collective subconscious of a culture.\N{\rChinese}它是一个文化的集体潜意识。
+Dialogue: 0,0:24:59.84,0:25:01.26,English,,0,0,0,,By understanding mythology,\N{\rChinese}通过理解神话，
+Dialogue: 0,0:25:01.74,0:25:03.78,English,,0,0,0,,we can understand the fundamental value\N{\rChinese}我们可以理解其基本价值。
+Dialogue: 0,0:25:04.16,0:25:05.60,English,,0,0,0,,that underpins this culture.\N{\rChinese}那是支撑此文化的基础。
+Dialogue: 0,0:25:05.92,0:25:08.38,English,,0,0,0,,So what is the structure we're looking at?\N{\rChinese}那么我们要看的结构是什么？
+Dialogue: 0,0:25:08.72,0:25:10.48,English,,0,0,0,,The structure is this.\N{\rChinese}结构就是这样。
+Dialogue: 0,0:25:10.74,0:25:14.26,English,,0,0,0,,First, the gods favor a man with a divine mission.\N{\rChinese}首先，神明眷顾一位拥有神圣使命的人。
+Dialogue: 0,0:25:14.68,0:25:18.62,English,,0,0,0,,But the man himself does not understand this divine mission.\N{\rChinese}但那人自己却不明白这神圣使命。
+Dialogue: 0,0:25:19.12,0:25:23.60,English,,0,0,0,,The gods have picked this man for whatever reason, and this man must fulfill his divine mission.\N{\rChinese}神已挑选此人，因缘何故，且此人须完成其神圣使命。
+Dialogue: 0,0:25:24.74,0:25:29.10,English,,0,0,0,,And in the process, he will suffer hardship to become as hard as a sword.\N{\rChinese}在此过程中，他将经历艰辛，锤炼成如剑般坚硬。
+Dialogue: 0,0:25:29.78,0:25:31.30,English,,0,0,0,,Hardship makes you committed.\N{\rChinese}艰辛让你更坚定。
+Dialogue: 0,0:25:31.40,0:25:34.60,English,,0,0,0,,It makes you strong. And to recognize his mission.\N{\rChinese}它让你更强大，并让你认清使命。
+Dialogue: 0,0:25:34.70,0:25:38.60,English,,0,0,0,,In the process, he's asking himself, why am I being persecuted?\N{\rChinese}在此过程中，他自问：我为何被迫害？
+Dialogue: 0,0:25:38.96,0:25:40.18,English,,0,0,0,,Why am I suffering so much?\N{\rChinese}我为何如此痛苦？
+Dialogue: 0,0:25:40.40,0:25:42.86,English,,0,0,0,,And then eventually, he will have an epiphany.\N{\rChinese}最终，他会有顿悟。
+Dialogue: 0,0:25:42.86,0:25:44.90,English,,0,0,0,,He will recognize, oh, it's because\N{\rChinese}他会明白，哦，原来是……
+Dialogue: 0,0:25:44.90,0:25:48.86,English,,0,0,0,,the gods have a mission for me that I must fulfill.\N{\rChinese}神明给我安排了使命，我必须完成。
+Dialogue: 0,0:25:49.20,0:25:50.90,English,,0,0,0,,That's why I'm suffering.\N{\rChinese}这就是我受苦的原因。
+Dialogue: 0,0:25:51.18,0:25:54.44,English,,0,0,0,,That's why I'm being persecuted. It's to make me strong and committed.\N{\rChinese}这就是我被迫害的原因。是为了让我更强大、更坚定。
+Dialogue: 0,0:25:55.98,0:26:00.48,English,,0,0,0,,And he will sacrifice his beloved to prove his commitment to his divine mission.\N{\rChinese}他会把亲人献祭，以证明对神圣使命的忠诚。
+Dialogue: 0,0:26:00.66,0:26:04.54,English,,0,0,0,,This is really important. In Proto -Indo -European myth,\N{\rChinese}这点非常重要。在原始印欧神话中，
+Dialogue: 0,0:26:04.78,0:26:08.42,English,,0,0,0,,the hero must always sacrifice his beloved.\N{\rChinese}英雄总是要把亲人献祭。
+Dialogue: 0,0:26:08.92,0:26:10.24,English,,0,0,0,,So remember in the story of Genghis Khan,\N{\rChinese}记住，成吉思汗的故事里，
+Dialogue: 0,0:26:10.62,0:26:14.08,English,,0,0,0,,he sacrifices, he kills his best friend Jamukha.\N{\rChinese}他献祭，杀了最好的朋友贾穆卡。
+Dialogue: 0,0:26:14.26,0:26:16.74,English,,0,0,0,,And you think, okay, what's the big deal?\N{\rChinese}于是你会想，好的，是什么大事？
+Dialogue: 0,0:26:17.06,0:26:18.70,English,,0,0,0,,Well, in that culture,\N{\rChinese}嗯，在那种文化里，
+Dialogue: 0,0:26:19.10,0:26:21.34,English,,0,0,0,,when two warriors are best friends,\N{\rChinese}当两位战士是最好的朋友时，
+Dialogue: 0,0:26:22.26,0:26:24.26,English,,0,0,0,,they're not just friends, okay?\N{\rChinese}他们不只是朋友，懂吗？
+Dialogue: 0,0:26:24.44,0:26:25.70,English,,0,0,0,,They're basically lovers.\N{\rChinese}他们基本上是恋人。
+Dialogue: 0,0:26:26.60,0:26:28.04,English,,0,0,0,,They have sex with each other.\N{\rChinese}他们彼此交配。
+Dialogue: 0,0:26:28.16,0:26:30.88,English,,0,0,0,,And that's why they're such great warriors together.\N{\rChinese}于是他们俩合在一起就是一支强大的战士队伍。
+Dialogue: 0,0:26:30.88,0:26:32.62,English,,0,0,0,,It's a very common thing.\N{\rChinese}这是一件很常见的事。
+Dialogue: 0,0:26:32.82,0:26:36.58,English,,0,0,0,,So remember the Iliad, where in the Iliad,\N{\rChinese}记住《伊利亚特》吧，
+Dialogue: 0,0:26:36.58,0:26:37.94,English,,0,0,0,,Hector kills Patroclus.\N{\rChinese}赫克托尔杀死帕特洛克斯。
+Dialogue: 0,0:26:38.06,0:26:40.86,English,,0,0,0,,And Achilles becomes\N{\rChinese}于是阿基琉斯变得……
+Dialogue: 0,0:26:40.86,0:26:45.42,English,,0,0,0,,so enraged that he goes and kills Hector, okay?\N{\rChinese}于是他愤怒至要去杀赫克托尔。
+Dialogue: 0,0:26:45.88,0:26:49.70,English,,0,0,0,,So why did Achilles become so enraged?\N{\rChinese}于是阿基琉斯为何愤怒至此？
+Dialogue: 0,0:26:49.90,0:26:53.00,English,,0,0,0,,Because Patroclus was his best friend,\N{\rChinese}因为帕特洛克斯是他的好友，
+Dialogue: 0,0:26:53.22,0:26:57.24,English,,0,0,0,,which at that time, everyone understood to mean Patroclus\N{\rChinese}那时大家都认为帕特洛克斯是他的最佳伙伴。
+Dialogue: 0,0:26:57.24,0:26:59.88,English,,0,0,0,,and Achilles were lovers, okay?\N{\rChinese}[436] 于是阿基琉斯和帕特洛克斯是恋人，好吗？
+Dialogue: 0,0:27:00.64,0:27:02.64,English,,0,0,0,,Achilles loved Patroclus.\N{\rChinese}[437] 阿基琉斯爱帕特洛克斯。
+Dialogue: 0,0:27:03.66,0:27:06.80,English,,0,0,0,,So when Genghis Khan killed Jamukha,\N{\rChinese}[438] 所以当成吉萨尔·汗杀死贾穆卡时，
+Dialogue: 0,0:27:06.98,0:27:10.96,English,,0,0,0,,he was basically killing the man he loved the most in this world.\N{\rChinese}他基本上是在杀死这个世界上最爱的人。
+Dialogue: 0,0:27:11.66,0:27:14.44,English,,0,0,0,,That's a very important part of Proto -Indo -European myth.\N{\rChinese}这在原始印欧语神话中是非常重要的一环。
+Dialogue: 0,0:27:14.70,0:27:17.90,English,,0,0,0,,You have to show your commitment by making the ultimate sacrifice,\N{\rChinese}你得通过最终的牺牲来证明自己的投入。
+Dialogue: 0,0:27:18.32,0:27:20.78,English,,0,0,0,,which means killing the person you love the most.\N{\rChinese}这意味着杀死你最爱的人。
+Dialogue: 0,0:27:21.52,0:27:22.80,English,,0,0,0,,And once he does that,\N{\rChinese}然后他完成这件事，
+Dialogue: 0,0:27:22.94,0:27:26.44,English,,0,0,0,,he will shatter the old world to build a new one, okay?\N{\rChinese}他就会打碎旧世界，建造新世界。
+Dialogue: 0,0:27:26.54,0:27:29.36,English,,0,0,0,,That is the divine mission. The gods do not like this world.\N{\rChinese}那是神圣使命。众神不喜此世。
+Dialogue: 0,0:27:29.40,0:27:35.02,English,,0,0,0,,They want it. They want a flood to destroy this world in order for the world to be made anew.\N{\rChinese}他们要它。要一场洪水毁世，方能重造新世。
+Dialogue: 0,0:27:35.10,0:27:37.38,English,,0,0,0,,And this man, the Messiah,\N{\rChinese}而此人，弥赛亚。
+Dialogue: 0,0:27:37.74,0:27:40.30,English,,0,0,0,,he is the one who will shatter the old world.\N{\rChinese}他是将打碎旧世界的人。
+Dialogue: 0,0:27:40.50,0:27:41.86,English,,0,0,0,,He's the world -shatterer, okay?\N{\rChinese}他就是那位打碎世界的人，行吗？
+Dialogue: 0,0:27:42.00,0:27:45.12,English,,0,0,0,,He's the flood sent by the gods, all right?\N{\rChinese}他是众神派来的洪水，行吗？
+Dialogue: 0,0:27:45.18,0:27:48.78,English,,0,0,0,,So that's a basic structure of Proto -Indo -European myth.\N{\rChinese}于是这就是原始印欧神话的基本结构。
+Dialogue: 0,0:27:49.16,0:27:51.12,English,,0,0,0,,And when we understand this,\N{\rChinese}当我们理解了这一点，
+Dialogue: 0,0:27:51.42,0:27:53.90,English,,0,0,0,,now what we can do is understand\N{\rChinese}接下来我们可以去理解
+Dialogue: 0,0:27:53.90,0:27:58.02,English,,0,0,0,,the power of the Jesus story within Christianity.\N{\rChinese}耶稣故事在基督教中的力量。
+Dialogue: 0,0:27:58.02,0:28:02.66,English,,0,0,0,,Why is Christianity the most influential and popular religion in the world?\N{\rChinese}基督教为何成为世界上最具影响力与流行的宗教？
+Dialogue: 0,0:28:02.76,0:28:05.08,English,,0,0,0,,It has to do with the story of Jesus, okay?\N{\rChinese}这与耶稣的故事有关，行吗？
+Dialogue: 0,0:28:06.44,0:28:07.76,English,,0,0,0,,In the story of Jesus,\N{\rChinese}在耶稣的故事里，
+Dialogue: 0,0:28:08.82,0:28:10.18,English,,0,0,0,,according to the Gospel of Mark,\N{\rChinese}按马可福音的记载，
+Dialogue: 0,0:28:10.80,0:28:12.08,English,,0,0,0,,listen to the structure, okay?\N{\rChinese}请听结构，行吗？
+Dialogue: 0,0:28:12.14,0:28:14.02,English,,0,0,0,,It's very similar to Proto -Indo -European mythology.\N{\rChinese}它与原始印欧神话非常相似。
+Dialogue: 0,0:28:14.74,0:28:17.04,English,,0,0,0,,Jesus has a secret divine mission, okay?\N{\rChinese}耶稣有一个秘密的神圣使命，行吗？
+Dialogue: 0,0:28:17.40,0:28:19.62,English,,0,0,0,,He's sent by God, or he is God,\N{\rChinese}他是上帝派遣的，或者他就是上帝，
+Dialogue: 0,0:28:21.08,0:28:23.34,English,,0,0,0,,who has come to redeem the world.\N{\rChinese}谁来赎回世界。
+Dialogue: 0,0:28:23.86,0:28:26.36,English,,0,0,0,,He must suffer persecution and doubt, okay?\N{\rChinese}他必须经历迫害与怀疑，行吗？
+Dialogue: 0,0:28:26.90,0:28:28.74,English,,0,0,0,,So everyone knows that. Everyone doubts who he is.\N{\rChinese}于是大家都知道了。大家都怀疑他是谁。
+Dialogue: 0,0:28:28.84,0:28:31.86,English,,0,0,0,,No one knows who he is. He's laughed at, he's mocked, okay?\N{\rChinese}没有人知道他是谁。他被笑话、被嘲笑，行吗？
+Dialogue: 0,0:28:32.86,0:28:35.58,English,,0,0,0,,He then is sacrificed to wake the world.\N{\rChinese}随后他被牺祭以唤醒世界。
+Dialogue: 0,0:28:35.68,0:28:38.92,English,,0,0,0,,He kills himself, or he is sacrificed so\N{\rChinese}他自杀，或被牺祭。
+Dialogue: 0,0:28:38.92,0:28:42.60,English,,0,0,0,,that everyone knows how much God loves them.\N{\rChinese}大家都知道上帝有多爱他们。
+Dialogue: 0,0:28:43.40,0:28:44.74,English,,0,0,0,,And with God's sacrifice,\N{\rChinese}并且凭借上帝的牺祭，
+Dialogue: 0,0:28:45.14,0:28:47.98,English,,0,0,0,,this cycle of violence ends and a new history begins, okay?\N{\rChinese}这轮回的暴力终结，新的历史由此开启。
+Dialogue: 0,0:28:48.20,0:28:52.36,English,,0,0,0,,So in Proto -Indo -European myth, what's important is that you kill your beloved.\N{\rChinese}于是，在原始印欧神话中，重要的是你杀死你所爱的人。
+Dialogue: 0,0:28:52.80,0:28:55.88,English,,0,0,0,,But the founding myth of Christianity is, no,\N{\rChinese}但基督教的创始神话是，没错，
+Dialogue: 0,0:28:56.08,0:28:59.30,English,,0,0,0,,I kill myself, to show you that violence is terrible,\N{\rChinese}我自杀，以示你暴力之凶。
+Dialogue: 0,0:28:59.54,0:29:00.94,English,,0,0,0,,okay?\N{\rChinese}好的？
+Dialogue: 0,0:29:01.24,0:29:04.02,English,,0,0,0,,Once God has killed himself, once God has sacrificed himself,\N{\rChinese}一旦上帝自杀，一旦上帝自牺祭，
+Dialogue: 0,0:29:04.36,0:29:07.00,English,,0,0,0,,it means that all violence now must cease.\N{\rChinese}这就意味着所有的暴力现在必须停止。
+Dialogue: 0,0:29:07.20,0:29:11.32,English,,0,0,0,,The cycle of violence, the cycle of using violence to redeem the world,\N{\rChinese}暴力循环，利用暴力来拯救世界的循环，
+Dialogue: 0,0:29:11.48,0:29:15.80,English,,0,0,0,,to cleanse the world, must come to an end, okay?\N{\rChinese}净化世界的循环，必须结束，好的？
+Dialogue: 0,0:29:15.94,0:29:19.76,English,,0,0,0,,And that's the very idea, foundational idea of Christianity.\N{\rChinese}这就是基督教的根本思想。
+Dialogue: 0,0:29:20.18,0:29:22.82,English,,0,0,0,,And so what Christianity is doing, and it's very clever,\N{\rChinese}于是基督教所做的事，十分巧妙，
+Dialogue: 0,0:29:22.82,0:29:26.76,English,,0,0,0,,is it's seeking the collective subconscious that's embedded in every individual.\N{\rChinese}它在寻找每个人内在的集体潜意识，
+Dialogue: 0,0:29:26.92,0:29:30.00,English,,0,0,0,,And then planting a new idea within the subconscious\N{\rChinese}然后在潜意识里种下新的观念。
+Dialogue: 0,0:29:30.00,0:29:32.60,English,,0,0,0,,that grows and grows,\N{\rChinese}那种不断增长的力量，
+Dialogue: 0,0:29:33.02,0:29:36.38,English,,0,0,0,,okay? It's almost like a virus until people recognize\N{\rChinese}好吧？它几乎像病毒，直到人们意识到
+Dialogue: 0,0:29:36.38,0:29:37.90,English,,0,0,0,,that violence is bad.\N{\rChinese}暴力是坏事。
+Dialogue: 0,0:29:38.44,0:29:42.28,English,,0,0,0,,Proto -Indo -European mythology celebrates violence, right?\N{\rChinese}原始-印欧神话庆祝暴力，对吧？
+Dialogue: 0,0:29:42.64,0:29:46.98,English,,0,0,0,,Christianity believes violence is the worst thing, okay?\N{\rChinese}基督教认为暴力是最糟的事，行吗？
+Dialogue: 0,0:29:47.06,0:29:50.64,English,,0,0,0,,So let's, sorry,\N{\rChinese}那就来，抱歉，
+Dialogue: 0,0:29:51.06,0:29:53.02,English,,0,0,0,,this is a bit, okay.\N{\rChinese}这是一段，行吗？
+Dialogue: 0,0:29:53.14,0:29:55.52,English,,0,0,0,,All right, anyway, I'll just read it to you, okay?\N{\rChinese}好了，反正，我就给你读出来，行吗？
+Dialogue: 0,0:29:55.52,0:29:59.06,English,,0,0,0,,So this is the ending of Mark, okay?\N{\rChinese}这就是马可的结尾，行吗？
+Dialogue: 0,0:29:59.22,0:30:02.94,English,,0,0,0,,Then Jesus gave a loud cry and breathed his last, okay?\N{\rChinese}然后耶稣大声呼喊，随后呼出最后一口气，行吗？
+Dialogue: 0,0:30:02.98,0:30:04.30,English,,0,0,0,,So he's been sacrificed, he's died.\N{\rChinese}于是他被牺祭，已死。
+Dialogue: 0,0:30:04.56,0:30:09.20,English,,0,0,0,,And the curtain of the temple was torn into, from top to bottom.\N{\rChinese}随后圣殿的帷幕从上到下被撕开。
+Dialogue: 0,0:30:09.32,0:30:14.62,English,,0,0,0,,The temple is the second temple in Jerusalem,\N{\rChinese}这座圣殿是耶路撒冷的第二座圣殿，
+Dialogue: 0,0:30:14.90,0:30:16.34,English,,0,0,0,,where Yahweh is.\N{\rChinese}在雅威居住的地方。
+Dialogue: 0,0:30:16.58,0:30:21.60,English,,0,0,0,,And at the very top of this temple is a room called the Holy of the Holies.\N{\rChinese}在这座圣殿的最顶层有一间叫做至圣所的房间。
+Dialogue: 0,0:30:21.78,0:30:23.18,English,,0,0,0,,That's where God lives.\N{\rChinese}那是神居住的地方。
+Dialogue: 0,0:30:23.48,0:30:25.10,English,,0,0,0,,And the curtain,\N{\rChinese}而帷幕，
+Dialogue: 0,0:30:25.52,0:30:30.96,English,,0,0,0,,is what hides God\N{\rChinese}这就是隐藏上帝的东西
+Dialogue: 0,0:30:30.96,0:30:35.34,English,,0,0,0,,from the world, okay? So when Jesus dies, the curtain now is torn in half.\N{\rChinese}从世界之中，好的？于是当耶稣死去，帷幕便被撕成两半。
+Dialogue: 0,0:30:35.56,0:30:38.68,English,,0,0,0,,Meaning God is now released into the world,\N{\rChinese}意思是神现在已释放到世界中，
+Dialogue: 0,0:30:38.78,0:30:41.70,English,,0,0,0,,which means that everyone now has access to God.\N{\rChinese}这意味着每个人现在都能接触到神。
+Dialogue: 0,0:30:42.08,0:30:44.60,English,,0,0,0,,God is now on earth, okay?\N{\rChinese}神现在在地上，好吗？
+Dialogue: 0,0:30:45.26,0:30:48.34,English,,0,0,0,,Now when the centurion, the soldier, who\N{\rChinese}现在当百夫长、士兵、谁
+Dialogue: 0,0:30:48.34,0:30:52.02,English,,0,0,0,,stood facing him saw that in this way he breathed his last,\N{\rChinese}站在他面前，看见他如此呼吸最后一口气，
+Dialogue: 0,0:30:52.18,0:30:54.56,English,,0,0,0,,he said, truly, this man was God's son.\N{\rChinese}他说，的确，这人是上帝之子。
+Dialogue: 0,0:30:54.56,0:30:56.98,English,,0,0,0,,So the first person that\N{\rChinese}于是第一个人是
+Dialogue: 0,0:30:56.98,0:30:59.92,English,,0,0,0,,Jesus revealed himself to\N{\rChinese}耶稣向他显现
+Dialogue: 0,0:31:00.80,0:31:03.04,English,,0,0,0,,was a Roman soldier.\N{\rChinese}他是一名罗马士兵。
+Dialogue: 0,0:31:03.28,0:31:07.44,English,,0,0,0,,The first person that recognized the truth of Jesus\N{\rChinese}第一个认出耶稣真理的人是罗马士兵。
+Dialogue: 0,0:31:07.44,0:31:12.46,English,,0,0,0,,and the power of his sacrifice was a Roman soldier who's always been taught\N{\rChinese}这名罗马士兵一直被教导着。
+Dialogue: 0,0:31:12.46,0:31:14.84,English,,0,0,0,,that violence is the answer to everything.\N{\rChinese}那种暴力是万事之解。
+Dialogue: 0,0:31:15.16,0:31:17.92,English,,0,0,0,,And once he's converted, he recognizes\N{\rChinese}一旦他转变，他便认知那种暴力是错的、邪的。
+Dialogue: 0,0:31:17.92,0:31:21.36,English,,0,0,0,,that violence is wrong and evil, okay?\N{\rChinese}that violence is wrong and evil, okay?
+Dialogue: 0,0:31:21.44,0:31:23.16,English,,0,0,0,,So that's the power of,\N{\rChinese}于是这就是它的力量，
+Dialogue: 0,0:31:23.16,0:31:26.32,English,,0,0,0,,of this mythology, okay?\N{\rChinese}这就是这段神话的力量，
+Dialogue: 0,0:31:26.42,0:31:28.42,English,,0,0,0,,Does that make sense to you guys? All right.\N{\rChinese}你们觉得这样说通吗？
+Dialogue: 0,0:31:29.28,0:31:32.62,English,,0,0,0,,So now I want to look at real history, okay?\N{\rChinese}于是现在我要看真正的历史，好吗？
+Dialogue: 0,0:31:32.72,0:31:35.76,English,,0,0,0,,Because this is mythology. And what I want to do now is show you\N{\rChinese}因为这是神话。接下来我要给你们展示
+Dialogue: 0,0:31:35.76,0:31:38.80,English,,0,0,0,,that Genghis Khan fits into the,\N{\rChinese}格哈里·成吉斯汗是如何符合其中的
+Dialogue: 0,0:31:38.82,0:31:40.76,English,,0,0,0,,a pattern of a great conqueror.\N{\rChinese}一个伟大征服者的模式。
+Dialogue: 0,0:31:41.38,0:31:46.06,English,,0,0,0,,If you look at all the great conquerors of human history, and I'll list four right now, okay?\N{\rChinese}如果你看过人类历史上的所有伟大征服者，我现在就列举四个，行吗？
+Dialogue: 0,0:31:46.32,0:31:49.40,English,,0,0,0,,Sauron of Akkad, Philip of Macedon, Julius Caesar,\N{\rChinese}阿卡德的萨隆、马其德的菲利普、朱利叶斯·凯撒，
+Dialogue: 0,0:31:49.54,0:31:52.78,English,,0,0,0,,and Genghis Khan, you will see they are very,\N{\rChinese}和成吉斯汗，你会看到他们非常、非常、非常相似，行吗？
+Dialogue: 0,0:31:52.80,0:31:54.92,English,,0,0,0,,very, very, very similar, okay?\N{\rChinese}所以我们来看看阿卡德的萨隆。
+Dialogue: 0,0:31:55.14,0:31:56.84,English,,0,0,0,,So let's look at Sauron of Akkad.\N{\rChinese}So let's look atSauron of Akkad.
+Dialogue: 0,0:31:56.98,0:31:58.28,English,,0,0,0,,Remember before,\N{\rChinese}记得之前，
+Dialogue: 0,0:31:59.92,0:32:03.68,English,,0,0,0,,in Mesopotamia, it was divided into the Sumerian city -states\N{\rChinese}在美索不达，分成苏美尔城邦，
+Dialogue: 0,0:32:03.68,0:32:06.78,English,,0,0,0,,that warred with each other. And these were walled cities\N{\rChinese}它们互相作战。
+Dialogue: 0,0:32:06.78,0:32:10.94,English,,0,0,0,,because these were walled cities, they couldn't really conquer each other, okay?\N{\rChinese}因为这些城邦有城墙，彼此之间很难真正攻占，行吗？
+Dialogue: 0,0:32:11.46,0:32:14.80,English,,0,0,0,,Sauron of Akkad figured out a way to conquer everyone\N{\rChinese}阿卡德的萨隆想出了办法，攻占了所有人
+Dialogue: 0,0:32:14.80,0:32:18.68,English,,0,0,0,,and build the first empire in world history called the Akkadian Empire.\N{\rChinese}并建立了世界历史上第一个帝国——阿卡德帝国。
+Dialogue: 0,0:32:19.24,0:32:21.82,English,,0,0,0,,So we don't know much about him, but this is what we know.\N{\rChinese}于是我们对他了解不多，但这就是我们知道的。
+Dialogue: 0,0:32:21.82,0:32:24.44,English,,0,0,0,,First of all, he was probably a mercenary, okay?\N{\rChinese}首先，他大概是雇佣兵，行吗？
+Dialogue: 0,0:32:24.52,0:32:27.72,English,,0,0,0,,It was very common back then to be a mercenary because\N{\rChinese}当时雇佣兵很常见，因为
+Dialogue: 0,0:32:27.72,0:32:30.10,English,,0,0,0,,these city -states were at war with each other always.\N{\rChinese}这些城邦彼此之间常有战争。
+Dialogue: 0,0:32:30.66,0:32:34.48,English,,0,0,0,,He was a cupbearer to the king, or Zabal of Kish.\N{\rChinese}他是基什国王扎巴尔的侍酒官。
+Dialogue: 0,0:32:34.58,0:32:36.72,English,,0,0,0,,Kish is one of the city -states in Sumeria.\N{\rChinese}基什是苏美尔的城邦之一。
+Dialogue: 0,0:32:37.00,0:32:39.82,English,,0,0,0,,Now, guys, cupbearer is a very important position.\N{\rChinese}现在，伙计们，侍酒官是个非常重要的位置。
+Dialogue: 0,0:32:40.26,0:32:42.76,English,,0,0,0,,A cupbearer means that when you're the king and\N{\rChinese}侍酒官意味着当你是国王时，
+Dialogue: 0,0:32:42.76,0:32:45.96,English,,0,0,0,,you have a feast or a festival for your people,\N{\rChinese}你为百姓举办盛宴或节庆时，
+Dialogue: 0,0:32:46.12,0:32:50.28,English,,0,0,0,,the cupbearer is the man who stands beside you and pours you the alcohol, the wine, right?\N{\rChinese}杯酒官是站在你身边给你倒酒的那个人，对吧？
+Dialogue: 0,0:32:51.16,0:32:53.38,English,,0,0,0,,Which means, this is the man you trust the most.\N{\rChinese}也就是说，这就是你最信任的人。
+Dialogue: 0,0:32:54.08,0:32:57.70,English,,0,0,0,,So what's it mean for Sauron of Akkad to be a cupbearer?\N{\rChinese}那么，阿卡德的萨乌隆成为杯酒官意味着什么呢？
+Dialogue: 0,0:32:57.90,0:33:01.22,English,,0,0,0,,Well, it probably means that they were lovers.\N{\rChinese}好吧，可能就是他们是恋人。
+Dialogue: 0,0:33:01.32,0:33:05.40,English,,0,0,0,,The king and Sargon were lovers who loved each other deeply, okay?\N{\rChinese}国王和萨尔贡是恋人，彼此深深相爱，好吗？
+Dialogue: 0,0:33:06.10,0:33:10.24,English,,0,0,0,,But that doesn't prevent Sargon from killing the king\N{\rChinese}但这并不妨萨尔贡杀死国王。
+Dialogue: 0,0:33:10.24,0:33:11.70,English,,0,0,0,,and taking the throne, which\N{\rChinese}并夺得王位，随后在城邦中掀起一场大规模战争
+Dialogue: 0,0:33:11.70,0:33:15.26,English,,0,0,0,,starts this massive war in the city -states in\N{\rChinese}这场战争在城邦中掀起，随后萨尔贡最终获胜，好吗？
+Dialogue: 0,0:33:15.26,0:33:18.08,English,,0,0,0,,which Sargon will eventually triumph, okay?\N{\rChinese}萨尔贡最终获胜，好吗？
+Dialogue: 0,0:33:19.52,0:33:21.60,English,,0,0,0,,Well, so\N{\rChinese}好吧，接下来是
+Dialogue: 0,0:33:21.60,0:33:23.36,English,,0,0,0,,the thing about Sargon is he\N{\rChinese}关于萨尔贡的事是他
+Dialogue: 0,0:33:23.36,0:33:28.06,English,,0,0,0,,is really good at winning\N{\rChinese}非常擅长取胜
+Dialogue: 0,0:33:28.06,0:33:29.38,English,,0,0,0,,the favor of mentors,\N{\rChinese}得到导师的青睐，
+Dialogue: 0,0:33:29.74,0:33:31.22,English,,0,0,0,,right? And ultimately,\N{\rChinese}对吧？最终，
+Dialogue: 0,0:33:31.24,0:33:34.70,English,,0,0,0,,he will betray mentors in order to achieve his ambition.\N{\rChinese}他将背叛导师以实现自己的抱负。
+Dialogue: 0,0:33:35.10,0:33:37.62,English,,0,0,0,,Well, that's also true for Philip of Macedon.\N{\rChinese}好吧，这点也适用于马其安王子菲利浦。
+Dialogue: 0,0:33:37.78,0:33:41.34,English,,0,0,0,,So Philip of Macedon, he's a prince of Macedon.\N{\rChinese}于是菲利浦·马其安王子，他是马其安王子。
+Dialogue: 0,0:33:41.64,0:33:46.20,English,,0,0,0,,And at this time in the Greek world, Thebes was a dominant military power.\N{\rChinese}此时希腊世界，底比斯是主导的陆权强国。
+Dialogue: 0,0:33:46.20,0:33:51.00,English,,0,0,0,,Thebes defeated Macedon in a battle, and Thebes demanded hostages.\N{\rChinese}底比斯在一场战斗中击败马其安王子，并要求人质。
+Dialogue: 0,0:33:51.26,0:33:54.46,English,,0,0,0,,So Philip was sent as a hostage to Thebes,\N{\rChinese}于是菲利浦被送往底比斯做人质，
+Dialogue: 0,0:33:54.60,0:33:57.94,English,,0,0,0,,where he is now mentored by the greatest military\N{\rChinese}在那里他得以大将为师。
+Dialogue: 0,0:33:57.94,0:34:02.36,English,,0,0,0,,strategist of this time named Ipam -maenodes,\N{\rChinese}这位时代理事家叫伊帕马内多斯，
+Dialogue: 0,0:34:02.58,0:34:04.18,English,,0,0,0,,okay? And so\N{\rChinese}好吧，接着说，
+Dialogue: 0,0:34:04.18,0:34:07.94,English,,0,0,0,,Philip II is learning how to win battles.\N{\rChinese}菲利浦二世正在学会如何取胜战斗。
+Dialogue: 0,0:34:08.02,0:34:13.10,English,,0,0,0,,He's learning all the major military innovations of this time from the greatest general of this time.\N{\rChinese}他正在学习当时最伟大将军的主要军事创新。
+Dialogue: 0,0:34:13.22,0:34:16.96,English,,0,0,0,,And then what he will do is he will return to Macedon,\N{\rChinese}然后他会回到马其顿，
+Dialogue: 0,0:34:17.16,0:34:19.90,English,,0,0,0,,reorganize the Macedon army, and then\N{\rChinese}重新组织马其顿军队，
+Dialogue: 0,0:34:19.90,0:34:25.70,English,,0,0,0,,take them to conquer Thebes as well as the entire Greek world at the Battle of Chaeronea,\N{\rChinese}把他们带去征服底比斯，并在查罗尼亚战役中征服整个希腊世界。
+Dialogue: 0,0:34:25.88,0:34:28.70,English,,0,0,0,,okay? Well,\N{\rChinese}好吧，
+Dialogue: 0,0:34:28.70,0:34:30.90,English,,0,0,0,,this pattern is also true for Julius Caesar.\N{\rChinese}这个模式同样适用于尤利乌斯·凯撒。
+Dialogue: 0,0:34:31.76,0:34:34.32,English,,0,0,0,,At this time, which\N{\rChinese}此时，
+Dialogue: 0,0:34:34.32,0:34:37.66,English,,0,0,0,,is about like 50 BCE in Rome,\N{\rChinese}大约公元前50年，罗马的情形如此。
+Dialogue: 0,0:34:37.94,0:34:40.00,English,,0,0,0,,Pompey the Great is the greatest general.\N{\rChinese}庞培大帝是最伟大的将军。
+Dialogue: 0,0:34:40.20,0:34:42.62,English,,0,0,0,,He's the man that everyone admires.\N{\rChinese}他是大家钦佩的人。
+Dialogue: 0,0:34:42.84,0:34:44.08,English,,0,0,0,,He has the most political power.\N{\rChinese}他拥有最大的政治权力。
+Dialogue: 0,0:34:44.08,0:34:47.98,English,,0,0,0,,So what Julius Caesar does is he marries his daughter to Pompey the Great,\N{\rChinese}于是，尤利乌斯·凯撒把自己的女儿嫁给庞培大帝，形成两者的政治联盟。
+Dialogue: 0,0:34:48.10,0:34:50.68,English,,0,0,0,,and this forms a political alliance between the two.\N{\rChinese}and this forms a politicalalliance between the two.
+Dialogue: 0,0:34:51.14,0:34:53.20,English,,0,0,0,,Pompey the Great grants him\N{\rChinese}庞培大帝授予他
+Dialogue: 0,0:34:54.58,0:34:56.90,English,,0,0,0,,generalship of the province of Gaul, where\N{\rChinese}高卢省的将军职务
+Dialogue: 0,0:34:56.90,0:34:59.86,English,,0,0,0,,Julius Caesar will win military glory, okay?\N{\rChinese}朱利叶斯·凯撒将赢得军事荣耀，好吗？
+Dialogue: 0,0:34:59.96,0:35:04.16,English,,0,0,0,,It basically establishes the power, prestige, and fame of Julius Caesar.\N{\rChinese}它基本确立了朱利叶斯·凯撒的权力、声望与名声。
+Dialogue: 0,0:35:04.56,0:35:07.08,English,,0,0,0,,And this will start a civil war in which\N{\rChinese}这将引发一场内战，
+Dialogue: 0,0:35:07.08,0:35:09.96,English,,0,0,0,,Julius Caesar will defeat his mentor,\N{\rChinese}朱利叶斯·凯撒将在帕尔萨卢斯战役中击败他的师傅，庞培，好吗？
+Dialogue: 0,0:35:10.16,0:35:13.14,English,,0,0,0,,Pompey, at the Battle of Pharsalus, okay?\N{\rChinese}与模式相反。嗯，同样的情况也适用于成吉斯·可汗。
+Dialogue: 0,0:35:13.14,0:35:16.62,English,,0,0,0,,Versus the pattern. Well, the same is also true for Genghis Khan.\N{\rChinese}Versus the pattern. Well, the same is also true for Genghis Khan.
+Dialogue: 0,0:35:16.84,0:35:19.90,English,,0,0,0,,He is mentored by two chieftains, Jamukha and\N{\rChinese}他由两位酋长——贾穆卡和托戈尔——指导，随后他将击败两者以夺取蒙古世界的领导权。
+Dialogue: 0,0:35:19.90,0:35:25.82,English,,0,0,0,,Togol, and he will defeat both in order to gain leadership of the Mongol world.\N{\rChinese}这说明了他的无情。
+Dialogue: 0,0:35:26.10,0:35:28.82,English,,0,0,0,,So it shows you how ruthless\N{\rChinese}So it shows youhow ruthless
+Dialogue: 0,0:35:28.82,0:35:32.56,English,,0,0,0,,and ambitious these great conquerors are.\N{\rChinese}和这些伟大征服者一样雄心勃勃。
+Dialogue: 0,0:35:32.80,0:35:34.82,English,,0,0,0,,But at the same time, let's remember this.\N{\rChinese}但与此同时，让我们记住这一点。
+Dialogue: 0,0:35:35.78,0:35:39.50,English,,0,0,0,,Philip II had a really talented subordinate in Parmenion.\N{\rChinese}菲利普二世也有一位才华横溢的下属帕尔梅尼翁。
+Dialogue: 0,0:35:39.74,0:35:42.68,English,,0,0,0,,Parmenion was really the person in charge,\N{\rChinese}帕尔梅尼翁确实是负责人，
+Dialogue: 0,0:35:42.68,0:35:45.22,English,,0,0,0,,in charge of the Macedon army.\N{\rChinese}掌管马其军队。
+Dialogue: 0,0:35:45.44,0:35:47.82,English,,0,0,0,,In fact, it was Parmenion who\N{\rChinese}实际上正是帕尔梅尼翁才
+Dialogue: 0,0:35:47.82,0:35:52.60,English,,0,0,0,,was most responsible for Alexander the Great's conquest of Persia, okay?\N{\rChinese}最主要负责亚历山大大帝征服波斯的，是吗？
+Dialogue: 0,0:35:53.26,0:35:58.72,English,,0,0,0,,Julius Caesar had a talented subordinate in Titus Labinius,\N{\rChinese}朱利叶·凯撒也有一位才华横溢的下属提图斯·拉比尼乌斯。
+Dialogue: 0,0:35:58.84,0:36:01.82,English,,0,0,0,,who was responsible for his victories in Gaul.\N{\rChinese}提图斯·拉比尼乌斯负责他在高卢的胜利。
+Dialogue: 0,0:36:01.96,0:36:05.84,English,,0,0,0,,And then Genghis Khan had a talented subordinate in Subutai,\N{\rChinese}于是成吉斯·汗也有一位才华横溢的下属苏布塔伊，
+Dialogue: 0,0:36:06.02,0:36:09.76,English,,0,0,0,,who was considered one of the greatest military strategists ever.\N{\rChinese}他被认为是史上最伟大的军事策划家之一。
+Dialogue: 0,0:36:10.38,0:36:13.22,English,,0,0,0,,Okay? And so what this tells us is\N{\rChinese}好了？这说明了什么呢？
+Dialogue: 0,0:36:14.54,0:36:16.36,English,,0,0,0,,they're able to have,\N{\rChinese}他们能做到，
+Dialogue: 0,0:36:16.94,0:36:20.20,English,,0,0,0,,they're able to exercise tremendous judgment in people.\N{\rChinese}他们能在选人上做出巨大判断。
+Dialogue: 0,0:36:20.42,0:36:23.26,English,,0,0,0,,They know who to trust. They know who not to trust.\N{\rChinese}他们知道谁值得信任，谁不值得。
+Dialogue: 0,0:36:23.56,0:36:25.46,English,,0,0,0,,They know who is talented and who is not talented.\N{\rChinese}他们知道谁有才华，谁没有。
+Dialogue: 0,0:36:25.66,0:36:29.24,English,,0,0,0,,They know how to win the loyalty of their subordinates.\N{\rChinese}他们知道怎样赢得下属的忠诚。
+Dialogue: 0,0:36:29.42,0:36:31.48,English,,0,0,0,,Okay? That's a very impressive skill.\N{\rChinese}好了？这是一项很了不起的技巧。
+Dialogue: 0,0:36:32.32,0:36:36.82,English,,0,0,0,,And then the question then is, how is it possible that they are ruthlessly ambitious,\N{\rChinese}于是问题来了：他们怎么能如此无情地雄心勃发？
+Dialogue: 0,0:36:37.34,0:36:41.50,English,,0,0,0,,yet at the same time, they're able to delegate power in a very effective manner?\N{\rChinese}又怎么能在同一时间以非常有效的方式委派权力？
+Dialogue: 0,0:36:41.72,0:36:42.96,English,,0,0,0,,And the answer is,\N{\rChinese}答案是，
+Dialogue: 0,0:36:43.66,0:36:47.16,English,,0,0,0,,they all believe they have a divine mission.\N{\rChinese}他们都认为自己有神圣使命。
+Dialogue: 0,0:36:47.60,0:36:49.98,English,,0,0,0,,Their goal is not to conquer the world.\N{\rChinese}他们的目标不是征服世界。
+Dialogue: 0,0:36:50.14,0:36:53.16,English,,0,0,0,,Their goal is to change the world for the better,\N{\rChinese}他们的目标是让世界变得更好。
+Dialogue: 0,0:36:53.26,0:36:55.04,English,,0,0,0,,as demanded by the gods.\N{\rChinese}如神所命，按神之意。
+Dialogue: 0,0:36:55.90,0:36:59.14,English,,0,0,0,,Does that make sense? That's the only way we can understand this.\N{\rChinese}这样说对吗？这才是我们能理解的唯一方式。
+Dialogue: 0,0:36:59.30,0:37:01.66,English,,0,0,0,,Each in their own way believe they are the Messiah,\N{\rChinese}各自以自己的方式认为自己是弥赛亚。
+Dialogue: 0,0:37:01.98,0:37:05.66,English,,0,0,0,,sent by the gods to shadow the world\N{\rChinese}被神派遣，投影于世间
+Dialogue: 0,0:37:05.66,0:37:08.60,English,,0,0,0,,so that it can be built anew.\N{\rChinese}以便让世界得以重建
+Dialogue: 0,0:37:10.72,0:37:14.32,English,,0,0,0,,Okay? And that's what drives them to kill their beloved.\N{\rChinese}好吧？这正是他们杀爱人的动力
+Dialogue: 0,0:37:15.14,0:37:21.08,English,,0,0,0,,And that's what drives them to do what they do.\N{\rChinese}这正是驱使他们做事的原因。
+Dialogue: 0,0:37:21.18,0:37:23.90,English,,0,0,0,,Okay? All four, ultimately,\N{\rChinese}好吧？四者最终，
+Dialogue: 0,0:37:24.00,0:37:28.08,English,,0,0,0,,they are able to conquer the world because they develop a professional,\N{\rChinese}他们能征服世界，因为他们培养了专业的军队。
+Dialogue: 0,0:37:28.12,0:37:30.08,English,,0,0,0,,meritocratic, and innovative army.\N{\rChinese}特才制的、创新的军队。
+Dialogue: 0,0:37:30.26,0:37:31.58,English,,0,0,0,,Okay? What does professional mean?\N{\rChinese}好吧？专业是什么意思？
+Dialogue: 0,0:37:31.68,0:37:35.44,English,,0,0,0,,It means that, look at Sargon of the Great, Sargon of Akhet.\N{\rChinese}就是这样，看看大阿克赫特的萨尔贡。
+Dialogue: 0,0:37:35.84,0:37:38.30,English,,0,0,0,,At this time, there were no professional soldiers.\N{\rChinese}此时，尚无职业士兵。
+Dialogue: 0,0:37:39.36,0:37:41.10,English,,0,0,0,,Most people were farmers.\N{\rChinese}大多数人是农夫。
+Dialogue: 0,0:37:41.32,0:37:43.56,English,,0,0,0,,And you only fought off -season.\N{\rChinese}你只在季节间作战。
+Dialogue: 0,0:37:43.74,0:37:45.94,English,,0,0,0,,Okay? You might fight two, three months of the year.\N{\rChinese}好的？你可能一年只打两三个月。
+Dialogue: 0,0:37:46.24,0:37:50.82,English,,0,0,0,,Sargon of Akhet was the first to say, nope, we will have professional soldiers.\N{\rChinese}阿克赫特的萨尔贡是第一个说：不，我们要有职业士兵。
+Dialogue: 0,0:37:51.06,0:37:56.62,English,,0,0,0,,Everyone else will pay taxes in order for me to pay my professional army.\N{\rChinese}其他人都要交税，顺序给我支付我的职业军队。
+Dialogue: 0,0:37:56.78,0:38:02.46,English,,0,0,0,,But these are professional soldiers. They are full -time soldiers at war.\N{\rChinese}但这些是职业士兵。他们是全职的战士。
+Dialogue: 0,0:38:02.78,0:38:07.62,English,,0,0,0,,Okay? Meritocratic means the system before was,\N{\rChinese}好吧？“按才干”意味着之前的制度，贵族总是优先。
+Dialogue: 0,0:38:07.62,0:38:11.08,English,,0,0,0,,the nobility always had a priority.\N{\rChinese}the nobility always had a priority.
+Dialogue: 0,0:38:11.20,0:38:13.04,English,,0,0,0,,The nobility was always right. And\N{\rChinese}贵族总是对的。且
+Dialogue: 0,0:38:13.04,0:38:16.46,English,,0,0,0,,Sargon of Akhet made the system more open\N{\rChinese}阿克赫特的萨尔贡让制度更开放
+Dialogue: 0,0:38:16.46,0:38:18.70,English,,0,0,0,,and fair and meritocratic.\N{\rChinese}并且公平、按才干。
+Dialogue: 0,0:38:19.10,0:38:21.46,English,,0,0,0,,So if you were talented and you were brave,\N{\rChinese}如果你有才华且勇敢，就能在军中晋升，不受血统与背景影响。
+Dialogue: 0,0:38:21.58,0:38:26.34,English,,0,0,0,,you could rise within the ranks of the army regardless of your heritage\N{\rChinese}如果你才华勇敢，可在军中晋升，不受血统与背景影响。
+Dialogue: 0,0:38:26.34,0:38:27.70,English,,0,0,0,,and your background.\N{\rChinese}若你才华勇敢，可在军中晋升，不受血统与背景影响。
+Dialogue: 0,0:38:28.16,0:38:32.54,English,,0,0,0,,Innovative means they were always adapting and learning.\N{\rChinese}创新意味着他们总是在适应与学习。
+Dialogue: 0,0:38:32.78,0:38:37.40,English,,0,0,0,,So Sargon of Akhet was able to conquer the Sumerian city -states, which again were walls.\N{\rChinese}于是阿克赫特的萨尔贡得以征服苏美尔城邦，再次成为壁垒。
+Dialogue: 0,0:38:37.40,0:38:42.00,English,,0,0,0,,By adopting siege warfare, which was unheard of before.\N{\rChinese}通过采用攻城战术，这在之前是闻所未闻的。
+Dialogue: 0,0:38:42.20,0:38:45.74,English,,0,0,0,,Okay? And the same is true for Philip,\N{\rChinese}好的？同样的情况也适用于菲利普，
+Dialogue: 0,0:38:46.02,0:38:48.30,English,,0,0,0,,Julius Caesar, and Genghis Khan.\N{\rChinese}朱利叶斯·凯撒和成吉斯·汗。
+Dialogue: 0,0:38:48.52,0:38:49.90,English,,0,0,0,,Alright? So again,\N{\rChinese}好的？所以又是这样。
+Dialogue: 0,0:38:50.06,0:38:55.18,English,,0,0,0,,Genghis Khan fits into a pattern here of what these great conquerors looked like.\N{\rChinese}成吉斯·汗的形象正好落在这类伟大征服者的模式里。
+Dialogue: 0,0:38:55.80,0:38:57.14,English,,0,0,0,,Does it make sense to you guys?\N{\rChinese}对你们来说，这样说通吗？
+Dialogue: 0,0:39:01.18,0:39:03.80,English,,0,0,0,,Any questions? So far?\N{\rChinese}到此为止，大家还有问题吗？
+Dialogue: 0,0:39:05.14,0:39:06.42,English,,0,0,0,,Alright, let's continue.\N{\rChinese}好的，继续。
+Dialogue: 0,0:39:07.88,0:39:09.48,English,,0,0,0,,Okay. So\N{\rChinese}好的。那么
+Dialogue: 0,0:39:09.48,0:39:15.24,English,,0,0,0,,now I want to discuss why the Mongols did what they did.\N{\rChinese}现在我要讨论为什么蒙古人会这么做。
+Dialogue: 0,0:39:15.82,0:39:20.22,English,,0,0,0,,Okay? Why did the Mongols commit so many atrocities?\N{\rChinese}好的？蒙古人为什么犯下这么多暴行？
+Dialogue: 0,0:39:21.60,0:39:26.48,English,,0,0,0,,What was the logic or reasoning behind their brutality?\N{\rChinese}他们的残暴背后是什么逻辑或推理？
+Dialogue: 0,0:39:27.00,0:39:28.32,English,,0,0,0,,Alright? Alright.\N{\rChinese}好的？好的。
+Dialogue: 0,0:39:28.58,0:39:30.94,English,,0,0,0,,In order for me to do so,\N{\rChinese}为了让我能做到这一点，
+Dialogue: 0,0:39:31.04,0:39:35.90,English,,0,0,0,,I'm going to introduce to you today a new analytical model called game theory.\N{\rChinese}今天我要给你们介绍一种新的分析模型，叫做博弈论。
+Dialogue: 0,0:39:36.14,0:39:38.56,English,,0,0,0,,Okay? The idea of game theory is this.\N{\rChinese}博弈论的核心思想是这样的。
+Dialogue: 0,0:39:39.44,0:39:45.14,English,,0,0,0,,All human action can be perceived as a game in\N{\rChinese}所有人类行为都可以被视为一场游戏
+Dialogue: 0,0:39:45.14,0:39:49.66,English,,0,0,0,,which two people, at least two people are playing and they're trying to defeat each other.\N{\rChinese}在这场游戏里，至少有两个人在玩耶，他们互相试图击败对方
+Dialogue: 0,0:39:50.28,0:39:54.02,English,,0,0,0,,Okay? So for example, let's just say, you know,\N{\rChinese}好吧？举个例子，假设你知道……
+Dialogue: 0,0:39:55.64,0:40:00.30,English,,0,0,0,,these two guys are fighting each other.\N{\rChinese}这两个人互相争斗。
+Dialogue: 0,0:40:00.40,0:40:02.86,English,,0,0,0,,Okay? They want to kill each other. Now,\N{\rChinese}好吧？他们想互相杀死。现在，
+Dialogue: 0,0:40:03.00,0:40:04.18,English,,0,0,0,,according to game theory,\N{\rChinese}根据博弈论，
+Dialogue: 0,0:40:04.18,0:40:09.00,English,,0,0,0,,each person has a distinctive optimal strategy.\N{\rChinese}每个人都有独特的最佳策略。
+Dialogue: 0,0:40:09.20,0:40:10.50,English,,0,0,0,,Okay? It's called optimal strategy.\N{\rChinese}好的？它叫做最佳策略。
+Dialogue: 0,0:40:11.32,0:40:15.16,English,,0,0,0,,Optimal strategy is given the constraints of your circumstance,\N{\rChinese}最佳策略是在你所处环境约束下给出的。
+Dialogue: 0,0:40:15.98,0:40:19.02,English,,0,0,0,,what is the best way for you to win?\N{\rChinese}什么是你获胜的最佳方式？
+Dialogue: 0,0:40:19.36,0:40:21.68,English,,0,0,0,,Okay. So if you're the big guy, okay?\N{\rChinese}好的。那如果你是大个子，好的？
+Dialogue: 0,0:40:21.78,0:40:25.34,English,,0,0,0,,This is the big guy. He wants the game to be fair,\N{\rChinese}这是大个子。他想让比赛公平，
+Dialogue: 0,0:40:25.48,0:40:29.24,English,,0,0,0,,which is like, let's just arrange to fight at a certain time\N{\rChinese}它就像是，先安排好在某个时间打仗，然后我们就去打。
+Dialogue: 0,0:40:29.24,0:40:30.94,English,,0,0,0,,and we'll fight.\N{\rChinese}好的？他想用这个策略。
+Dialogue: 0,0:40:31.08,0:40:35.02,English,,0,0,0,,Okay? And he wants to use this strategy\N{\rChinese}Okay? And he wantsto use this strategy
+Dialogue: 0,0:40:35.02,0:40:36.82,English,,0,0,0,,because he is most likely to win.\N{\rChinese}因为他最有可能赢。
+Dialogue: 0,0:40:37.46,0:40:39.56,English,,0,0,0,,But if you're this guy, a small guy, right?\N{\rChinese}但如果你是那个人，小个子，对吧？
+Dialogue: 0,0:40:39.70,0:40:43.64,English,,0,0,0,,Let's call him A, and you're fighting B, you don't want to do that because you're bound to lose.\N{\rChinese}设他为A，你与B对战，你不想这么做，因为你注定会输。
+Dialogue: 0,0:40:43.76,0:40:46.66,English,,0,0,0,,So what you do is you figure out a time when\N{\rChinese}于是你要找个时机
+Dialogue: 0,0:40:46.66,0:40:49.06,English,,0,0,0,,B is most vulnerable.\N{\rChinese}B最脆弱的时候
+Dialogue: 0,0:40:49.24,0:40:51.76,English,,0,0,0,,Maybe when he's asleep or he's eating and you attack him then.\N{\rChinese}也许他睡着或吃饭时你就去打
+Dialogue: 0,0:40:51.98,0:40:54.72,English,,0,0,0,,Okay? You basically have to cheat in order to win.\N{\rChinese}好的？你基本上要靠作弊来取胜。
+Dialogue: 0,0:40:54.94,0:40:58.70,English,,0,0,0,,So each individual has a distinctive optimal strategy.\N{\rChinese}于是每个人都有独特的最佳策略。
+Dialogue: 0,0:40:58.92,0:41:01.16,English,,0,0,0,,All right? Now, this sounds easy.\N{\rChinese}好了？听起来很简单。
+Dialogue: 0,0:41:01.16,0:41:05.50,English,,0,0,0,,But it's not because often there are multiple players in the game.\N{\rChinese}但并非如此，因为游戏里往往有多名玩家。
+Dialogue: 0,0:41:05.60,0:41:07.74,English,,0,0,0,,Okay? So you have C and you have D.\N{\rChinese}好？于是你有C也有D。
+Dialogue: 0,0:41:08.28,0:41:10.42,English,,0,0,0,,And when you have multiple players in the game,\N{\rChinese}而当游戏里有多名玩家时，
+Dialogue: 0,0:41:10.54,0:41:13.84,English,,0,0,0,,you have to think about alliances and coordination.\N{\rChinese}你需要考虑联盟与协作。
+Dialogue: 0,0:41:14.26,0:41:16.62,English,,0,0,0,,Okay? So it's possible that A and\N{\rChinese}好？所以A和……
+Dialogue: 0,0:41:16.62,0:41:19.46,English,,0,0,0,,D will form an alliance to attack B, which\N{\rChinese}D将组联盟攻击B。
+Dialogue: 0,0:41:19.46,0:41:22.02,English,,0,0,0,,will force B and C to form an alliance.\N{\rChinese}将迫使B和C结盟。
+Dialogue: 0,0:41:22.14,0:41:25.42,English,,0,0,0,,Okay? But once maybe C\N{\rChinese}好？但一旦C……
+Dialogue: 0,0:41:25.42,0:41:30.22,English,,0,0,0,,and B kill off D, then A and C will form an alliance to kill off B.\N{\rChinese}而B消灭D后，A和C再结盟消灭B。
+Dialogue: 0,0:41:30.34,0:41:31.84,English,,0,0,0,,Okay? So\N{\rChinese}好？所以
+Dialogue: 0,0:41:31.84,0:41:35.48,English,,0,0,0,,what this tells us is not only\N{\rChinese}这告诉我们的不只是
+Dialogue: 0,0:41:35.48,0:41:37.84,English,,0,0,0,,does each person have an optimal\N{\rChinese}每个人都有最佳
+Dialogue: 0,0:41:37.84,0:41:42.64,English,,0,0,0,,strategy given the constraints of the game,\N{\rChinese}给定游戏约束的策略，
+Dialogue: 0,0:41:42.78,0:41:47.26,English,,0,0,0,,but this optimal strategy will change according to the circumstances.\N{\rChinese}但最佳策略会随情况而变。
+Dialogue: 0,0:41:47.84,0:41:50.84,English,,0,0,0,,All right? Also, what's important for us to remember is that\N{\rChinese}好了？另外，记住的重要点是…
+Dialogue: 0,0:41:50.84,0:41:56.32,English,,0,0,0,,there are always these external constraints.\N{\rChinese}总有这些外部约束。
+Dialogue: 0,0:41:57.16,0:42:01.14,English,,0,0,0,,External constraints might be just weather or weapons.\N{\rChinese}外部约束可能只是天气或武器。
+Dialogue: 0,0:42:01.16,0:42:05.72,English,,0,0,0,,Or whatever. Okay? So game theory sounds easy, but it's extremely complicated\N{\rChinese}好？所以博弈理论听起来简单，却极其复杂。
+Dialogue: 0,0:42:06.20,0:42:08.30,English,,0,0,0,,because you always have to switch perspective\N{\rChinese}因为你总是要切换视角
+Dialogue: 0,0:42:08.88,0:42:13.58,English,,0,0,0,,in order to better understand why this person is doing what he or she is doing.\N{\rChinese}以便更好地理解此人为何如此行动。
+Dialogue: 0,0:42:13.84,0:42:16.04,English,,0,0,0,,Okay? Does that make sense? All right.\N{\rChinese}好？这样说通吗？好了。
+Dialogue: 0,0:42:16.10,0:42:19.60,English,,0,0,0,,So let's look at game theory\N{\rChinese}先来看看博弈理论
+Dialogue: 0,0:42:19.60,0:42:22.04,English,,0,0,0,,and apply it to the Mongols.\N{\rChinese}再把它应用到蒙古人身上
+Dialogue: 0,0:42:22.18,0:42:26.60,English,,0,0,0,,Okay, remember, the Mongols are a borderland people and they're fighting empires.\N{\rChinese}记住，蒙古人是边疆民族，正在与帝国作战
+Dialogue: 0,0:42:26.76,0:42:30.44,English,,0,0,0,,And remember, if you're a borderland, okay, borderland,\N{\rChinese}记住，若是边疆民族，先说边疆，帝国则有三种优势。
+Dialogue: 0,0:42:33.76,0:42:36.54,English,,0,0,0,,empire, you have three distinct advantages.\N{\rChinese}好？你有能量，
+Dialogue: 0,0:42:37.20,0:42:38.44,English,,0,0,0,,Okay? You have energy,\N{\rChinese}Okay? You have energy,
+Dialogue: 0,0:42:38.66,0:42:42.18,English,,0,0,0,,you're open,\N{\rChinese}你们很开放，
+Dialogue: 0,0:42:42.36,0:42:44.18,English,,0,0,0,,and you're opportunistic.\N{\rChinese}你们很机动。
+Dialogue: 0,0:42:46.72,0:42:51.40,English,,0,0,0,,Okay? These are the three advantages that you have as a borderland people like the Mongols.\N{\rChinese}好的？这就是你们作为蒙古人这类边疆民族所拥有的三大优势。
+Dialogue: 0,0:42:51.58,0:42:54.32,English,,0,0,0,,As an empire, your three advantages are mass,\N{\rChinese}作为帝国，你的三大优势是规模大
+Dialogue: 0,0:42:54.62,0:42:56.52,English,,0,0,0,,you have a lot of people, you have organization,\N{\rChinese}你有大量人口
+Dialogue: 0,0:42:56.94,0:43:00.72,English,,0,0,0,,you have depth.\N{\rChinese}你有组织结构和层次深度
+Dialogue: 0,0:43:01.42,0:43:05.50,English,,0,0,0,,Okay? So it seems,\N{\rChinese}好的？所以看起来，
+Dialogue: 0,0:43:05.86,0:43:09.06,English,,0,0,0,,so again, given the strengths,\N{\rChinese}再说一次，考虑到优势，
+Dialogue: 0,0:43:09.36,0:43:13.44,English,,0,0,0,,it is not that easy to determine who will win.\N{\rChinese}不太容易判断谁会赢。
+Dialogue: 0,0:43:13.58,0:43:17.58,English,,0,0,0,,Okay? But we're trying to figure out the mentality of the Mongols.\N{\rChinese}好的？我们正试图弄清蒙古人的心态。
+Dialogue: 0,0:43:17.68,0:43:20.74,English,,0,0,0,,Okay? We know the Mongols have these three strengths and\N{\rChinese}好的？我们知道蒙古人有这三大优势，并且他们正试图击败拥有这三大优势的帝国。
+Dialogue: 0,0:43:20.74,0:43:24.02,English,,0,0,0,,they're trying to defeat the empire, which has these three strengths.\N{\rChinese}好的？他们正试图击败拥有这三大优势的帝国。
+Dialogue: 0,0:43:24.20,0:43:25.54,English,,0,0,0,,At the same time,\N{\rChinese}与此同时，
+Dialogue: 0,0:43:25.58,0:43:29.36,English,,0,0,0,,we have to remember the Mongols themselves have three fundamental weaknesses\N{\rChinese}我们要记得蒙古人自身也有三大基本弱点，
+Dialogue: 0,0:43:29.36,0:43:30.70,English,,0,0,0,,that they must compensate for.\N{\rChinese}它们必须补偿。
+Dialogue: 0,0:43:30.70,0:43:32.04,English,,0,0,0,,They are to win.\N{\rChinese}他们要取胜。
+Dialogue: 0,0:43:32.20,0:43:34.22,English,,0,0,0,,Okay? So let's go over their major constraints.\N{\rChinese}好吧？那我们来梳理他们的主要制约。
+Dialogue: 0,0:43:34.58,0:43:38.18,English,,0,0,0,,The first constraint that they have is, excuse me, low population.\N{\rChinese}第一个制约是，抱歉，人口稀少。
+Dialogue: 0,0:43:40.58,0:43:42.14,English,,0,0,0,,Okay? There are not that many of them.\N{\rChinese}好的？他们并不多。
+Dialogue: 0,0:43:42.22,0:43:45.06,English,,0,0,0,,In fact, they're often outnumbered, often 100 to 1.\N{\rChinese}实际上，他们往往被数目多，常是100比1。
+Dialogue: 0,0:43:45.68,0:43:47.10,English,,0,0,0,,And so that's a major constraint.\N{\rChinese}于是这就是一个主要制约。
+Dialogue: 0,0:43:49.08,0:43:51.50,English,,0,0,0,,When Genghis Khan was alive, at his height,\N{\rChinese}当成吉·汗在世时，巅峰时期，他的部队在十万到二十万之间。
+Dialogue: 0,0:43:51.56,0:43:55.70,English,,0,0,0,,he had anywhere between 100,000 to 200,000 troops.\N{\rChinese}好吧？第二个制约是他们拥有大量人力。
+Dialogue: 0,0:43:56.68,0:44:00.68,English,,0,0,0,,Okay? The second constraint is that they have a lot of people.\N{\rChinese}Okay? The second constraint isthat they have a lot of people.
+Dialogue: 0,0:44:00.68,0:44:04.48,English,,0,0,0,,The third constraint is the idea of distance and geography.\N{\rChinese}第三个制约是距离与地理的概念。
+Dialogue: 0,0:44:04.82,0:44:05.74,English,,0,0,0,,What I mean by that\N{\rChinese}我所说的意思是
+Dialogue: 0,0:44:05.74,0:44:09.32,English,,0,0,0,,is the Mongols have to\N{\rChinese}蒙古人必须
+Dialogue: 0,0:44:09.32,0:44:12.04,English,,0,0,0,,fight over huge territory\N{\rChinese}战斗大块领土
+Dialogue: 0,0:44:12.04,0:44:16.32,English,,0,0,0,,because Central Asia, Asia is a huge land, right?\N{\rChinese}因为中亚，亚洲是大块陆地，对吧？
+Dialogue: 0,0:44:16.50,0:44:20.06,English,,0,0,0,,And this is problematic because of supply issues, supplies.\N{\rChinese}这点问题在于补给，补给。
+Dialogue: 0,0:44:21.38,0:44:24.34,English,,0,0,0,,What this means is if you are the Mongols,\N{\rChinese}这意味着如果你是蒙古人，你永远不会去打的就是消耗战。
+Dialogue: 0,0:44:24.36,0:44:27.86,English,,0,0,0,,the thing that you cannot ever fight is a war of attrition. Okay?\N{\rChinese}消耗战就是一场漫长的战争。
+Dialogue: 0,0:44:28.64,0:44:34.42,English,,0,0,0,,A war of attrition just means a long war in\N{\rChinese}好的？
+Dialogue: 0,0:44:34.42,0:44:37.32,English,,0,0,0,,which you're trying to deplete the other person's resources.\N{\rChinese}你正试图耗尽对方的资源。
+Dialogue: 0,0:44:37.92,0:44:40.32,English,,0,0,0,,If you're the Mongols, the worst thing that\N{\rChinese}如果你是蒙古人，最糟糕的事是……
+Dialogue: 0,0:44:40.32,0:44:42.88,English,,0,0,0,,can ever happen to you is if you're stuck in a war of attrition.\N{\rChinese}最糟糕的事就是陷入消耗战。
+Dialogue: 0,0:44:43.26,0:44:46.42,English,,0,0,0,,If the siege is too long or the war lasts for too long.\N{\rChinese}如果围城时间太长或战争持续太久。
+Dialogue: 0,0:44:46.54,0:44:48.48,English,,0,0,0,,Okay? Because eventually, you'll run out of soldiers.\N{\rChinese}好吧？因为最终，你会兵员用尽。
+Dialogue: 0,0:44:49.34,0:44:51.38,English,,0,0,0,,So that's what the Mongols fear the most.\N{\rChinese}这就是蒙古人最怕的事。
+Dialogue: 0,0:44:51.56,0:44:55.10,English,,0,0,0,,Okay? So distance. The last thing that's really important is governance.\N{\rChinese}好吧？所以距离。最后一个真正重要的点是治理。
+Dialogue: 0,0:44:56.78,0:45:00.68,English,,0,0,0,,Governance just means that you have to be able to control the world. It means the Mongols are nomadic people\N{\rChinese}治理就是你必须能掌控世界。它意味着蒙古人是游牧民族，不知道怎样治理别人。
+Dialogue: 0,0:45:00.68,0:45:04.78,English,,0,0,0,,who do not know how to govern other people.\N{\rChinese}who do not know how to govern other people.
+Dialogue: 0,0:45:05.16,0:45:08.90,English,,0,0,0,,So they don't want to be stuck in a situation where they're forced to govern other people.\N{\rChinese}于是他们不想陷入被迫治理他人的境地。
+Dialogue: 0,0:45:09.62,0:45:11.72,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}好吧？这样说通吗？
+Dialogue: 0,0:45:12.32,0:45:15.48,English,,0,0,0,,And what this means is the idea of whole territory.\N{\rChinese}这意味着整个领土的概念。
+Dialogue: 0,0:45:16.90,0:45:20.98,English,,0,0,0,,When you conquer a new land, what you usually do is you put in place a new regime.\N{\rChinese}当你征服一块新土地时，通常会安插一个新政权。
+Dialogue: 0,0:45:21.26,0:45:23.94,English,,0,0,0,,They can't do that because they don't have the personnel for that.\N{\rChinese}他们做不到这件事，因为他们没有相应的人手。
+Dialogue: 0,0:45:24.54,0:45:27.80,English,,0,0,0,,Okay? They often don't even have the personnel for siege warfare.\N{\rChinese}好吧？他们甚至常常没有足够的人手来进行攻城战术。
+Dialogue: 0,0:45:28.00,0:45:30.62,English,,0,0,0,,But what they will do is recruit Chinese engineers,\N{\rChinese}但他们会招募中国工程师，
+Dialogue: 0,0:45:30.90,0:45:36.20,English,,0,0,0,,Indian engineers in order to implement siege warfare.\N{\rChinese}印度工程师以实施攻城战术。
+Dialogue: 0,0:45:36.50,0:45:42.12,English,,0,0,0,,Okay? But bureaucrats are very hard to compensate for.\N{\rChinese}好吧？但官僚很难补足。
+Dialogue: 0,0:45:42.22,0:45:47.36,English,,0,0,0,,Okay? So these are three fundamental weaknesses of the Mongol system.\N{\rChinese}好的？这就是蒙古制度的三大基本弱点。
+Dialogue: 0,0:45:47.54,0:45:50.74,English,,0,0,0,,Low population. They have to fight long distances.\N{\rChinese}人口稀少。他们必须行军远距离。
+Dialogue: 0,0:45:50.92,0:45:52.50,English,,0,0,0,,And therefore, they have to worry about supplies.\N{\rChinese}于是他们就得担心补给。
+Dialogue: 0,0:45:52.90,0:45:54.92,English,,0,0,0,,And they don't know how to govern.\N{\rChinese}他们不知道怎么治理。
+Dialogue: 0,0:45:54.92,0:45:57.76,English,,0,0,0,,They don't know how to govern other people. Okay? And if we do this, okay?\N{\rChinese}他们不知道怎么治理别人。好吧？如果我们这么做，好吗？
+Dialogue: 0,0:45:57.88,0:46:00.48,English,,0,0,0,,If we look at what the strengths are, and\N{\rChinese}如果我们看他们的优势是什么，
+Dialogue: 0,0:46:00.48,0:46:03.72,English,,0,0,0,,we look at what their fundamental constraints are,\N{\rChinese}我们先看他们的基本约束，然后再推算出最优策略。
+Dialogue: 0,0:46:03.90,0:46:08.16,English,,0,0,0,,then we can figure out what their optimal strategy is.\N{\rChinese}然后我们就能算出最优策略。
+Dialogue: 0,0:46:08.30,0:46:11.96,English,,0,0,0,,Okay? So, this is the optimal strategy for the Mongols.\N{\rChinese}好的？这就是蒙古人的最优策略。
+Dialogue: 0,0:46:19.42,0:46:21.16,English,,0,0,0,,The first is escalation dominance.\N{\rChinese}第一点是升级主导。
+Dialogue: 0,0:46:24.46,0:46:29.84,English,,0,0,0,,Okay? Escalation dominance is this.\N{\rChinese}好吧？升级主导就是这样。
+Dialogue: 0,0:46:29.98,0:46:35.36,English,,0,0,0,,Okay? There's a concept in political science called escalation ladder.\N{\rChinese}好吧？政治科学里有个概念叫升级阶梯。
+Dialogue: 0,0:46:38.52,0:46:41.50,English,,0,0,0,,The escalation ladder, I mean, it's a very simple concept.\N{\rChinese}升级阶梯，我是说，它是一个非常简单的概念。
+Dialogue: 0,0:46:41.62,0:46:45.52,English,,0,0,0,,It means like violence always escalates.\N{\rChinese}它意味着像暴力总是递进的。
+Dialogue: 0,0:46:45.62,0:46:49.66,English,,0,0,0,,So, for example, I get into an argument with someone.\N{\rChinese}比如说，我跟某人起了争论。
+Dialogue: 0,0:46:49.82,0:46:54.16,English,,0,0,0,,Okay? Well, what first happens is we start to argue.\N{\rChinese}好吧？先是我们开始争论。
+Dialogue: 0,0:46:54.68,0:46:57.60,English,,0,0,0,,But then eventually, this argument becomes much more heated.\N{\rChinese}然后，争论逐渐升温。
+Dialogue: 0,0:46:57.70,0:46:58.98,English,,0,0,0,,We start to push each other. Okay?\N{\rChinese}我们互相推搡。
+Dialogue: 0,0:46:59.14,0:47:00.72,English,,0,0,0,,Then I might throw a punch.\N{\rChinese}然后我可能会出拳。
+Dialogue: 0,0:47:00.80,0:47:03.70,English,,0,0,0,,He throws a punch back. Then I might bite him.\N{\rChinese}他反击出拳。然后我可能会咬他。
+Dialogue: 0,0:47:03.78,0:47:06.44,English,,0,0,0,,He might bite me back. I might pull out a knife.\N{\rChinese}他可能咬我。随后我会掏出刀。
+Dialogue: 0,0:47:06.74,0:47:10.12,English,,0,0,0,,He might pull out a gun. Okay? This is called escalation ladder.\N{\rChinese}他可能掏出一支枪。好吧？这叫做升级阶梯。
+Dialogue: 0,0:47:10.42,0:47:12.58,English,,0,0,0,,Okay? Violence has to happen over time.\N{\rChinese}好吧？暴力必须随时间展开。
+Dialogue: 0,0:47:12.88,0:47:16.30,English,,0,0,0,,Okay? And this is fine.\N{\rChinese}好吧？这就没问题。
+Dialogue: 0,0:47:16.54,0:47:20.00,English,,0,0,0,,This is fine. But the problem is, what is escalation?\N{\rChinese}这就没问题。但问题是，什么是升级？
+Dialogue: 0,0:47:20.00,0:47:21.78,English,,0,0,0,,It's not escalation if you're fighting multiple people at once.\N{\rChinese}不是升级，如果你一次和多个人打仗。
+Dialogue: 0,0:47:22.12,0:47:26.48,English,,0,0,0,,Right? So what you want to do is show other people\N{\rChinese}对吧？所以你想做的就是给别人示范。
+Dialogue: 0,0:47:26.48,0:47:27.92,English,,0,0,0,,that you are more dominant.\N{\rChinese}那就是你更占优势。
+Dialogue: 0,0:47:28.06,0:47:31.90,English,,0,0,0,,Okay? So if you insult me, I'll put a gun on you and I'll shoot you.\N{\rChinese}好吧？如果你侮辱我，我会掏枪对准你再开枪。
+Dialogue: 0,0:47:31.96,0:47:33.62,English,,0,0,0,,Okay? That's the idea of escalation dominance.\N{\rChinese}好吧？这就是升级占优势的意思。
+Dialogue: 0,0:47:33.98,0:47:37.28,English,,0,0,0,,I always have the capacity to\N{\rChinese}我总能给你造成比你能给我造成的更大伤害。
+Dialogue: 0,0:47:37.28,0:47:41.86,English,,0,0,0,,inflict more damage on you than you could ever possibly inflict on me.\N{\rChinese}好吧？这就是蒙古人之所以如此的原因。
+Dialogue: 0,0:47:42.84,0:47:48.26,English,,0,0,0,,Okay? And that's why the Mongols did what they did.\N{\rChinese}Okay? And that's why theMongols did what they did.
+Dialogue: 0,0:47:48.26,0:47:52.34,English,,0,0,0,,So what would often happen is the\N{\rChinese}于是常常发生的事是
+Dialogue: 0,0:47:52.34,0:47:56.34,English,,0,0,0,,Mongols would send a trade delegation to\N{\rChinese}蒙古人会派一支贸易代表团去
+Dialogue: 0,0:47:56.34,0:47:58.70,English,,0,0,0,,a nation to negotiate a trade deal.\N{\rChinese}某个国家谈贸易协议。
+Dialogue: 0,0:47:58.86,0:48:02.46,English,,0,0,0,,And the nation, usually in Central Asia,\N{\rChinese}并且该国通常位于中亚地区，
+Dialogue: 0,0:48:02.82,0:48:07.52,English,,0,0,0,,they would kill all the delegation in order to insult Genghis Khan.\N{\rChinese}他们会杀死全部代表团以侮辱成吉思汗，
+Dialogue: 0,0:48:07.78,0:48:12.66,English,,0,0,0,,In response, Genghis Khan would send his army to destroy the entire city,\N{\rChinese}随后成吉思汗会派军队摧毁整座城镇。
+Dialogue: 0,0:48:12.80,0:48:14.30,English,,0,0,0,,burn down the city, and kill everyone.\N{\rChinese}把城镇烧成废墟，杀光所有人。
+Dialogue: 0,0:48:14.42,0:48:15.94,English,,0,0,0,,Okay? This is the idea of escalation dominance.\N{\rChinese}好的？这就是“升级霸权”的想法。
+Dialogue: 0,0:48:16.28,0:48:18.24,English,,0,0,0,,You have to prove escalation dominance.\N{\rChinese}你得证明升级霸权。
+Dialogue: 0,0:48:18.24,0:48:23.72,English,,0,0,0,,If you are to be a viable threat to everyone.\N{\rChinese}如果你想成为对所有人都有威胁的存在。
+Dialogue: 0,0:48:23.84,0:48:26.24,English,,0,0,0,,Okay? So that's the first idea. Escalation dominance.\N{\rChinese}好？这就是第一个想法：升级霸权。
+Dialogue: 0,0:48:26.60,0:48:28.40,English,,0,0,0,,The second idea is the idea of terror.\N{\rChinese}第二个想法是恐怖的想法。
+Dialogue: 0,0:48:30.72,0:48:33.10,English,,0,0,0,,Or what we call psychological warfare.\N{\rChinese}或我们称之为心理战。
+Dialogue: 0,0:48:36.64,0:48:39.54,English,,0,0,0,,If you are badly outnumbered in warfare,\N{\rChinese}若你在战斗中人数悬殊，
+Dialogue: 0,0:48:39.88,0:48:42.72,English,,0,0,0,,then you have to make people afraid to fight you.\N{\rChinese}你就得让人们怕你再去战斗。
+Dialogue: 0,0:48:42.84,0:48:47.08,English,,0,0,0,,Okay? If you cannot govern people, if you don't know how to properly manage people,\N{\rChinese}好？如果你无法治理人群，如果你不知道怎样正确管理人群，
+Dialogue: 0,0:48:47.34,0:48:50.02,English,,0,0,0,,you have to make people afraid to rebel.\N{\rChinese}好？于是你就得让人们怕起义。
+Dialogue: 0,0:48:50.34,0:48:55.12,English,,0,0,0,,Okay? So the Mongols were notorious for psychological warfare.\N{\rChinese}好？蒙古人以心理战闻名。
+Dialogue: 0,0:48:55.36,0:48:57.64,English,,0,0,0,,So for example, what they would do is this.\N{\rChinese}比如说，他们会这么做。
+Dialogue: 0,0:48:57.76,0:48:59.90,English,,0,0,0,,They would conquer some territory and\N{\rChinese}他们会占领一些领土并且
+Dialogue: 0,0:48:59.90,0:49:02.16,English,,0,0,0,,to ensure the villagers would not ever rebel,\N{\rChinese}为了确保村民永不起义。
+Dialogue: 0,0:49:02.40,0:49:08.02,English,,0,0,0,,they would send one Mongol soldier into the village.\N{\rChinese}他们会派一名蒙古士兵进村里。
+Dialogue: 0,0:49:08.18,0:49:10.84,English,,0,0,0,,Okay? And this is one soldier and there might be a thousand villagers.\N{\rChinese}好？这是一名士兵，村里可能有一千人。
+Dialogue: 0,0:49:11.16,0:49:16.30,English,,0,0,0,,And then what this Mongol soldier will do is randomly kill some villagers.\N{\rChinese}然后这名蒙古士兵会随机杀死一些村民。
+Dialogue: 0,0:49:16.48,0:49:17.82,English,,0,0,0,,He'll say, hey, you guys can't do this.\N{\rChinese}他会说，嘿，你们能做到这点吗？
+Dialogue: 0,0:49:17.82,0:49:20.20,English,,0,0,0,,You guys come over here, line up. And he starts killing people randomly.\N{\rChinese}你们过来这儿，排好队。然后他开始随机杀人。
+Dialogue: 0,0:49:20.48,0:49:24.28,English,,0,0,0,,Okay? And if the villagers ever rebel\N{\rChinese}好了？如果村民起义……
+Dialogue: 0,0:49:24.28,0:49:27.10,English,,0,0,0,,and kill him, then\N{\rChinese}并杀了他，然后
+Dialogue: 0,0:49:27.10,0:49:29.32,English,,0,0,0,,the Mongols will come and kill everyone in the village.\N{\rChinese}蒙古人会来杀村里的人。
+Dialogue: 0,0:49:30.00,0:49:32.82,English,,0,0,0,,All right? So that's the idea of psychological warfare.\N{\rChinese}好了？这就是心理战的思路。
+Dialogue: 0,0:49:33.66,0:49:37.76,English,,0,0,0,,But the Mongols do this to themselves as well.\N{\rChinese}但蒙古人也会对自己这么做。
+Dialogue: 0,0:49:37.96,0:49:40.12,English,,0,0,0,,Okay? So the Mongols have a system where\N{\rChinese}好了？所以蒙古人有一个系统，单位被分成十人一组。
+Dialogue: 0,0:49:40.12,0:49:43.52,English,,0,0,0,,units are divided into units of ten.\N{\rChinese}于是十个人组成一组。
+Dialogue: 0,0:49:43.62,0:49:45.02,English,,0,0,0,,Okay? So ten soldiers.\N{\rChinese}好的？那么十名士兵。
+Dialogue: 0,0:49:45.50,0:49:49.42,English,,0,0,0,,Um. And then these ten soldiers times ten make up a unit.\N{\rChinese}嗯。然后这十名士兵乘以十就组成一个单位。
+Dialogue: 0,0:49:49.56,0:49:50.70,English,,0,0,0,,So what would happen is this.\N{\rChinese}于是会发生的事是这样。
+Dialogue: 0,0:49:51.22,0:49:52.24,English,,0,0,0,,If ever in a\N{\rChinese}如果在一场战斗里有一名士兵逃跑，
+Dialogue: 0,0:49:52.24,0:49:57.36,English,,0,0,0,,battle one soldier ran\N{\rChinese}那么这十人一组的十人再乘以十，形成的百人组就全部被处死。
+Dialogue: 0,0:49:57.36,0:50:03.16,English,,0,0,0,,away from battle, all of the people in these units would be executed.\N{\rChinese}这样一来，大家都有动力保证同袍之士安全。
+Dialogue: 0,0:50:03.54,0:50:06.84,English,,0,0,0,,Okay? But if one unit ever ran away,\N{\rChinese}好的？但如果一组士兵逃跑，
+Dialogue: 0,0:50:07.02,0:50:10.62,English,,0,0,0,,then the next unit, 100 of them, would all be executed.\N{\rChinese}那么下一组，百人，全部被处死。
+Dialogue: 0,0:50:10.92,0:50:16.00,English,,0,0,0,,Okay? So this gives everyone incentive to make sure your fellow soldiers are safe.\N{\rChinese}好的？于是这给每个人动力保证同袍之士安全。
+Dialogue: 0,0:50:16.00,0:50:18.32,English,,0,0,0,,Okay? So\N{\rChinese}好的吗？所以
+Dialogue: 0,0:50:18.32,0:50:23.12,English,,0,0,0,,the Mongols had psychological warfare not just for other people but also for themselves.\N{\rChinese}蒙古人进行心理战术，不仅是对别人，也是对自己。
+Dialogue: 0,0:50:23.54,0:50:25.16,English,,0,0,0,,And that's just the way the Mongols fought.\N{\rChinese}这就是蒙古人作战的方式。
+Dialogue: 0,0:50:25.58,0:50:29.12,English,,0,0,0,,And they had to fight like this given the fact they were greatly outnumbered.\N{\rChinese}于是他们必须在兵力大幅落后时这样作战。
+Dialogue: 0,0:50:30.04,0:50:33.96,English,,0,0,0,,And they had to win quickly against their enemies.\N{\rChinese}于是他们必须迅速取胜。
+Dialogue: 0,0:50:34.92,0:50:37.22,English,,0,0,0,,All right? Does that make sense?\N{\rChinese}好吧？这样说通吗？
+Dialogue: 0,0:50:40.68,0:50:45.30,English,,0,0,0,,Okay? And the last thing, which is the most important, is they had to create an aura.\N{\rChinese}好的？最后一件事，最重要的是他们必须营造一种气场。
+Dialogue: 0,0:50:45.30,0:50:47.86,English,,0,0,0,,An aura of inevitability\N{\rChinese}一种必然的气场
+Dialogue: 0,0:50:47.86,0:50:52.20,English,,0,0,0,,and invincibility.\N{\rChinese}以及无敌的气场。
+Dialogue: 0,0:50:55.50,0:50:56.92,English,,0,0,0,,At this time,\N{\rChinese}此时，
+Dialogue: 0,0:50:57.02,0:51:00.74,English,,0,0,0,,people were literally telling people these Mongols are not human.\N{\rChinese}人们亲口说这蒙古人不算人类。
+Dialogue: 0,0:51:00.92,0:51:03.68,English,,0,0,0,,They are demons. They have come from Tartarus.\N{\rChinese}他们是魔鬼，来自塔塔鲁斯。
+Dialogue: 0,0:51:03.92,0:51:07.08,English,,0,0,0,,And that's where we get the name Tartarus.\N{\rChinese}于是我们得到了塔塔鲁斯这个名字。
+Dialogue: 0,0:51:07.22,0:51:11.88,English,,0,0,0,,They have come from Tartarus, hell, in order to kill everyone.\N{\rChinese}他们从塔塔鲁斯，地狱里来，杀人不止。
+Dialogue: 0,0:51:12.04,0:51:14.10,English,,0,0,0,,Okay? These are demons. Guess what, guys?\N{\rChinese}好吧？他们是魔鬼，猜猜看吧？
+Dialogue: 0,0:51:14.26,0:51:16.10,English,,0,0,0,,The Mongols wanted this reputation.\N{\rChinese}蒙古人想要这个声誉。
+Dialogue: 0,0:51:16.66,0:51:20.30,English,,0,0,0,,Okay? They definitely could in order to promote this reputation\N{\rChinese}好吧？他们确实可以这样做，以此来提升声誉。
+Dialogue: 0,0:51:20.30,0:51:24.54,English,,0,0,0,,because it gave them an aura of inevitability and invincibility.\N{\rChinese}因为这给他们一种必然与无敌的气场。
+Dialogue: 0,0:51:24.72,0:51:26.38,English,,0,0,0,,They could not be defeated.\N{\rChinese}他们无可战之势。
+Dialogue: 0,0:51:26.90,0:51:28.62,English,,0,0,0,,There's no point in trying to defeat them.\N{\rChinese}再战无用。
+Dialogue: 0,0:51:28.74,0:51:30.50,English,,0,0,0,,So let's just give up. Okay?\N{\rChinese}就此投降吧。
+Dialogue: 0,0:51:30.64,0:51:33.28,English,,0,0,0,,And most did. Most said, like,\N{\rChinese}大多数人也这么做了。
+Dialogue: 0,0:51:33.36,0:51:36.40,English,,0,0,0,,the Mongols were able to conquer so much territory so fast because\N{\rChinese}他们说，蒙古人之所以能如此迅速地征服大片领土，正是因为他们拥有那种必然与无敌的气场。
+Dialogue: 0,0:51:36.40,0:51:39.80,English,,0,0,0,,they had this aura of inevitability and invincibility.\N{\rChinese}they had this aura of inevitability and invincibility.
+Dialogue: 0,0:51:39.88,0:51:41.16,English,,0,0,0,,And most people just gave up.\N{\rChinese}大多数人也就此投降。
+Dialogue: 0,0:51:41.20,0:51:44.34,English,,0,0,0,,They just paid tribute. And if you didn't do so, then\N{\rChinese}他们只交纳贡品。若不交，便会……
+Dialogue: 0,0:51:44.34,0:51:45.82,English,,0,0,0,,they would use escalation dominance and\N{\rChinese}他们会以升级优势来……
+Dialogue: 0,0:51:45.82,0:51:49.28,English,,0,0,0,,terror to kill everyone.\N{\rChinese}恐怖杀死所有人。
+Dialogue: 0,0:51:49.64,0:51:52.66,English,,0,0,0,,Okay? And\N{\rChinese}好的？还有
+Dialogue: 0,0:51:52.66,0:51:55.96,English,,0,0,0,,they would send refugees all around the world so\N{\rChinese}他们会把难民送到世界各地。
+Dialogue: 0,0:51:55.96,0:51:58.44,English,,0,0,0,,everyone would know about the ferocity and\N{\rChinese}大家都会知道它的凶猛和
+Dialogue: 0,0:51:58.44,0:52:01.12,English,,0,0,0,,brutality of the Mongols.\N{\rChinese}蒙古人的残暴。
+Dialogue: 0,0:52:01.80,0:52:03.32,English,,0,0,0,,Okay? Does that make sense, guys?\N{\rChinese}好？这有道理吗，大家？
+Dialogue: 0,0:52:03.72,0:52:06.86,English,,0,0,0,,So in other words, I have to say this, but according to game theory,\N{\rChinese}所以换句话说，我得这么说，但按博弈论来算，蒙古人所做的一切都完全合理。
+Dialogue: 0,0:52:07.12,0:52:10.96,English,,0,0,0,,everything the Mongols did made complete sense.\N{\rChinese}一切蒙古人的行动在博弈论里都说得通。
+Dialogue: 0,0:52:13.74,0:52:16.96,English,,0,0,0,,Okay? In fact, it's their optimal strategy.\N{\rChinese}好？实际上这是他们的最优策略。
+Dialogue: 0,0:52:17.32,0:52:19.42,English,,0,0,0,,Okay? Given the circumstances,\N{\rChinese}好？在这种情况下，
+Dialogue: 0,0:52:19.80,0:52:22.88,English,,0,0,0,,given the constraints, what they did was completely logical\N{\rChinese}给定约束，所作之举完全合乎逻辑
+Dialogue: 0,0:52:22.88,0:52:25.04,English,,0,0,0,,and reasonable, even though\N{\rChinese}且合理，虽如此
+Dialogue: 0,0:52:25.04,0:52:28.94,English,,0,0,0,,it resulted in the deaths of tens of millions of people.\N{\rChinese}导致数千万人死亡。
+Dialogue: 0,0:52:29.88,0:52:31.30,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}好？这样说对吗？
+Dialogue: 0,0:52:33.16,0:52:35.50,English,,0,0,0,,All right. Okay.\N{\rChinese}好的。好吧。
+Dialogue: 0,0:52:35.66,0:52:40.90,English,,0,0,0,,So now let's discuss why their empire color.\N{\rChinese}现在我们来讨论他们帝国的颜色。
+Dialogue: 0,0:52:41.90,0:52:46.70,English,,0,0,0,,Let's look at continuation continuation continuation continuation\N{\rChinese}让我们来看看连续的连续的连续的连续的
+Dialogue: 0,0:52:46.70,0:52:53.62,English,,0,0,0,,continuation continuation\N{\rChinese}连续的连续的
+Dialogue: 0,0:52:53.62,0:52:57.50,English,,0,0,0,,continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation\N{\rChinese}连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续连续
+Dialogue: 0,0:52:57.50,0:53:02.78,English,,0,0,0,,continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation\N{\rChinese}连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续的连续
+Dialogue: 0,0:53:02.78,0:53:08.50,English,,0,0,0,,continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation continuation their cultural values.\N{\rChinese}他们的文化价值观。
+Dialogue: 0,0:53:08.74,0:53:12.34,English,,0,0,0,,This is a culture that emphasizes three things.\N{\rChinese}这是一种强调三件事的文化。
+Dialogue: 0,0:53:12.64,0:53:13.92,English,,0,0,0,,First is freedom.\N{\rChinese}首先是自由。
+Dialogue: 0,0:53:15.66,0:53:18.48,English,,0,0,0,,Second is egalitarianism.\N{\rChinese}第二是平等主义。
+Dialogue: 0,0:53:22.22,0:53:24.54,English,,0,0,0,,And the third is self -reliance.\N{\rChinese}第三是自给自足。
+Dialogue: 0,0:53:28.86,0:53:31.16,English,,0,0,0,,So rather than think of the Mongol,\N{\rChinese}于是把蒙古军队想成一个联邦，而不是帝国或组织
+Dialogue: 0,0:53:31.44,0:53:36.24,English,,0,0,0,,the army as an empire or organization, it's more like a confederation.\N{\rChinese}the army as an empire or organization, it's more like a confederation.
+Dialogue: 0,0:53:36.46,0:53:39.90,English,,0,0,0,,People choose to join this confederation because\N{\rChinese}人们选择加入这个联邦是因为
+Dialogue: 0,0:53:39.90,0:53:42.88,English,,0,0,0,,of the immense rewards that\N{\rChinese}巨大的奖励
+Dialogue: 0,0:53:42.88,0:53:45.18,English,,0,0,0,,can be achieved through conquest.\N{\rChinese}可通过征服实现。
+Dialogue: 0,0:53:46.12,0:53:49.00,English,,0,0,0,,So this is a culture that values freedom,\N{\rChinese}于是这是一种重视自由的文化。
+Dialogue: 0,0:53:49.16,0:53:53.44,English,,0,0,0,,egalitarianism, and self -reliance, and therefore it makes great warriors.\N{\rChinese}平等主义，自给自足，因而造就伟大武士。
+Dialogue: 0,0:53:55.64,0:53:57.56,English,,0,0,0,,The problem though\N{\rChinese}问题在于……
+Dialogue: 0,0:53:57.56,0:54:01.42,English,,0,0,0,,is the cultures they conquer were extremely,\N{\rChinese}被征服的文化极其多样，
+Dialogue: 0,0:54:01.50,0:54:04.12,English,,0,0,0,,extreme hierarchies.\N{\rChinese}层级极其分明。
+Dialogue: 0,0:54:05.00,0:54:09.72,English,,0,0,0,,Where you have maybe the emperor at the top, a bureaucracy,\N{\rChinese}你可能会把皇帝放在顶端，设有官僚体系。
+Dialogue: 0,0:54:10.18,0:54:13.82,English,,0,0,0,,and then peasantry at the very bottom.\N{\rChinese}并且在最底层是农民。
+Dialogue: 0,0:54:13.90,0:54:17.00,English,,0,0,0,,So the vast majority were peasants.\N{\rChinese}于是大多数都是农民。
+Dialogue: 0,0:54:17.70,0:54:21.90,English,,0,0,0,,Now, I know this is hard for us to understand,\N{\rChinese}现在，我知道这对我们来说很难理解。
+Dialogue: 0,0:54:22.12,0:54:25.20,English,,0,0,0,,but the reason why the Mongols were\N{\rChinese}但蒙古人能征服这些帝国的原因是……
+Dialogue: 0,0:54:25.20,0:54:27.58,English,,0,0,0,,able to conquer these empires\N{\rChinese}他们能够征服这些帝国的原因是……
+Dialogue: 0,0:54:27.58,0:54:31.66,English,,0,0,0,,were almost a contempt\N{\rChinese}能征服这些帝国的原因几乎是……
+Dialogue: 0,0:54:33.18,0:54:34.64,English,,0,0,0,,for these empires.\N{\rChinese}为这些帝国。
+Dialogue: 0,0:54:34.78,0:54:38.02,English,,0,0,0,,Does that make sense, guys? The Mongols had no respect for these empires.\N{\rChinese}这有道理吗，大家？蒙古人对这些帝国毫不敬重。
+Dialogue: 0,0:54:38.14,0:54:41.22,English,,0,0,0,,They thought they were weak. They thought they were corrupt and\N{\rChinese}他们认为它们弱小，腐败无能。
+Dialogue: 0,0:54:41.22,0:54:42.96,English,,0,0,0,,decadent.\N{\rChinese}黙黙的。
+Dialogue: 0,0:54:43.34,0:54:45.94,English,,0,0,0,,So the Mongols were able to conquer them.\N{\rChinese}于是蒙古人能够征服它们。
+Dialogue: 0,0:54:47.10,0:54:48.98,English,,0,0,0,,Does that make sense? There's a contempt for them.\N{\rChinese}这有道理吗？对它们有一种轻视。
+Dialogue: 0,0:54:49.28,0:54:50.38,English,,0,0,0,,The contempt is this.\N{\rChinese}这就是轻视的含义。
+Dialogue: 0,0:54:52.10,0:54:57.72,English,,0,0,0,,The underlying optimal strategy of the Mongols is a concept\N{\rChinese}蒙古人的基本最优策略是一个在人类历史中从未出现过的概念。
+Dialogue: 0,0:54:57.72,0:54:59.40,English,,0,0,0,,that never existed in human history before.\N{\rChinese}that never existed inhuman history before.
+Dialogue: 0,0:54:59.64,0:55:05.60,English,,0,0,0,,And the concept is this. People are an infinite resource.\N{\rChinese}概念就是这样：人是无限资源。
+Dialogue: 0,0:55:10.84,0:55:15.12,English,,0,0,0,,So throughout most of human history, people were the most valuable resource.\N{\rChinese}于是，在大部分人类历史里，人是最宝贵的资源。
+Dialogue: 0,0:55:15.38,0:55:16.82,English,,0,0,0,,There was not many people around.\N{\rChinese}当时人不多。
+Dialogue: 0,0:55:17.16,0:55:21.00,English,,0,0,0,,Therefore, you had to treat people nicely if you wanted to maximize their productivity.\N{\rChinese}因此，如果想最大化人力产出，你就得好好对待他们。
+Dialogue: 0,0:55:22.64,0:55:25.92,English,,0,0,0,,But where\N{\rChinese}但在何处
+Dialogue: 0,0:55:25.92,0:55:27.88,English,,0,0,0,,were the Mongols based?\N{\rChinese}蒙古人是从哪里起家的？
+Dialogue: 0,0:55:28.10,0:55:31.36,English,,0,0,0,,They were based in East Asia. They were based in China, basically.\N{\rChinese}他们起源于东亚，基本上是中国。
+Dialogue: 0,0:55:31.66,0:55:33.80,English,,0,0,0,,And in China, because of the empire,\N{\rChinese}在中国，因帝国的存在，
+Dialogue: 0,0:55:34.12,0:55:36.68,English,,0,0,0,,people were treated like an infinite resource.\N{\rChinese}人们被视作无限资源。
+Dialogue: 0,0:55:38.00,0:55:39.90,English,,0,0,0,,You could massacre them.\N{\rChinese}你可以大肆杀戮他们。
+Dialogue: 0,0:55:40.02,0:55:42.68,English,,0,0,0,,You could send them off in human wave attacks.\N{\rChinese}你可以派他们去人潮攻击。
+Dialogue: 0,0:55:43.30,0:55:46.32,English,,0,0,0,,It didn't matter, because they were an infinite resource.\N{\rChinese}这不重要，因为他们是无限资源。
+Dialogue: 0,0:55:46.68,0:55:50.36,English,,0,0,0,,And this idea never existed before in human history.\N{\rChinese}并且此概念在人类史上从未曾出现。
+Dialogue: 0,0:55:50.58,0:55:54.32,English,,0,0,0,,And in the Western world, this concept is radically revolutionary.\N{\rChinese}在西方世界，此概念彻底革新。
+Dialogue: 0,0:55:55.06,0:55:56.60,English,,0,0,0,,It was unimaginable.\N{\rChinese}其曾是不可思议的。
+Dialogue: 0,0:55:56.70,0:55:58.36,English,,0,0,0,,Like, you could do this.\N{\rChinese}比如，你可以这么做。
+Dialogue: 0,0:56:00.44,0:56:03.38,English,,0,0,0,,continuation continuation Caesar even though he\N{\rChinese}继续，继续，凯撒甚至……
+Dialogue: 0,0:56:03.38,0:56:05.42,English,,0,0,0,,when\N{\rChinese}当时……
+Dialogue: 0,0:56:05.42,0:56:10.58,English,,0,0,0,,he conquered Rome he wasn't intent on massacring people why\N{\rChinese}他征服了罗马，他并非要大屠杀人们，为什么？
+Dialogue: 0,0:56:10.58,0:56:13.26,English,,0,0,0,,because people could be sold as slaves that\N{\rChinese}因为人们可以被卖为奴隶，那是他通过把高卢人卖为奴隶赚大钱的主要方式。
+Dialogue: 0,0:56:13.26,0:56:16.92,English,,0,0,0,,was the main way he made his fortune by selling the Gauls as slaves\N{\rChinese}was the main way he made his fortune by selling the Gauls as slaves
+Dialogue: 0,0:56:16.92,0:56:20.28,English,,0,0,0,,but if you believe\N{\rChinese}但如果你认为
+Dialogue: 0,0:56:20.28,0:56:23.52,English,,0,0,0,,that people are an infinite resource then\N{\rChinese}人是无限资源，那么
+Dialogue: 0,0:56:23.52,0:56:27.04,English,,0,0,0,,you don't want them as slaves okay you want you want to\N{\rChinese}你不想把他们当奴隶，好吗？
+Dialogue: 0,0:56:27.04,0:56:31.22,English,,0,0,0,,kill as many people as possible in order to inflict terror okay\N{\rChinese}杀死尽可能多的人以制造恐怖，好的，
+Dialogue: 0,0:56:31.22,0:56:33.80,English,,0,0,0,,so that that's the issue with the Mongols first of all\N{\rChinese}所以这就是蒙古人的问题，首先是他们的价值体系不够……
+Dialogue: 0,0:56:33.80,0:56:36.32,English,,0,0,0,,their value system not lend\N{\rChinese}their value system not lend
+Dialogue: 0,0:56:36.32,0:56:40.98,English,,0,0,0,,itself to governing a hierarchy they didn't know how to\N{\rChinese}自己去治理层级，他们不懂怎么做
+Dialogue: 0,0:56:40.98,0:56:44.24,English,,0,0,0,,and they didn't want to also much more problematic\N{\rChinese}而且他们也不想再多做
+Dialogue: 0,0:56:44.24,0:56:46.22,English,,0,0,0,,was their contempt for the\N{\rChinese}他们对中国人的轻视是如此
+Dialogue: 0,0:56:46.22,0:56:50.50,English,,0,0,0,,local culture okay if you have\N{\rChinese}本地文化若你掌握，
+Dialogue: 0,0:56:50.50,0:56:54.24,English,,0,0,0,,contempt for local culture you're gonna have problems managing the people\N{\rChinese}若你轻视本地文化，管理人就会有难度，
+Dialogue: 0,0:56:54.24,0:57:00.02,English,,0,0,0,,so in China during the Yuan Dynasty you can't have an American government you can't have an American government the Chinese there's a class system the Mongols were the top\N{\rChinese}于是元朝时，若有美式政府，必有阶级体系，蒙古人位于顶层
+Dialogue: 0,0:57:00.02,0:57:05.12,English,,0,0,0,,and the Chinese were the very bottom okay the foreigners were sort of in between\N{\rChinese}并且中国人处于最底层，外来者则介于其间
+Dialogue: 0,0:57:05.12,0:57:07.52,English,,0,0,0,,and that\N{\rChinese}而已
+Dialogue: 0,0:57:07.52,0:57:10.66,English,,0,0,0,,just shows you the Mongol contempt for for Chinese people\N{\rChinese}这点正显示蒙古人对中国人的轻视
+Dialogue: 0,0:57:10.66,0:57:13.42,English,,0,0,0,,and that's why ultimately the Chinese people\N{\rChinese}于是，最终中国人起了反抗蒙古人
+Dialogue: 0,0:57:13.42,0:57:17.32,English,,0,0,0,,rebelled against the Mongols right now\N{\rChinese}现在，最终蒙古领导层意识到这个问题
+Dialogue: 0,0:57:17.32,0:57:23.28,English,,0,0,0,,eventually the Mongol leadership would recognize this problem\N{\rChinese}于是，最终中国人起了反抗蒙古人
+Dialogue: 0,0:57:23.28,0:57:27.38,English,,0,0,0,,and they were trying to adopt a Chinese style bureaucracy\N{\rChinese}他们正试图采用中国式的官僚制度
+Dialogue: 0,0:57:27.38,0:57:29.50,English,,0,0,0,,but a bureaucracy and\N{\rChinese}但官僚制度与…
+Dialogue: 0,0:57:29.50,0:57:31.46,English,,0,0,0,,we discussed this comes in contact with the\N{\rChinese}我们讨论过这点与…
+Dialogue: 0,0:57:31.46,0:57:34.52,English,,0,0,0,,nobility okay nobility the nobility\N{\rChinese}贵族，好吧，贵族，贵族
+Dialogue: 0,0:57:34.52,0:57:40.08,English,,0,0,0,,is intent on maintaining the Mongolian culture they did not want to assimilate\N{\rChinese}贵族意在保持蒙古文化，他们不想同化
+Dialogue: 0,0:57:40.08,0:57:45.04,English,,0,0,0,,but the Emperor recognized you have to assimilate if you are to have this empire\N{\rChinese}但皇帝认得，若要有这帝国，必须同化
+Dialogue: 0,0:57:45.04,0:57:48.48,English,,0,0,0,,and because they couldn't agree the nobility and\N{\rChinese}因为贵族之间无法达成一致，皇帝也未能统一，最终导致了蒙古帝国的崩溃。
+Dialogue: 0,0:57:48.48,0:57:51.96,English,,0,0,0,,the Emperor couldn't agree ultimately it led to\N{\rChinese}蒙古帝国的崩溃。
+Dialogue: 0,0:57:51.96,0:57:55.36,English,,0,0,0,,the collapse of the Mongol Empire okay\N{\rChinese}the collapse of the Mongol Empire okay
+Dialogue: 0,0:57:57.70,0:57:59.66,English,,0,0,0,,all right so\N{\rChinese}好的，接下来
+Dialogue: 0,0:57:59.66,0:58:04.76,English,,0,0,0,,that's the history of the Mongols any comments any questions\N{\rChinese}这就是蒙古人的历史，大家有评论吗？有问题吗？
+Dialogue: 0,0:58:09.04,0:58:10.78,English,,0,0,0,,I know Doug is\N{\rChinese}我知道道格是
+Dialogue: 0,0:58:10.78,0:58:13.94,English,,0,0,0,,but\N{\rChinese}但
+Dialogue: 0,0:58:13.94,0:58:17.30,English,,0,0,0,,but but but did you want to make a comment\N{\rChinese}但但但你想发个评论吗
+Dialogue: 0,0:58:17.30,0:58:20.72,English,,0,0,0,,because I know you said the Mongols quite in\N{\rChinese}因为我知道你说过蒙古人很…
+Dialogue: 0,0:58:20.72,0:58:24.20,English,,0,0,0,,detail I'm kind of scared this is on YouTube\N{\rChinese}细节，我有点怕这在YouTube上出现
+Dialogue: 0,0:58:25.16,0:58:29.34,English,,0,0,0,,okay all right yeah all right so yeah it's fine\N{\rChinese}好，没问题，好的，好的，没问题，好的
+Dialogue: 0,0:58:34.20,0:58:38.48,English,,0,0,0,,okay any questions guys like I know this is a lot to take in\N{\rChinese}好，大家有问题吗？
+Dialogue: 0,0:58:38.48,0:58:43.40,English,,0,0,0,,so you know ask questions tell me\N{\rChinese}所以你知道，问问题告诉我
+Dialogue: 0,0:58:43.40,0:58:51.94,English,,0,0,0,,where areas you are confused by okay\N{\rChinese}在哪些地方你感到困惑，好吗？
+Dialogue: 0,0:59:01.46,0:59:07.42,English,,0,0,0,,continuation continuation continuation continuation continuation continuation continuation continuation!!!!!\N{\rChinese}继续，继续，继续，继续，继续，继续，继续，继续，继续！
+Dialogue: 0,0:59:25.20,0:59:26.60,English,,0,0,0,,continuation!\N{\rChinese}继续！
+Dialogue: 0,0:59:24.60,0:59:29.60,English,,0,0,0,,continuation! Okay,\N{\rChinese}继续！好的，
+Dialogue: 0,0:59:29.60,0:59:30.74,English,,0,0,0,,alright, so\N{\rChinese}好的，
+Dialogue: 0,0:59:30.74,0:59:36.48,English,,0,0,0,,the Vikings\N{\rChinese}维京人
+Dialogue: 0,0:59:36.48,0:59:39.98,English,,0,0,0,,and the Mongols all come from a Proto -Indo -European culture.\N{\rChinese}和蒙古人都来自原始-印欧文化。
+Dialogue: 0,0:59:40.32,0:59:43.06,English,,0,0,0,,What we know about culture is that it's very fluid,\N{\rChinese}我们对文化的了解是它非常流动。
+Dialogue: 0,0:59:43.16,0:59:45.98,English,,0,0,0,,and it will change over time, and\N{\rChinese}并且会随时间变化，且
+Dialogue: 0,0:59:45.98,0:59:48.66,English,,0,0,0,,it will adapt itself to the local cultures, okay?\N{\rChinese}它会适应当地文化，好的？
+Dialogue: 0,0:59:49.38,0:59:53.64,English,,0,0,0,,And so the Vikings were in Europe.\N{\rChinese}于是维京人就出现在欧洲。
+Dialogue: 0,0:59:56.62,0:59:59.68,English,,0,0,0,,And the Mongols are near China, okay?\N{\rChinese}蒙古人靠近中国，好的？
+Dialogue: 0,1:00:01.78,1:00:04.72,English,,0,0,0,,And I have to say,\N{\rChinese}我得说，
+Dialogue: 0,1:00:05.06,1:00:06.30,English,,0,0,0,,like,\N{\rChinese}像，
+Dialogue: 0,1:00:06.40,1:00:11.06,English,,0,0,0,,I think if I wanted to be a Viking or a Mongol,\N{\rChinese}我想如果我想成为维京人或蒙古人，
+Dialogue: 0,1:00:11.20,1:00:14.40,English,,0,0,0,,I prefer to be a Viking, okay? And\N{\rChinese}我更喜欢成为维京人，好吗？而且
+Dialogue: 0,1:00:14.40,1:00:16.64,English,,0,0,0,,the reason why is the\N{\rChinese}原因是
+Dialogue: 0,1:00:16.64,1:00:18.36,English,,0,0,0,,Vikings never really\N{\rChinese}维京人从未真正
+Dialogue: 0,1:00:18.36,1:00:22.66,English,,0,0,0,,adopted a belief\N{\rChinese}采用过一种信念
+Dialogue: 0,1:00:22.66,1:00:24.46,English,,0,0,0,,that people were an infinite resource.\N{\rChinese}人是无限资源的观念
+Dialogue: 0,1:00:24.66,1:00:26.60,English,,0,0,0,,They couldn't. Because Europe was very...\N{\rChinese}他们做不到。因为欧洲很…
+Dialogue: 0,1:00:26.62,1:00:30.08,English,,0,0,0,,very poor. And the Vikings, regardless, even\N{\rChinese}很贫穷。无论如何，维京人，虽然他们很残暴，却仍然尊敬对手。
+Dialogue: 0,1:00:30.08,1:00:33.28,English,,0,0,0,,though they were brutal, they still had respect for their opponents.\N{\rChinese}though they were brutal, they still had respect for their opponents.
+Dialogue: 0,1:00:33.60,1:00:36.94,English,,0,0,0,,They never developed a contempt for their opponents.\N{\rChinese}他们从未形成对手的敬意。
+Dialogue: 0,1:00:37.08,1:00:40.82,English,,0,0,0,,They were surrounded by the Byzantines, the Muslims, and the Europeans.\N{\rChinese}他们被拜占庭人、穆斯林人和欧洲人包围。
+Dialogue: 0,1:00:41.24,1:00:45.80,English,,0,0,0,,And these were great warriors. So the Vikings felt they had a lot to learn from these cultures.\N{\rChinese}这些人都是伟大的战士。于是维京人觉得可以从这些文化中学到很多东西。
+Dialogue: 0,1:00:46.02,1:00:51.70,English,,0,0,0,,And in fact, ultimately, the Vikings will assimilate themselves into these cultures in different environments,\N{\rChinese}实际上，最终，维京人会在不同环境中将自己同化到这些文化中，
+Dialogue: 0,1:00:51.82,1:00:53.10,English,,0,0,0,,okay? So...\N{\rChinese}好吧？所以……
+Dialogue: 0,1:00:54.00,1:00:58.48,English,,0,0,0,,Um... Um... The Mongols are different, though.\N{\rChinese}嗯……嗯……蒙古人则不同，虽然如此。
+Dialogue: 0,1:00:58.52,1:01:00.56,English,,0,0,0,,The Mongols are based in East Asia.\N{\rChinese}蒙古人位于东亚。
+Dialogue: 0,1:01:01.00,1:01:05.40,English,,0,0,0,,And they did ultimately adopt a belief that people are an infinite resource.\N{\rChinese}他们最终形成了人是无限资源的信念。
+Dialogue: 0,1:01:05.74,1:01:08.98,English,,0,0,0,,And they had tremendous contempt for Chinese culture, okay?\N{\rChinese}他们对中国文化有极大的敬意，好的？
+Dialogue: 0,1:01:09.18,1:01:12.70,English,,0,0,0,,And that changes you as a person.\N{\rChinese}并且这会让你成为一个人改变。
+Dialogue: 0,1:01:12.76,1:01:16.20,English,,0,0,0,,When you believe that people are an infinite resource,\N{\rChinese}当你相信人是无限资源时，
+Dialogue: 0,1:01:16.38,1:01:18.92,English,,0,0,0,,and you are contemptuous of other cultures,\N{\rChinese}并且你对其他文化抱有敬意。
+Dialogue: 0,1:01:19.54,1:01:21.84,English,,0,0,0,,it also, in a way,\N{\rChinese}它也在某种程度上，让你对自己产生敬意。
+Dialogue: 0,1:01:21.84,1:01:26.20,English,,0,0,0,,makes you contemptuous of yourself, if that makes any sense.\N{\rChinese}如果这有意义的话，它会让你对自己产生敬意。
+Dialogue: 0,1:01:26.84,1:01:28.22,English,,0,0,0,,Okay? Um...\N{\rChinese}好的？嗯…
+Dialogue: 0,1:01:28.22,1:01:29.84,English,,0,0,0,,And so, ultimately,\N{\rChinese}于是，最终，
+Dialogue: 0,1:01:30.04,1:01:33.62,English,,0,0,0,,that's why the Mongols were not able to...\N{\rChinese}这就是蒙古人未能……的原因
+Dialogue: 0,1:01:34.88,1:01:36.16,English,,0,0,0,,Even though they had tremendous wealth,\N{\rChinese}即便他们拥有巨大的财富，
+Dialogue: 0,1:01:36.36,1:01:40.94,English,,0,0,0,,they didn't really produce cultural monuments.\N{\rChinese}他们确实没有留下文化纪念物。
+Dialogue: 0,1:01:41.48,1:01:43.04,English,,0,0,0,,We don't have...\N{\rChinese}我们没有……
+Dialogue: 0,1:01:43.04,1:01:45.56,English,,0,0,0,,Like the Vikings, I mean, as I mentioned,\N{\rChinese}就像维京人一样，我是说，正如我所提到的。
+Dialogue: 0,1:01:45.76,1:01:48.34,English,,0,0,0,,the Vikings were fundamental development of Western civilization.\N{\rChinese}维京人是西方文明的根本发展。
+Dialogue: 0,1:01:48.78,1:01:51.06,English,,0,0,0,,The Mongols were not fundamental development of any civilization.\N{\rChinese}蒙古人不是任何文明的根本发展。
+Dialogue: 0,1:01:51.58,1:01:54.78,English,,0,0,0,,I mean, they caused a lot of havoc, and they were great conquerors.\N{\rChinese}我说的是，他们造成了大量混乱，却是伟大的征服者。
+Dialogue: 0,1:01:54.88,1:01:56.60,English,,0,0,0,,But they didn't leave a rich culture.\N{\rChinese}但他们没有留下丰富的文化。
+Dialogue: 0,1:01:56.60,1:01:58.34,English,,0,0,0,,They didn't leave a cultural legacy. So...\N{\rChinese}他们没有留下文化遗产。所以……
+Dialogue: 0,1:01:58.34,1:02:01.14,English,,0,0,0,,And I think it has to do with the belief that\N{\rChinese}我认为这与信念有关。
+Dialogue: 0,1:02:01.14,1:02:03.26,English,,0,0,0,,people are an infinite resource.\N{\rChinese}人是无限的资源。
+Dialogue: 0,1:02:03.68,1:02:05.06,English,,0,0,0,,Okay? Um...\N{\rChinese}好？呃……
+Dialogue: 0,1:02:06.12,1:02:08.48,English,,0,0,0,,So, I would much prefer to be a Viking.\N{\rChinese}所以，我更愿意成为一名维京人。
+Dialogue: 0,1:02:08.58,1:02:12.70,English,,0,0,0,,I would much prefer to be enslaved by a Viking than a Mongol.\N{\rChinese}我更愿意被维京人奴役而不是被蒙古人奴役。
+Dialogue: 0,1:02:12.94,1:02:15.30,English,,0,0,0,,Like, if I were a slave,\N{\rChinese}比如说，如果我是一名奴隶，
+Dialogue: 0,1:02:15.44,1:02:19.66,English,,0,0,0,,I would much rather be a slave to a Viking than a Mongol.\N{\rChinese}我更愿意成为维京人的奴隶而不是蒙古人的。
+Dialogue: 0,1:02:19.84,1:02:22.10,English,,0,0,0,,Okay? If I were a slave to a Viking,\N{\rChinese}好？如果我是一名维京人的奴隶，
+Dialogue: 0,1:02:22.30,1:02:24.80,English,,0,0,0,,the Vikings would at least become my friend.\N{\rChinese}维京人至少会成为我的朋友。
+Dialogue: 0,1:02:24.92,1:02:26.58,English,,0,0,0,,They'd be like, hey, tell me about your culture.\N{\rChinese}他们会说：来，跟我说说你的文化。
+Dialogue: 0,1:02:26.60,1:02:29.12,English,,0,0,0,,Are there any stories that you can tell us?\N{\rChinese}你能给我们讲点故事吗？
+Dialogue: 0,1:02:29.52,1:02:33.16,English,,0,0,0,,Okay? And if you're a great storyteller, then they would make you...\N{\rChinese}好的？如果你是个好故事家，他们就会把你当成…
+Dialogue: 0,1:02:33.90,1:02:36.64,English,,0,0,0,,Um... They would treat you very nicely, because\N{\rChinese}嗯……他们会很亲切地对待你，因为…
+Dialogue: 0,1:02:36.64,1:02:38.86,English,,0,0,0,,you're helping them learn more about your culture.\N{\rChinese}你正在帮助他们了解更多关于你的文化。
+Dialogue: 0,1:02:38.96,1:02:41.44,English,,0,0,0,,Okay? The Mongols had absolutely no interest in other cultures.\N{\rChinese}好？蒙古人对其他文化完全没有兴趣。
+Dialogue: 0,1:02:42.00,1:02:45.70,English,,0,0,0,,They were interested in conquering and exploiting other people.\N{\rChinese}他们热衷征服并剥削他人。
+Dialogue: 0,1:02:46.10,1:02:47.80,English,,0,0,0,,All right? I could be wrong. All right?\N{\rChinese}好吧？我也许错了。
+Dialogue: 0,1:02:47.92,1:02:50.46,English,,0,0,0,,And I'm probably making these crass generalizations.\N{\rChinese}我大概在做些粗糙的概括。
+Dialogue: 0,1:02:51.22,1:02:53.76,English,,0,0,0,,But I believe with the Vikings,\N{\rChinese}但我认为与维京人一样。
+Dialogue: 0,1:02:53.88,1:02:56.36,English,,0,0,0,,there's a general curiosity about the world that comes from...\N{\rChinese}有一种来自……的对世界的普遍好奇心。
+Dialogue: 0,1:02:56.60,1:03:01.04,English,,0,0,0,,And respect of other cultures. Whereas the Mongols were not curious about the world.\N{\rChinese}而蒙古人对世界并不感到好奇。
+Dialogue: 0,1:03:01.16,1:03:02.98,English,,0,0,0,,They were intent on conquest.\N{\rChinese}他们专注征服。
+Dialogue: 0,1:03:03.44,1:03:05.82,English,,0,0,0,,And enslaving other people and exploiting other people.\N{\rChinese}并奴役他人并剥削他人。
+Dialogue: 0,1:03:06.28,1:03:10.54,English,,0,0,0,,Okay? They were predators. And again, that could be my prejudice.\N{\rChinese}好的？他们是掠夺者。再说一次，这也许是我的偏见。
+Dialogue: 0,1:03:10.66,1:03:13.32,English,,0,0,0,,But based on my readings so far,\N{\rChinese}但根据我目前的阅读，
+Dialogue: 0,1:03:13.52,1:03:16.66,English,,0,0,0,,that would be my belief.\N{\rChinese}那就是我的信念。
+Dialogue: 0,1:03:16.84,1:03:20.72,English,,0,0,0,,But please change my mind. Sounds good.\N{\rChinese}请改改我的想法。听起来不错。
+Dialogue: 0,1:03:20.76,1:03:22.62,English,,0,0,0,,Sounds good. Okay. All right.\N{\rChinese}听起来不错。好的。
+Dialogue: 0,1:03:22.66,1:03:24.70,English,,0,0,0,,Thanks for the question. Okay. Great question.\N{\rChinese}谢谢提问。好的。很棒的问题。
+Dialogue: 0,1:03:24.94,1:03:27.50,English,,0,0,0,,Any other questions? Okay.\N{\rChinese}还有别的问题吗？好的。
+Dialogue: 0,1:03:28.06,1:03:32.06,English,,0,0,0,,So you mentioned that in the Mongols,\N{\rChinese}你提到蒙古人时，
+Dialogue: 0,1:03:32.16,1:03:33.56,English,,0,0,0,,they don't have a lot of culture.\N{\rChinese}他们的文化不多。
+Dialogue: 0,1:03:35.36,1:03:37.02,English,,0,0,0,,Or... Sorry.\N{\rChinese}或者……抱歉。
+Dialogue: 0,1:03:37.16,1:03:38.38,English,,0,0,0,,Sorry. So population.\N{\rChinese}抱歉。说说人口。
+Dialogue: 0,1:03:38.64,1:03:43.08,English,,0,0,0,,Okay? So the Mongol population is loosely defined.\N{\rChinese}好的？所以蒙古人的人口大致可定义。
+Dialogue: 0,1:03:43.92,1:03:45.64,English,,0,0,0,,Okay? Do you understand?\N{\rChinese}好的？你明白了吗？
+Dialogue: 0,1:03:46.80,1:03:49.42,English,,0,0,0,,It's hard to say who's Mongol and who's not Mongol.\N{\rChinese}很难说谁是蒙古人，谁不是蒙古人。
+Dialogue: 0,1:03:49.56,1:03:52.48,English,,0,0,0,,Because that entire area has a similar culture.\N{\rChinese}因为那整个地区有相似的文化。
+Dialogue: 0,1:03:52.72,1:03:55.72,English,,0,0,0,,And it's very hard to figure out where the borders are.\N{\rChinese}而且很难确定边界在哪里。
+Dialogue: 0,1:03:55.86,1:03:58.06,English,,0,0,0,,Okay? So you mentioned that.\N{\rChinese}好？所以你提到了这一点。
+Dialogue: 0,1:03:58.06,1:04:00.34,English,,0,0,0,,So you mentioned that people don't have a lot of population.\N{\rChinese}所以你提到人们人口不多。
+Dialogue: 0,1:04:00.74,1:04:02.62,English,,0,0,0,,Yeah. But why would they believe that\N{\rChinese}是的。但他们为什么会认为人是无限资源？
+Dialogue: 0,1:04:02.62,1:04:08.08,English,,0,0,0,,people are infinite resources?\N{\rChinese}people are infinite resources?
+Dialogue: 0,1:04:08.14,1:04:09.92,English,,0,0,0,,Okay. Great question. Okay. Yeah. So you're right.\N{\rChinese}好的。很好的问题。好的。是的。你说得对。
+Dialogue: 0,1:04:10.00,1:04:13.58,English,,0,0,0,,So the Mongols are a low population.\N{\rChinese}蒙古人是人口稀少的。
+Dialogue: 0,1:04:14.18,1:04:16.56,English,,0,0,0,,So why would they believe that people are infinite resources?\N{\rChinese}他们为什么会认为人是无限资源？
+Dialogue: 0,1:04:16.90,1:04:21.10,English,,0,0,0,,And the answer is because they are always in contact with China.\N{\rChinese}答案是因为他们一直与中国接触。
+Dialogue: 0,1:04:21.40,1:04:25.56,English,,0,0,0,,Okay? So the Mongols were always in contact with China.\N{\rChinese}好的？蒙古人一直与中国接触。
+Dialogue: 0,1:04:25.66,1:04:29.72,English,,0,0,0,,And as... And as I mentioned, the interaction happens in three ways.\N{\rChinese}而且正如我所说，互动以三种方式发生。
+Dialogue: 0,1:04:29.88,1:04:35.22,English,,0,0,0,,Okay? The Mongols are working as either mercenaries for dynasties in China.\N{\rChinese}好的？蒙古人要么是为中国朝代雇佣军，要么是做贸易。
+Dialogue: 0,1:04:35.38,1:04:37.08,English,,0,0,0,,Or they are trading.\N{\rChinese}好的？或者他们在掠夺和掠夺。
+Dialogue: 0,1:04:37.48,1:04:40.04,English,,0,0,0,,Okay? Or they're raiding and pillaging.\N{\rChinese}好的？或者他们在掠夺和掠夺。
+Dialogue: 0,1:04:40.12,1:04:44.64,English,,0,0,0,,Okay? So for centuries, there's been contact between China and the Mongols.\N{\rChinese}好的？于是几个世纪以来，中国和蒙古人一直有接触。
+Dialogue: 0,1:04:44.78,1:04:49.14,English,,0,0,0,,So where did the Mongols learn the idea that people are infinite resources?\N{\rChinese}那么蒙古人是从哪里学到人是无限资源的观念的？
+Dialogue: 0,1:04:49.46,1:04:50.70,English,,0,0,0,,Well, they learned it from China.\N{\rChinese}嗯，就是从中国学来的。
+Dialogue: 0,1:04:50.98,1:04:53.34,English,,0,0,0,,And why did they learn it from China?\N{\rChinese}为什么他们从中国学到这个？
+Dialogue: 0,1:04:53.48,1:04:56.16,English,,0,0,0,,Because Chinese warfare was also...\N{\rChinese}因为中国的战争也……
+Dialogue: 0,1:04:56.80,1:04:59.56,English,,0,0,0,,Predicated on the belief that people were an infinite resource.\N{\rChinese}基于人是无限资源的信念。
+Dialogue: 0,1:04:59.86,1:05:04.12,English,,0,0,0,,Does that make sense? So basically, the entire idea of warfare in China is,\N{\rChinese}这有道理吗？所以，基本上，中国的战争观念是，
+Dialogue: 0,1:05:04.22,1:05:05.60,English,,0,0,0,,I organize this peasant army.\N{\rChinese}我组织这支农民军队。
+Dialogue: 0,1:05:05.74,1:05:07.20,English,,0,0,0,,I throw it at my opponent.\N{\rChinese}我把它投向我的对手。
+Dialogue: 0,1:05:07.42,1:05:09.96,English,,0,0,0,,Okay? And if my entire army dies, guess what?\N{\rChinese}好的？如果我的全军全死，猜猜会怎样？
+Dialogue: 0,1:05:10.12,1:05:12.78,English,,0,0,0,,I'll just go and I'll raise another peasant army and throw it at my opponent again.\N{\rChinese}我就去再组一支农民军，再投向敌人。
+Dialogue: 0,1:05:13.34,1:05:15.90,English,,0,0,0,,Okay? It's like human wafer tax.\N{\rChinese}好的？这就像人力税一样。
+Dialogue: 0,1:05:16.80,1:05:18.10,English,,0,0,0,,Okay? We call this human wafer tax.\N{\rChinese}好？我们把它叫做人力税。
+Dialogue: 0,1:05:18.28,1:05:19.92,English,,0,0,0,,This was pioneered in China.\N{\rChinese}这在中国先行一步。
+Dialogue: 0,1:05:20.06,1:05:22.96,English,,0,0,0,,Okay? And the Mongols just took it and used it everywhere else.\N{\rChinese}蒙古人把它拿来，随处使用。
+Dialogue: 0,1:05:24.02,1:05:27.54,English,,0,0,0,,Right? So if you're the Mongols, and you're fighting this enemy,\N{\rChinese}对吧？如果你是蒙古人，正在和敌人作战，他们把农民抛向你，你把他们全杀掉，但没人在意，因为大约一个月后，又有一支农民军来袭击你。
+Dialogue: 0,1:05:27.76,1:05:30.60,English,,0,0,0,,and they're just throwing these peasants at you, and you're killing them all, but\N{\rChinese}对吧？如果你是蒙古人，正在和敌人作战，他们把农民抛向你，你把他们全杀掉，但没人在意，因为大约一个月后，又有一支农民军来袭击你。
+Dialogue: 0,1:05:30.60,1:05:35.34,English,,0,0,0,,no one cares, because then, like, a month later, another peasant army comes at you.\N{\rChinese}对吧？如果你是蒙古人，正在和敌人作战，他们把农民抛向你，你把他们全杀掉，但没人在意，因为大约一个月后，又有一支农民军来袭击你。
+Dialogue: 0,1:05:35.40,1:05:38.96,English,,0,0,0,,Okay? You quickly adopt the idea that people are an infinite resource.\N{\rChinese}好？你很快就接受了人是无限资源的想法。
+Dialogue: 0,1:05:40.76,1:05:42.20,English,,0,0,0,,Right? Does that make sense?\N{\rChinese}对吧？这样说合理吗？
+Dialogue: 0,1:05:43.84,1:05:46.04,English,,0,0,0,,I think they were also pretty loose.\N{\rChinese}我觉得他们也很随意。
+Dialogue: 0,1:05:46.88,1:05:50.72,English,,0,0,0,,Those were not regular. But they were pretty loose in terms of,\N{\rChinese}那时并不规律。但在谁能成为蒙古人方面相当自由。
+Dialogue: 0,1:05:50.74,1:05:52.36,English,,0,0,0,,like, who could be a Mongol or not.\N{\rChinese}是的。是的。于是他们就能吸收不同的人口。
+Dialogue: 0,1:05:52.40,1:05:58.40,English,,0,0,0,,Yeah. Yeah. And so they could absorb different populations. Yeah.\N{\rChinese}是的。
+Dialogue: 0,1:06:04.62,1:06:09.42,English,,0,0,0,,That's right. Yeah. That's right.\N{\rChinese}对的。嗯。对的。
+Dialogue: 0,1:06:09.54,1:06:12.22,English,,0,0,0,,Yeah. The Mongols were a very open society.\N{\rChinese}嗯。蒙古人是个非常开放的社会。
+Dialogue: 0,1:06:12.52,1:06:15.46,English,,0,0,0,,Like, if you had a benefit to the society, and so,\N{\rChinese}比如说，如果你能为社会带来好处，
+Dialogue: 0,1:06:15.48,1:06:20.74,English,,0,0,0,,for example, if you're a Chinese teacher or a Chinese scholar or a Chinese engineer or a Chinese merchant,\N{\rChinese}例如，如果你是中国老师、学者、工程师或商人，他们会很快把你吸收进来。
+Dialogue: 0,1:06:20.88,1:06:22.34,English,,0,0,0,,they would quickly assimilate you.\N{\rChinese}他们随后会把其他人全部杀掉。
+Dialogue: 0,1:06:22.44,1:06:25.16,English,,0,0,0,,Okay? And then they would kill everyone else.\N{\rChinese}Okay? And then they would kill everyone else.
+Dialogue: 0,1:06:25.72,1:06:28.26,English,,0,0,0,,Okay? So they were a pretty open society.\N{\rChinese}好的？所以他们是个相当开放的社会。
+Dialogue: 0,1:06:28.88,1:06:30.82,English,,0,0,0,,Okay? So does that make sense?\N{\rChinese}好的？这样说有道理吗？
+Dialogue: 0,1:06:31.00,1:06:32.22,English,,0,0,0,,Okay. Great.\N{\rChinese}好的。很好。
+Dialogue: 0,1:06:32.30,1:06:39.08,English,,0,0,0,,Any more questions? Yes.\N{\rChinese}还有问题吗？有。
+Dialogue: 0,1:06:46.02,1:06:50.78,English,,0,0,0,,Okay. Great.\N{\rChinese}好的。很好。
+Dialogue: 0,1:06:50.86,1:06:53.42,English,,0,0,0,,Okay. All right. So let's talk about mythology.\N{\rChinese}好的。好了。现在我们来聊聊神话。
+Dialogue: 0,1:06:53.86,1:06:56.26,English,,0,0,0,,All right. So again, if you actually study mythology,\N{\rChinese}好的。再说一次，如果你真正研究神话，你会发现有一种结构在许多不同文化中非常相似。
+Dialogue: 0,1:06:57.30,1:06:58.86,English,,0,0,0,,what you recognize is\N{\rChinese}好的。再说一次，如果你真正研究神话，你会发现有一种结构在许多不同文化中非常相似。
+Dialogue: 0,1:06:59.56,1:07:03.66,English,,0,0,0,,there's a structure that's very similar across many different cultures.\N{\rChinese}好的。再说一次，如果你真正研究神话，你会发现有一种结构在许多不同文化中非常相似。
+Dialogue: 0,1:07:03.96,1:07:05.46,English,,0,0,0,,Right? So if you look at Greek,\N{\rChinese}对吧？所以如果你看希腊语，
+Dialogue: 0,1:07:06.02,1:07:09.12,English,,0,0,0,,if you look at Roman, Norse,\N{\rChinese}如果你看罗马语、北欧语，
+Dialogue: 0,1:07:10.36,1:07:13.74,English,,0,0,0,,Mongolian, okay, I could go on and on and on.\N{\rChinese}蒙古语，好的，我可以接着说下去。
+Dialogue: 0,1:07:17.08,1:07:19.70,English,,0,0,0,,There is a very similar structure, even though the characters might be different.\N{\rChinese}有一种非常相似的结构，虽然角色可能不同。
+Dialogue: 0,1:07:19.76,1:07:21.92,English,,0,0,0,,Okay? But it's a mythology that\N{\rChinese}好的？但这是一种神话，
+Dialogue: 0,1:07:21.92,1:07:25.00,English,,0,0,0,,celebrates violence and individualism.\N{\rChinese}它赞美暴力与个人主义。
+Dialogue: 0,1:07:26.18,1:07:28.84,English,,0,0,0,,So you can see that there's an individualism as a way to make the world, okay?\N{\rChinese}所以你可以看到，个体主义是一种让世界运转的方式，好的？
+Dialogue: 0,1:07:28.90,1:07:31.34,English,,0,0,0,,So you can see that there's an individualism It's about strength, individualism, violence.\N{\rChinese}所以你可以看到，个体主义是关于力量、个体主义、暴力的。
+Dialogue: 0,1:07:32.20,1:07:33.86,English,,0,0,0,,So why is that the case?\N{\rChinese}那为什么会是这样呢？
+Dialogue: 0,1:07:33.96,1:07:36.58,English,,0,0,0,,And it's about culture, cultural values.\N{\rChinese}它关于文化，文化价值。
+Dialogue: 0,1:07:38.56,1:07:41.48,English,,0,0,0,,So as I discussed in this class,\N{\rChinese}正如我在本课中所说，
+Dialogue: 0,1:07:41.94,1:07:46.02,English,,0,0,0,,cultural values are the most persistent part of who you are.\N{\rChinese}文化价值是你身份中最持久的部分。
+Dialogue: 0,1:07:46.20,1:07:48.38,English,,0,0,0,,Why? Because it's part of your subconscious, okay?\N{\rChinese}为什么？因为它是你潜意识的一部分，好的？
+Dialogue: 0,1:07:48.48,1:07:51.96,English,,0,0,0,,There's a conscious you and there's a subconscious.\N{\rChinese}有意识的你和潜意识的你。
+Dialogue: 0,1:07:55.32,1:07:57.60,English,,0,0,0,,And ultimately, you are your subconscious.\N{\rChinese}最终，你就是你的潜意识。
+Dialogue: 0,1:07:57.92,1:08:02.60,English,,0,0,0,,And subconscious is composed of your cultural values.\N{\rChinese}潜意识由你的文化价值构成。
+Dialogue: 0,1:08:03.08,1:08:05.54,English,,0,0,0,,Okay? This is the essence of who you are.\N{\rChinese}好了？这就是你身份的精髓。
+Dialogue: 0,1:08:05.70,1:08:08.52,English,,0,0,0,,So even though the Proto -Indo -Europeans,\N{\rChinese}于是即使原始印欧人，
+Dialogue: 0,1:08:08.52,1:08:12.02,English,,0,0,0,,they were going into different environments and they were assimilating themselves into different environments\N{\rChinese}他们进入不同的环境，并且他们自己也在不同环境中融合
+Dialogue: 0,1:08:12.02,1:08:13.60,English,,0,0,0,,and they look physically different,\N{\rChinese}他们看起来身体上不同
+Dialogue: 0,1:08:15.06,1:08:19.10,English,,0,0,0,,culturally, subconsciously, they shared a similar value system.\N{\rChinese}在文化上，潜意识里他们共享相似的价值体系
+Dialogue: 0,1:08:19.40,1:08:21.06,English,,0,0,0,,And this value system will then\N{\rChinese}而这个价值体系随后
+Dialogue: 0,1:08:21.06,1:08:24.80,English,,0,0,0,,go on to inform the way they perceive the world, their worldview.\N{\rChinese}继续影响他们感知世界的方式，即他们的世界观。
+Dialogue: 0,1:08:25.32,1:08:26.88,English,,0,0,0,,And this worldview will then\N{\rChinese}而这个世界观随后
+Dialogue: 0,1:08:26.88,1:08:30.12,English,,0,0,0,,manifest itself through mythology,\N{\rChinese}通过神话显现，随后成为文学。
+Dialogue: 0,1:08:30.40,1:08:32.06,English,,0,0,0,,which will eventually become literature.\N{\rChinese}好的？这样说通吗？
+Dialogue: 0,1:08:33.28,1:08:35.24,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}Okay? Does thatmake sense?
+Dialogue: 0,1:08:35.46,1:08:36.98,English,,0,0,0,,So they might have changed clothes,\N{\rChinese}于是他们可能换了衣服，又可能换了发色，但灵魂仍是原始-印欧-语系。
+Dialogue: 0,1:08:37.96,1:08:41.06,English,,0,0,0,,they might have changed their hair color, but\N{\rChinese}于是他们可能换了衣服，又可能换了发色，但灵魂仍是原始-印欧-语系。
+Dialogue: 0,1:08:41.06,1:08:44.62,English,,0,0,0,,their soul was still Proto -Indo -European.\N{\rChinese}于是他们可能换了衣服，又可能换了发色，但灵魂仍是原始-印欧-语系。
+Dialogue: 0,1:08:45.00,1:08:47.48,English,,0,0,0,,Okay? And the same is also true for language.\N{\rChinese}好的？同样的情况也适用于语言。
+Dialogue: 0,1:08:48.14,1:08:51.46,English,,0,0,0,,And that's why so\N{\rChinese}这就是为什么……
+Dialogue: 0,1:08:51.46,1:08:55.02,English,,0,0,0,,many words repeat themselves in different languages.\N{\rChinese}许多词在不同语言里会重复出现。
+Dialogue: 0,1:08:55.32,1:08:58.82,English,,0,0,0,,Okay? All right?\N{\rChinese}好的？行吗？
+Dialogue: 0,1:08:59.02,1:09:00.46,English,,0,0,0,,Does that make sense? Okay.\N{\rChinese}那有道理吗？好的。
+Dialogue: 0,1:09:00.92,1:09:02.96,English,,0,0,0,,Great. Any more questions?\N{\rChinese}太好了。还有别的问题吗？
+Dialogue: 0,1:09:06.10,1:09:08.76,English,,0,0,0,,I don't want to be found. We'll leave the cameras up.\N{\rChinese}我不想被发现。我们把摄像机放好。
+Dialogue: 0,1:09:08.80,1:09:10.16,English,,0,0,0,,We don't want to be found. Okay. All right. Okay.\N{\rChinese}我们不想被发现。好的。行。好的。
+Dialogue: 0,1:09:10.20,1:09:13.10,English,,0,0,0,,Great. So next class, we will go back to Europe.\N{\rChinese}太好了。下节课，我们回到欧洲。
+Dialogue: 0,1:09:13.16,1:09:16.84,English,,0,0,0,,We will do the Crusades, which will then take us to the Renaissance\N{\rChinese}我们将进行十字军，随后进入文艺复兴与宗教改革，再到南方革命。好吗？
+Dialogue: 0,1:09:17.52,1:09:20.44,English,,0,0,0,,and the Reformation and the Southern Revolution. Okay?\N{\rChinese}and the Reformation and theSouthern Revolution. Okay?

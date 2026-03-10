@@ -1,0 +1,613 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.14,English,,0,0,0,,Okay, let's start class.\N{\rChinese}好的，开始上课。
+Dialogue: 0,0:00:02.68,0:00:05.46,English,,0,0,0,,So let's review where we are.\N{\rChinese}先回顾一下我们现在的位置。
+Dialogue: 0,0:00:06.34,0:00:10.06,English,,0,0,0,,We are discussing or exploring why\N{\rChinese}我们正在讨论或探索为什么
+Dialogue: 0,0:00:10.06,0:00:13.22,English,,0,0,0,,the United States would want to invade Iran.\N{\rChinese}美国会想入侵伊朗。
+Dialogue: 0,0:00:13.48,0:00:16.22,English,,0,0,0,,And so far we have two good reasons.\N{\rChinese}到目前为止，我们有两个好理由。
+Dialogue: 0,0:00:16.46,0:00:20.66,English,,0,0,0,,The first good reason is called the Israel lobby.\N{\rChinese}第一个好理由叫做以色列游说。
+Dialogue: 0,0:00:23.06,0:00:28.18,English,,0,0,0,,There are in the Israel lobby millions of Christian Zionists\N{\rChinese}以色列游说中有数百万基督教犹太人
+Dialogue: 0,0:00:28.18,0:00:31.76,English,,0,0,0,,who believe that a conflict in Middle East,\N{\rChinese}他们认为中东的冲突，
+Dialogue: 0,0:00:32.10,0:00:34.92,English,,0,0,0,,especially between Israel and Iran,\N{\rChinese}尤其是以色列与伊朗之间的冲突，
+Dialogue: 0,0:00:35.44,0:00:38.56,English,,0,0,0,,will bring Jesus back to earth.\N{\rChinese}将把耶稣带回地球。
+Dialogue: 0,0:00:38.78,0:00:41.72,English,,0,0,0,,They want their God, Jesus, to return to earth\N{\rChinese}他们想让他们的上帝耶稣回到地球。
+Dialogue: 0,0:00:41.72,0:00:43.62,English,,0,0,0,,and they believe that\N{\rChinese}并且他们相信
+Dialogue: 0,0:00:43.62,0:00:47.30,English,,0,0,0,,a war in the Middle East will force him to return.\N{\rChinese}中东的战争会迫使他归来。
+Dialogue: 0,0:00:48.20,0:00:49.56,English,,0,0,0,,That's the first reason.\N{\rChinese}这就是第一个原因。
+Dialogue: 0,0:00:49.94,0:00:54.86,English,,0,0,0,,Second reason is the idea of an empire.\N{\rChinese}第二个原因是帝国观念。
+Dialogue: 0,0:00:55.62,0:00:58.00,English,,0,0,0,,America is an empire and\N{\rChinese}美国是一个帝国，且
+Dialogue: 0,0:00:58.00,0:01:00.72,English,,0,0,0,,as an empire it has a lot of privileges.\N{\rChinese}作为帝国，它拥有许多特权。
+Dialogue: 0,0:01:01.12,0:01:04.34,English,,0,0,0,,For example it can just print as much money as it wants.\N{\rChinese}例如，它可以随意印制大量货币。
+Dialogue: 0,0:01:04.70,0:01:06.48,English,,0,0,0,,Right? US dollars.\N{\rChinese}对吧？美元。
+Dialogue: 0,0:01:06.82,0:01:11.66,English,,0,0,0,,Right now America is thirty four trillion dollars in debt\N{\rChinese}现在美国已负债三十四万亿美元，且每两个月债务再增一亿美元。
+Dialogue: 0,0:01:11.66,0:01:15.30,English,,0,0,0,,and the debt is going by ten dollars every two months.\N{\rChinese}and the debt is going by ten dollars every two months.
+Dialogue: 0,0:01:16.28,0:01:21.34,English,,0,0,0,,America can do this as long as it is an empire.\N{\rChinese}美国只要是帝国就能做到这一点。
+Dialogue: 0,0:01:21.56,0:01:23.00,English,,0,0,0,,As long as people fear America.\N{\rChinese}只要人们害怕美国就行。
+Dialogue: 0,0:01:23.80,0:01:25.82,English,,0,0,0,,But America But as we discussed in the last class,\N{\rChinese}但正如我们在上一课讨论的那样，
+Dialogue: 0,0:01:26.10,0:01:29.00,English,,0,0,0,,with Putin's invasion of Ukraine,\N{\rChinese}随着普京入侵乌克兰，
+Dialogue: 0,0:01:29.66,0:01:32.90,English,,0,0,0,,people are now starting to rebel against the empire\N{\rChinese}人们现在开始反抗帝国，
+Dialogue: 0,0:01:32.90,0:01:33.88,English,,0,0,0,,and therefore\N{\rChinese}于是
+Dialogue: 0,0:01:33.88,0:01:37.92,English,,0,0,0,,America must demonstrate it still\N{\rChinese}美国必须证明它仍是世界的军事实力霸权，并且可以通过入侵伊朗来实现。
+Dialogue: 0,0:01:37.92,0:01:41.14,English,,0,0,0,,is the military hegemon of the world and\N{\rChinese}美国必须证明它仍是世界的军事实力霸权，并且可以通过入侵伊朗来实现。
+Dialogue: 0,0:01:41.14,0:01:44.92,English,,0,0,0,,therefore it can do this by invading Iran.\N{\rChinese}美国必须证明它仍是世界的军事实力霸权，并且可以通过入侵伊朗来实现。
+Dialogue: 0,0:01:45.76,0:01:47.68,English,,0,0,0,,Today we look at the third and\N{\rChinese}今天我们来看看中东冲突的第三个也是最后一个推动力。
+Dialogue: 0,0:01:47.68,0:01:51.08,English,,0,0,0,,final force driving conflict in the Middle East.\N{\rChinese}它真的是沙特阿拉伯与伊朗之间的冲突。
+Dialogue: 0,0:01:51.08,0:01:54.26,English,,0,0,0,,And it's really the conflict between Saudi Arabia\N{\rChinese}这场冲突的核心是沙特阿拉伯。
+Dialogue: 0,0:01:54.26,0:01:56.46,English,,0,0,0,,and Iran.\N{\rChinese}和伊朗。
+Dialogue: 0,0:01:58.64,0:02:00.96,English,,0,0,0,,Most people think that\N{\rChinese}大多数人认为，
+Dialogue: 0,0:02:00.96,0:02:05.96,English,,0,0,0,,Iran's major enemy in the\N{\rChinese}伊朗的主要敌人是
+Dialogue: 0,0:02:05.96,0:02:07.30,English,,0,0,0,,Middle East is Israel.\N{\rChinese}中东是以色列。
+Dialogue: 0,0:02:07.48,0:02:12.76,English,,0,0,0,,In fact, Iran's major enemy is Saudi Arabia.\N{\rChinese}实际上，伊朗的主要敌人是沙特阿拉伯。
+Dialogue: 0,0:02:13.04,0:02:15.46,English,,0,0,0,,These two are bitter rivals.\N{\rChinese}这两国是激烈的对手。
+Dialogue: 0,0:02:16.06,0:02:20.04,English,,0,0,0,,And to understand why, we have to look at their history.\N{\rChinese}为了理解原因，我们得先看看它们的历史。
+Dialogue: 0,0:02:20.18,0:02:22.20,English,,0,0,0,,Okay? Okay? So the year is 1979.\N{\rChinese}好吧？好吧？那么年份是1979年。
+Dialogue: 0,0:02:24.04,0:02:26.60,English,,0,0,0,,And at the start of 1979,\N{\rChinese}而且1979年初，
+Dialogue: 0,0:02:27.20,0:02:30.34,English,,0,0,0,,Saudi Arabia and Iran are very good friends.\N{\rChinese}沙特阿拉伯和伊朗关系非常好。
+Dialogue: 0,0:02:30.52,0:02:33.46,English,,0,0,0,,Okay? So let's look at a map of the Middle East.\N{\rChinese}好吧？那我们来看看中东地图。
+Dialogue: 0,0:02:34.46,0:02:35.70,English,,0,0,0,,Iran is here.\N{\rChinese}伊朗在这里。
+Dialogue: 0,0:02:36.30,0:02:37.52,English,,0,0,0,,It's next to Iraq.\N{\rChinese}它在伊拉克旁边。
+Dialogue: 0,0:02:38.84,0:02:41.28,English,,0,0,0,,Saudi Arabia is down here.\N{\rChinese}沙特阿拉伯在这里。
+Dialogue: 0,0:02:42.32,0:02:43.66,English,,0,0,0,,Then this is Egypt.\N{\rChinese}然后是埃及。
+Dialogue: 0,0:02:48.10,0:02:50.60,English,,0,0,0,,You have Yemen here.\N{\rChinese}你这里有也门。
+Dialogue: 0,0:02:50.60,0:02:53.86,English,,0,0,0,,Oman. This is the Strait of Hormuz.\N{\rChinese}阿曼。这是霍尔姆兹海峡。
+Dialogue: 0,0:02:55.42,0:02:57.06,English,,0,0,0,,And this is the Suez Canal.\N{\rChinese}这就是苏伊士运河。
+Dialogue: 0,0:02:57.38,0:03:00.46,English,,0,0,0,,Okay? The Red Sea, basically.\N{\rChinese}好的？红海，基本上。
+Dialogue: 0,0:03:02.70,0:03:04.22,English,,0,0,0,,And in 1979,\N{\rChinese}然后在1979年，
+Dialogue: 0,0:03:04.86,0:03:08.98,English,,0,0,0,,Saudi Arabia and Iran were very good friends.\N{\rChinese}沙特阿拉伯和伊朗非常好朋友。
+Dialogue: 0,0:03:09.26,0:03:13.58,English,,0,0,0,,They had a lot of similarities. They were both monarchies.\N{\rChinese}它们有很多相似之处，都是君主制。
+Dialogue: 0,0:03:13.62,0:03:14.98,English,,0,0,0,,They were ruled by a king.\N{\rChinese}它们由国王统治。
+Dialogue: 0,0:03:16.44,0:03:20.58,English,,0,0,0,,They were secular. They relied on American rule.\N{\rChinese}它们是世俗的，依赖美国统治。
+Dialogue: 0,0:03:20.58,0:03:22.62,English,,0,0,0,,They had American power to defend itself.\N{\rChinese}他们拥有美国的力量来保卫自己。
+Dialogue: 0,0:03:22.92,0:03:24.68,English,,0,0,0,,And they were both oil exporters.\N{\rChinese}他们都是石油出口国。
+Dialogue: 0,0:03:24.82,0:03:27.66,English,,0,0,0,,Both very prosperous oil exporters.\N{\rChinese}两者都是非常繁荣的石油出口国。
+Dialogue: 0,0:03:28.42,0:03:30.86,English,,0,0,0,,But then, in 1979,\N{\rChinese}但随后，在1979年，一场政治地震彻底改变了中东的格局。
+Dialogue: 0,0:03:31.54,0:03:34.26,English,,0,0,0,,a political earthquake\N{\rChinese}但随后，在1979年，一场政治地震彻底改变了中东的格局。
+Dialogue: 0,0:03:34.26,0:03:39.38,English,,0,0,0,,radically changed the landscape of the Middle East.\N{\rChinese}但随后，在1979年，一场政治地震彻底改变了中东的格局。
+Dialogue: 0,0:03:39.62,0:03:43.32,English,,0,0,0,,In 1979, there was a bottom -up\N{\rChinese}1979年，出现了自下而上的革命，称为伊斯兰革命。
+Dialogue: 0,0:03:43.32,0:03:47.18,English,,0,0,0,,revolution called the Islamic Revolution.\N{\rChinese}在1979年之前，...
+Dialogue: 0,0:03:49.90,0:03:51.10,English,,0,0,0,,Before 1979,\N{\rChinese}Before 1979,
+Dialogue: 0,0:03:51.60,0:03:55.10,English,,0,0,0,,there was a general consensus agreement in the Middle East\N{\rChinese}在中东形成了普遍共识
+Dialogue: 0,0:03:55.10,0:03:57.48,English,,0,0,0,,that religion and\N{\rChinese}宗教与
+Dialogue: 0,0:03:57.48,0:04:00.06,English,,0,0,0,,politics would be separated.\N{\rChinese}政治将分离。
+Dialogue: 0,0:04:00.96,0:04:02.90,English,,0,0,0,,But in 1979,\N{\rChinese}但在1979年，
+Dialogue: 0,0:04:03.24,0:04:07.32,English,,0,0,0,,the people in Iran demanded three things.\N{\rChinese}伊朗人民提出了三项要求。
+Dialogue: 0,0:04:07.90,0:04:09.88,English,,0,0,0,,Okay? First, they demanded that\N{\rChinese}好的？首先，他们要求
+Dialogue: 0,0:04:09.88,0:04:13.86,English,,0,0,0,,the king,\N{\rChinese}国王，
+Dialogue: 0,0:04:13.98,0:04:16.10,English,,0,0,0,,they would not be ruled by a king.\N{\rChinese}他们将不再由国王统治。
+Dialogue: 0,0:04:16.36,0:04:19.34,English,,0,0,0,,Okay? That's the first demand.\N{\rChinese}好的？这就是第一个要求。
+Dialogue: 0,0:04:19.60,0:04:22.90,English,,0,0,0,,Second is that the U.S.\N{\rChinese}第二点是美国不干预国内政治。
+Dialogue: 0,0:04:23.02,0:04:27.26,English,,0,0,0,,should not interfere in domestic politics.\N{\rChinese}should not interferein domestic politics.
+Dialogue: 0,0:04:27.70,0:04:30.68,English,,0,0,0,,Remember that before the king,\N{\rChinese}记住，国王之前，沙皇得到了美军的支持。
+Dialogue: 0,0:04:30.80,0:04:33.70,English,,0,0,0,,the Shah, was supported by the American military.\N{\rChinese}沙皇之前，国王得到了美军的支持。
+Dialogue: 0,0:04:34.34,0:04:37.58,English,,0,0,0,,And the third demand is that\N{\rChinese}第三个要求是……
+Dialogue: 0,0:04:37.58,0:04:40.84,English,,0,0,0,,as a Muslim people, as people\N{\rChinese}作为穆斯林民族，作为人们
+Dialogue: 0,0:04:40.84,0:04:42.32,English,,0,0,0,,who believe in the Islamic religion,\N{\rChinese}谁相信伊斯兰宗教，
+Dialogue: 0,0:04:42.64,0:04:47.14,English,,0,0,0,,the government should be focused on the Islamic religion.\N{\rChinese}政府应聚焦伊斯兰宗教。
+Dialogue: 0,0:04:47.16,0:04:49.44,English,,0,0,0,,And the fourth demand is that the government should be focused on Islamic law. Okay?\N{\rChinese}第四个要求是政府应聚焦伊斯兰法。
+Dialogue: 0,0:04:49.66,0:04:52.72,English,,0,0,0,,So, in the referendum,\N{\rChinese}于是，在公投中，
+Dialogue: 0,0:04:53.00,0:04:56.60,English,,0,0,0,,98% of the people of\N{\rChinese}98%的伊朗人投票成立伊斯兰共和国，取代君主制。
+Dialogue: 0,0:04:56.60,0:05:02.20,English,,0,0,0,,Iran voted to install an Islamic republic to replace their monarchy.\N{\rChinese}Iran voted to install an Islamic republic to replace their monarchy.
+Dialogue: 0,0:05:03.58,0:05:06.14,English,,0,0,0,,And this was completely unexpected.\N{\rChinese}这件事完全出乎意料。
+Dialogue: 0,0:05:06.66,0:05:10.34,English,,0,0,0,,And this caused an earthquake throughout the Middle East.\N{\rChinese}这件事在中东掀起一场地震。
+Dialogue: 0,0:05:11.24,0:05:13.90,English,,0,0,0,,In November of 1979,\N{\rChinese}1979年11月，
+Dialogue: 0,0:05:14.42,0:05:17.14,English,,0,0,0,,600 religious leaders were killed.\N{\rChinese}600位宗教领袖被击毙。
+Dialogue: 0,0:05:17.14,0:05:21.14,English,,0,0,0,,And the religious extremists tried to besiege Mecca.\N{\rChinese}随后宗教激进者试图包围麦加。
+Dialogue: 0,0:05:21.44,0:05:26.96,English,,0,0,0,,Okay? Mecca is the holiest city in the Islamic religion\N{\rChinese}麦加是伊斯兰教最圣的城市。
+Dialogue: 0,0:05:26.96,0:05:30.38,English,,0,0,0,,because it's the birthplace of the prophet Muhammad.\N{\rChinese}因为它是先知穆罕默德的诞生地。
+Dialogue: 0,0:05:30.98,0:05:36.82,English,,0,0,0,,600 extremists tried to take the city over\N{\rChinese}600名激进者试图占领该城并夺取三件物品。
+Dialogue: 0,0:05:36.82,0:05:39.08,English,,0,0,0,,and demand three things.\N{\rChinese}并要求三件事物。
+Dialogue: 0,0:05:39.20,0:05:43.78,English,,0,0,0,,Okay? That the Saudi Arabian monarchy should abdicate.\N{\rChinese}好的？沙特阿拉伯王朝应该让位。
+Dialogue: 0,0:05:43.78,0:05:47.52,English,,0,0,0,,The United States should remove itself\N{\rChinese}美国应该从沙特阿拉伯的永恒事务中退出。
+Dialogue: 0,0:05:47.52,0:05:50.72,English,,0,0,0,,from the eternal affairs of Saudi Arabia.\N{\rChinese}from the eternal affairs of Saudi Arabia.
+Dialogue: 0,0:05:51.02,0:05:55.28,English,,0,0,0,,And Saudi Arabia should be governed by Islamic law. Now,\N{\rChinese}并且沙特阿拉伯应由伊斯兰法治理。现在，
+Dialogue: 0,0:05:55.34,0:06:00.86,English,,0,0,0,,this revolt was crushed by the military.\N{\rChinese}这场起义被军队镇压。
+Dialogue: 0,0:06:01.66,0:06:04.84,English,,0,0,0,,But from that day on, Iran\N{\rChinese}但从那天起，伊朗
+Dialogue: 0,0:06:04.84,0:06:09.06,English,,0,0,0,,and Saudi Arabia became bitter enemies.\N{\rChinese}和沙特阿拉伯成为了激烈的敌人。
+Dialogue: 0,0:06:09.88,0:06:13.76,English,,0,0,0,,Because they were both trying to install their vision.\N{\rChinese}因为两国都在争取各自的愿景。
+Dialogue: 0,0:06:13.78,0:06:18.32,English,,0,0,0,,The vision of Islam on the Middle East.\N{\rChinese}愿景即在中东铺设伊斯兰的格局。
+Dialogue: 0,0:06:19.56,0:06:21.60,English,,0,0,0,,Okay? So,\N{\rChinese}好的？所以，
+Dialogue: 0,0:06:21.70,0:06:25.12,English,,0,0,0,,this rivalry between Iran\N{\rChinese}这场伊朗与沙特阿拉伯的竞争有三种形式。
+Dialogue: 0,0:06:25.12,0:06:29.88,English,,0,0,0,,and Saudi Arabia took three forms.\N{\rChinese}and Saudi Arabiatook three forms.
+Dialogue: 0,0:06:30.16,0:06:33.60,English,,0,0,0,,Okay? The first form is religious.\N{\rChinese}好的？第一种形式是宗教的。
+Dialogue: 0,0:06:35.44,0:06:39.66,English,,0,0,0,,So, even though they're both Muslim countries, Islamic countries,\N{\rChinese}所以，虽然它们都是穆斯林国家，伊斯兰国家，
+Dialogue: 0,0:06:40.32,0:06:43.64,English,,0,0,0,,they have different versions of the religion.\N{\rChinese}它们有不同的宗教版本。
+Dialogue: 0,0:06:43.64,0:06:44.96,English,,0,0,0,,Okay? So,\N{\rChinese}好的吗？所以，
+Dialogue: 0,0:06:45.14,0:06:49.26,English,,0,0,0,,Saudi Arabia is Sunni.\N{\rChinese}沙特阿拉伯是逊尼派。
+Dialogue: 0,0:06:50.39,0:06:54.62,English,,0,0,0,,And Iran is Shiite. Now,\N{\rChinese}伊朗是什叶派。
+Dialogue: 0,0:06:54.70,0:06:57.20,English,,0,0,0,,you may ask what the difference between\N{\rChinese}你可能会问这两种宗教分支之间的区别是什么。
+Dialogue: 0,0:06:57.20,0:07:01.20,English,,0,0,0,,these two different branches of the religion are.\N{\rChinese}答案是，
+Dialogue: 0,0:07:01.48,0:07:02.96,English,,0,0,0,,And the answer is,\N{\rChinese}And the answer is,
+Dialogue: 0,0:07:03.38,0:07:04.92,English,,0,0,0,,no one actually knows.\N{\rChinese}没有人真正知道。
+Dialogue: 0,0:07:05.24,0:07:07.20,English,,0,0,0,,It's a very complicated issue.\N{\rChinese}这是一个非常复杂的问题。
+Dialogue: 0,0:07:07.48,0:07:09.58,English,,0,0,0,,The major difference is this.\N{\rChinese}主要区别在于此。
+Dialogue: 0,0:07:09.72,0:07:13.62,English,,0,0,0,,In 610, the prophet Muhammad was killed.\N{\rChinese}610年，先知穆罕默德被杀。
+Dialogue: 0,0:07:13.62,0:07:16.30,English,,0,0,0,,And the prophet Muhammad in Medina, in the city of Medina,\N{\rChinese}先知穆罕默德在麦地那城。
+Dialogue: 0,0:07:16.44,0:07:22.06,English,,0,0,0,,he had a vision to found a new religion called Islam.\N{\rChinese}他有异象，创立了新宗教伊斯兰。
+Dialogue: 0,0:07:22.42,0:07:24.14,English,,0,0,0,,Okay? And\N{\rChinese}好的？然后
+Dialogue: 0,0:07:24.14,0:07:28.40,English,,0,0,0,,he spread this religion throughout the Middle East,\N{\rChinese}他把这门教传播到中东，
+Dialogue: 0,0:07:28.48,0:07:32.70,English,,0,0,0,,throughout the Arab world, forever transforming the Middle East.\N{\rChinese}再到阿拉伯世界，永远改变了中东。
+Dialogue: 0,0:07:32.92,0:07:36.02,English,,0,0,0,,When he died, there's a problem of succession.\N{\rChinese}他去世后，出现了继承问题。
+Dialogue: 0,0:07:36.40,0:07:41.06,English,,0,0,0,,Who would succeed the prophet as the leader of the religion?\N{\rChinese}谁会接替先知，成为宗教的领袖？
+Dialogue: 0,0:07:41.06,0:07:43.86,English,,0,0,0,,The Shiite people believed that\N{\rChinese}什叶派人认为
+Dialogue: 0,0:07:43.86,0:07:47.96,English,,0,0,0,,only people of Muhammad's\N{\rChinese}只有穆罕默德血脉的人才能成为宗教的领袖。
+Dialogue: 0,0:07:47.96,0:07:51.50,English,,0,0,0,,bloodline can be the leaders of the religion.\N{\rChinese}逊尼派不同意，并说……
+Dialogue: 0,0:07:52.02,0:07:55.20,English,,0,0,0,,The Sunni disagreed and said that\N{\rChinese}The Sunni disagreed and said that
+Dialogue: 0,0:07:55.20,0:07:58.28,English,,0,0,0,,anyone who proved himself competent\N{\rChinese}任何证明自己有能力并忠于宗教的人都可以成为领袖。
+Dialogue: 0,0:07:58.28,0:08:01.94,English,,0,0,0,,and faithful to religion could be the leader.\N{\rChinese}于是，数百年来，这两大派别交替掌权。
+Dialogue: 0,0:08:02.54,0:08:05.84,English,,0,0,0,,And so, for hundreds of years, these two groups,\N{\rChinese}And so, for hundreds ofyears, these two groups,
+Dialogue: 0,0:08:05.90,0:08:11.04,English,,0,0,0,,the Sunni and the Shiite, fought a war over the succession of the religion.\N{\rChinese}逊尼派与什叶派因宗教继承而交战。
+Dialogue: 0,0:08:11.04,0:08:15.72,English,,0,0,0,,And this led to a bitter rivalry that's lasted to this day.\N{\rChinese}这场战斗孕育了至今仍在延续的激烈竞争。
+Dialogue: 0,0:08:15.84,0:08:18.62,English,,0,0,0,,Okay? Now, the majority of people in the world,\N{\rChinese}现在，世界上多数人是逊尼派。
+Dialogue: 0,0:08:18.68,0:08:22.10,English,,0,0,0,,about 8%, are Sunni.\N{\rChinese}约8%，是逊尼派。
+Dialogue: 0,0:08:22.16,0:08:25.52,English,,0,0,0,,Okay? The majority of Muslims in the world are Sunni.\N{\rChinese}好的？世界上多数穆斯林是逊尼派。
+Dialogue: 0,0:08:25.82,0:08:28.30,English,,0,0,0,,10% are Shia.\N{\rChinese}10%是什叶派。
+Dialogue: 0,0:08:28.86,0:08:32.78,English,,0,0,0,,Okay? So, why this is important is\N{\rChinese}好的？所以这点重要的原因是
+Dialogue: 0,0:08:32.78,0:08:35.40,English,,0,0,0,,that Saudi Arabia is a Sunni country.\N{\rChinese}沙特尔阿拉伯是逊尼国家。
+Dialogue: 0,0:08:37.02,0:08:40.80,English,,0,0,0,,And Iran is a Shia country.\N{\rChinese}伊朗是什叶国家。
+Dialogue: 0,0:08:42.32,0:08:45.24,English,,0,0,0,,And at the time of the revolution,\N{\rChinese}在革命时期，
+Dialogue: 0,0:08:45.74,0:08:48.68,English,,0,0,0,,Iran dedicated itself, committed itself,\N{\rChinese}伊朗把自己奉献给，
+Dialogue: 0,0:08:48.88,0:08:53.10,English,,0,0,0,,to spreading the Shia revolution throughout the world.\N{\rChinese}把伊斯兰教派革命传播到世界各地。
+Dialogue: 0,0:08:53.60,0:08:55.00,English,,0,0,0,,Okay? Now,\N{\rChinese}好的？现在，
+Dialogue: 0,0:08:55.08,0:09:00.62,English,,0,0,0,,Saudi Arabia considers itself the leader of the Islamic world\N{\rChinese}沙特尔阿拉伯把自己视为伊斯兰世界的领袖
+Dialogue: 0,0:09:00.62,0:09:03.62,English,,0,0,0,,because it is home to both Mecca\N{\rChinese}因为它拥有麦加
+Dialogue: 0,0:09:03.62,0:09:05.80,English,,0,0,0,,and Medina, which\N{\rChinese}和麦地，哪是伊斯兰世界最神圣的两座城市。
+Dialogue: 0,0:09:05.80,0:09:10.78,English,,0,0,0,,are the two holiest cities in the entire Islamic world.\N{\rChinese}它们都是伊斯兰宗教最重要的城市。
+Dialogue: 0,0:09:10.78,0:09:12.34,English,,0,0,0,,And they are both the most important Islamic religion.\N{\rChinese}And they are both the mostimportant Islamic religion.
+Dialogue: 0,0:09:13.36,0:09:16.10,English,,0,0,0,,As you may know, there's a requirement\N{\rChinese}正如你所知，穆斯林有一项要求
+Dialogue: 0,0:09:16.10,0:09:19.26,English,,0,0,0,,that as a Muslim,\N{\rChinese}作为穆斯林，
+Dialogue: 0,0:09:19.40,0:09:21.00,English,,0,0,0,,you must take a Hajj,\N{\rChinese}你必须完成朝觅
+Dialogue: 0,0:09:21.24,0:09:25.68,English,,0,0,0,,a pilgrimage to Mecca and Medina once in your lifetime.\N{\rChinese}一次在你一生中去麦加和麦地的朝觅。
+Dialogue: 0,0:09:26.52,0:09:29.58,English,,0,0,0,,Okay? And because Saudi Arabia controls Mecca\N{\rChinese}好的？而且因为沙特阿拉伯掌管麦加和麦地，真是沙特的根本。
+Dialogue: 0,0:09:29.58,0:09:32.10,English,,0,0,0,,and Medina, that's really the source of Saudi\N{\rChinese}这正是沙特的根本。
+Dialogue: 0,0:09:32.10,0:09:36.36,English,,0,0,0,,Arabia's authority over the Islamic world.\N{\rChinese}沙特对伊斯兰世界的权威。
+Dialogue: 0,0:09:36.90,0:09:40.42,English,,0,0,0,,Iran says... Iran argues that...\N{\rChinese}伊朗说……伊朗认为……
+Dialogue: 0,0:09:40.42,0:09:43.76,English,,0,0,0,,Iran argues that because Saudi Arabia is ruled by a king,\N{\rChinese}伊朗认为因为沙特由国王统治，
+Dialogue: 0,0:09:43.96,0:09:45.70,English,,0,0,0,,that's anti -Muslim.\N{\rChinese}那是反穆斯林的。
+Dialogue: 0,0:09:46.34,0:09:49.28,English,,0,0,0,,And because United States is defended by the U.S.\N{\rChinese}而且美国由美军守护，亦是反穆斯林。
+Dialogue: 0,0:09:49.32,0:09:52.30,English,,0,0,0,,military, that's also anti -Muslim.\N{\rChinese}military, that'salso anti -Muslim.
+Dialogue: 0,0:09:52.64,0:09:54.38,English,,0,0,0,,Saudi Arabia is a heresy.\N{\rChinese}沙特是异端。
+Dialogue: 0,0:09:55.16,0:09:57.66,English,,0,0,0,,Okay? So, Iran is dedicated itself\N{\rChinese}好的？所以，伊朗把自己奉献给颠覆沙特的权威。
+Dialogue: 0,0:09:57.66,0:10:02.54,English,,0,0,0,,to subverting Saudi Arabia's authority.\N{\rChinese}好的？现在，沙特是逊尼派。
+Dialogue: 0,0:10:04.02,0:10:06.48,English,,0,0,0,,Okay? So, this is all makes sense so far.\N{\rChinese}好的？所以，到目前为止一切都说得通。
+Dialogue: 0,0:10:06.80,0:10:09.78,English,,0,0,0,,Okay? Now, Saudi Arabia is Sunni\N{\rChinese}好的？现在，沙特是逊尼派。
+Dialogue: 0,0:10:09.78,0:10:10.80,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:10:10.80,0:10:14.40,English,,0,0,0,,it practices the most extreme\N{\rChinese}它实行最极端的
+Dialogue: 0,0:10:14.40,0:10:19.88,English,,0,0,0,,form of Sunni religion called Wahhabism.\N{\rChinese}一种被称为瓦哈比派的逊尼宗教形式。
+Dialogue: 0,0:10:20.06,0:10:23.56,English,,0,0,0,,Okay? Wahhabism. In 1744,\N{\rChinese}好的？瓦哈比派。1744年，
+Dialogue: 0,0:10:24.24,0:10:27.20,English,,0,0,0,,the Wahhabis, okay,\N{\rChinese}瓦哈比派，好吗，
+Dialogue: 0,0:10:27.32,0:10:31.72,English,,0,0,0,,which again are the most extreme Islamic group,\N{\rChinese}再次是最极端的伊斯兰团体
+Dialogue: 0,0:10:31.98,0:10:37.38,English,,0,0,0,,made an alliance with the Al -Saad family of Saudi Arabia.\N{\rChinese}与沙特阿拉伯的阿尔-萨阿德家族结盟。
+Dialogue: 0,0:10:37.38,0:10:39.18,English,,0,0,0,,And the agreement was this.\N{\rChinese}协议内容是这样：
+Dialogue: 0,0:10:39.38,0:10:41.38,English,,0,0,0,,That the Wahhabis could...\N{\rChinese}瓦哈比派能……
+Dialogue: 0,0:10:42.32,0:10:44.84,English,,0,0,0,,Wahhabism would become the national religion of Saudi Arabia\N{\rChinese}瓦哈比派将成为沙特阿拉伯的国教
+Dialogue: 0,0:10:44.84,0:10:46.28,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:10:46.28,0:10:50.24,English,,0,0,0,,the Wahhabis would swear allegiance to the Al -Saad family.\N{\rChinese}瓦哈比派将向阿尔-萨阿德家族宣誓效忠。
+Dialogue: 0,0:10:50.62,0:10:53.38,English,,0,0,0,,Okay? But\N{\rChinese}好的？
+Dialogue: 0,0:10:53.38,0:10:55.42,English,,0,0,0,,in the 1930s,\N{\rChinese}1930年代，
+Dialogue: 0,0:10:55.42,0:10:59.58,English,,0,0,0,,oil was discovered in Saudi Arabia.\N{\rChinese}油在沙特阿拉伯被发现。
+Dialogue: 0,0:11:00.78,0:11:01.92,English,,0,0,0,,In fact,\N{\rChinese}事实上，
+Dialogue: 0,0:11:02.08,0:11:07.36,English,,0,0,0,,Saudi Arabia proved to have the most valuable oil resources.\N{\rChinese}沙特阿拉伯拥有最宝贵的油资源。
+Dialogue: 0,0:11:07.36,0:11:09.04,English,,0,0,0,,In all the world.\N{\rChinese}全世界都如此。
+Dialogue: 0,0:11:09.14,0:11:13.70,English,,0,0,0,,Okay? And at that time, as the world was modernizing, oil was becoming more and more important.\N{\rChinese}好吧？那时，随着世界现代化，油变得越来越重要。
+Dialogue: 0,0:11:14.12,0:11:18.24,English,,0,0,0,,And so, that made Saudi Arabia extremely wealthy.\N{\rChinese}于是，沙特阿拉伯变得极其富裕。
+Dialogue: 0,0:11:19.00,0:11:22.80,English,,0,0,0,,And as it became more and more wealthy, it tried to become more Western,\N{\rChinese}随着财富的积累，它努力变得更西化、更世俗、更进步、更现代。
+Dialogue: 0,0:11:23.12,0:11:26.20,English,,0,0,0,,more secular, more progressive, more modern.\N{\rChinese}more secular, more progressive, more modern.
+Dialogue: 0,0:11:26.38,0:11:31.20,English,,0,0,0,,Which brought it into conflict with the Wahhabis.\N{\rChinese}这使它与瓦哈比派发生冲突。
+Dialogue: 0,0:11:31.22,0:11:32.50,English,,0,0,0,,Okay? Now,\N{\rChinese}好吧？现在，
+Dialogue: 0,0:11:32.54,0:11:37.34,English,,0,0,0,,Wahhabism accounts for 20 to 40% of the world's oil.\N{\rChinese}瓦哈比主义占全球石油的20%到40%。
+Dialogue: 0,0:11:37.34,0:11:40.68,English,,0,0,0,,Of all the people in Saudi Arabia.\N{\rChinese}在沙特阿拉伯的所有人中。
+Dialogue: 0,0:11:40.84,0:11:42.64,English,,0,0,0,,So, it is a very significant group.\N{\rChinese}因此，它是一个非常重要的群体。
+Dialogue: 0,0:11:43.66,0:11:45.26,English,,0,0,0,,More important,\N{\rChinese}更重要的是，
+Dialogue: 0,0:11:45.68,0:11:49.94,English,,0,0,0,,Wahhabi people tend to be extremely fanatical.\N{\rChinese}瓦哈比人往往极具狂热。
+Dialogue: 0,0:11:50.24,0:11:53.92,English,,0,0,0,,So, for example, in 1979, the people who\N{\rChinese}例如，1979年，包围麦加的人是瓦哈比人。
+Dialogue: 0,0:11:53.92,0:11:59.82,English,,0,0,0,,laid siege to Mecca were Wahhabis.\N{\rChinese}他们的行动显示了极端的热情。
+Dialogue: 0,0:12:00.20,0:12:05.42,English,,0,0,0,,And Wahhabis were also responsible for terrorist attacks against tourists,\N{\rChinese}瓦哈比人也负责对游客的恐怖袭击，
+Dialogue: 0,0:12:05.58,0:12:07.32,English,,0,0,0,,against foreigners in Saudi Arabia.\N{\rChinese}对沙特阿拉伯的外国人。
+Dialogue: 0,0:12:07.32,0:12:10.38,English,,0,0,0,,Okay? So,\N{\rChinese}好的？那么，
+Dialogue: 0,0:12:10.46,0:12:13.96,English,,0,0,0,,Saudi Arabia has always had this problem with the Wahhabis.\N{\rChinese}沙特阿拉伯与瓦哈比人一直有这个问题。
+Dialogue: 0,0:12:14.08,0:12:15.62,English,,0,0,0,,And a way that\N{\rChinese}而沙特阿拉伯曾试图以此方式解决。
+Dialogue: 0,0:12:15.62,0:12:18.30,English,,0,0,0,,Saudi Arabia has tried to resolve\N{\rChinese}Saudi Arabia hastried to resolve
+Dialogue: 0,0:12:18.30,0:12:21.96,English,,0,0,0,,the conflict is to export\N{\rChinese}冲突是为了出口
+Dialogue: 0,0:12:21.96,0:12:24.88,English,,0,0,0,,the religion of Wahhabism throughout the world.\N{\rChinese}瓦哈比宗教遍及世界
+Dialogue: 0,0:12:25.34,0:12:26.34,English,,0,0,0,,So, for example,\N{\rChinese}比如说，
+Dialogue: 0,0:12:26.44,0:12:28.62,English,,0,0,0,,Osama Bin Laden was a\N{\rChinese}奥萨马·本·拉登是
+Dialogue: 0,0:12:28.62,0:12:34.56,English,,0,0,0,,Saudi citizen responsible for spreading Wahhabism in Afghanistan.\N{\rChinese}沙特公民负责在阿富汗传播瓦哈比主义。
+Dialogue: 0,0:12:34.88,0:12:36.70,English,,0,0,0,,And that's what started Al -Qaeda.\N{\rChinese}这就是阿尔-卡达的起因。
+Dialogue: 0,0:12:36.84,0:12:40.80,English,,0,0,0,,Okay? So,\N{\rChinese}好的？那么，
+Dialogue: 0,0:12:40.80,0:12:43.72,English,,0,0,0,,Saudi Arabia is trying to export Wahhabism.\N{\rChinese}沙特阿拉伯正在传播瓦哈比主义。
+Dialogue: 0,0:12:43.90,0:12:47.58,English,,0,0,0,,Iran is trying to export the Shiite religion.\N{\rChinese}伊朗正试图把什叶派宗教输出。
+Dialogue: 0,0:12:47.94,0:12:50.34,English,,0,0,0,,And so, they come to conflict with each other.\N{\rChinese}于是两国相互冲突。
+Dialogue: 0,0:12:50.68,0:12:54.06,English,,0,0,0,,So, the first source of tension between Iran\N{\rChinese}于是，伊朗之间的第一个紧张源头是
+Dialogue: 0,0:12:54.06,0:12:56.58,English,,0,0,0,,and Saudi Arabia is over religion.\N{\rChinese}而沙特阿拉伯已超越宗教。
+Dialogue: 0,0:12:57.22,0:12:58.52,English,,0,0,0,,Second is economical.\N{\rChinese}第二点是经济方面的。
+Dialogue: 0,0:13:01.00,0:13:03.18,English,,0,0,0,,And what that means is that\N{\rChinese}这意味着
+Dialogue: 0,0:13:03.18,0:13:06.28,English,,0,0,0,,both countries are oil exporters.\N{\rChinese}两国都是石油出口国。
+Dialogue: 0,0:13:06.28,0:13:07.66,English,,0,0,0,,In fact,\N{\rChinese}实际上，
+Dialogue: 0,0:13:07.76,0:13:12.08,English,,0,0,0,,Saudi Arabia is completely reliant on oil for its economy.\N{\rChinese}沙特阿拉伯的经济完全依赖石油。
+Dialogue: 0,0:13:12.58,0:13:15.54,English,,0,0,0,,40% of Saudi\N{\rChinese}40%属于沙特
+Dialogue: 0,0:13:15.54,0:13:21.08,English,,0,0,0,,Arabia's economy GDP is based on oil exports.\N{\rChinese}沙特的GDP基于石油出口。
+Dialogue: 0,0:13:21.38,0:13:24.00,English,,0,0,0,,Saudi Arabia is number one oil exporter in the world.\N{\rChinese}沙特阿拉伯是世界第一大石油出口国。
+Dialogue: 0,0:13:24.14,0:13:29.92,English,,0,0,0,,Okay? 75% of government revenues comes from its oil exports.\N{\rChinese}好的？75%的政府收入来自石油出口。
+Dialogue: 0,0:13:30.26,0:13:35.26,English,,0,0,0,,In other words, Saudi Arabia does not actually collect taxes from its citizens.\N{\rChinese}换句话说，沙特阿拉伯并不从其公民那里征税。
+Dialogue: 0,0:13:35.26,0:13:36.62,English,,0,0,0,,It just sells oil.\N{\rChinese}它只是卖石油。
+Dialogue: 0,0:13:37.66,0:13:42.72,English,,0,0,0,,Okay? Iran also sells oil.\N{\rChinese}好吧？伊朗也卖石油。
+Dialogue: 0,0:13:42.84,0:13:45.00,English,,0,0,0,,It's the number four oil exporter in the world.\N{\rChinese}它是世界第四大石油出口国。
+Dialogue: 0,0:13:45.20,0:13:49.48,English,,0,0,0,,But it's less reliant on oil because it has a diversified economy.\N{\rChinese}但它的经济已多元化，油的比重已不大。
+Dialogue: 0,0:13:49.74,0:13:52.86,English,,0,0,0,,Meaning that it has very strong human capital.\N{\rChinese}意味着它拥有非常强大的人力资本。
+Dialogue: 0,0:13:53.42,0:13:55.98,English,,0,0,0,,It has a very well -educated population\N{\rChinese}它拥有一支非常受过教育的人口。
+Dialogue: 0,0:13:55.98,0:13:59.00,English,,0,0,0,,that does all sorts of different activities.\N{\rChinese}那样做了各种不同的活动。
+Dialogue: 0,0:13:59.32,0:14:03.04,English,,0,0,0,,Okay? Science, art, education.\N{\rChinese}好吧？科学、艺术、教育。
+Dialogue: 0,0:14:05.02,0:14:10.88,English,,0,0,0,,So, Saudi Arabia for the longest time has been trying to control the price of oil in order to maximize profits.\N{\rChinese}于是，沙特阿拉伯长期以来一直试图调控油价，以最大化利润。
+Dialogue: 0,0:14:11.28,0:14:16.76,English,,0,0,0,,For example, it wants to cut back production in order to increase the price of oil,\N{\rChinese}例如，它想削减产量，以提升油价。
+Dialogue: 0,0:14:16.90,0:14:19.80,English,,0,0,0,,which will increase profits. But\N{\rChinese}这将增加利润。但
+Dialogue: 0,0:14:19.80,0:14:22.66,English,,0,0,0,,Iran often doesn't cooperate because\N{\rChinese}伊朗往往不合作
+Dialogue: 0,0:14:22.66,0:14:24.42,English,,0,0,0,,Iran is trying to sell as much oil\N{\rChinese}伊朗正尽可能多卖油，以提振经济。
+Dialogue: 0,0:14:24.42,0:14:28.78,English,,0,0,0,,as possible in order to boost its economy.\N{\rChinese}as possible in orderto boost its economy.
+Dialogue: 0,0:14:29.10,0:14:33.02,English,,0,0,0,,Okay? So, there's economic conflict between these two countries.\N{\rChinese}好的？所以这两国之间有经济冲突。
+Dialogue: 0,0:14:33.02,0:14:34.94,English,,0,0,0,,And the third and\N{\rChinese}而第三点是……
+Dialogue: 0,0:14:34.94,0:14:38.98,English,,0,0,0,,final conflict is geopolitical.\N{\rChinese}最终冲突是地缘政治的。
+Dialogue: 0,0:14:39.54,0:14:42.92,English,,0,0,0,,Okay? And geopolitical means that\N{\rChinese}好？而地缘政治意味着……
+Dialogue: 0,0:14:42.92,0:14:45.94,English,,0,0,0,,both countries are trying to exert\N{\rChinese}两国都在努力施展……
+Dialogue: 0,0:14:45.94,0:14:50.78,English,,0,0,0,,as much influence as possible over the Middle East.\N{\rChinese}尽可能多地影响中东。
+Dialogue: 0,0:14:51.30,0:14:56.82,English,,0,0,0,,Now, Iran is trying to exert influence over the Middle East\N{\rChinese}现在伊朗正试图在中东施展影响力。
+Dialogue: 0,0:14:56.82,0:15:01.34,English,,0,0,0,,because after the revolution in 1979,\N{\rChinese}因为1979年革命之后，
+Dialogue: 0,0:15:01.64,0:15:03.00,English,,0,0,0,,Iran was trying to control the oil prices.\N{\rChinese}伊朗正试图控制油价。
+Dialogue: 0,0:15:03.00,0:15:06.00,English,,0,0,0,,Now, many countries, including Saudi Arabia and the United States,\N{\rChinese}现在，许多国包括沙特阿拉伯和美国，
+Dialogue: 0,0:15:06.02,0:15:08.46,English,,0,0,0,,encouraged Iraq to invade Iran.\N{\rChinese}鼓励伊拉克入侵伊朗。
+Dialogue: 0,0:15:08.78,0:15:11.64,English,,0,0,0,,And this invasion, called the Iraq -Iran War,\N{\rChinese}并且这场被称为伊拉克-伊朗战争的入侵，
+Dialogue: 0,0:15:11.86,0:15:13.56,English,,0,0,0,,lasted eight years and\N{\rChinese}持续了八年，
+Dialogue: 0,0:15:13.56,0:15:19.08,English,,0,0,0,,it cost the lives of millions of Iranians.\N{\rChinese}耗费了数百万伊朗人的生命。
+Dialogue: 0,0:15:19.28,0:15:20.54,English,,0,0,0,,And from then on,\N{\rChinese}从那时起，
+Dialogue: 0,0:15:20.72,0:15:22.58,English,,0,0,0,,Iran has adopted a policy\N{\rChinese}伊朗采取了一个积极干预的政策，
+Dialogue: 0,0:15:22.58,0:15:27.46,English,,0,0,0,,of aggressive intervention in the\N{\rChinese}在……
+Dialogue: 0,0:15:27.46,0:15:31.02,English,,0,0,0,,Middle East in order to distract the United States and Israel.\N{\rChinese}中东以此扰美以此扰以色
+Dialogue: 0,0:15:31.20,0:15:33.66,English,,0,0,0,,Okay? So, for example, in Israel,\N{\rChinese}好？比如在以色，
+Dialogue: 0,0:15:33.88,0:15:37.32,English,,0,0,0,,there are two groups opposing Israel, Hamas\N{\rChinese}有两伙对抗以色，
+Dialogue: 0,0:15:37.32,0:15:39.90,English,,0,0,0,,and Hezbollah.\N{\rChinese}以及真哈伊德。
+Dialogue: 0,0:15:40.16,0:15:41.82,English,,0,0,0,,And they're both financed and\N{\rChinese}它们都由伊朗资助并
+Dialogue: 0,0:15:41.82,0:15:45.00,English,,0,0,0,,supported politically by Iran.\N{\rChinese}并得到伊朗的政治支持。
+Dialogue: 0,0:15:45.20,0:15:48.54,English,,0,0,0,,And the point of doing this is to distract Israel.\N{\rChinese}并且这样做的要点是扰动以色。
+Dialogue: 0,0:15:49.44,0:15:54.62,English,,0,0,0,,Okay? Now, Saudi Arabia is trying to exert influence over the Middle East\N{\rChinese}好？现在，沙特阿拉伯正试图在中东施展影响力。
+Dialogue: 0,0:15:54.62,0:15:58.32,English,,0,0,0,,because as the number one oil exporter,\N{\rChinese}因为它是第一大油出口国，
+Dialogue: 0,0:15:58.48,0:16:00.44,English,,0,0,0,,it needs to control shipping lanes.\N{\rChinese}它需要掌握航运通道。
+Dialogue: 0,0:16:00.44,0:16:03.10,English,,0,0,0,,Okay? It needs to control this area\N{\rChinese}好？它需要掌握这片区域
+Dialogue: 0,0:16:03.10,0:16:07.64,English,,0,0,0,,and this area, the Strait of Hormuz and the Suez Canal.\N{\rChinese}以及这片区域，即霍尔木兹海峡和苏伊士运河。
+Dialogue: 0,0:16:07.90,0:16:12.68,English,,0,0,0,,And 40% of all the world's oil passes through these two straits\N{\rChinese}并且40%的全球石油通过这两条海峡
+Dialogue: 0,0:16:12.68,0:16:16.02,English,,0,0,0,,and they go mainly to East Asia, China,\N{\rChinese}主要运往东亚，中国
+Dialogue: 0,0:16:16.42,0:16:19.00,English,,0,0,0,,South Korea, and Japan mainly.\N{\rChinese}南韩和日本主要。
+Dialogue: 0,0:16:19.98,0:16:22.94,English,,0,0,0,,Okay? So, because\N{\rChinese}好？所以，因为
+Dialogue: 0,0:16:22.94,0:16:24.86,English,,0,0,0,,of these geopolitical tensions,\N{\rChinese}这些地缘政治紧张的结果，
+Dialogue: 0,0:16:25.40,0:16:27.64,English,,0,0,0,,Iran and\N{\rChinese}伊朗和
+Dialogue: 0,0:16:27.64,0:16:30.42,English,,0,0,0,,Saudi Arabia have fought against each other.\N{\rChinese}沙特阿拉伯两国互相交战。
+Dialogue: 0,0:16:30.42,0:16:31.80,English,,0,0,0,,They fought three proxy wars.\N{\rChinese}他们打了三场代理战。
+Dialogue: 0,0:16:32.16,0:16:33.82,English,,0,0,0,,They fought three shadow wars.\N{\rChinese}他们打了三场代理战。
+Dialogue: 0,0:16:33.98,0:16:36.20,English,,0,0,0,,The first is in Iraq.\N{\rChinese}第一场在伊拉克。
+Dialogue: 0,0:16:37.46,0:16:40.30,English,,0,0,0,,And now in Iraq, as you know, in 2003,\N{\rChinese}在2003年，正如你所知，阿美入侵伊拉克并把国家摧毁。
+Dialogue: 0,0:16:40.72,0:16:44.70,English,,0,0,0,,America invaded Iraq and destroyed the country.\N{\rChinese}现在在伊拉克，正如你所知，2003年美国入侵伊拉克并把国家摧毁。
+Dialogue: 0,0:16:45.72,0:16:48.72,English,,0,0,0,,And after they destroyed the country, there's a power vacuum.\N{\rChinese}随后他们摧毁了国家，形成了权力真空。
+Dialogue: 0,0:16:49.16,0:16:51.98,English,,0,0,0,,And so, basically, Iran came in\N{\rChinese}于是，基本上伊朗介入了。
+Dialogue: 0,0:16:51.98,0:16:54.44,English,,0,0,0,,and tried to take over the country.\N{\rChinese}并试图接管该国。
+Dialogue: 0,0:16:54.80,0:16:56.42,English,,0,0,0,,And it could do so because\N{\rChinese}于是它能做到这一点，因为
+Dialogue: 0,0:16:56.42,0:17:00.34,English,,0,0,0,,two -thirds of the population were Shiite.\N{\rChinese}三分之二的人口是什叶派。
+Dialogue: 0,0:17:00.42,0:17:05.06,English,,0,0,0,,And therefore, they had affinity with Iran.\N{\rChinese}于是他们与伊朗有亲缘。
+Dialogue: 0,0:17:05.54,0:17:08.18,English,,0,0,0,,And a third were Sunni.\N{\rChinese}第三部分是逊尼派。
+Dialogue: 0,0:17:08.64,0:17:10.70,English,,0,0,0,,So, what happened was that\N{\rChinese}于是发生的事是……
+Dialogue: 0,0:17:10.70,0:17:12.90,English,,0,0,0,,to counter the Iranian influence in Iraq,\N{\rChinese}为抵消伊朗在伊拉克的影响力，
+Dialogue: 0,0:17:13.16,0:17:16.76,English,,0,0,0,,Saudi Arabia started to finance the\N{\rChinese}沙特开始资助一半的逊尼派对抗什叶派。
+Dialogue: 0,0:17:16.76,0:17:19.84,English,,0,0,0,,one -third of the Sunnis against the Shiite.\N{\rChinese}于是，伊拉克在入侵后爆发了一场激烈的内战。
+Dialogue: 0,0:17:19.98,0:17:24.76,English,,0,0,0,,So, there was a very violent civil war fought in Iraq after the invasion.\N{\rChinese}（两行）
+Dialogue: 0,0:17:25.16,0:17:27.76,English,,0,0,0,,Okay? Many people also believe\N{\rChinese}好的？很多人也认为
+Dialogue: 0,0:17:27.76,0:17:30.40,English,,0,0,0,,that Saudi Arabia is responsible for the war.\N{\rChinese}沙特是战争的责任方
+Dialogue: 0,0:17:30.40,0:17:31.94,English,,0,0,0,,And they're responsible for the financing of the Islamic State.\N{\rChinese}他们负责为伊斯兰国融资
+Dialogue: 0,0:17:32.10,0:17:33.82,English,,0,0,0,,Okay? Or ISIS.\N{\rChinese}好的？或者ISIS。
+Dialogue: 0,0:17:35.12,0:17:38.92,English,,0,0,0,,Because ISIS really hates the Shiite religion.\N{\rChinese}因为ISIS真的很讨厌什叶派宗教。
+Dialogue: 0,0:17:40.08,0:17:43.50,English,,0,0,0,,Okay? But over time,\N{\rChinese}好的？但随着时间的推移，
+Dialogue: 0,0:17:43.58,0:17:47.38,English,,0,0,0,,because Iran has been\N{\rChinese}因为伊朗已经
+Dialogue: 0,0:17:47.38,0:17:50.30,English,,0,0,0,,so much more effective in projecting its power than Saudi Arabia,\N{\rChinese}如此更有效地投射其海权比沙特更远
+Dialogue: 0,0:17:50.72,0:17:54.54,English,,0,0,0,,basically, Iran now controls much of Iraq.\N{\rChinese}基本上，伊朗现在控制了伊拉克的大部分
+Dialogue: 0,0:17:54.72,0:17:58.32,English,,0,0,0,,Okay? So, in this first war, Iran defeated Saudi Arabia.\N{\rChinese}好的？所以，在这场第一次战争中，伊朗击败了沙特。
+Dialogue: 0,0:17:58.32,0:18:00.76,English,,0,0,0,,Then they fought another war in Syria.\N{\rChinese}随后他们又在叙利亚打了一场战争。
+Dialogue: 0,0:18:03.70,0:18:05.94,English,,0,0,0,,Syria's leader, Assad,\N{\rChinese}叙利亚的领袖，阿萨德。
+Dialogue: 0,0:18:06.50,0:18:08.10,English,,0,0,0,,faced a rebellion.\N{\rChinese}面临叙利亚内战。
+Dialogue: 0,0:18:08.56,0:18:10.38,English,,0,0,0,,And Saudi Arabia,\N{\rChinese}以及沙特。
+Dialogue: 0,0:18:10.74,0:18:15.32,English,,0,0,0,,America, Israel support the rebels against Assad.\N{\rChinese}美以支持叙利亚内战。
+Dialogue: 0,0:18:15.64,0:18:20.68,English,,0,0,0,,And Iran came in to support Assad as well as Russia.\N{\rChinese}以及伊朗也来支持阿萨德和俄罗斯。
+Dialogue: 0,0:18:20.96,0:18:24.26,English,,0,0,0,,And over time, Assad was able to crush the rebellion.\N{\rChinese}随着时间推移，阿萨德终于能压制叙利亚内战。
+Dialogue: 0,0:18:24.52,0:18:26.38,English,,0,0,0,,Okay? So, in the second proxy war,\N{\rChinese}好吧？于是，在第二场代理战争中。
+Dialogue: 0,0:18:28.84,0:18:33.48,English,,0,0,0,,Iran won as well. Now, there's another proxy war in Yemen.\N{\rChinese}伊朗也赢了。现在又有一场在也门的代理战争。
+Dialogue: 0,0:18:33.74,0:18:36.02,English,,0,0,0,,Okay? And it started in 2016.\N{\rChinese}好吧？它从2016年开始。
+Dialogue: 0,0:18:36.84,0:18:41.78,English,,0,0,0,,So, the wars in Iraq\N{\rChinese}于是，伊拉克的战争。
+Dialogue: 0,0:18:41.78,0:18:45.94,English,,0,0,0,,and Syria, they were important to Saudi Arabia.\N{\rChinese}以及叙利亚，它们对沙特阿拉伯很重要。
+Dialogue: 0,0:18:46.32,0:18:49.26,English,,0,0,0,,But they didn't really threaten Saudi Arabia.\N{\rChinese}但它们并没有真正威胁沙特阿拉伯。
+Dialogue: 0,0:18:49.68,0:18:53.46,English,,0,0,0,,But this war in Yemen did threaten Saudi Arabia.\N{\rChinese}但这场在也门的战争确实威胁沙特阿拉伯。
+Dialogue: 0,0:18:53.64,0:18:56.46,English,,0,0,0,,Okay? So, for the longest time,\N{\rChinese}好的？于是，最长时间里，沙特阿拉伯支持也门的政治领导。
+Dialogue: 0,0:18:56.46,0:19:02.08,English,,0,0,0,,Saudi Arabia supported the Yemen political leadership.\N{\rChinese}然后，胡塞人发动了叙起。
+Dialogue: 0,0:19:02.72,0:19:05.50,English,,0,0,0,,And then there was a rebellion by the Houthis.\N{\rChinese}胡塞人是住在山里的什叶派村民，试图推翻政府。
+Dialogue: 0,0:19:05.60,0:19:06.50,English,,0,0,0,,Okay? The Houthis.\N{\rChinese}好的？胡塞人。
+Dialogue: 0,0:19:08.28,0:19:13.50,English,,0,0,0,,The Houthis were Shia villagers\N{\rChinese}胡塞人是住在山里的什叶派村民。
+Dialogue: 0,0:19:13.50,0:19:16.04,English,,0,0,0,,who lived in the mountains.\N{\rChinese}他们住在山里。
+Dialogue: 0,0:19:16.66,0:19:19.40,English,,0,0,0,,And they were trying to over -throw the government.\N{\rChinese}他们正试图推翻政府。
+Dialogue: 0,0:19:20.34,0:19:23.64,English,,0,0,0,,And Saudi Arabia was afraid that\N{\rChinese}沙特阿拉伯也担心
+Dialogue: 0,0:19:23.64,0:19:26.44,English,,0,0,0,,the Houthis would become political leaders.\N{\rChinese}胡塞人会成为政治领袖。
+Dialogue: 0,0:19:26.44,0:19:31.28,English,,0,0,0,,So, Saudi Arabia lost a massive invasion of Yemen.\N{\rChinese}于是，沙特阿拉伯在也门的大战中失利。
+Dialogue: 0,0:19:31.56,0:19:35.30,English,,0,0,0,,It was 150,000 Saudi Arabian troops.\N{\rChinese}共有15万沙特阿拉伯军队。
+Dialogue: 0,0:19:35.56,0:19:37.42,English,,0,0,0,,They had war planes.\N{\rChinese}他们拥有战机。
+Dialogue: 0,0:19:37.82,0:19:42.40,English,,0,0,0,,They were backed by the most advanced American weapons\N{\rChinese}他们得到了最先进的美军武器和技术。好吗？
+Dialogue: 0,0:19:42.40,0:19:43.76,English,,0,0,0,,and technology. Okay?\N{\rChinese}他们还拥有约30个国家的联合军团，包括埃及。
+Dialogue: 0,0:19:43.90,0:19:48.40,English,,0,0,0,,They also had a coalition of about 30 nations including Egypt\N{\rChinese}They also had a coalition of about 30 nations including Egypt
+Dialogue: 0,0:19:48.40,0:19:49.32,English,,0,0,0,,and the UAE.\N{\rChinese}和阿联。
+Dialogue: 0,0:19:54.94,0:19:58.94,English,,0,0,0,,Saudi Arabia named this operation decisive storm, right?\N{\rChinese}沙特阿拉伯把这次行动称为决定性风暴，对吗？
+Dialogue: 0,0:19:59.08,0:20:00.44,English,,0,0,0,,Which sounds like that's a storm.\N{\rChinese}听起来像是风暴。
+Dialogue: 0,0:20:01.34,0:20:04.84,English,,0,0,0,,And the strategy they use is what we call shock and awe.\N{\rChinese}并且他们采用的策略就是我们所说的冲击与震撼。
+Dialogue: 0,0:20:06.24,0:20:09.06,English,,0,0,0,,And shock and awe is basically we have so\N{\rChinese}冲击与震撼基本上就是我们拥有的……
+Dialogue: 0,0:20:09.06,0:20:13.60,English,,0,0,0,,many bombs, we have so many airplanes,\N{\rChinese}我们拥有的……飞机……
+Dialogue: 0,0:20:15.92,0:20:20.62,English,,0,0,0,,we have so many soldiers that we can in about a week's time destroy you, okay?\N{\rChinese}我们拥有这么多士兵，约一周内就能把你们打垮，行吗？
+Dialogue: 0,0:20:20.82,0:20:24.96,English,,0,0,0,,So go in, go fast, be decisive, destroy your enemy.\N{\rChinese}快点进攻，果断行动，消灭敌人。
+Dialogue: 0,0:20:26.56,0:20:31.12,English,,0,0,0,,Unfortunately this for Saudi Arabia did not work\N{\rChinese}可惜这招对沙特阿拉伯没起作用。
+Dialogue: 0,0:20:31.12,0:20:35.34,English,,0,0,0,,and the reason why is first of all the Houthis were in the mountains\N{\rChinese}以及原因是，首先胡塞人位于山地
+Dialogue: 0,0:20:35.34,0:20:40.66,English,,0,0,0,,and so your bombs didn't really stop them.\N{\rChinese}于是你的炸弹并未真正击中他们
+Dialogue: 0,0:20:40.78,0:20:44.38,English,,0,0,0,,In fact all your bombs did was make them really angry\N{\rChinese}实际上你所有的炸弹只是让他们更愤怒
+Dialogue: 0,0:20:44.38,0:20:46.94,English,,0,0,0,,because if your bombs you were killing civilians\N{\rChinese}因为你的炸弹会杀死平民
+Dialogue: 0,0:20:47.86,0:20:51.64,English,,0,0,0,,So you're basically uniting the entire population against you.\N{\rChinese}于是你基本把全体民众团结在你这边
+Dialogue: 0,0:20:52.26,0:20:55.28,English,,0,0,0,,That's the first problem. Second problem is\N{\rChinese}这就是第一个问题。第二个问题是
+Dialogue: 0,0:20:55.28,0:20:59.14,English,,0,0,0,,that the Houthis are in the mountains,\N{\rChinese}胡塞人位于山地，
+Dialogue: 0,0:20:59.24,0:21:03.38,English,,0,0,0,,but Saudi Arabia has oil fields.\N{\rChinese}但沙特有油田。
+Dialogue: 0,0:21:03.74,0:21:05.44,English,,0,0,0,,And guess what, guys?\N{\rChinese}你猜怎么了，伙计们？
+Dialogue: 0,0:21:05.66,0:21:10.20,English,,0,0,0,,It's really, really easy to blow up oil fields.\N{\rChinese}真的很容易炸毁油田。
+Dialogue: 0,0:21:10.98,0:21:12.76,English,,0,0,0,,So that's what the Houthis are doing.\N{\rChinese}于是胡塞人就是这么干的。
+Dialogue: 0,0:21:12.76,0:21:16.64,English,,0,0,0,,They're sending these cheap drones, they might cost $1,000,\N{\rChinese}他们派出这些便宜的无人机，可能只值一千美元。
+Dialogue: 0,0:21:16.78,0:21:20.18,English,,0,0,0,,$10,000, and they'll blow up oil fields and ports.\N{\rChinese}$1万，随后他们会炸油田和港口。
+Dialogue: 0,0:21:22.98,0:21:24.66,English,,0,0,0,,Saudi Arabia has another problem.\N{\rChinese}沙特还有一个问题。
+Dialogue: 0,0:21:25.64,0:21:28.52,English,,0,0,0,,Saudi Arabia has no fresh water.\N{\rChinese}沙特没有淡水。
+Dialogue: 0,0:21:28.82,0:21:30.08,English,,0,0,0,,It's in the desert.\N{\rChinese}它在沙漠里。
+Dialogue: 0,0:21:30.20,0:21:32.22,English,,0,0,0,,It is a desert. No water, guys.\N{\rChinese}它是沙漠。没有水，大家。
+Dialogue: 0,0:21:32.36,0:21:34.24,English,,0,0,0,,No rivers. So\N{\rChinese}没有河流。
+Dialogue: 0,0:21:34.24,0:21:38.52,English,,0,0,0,,it relies entirely on desalination plants.\N{\rChinese}它完全依赖于海水淡化厂。
+Dialogue: 0,0:21:42.76,0:21:44.66,English,,0,0,0,,And this is extremely impressive technology.\N{\rChinese}这是一项极其令人印象的技术。
+Dialogue: 0,0:21:44.96,0:21:47.96,English,,0,0,0,,It takes salt water, sea water, and turns it into fresh water.\N{\rChinese}它把盐水、海水变成淡水。
+Dialogue: 0,0:21:48.20,0:21:51.66,English,,0,0,0,,It's very impressive. But it's on the coast.\N{\rChinese}非常令人印象。但它在海岸上。
+Dialogue: 0,0:21:52.74,0:21:54.10,English,,0,0,0,,And guess what, guys?\N{\rChinese}你们猜怎么了？
+Dialogue: 0,0:21:54.16,0:21:56.42,English,,0,0,0,,The coast. So\N{\rChinese}海岸。
+Dialogue: 0,0:21:56.42,0:21:59.84,English,,0,0,0,,Iran can blow up these plants, and the Houthis can blow up these plants as well.\N{\rChinese}伊朗能炸毁这些工厂，胡塞也能炸毁这些工厂。
+Dialogue: 0,0:22:02.56,0:22:05.80,English,,0,0,0,,So Saudi Arabia basically lost this war\N{\rChinese}所以沙特阿拉伯基本上输了这场战争。
+Dialogue: 0,0:22:05.80,0:22:07.40,English,,0,0,0,,because\N{\rChinese}因为
+Dialogue: 0,0:22:07.40,0:22:11.62,English,,0,0,0,,the Houthis could inflict massive economic damage on Saudi Arabia.\N{\rChinese}胡塞人可以给沙特阿拉伯造成巨大的经济损失。
+Dialogue: 0,0:22:12.26,0:22:17.06,English,,0,0,0,,Okay? So from this war, Saudi Arabia learned three things.\N{\rChinese}好的？所以从这场战争里，沙特阿拉伯学到了三件事。
+Dialogue: 0,0:22:17.24,0:22:20.12,English,,0,0,0,,Okay? The first thing it learned is that\N{\rChinese}好的？第一件事是它学会了……
+Dialogue: 0,0:22:20.12,0:22:22.72,English,,0,0,0,,if it wants to defeat their enemies,\N{\rChinese}如果想打败他们的敌人，胡塞、叙利亚人和伊拉克人，他们也需要能打败伊朗。
+Dialogue: 0,0:22:22.94,0:22:26.08,English,,0,0,0,,the Houthis, the Syrians, and the Iraqis,\N{\rChinese}如果想打败他们的敌人，胡塞、叙利亚人和伊拉克人，他们也需要能打败伊朗。
+Dialogue: 0,0:22:26.22,0:22:29.04,English,,0,0,0,,they also need to be able to defeat Iran.\N{\rChinese}如果想打败他们的敌人，胡塞、叙利亚人和伊拉克人，他们也需要能打败伊朗。
+Dialogue: 0,0:22:29.72,0:22:31.54,English,,0,0,0,,Okay? That's the first thing they learned.\N{\rChinese}好的？那是他们学到的第一件事。
+Dialogue: 0,0:22:31.98,0:22:34.20,English,,0,0,0,,The second thing they learned is that\N{\rChinese}第二件事是他们学到的……
+Dialogue: 0,0:22:34.20,0:22:39.70,English,,0,0,0,,their economy is extremely vulnerable to attack.\N{\rChinese}他们的经济极易受到攻击。
+Dialogue: 0,0:22:40.86,0:22:42.36,English,,0,0,0,,At any point...\N{\rChinese}在任何时刻…
+Dialogue: 0,0:22:42.36,0:22:44.86,English,,0,0,0,,Iran, with its missiles and drones,\N{\rChinese}伊朗，凭借其导弹与无人机，
+Dialogue: 0,0:22:45.02,0:22:48.34,English,,0,0,0,,could destroy the entire Saudi Arabian economy.\N{\rChinese}可摧毁整个沙特阿拉伯经济。
+Dialogue: 0,0:22:48.62,0:22:52.86,English,,0,0,0,,Okay? It can easily blow up all the oil fields and the desalination plants.\N{\rChinese}好的？它可以轻易炸毁所有油田和海水淡化厂。
+Dialogue: 0,0:22:54.40,0:22:58.62,English,,0,0,0,,So the third thing that Saudi Arabia learned from all this is...\N{\rChinese}于是，沙特阿拉伯从这一切事中学到的第三点是……
+Dialogue: 0,0:22:59.36,0:23:04.48,English,,0,0,0,,We really need America to fight Iran for us.\N{\rChinese}我们确实需要美国来替我们与伊朗作战。
+Dialogue: 0,0:23:04.64,0:23:06.04,English,,0,0,0,,In the long term,\N{\rChinese}在长期内，
+Dialogue: 0,0:23:06.44,0:23:10.76,English,,0,0,0,,that's the only way we're going to survive as a nation.\N{\rChinese}那是我们作为民族国家生存的唯一方式。
+Dialogue: 0,0:23:12.36,0:23:14.10,English,,0,0,0,,Okay? We need to defeat Iran.\N{\rChinese}好吧？我们需要击败伊朗。
+Dialogue: 0,0:23:14.38,0:23:15.66,English,,0,0,0,,And we can't do it by ourselves.\N{\rChinese}我们自己做不到。
+Dialogue: 0,0:23:15.92,0:23:17.86,English,,0,0,0,,We need America to do it for us.\N{\rChinese}我们需要美国来替我们做。
+Dialogue: 0,0:23:17.98,0:23:22.56,English,,0,0,0,,Okay? Unfortunately for Saudi Arabia,\N{\rChinese}好吧？对沙特阿拉伯来说不幸的是。
+Dialogue: 0,0:23:22.86,0:23:24.42,English,,0,0,0,,in 2001,\N{\rChinese}在2001年，
+Dialogue: 0,0:23:25.04,0:23:27.34,English,,0,0,0,,9 -11 happened.\N{\rChinese}9-11发生了。
+Dialogue: 0,0:23:27.50,0:23:31.20,English,,0,0,0,,Right? Fifteen of the nineteen\N{\rChinese}对吗？19个中有15个。
+Dialogue: 0,0:23:31.20,0:23:36.92,English,,0,0,0,,hijackers were citizens of Saudi Arabia.\N{\rChinese}劫机者是沙特阿拉伯公民。
+Dialogue: 0,0:23:37.82,0:23:42.34,English,,0,0,0,,Which meant that America was very unhappy with Saudi Arabia.\N{\rChinese}这意味着美国对沙特阿拉伯非常不满意。
+Dialogue: 0,0:23:42.34,0:23:45.68,English,,0,0,0,,Okay? Americans didn't like Saudi Arabia.\N{\rChinese}好吧？美国人不喜欢沙特阿拉伯。
+Dialogue: 0,0:23:46.38,0:23:50.64,English,,0,0,0,,Americans also knew that there were a lot of human rights abuses in Saudi Arabia.\N{\rChinese}美国人也知道沙特阿拉伯有很多人权侵害。
+Dialogue: 0,0:23:51.12,0:23:53.44,English,,0,0,0,,The other thing that happened is in 2003,\N{\rChinese}另外一件事是2003年，
+Dialogue: 0,0:23:53.92,0:23:56.62,English,,0,0,0,,America invaded Iraq.\N{\rChinese}美国入侵伊拉克。
+Dialogue: 0,0:23:57.08,0:24:02.12,English,,0,0,0,,Saudi Arabia tried to exert as much influence as possible in Washington,\N{\rChinese}沙特阿拉伯试图在华盛城发挥尽可能大的影响力，
+Dialogue: 0,0:24:02.12,0:24:04.08,English,,0,0,0,,D.C. to stop the war.\N{\rChinese}D.C. 以停战为目标。
+Dialogue: 0,0:24:04.58,0:24:06.82,English,,0,0,0,,Because they knew that\N{\rChinese}因为他们知道
+Dialogue: 0,0:24:06.82,0:24:11.50,English,,0,0,0,,if America invaded Iraq, it would make Iran more powerful.\N{\rChinese}如果美国入侵伊拉克，伊朗会更强大。
+Dialogue: 0,0:24:11.50,0:24:16.20,English,,0,0,0,,Now as you know, Saudi Arabia could not stop the war.\N{\rChinese}正如你所知，沙特阿拉伯无法阻止战争。
+Dialogue: 0,0:24:16.84,0:24:18.56,English,,0,0,0,,Okay? In 2008,\N{\rChinese}好？2008年，
+Dialogue: 0,0:24:19.12,0:24:20.70,English,,0,0,0,,Obama,\N{\rChinese}奥巴马，
+Dialogue: 0,0:24:21.16,0:24:22.70,English,,0,0,0,,Barack Obama, came into office.\N{\rChinese}巴拉克·奥巴马上任时，
+Dialogue: 0,0:24:23.96,0:24:27.06,English,,0,0,0,,And Barack Obama's understanding of the world was\N{\rChinese}巴拉克·奥巴马对世界的理解是
+Dialogue: 0,0:24:27.06,0:24:32.18,English,,0,0,0,,that, okay, the Middle East is a complete mess.\N{\rChinese}那，好的，中东一团糟。
+Dialogue: 0,0:24:33.46,0:24:38.36,English,,0,0,0,,And it's hopeless. I don't really want to deal with the Middle East.\N{\rChinese}而且它已经没救了，我也不想再去管中东。
+Dialogue: 0,0:24:38.66,0:24:41.46,English,,0,0,0,,Plus, China is rising.\N{\rChinese}再说，中国正在崛起。
+Dialogue: 0,0:24:43.60,0:24:48.32,English,,0,0,0,,The main threat to American power in the future will be East Asia.\N{\rChinese}未来美军的主要威胁将来自东亚。
+Dialogue: 0,0:24:49.18,0:24:52.52,English,,0,0,0,,So he proposed something called the Asia Pivot, which\N{\rChinese}于是他提出了一个叫做“亚洲枢纽”的计划，且
+Dialogue: 0,0:24:52.52,0:24:55.58,English,,0,0,0,,is to transfer American military resources\N{\rChinese}它是把美军资源转移到东亚。
+Dialogue: 0,0:24:55.58,0:25:01.02,English,,0,0,0,,from the Middle East to East Asia to counter the threat of China.\N{\rChinese}从中东到东亚，以对抗中国的威胁。
+Dialogue: 0,0:25:01.96,0:25:03.28,English,,0,0,0,,But to do that,\N{\rChinese}但要做到这一点，
+Dialogue: 0,0:25:03.32,0:25:07.10,English,,0,0,0,,you needed to reduce tensions in the Middle East.\N{\rChinese}你需要在中东降低紧张。
+Dialogue: 0,0:25:07.28,0:25:11.48,English,,0,0,0,,And so in 2015, he made a deal.\N{\rChinese}于是在2015年，他达成了一笔交易。
+Dialogue: 0,0:25:11.50,0:25:13.82,English,,0,0,0,,He made a deal with Iran called the Iran Nuclear Deal.\N{\rChinese}他与伊朗签订了伊朗核协议。
+Dialogue: 0,0:25:13.96,0:25:18.50,English,,0,0,0,,And the deal was basically, Obama said to Iran,\N{\rChinese}并且这笔交易基本上是，奥巴马对伊朗说，
+Dialogue: 0,0:25:18.74,0:25:21.68,English,,0,0,0,,listen, I know you're trying to develop nuclear weapons.\N{\rChinese}听着，我知道你们正在尝试研制核武器。
+Dialogue: 0,0:25:22.48,0:25:24.72,English,,0,0,0,,Okay? So what we're going to do is,\N{\rChinese}好的？所以我们接下来要做的是，
+Dialogue: 0,0:25:24.96,0:25:29.14,English,,0,0,0,,if you promise to not develop nuclear weapons,\N{\rChinese}如果你承诺不研制核武器，
+Dialogue: 0,0:25:29.74,0:25:33.42,English,,0,0,0,,we will live economic sanctions on you\N{\rChinese}我们将对你实施经济制裁。
+Dialogue: 0,0:25:33.42,0:25:34.64,English,,0,0,0,,so that you can prosper.\N{\rChinese}以便你繁荣。
+Dialogue: 0,0:25:35.06,0:25:36.80,English,,0,0,0,,And Iran said yes.\N{\rChinese}并且伊朗回答是。
+Dialogue: 0,0:25:36.98,0:25:41.48,English,,0,0,0,,Okay? And this really scared Saudi Arabia.\N{\rChinese}好？这让沙特尔很惊。”
+Dialogue: 0,0:25:41.50,0:25:45.60,English,,0,0,0,,Because if America leaves the Middle East\N{\rChinese}因为如果美国离开中东并与伊朗达成和平，
+Dialogue: 0,0:25:45.60,0:25:47.72,English,,0,0,0,,and brokers a peace with Iran,\N{\rChinese}沙特尔将会非常脆弱。
+Dialogue: 0,0:25:48.18,0:25:52.24,English,,0,0,0,,then Saudi Arabia would be extremely vulnerable.\N{\rChinese}然后沙特尔将极度脆弱。
+Dialogue: 0,0:25:52.64,0:25:55.36,English,,0,0,0,,Okay? So\N{\rChinese}好？于是……
+Dialogue: 0,0:25:55.36,0:25:58.96,English,,0,0,0,,Saudi Arabia became very, very desperate.\N{\rChinese}沙特尔变得非常非常绝望。
+Dialogue: 0,0:25:59.56,0:26:03.24,English,,0,0,0,,Its very existence was threatened.\N{\rChinese}它的存在本身就受威胁。
+Dialogue: 0,0:26:04.34,0:26:08.56,English,,0,0,0,,Also, the economic outlook for Saudi Arabia was not\N{\rChinese}此外，沙特尔的经济前景也不算太好。
+Dialogue: 0,0:26:08.56,0:26:09.90,English,,0,0,0,,that great.\N{\rChinese}that great.
+Dialogue: 0,0:26:10.10,0:26:11.48,English,,0,0,0,,Remember, the entire economy was under threat.\N{\rChinese}记住，整个经济都在威胁之中。
+Dialogue: 0,0:26:11.48,0:26:14.72,English,,0,0,0,,The entire economy depended on oil. But guess what, guys?\N{\rChinese}整个经济依赖石油。但你们猜猜，兄弟们？
+Dialogue: 0,0:26:15.02,0:26:16.90,English,,0,0,0,,Oil is a finite resource.\N{\rChinese}石油是有限资源。
+Dialogue: 0,0:26:18.72,0:26:20.14,English,,0,0,0,,Eventually, you're going to run out of oil.\N{\rChinese}最终，你会耗尽石油。
+Dialogue: 0,0:26:20.90,0:26:24.74,English,,0,0,0,,Okay? Now, if you're optimistic,\N{\rChinese}好了？现在，如果你乐观，
+Dialogue: 0,0:26:25.04,0:26:29.46,English,,0,0,0,,you'll be like, well, Saudi Arabia would run out of oil in about seven years' time or eight years' time.\N{\rChinese}你会说，嗯，沙特尔大约七年后或八年后就会耗尽石油。
+Dialogue: 0,0:26:29.56,0:26:31.42,English,,0,0,0,,Okay? But there are also some people who believe that\N{\rChinese}好的？但也有人认为
+Dialogue: 0,0:26:31.42,0:26:35.10,English,,0,0,0,,Saudi Arabia will run out of oil in about ten years' time.\N{\rChinese}沙特尔大约十年后会耗尽石油。
+Dialogue: 0,0:26:36.42,0:26:40.90,English,,0,0,0,,And if Saudi Arabia has no oil, then its entire economy collapses.\N{\rChinese}如果沙特尔大没有石油，整个经济就会崩溃。
+Dialogue: 0,0:26:41.96,0:26:43.58,English,,0,0,0,,Okay? Then\N{\rChinese}好的？然后
+Dialogue: 0,0:26:43.58,0:26:47.22,English,,0,0,0,,you also have a problem with global warming, right?\N{\rChinese}你也有全球变暖的问题，对吧？
+Dialogue: 0,0:26:47.88,0:26:48.84,English,,0,0,0,,Climate change.\N{\rChinese}气候变化。
+Dialogue: 0,0:26:49.80,0:26:54.14,English,,0,0,0,,You also have a problem with the entire global economy is slowing down.\N{\rChinese}你也有一个问题，整个全球经济正在放缓。
+Dialogue: 0,0:26:54.50,0:26:58.50,English,,0,0,0,,Therefore, the demand for oil is decreasing.\N{\rChinese}因此，石油需求在下降。
+Dialogue: 0,0:26:59.40,0:27:03.32,English,,0,0,0,,So the economic outlook for Saudi Arabia, it's extremely grim.\N{\rChinese}所以，沙特尔大经济前景非常黯淡。
+Dialogue: 0,0:27:04.12,0:27:06.14,English,,0,0,0,,Okay? And that's why...\N{\rChinese}好吧？这就是原因……
+Dialogue: 0,0:27:09.16,0:27:10.40,English,,0,0,0,,In 2017,\N{\rChinese}2017年，
+Dialogue: 0,0:27:11.96,0:27:14.26,English,,0,0,0,,Saudi Arabia appointed a new\N{\rChinese}沙特尔阿拉伯国任命新
+Dialogue: 0,0:27:14.26,0:27:18.22,English,,0,0,0,,leader called Mohammed bin Salman, okay?\N{\rChinese}领袖叫做穆罕默德·本·萨尔曼，好吗？
+Dialogue: 0,0:27:18.30,0:27:20.52,English,,0,0,0,,The Crown Prince. Whoever calls MBS.\N{\rChinese}王储。谁叫MBS。
+Dialogue: 0,0:27:21.72,0:27:26.04,English,,0,0,0,,And MBS promised to be a new leader.\N{\rChinese}MBS承诺成为新领袖。
+Dialogue: 0,0:27:26.26,0:27:27.68,English,,0,0,0,,He was young.\N{\rChinese}他很年轻。
+Dialogue: 0,0:27:28.02,0:27:30.06,English,,0,0,0,,He was progressive.\N{\rChinese}他很有进取心。
+Dialogue: 0,0:27:30.64,0:27:32.86,English,,0,0,0,,He wanted women to drive.\N{\rChinese}他想让女性开车。
+Dialogue: 0,0:27:33.16,0:27:36.54,English,,0,0,0,,He wanted young people to go to the movie theater.\N{\rChinese}他想让年轻人去看电影。
+Dialogue: 0,0:27:36.72,0:27:40.38,English,,0,0,0,,Okay? And he proposed a new vision for Saudi Arabia.\N{\rChinese}好吧？他还提出了一个新的愿景。
+Dialogue: 0,0:27:40.38,0:27:45.30,English,,0,0,0,,Called Vision 2030.\N{\rChinese}称为“愿景2030”。
+Dialogue: 0,0:27:46.26,0:27:51.62,English,,0,0,0,,Okay? But MBS' most important achievement is\N{\rChinese}好的？但MBS最重要的成就是他与新总统唐纳德·特朗普成了朋友。
+Dialogue: 0,0:27:51.62,0:27:56.08,English,,0,0,0,,that he became friends with the new president, Donald Trump.\N{\rChinese}好的？于是2016年，...
+Dialogue: 0,0:27:56.30,0:27:57.68,English,,0,0,0,,Okay? So in 2016,\N{\rChinese}Okay? So in 2016,
+Dialogue: 0,0:27:58.02,0:28:03.52,English,,0,0,0,,Donald Trump became President of the United States.\N{\rChinese}唐纳德·特朗普当选为美国总统。
+Dialogue: 0,0:28:04.20,0:28:05.74,English,,0,0,0,,And MBS decided that\N{\rChinese}并且MBS决定这是一场机会，让沙特阿拉伯成为领袖。
+Dialogue: 0,0:28:05.74,0:28:10.36,English,,0,0,0,,this is an opportunity for Saudi Arabia to become a leader.\N{\rChinese}这是一场机会，让沙特阿拉伯成为领袖。
+Dialogue: 0,0:28:10.36,0:28:14.92,English,,0,0,0,,To reset relations with America.\N{\rChinese}重建与美国的关系。
+Dialogue: 0,0:28:16.18,0:28:20.02,English,,0,0,0,,Okay? So, Trump,\N{\rChinese}好吧？于是，特朗普，
+Dialogue: 0,0:28:20.20,0:28:25.06,English,,0,0,0,,his first trip outside\N{\rChinese}他的第一次出国行程是去沙特阿拉伯。
+Dialogue: 0,0:28:25.06,0:28:26.86,English,,0,0,0,,the United States was to Saudi Arabia.\N{\rChinese}the United Stateswas to Saudi Arabia.
+Dialogue: 0,0:28:27.06,0:28:28.30,English,,0,0,0,,That was the first achievement.\N{\rChinese}那是第一个成就。
+Dialogue: 0,0:28:29.40,0:28:31.78,English,,0,0,0,,Second achievement is that\N{\rChinese}第二个成就就是。
+Dialogue: 0,0:28:31.78,0:28:36.06,English,,0,0,0,,MBS became best friends with Trump's son -in -law,\N{\rChinese}MBS与特朗普的女婿成了最佳朋友。
+Dialogue: 0,0:28:36.30,0:28:38.74,English,,0,0,0,,Jared Kushner. Okay?\N{\rChinese}贾德·库什纳。好吧？
+Dialogue: 0,0:28:41.66,0:28:46.70,English,,0,0,0,,And Jared Kushner was Trump's Middle East advisor.\N{\rChinese}而贾德·库什纳是特朗普的中东顾问。
+Dialogue: 0,0:28:47.14,0:28:50.32,English,,0,0,0,,And his job was to bring peace to the Middle East.\N{\rChinese}他的工作就是为中东带来和平。
+Dialogue: 0,0:28:50.50,0:28:54.76,English,,0,0,0,,Mainly between Israel and the Arab countries.\N{\rChinese}主要是以色列与阿拉伯国家之间。
+Dialogue: 0,0:28:55.32,0:28:58.38,English,,0,0,0,,And to that extent, Kushner did a great job.\N{\rChinese}并且在这方面，库什纳干得很不错。
+Dialogue: 0,0:28:58.64,0:29:00.16,English,,0,0,0,,Because MBS helped him.\N{\rChinese}因为MBS帮了他。
+Dialogue: 0,0:29:00.58,0:29:04.68,English,,0,0,0,,So, his major achievement is something called the Abraham Accords.\N{\rChinese}所以，他的主要成就是所谓的《亚伯拉罕协定》
+Dialogue: 0,0:29:05.02,0:29:08.72,English,,0,0,0,,The Abraham Accords is just to establish peace between the Arab countries.\N{\rChinese}《亚伯拉罕协定》只是为了在阿拉伯国家之间建立和平。
+Dialogue: 0,0:29:08.72,0:29:11.54,English,,0,0,0,,Between Israel and the Arab countries.\N{\rChinese}在以色列与阿拉伯国家之间。
+Dialogue: 0,0:29:11.60,0:29:14.46,English,,0,0,0,,So that they can unite against Iran together.\N{\rChinese}于是他们可以联合对抗伊朗。
+Dialogue: 0,0:29:17.62,0:29:20.44,English,,0,0,0,,So, MBS was looking very good.\N{\rChinese}于是MBS看起来非常不错。
+Dialogue: 0,0:29:20.74,0:29:22.06,English,,0,0,0,,But then in 2018,\N{\rChinese}但随后在2018年，
+Dialogue: 0,0:29:22.64,0:29:25.78,English,,0,0,0,,he did something\N{\rChinese}他做了件事
+Dialogue: 0,0:29:25.78,0:29:28.96,English,,0,0,0,,that scared the world.\N{\rChinese}那让世界惊恐。
+Dialogue: 0,0:29:29.66,0:29:32.70,English,,0,0,0,,Okay? MBS was a visionary.\N{\rChinese}好的？MBS是个有远见的人。
+Dialogue: 0,0:29:33.02,0:29:35.76,English,,0,0,0,,He had a plan for where to take Saudi Arabia.\N{\rChinese}他有个把沙特阿拉伯带向何方的计划。
+Dialogue: 0,0:29:35.98,0:29:37.74,English,,0,0,0,,He wanted to modernize Saudi Arabia.\N{\rChinese}他想让沙特阿拉伯现代化。
+Dialogue: 0,0:29:37.74,0:29:39.40,English,,0,0,0,,But he was also young.\N{\rChinese}但他也很年轻。
+Dialogue: 0,0:29:39.64,0:29:42.62,English,,0,0,0,,He was a tyrant. He did not like people\N{\rChinese}他是个暴君。他不喜欢人。
+Dialogue: 0,0:29:42.62,0:29:46.10,English,,0,0,0,,who criticized him.\N{\rChinese}他曾批评他。
+Dialogue: 0,0:29:46.26,0:29:49.92,English,,0,0,0,,Okay? So, there's a journalist named Jamal Khashoggi.\N{\rChinese}好的？所以，有一位记者叫贾马尔·卡什戈吉。
+Dialogue: 0,0:29:51.00,0:29:52.62,English,,0,0,0,,Who worked for the Washington Post.\N{\rChinese}他曾在《华盛邮报》工作。
+Dialogue: 0,0:29:52.94,0:29:55.02,English,,0,0,0,,And who was a permanent resident of the United States.\N{\rChinese}并且他是美国的永久居民。
+Dialogue: 0,0:29:55.20,0:29:59.60,English,,0,0,0,,He was a Saudi national. And\N{\rChinese}他是沙特国人。并且
+Dialogue: 0,0:29:59.60,0:30:03.42,English,,0,0,0,,MBS had him killed. And this caused an international uproar.\N{\rChinese}MBS下令其被杀。并且这引发国际轰动。
+Dialogue: 0,0:30:03.58,0:30:06.36,English,,0,0,0,,Okay? The CIA, the US government, conducted an investigation.\N{\rChinese}好的？美国中央情报局和政府开展调查。
+Dialogue: 0,0:30:06.36,0:30:10.80,English,,0,0,0,,And they determined that it was MBS who ordered the assassination.\N{\rChinese}他们确定是MBS下令的刺杀。
+Dialogue: 0,0:30:12.06,0:30:14.10,English,,0,0,0,,Trump protected MBS.\N{\rChinese}特朗普为MBS提供保护。
+Dialogue: 0,0:30:15.08,0:30:17.46,English,,0,0,0,,Okay? And then,\N{\rChinese}好吧？然后，
+Dialogue: 0,0:30:17.52,0:30:20.86,English,,0,0,0,,the most important thing that Trump did was,\N{\rChinese}最重要的事是特朗普做的，
+Dialogue: 0,0:30:21.18,0:30:25.22,English,,0,0,0,,In January 2020,\N{\rChinese}2020年1月，
+Dialogue: 0,0:30:27.04,0:30:32.16,English,,0,0,0,,Trump ordered the assassination of a man named Qasem Soleimani.\N{\rChinese}特朗普下令杀害一名叫卡塞姆·苏莱米尼的人。
+Dialogue: 0,0:30:37.40,0:30:42.12,English,,0,0,0,,Who is considered to be the second most powerful man in Iran.\N{\rChinese}他被认为是伊朗第二位最有权势的人。
+Dialogue: 0,0:30:42.42,0:30:44.62,English,,0,0,0,,After the Ayatollah.\N{\rChinese}在阿亚图拉之后。
+Dialogue: 0,0:30:44.70,0:30:46.80,English,,0,0,0,,Okay? The supreme religious leader of the country.\N{\rChinese}好吧？该国的最高宗教领袖。
+Dialogue: 0,0:30:47.08,0:30:49.52,English,,0,0,0,,It is Qasem Soleimani who\N{\rChinese}是卡塞姆·苏莱米尼
+Dialogue: 0,0:30:49.52,0:30:54.46,English,,0,0,0,,is responsible for Iran's policies\N{\rChinese}负责伊朗在伊拉克战争、叙利亚战争和也门战争的政策
+Dialogue: 0,0:30:54.46,0:30:58.56,English,,0,0,0,,in the Iraq war, the Syria war, and in the Yemen war.\N{\rChinese}在伊拉克战争、叙利亚战争和也门战争中负责伊朗的政策
+Dialogue: 0,0:30:58.70,0:31:01.74,English,,0,0,0,,Okay? So, from the perspective of Saudi Arabia,\N{\rChinese}好的？从沙特阿拉伯的角度来看，
+Dialogue: 0,0:31:02.02,0:31:05.64,English,,0,0,0,,Qasem Soleimani is public enemy number one.\N{\rChinese}卡塞姆·苏莱米尼是第一公敌。
+Dialogue: 0,0:31:05.64,0:31:09.60,English,,0,0,0,,He is the greatest threat to Saudi Arabia.\N{\rChinese}他是沙特阿拉伯最大的威胁。
+Dialogue: 0,0:31:11.28,0:31:12.80,English,,0,0,0,,Now, before,\N{\rChinese}现在，先说一下，
+Dialogue: 0,0:31:13.20,0:31:18.60,English,,0,0,0,,okay, America had many opportunities to assassinate Qasem Soleimani.\N{\rChinese}好的，美国曾有多次机会刺杀卡塞姆·苏莱米尼。
+Dialogue: 0,0:31:19.52,0:31:21.96,English,,0,0,0,,George W. Bush had the opportunity.\N{\rChinese}乔治·W·布什也曾有机会。
+Dialogue: 0,0:31:22.30,0:31:23.66,English,,0,0,0,,Barack Obama had the opportunity.\N{\rChinese}巴拉克·奥巴马也有机会。
+Dialogue: 0,0:31:23.92,0:31:26.78,English,,0,0,0,,And both, both believed\N{\rChinese}两者都认为
+Dialogue: 0,0:31:26.78,0:31:28.06,English,,0,0,0,,that doing so\N{\rChinese}这样做是必要的。
+Dialogue: 0,0:31:28.06,0:31:32.26,English,,0,0,0,,would cause basically World War III.\N{\rChinese}会导致世界大战三。
+Dialogue: 0,0:31:32.36,0:31:35.62,English,,0,0,0,,Okay? Because if you kill Qasem Soleimani,\N{\rChinese}好？因为你杀了卡塞姆·苏莱米尼，
+Dialogue: 0,0:31:35.64,0:31:39.82,English,,0,0,0,,the number two leader of Iran, Iran would have no choice\N{\rChinese}伊朗第二号领袖伊朗将无计可施。
+Dialogue: 0,0:31:39.82,0:31:41.04,English,,0,0,0,,but to go to war with you.\N{\rChinese}但要去和你开战。
+Dialogue: 0,0:31:41.12,0:31:46.42,English,,0,0,0,,And that's why they both refrained from killing Qasem Soleimani.\N{\rChinese}这就是他们两者都不杀卡塞姆·苏莱米尼的原因。
+Dialogue: 0,0:31:48.20,0:31:49.60,English,,0,0,0,,In fact, when\N{\rChinese}事实上，当
+Dialogue: 0,0:31:49.60,0:31:53.98,English,,0,0,0,,Trump made the decision to assassinate Soleimani,\N{\rChinese}特朗普决定暗杀苏莱米尼，军方震惊一片。
+Dialogue: 0,0:31:54.18,0:31:57.38,English,,0,0,0,,the entire military was stunned.\N{\rChinese}军方全员惊呆了。
+Dialogue: 0,0:31:57.70,0:31:59.62,English,,0,0,0,,Okay? They couldn't believe this was happening.\N{\rChinese}他们都不敢相信这件事发生了。
+Dialogue: 0,0:32:00.38,0:32:01.94,English,,0,0,0,,So, how does this happen?\N{\rChinese}那么，这一切是怎么发生的？
+Dialogue: 0,0:32:02.04,0:32:06.06,English,,0,0,0,,Okay. So, for some time, there was some conflict between U.S.\N{\rChinese}好的。所以，曾经一段时间，美国士兵与伊拉克的什叶派民兵之间出现冲突。
+Dialogue: 0,0:32:06.28,0:32:09.86,English,,0,0,0,,soldiers and Shia militiamen in Iraq.\N{\rChinese}soldiers and Shiamilitiamen in Iraq.
+Dialogue: 0,0:32:10.22,0:32:12.14,English,,0,0,0,,And the Pentagon thought it had to act.\N{\rChinese}并且五角部认为必须行动。
+Dialogue: 0,0:32:12.34,0:32:14.96,English,,0,0,0,,Okay? So, in these situations,\N{\rChinese}好吧？在这些情况下，
+Dialogue: 0,0:32:15.36,0:32:19.72,English,,0,0,0,,they had to go to the president and present options to the president of how best to respond.\N{\rChinese}他们必须向总统提交方案，说明最佳应对方式。
+Dialogue: 0,0:32:20.42,0:32:26.12,English,,0,0,0,,And usually, the Pentagon will design the choices\N{\rChinese}并且，五角部通常会设计这些选择
+Dialogue: 0,0:32:27.06,0:32:30.48,English,,0,0,0,,so that the president does what the Pentagon thinks is best.\N{\rChinese}以便总统能按五角部认为最佳的方式行动
+Dialogue: 0,0:32:30.70,0:32:33.58,English,,0,0,0,,Okay? So, an example is that\N{\rChinese}好吧？举个例子是这样
+Dialogue: 0,0:32:35.28,0:32:38.86,English,,0,0,0,,if I'm in the military and I go to Trump, I give you three choices.\N{\rChinese}如果我在军队里去找特朗普，我会给你三个选择。
+Dialogue: 0,0:32:39.00,0:32:40.76,English,,0,0,0,,Okay? The first choice is A.\N{\rChinese}好吧？第一个选择是A。
+Dialogue: 0,0:32:41.14,0:32:43.02,English,,0,0,0,,One, let's do nothing. Okay?\N{\rChinese}一，先不做事。
+Dialogue: 0,0:32:45.78,0:32:48.84,English,,0,0,0,,Two is what you should do.\N{\rChinese}二是你应该做的事。
+Dialogue: 0,0:32:51.54,0:32:55.32,English,,0,0,0,,And three is let's blow up the world.\N{\rChinese}三是让世界炸开。
+Dialogue: 0,0:32:57.98,0:33:01.30,English,,0,0,0,,Okay? So, when I present these three options to you,\N{\rChinese}好了，当我把这三种方案呈现给你时。
+Dialogue: 0,0:33:01.42,0:33:04.58,English,,0,0,0,,you as a president, being wise and\N{\rChinese}你作为总统，聪明地
+Dialogue: 0,0:33:04.58,0:33:09.42,English,,0,0,0,,strategic, will obviously always pick option two.\N{\rChinese}战略上，显然会一直选择第二个方案。
+Dialogue: 0,0:33:09.58,0:33:11.54,English,,0,0,0,,Right? What you should do.\N{\rChinese}对吧？你应该做的事。
+Dialogue: 0,0:33:11.62,0:33:13.28,English,,0,0,0,,What the military suggests you should do.\N{\rChinese}军方建议你应该做的事。
+Dialogue: 0,0:33:13.34,0:33:17.74,English,,0,0,0,,Okay? Unfortunately, in this instance,\N{\rChinese}好了？不幸的是，在这一次，
+Dialogue: 0,0:33:18.62,0:33:21.20,English,,0,0,0,,Trump chose option three.\N{\rChinese}特朗普选择了第三个方案。
+Dialogue: 0,0:33:21.56,0:33:23.00,English,,0,0,0,,Let's blow up the world, guys.\N{\rChinese}我们来炸世界吧，伙计们。
+Dialogue: 0,0:33:23.18,0:33:25.88,English,,0,0,0,,And so, they assassinated Qasem Soleimani.\N{\rChinese}于是他们暗杀了卡塞姆·苏莱曼尼。
+Dialogue: 0,0:33:26.10,0:33:28.92,English,,0,0,0,,Okay? So,\N{\rChinese}好了？所以，
+Dialogue: 0,0:33:28.92,0:33:32.42,English,,0,0,0,,in other words, it is very likely\N{\rChinese}换句话说，很可能
+Dialogue: 0,0:33:32.42,0:33:36.06,English,,0,0,0,,that if Trump stayed a second term,\N{\rChinese}如果特朗普连任期都能连任，
+Dialogue: 0,0:33:37.26,0:33:40.80,English,,0,0,0,,the United States would have gone to war with Iran,\N{\rChinese}美国会与伊朗开战
+Dialogue: 0,0:33:41.14,0:33:45.94,English,,0,0,0,,given how things were progressing.\N{\rChinese}鉴于事态进展
+Dialogue: 0,0:33:47.00,0:33:51.26,English,,0,0,0,,Okay? MBS was\N{\rChinese}好了？MBS很高兴
+Dialogue: 0,0:33:51.26,0:33:54.24,English,,0,0,0,,so happy about all this that\N{\rChinese}关于这一切
+Dialogue: 0,0:33:54.24,0:33:58.88,English,,0,0,0,,he once bragged privately to a friend that, oh, Jared Kushner,\N{\rChinese}他曾私下对朋友夸耀，哦，贾德·库什纳，
+Dialogue: 0,0:33:59.64,0:34:02.88,English,,0,0,0,,Trump's son -in -law, the man responsible for all Middle East policy,\N{\rChinese}特朗普的女婿，负责中东政策的那个人，
+Dialogue: 0,0:34:03.04,0:34:05.40,English,,0,0,0,,well, he's in my pocket.\N{\rChinese}嗯，他在我手里。
+Dialogue: 0,0:34:05.48,0:34:06.74,English,,0,0,0,,Meaning I own him.\N{\rChinese}意思是我掌握着他。
+Dialogue: 0,0:34:07.14,0:34:10.30,English,,0,0,0,,Okay? And the evidence that suggests this is\N{\rChinese}好？并且有证据表明如此。
+Dialogue: 0,0:34:10.30,0:34:14.02,English,,0,0,0,,that after Trump left office,\N{\rChinese}那在特朗普离任后，
+Dialogue: 0,0:34:14.16,0:34:16.68,English,,0,0,0,,after Jared Kushner left office,\N{\rChinese}那在贾德·库什纳离任后，
+Dialogue: 0,0:34:16.92,0:34:19.22,English,,0,0,0,,Jared Kushner set up a private equity fund.\N{\rChinese}贾德·库什纳设立了一个私募股权基金。
+Dialogue: 0,0:34:20.60,0:34:22.72,English,,0,0,0,,And MBS and\N{\rChinese}以及MBS和
+Dialogue: 0,0:34:22.72,0:34:28.32,English,,0,0,0,,the Saudi government invested $2 billion into the fund.\N{\rChinese}沙特政府向该基金投入20亿美元。
+Dialogue: 0,0:34:29.58,0:34:33.70,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}好？这样说对吗？
+Dialogue: 0,0:34:34.67,0:34:38.98,English,,0,0,0,,So, we don't know how,\N{\rChinese}于是，我们还不确定，但看起来是这样的
+Dialogue: 0,0:34:39.75,0:34:42.74,English,,0,0,0,,we don't know this for sure, but it seems like\N{\rChinese}我们还不确定，但看起来是这样的
+Dialogue: 0,0:34:43.67,0:34:49.14,English,,0,0,0,,Trump is doing exactly what the Saudis want,\N{\rChinese}特朗普正做沙特人想做的事，就是激化与伊朗的紧张关系。
+Dialogue: 0,0:34:49.42,0:34:53.10,English,,0,0,0,,which is to inflame tensions with Iran.\N{\rChinese}这正是沙特人想要的，让与伊朗的紧张关系再度激化。
+Dialogue: 0,0:34:53.86,0:34:57.34,English,,0,0,0,,Okay? And this suggests\N{\rChinese}好？这说明
+Dialogue: 0,0:34:57.34,0:35:00.10,English,,0,0,0,,that if in November,\N{\rChinese}如果在十一月，
+Dialogue: 0,0:35:01.60,0:35:03.78,English,,0,0,0,,Trump wins a second term,\N{\rChinese}特朗普赢得第二个任期
+Dialogue: 0,0:35:04.52,0:35:06.36,English,,0,0,0,,it is very possible\N{\rChinese}很可能
+Dialogue: 0,0:35:08.22,0:35:12.58,English,,0,0,0,,that Trump will declare war on Iran.\N{\rChinese}特朗普会对伊朗宣战
+Dialogue: 0,0:35:13.76,0:35:15.36,English,,0,0,0,,Or at the very least,\N{\rChinese}至少
+Dialogue: 0,0:35:15.54,0:35:20.28,English,,0,0,0,,continue to escalate tensions with Iran.\N{\rChinese}继续与伊朗升级紧张局势。
+Dialogue: 0,0:35:20.92,0:35:25.98,English,,0,0,0,,Okay? Which will very likely lead to World War III.\N{\rChinese}好？这很可能导致第三次世界大战。
+Dialogue: 0,0:35:28.00,0:35:30.08,English,,0,0,0,,So, in that respect, we can say that,\N{\rChinese}所以，在这方面，我们可以说，
+Dialogue: 0,0:35:30.08,0:35:32.10,English,,0,0,0,,the election in November,\N{\rChinese}十一月的选举，
+Dialogue: 0,0:35:32.44,0:35:35.40,English,,0,0,0,,whether or not Trump comes back into office,\N{\rChinese}特朗普是否再次上任，
+Dialogue: 0,0:35:36.26,0:35:38.12,English,,0,0,0,,is one of the most consequential elections.\N{\rChinese}是最重要的选举之一。
+Dialogue: 0,0:35:40.06,0:35:42.46,English,,0,0,0,,Okay? Does that make sense, guys?\N{\rChinese}好的？这有道理吗，大家？
+Dialogue: 0,0:35:43.70,0:35:44.96,English,,0,0,0,,Okay, any questions?\N{\rChinese}好的，有问题吗？
+Dialogue: 0,0:35:45.22,0:35:48.20,English,,0,0,0,,Anything you want me to clarify before we end class?\N{\rChinese}还有什么想让我在结束前说明的吗？
+Dialogue: 0,0:35:53.38,0:35:54.60,English,,0,0,0,,Okay. So,\N{\rChinese}好的。那样，
+Dialogue: 0,0:35:54.68,0:36:00.00,English,,0,0,0,,what we will do next class is figure out if Trump,\N{\rChinese}接下来我们要做的事是弄清楚特朗普会不会在十一月赢得选举。
+Dialogue: 0,0:36:00.00,0:36:01.84,English,,0,0,0,,will win in November.\N{\rChinese}will win in November.
+Dialogue: 0,0:36:02.40,0:36:06.10,English,,0,0,0,,And I will make the argument to you that it is almost\N{\rChinese}我会向你们提出论点：他在十一月获胜几乎是确定的，极有可能。
+Dialogue: 0,0:36:07.10,0:36:11.86,English,,0,0,0,,very certain, very likely, that he will win in November.\N{\rChinese}好吗？那样，下一节课我们来探讨原因。
+Dialogue: 0,0:36:12.90,0:36:16.50,English,,0,0,0,,Okay? So, we will examine why next class.\N{\rChinese}Okay? So, we will examine why next class.

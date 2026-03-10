@@ -1,0 +1,4764 @@
+1
+00:00:00,000 --> 00:00:04,140
+Okay, so we will do a quick theater today.
+OK
+
+2
+00:00:04,740 --> 00:00:09,280
+Now, as a society, every society has a problem.
+翻译1”
+
+3
+00:00:09,460 --> 00:00:10,520
+The problem is,
+翻译2”
+
+4
+00:00:10,740 --> 00:00:14,000
+how do we organize the thinking
+我们如何组织社会中人的思维？
+
+5
+00:00:14,000 --> 00:00:17,060
+of the people within our society?
+我们如何组织人们在我们社会中的思维？
+
+6
+00:00:17,540 --> 00:00:19,720
+Okay, how do you create an identity?
+OK
+
+7
+00:00:23,040 --> 00:00:26,780
+And in modern society, there are three institutions
+...
+
+8
+00:00:26,780 --> 00:00:30,820
+that create a collective identity for society.
+...
+
+9
+00:00:31,560 --> 00:00:35,140
+Okay, so the first would be what?
+Okay, so the first would be what?
+
+10
+00:00:37,180 --> 00:00:38,820
+Exactly, thank you, schools, right?
+翻译后”
+
+11
+00:00:39,540 --> 00:00:44,380
+So public schools, you're here to learn about the history of China.
+??
+
+12
+00:00:44,700 --> 00:00:47,260
+You're here to learn about the politics of China, right?
+...
+
+13
+00:00:47,420 --> 00:00:49,700
+And the idea is to organize.
+...
+
+14
+00:00:49,720 --> 00:00:50,920
+Make everyone think alike.
+让大家都想法一样。
+
+15
+00:00:51,140 --> 00:00:55,860
+Or have the same basic knowledge and worldview, okay?
+...
+
+16
+00:00:56,000 --> 00:00:59,840
+What's another institution that does this in society?
+另一个在社会中起作用的机构是什么？
+
+17
+00:01:03,640 --> 00:01:06,480
+The media, right? Okay, so mass media.
+媒体是吧？
+
+18
+00:01:07,340 --> 00:01:12,020
+So when you turn on the TV, when you read a Chinese newspaper,
+当你打开电视机时，读着中文报纸时，
+
+19
+00:01:12,420 --> 00:01:14,980
+it's presenting a particular worldview.
+它们给出的相应之类
+
+20
+00:01:16,140 --> 00:01:19,380
+And when you absorb this worldview, you become more Chinese.
+And when you absorb this worldview, you become more Chinese.
+
+21
+00:01:19,720 --> 00:01:22,300
+Right? And what's the last institution
+...
+
+22
+00:01:22,300 --> 00:01:27,100
+that helped us form a collective identity in China?
+??
+
+23
+00:01:32,720 --> 00:01:34,800
+Entertainment, right? Mass culture.
+娱乐 好吧！ 大 ?? ?? ????
+
+24
+00:01:36,380 --> 00:01:39,220
+This includes, you know, TV shows.
+...
+
+25
+00:01:39,560 --> 00:01:41,240
+This includes movies, okay?
+...
+
+26
+00:01:41,420 --> 00:01:43,140
+This includes books. Does that make sense?
+??
+
+27
+00:01:43,540 --> 00:01:45,180
+So through these three institutions,
+So through thesethree institutions,
+
+28
+00:01:45,440 --> 00:01:48,740
+societies can create a national identity.
+社会可以创造民族身份。
+
+29
+00:01:49,100 --> 00:01:53,220
+And that's what we're going to do today. And depending on your society, you create a different worldview, right?
+今天我们要做的就是...
+
+30
+00:01:53,460 --> 00:01:54,720
+So in America,
+在美国，我们会想创造个体化的身份。
+
+31
+00:01:55,020 --> 00:01:59,420
+Americans would want to create an individualistic identity.
+在美国，我们会想要创造个体化的身份。
+
+32
+00:01:59,920 --> 00:02:04,220
+Whereas in China, we want to create a collectivist identity,
+??
+
+33
+00:02:04,560 --> 00:02:06,140
+okay? So
+??
+
+34
+00:02:06,140 --> 00:02:09,480
+what I will show you today is Greek society,
+我今天要展示的就是希腊社会，
+
+35
+00:02:09,840 --> 00:02:12,640
+Athenian society was doing the same thing, okay?
+A 典之??
+
+36
+00:02:12,820 --> 00:02:14,560
+But it was doing it through theater.
+但它通过戏剧实现了这一点。
+
+37
+00:02:17,280 --> 00:02:19,700
+And the main function of theater is to create a collective identity.
+戏剧的主要功能是把它们的集合身份形成。”
+
+38
+00:02:19,700 --> 00:02:25,320
+And the main function of theater was to create an identity as a democratic citizen,
+戏剧的主要功能是把它们的集合身份形成。
+
+39
+00:02:25,680 --> 00:02:27,620
+okay? Democratic citizen.
+戏剧的中文翻译？”
+
+40
+00:02:31,200 --> 00:02:32,800
+Why do we have a democracy?
+为什么我们有了百花?
+
+41
+00:02:33,200 --> 00:02:35,160
+What does it mean to live in democracy?
+...
+
+42
+00:02:35,580 --> 00:02:38,920
+What is your responsibility as a citizen to be in a democracy?
+...
+
+43
+00:02:39,580 --> 00:02:44,700
+Okay? So that's what theater does in Athens.
+好的，先给你们介绍一下剧场的背景。”]}}We need to translate cues 43-45. Provide JSON with translations array. Each string may contain newline. Use simplified Chinese. Let's translate: cue 43:
+
+44
+00:02:45,720 --> 00:02:48,800
+So let me give you some background about theater.
+. Actually cue 43:
+
+45
+00:02:48,960 --> 00:02:53,340
+Okay? Theater was the form,
+? Wait: [43] Okay? So that's what theater does in Athens. So translation:
+
+46
+00:02:53,440 --> 00:02:55,540
+the basic structure of Athenian society.
+基本的雅典社会结构。
+
+47
+00:02:57,180 --> 00:03:00,200
+So there are two months of the year when
+两个月份里，大家都去剧场。
+
+48
+00:03:00,200 --> 00:03:03,280
+everyone went to the theater, okay?
+everyone went tothe theater, okay?
+
+49
+00:03:03,420 --> 00:03:07,740
+So once in winter and once in the summertime.
+??
+
+50
+00:03:08,100 --> 00:03:13,360
+And they were called the festival of Dionysus,
+和...??
+
+51
+00:03:13,440 --> 00:03:15,320
+okay? Dionysus was the god,
+]}We need to translate cues 50 and 51. They are English lines: [50] And they were called the festival ofDionysus, [51] okay? Dionysus was the god, . We need to produce Chinese translations. Use preferred terms?
+
+52
+00:03:15,500 --> 00:03:19,660
+the Greek god of the theater, of art, of culture.
+the ...?? ??? ??? ??? ??? ???
+
+53
+00:03:19,660 --> 00:03:21,800
+Of music, of sex, of wine.
+????????????????????
+
+54
+00:03:22,920 --> 00:03:26,700
+And so the festival of Dionysus, there were religious elements to it.
+...
+
+55
+00:03:27,400 --> 00:03:30,660
+But it was mainly about watching theater.
+...
+
+56
+00:03:31,240 --> 00:03:33,540
+And through the process of watching theater,
+...
+
+57
+00:03:33,740 --> 00:03:38,660
+Athenians created a national identity
+...
+
+58
+00:03:38,660 --> 00:03:40,660
+that they all believed in.
+...
+
+59
+00:03:41,320 --> 00:03:44,920
+Okay? So this happened twice a year for one month.
+OK? 这回两次??????????????????????????????????????????
+
+60
+00:03:45,200 --> 00:03:46,980
+And it was free for everyone.
+...
+
+61
+00:03:47,240 --> 00:03:48,740
+So it was the rich who...
+...
+
+62
+00:03:49,640 --> 00:03:52,180
+Paid for all the plays to be performed.
+...
+
+63
+00:03:52,420 --> 00:03:54,960
+And that's how the rich, the aristocratic families,
+...
+
+64
+00:03:55,180 --> 00:03:59,120
+won favor from the people. In fact,
+在...里赢得人们的喜爱。事实上，
+
+65
+00:03:59,200 --> 00:04:02,680
+Athenians considered going to theater the
+在...里...
+
+66
+00:04:02,680 --> 00:04:05,420
+greatest birthright of being an Athenian.
+最伟大的出生权利是成为雅典人。
+
+67
+00:04:05,560 --> 00:04:08,820
+Okay? That was the privilege and the right of being an Athenian.
+好的，...
+
+68
+00:04:09,400 --> 00:04:13,060
+It was the highest honor in
+在...里...
+
+69
+00:04:13,060 --> 00:04:16,900
+Athens to participate in the festival as a playwright.
+在...里...
+
+70
+00:04:16,900 --> 00:04:19,640
+And every festival,
+每个节日，
+
+71
+00:04:19,800 --> 00:04:21,760
+there would be two competitors.
+每个节日里有两位竞争者。
+
+72
+00:04:22,260 --> 00:04:24,880
+Okay? And they were called the protagonist.
+好的？他们被称为主角。
+
+73
+00:04:27,200 --> 00:04:28,660
+Okay? And antagonist.
+好的？又是个别名：又是个别名。
+
+74
+00:04:29,560 --> 00:04:34,140
+So today, we know that protagonist means the hero of a novel.
+所以今天我们知道主角就是小说里的英雄。
+
+75
+00:04:34,500 --> 00:04:36,780
+Antagonist means the villain of a novel.
+反派角色就是小说里的那条好点儿的??
+
+76
+00:04:36,920 --> 00:04:41,000
+But back then, all this meant was you were the first competitor.
+但那时，所有这些都意味着你是第一个竞争者。
+
+77
+00:04:41,320 --> 00:04:43,300
+And then the antagonist was the second competitor.
+而后又是第一个竞争者？
+
+78
+00:04:43,540 --> 00:04:46,880
+Okay? And the entire process...
+??
+
+79
+00:04:46,880 --> 00:04:51,260
+The entire point of theater was to promote democracy in Athens.
+戏剧的全部意义在于推动雅典的民主。
+
+80
+00:04:51,700 --> 00:04:54,240
+And they did that through many mechanisms.
+And they did that through many mechanisms.
+
+81
+00:04:54,960 --> 00:04:56,180
+First of all,
+?
+
+82
+00:04:56,280 --> 00:05:00,920
+whoever won the festival was decided by popular vote.
+谁赢得节日由民选决定。
+
+83
+00:05:01,580 --> 00:05:05,380
+Okay? The entire process of theater was democratic.
+好吧，戏剧的全过程是个百花百色的百花百色？
+
+84
+00:05:05,860 --> 00:05:08,560
+So there were no professional actors in Athens.
+其大概…
+
+85
+00:05:08,900 --> 00:05:10,500
+People were selected from the
+人们从……中被挑选出来表演剧本。
+
+86
+00:05:10,500 --> 00:05:16,020
+community to act out the play.
+表演剧本的演出由全体人参与观看。
+
+87
+00:05:16,020 --> 00:05:21,180
+And everyone participated in watching the play.
+And everyone participated in watching the play.
+
+88
+00:05:21,340 --> 00:05:24,120
+In fact, the largest amphitheater...
+在此，最大小的圆形剧场…
+
+89
+00:05:24,120 --> 00:05:26,220
+These are all outdoor theaters in Athens.
+这些是亚历宫里外部的圆环剧场…
+
+90
+00:05:26,420 --> 00:05:28,200
+Could hold 10,000 people.
+先前…
+
+91
+00:05:28,520 --> 00:05:30,460
+Okay? 10 to 15,000 people.
+好的？10到15,000人。
+
+92
+00:05:30,900 --> 00:05:34,840
+The maximum population of Athens was 50,000 people.
+雅典的最大人口为50,000人。
+
+93
+00:05:35,100 --> 00:05:39,860
+Okay? So this is a huge community event that brought everyone together.
+好的？这是一场大规模的社区活动，把人们聚在一起。
+
+94
+00:05:40,060 --> 00:05:43,400
+And they loved the theater. Um...
+翻译1
+
+95
+00:05:46,020 --> 00:05:48,900
+The three most famous playwrights in Athens at that
+翻译2
+
+96
+00:05:48,900 --> 00:05:50,860
+time were Aeschylus,
+翻译3
+
+97
+00:05:53,940 --> 00:05:58,500
+Sophocles, and Euripides.
+索福克勒斯与欧里庇得斯。
+
+98
+00:05:58,740 --> 00:06:01,800
+Okay? And these were really playwrights, poets.
+好的？这些是很好的剧作家，诗人。
+
+99
+00:06:02,100 --> 00:06:05,360
+But they were first and foremost prophets of democracy.
+但他们先后先是…
+
+100
+00:06:05,900 --> 00:06:09,120
+They were teachers of democracy who
+他们是…
+
+101
+00:06:09,120 --> 00:06:11,400
+told the Athenian people, Why do we have democracy?
+...
+
+102
+00:06:11,820 --> 00:06:13,200
+Why is democracy good?
+...
+
+103
+00:06:13,200 --> 00:06:17,540
+And how should we protect and promote our democracy?
+并且我们如何去保护与发扬我们的民主？
+
+104
+00:06:18,260 --> 00:06:20,820
+Alright? So in their plays,
+好吧？在这几部戏里
+
+105
+00:06:21,080 --> 00:06:23,340
+the very heart and
+心里…
+
+106
+00:06:23,340 --> 00:06:27,580
+soul of their plays was about the promotion of democracy in Athens.
+106的戏剧灵魂是关于雅典民主的推广。
+
+107
+00:06:27,980 --> 00:06:32,120
+And these three were the most admired of all the playwrights.
+107三位戏剧人最为人所赞誉。
+
+108
+00:06:32,120 --> 00:06:35,180
+Everyone at that time wanted to be a playwright.
+108那时每个好戏剧人都要去写作。”
+
+109
+00:06:35,360 --> 00:06:38,860
+Because that was the highest honor in Athens.
+因为那是雅典最高的荣誉。
+
+110
+00:06:39,060 --> 00:06:42,480
+Okay? So to win first place at the Festival of Dionysus,
+好吧？于是我先去看最著名的戏剧，
+
+111
+00:06:42,480 --> 00:06:45,300
+is like winning the Nobel Prize in Physics today.
+于是我们能了解其后期…
+
+112
+00:06:46,200 --> 00:06:49,320
+Okay? So, um, what I will do now,
+...
+
+113
+00:06:49,620 --> 00:06:53,020
+is go over the most famous plays,
+...
+
+114
+00:06:53,180 --> 00:06:56,180
+so we can understand how they promoted democracy
+...
+
+115
+00:06:56,920 --> 00:06:58,840
+through their artwork.
+通过他们的艺术作品。
+
+116
+00:06:59,260 --> 00:07:01,220
+But are there any questions so far? Before I continue.
+但到目前为止还有问题吗？我接着说。
+
+117
+00:07:03,040 --> 00:07:04,420
+Yes, it's an amphitheater. Yes, it's an amphitheater.
+是的，没错！
+
+118
+00:07:06,440 --> 00:07:10,960
+the theater is kind of like a theme park in the theater.
+theater...
+
+119
+00:07:10,960 --> 00:07:12,280
+Yes, it's an amphitheater.
+...
+
+120
+00:07:12,420 --> 00:07:14,880
+So how did you all come together?
+...
+
+121
+00:07:15,220 --> 00:07:19,120
+How can you all come together and do a play as an ensemble?
+如何把所有人聚在一起，演出一场表演？
+
+122
+00:07:20,080 --> 00:07:22,120
+Okay, so that's a great question about acoustics.
+好的，先前先后…
+
+123
+00:07:22,140 --> 00:07:25,360
+We call this acoustics. So how the theater was designed was like this, okay?
+...
+
+124
+00:07:25,540 --> 00:07:27,260
+You have the stage, and then
+你有了...??…
+
+125
+00:07:27,260 --> 00:07:31,520
+the theater was designed like this, like an oval, okay?
+?…..?????..???…..??…???…..??..??..…………
+
+126
+00:07:32,280 --> 00:07:33,680
+So in other words,
+?…..??…..………?…?…..…..??……………………………………
+
+127
+00:07:34,580 --> 00:07:38,920
+the sound was captured in like a cavern in a cave.
+音响被捕捉在像洞穴的石洞里。
+
+128
+00:07:39,240 --> 00:07:41,040
+So there was resonance. But
+音响在回响后，继续…
+
+129
+00:07:41,040 --> 00:07:44,720
+obviously you were required to shout out the words slowly
+...
+
+130
+00:07:44,720 --> 00:07:46,580
+so everyone can hear, okay?
+所以大家都能听见，好吗？
+
+131
+00:07:46,700 --> 00:07:48,580
+That's the first thing. Second thing is,
+第二个是：
+
+132
+00:07:49,460 --> 00:07:53,740
+these plays were so popular, everyone memorized the lines.
+这些戏剧很久…
+
+133
+00:07:54,540 --> 00:07:56,820
+Do you understand? So
+你明白吗？所以
+
+134
+00:07:56,820 --> 00:07:59,660
+they already knew the content of the plays,
+他们已经知道了戏剧的内容，
+
+135
+00:07:59,860 --> 00:08:04,660
+but they wanted to participate in the community aspect of the play.
+但他们想参与戏剧的社群环节
+
+136
+00:08:04,840 --> 00:08:07,160
+Does that make sense? So the two things is,
+Does that make sense?So the two things is,
+
+137
+00:08:07,340 --> 00:08:10,100
+the theater was designed in a way so that
+theater...
+
+138
+00:08:10,100 --> 00:08:13,940
+sound traveled very freely in the theater
+...
+
+139
+00:08:13,940 --> 00:08:17,800
+so everyone can hear, but also everyone memorized the lines anyway, okay?
+...
+
+140
+00:08:18,360 --> 00:08:20,680
+Does that make sense? Okay, great question.
+...
+
+141
+00:08:20,940 --> 00:08:23,000
+All right, any more questions before I continue?
+好的，接着继续吧？
+
+142
+00:08:24,960 --> 00:08:27,540
+All right, so let's talk about Ischeles, okay?
+好的，先前往后？
+
+143
+00:08:27,620 --> 00:08:30,540
+Because he was really the first of the major playwrights.
+因为他确实是最早的主要剧作家之一。
+
+144
+00:08:30,580 --> 00:08:33,280
+And he wrote a play called Oresteia.
+他写了一部名为《奥瑞斯特伊亚》。”
+
+145
+00:08:36,760 --> 00:08:40,440
+And I will explain to you the plot of the play, the plot of the Oresteia,
+And I will explain to you the plot of the play, the plot of the Oresteia,
+
+146
+00:08:41,100 --> 00:08:44,260
+before I explain to you the meaning and
+在我解释之前，先给你们先说一句话。”}
+
+147
+00:08:44,260 --> 00:08:46,760
+the interpretation of the play, okay?
+...
+
+148
+00:08:47,040 --> 00:08:50,540
+So all these plays come from Greek mythology,
+...
+
+149
+00:08:51,340 --> 00:08:54,360
+because everyone knows the mythology. And
+因为大家知道神话。
+
+150
+00:08:54,360 --> 00:08:58,260
+so what the playwrights did was, they took material from Greek mythology
+翻译：...
+
+151
+00:08:59,160 --> 00:09:02,620
+and packaged it in a contemporary context
+...
+
+152
+00:09:03,220 --> 00:09:05,220
+to explore modern themes, okay?
+...
+
+153
+00:09:05,620 --> 00:09:08,340
+All right, so the Oresteia,
+...
+
+154
+00:09:09,400 --> 00:09:10,920
+the play is set in a place called Argos.
+...
+
+155
+00:09:11,140 --> 00:09:13,260
+And during the Mycenaean period, okay, so
+在此时段，...
+
+156
+00:09:13,260 --> 00:09:16,180
+this is before the Bronze Age collapsed, Mycenaean Greece,
+翻译...
+
+157
+00:09:17,020 --> 00:09:20,400
+Argos was the most powerful city in Mycenaean Greece.
+157: Argos在此时段...
+
+158
+00:09:22,060 --> 00:09:24,560
+And when the king died,
+]}We need to translate cues 157 and 158. Provide JSON array translations. Each translation string maycontain at most one newline. Use natural Simplified Chinese. Use preferred terms. Let's translate: 157:
+
+159
+00:09:24,900 --> 00:09:29,000
+he left the throne to his eldest son named Atreides, okay?
+...
+
+160
+00:09:29,920 --> 00:09:35,700
+But often what happens in these cases is the younger brother refuses to accept the authority
+...
+
+161
+00:09:36,400 --> 00:09:38,440
+of the eldest, and he rebels, okay?
+...
+
+162
+00:09:38,440 --> 00:09:43,120
+So war was fought over the Argos throne, Atreides won,
+...
+
+163
+00:09:43,480 --> 00:09:47,860
+and then his brother comes and begs for forgiveness.
+他把王位交给了长子阿特里德斯，顺便说一句：
+
+164
+00:09:48,580 --> 00:09:50,940
+And Atreides, being the king, says,
+...
+
+165
+00:09:51,260 --> 00:09:54,940
+you're my brother, I want to show I'm a benevolent king,
+我把他放在了...
+
+166
+00:09:55,300 --> 00:09:57,020
+so I will forgive you.
+...
+
+167
+00:09:57,180 --> 00:09:59,020
+And to show that I forgive you,
+...
+
+168
+00:09:59,180 --> 00:10:03,760
+I will host for you a banquet and a feast, okay?
+我为你准备了盛宴，怎么样？
+
+169
+00:10:05,020 --> 00:10:09,420
+And so the younger brother is like, he's very happy about this.
+我方位的兄弟很高兴，得意满满！
+
+170
+00:10:09,700 --> 00:10:12,040
+But during the feast, before the feast,
+?
+
+171
+00:10:12,280 --> 00:10:16,740
+what Atreides does is he kills all the sons,
+what ... ? … … … … {
+
+172
+00:10:17,440 --> 00:10:20,860
+all his younger brother, and he cooks them.
+]}We need to translate cues 171-173. Provide JSON array translations. Each string may contain newline. Let's translate: cue 171:
+
+173
+00:10:21,120 --> 00:10:22,420
+And during the feast,
+}? Wait actual cue: [171] what Atreides does is he kills all the sons, [172] all his younger brother, andhe cooks them. [173] And during the feast, ... So we need Chinese translations. Use terms: Atreides maybe
+
+174
+00:10:22,540 --> 00:10:26,240
+he feeds it to his younger brother.
+]}We need to translate cues 171-173? Wait earlier:
+
+175
+00:10:26,860 --> 00:10:29,780
+And when his younger brother finds out about this, okay,
+...
+
+176
+00:10:29,840 --> 00:10:32,700
+he dies after this, but before he dies,
+...
+
+177
+00:10:32,780 --> 00:10:35,280
+he curses Atreides and says,
+...
+
+178
+00:10:35,420 --> 00:10:38,100
+curse upon you and your house, because
+...
+
+179
+00:10:38,100 --> 00:10:41,920
+a feast is a contract between you
+一个宴会是你与神的契约，
+
+180
+00:10:41,920 --> 00:10:43,540
+and the gods, okay?
+宴会与神的约定，
+
+181
+00:10:43,740 --> 00:10:45,280
+When you hold a feast,
+当你举办宴会时，
+
+182
+00:10:45,480 --> 00:10:48,560
+you promise the gods this feast will be peaceful.
+你给神们承诺这次宴会将会安宁。
+
+183
+00:10:49,120 --> 00:10:52,340
+And so people trust you and come and eat your food.
+当你把它们放在一起，给我方块块的方块…
+
+184
+00:10:52,860 --> 00:10:56,440
+So when you poison your food like this, you are in the hands of the gods,
+...
+
+185
+00:10:56,540 --> 00:10:58,800
+so I curse you and your entire house, okay?
+185. 于是我给你们打个回响，咱们好吧！
+
+186
+00:10:58,840 --> 00:11:00,840
+And then he dies. But before he dies,
+185. … … … … 句 …… … i… … ??…
+
+187
+00:11:01,020 --> 00:11:03,680
+his son,
+他的儿子，
+
+188
+00:11:03,820 --> 00:11:07,280
+Agittas, okay, Agittas, escapes, okay?
+Ag … ??
+
+189
+00:11:07,280 --> 00:11:09,800
+So his only remaining son is Agittas.
+所以他唯一剩下的儿子是阿吉塔斯。
+
+190
+00:11:09,900 --> 00:11:11,660
+And Agittas is responsible now
+阿吉塔斯现在负责……
+
+191
+00:11:12,080 --> 00:11:14,080
+for avenging the death of his family, okay?
+阿吉塔斯现在负责…
+
+192
+00:11:14,800 --> 00:11:17,260
+All right, so Atreides becomes king.
+192. 所以阿特里德斯成为国王。
+
+193
+00:11:17,340 --> 00:11:21,260
+He has two sons who inherit his throne, okay?
+193. 他有两个儿子继承他的王位，
+
+194
+00:11:21,320 --> 00:11:23,880
+The first is Agamemnon, who
+194. 第一个是阿甘米诺斯，
+
+195
+00:11:23,880 --> 00:11:27,880
+becomes king of Argos, and he is the king of kings.
+195. 成为阿尔格斯的王，且是王之王。
+
+196
+00:11:28,120 --> 00:11:32,220
+He is the one who will start the Trojan War and launch an invasion of Troy, okay?
+195??????????????????????????????????
+
+197
+00:11:32,780 --> 00:11:34,920
+And his brother is Menelaus,
+?
+
+198
+00:11:36,300 --> 00:11:38,760
+who becomes the king of the Argos, okay? And he becomes king of Sparta.
+谁成为阿尔格斯的王，好的？他又成为了萨尔普的王。
+
+199
+00:11:39,840 --> 00:11:42,960
+And they both marry sisters, okay?
+两位都结婚了，好的？
+
+200
+00:11:43,040 --> 00:11:44,600
+They marry two sisters.
+他们结成两位兄弟的两位兄弟。
+
+201
+00:11:45,120 --> 00:11:49,640
+Agamemnon marries Platamestra, and Menelaus marries Helen, okay?
+阿甘玛诺斯嫁给了帕拉梅斯特拉，且马尼拉斯嫁给了海伦。
+
+202
+00:11:50,240 --> 00:11:51,600
+This is important because,
+这很重要，
+
+203
+00:11:52,280 --> 00:11:54,760
+remember, Helen runs away to Troy,
+记得吧！
+
+204
+00:11:54,880 --> 00:11:57,480
+and Menelaus tells his brother,
+和 后 的 后 的 后 的 后后 后 后 后 后
+
+205
+00:11:57,680 --> 00:11:59,980
+Agamemnon, he gets upset, and
+…… … … … … … i …… … … i…
+
+206
+00:11:59,980 --> 00:12:04,200
+they agree to organize this massive Greek army to invade,
+…i … 后 后 ?? …… i…
+
+207
+00:12:04,620 --> 00:12:07,000
+destroy Troy, and get Helen back, okay?
+We ... ? ? … ? ? ?? … ?… ? … … ?? … ?… ... ?… .. … … ... … ?… .. … i… …i… … i…… i… i… i… i… i… ?? … i… i… i… i… t…………………………………………………………………………………
+
+208
+00:12:09,500 --> 00:12:14,140
+But when they're about to set sail for Troy, there's no win.
+但当他们即将启航去特洛伊时，...
+
+209
+00:12:15,120 --> 00:12:19,080
+And Agamemnon knows the gods are not happy with them, okay?
+...
+
+210
+00:12:19,200 --> 00:12:22,140
+So Agamemnon consults a fortune teller
+So Ag g g g g gg g g ……
+
+211
+00:12:22,140 --> 00:12:26,060
+who tells him how to win the favor of the gods.
+...
+
+212
+00:12:26,280 --> 00:12:30,440
+He tells Agamemnon, you have to sacrifice your daughter,
+He tells Agamemnon, you haveto sacrifice your daughter,
+
+213
+00:12:30,560 --> 00:12:34,400
+Iphigenia. And at this point, Agamemnon should be like,
+Iphigenia. And at this point, Agamemnon should be like,
+
+214
+00:12:35,320 --> 00:12:38,600
+I'm not going to do that. I'm not going to sacrifice my daughter,
+我...??????...????...????
+
+215
+00:12:38,740 --> 00:12:41,280
+Iphigenia, so that I could go to Troy.
+...
+
+216
+00:12:41,480 --> 00:12:44,560
+And why do I want to go to Troy in the first place, right?
+]}We need to translate cue 216:
+
+217
+00:12:45,520 --> 00:12:48,460
+Helen's not my wife. It's Menelaus' wife.
+...
+
+218
+00:12:49,080 --> 00:12:50,920
+Not my problem, right?
+...
+
+219
+00:12:51,080 --> 00:12:53,660
+I should just give this up because obviously the gods don't want me to go.
+我想把这句...??????????????????????????????????????????????????
+
+220
+00:12:54,620 --> 00:12:55,980
+That's what he should do.
+那是他应该做的事。
+
+221
+00:12:56,640 --> 00:13:00,200
+But instead, he's like, fine, I'll sacrifice my daughter, okay?
+我想...??
+
+222
+00:13:00,280 --> 00:13:02,080
+So he kills his daughter, Iphigenia.
+翻译成...??
+
+223
+00:13:02,740 --> 00:13:05,820
+The wind is released from the skies,
+?
+
+224
+00:13:05,820 --> 00:13:08,620
+and he sets sail to Troy, okay?
+和他起航去特洛伊，好吗？
+
+225
+00:13:08,720 --> 00:13:12,820
+And we know what happens. They're there for ten years, and they end up destroying Troy.
+我们知道他俩的事情，十个小时…
+
+226
+00:13:13,940 --> 00:13:17,100
+Who's really pissed now? Who's really angry now?
+谁的...??
+
+227
+00:13:20,080 --> 00:13:22,260
+Who's really angry about all this?
+...??
+
+228
+00:13:25,880 --> 00:13:27,980
+Cladamestra, right? The wife of Agamemnon.
+克拉达美斯特拉，对吗？他是阿甘美尼的妻子。
+
+229
+00:13:28,280 --> 00:13:31,820
+Because their daughter has been killed for no reason, okay?
+因为...??
+
+230
+00:13:33,640 --> 00:13:35,160
+So Cladamestra, while
+所以克拉达美斯特拉，在……
+
+231
+00:13:35,160 --> 00:13:38,240
+Agamemnon is away for ten years,
+...
+
+232
+00:13:38,440 --> 00:13:40,140
+she plots her revenge.
+她在策划复仇。
+
+233
+00:13:40,580 --> 00:13:43,940
+What she does is she finds Agittes
+她的做法是找了个别名的…
+
+234
+00:13:43,940 --> 00:13:45,840
+and they become lovers, okay?
+...
+
+235
+00:13:45,980 --> 00:13:50,660
+And they plot how to avenge the death of Iphigenia.
+他们在策划如何报仇伊菲吉尼亚之死。
+
+236
+00:13:50,840 --> 00:13:55,280
+So ten years later, when Agamemnon comes back from Troy victorious,
+十年后，回到胜利的伊格玛诺斯回到…
+
+237
+00:13:56,420 --> 00:13:59,400
+Cladamestra kills him, okay?
+克拉德玛斯特拉…
+
+238
+00:14:00,540 --> 00:14:04,660
+And she makes Agittes now king of Troy.
+...
+
+239
+00:14:04,660 --> 00:14:05,820
+Okay,
+...
+
+240
+00:14:12,960 --> 00:14:19,680
+so now
+...
+
+241
+00:14:19,680 --> 00:14:32,840
+if you
+如果你
+
+242
+00:14:32,840 --> 00:14:36,140
+imagine if you imagine if you imagine about what to do.
+想象…
+
+243
+00:14:36,280 --> 00:14:37,920
+So he consults Apollo,
+他…
+
+244
+00:14:38,400 --> 00:14:40,320
+who is basically the god of justice.
+谁是基本上正义之神。
+
+245
+00:14:40,880 --> 00:14:44,920
+And Apollo tells him, you are right
+阿波罗告诉他：我方…
+
+246
+00:14:44,920 --> 00:14:47,020
+and just to want to avenge your father.
+其…
+
+247
+00:14:47,600 --> 00:14:50,300
+So Aristides goes back to Argos and
+阿里斯蒂德斯回到阿尔戈斯并且杀了他的母亲克拉达梅斯特拉和阿吉斯图斯。然后他成为阿尔戈斯的国王。
+
+248
+00:14:50,300 --> 00:14:52,930
+he kills his mother, Cladamestra, and
+阿里斯蒂德斯回到阿尔戈原来回到……】}We need to translate cues 247-249. Providethree translations. Ensure Chinese natural. Let's craft. 247:
+
+249
+00:14:53,500 --> 00:14:55,960
+Aegisthus. And now he's king of Argos.
+248:
+
+250
+00:14:56,440 --> 00:14:59,960
+The problem now is, because he's killed his mother,
+250. 现在的问题是，他杀了母亲之后，251. 有一群叫作“弗里乌斯”的鬼怪，252. 从冥界出现，开始缠绕他。
+
+251
+00:15:00,380 --> 00:15:03,060
+there are these demons called the Furies who
+250. 现在的情况是：251. 这时有个叫“弗里乌斯”…
+
+252
+00:15:03,060 --> 00:15:07,800
+come up from the underworld and they begin to haunt him.
+?
+
+253
+00:15:08,580 --> 00:15:09,880
+They're torturing him.
+他们在折磨他。
+
+254
+00:15:10,300 --> 00:15:11,700
+And Aristides
+阿里斯蒂德斯
+
+255
+00:15:12,400 --> 00:15:17,520
+becomes so tortured he runs away from Argos.
+他因折磨而离开阿尔戈斯。
+
+256
+00:15:17,740 --> 00:15:20,760
+And he's trying to run away from the Furies, but the Furies refused to let him go.
+他正在尝试着去跑到离开弗里乌斯，去吧！
+
+257
+00:15:21,540 --> 00:15:23,740
+And Aristides says to them,
+...
+
+258
+00:15:23,940 --> 00:15:28,660
+I killed my mother in order to avenge my father.
+...
+
+259
+00:15:28,780 --> 00:15:30,620
+That was the runaway. So he goes back to Argos and he says, you are right and just to do.
+那是个逃跑者。于是他回到阿尔戈斯，回到回去回去…
+
+260
+00:15:31,200 --> 00:15:32,960
+And the Furies say to him,
+...
+
+261
+00:15:33,060 --> 00:15:36,380
+we are all gods.
+...
+
+262
+00:15:37,300 --> 00:15:41,820
+We are responsible for maintaining order and structure in the universe.
+我们负责维护宇宙的秩序与结构。
+
+263
+00:15:42,200 --> 00:15:46,760
+One thing that you cannot do is kill your parents, especially your mother.
+一件事可不必做的就是给我方的母亲去打。
+
+264
+00:15:46,900 --> 00:15:51,380
+By doing so, you are breaking the order of the universe.
+先前的那句…
+
+265
+00:15:51,660 --> 00:15:56,400
+Therefore, we will haunt you for the rest of eternity.
+...
+
+266
+00:15:57,380 --> 00:15:58,800
+We will not let you go.
+We will not letyou go.
+
+267
+00:15:59,280 --> 00:16:02,160
+Okay. Aristides goes talks to Apollo
+..
+
+268
+00:16:02,160 --> 00:16:06,960
+and Apollo tries to intercede on behalf of Aristides.
+和阿波罗尝试着去为阿里斯蒂德说话。
+
+269
+00:16:07,120 --> 00:16:10,080
+And the Furies say to him, you are a young god.
+阿里斯多里斯的那句…
+
+270
+00:16:10,460 --> 00:16:12,920
+You are a new god. We are the old gods.
+你是新神。我们是老神。
+
+271
+00:16:13,120 --> 00:16:14,380
+We are much older than you are.
+我们比你更久远。”
+
+272
+00:16:14,500 --> 00:16:16,020
+We are much wiser than you are.
+我们比你更懂事。
+
+273
+00:16:16,120 --> 00:16:18,020
+You have no authority over us.
+你们有点儿…
+
+274
+00:16:18,980 --> 00:16:23,500
+We don't care about justice. We don't care about the laws of men.
+我们不在乎正义。我们不在乎人间律法。
+
+275
+00:16:23,920 --> 00:16:26,380
+We care about the laws of the universe.
+我们只关心宇宙之律。
+
+276
+00:16:27,060 --> 00:16:29,400
+And Aristides has broken the laws of the universe.
+阿里斯提德斯已破宇宙之律。
+
+277
+00:16:29,620 --> 00:16:31,980
+Okay. So now Aristides is in a lot of trouble.
+阿里斯提德斯现在已成大事。”
+
+278
+00:16:32,120 --> 00:16:34,280
+And so, out of desperation,
+又是...…
+
+279
+00:16:34,620 --> 00:16:38,940
+the last thing he does is he runs to Athens, where Athena is.
+...…
+
+280
+00:16:39,160 --> 00:16:41,760
+And Athena is the goddess of wisdom.
+安娜是智慧之神。
+
+281
+00:16:42,300 --> 00:16:46,560
+So Aristides tells Athena, the goddess, his story.
+他把故事讲给安娜，给他讲个好！
+
+282
+00:16:47,100 --> 00:16:49,700
+And he begs for her help.
+先前给我方…
+
+283
+00:16:49,960 --> 00:16:52,940
+Okay. And Athena takes pity on Aristides.
+好的。阿尔西德斯得到雅典的恩惠。
+
+284
+00:16:53,080 --> 00:16:54,980
+And she says, basically,
+基本上，雅典会给我一个…
+
+285
+00:16:56,020 --> 00:16:58,120
+I'm going to convene a jury.
+好的，先前…
+
+286
+00:16:58,300 --> 00:17:00,820
+Okay. Of 500 Athenian citizens.
+好的。五百位雅典公民。
+
+287
+00:17:04,060 --> 00:17:07,840
+And you will make your case before them.
+你将会在他们面前陈述。
+
+288
+00:17:07,980 --> 00:17:10,620
+The Furies will make their case before them.
+弗里亚们会在他们面前陈述。
+
+289
+00:17:10,720 --> 00:17:14,540
+And they will decide whether or not you are guilty.
+他们会决定你是否有罪。
+
+290
+00:17:15,360 --> 00:17:19,480
+Okay. So both Aristides and the Furies make their case.
+好的，阿尔西德斯和弗里亚们都来陈述。
+
+291
+00:17:19,700 --> 00:17:23,420
+And morally speaking, both cases are compelling.
+从道理上说，两个案例都很有说服。
+
+292
+00:17:23,680 --> 00:17:26,860
+Okay. Because even though
+好的。因为即使如此
+
+293
+00:17:26,860 --> 00:17:29,140
+Clytemnestra killed Agamemnon,
+克利特梅尼斯特拉杀了阿甘美农
+
+294
+00:17:29,420 --> 00:17:31,820
+the fact of the matter is Agamemnon was an asshole.
+事实是阿甘美农是个大哥们
+
+295
+00:17:32,420 --> 00:17:35,920
+Right? Agamemnon killed their daughter for no particular reason.
+右？阿甘美农无缘故杀死他们的女儿。
+
+296
+00:17:36,120 --> 00:17:39,500
+And then he went off to Troy and killed a lot of people for like no reason as well.
+又是………………… 先后………… 先后…… ………… 先后…… 先后…… …… 地……… 先后……?
+
+297
+00:17:39,900 --> 00:17:44,580
+Okay. So both cases were very strong.
+OK???
+
+298
+00:17:44,780 --> 00:17:46,140
+And so at the end of the day,
+又在一天结束时，
+
+299
+00:17:49,060 --> 00:17:52,220
+250 Athenians decided Aristides was guilty.
+250个阿尔蒂德斯的回归
+
+300
+00:17:52,380 --> 00:17:54,740
+250 decided he was innocent.
+250个回归...
+
+301
+00:17:54,840 --> 00:17:56,740
+Okay. So it's what we call a hung jury.
+OK
+
+302
+00:17:56,920 --> 00:17:58,780
+Okay. It was divided evenly. So what then
+...
+
+303
+00:17:58,780 --> 00:18:01,740
+happens now is Athena comes in and
+happens now is Athena comes in and
+
+304
+00:18:01,740 --> 00:18:05,040
+says that because you are deadlocked, I will be the deciding vote.
+说...
+
+305
+00:18:05,140 --> 00:18:07,320
+I vote in favor of Aristides.
+...
+
+306
+00:18:07,580 --> 00:18:10,600
+Okay. So now Aristides is free to go home
+好的。现在阿里斯蒂德斯可以回家了
+
+307
+00:18:10,600 --> 00:18:13,020
+and live his life in peace.
+好的，回到家里…
+
+308
+00:18:13,780 --> 00:18:17,120
+Now the Furies say to her, no, no, no, no, no, no.
+现在，福尔里们向她说：好，好的，好的，好！
+
+309
+00:18:17,240 --> 00:18:20,020
+We don't accept your laws, Athena.
+我们没能给我方…
+
+310
+00:18:20,460 --> 00:18:24,960
+Okay. And then Athena says to them, fine, you guys, I'll make you a judge.
+...
+
+311
+00:18:24,960 --> 00:18:27,780
+Okay. So they accept the deal. Okay. Right now you're a demon
+...
+
+312
+00:18:27,780 --> 00:18:31,200
+and everyone fears and hates you.
+翻译1：...
+
+313
+00:18:32,640 --> 00:18:37,760
+But I will now make you stand for justice,
+翻译后...
+
+314
+00:18:38,000 --> 00:18:39,300
+truth, and righteousness
+...
+
+315
+00:18:39,740 --> 00:18:42,960
+so that we, the Athenian people, will worship you
+...
+
+316
+00:18:42,960 --> 00:18:45,900
+and admire you.
+...
+
+317
+00:18:46,040 --> 00:18:50,400
+Okay. And the Furies say, okay, that's a pretty good deal.
+...
+
+318
+00:18:50,520 --> 00:18:54,020
+Okay. So the Furies accept this deal.
+...
+
+319
+00:18:54,020 --> 00:18:55,980
+And Aristides is allowed to go home.
+阿里斯蒂德斯可以回家了。
+
+320
+00:18:56,360 --> 00:18:57,660
+And the story ends.
+故事结束了。
+
+321
+00:18:57,880 --> 00:18:59,900
+Okay. Does that make sense? So that's the story.
+好的，回到这就好啦。
+
+322
+00:19:01,020 --> 00:19:03,960
+Why, so what's the relevance of this story?
+...
+
+323
+00:19:04,320 --> 00:19:08,960
+Well, for Athens, it tells them where democracy comes from.
+...
+
+324
+00:19:09,200 --> 00:19:12,620
+Okay. Right? Athena, the goddess herself,
+...
+
+325
+00:19:12,780 --> 00:19:14,960
+gave democracy to Athens.
+给了雅典的民主。
+
+326
+00:19:16,380 --> 00:19:20,340
+Right? But it also tells them how,
+右？但…
+
+327
+00:19:20,420 --> 00:19:22,620
+what a tremendous gift this is.
+什么…
+
+328
+00:19:22,620 --> 00:19:26,080
+Because by giving the Athenian people democracy,
+因为给雅典人们民主，
+
+329
+00:19:26,620 --> 00:19:29,560
+it basically gave them the power of gods.
+...
+
+330
+00:19:30,040 --> 00:19:34,280
+Right? Because when you have these 500 jurors,
+...
+
+331
+00:19:34,320 --> 00:19:36,700
+each of them has the same power and
+每个都有相同的权力与雅典女神的权威。
+
+332
+00:19:36,700 --> 00:19:39,440
+authority of the god Athena herself.
+雅典女神只可投一票。
+
+333
+00:19:39,840 --> 00:19:41,840
+Athena can only cast one vote.
+Athena can onlycast one vote.
+
+334
+00:19:41,960 --> 00:19:44,800
+Right? Okay.
+右？好。
+
+335
+00:19:44,940 --> 00:19:49,860
+And so what this is telling the Athenian people is the gods gave you democracy.
+“可”可??
+
+336
+00:19:50,120 --> 00:19:54,740
+Honor them. By taking it very seriously.
+??
+
+337
+00:19:54,840 --> 00:19:58,700
+Okay. When you vote, do so very seriously.
+好的。你投票时要认真投票。
+
+338
+00:19:58,820 --> 00:20:01,720
+Because when you vote in a good way,
+因为当你投票时，先前的投票方式很久前
+
+339
+00:20:01,840 --> 00:20:05,900
+meaning you've fought very clearly over your decision,
+把投票时的时间好好??
+
+340
+00:20:06,180 --> 00:20:09,200
+then you bring justice, truth, you bring justice
+??
+
+341
+00:20:09,200 --> 00:20:11,480
+and truth and righteousness into the world.
+??
+
+342
+00:20:12,480 --> 00:20:14,220
+Okay? Does that make sense?
+??
+
+343
+00:20:16,240 --> 00:20:18,820
+And that's why I say Isulis is a prophet of democracy.
+343. 于是我说：又是个回到回到…
+
+344
+00:20:19,160 --> 00:20:21,160
+Because through this play, he is telling the truth.
+343?…??…??……???
+
+345
+00:20:21,160 --> 00:20:23,480
+Okay. He's telling the Athenian people where democracy comes from,
+...
+
+346
+00:20:24,000 --> 00:20:25,760
+what's important, and
+重要的是……
+
+347
+00:20:25,760 --> 00:20:29,520
+what they can do to ensure democracy stays in Athens.
+他们可以做的事以确保民主在雅典保持……
+
+348
+00:20:30,300 --> 00:20:33,380
+Okay? Any questions so far about this?
+好的？到目前为止…
+
+349
+00:20:34,740 --> 00:20:37,780
+Alright? Okay.
+好的？
+
+350
+00:20:37,780 --> 00:20:39,020
+Let's move on to Sophocles.
+让我们继续看索福克勒斯。
+
+351
+00:20:39,220 --> 00:20:43,580
+Okay? So, Sophocles wrote many plays.
+好的？所以，索福克勒斯写了很多剧本。
+
+352
+00:20:43,760 --> 00:20:46,340
+His most famous is the Oedipus Trilogy.
+他的最著名的就是《奥德皮斯三部曲》。”
+
+353
+00:20:46,440 --> 00:20:50,420
+Okay? Oedipus Trilogy. Now,
+“可是………??”
+
+354
+00:20:50,420 --> 00:20:55,100
+you may have heard of the Oedipus Trilogy, but I will summarize the story for you.
+“可……??”
+
+355
+00:20:55,160 --> 00:20:57,020
+Okay? So, what happened is,
+好的？所以，什么事情发生了？
+
+356
+00:20:57,240 --> 00:20:59,600
+in the city of Thebes,
+在城里...
+
+357
+00:20:59,780 --> 00:21:03,120
+a king and
+在...
+
+358
+00:21:03,120 --> 00:21:05,020
+his wife, they have a young son.
+他的妻子有个小儿子。
+
+359
+00:21:05,320 --> 00:21:09,120
+And as is the custom at that time, they go see a fortune teller.
+]}We need to translate cues 358-360. Provide translations array with 3 strings. Use Chinese. Ensure line breaks natural. Let's craft translations. 358:
+
+360
+00:21:09,580 --> 00:21:11,240
+And the fortune teller tells them,
+? Actually cue:
+
+361
+00:21:11,440 --> 00:21:16,240
+your son is going to kill you, the father, and marry the mother.
+...
+
+362
+00:21:16,980 --> 00:21:18,600
+And the king freaks out.
+...??
+
+363
+00:21:18,620 --> 00:21:21,160
+And he's like, I don't want that. So, he tells,
+]}We need to translate cues 362-363. Provide array of two translations. Let's craft Chinese. 362:
+
+364
+00:21:21,420 --> 00:21:25,220
+he orders his soldier to go out and kill the baby.
+他的妻子有个小儿子。
+
+365
+00:21:25,720 --> 00:21:29,260
+Okay? And the soldier takes the baby, and again, it's just a baby.
+他去看占卜师。
+
+366
+00:21:29,480 --> 00:21:31,800
+Like, you know, maybe a few days, a few weeks old.
+像，知道，几天几周后，才有…
+
+367
+00:21:32,060 --> 00:21:35,640
+He goes out in the woods. He goes out in the woods, and he's supposed to kill the baby.
+他在树林里去…
+
+368
+00:21:35,940 --> 00:21:37,680
+But he's a soldier. And
+但他是个士兵。
+
+369
+00:21:37,680 --> 00:21:42,020
+he feels it would be dishonorable to kill a baby.
+他觉得把小孩儿杀了会很尴尬。
+
+370
+00:21:42,500 --> 00:21:46,220
+So, what he does is, he just leaves the baby in the woods, and runs away.
+所以，他把小孩儿放在树林里，然后跑了去。
+
+371
+00:21:46,240 --> 00:21:48,520
+Thinking, maybe the wolves will come and eat the baby.
+所以，回到…
+
+372
+00:21:48,640 --> 00:21:50,140
+Okay? Instead,
+好的？而已
+
+373
+00:21:50,140 --> 00:21:54,800
+a shepherd from another city comes and finds the baby.
+好的， 只要…
+
+374
+00:21:55,580 --> 00:21:57,640
+And he takes care of the baby.
+他照顾着小孩儿。
+
+375
+00:21:57,720 --> 00:22:00,980
+Okay? He goes home. In the city, the king
+他回到城里。 在城里，王子…
+
+376
+00:22:00,980 --> 00:22:03,320
+and the queen have no child.
+和皇后无子。
+
+377
+00:22:03,580 --> 00:22:04,820
+They have no son. They have no heir.
+他们有个儿子，才有…
+
+378
+00:22:04,980 --> 00:22:10,820
+Okay? So, the shepherd presents the baby to the king.
+他…
+
+379
+00:22:10,940 --> 00:22:13,620
+And the king names him Oedipus.
+王把他命名为俄德修斯。
+
+380
+00:22:14,040 --> 00:22:16,220
+And Oedipus grows up to be a very beautiful baby.
+俄德修斯长大后，变成了一个很好的宝宝。
+
+381
+00:22:16,240 --> 00:22:19,800
+A very strong, very noble, very handsome young man.
+一个强壮、又大地…
+
+382
+00:22:20,420 --> 00:22:23,820
+When he is of age, he goes and talks to a fortune teller.
+当他到达年龄时，他去找占卜师谈话。
+
+383
+00:22:24,280 --> 00:22:28,840
+And the fortune teller tells him, I am sorry, but you are cursed.
+占卜师给他说：我好像……
+
+384
+00:22:29,320 --> 00:22:32,740
+You are cursed to kill your father and marry your mother.
+先前……
+
+385
+00:22:33,460 --> 00:22:36,000
+So, Oedipus freaks out and says, I don't want to do that.
+所以，俄德修斯惊呆了，接着说：…
+
+386
+00:22:36,200 --> 00:22:38,840
+I don't want to kill my parents who love me.
+我方……
+
+387
+00:22:39,180 --> 00:22:40,980
+So, he runs away from his city.
+…
+
+388
+00:22:41,180 --> 00:22:43,280
+Okay? And he's going to Thebes.
+...
+
+389
+00:22:43,280 --> 00:22:45,200
+And on the way to Thebes,
+...
+
+390
+00:22:45,520 --> 00:22:49,560
+he gets into an argument with an old man
+...
+
+391
+00:22:49,560 --> 00:22:51,580
+and his friends. And he kills all of them.
+和他的朋友们一起。他把他们全部杀了。
+
+392
+00:22:51,680 --> 00:22:56,280
+Okay? And this old man happens to be his real father, the king of Thebes.
+好的？这位老人恰好是他的亲生父亲，底比斯的国王。
+
+393
+00:22:57,780 --> 00:23:00,440
+He goes into Thebes and everyone is crying.
+他去到底比斯，大家都在哭。
+
+394
+00:23:01,620 --> 00:23:04,240
+And Oedipus asks what the problem is.
+奥德修斯问问题是什么。
+
+395
+00:23:05,080 --> 00:23:08,900
+And the citizens there tell him, well, our king is dead.
+城里的人告诉他，咱们的王已去世。
+
+396
+00:23:09,000 --> 00:23:10,940
+And also, there's a Sphinx.
+还有一只神秘的猫头鹰。
+
+397
+00:23:13,280 --> 00:23:15,780
+An evil demon who is haunting us.
+一个正在咬咬的鬼魂
+
+398
+00:23:16,000 --> 00:23:17,900
+Okay? So,
+好的，咱们
+
+399
+00:23:17,940 --> 00:23:22,020
+Oedipus volunteers to challenge the Sphinx to a duel.
+咱们的奥德尔波斯
+
+400
+00:23:22,400 --> 00:23:26,380
+And the Sphinx asks Oedipus a riddle.
+塞尔菲斯向奥德修斯提问谜语。
+
+401
+00:23:26,560 --> 00:23:29,880
+If Oedipus can get it right, the Sphinx will go away.
+如果塞尔菲斯能回答正确，便可归还。
+
+402
+00:23:30,180 --> 00:23:33,700
+But if Oedipus gets it wrong, then the Sphinx will eat Oedipus.
+若塞尔菲斯答得不准，便可归还。
+
+403
+00:23:33,740 --> 00:23:35,740
+Okay? And the riddle is,
+好的？然后谜语是，
+
+404
+00:23:36,080 --> 00:23:39,760
+what walks in the morning with four legs,
+四天早晨四脚行走的，
+
+405
+00:23:40,460 --> 00:23:43,260
+what walks in the afternoon with three legs,
+下午三脚行走的
+
+406
+00:23:43,260 --> 00:23:47,020
+and then what walks in the evening with three legs?
+和...后...??
+
+407
+00:23:47,400 --> 00:23:50,160
+And the answer is? Yeah, man.
+...???
+
+408
+00:23:50,320 --> 00:23:53,500
+Okay? So it's a very famous riddle. Oedipus gets it right, and
+...??
+
+409
+00:23:53,500 --> 00:23:55,880
+the Sphinx loses and he flies away.
+斯芬克斯输了，他飞走了。
+
+410
+00:23:56,040 --> 00:23:59,000
+Okay? The people of Thebes are so thankful,
+好的？底比斯人很感激，
+
+411
+00:23:59,320 --> 00:24:01,660
+they make him king of Thebes.
+他们把他当作底比斯之王。
+
+412
+00:24:02,180 --> 00:24:05,060
+If you're king of Thebes, you marry the queen of Thebes.
+如果你是底比斯王，你就会嫁给底比斯的女王。
+
+413
+00:24:05,180 --> 00:24:09,300
+Okay? So he's done this. He's married his mother
+好的，...??
+
+414
+00:24:09,300 --> 00:24:10,580
+and killed his father. Okay?
+好的，...??
+
+415
+00:24:11,360 --> 00:24:12,580
+Twenty years later,
+...
+
+416
+00:24:13,580 --> 00:24:16,080
+there's a plague in Thebes.
+416. 有一场大火在底下。这句句...??
+
+417
+00:24:16,940 --> 00:24:19,540
+And Oedipus, now the king, knows
+417. ???????????????????
+
+418
+00:24:19,540 --> 00:24:24,220
+that somehow he's angered the gods.
+那时他把自己打成了...
+
+419
+00:24:24,780 --> 00:24:26,680
+So he talks to a fortune teller.
+那时...
+
+420
+00:24:26,720 --> 00:24:30,240
+The fortune teller tells him, well, the gods are angry at you
+福尔特尔说：...??
+
+421
+00:24:30,240 --> 00:24:32,640
+because you've killed your father and
+??
+
+422
+00:24:32,640 --> 00:24:35,900
+you've married your mother, and you've had children of your mother.
+你已婚嫁母亲，且已婚嫁母亲…
+
+423
+00:24:36,060 --> 00:24:39,160
+Okay? So all your children are products of incest.
+...
+
+424
+00:24:39,740 --> 00:24:41,440
+So the gods are angry at you.
+...
+
+425
+00:24:41,980 --> 00:24:45,040
+So what Oedipus does, is he blinds himself,
+...
+
+426
+00:24:46,300 --> 00:24:48,400
+and he exiles himself, okay?
+和他自己去外迁，嗯？
+
+427
+00:24:48,500 --> 00:24:49,840
+To die somewhere else.
+到去外去…
+
+428
+00:24:49,960 --> 00:24:53,800
+Okay? Now the problem now is, who inherits the throne?
+OK? 现在……
+
+429
+00:24:54,060 --> 00:24:56,860
+So his eldest son is supposed to inherit the throne,
+??……
+
+430
+00:24:57,080 --> 00:24:59,540
+but he has another son, named Polyneices.
+但他还有另一个儿子，名叫波利尼克斯。
+
+431
+00:25:01,600 --> 00:25:06,000
+Polyneices. Who rebels, and he fights for the throne.
+波利尼克斯。 他起了叛变，才会去争夺王位。
+
+432
+00:25:06,360 --> 00:25:09,340
+The two brothers kill themselves in battle.
+两兄弟在战斗中相互相杀。
+
+433
+00:25:09,660 --> 00:25:13,720
+Okay? They kill themselves, fight each other, and now Creon,
+好的？他们互相杀死，随后克里翁…
+
+434
+00:25:14,440 --> 00:25:16,560
+who is um,
+好的，克里翁…
+
+435
+00:25:18,700 --> 00:25:22,900
+the brother to the dead queen, the queen has killed herself, okay?
+好的，克里翻译…
+
+436
+00:25:23,740 --> 00:25:25,180
+He now inherits the throne.
+他现在继承王位。
+
+437
+00:25:25,520 --> 00:25:28,880
+Okay? And the first thing he does, is announce
+好的，先前先后…
+
+438
+00:25:28,880 --> 00:25:32,600
+that the dead king will be given a state funeral.
+他给了…
+
+439
+00:25:32,860 --> 00:25:34,300
+Okay? We will honor him.
+好的？我们会给他打点儿…
+
+440
+00:25:34,480 --> 00:25:38,040
+But Polyneices, who rebelled against the king,
+好吧！…????????????????????????????????????????????????????????…
+
+441
+00:25:38,260 --> 00:25:41,020
+and who caused all this suffering and
+]}{
+
+442
+00:25:41,020 --> 00:25:44,380
+misery in the world, he will not be given a funeral.
+???
+
+443
+00:25:44,580 --> 00:25:46,020
+He will not be buried.
+?????????????????????”
+
+444
+00:25:46,180 --> 00:25:49,640
+And the reason why is, Greeks believe that
+???..??..??..??..???…..……..
+
+445
+00:25:49,640 --> 00:25:54,240
+only by burying the dead, can they find peace in the afterworld.
+...
+
+446
+00:25:54,400 --> 00:25:56,680
+Okay? So it's a very serious thing not to bury the dead.
+好的？于是就有了……………………………………………………
+
+447
+00:25:58,540 --> 00:26:03,120
+Antigone, who is the daughter of Oedipus,
+?
+
+448
+00:26:03,640 --> 00:26:06,240
+and the sister of Polyneices,
+和多利亚的姐姐，
+
+449
+00:26:07,140 --> 00:26:10,060
+she finds out about this, and she thinks this is unjust.
+她发现这件事后，先后又回到…
+
+450
+00:26:10,060 --> 00:26:12,940
+Polyneices has done a lot of bad things,
+多尼亚斯做了很多好事，
+
+451
+00:26:13,100 --> 00:26:15,760
+but no one deserves this.
+多尼亚】
+
+452
+00:26:15,940 --> 00:26:19,840
+Okay? So she secretly buries Polyneices.
+好的？于是她悄悄把多尼亚埋起来。
+
+453
+00:26:20,820 --> 00:26:25,320
+Creon finds out, and demands Antigone to be arrested.
+克里奥尼发现了，给了个回到…
+
+454
+00:26:25,800 --> 00:26:30,500
+And Creon says to her, how dare you defy my laws?
+安可里奥说：我方才方方方…
+
+455
+00:26:30,720 --> 00:26:34,460
+How dare you disrespect my orders?
+...
+
+456
+00:26:35,080 --> 00:26:38,360
+And Antigone says to him,
+安可里奥说，你们的法则已是…
+
+457
+00:26:38,360 --> 00:26:41,100
+your laws are unjust.
+安可…
+
+458
+00:26:41,580 --> 00:26:42,780
+And Creon says,
+安可里奥说：法律就是法律。
+
+459
+00:26:44,140 --> 00:26:45,880
+the laws are the laws.
+安可里奥说：法律是个好。”
+
+460
+00:26:46,140 --> 00:26:48,140
+Without laws, there would be complete chaos.
+没有法律，世界就会完全混乱。
+
+461
+00:26:48,700 --> 00:26:50,420
+And Antigone responds by saying,
+安格里奥回应：
+
+462
+00:26:50,660 --> 00:26:55,360
+human laws must conform to justice.
+人类的法律必须配合正义。
+
+463
+00:26:56,220 --> 00:26:59,400
+There are these laws in the universe that are divine,
+宇宙中有这些神圣的法则，未写成书，且不变的。
+
+464
+00:26:59,740 --> 00:27:01,360
+unwritten, and immutable.
+还有…
+
+465
+00:27:01,560 --> 00:27:03,160
+And we must respect these laws.
+我们要点…
+
+466
+00:27:03,860 --> 00:27:08,300
+Human laws cannot override these laws of justice.
+人类的法则可不再写成…
+
+467
+00:27:08,360 --> 00:27:10,680
+And this makes Creon very angry.
+先前……
+
+468
+00:27:10,880 --> 00:27:15,420
+And so he sentences her to death for disobeying him.
+先前……
+
+469
+00:27:16,060 --> 00:27:17,660
+The problem is,
+问题是，
+
+470
+00:27:17,900 --> 00:27:21,900
+Antigone is the fiance of Haman,
+安提戈涅是哈曼的未婚夫，
+
+471
+00:27:22,100 --> 00:27:23,480
+who is Creon's son.
+他是克里昂的儿子
+
+472
+00:27:23,680 --> 00:27:25,940
+So Haman, the prince, comes and
+请问...??
+
+473
+00:27:25,940 --> 00:27:28,940
+begs his father to relent.
+]}We need to translate cues 472-474. Provide translationsarray with 3 items. Use Chinese terms. Let's craft. 472:
+
+474
+00:27:29,620 --> 00:27:33,480
+And Haman says,
+]} seems placeholder. We need translation. 472:
+
+475
+00:27:34,360 --> 00:27:36,860
+can you please forgive Antigone?
+...
+
+476
+00:27:37,880 --> 00:27:40,840
+And Creon thinks his son has betrayed him.
+...
+
+477
+00:27:41,820 --> 00:27:44,840
+Your love for Antigone has blinded you
+...
+
+478
+00:27:45,480 --> 00:27:48,680
+from seeing the truth, from doing what is right.
+...
+
+479
+00:27:49,600 --> 00:27:52,600
+And Haman responds and says, father,
+...
+
+480
+00:27:52,720 --> 00:27:55,120
+I'm not doing this for Antigone, I'm doing this for you.
+我正在为你而做这件事，才是最好的。”? … ?? ?? … ?? ??… ?? ?? ?? … ?? ?? ? … ?? ?? … … {
+
+481
+00:27:55,280 --> 00:27:56,640
+And the reason why is,
+]}We need to translate cues 480 and 481. Provide JSON array translations. Let's translate: 480:
+
+482
+00:27:56,900 --> 00:28:01,080
+the people of Thebes fully support Antigone.
+特布斯的人们全都支持安提戈尼
+
+483
+00:28:01,340 --> 00:28:03,200
+They think she is a hero.
+特布斯的那一列人们…
+
+484
+00:28:03,820 --> 00:28:08,100
+They think she is just and right to want to bury her brother.
+特布斯的人们全都支持安提尔格尼
+
+485
+00:28:08,240 --> 00:28:11,400
+They think you are a tyrant, father.
+他们以此为好。”…??…??………??……??………”
+
+486
+00:28:11,980 --> 00:28:13,200
+And Creon says,
+486. 约克里奥斯说：
+
+487
+00:28:14,580 --> 00:28:16,820
+should I obey the mob?
+486. 约克里外?
+
+488
+00:28:17,420 --> 00:28:18,980
+Should I, the king,
+我，王之…
+
+489
+00:28:19,740 --> 00:28:21,180
+listen to the mob?
+我…
+
+490
+00:28:22,100 --> 00:28:26,840
+And then Haman says, no, you should listen to what is right and just.
+And then Haman says, no, you should listen to what is right and just.
+
+491
+00:28:27,860 --> 00:28:30,840
+Creon gets very angry and kicks Haman out.
+Creon 先后又回到...
+
+492
+00:28:31,800 --> 00:28:35,180
+But then Creon has a change of heart,
+...
+
+493
+00:28:35,180 --> 00:28:37,660
+and he doesn't know if he has done the right thing.
+他不知道自己是否做对了事。
+
+494
+00:28:37,780 --> 00:28:39,100
+So he talks to a fortune teller.
+他在与占卜师交谈。
+
+495
+00:28:39,440 --> 00:28:40,960
+And the fortune teller tells him,
+And the ... ...
+
+496
+00:28:42,780 --> 00:28:45,080
+Antigone is right in this situation.
+...
+
+497
+00:28:45,700 --> 00:28:50,340
+You have to save her. If you don't save her, if she dies, the gods will be very angry at you.
+你需要把它们放在...
+
+498
+00:28:50,460 --> 00:28:52,340
+And that scares Creon.
+...
+
+499
+00:28:52,720 --> 00:28:56,340
+So Creon and his guards, they look for Antigone.
+所以，克里昂和他的卫兵去寻找安提戈尼。
+
+500
+00:28:57,120 --> 00:28:59,800
+But when they find Antigone, she is in a cave and she is dead.
+但当时，安特里奥尔...
+
+501
+00:28:59,940 --> 00:29:02,060
+She has killed herself. Because she doesn't want to be executed.
+她已把自己杀了。因为...
+
+502
+00:29:03,620 --> 00:29:06,720
+And weeping over the bones, the body of Antigone is Haman.
+...
+
+503
+00:29:06,940 --> 00:29:10,500
+He is crying. He is so depressed and sad.
+他在哭，...
+
+504
+00:29:10,820 --> 00:29:14,600
+And Creon sees his son crying.
+...
+
+505
+00:29:14,920 --> 00:29:19,560
+And he tries to put his hand on him
+他把手放在他身上，去给他一声...??
+
+506
+00:29:19,560 --> 00:29:22,240
+and console him. The moment
+????..??
+
+507
+00:29:22,240 --> 00:29:25,340
+that Haman sees his father,
+????..??
+
+508
+00:29:25,600 --> 00:29:29,880
+he becomes so angry, he lunges at him with his sword.
+他在...??
+
+509
+00:29:30,500 --> 00:29:32,000
+But he misses.
+???
+
+510
+00:29:32,580 --> 00:29:35,140
+And when he finds out he has failed to kill his father,
+??
+
+511
+00:29:35,160 --> 00:29:38,920
+in his anger and in his grief, he kills himself.
+在他愤怒与悲痛中，他自杀。
+
+512
+00:29:39,440 --> 00:29:43,600
+So both Antigone and Haman are now dead.
+两位阿提戈与哈曼都已去世。
+
+513
+00:29:43,860 --> 00:29:47,160
+And when Haman's mother finds out about this,
+当哈曼的母亲得知此事时，
+
+514
+00:29:47,280 --> 00:29:49,200
+she kills herself too.
+她也自杀了。
+
+515
+00:29:49,500 --> 00:29:53,660
+And now Creon is alone in the world.
+现在，克里奥恩在世界上独自一人。
+
+516
+00:29:54,800 --> 00:29:56,340
+Does that make sense?
+这是否能给我方块？
+
+517
+00:29:57,600 --> 00:29:59,440
+So does this story make sense to you?
+所以这故事对你来说有意义吗？
+
+518
+00:29:59,920 --> 00:30:01,640
+Now what does this story mean?
+现在这故事的意思是什么？
+
+519
+00:30:02,020 --> 00:30:04,440
+Well, remember, Athens is a democracy.
+好，记得阿尔泰斯是个百花百花？
+
+520
+00:30:05,320 --> 00:30:09,400
+And so this is a message that's very much anti -king, right?
+于是这是一条非常反王的消息，对吧？
+
+521
+00:30:09,500 --> 00:30:11,640
+Like, let's not have a king, because kings do stupid things.
+让我们来个别的！
+
+522
+00:30:11,960 --> 00:30:14,860
+And why do kings do stupid things? Because of hubris.
+...
+
+523
+00:30:18,320 --> 00:30:21,160
+The problem with kings,
+王位的问题，
+
+524
+00:30:21,260 --> 00:30:25,400
+with monarchy, with power is people develop hubris,
+王位、君主制、权力的出现让人们产生自大狂，
+
+525
+00:30:25,440 --> 00:30:28,120
+arrogance, right? Violent, excessive arrogance.
+王位、君主制、王位的出现
+
+526
+00:30:28,420 --> 00:30:30,480
+And that makes them do stupid things.
+于是这让他们做了些愚蠢的事。
+
+527
+00:30:30,780 --> 00:30:34,000
+Like, listen, like, refuse to listen,
+听着，像是说：我来回到！
+
+528
+00:30:34,440 --> 00:30:37,060
+to what is right and good and just.
+...
+
+529
+00:30:37,240 --> 00:30:40,260
+That's why kingship is a bad thing.
+...
+
+530
+00:30:40,420 --> 00:30:43,440
+That's why we Athenians have democracy and not a king.
+那就是我们雅典人有民主而不是国王的原因。
+
+531
+00:30:43,960 --> 00:30:45,440
+So that's the first message.
+那就好啦！
+
+532
+00:30:45,680 --> 00:30:47,580
+The second message is basically,
+第二条信息基本是，
+
+533
+00:30:49,160 --> 00:30:52,240
+the world works when
+世界在运作时
+
+534
+00:30:52,240 --> 00:30:56,080
+the old give way to the young.
+旧人让位给年轻人。
+
+535
+00:30:57,000 --> 00:31:00,340
+The old must always listen to the young.
+旧人总是要听从年轻人。
+
+536
+00:31:01,580 --> 00:31:04,300
+So remember that in the Oresteia,
+译文1
+
+537
+00:31:04,440 --> 00:31:07,140
+the play ends with the Furies, the old gods,
+译后
+
+538
+00:31:07,340 --> 00:31:11,020
+giving way to the new gods, who bring justice into the world, okay?
+给了新神的让位，带来正义的...
+
+539
+00:31:13,000 --> 00:31:16,960
+The Oedipus trilogy ends in tragedy
+...
+
+540
+00:31:16,960 --> 00:31:22,220
+because the old king refuses to give way to young people.
+因为古老的王国里有点…………………………………………………………………………………
+
+541
+00:31:23,340 --> 00:31:24,820
+So the other message is,
+翻译后
+
+542
+00:31:25,900 --> 00:31:28,740
+society works, there is truth and
+...
+
+543
+00:31:28,740 --> 00:31:32,600
+justice in the world when the old give way to the young.
+在此时...
+
+544
+00:31:33,100 --> 00:31:36,760
+Right? So those are the two main messages of this play.
+好的，...
+
+545
+00:31:37,580 --> 00:31:40,620
+Any questions so far? Before I move on.
+…
+
+546
+00:31:45,640 --> 00:31:48,020
+Oh, that's a great question.
+哦，那是个很好的问题。
+
+547
+00:31:48,140 --> 00:31:49,440
+Why do people trust the fortune tellers?
+为什么人们会给我方位？
+
+548
+00:31:49,500 --> 00:31:51,420
+Because remember, everyone's religious.
+因为记得，大家都很宗教。
+
+549
+00:31:52,380 --> 00:31:55,360
+So the fortune tellers speak on behalf of the gods.
+因为记得…
+
+550
+00:31:56,420 --> 00:32:00,020
+Okay? They're called seers or prophets.
+好的？他们被称为先知或预言家。
+
+551
+00:32:04,000 --> 00:32:08,540
+Or, uh, divinity need whores, okay?
+或者，嗯，先前…
+
+552
+00:32:08,660 --> 00:32:11,760
+So their job, what makes them special is,
+所以他们的工作，正是他们能解读神的旨意。
+
+553
+00:32:11,900 --> 00:32:14,540
+they're able to interpret the will of the gods.
+好的，先前…
+
+554
+00:32:14,940 --> 00:32:16,360
+And that's why the kings listen to them.
+因为…
+
+555
+00:32:16,760 --> 00:32:20,440
+Okay? And remember, this is, for most of human history,
+?
+
+556
+00:32:21,220 --> 00:32:24,140
+humans were extremely religious people, including the Greeks.
+人类是极其宗教的人，包含希腊人。
+
+557
+00:32:24,200 --> 00:32:27,080
+The Greeks were especially, incredibly religious.
+希腊人更是极其宗教的。”
+
+558
+00:32:27,580 --> 00:32:29,920
+Okay? Does that make sense?
+好的？这样说通吗？
+
+559
+00:32:31,040 --> 00:32:33,600
+All right. Okay.
+好的，好的。
+
+560
+00:32:33,700 --> 00:32:36,020
+Any more questions before I move on?
+还有什么问题吗，我先说完。
+
+561
+00:32:36,480 --> 00:32:39,320
+All right. Let's talk about, um, Euboides, okay?
+好的。我们来聊聊，嗯，尤布奥德斯，好吗？
+
+562
+00:32:39,480 --> 00:32:43,180
+And Euboides, was,
+而且尤布奥德斯是…
+
+563
+00:32:43,960 --> 00:32:45,620
+he's the youngest of these three.
+他是这三位中的最小的。
+
+564
+00:32:46,160 --> 00:32:48,600
+And he's the least, he was the least prized,
+他是最小的，他最小的那一位，
+
+565
+00:32:49,480 --> 00:32:50,800
+or the least respected,
+他在阿尔泰斯里最小的那一块，
+
+566
+00:32:51,740 --> 00:32:53,840
+in Athens, when he was alive.
+...
+
+567
+00:32:54,120 --> 00:32:56,460
+Okay? And the reason why is,
+好的？原因在于此，
+
+568
+00:32:58,440 --> 00:33:02,440
+as you can see, there were Scylla and Oedipus, Rex, um,
+如你所见，...
+
+569
+00:33:03,300 --> 00:33:06,480
+trilogy, they celebrate Athenian democracy.
+...
+
+570
+00:33:07,480 --> 00:33:10,380
+But Euboides, he criticized Athenian democracy.
+但欧布伊德斯批评了雅典民主。
+
+571
+00:33:11,180 --> 00:33:14,940
+All right? So the example is, in 415 BCE,
+好的，例子是从 415 年 里。
+
+572
+00:33:15,340 --> 00:33:17,500
+and this is the height of the Peloponnesian War, okay?
+...
+
+573
+00:33:18,180 --> 00:33:20,220
+He put on a play called, Children, Woman.
+他演出一出名为《孩子，女人》之剧。
+
+574
+00:33:23,480 --> 00:33:27,840
+And, this play is about the aftermath, of the Trojan War.
+这出剧的内容是关于特洛伊战争后续的情节。
+
+575
+00:33:28,160 --> 00:33:31,760
+So at the end of the Trojan War, all the Trojan men are killed.
+在特洛伊战争结束后，所有特洛伊人男士们回到…
+
+576
+00:33:31,800 --> 00:33:34,160
+And, the custom is to enslave,
+并且习惯把特洛伊的女人奴隶化。
+
+577
+00:33:34,660 --> 00:33:37,280
+the Trojan, uh, woman.
+她的名字叫作胡塞巴。
+
+578
+00:33:37,600 --> 00:33:40,540
+Okay? So, one character is Hecuba.
+Okay? So, one character is Hecuba.
+
+579
+00:33:41,100 --> 00:33:44,260
+And Hecuba is the queen, of Troy.
+翻译1
+
+580
+00:33:44,720 --> 00:33:48,400
+And Priam, um, her husband, he's been killed.
+翻译2
+
+581
+00:33:48,520 --> 00:33:53,200
+Okay? Hecuba, is a tragic figure, because,
+翻翻译??
+
+582
+00:33:54,020 --> 00:33:56,720
+um, she's seen all her sons die.
+嗯，她看见自己的儿子们相继去世。
+
+583
+00:33:57,020 --> 00:33:58,420
+And then one of her daughters,
+然后她的一个女儿，
+
+584
+00:33:58,780 --> 00:34:01,920
+has been sacrificed, killed, by the Trojan War.
+被牺祭献给了特洛伊战争。
+
+585
+00:34:01,920 --> 00:34:04,880
+Uh, for Achilles. Achilles died in, in the war.
+翻译1
+
+586
+00:34:05,280 --> 00:34:06,580
+And, Achilles is dead.
+翻译2
+
+587
+00:34:06,760 --> 00:34:09,600
+So they sacrificed, a young girl, who's a princess of Troy,
+翻译3
+
+588
+00:34:10,160 --> 00:34:14,520
+Hecuba's daughter, in order to accompany him, in the afterworld.
+Hecuba?
+
+589
+00:34:15,220 --> 00:34:16,820
+So either, uh,
+所以，呃，
+
+590
+00:34:17,320 --> 00:34:21,540
+so all her daughters, have either been killed, by the Greeks, or they've been enslaved.
+如此…
+
+591
+00:34:21,900 --> 00:34:24,940
+Okay? And, been forced to be the mistress, or the concubine,
+好的？然后你有阿多玛赫。
+
+592
+00:34:25,880 --> 00:34:28,660
+of the Greek, uh, heroes, like Odysseus.
+好的，...??
+
+593
+00:34:28,880 --> 00:34:31,640
+Okay? Then you have, Andromache.
+好的？然后你有安德罗玛赫。
+
+594
+00:34:32,260 --> 00:34:33,920
+Andromache, um,
+好的，...??
+
+595
+00:34:35,560 --> 00:34:39,180
+is the wife of Hector, the prince of Troy, who died,
+赫特的妻子，特鲁士的王子，已归于阿基里斯手中。
+
+596
+00:34:39,600 --> 00:34:41,220
+at the hands of Achilles. Okay?
+赫特的妻子...
+
+597
+00:34:41,440 --> 00:34:44,160
+So, she saw the death, of her husband.
+好的，...??
+
+598
+00:34:44,680 --> 00:34:46,160
+And she has a young baby.
+好的，...??
+
+599
+00:34:46,260 --> 00:34:49,240
+Okay? And he, and this young baby, is only, a few months old.
+OK? 这位...??
+
+600
+00:34:50,020 --> 00:34:53,320
+But, he's a boy. And the law, at that time, is,
+?
+
+601
+00:34:54,020 --> 00:34:58,480
+all boys, must be killed, because the Greeks fear, if he goes up,
+所有男孩都要被杀掉，因为希腊人怕他上去，
+
+602
+00:34:59,340 --> 00:35:01,720
+and he's a, and he's the son of Hector, right?
+and he's a, and he's the son of Hector, right?
+
+603
+00:35:02,060 --> 00:35:03,400
+He might want revenge. Okay?
+他可能想报仇。好吗？
+
+604
+00:35:03,840 --> 00:35:06,260
+So, Andromache, must witness,
+好吧，安德罗马赫...??
+
+605
+00:35:06,750 --> 00:35:09,760
+the Greeks killing, um,
+??
+
+606
+00:35:10,660 --> 00:35:13,500
+her son. Who's only, again, only a few months old.
+她的儿子。又一次又一次只要几个月的那一位。
+
+607
+00:35:14,120 --> 00:35:18,160
+And then, and then, Hecuba is dragged away, to be a slave.
+又一段落后，希尔卡拉里…??】}We need to translate cues 606-608. Provide Chinese subtitles. Let's parse each cue. 606:
+
+608
+00:35:18,320 --> 00:35:22,540
+To be basically, a mistress, a lover, of a Greek general, Odysseus.
+. Wait actual cue: [606] her son. Who's only, again, ...? Let's read: [606] her son. Who's only, again, only a few months old. So translation:
+
+609
+00:35:23,520 --> 00:35:28,300
+And so, Hecuba, must portionally, bury, the dead,
+...
+
+610
+00:35:28,920 --> 00:35:31,680
+child. Okay? And, and so, it is,
+...
+
+611
+00:35:31,700 --> 00:35:33,780
+a play that made everyone, in Athens,
+...
+
+612
+00:35:34,420 --> 00:35:38,620
+weep. What makes this play powerful, is that, the year before,
+??
+
+613
+00:35:39,440 --> 00:35:43,660
+416 BCE, and this is again, during the height, of the Pelagian War,
+416年 百 里 古 里 古 百 里………………………………………………………………??…????????…??……………………?…??…………?????…??……??…………………………………………………??? ……………………??? ………?………………………
+
+614
+00:35:44,840 --> 00:35:46,440
+Athens was attacking, everyone.
+??
+
+615
+00:35:46,760 --> 00:35:49,880
+Okay? Including, Melos. An island, called Melos.
+好的？包括马洛斯。一个叫做马洛斯的岛屿
+
+616
+00:35:50,020 --> 00:35:54,780
+And when they, attacked Melos, they killed all the men, and enslaved all the women.
+好的，回到…
+
+617
+00:35:55,660 --> 00:36:00,120
+So, in many ways, children, the children, women, is a direct response,
+??
+
+618
+00:36:00,520 --> 00:36:02,440
+to, what happened in Melos.
+??
+
+619
+00:36:02,600 --> 00:36:06,820
+Okay? Euripides is telling the Athenian people, do you see how terrible we are?
+好的？欧里庞斯告诉亚历山大人们，...
+
+620
+00:36:07,060 --> 00:36:08,500
+We are a terrible people.
+好的！
+
+621
+00:36:08,660 --> 00:36:11,720
+Do you see, all the hurt, and suffering,
+你们看到了吗？我们在帝国之下，带来的一切…
+
+622
+00:36:11,820 --> 00:36:14,980
+we've brought onto the world, because of our empire?
+...
+
+623
+00:36:15,660 --> 00:36:18,640
+Okay? Now, obviously,
+好的？现在，显然，
+
+624
+00:36:19,000 --> 00:36:21,300
+the Athenian people didn't like this, play.
+亚历士的那句…
+
+625
+00:36:21,800 --> 00:36:23,120
+And so he lost,
+并且他在比赛中失去，
+
+626
+00:36:23,760 --> 00:36:25,960
+in the competition, to this obscure,
+…
+
+627
+00:36:27,560 --> 00:36:30,640
+nobody. Okay? And Euripides got really angry, about all this.
+没人。好吧？于是欧里庞得真是发了个大火，关于这事。
+
+628
+00:36:30,880 --> 00:36:32,100
+He was very bitter, about all this.
+他很久很久…
+
+629
+00:36:32,260 --> 00:36:35,380
+So he exiled himself, to Macedonia.
+…
+
+630
+00:36:35,740 --> 00:36:37,720
+Okay? Where he died.
+…
+
+631
+00:36:37,880 --> 00:36:40,040
+Okay? He died, away from Athens.
+]}We need to output JSON with translations array of 3 items corresponding to cues [630], [631], [632]. Provide Chinese translations. Use line breaks if needed. Let's translate: [630]
+
+632
+00:36:40,400 --> 00:36:43,600
+And his last play, he wrote his last play, called the Bacchae,
+? Actually cue [630] is
+
+633
+00:36:45,000 --> 00:36:47,720
+in Macedonia. And after he died,
+在马其达里，随后他去世后，
+
+634
+00:36:47,960 --> 00:36:50,880
+his friends, brought this play, back to Athens.
+他的朋友们把这部戏剧搬回了雅典。
+
+635
+00:36:51,300 --> 00:36:54,020
+And this play, Bacchae, is considered, his masterpiece.
+这部戏剧《巴克哈》被认为是他的杰作。
+
+636
+00:36:54,420 --> 00:36:56,320
+His best play. Okay?
+他的最佳戏剧。好吗？
+
+637
+00:36:56,660 --> 00:37:00,240
+So again, what I will do now, is, I will explain to you,
+于是，我接下来要做的事是，我会向你解释，《巴克哈》剧情与解读。
+
+638
+00:37:00,360 --> 00:37:04,840
+the Bacchae, the plot of the Bacchae, and then I will explain, what the interpretation is.
+《巴克哈》剧情与解译。”
+
+639
+00:37:05,040 --> 00:37:06,540
+Okay? All right.
+好的。
+
+640
+00:37:07,000 --> 00:37:11,620
+So, there's a god, there's a god, named Dionysus.
+有一个神，神………………
+
+641
+00:37:12,820 --> 00:37:14,740
+Another name for Dionysus, is Bacchus.
+…
+
+642
+00:37:14,840 --> 00:37:18,860
+Okay? So the Bacchae, are people who worship, Dionysus.
+好的？所以《巴克哈》是崇拜狄奥尼斯的众人。
+
+643
+00:37:19,860 --> 00:37:22,880
+The god of, theater, of music,
+狄奥尼斯的神职是戏剧、音乐、节庆之类。”】}We need to translate cues642-644. Provide Chinese subtitles. Use terms:
+
+644
+00:37:24,100 --> 00:37:26,900
+of festivals, of wine, of sex.
+etc. Let's craft. 642:
+
+645
+00:37:27,020 --> 00:37:28,260
+Okay? Now,
+好的？现在，
+
+646
+00:37:30,080 --> 00:37:33,280
+Dionysus, the last, legend is, he was born, in Thebes,
+Dion ……………
+
+647
+00:37:36,300 --> 00:37:38,120
+to a, Theban princess.
+...
+
+648
+00:37:38,560 --> 00:37:42,700
+And, his father was, Zeus, the king of the gods.
+...
+
+649
+00:37:42,840 --> 00:37:44,760
+Okay? Zeus likes to go around, and rape women.
+...
+
+650
+00:37:44,920 --> 00:37:47,780
+Okay? And he has many, many children, including Dionysus.
+...
+
+651
+00:37:49,040 --> 00:37:51,980
+But when, the princess of Thebes, announced,
+...
+
+652
+00:37:52,440 --> 00:37:55,300
+that she's been, impregnated by Zeus, no one believed her.
+...
+
+653
+00:37:55,360 --> 00:37:58,380
+Everyone laughed at her. Okay? And,
+...
+
+654
+00:37:59,260 --> 00:38:01,800
+the people of Thebes, refused to believe, refused to worship,
+塞布人们不信他，也不敬拜他。
+
+655
+00:38:02,400 --> 00:38:05,300
+Dionysus. Now, Dionysus, is worshipped,
+现在，德尼奥斯被全世界各地，含印度之中，奉为神。
+
+656
+00:38:05,340 --> 00:38:07,800
+all around the world, including in India, as far away as India.
+all around the world, includingin India, as far away as India.
+
+657
+00:38:08,400 --> 00:38:11,480
+So, Dionysus, has always been bitter, about all this.
+657. 于是，狄奥尼斯已一直在此处发作。
+
+658
+00:38:11,560 --> 00:38:15,720
+Okay? He's bitter about the fact, that his wife, his mother, was insulted,
+658. 先前……??…?????????????????…??…?????…??…??…??…??…??…??…
+
+659
+00:38:16,720 --> 00:38:19,680
+by the Theban people. He's also bitter about the fact, that
+……………………………??………………………………………………………
+
+660
+00:38:19,680 --> 00:38:21,920
+people, Theban people, don't pay homage to him.
+人们， 塞布人们不支付敬礼给他。
+
+661
+00:38:22,020 --> 00:38:23,660
+Okay? So, he plots his revenge.
+好的， 让他去做一场大事！
+
+662
+00:38:24,440 --> 00:38:28,380
+What he does is, he disguises, disguises himself, as a wanderer.
+他人们的那点儿…
+
+663
+00:38:28,440 --> 00:38:31,740
+Okay? He makes the woman,
+好的，先前……………………………………………………
+
+664
+00:38:33,200 --> 00:38:34,520
+of Thebes, insane.
+664. 先前...??…????…??…????…??…??…??…??…??…??…??…??…??…??…??…??…??…??…??…??…??…??…??…??…????…??…???…??…??…??…??…??…??…??…??…???…??…??…??…??…??
+
+665
+00:38:35,340 --> 00:38:37,460
+Okay? He makes, he makes them,
+? ???……………………………………………………………………………?………??………??…?……??…??…………………………………………………………………………………??……………………??……??…………………………………………………………………...
+
+666
+00:38:38,520 --> 00:38:42,720
+worship him. And, what they do is, they run off, to the mountains,
+祭拜他。然后他们跑到山里，去做…
+
+667
+00:38:43,400 --> 00:38:44,940
+where they have sex orgies.
+祭拜他，跑到山里…
+
+668
+00:38:45,100 --> 00:38:48,540
+Okay? They're having like, sex, they're doing all these crazy things,
+好的？他们在做……咱们去…
+
+669
+00:38:49,020 --> 00:38:50,720
+in the worship of Dionysus.
+OK? … … … ... … … … …… ... … … … ... … … ...
+
+670
+00:38:51,460 --> 00:38:53,500
+The king of Thebes, his name is Pentius,
+塞尔维斯王国的王，名字叫佩恩蒂乌斯，...
+
+671
+00:38:55,900 --> 00:38:57,940
+Pentius, he hears about this.
+佩恩蒂乌斯...
+
+672
+00:38:57,980 --> 00:39:01,480
+He hears, he hears about all this chaos. And, he decides, to go to the temple, and he decides, you know what?
+他听到关于这场混乱的消息，他决定去寺庙，随后又决定……你知道吗？
+
+673
+00:39:02,540 --> 00:39:06,740
+I'm going to, get my army, go in the mountains, and kill everyone.
+我正准备去……………………………………………………
+
+674
+00:39:07,020 --> 00:39:09,160
+Okay? Because, the Bacchae,
+好的？因为，百色百色……………………………………………………
+
+675
+00:39:09,580 --> 00:39:12,140
+are too disruptive. They are,
+?
+
+676
+00:39:13,620 --> 00:39:17,820
+amoral. Okay? And, he's about to do this, but then, Dionysus,
+amoral. Okay? And, he's aboutto do this, but then, Dionysus,
+
+677
+00:39:18,480 --> 00:39:19,740
+the wanderer, tells him,
+...
+
+678
+00:39:20,220 --> 00:39:21,500
+hey, I'll make you a deal.
+hey, I'll make you a deal.
+
+679
+00:39:22,080 --> 00:39:25,280
+Don't kill the Bacchae. I want to take you,
+翻译：
+
+680
+00:39:25,320 --> 00:39:28,460
+into the mountains, and together, we can watch them, have sex together.
+进入山里，合并一同观看…
+
+681
+00:39:28,660 --> 00:39:31,060
+Okay? We can, watch their sex, parties.
+OK? 这…?
+
+682
+00:39:31,700 --> 00:39:33,740
+And, Pentius says, okay,
+And, Pentius says, okay,
+
+683
+00:39:34,420 --> 00:39:35,820
+that's interesting. Okay?
+...
+
+684
+00:39:35,940 --> 00:39:37,660
+So, together, the two,
+翻译：
+
+685
+00:39:39,280 --> 00:39:42,180
+go into the mountains, and they hide behind, a rock,
+翻译：
+
+686
+00:39:42,400 --> 00:39:46,320
+as the Bacchae, are about, to worship, Dionysus.
+作为巴克哈的祭司，祭拜狄俄尼索斯。
+
+687
+00:39:47,220 --> 00:39:50,560
+Pentius, is hiding behind the rock, and he can't really see, that clearly.
+佩蒂乌斯躲在岩石后面，正好能看到此时。”
+
+688
+00:39:50,740 --> 00:39:52,200
+Okay? But, he's really excited.
+好的？他很激动。
+
+689
+00:39:52,360 --> 00:39:54,840
+He really wants to see, the Bacchae, in action.
+他很想看见…
+
+690
+00:39:55,280 --> 00:39:56,560
+So, Dionysus says,
+翻译：
+
+691
+00:39:57,080 --> 00:39:59,320
+why don't you climb, that tree,
+?
+
+692
+00:40:00,800 --> 00:40:02,420
+and you'll have a better view, of all the action.
+和你会有更好的视角，去看全局面。
+
+693
+00:40:02,640 --> 00:40:06,080
+Okay? So, Pentius climbs the tree, and he hangs by the branch.
+好的， 让我们来回顾一下。”
+
+694
+00:40:06,200 --> 00:40:10,400
+Okay? And he has a very clear view, of the Bacchae, who are in a circle.
+好的？他有一个清晰的视角，看到Bac …
+
+695
+00:40:11,860 --> 00:40:15,460
+Then, what Dionysus does is, he lowers the branch,
+?
+
+696
+00:40:15,740 --> 00:40:17,000
+so, like, Pentius,
+so…………………
+
+697
+00:40:17,460 --> 00:40:19,420
+is now in a circle, of the woman.
+],
+
+698
+00:40:19,900 --> 00:40:21,940
+And, Dionysus commands the woman,
+? ? ……………………………… ………??? …… ………………………………………… … … ……………………..
+
+699
+00:40:22,160 --> 00:40:25,160
+to kill Pentius, to rip his body apart.
+杀死佩提乌斯，撕开他的身体。
+
+700
+00:40:25,440 --> 00:40:28,400
+Okay? And, when the woman, in that circle,
+好的？然后，女人在那圈里，
+
+701
+00:40:28,580 --> 00:40:31,560
+is actually Pentius' mother, and she's the mother, she's the head of Pentius.
+佩提乌斯的母亲，已是他…
+
+702
+00:40:31,680 --> 00:40:34,280
+Okay? So, Pentius dies in the,
+好的？于是，佩尔蒂乌斯在……
+
+703
+00:40:35,500 --> 00:40:39,420
+mountains. The people of Thebes, are now very anxious.
+山里…
+
+704
+00:40:39,660 --> 00:40:42,740
+The king, has disappeared.
+山里…
+
+705
+00:40:43,200 --> 00:40:44,600
+The woman of Thebes, are in the mountains.
+特布斯的女子在山中。
+
+706
+00:40:45,400 --> 00:40:48,160
+Then, Pentius' mother, comes back,
+随后，佩提乌斯的母亲回来了。
+
+707
+00:40:48,760 --> 00:40:50,660
+and she's running, she's really excited.
+她奔跑着，正兴奋。”
+
+708
+00:40:50,760 --> 00:40:54,860
+Okay? And she's holding, the head, of Pentius.
+好的？她正握着佩尔蒂乌斯的头。
+
+709
+00:40:55,080 --> 00:40:59,280
+And she's shouting to the people of Thebes, look how, wonderful I am.
+她向特布斯人发声喊，咬合我方…
+
+710
+00:40:59,380 --> 00:41:00,780
+Look how, brave, you are.
+...
+
+711
+00:41:00,780 --> 00:41:05,440
+How brave, and courageous, and strong I am, because I'm holding a lion's head.
+我手里拿着一只大头…
+
+712
+00:41:05,680 --> 00:41:08,800
+By my bare hands, with my bare hands, I killed,
+...
+
+713
+00:41:09,080 --> 00:41:12,600
+a lion, and ripped the head off, his body.
+...
+
+714
+00:41:12,800 --> 00:41:16,120
+Here it is. Okay? And it takes a very long time,
+这里是。好吧？它需要很长时间，为了给人们给我…
+
+715
+00:41:16,360 --> 00:41:19,440
+for the people of Thebes, to convince her,
+...
+
+716
+00:41:19,600 --> 00:41:22,240
+that's not a lion's head man, that's your son's head.
+...
+
+717
+00:41:24,600 --> 00:41:27,180
+Okay? So, this is an extremely,
+好的？所以，这是一场极其…
+
+718
+00:41:27,780 --> 00:41:29,700
+weird, play. Okay?
+又……………………
+
+719
+00:41:30,780 --> 00:41:34,520
+It's really weird. And, there are different, interpretations,
+]}
+
+720
+00:41:34,900 --> 00:41:37,340
+of what this means. And I'll tell you, my interpretation.
+]}We need to translate cue [720] English:
+
+721
+00:41:37,900 --> 00:41:39,260
+Alright? So,
+好的，...
+
+722
+00:41:41,120 --> 00:41:43,240
+a, think about this image.
+...
+
+723
+00:41:43,340 --> 00:41:46,620
+Okay? A mother, holds, the son's head,
+好的？一位母亲握着儿子的头，手里握着…
+
+724
+00:41:46,780 --> 00:41:50,320
+in her hand, and she's celebrating, how brave she is.
+好的…
+
+725
+00:41:51,140 --> 00:41:53,880
+Right? Now,
+译文1
+
+726
+00:41:54,040 --> 00:41:56,240
+I think this is a metaphor for,
+...
+
+727
+00:41:57,440 --> 00:41:58,760
+war and empire.
+war and empire.
+
+728
+00:42:01,120 --> 00:42:03,900
+The reason why is, war and empire,
+]}
+
+729
+00:42:04,740 --> 00:42:06,040
+happens, when,
+翻译后...
+
+730
+00:42:06,600 --> 00:42:08,820
+old people, send their children,
+old people, sendtheir children,
+
+731
+00:42:09,460 --> 00:42:13,640
+to die, to fight and die, for, their glory.
+去死吧，去打工…
+
+732
+00:42:14,420 --> 00:42:16,540
+Does that make sense? Right?
+...
+
+733
+00:42:16,640 --> 00:42:19,400
+So, this image, of a mother,
+...
+
+734
+00:42:19,520 --> 00:42:23,180
+holding the son, holding her son's head, and shouting,
+翻译后…
+
+735
+00:42:23,760 --> 00:42:26,040
+to the whole world, look how brave I am.
+to the whole world,look how brave I am.
+
+736
+00:42:26,160 --> 00:42:30,520
+Look how great I am. Okay? It's really a metaphor, or an image, for,
+Look … … … ... … … t … … … 中…… ? ? … … ? … 地 … … .. … i … … i … i…… … i…… i…… i…… i…… i…… ... … ... i … i i t … … t…… .. … t… -… .. … 看… .. .. i….. … … i…… … ge …… .. … … … … … … i…… … i…… i…… i…… i…… i…… … … … i…… … … … English … ? … .. … i… … … … ? … i… … .. ... … t…
+
+737
+00:42:31,660 --> 00:42:34,240
+war and empire. Okay?
+战与帝国。好的？
+
+738
+00:42:34,360 --> 00:42:39,060
+Because remember, the Peloponnesian War, is really about, building empire.
+因为记得，波洛普尼亚战争，才是…
+
+739
+00:42:39,320 --> 00:42:41,480
+Right? Athens wants to build its empire,
+右？雅典想建造其帝国，
+
+740
+00:42:41,880 --> 00:42:45,080
+and it's sacrificing its young people, in order to accomplish this.
+...
+
+741
+00:42:45,480 --> 00:42:47,980
+So the Bacchae, is a direct criticism,
+翻译：...
+
+742
+00:42:48,560 --> 00:42:51,080
+of, the Athenian Empire,
+...
+
+743
+00:42:52,440 --> 00:42:54,760
+and it's direct criticism, of the Peloponnesian War.
+...
+
+744
+00:42:55,020 --> 00:42:56,880
+Okay? Does that make sense? Alright.
+好的，算吧！
+
+745
+00:42:58,680 --> 00:43:01,040
+So, the Peloponnesian War, some further evidence, to support this interpretation,
+...
+
+746
+00:43:01,400 --> 00:43:03,560
+is, in 431 BCE,
+is, in 431 BCE,
+
+747
+00:43:05,920 --> 00:43:08,460
+the Peloponnesian War, between Sparta and Athens, started.
+...
+
+748
+00:43:09,380 --> 00:43:10,940
+And about a year afterwards,
+And about a yearafterwards,
+
+749
+00:43:11,500 --> 00:43:13,300
+a lot of Athenian men, are dead.
+749: 1/2 句...
+
+750
+00:43:14,180 --> 00:43:17,080
+And it is the custom, at that time, to honor,
+...
+
+751
+00:43:17,180 --> 00:43:20,440
+the war dead, by holding, a huge, state funeral.
+...
+
+752
+00:43:20,660 --> 00:43:23,780
+Okay? So the state, Athens, will pay for the burial,
+...
+
+753
+00:43:24,120 --> 00:43:25,600
+of all its war dead.
+...
+
+754
+00:43:26,180 --> 00:43:27,600
+During this huge funeral,
+...
+
+755
+00:43:28,340 --> 00:43:31,780
+all Athenians come out, to watch an oration.
+...
+
+756
+00:43:32,440 --> 00:43:35,080
+And so, Pericles,
+...
+
+757
+00:43:35,920 --> 00:43:38,900
+who, again, remember, we'll talk more about Pericles, later on.
+谁，另外，记得，稍后我们会再聊佩里克利斯。
+
+758
+00:43:39,020 --> 00:43:40,740
+But Pericles, he's the, basically,
+...
+
+759
+00:43:41,500 --> 00:43:43,460
+the first citizen, of Athens.
+第一个雅典市民。
+
+760
+00:43:43,620 --> 00:43:45,240
+Which basically means, he's the king of Athens.
+他基本上就是雅典之王。
+
+761
+00:43:45,440 --> 00:43:48,380
+Okay? And he gives his funeral oration,
+好的？他在此时献上了葬礼演说，在此期间，演说被认为是最精彩的演说之一。
+
+762
+00:43:49,000 --> 00:43:51,520
+during this time. And the funeral oration,
+好的，先给我点儿…
+
+763
+00:43:52,060 --> 00:43:56,300
+is considered, by many, to be the greatest speech, ever made.
+...
+
+764
+00:43:56,480 --> 00:44:00,880
+Okay? It is beautiful, it is, um, extremely eloquent, it's very powerful.
+好的，...
+
+765
+00:44:01,820 --> 00:44:04,120
+In the speech, he says this,
+在演说中，他说了…
+
+766
+00:44:05,840 --> 00:44:08,320
+Athens, is the greatest place,
+在演说中…
+
+767
+00:44:09,060 --> 00:44:13,280
+ever. And that's because, we celebrate, excellence.
+...
+
+768
+00:44:13,940 --> 00:44:16,720
+Athens is a place, where anyone can come, and
+...
+
+769
+00:44:16,720 --> 00:44:20,400
+through hard work, through talent, can achieve greatness.
+通过勤劳，能通过…
+
+770
+00:44:20,840 --> 00:44:23,380
+We are an open, tolerant,
+...
+
+771
+00:44:24,600 --> 00:44:25,900
+cosmopolitan, people.
+宇宙人，大家。
+
+772
+00:44:26,220 --> 00:44:27,840
+We have a democracy.
+我们有一个民主。
+
+773
+00:44:28,960 --> 00:44:33,660
+Where everyone can participate, in the civic life, the political life, of Athens.
+在雅典的公民生活与政治生活中，每个人都能参与。
+
+774
+00:44:35,680 --> 00:44:37,020
+That's what makes Athens glorious.
+雅典之所以能光辉，正是这般。”
+
+775
+00:44:38,440 --> 00:44:41,140
+Therefore, we must protect,
+因此，必须通过战…
+
+776
+00:44:41,800 --> 00:44:44,480
+our democracy, through war.
+...
+
+777
+00:44:45,400 --> 00:44:48,420
+It is good, that the young, go out and
+它好，年轻人去…
+
+778
+00:44:48,420 --> 00:44:51,080
+fight, for our empire, our democracy.
+...
+
+779
+00:44:51,460 --> 00:44:55,700
+Because that's what gives, meaning, to their lives.
+因为这才给他们的生活带来意义。
+
+780
+00:44:56,440 --> 00:44:59,700
+These men, who are dead, to the people, who are dead before us, they died well.
+这些人们，身后已是空空的，…
+
+781
+00:44:59,900 --> 00:45:02,280
+Because they died, protecting Athens.
+因为…
+
+782
+00:45:02,580 --> 00:45:05,420
+And defending, our democracy.
+并为我们的民主而战。
+
+783
+00:45:06,500 --> 00:45:11,160
+And we should, have all young men, go and fight for us.
+我们应该让所有年轻人去为我们而战。
+
+784
+00:45:11,740 --> 00:45:13,340
+Okay? That's the speech.
+好的？那就是演讲的内容。
+
+785
+00:45:13,620 --> 00:45:14,840
+That's literally, what he says.
+那就是他所说的字面意思。
+
+786
+00:45:16,000 --> 00:45:19,580
+So, Euripides, was probably, in the audience, right?
+于是，欧里庇得斯，可能在观众席上，听得很准。
+
+787
+00:45:19,680 --> 00:45:22,400
+Because everyone was, in the audience, when, when the speech was given.
+因为大家都在观众席上，等着演讲时的那一刻。
+
+788
+00:45:22,540 --> 00:45:25,780
+Okay? And he, reimagines, his funeral,
+好的？他重新想象他的葬礼，
+
+789
+00:45:26,580 --> 00:45:29,220
+as, the, the mother,
+好的，母亲...??????????????????????????????????????????
+
+790
+00:45:29,340 --> 00:45:32,540
+holding, the son's head, and saying to the world,
+?????????????????????
+
+791
+00:45:32,660 --> 00:45:34,340
+look how brave I am.
+看起来我很勇敢。
+
+792
+00:45:35,240 --> 00:45:38,140
+Okay? What Pericles is really saying is,
+好吧！…我方块块……??
+
+793
+00:45:40,040 --> 00:45:42,820
+we're an empire, an empire is so good,
+...
+
+794
+00:45:43,740 --> 00:45:46,260
+because it brings glory, to the old people.
+因为它带来了古人的荣耀…
+
+795
+00:45:47,080 --> 00:45:51,600
+And so, the young, must protect the glory, of the old people, by dying in a war.
+因为它带了……
+
+796
+00:45:53,980 --> 00:45:56,840
+Okay? Does that make sense? Okay?
+...
+
+797
+00:45:57,320 --> 00:46:01,240
+So, but, if you think about it, okay?
+翻译1
+
+798
+00:46:01,380 --> 00:46:05,740
+Even though, Euripides, is, criticizing Athenian democracy,
+翻译2
+
+799
+00:46:06,580 --> 00:46:08,780
+what he's really doing, is also,
+{
+
+800
+00:46:08,980 --> 00:46:11,560
+trying to defend, Athenian democracy.
+尝试去守护雅典之民之民之…
+
+801
+00:46:12,140 --> 00:46:13,900
+Because a democracy only happens,
+翻译…
+
+802
+00:46:14,800 --> 00:46:18,180
+when, citizens are engaged in a process of,
+?
+
+803
+00:46:19,240 --> 00:46:21,680
+argumentation, debate, and self -reflection.
+argumentation, debateand self‑reflection.
+
+804
+00:46:22,260 --> 00:46:25,500
+And so, what Euripides is really trying to do,
+…
+
+805
+00:46:25,720 --> 00:46:27,100
+is put a mirror,
+…
+
+806
+00:46:28,340 --> 00:46:31,600
+before, the Athenian people, and he's saying to the Athenian people,
+先前，雅典人们…
+
+807
+00:46:32,120 --> 00:46:34,920
+look how awful we are, we can do better.
+先前…
+
+808
+00:46:35,960 --> 00:46:38,040
+And that's what a democracy, really is.
+先前…
+
+809
+00:46:38,240 --> 00:46:40,140
+It's an open, and honest discussion,
+翻译成中文
+
+810
+00:46:40,660 --> 00:46:42,360
+about, how we can be better.
+关于我们可以更好的? ？
+
+811
+00:46:44,280 --> 00:46:48,700
+Okay? And again,
+]}???????????????????????????????????...??
+
+812
+00:46:49,740 --> 00:46:52,740
+these three, Isulis,
+这些三位，伊索里斯，索福克勒斯和欧里庞斯，被认为是世界上三位最伟大的剧作家。
+
+813
+00:46:52,780 --> 00:46:57,080
+Sophocles, and Euripides, are considered, the three greatest playwrights, in the world.
+这些三位…
+
+814
+00:46:57,080 --> 00:46:59,160
+In, Athenian history.
+在雅典历史中。
+
+815
+00:46:59,440 --> 00:47:02,220
+And, these plays are actually still performed today.
+这些戏剧今天仍在演出。
+
+816
+00:47:02,420 --> 00:47:04,420
+Okay? So, the Orestia,
+OK? 这句...??
+
+817
+00:47:05,440 --> 00:47:08,800
+Oedipus Rex, and the Bacchae, are still performed,
+?
+
+818
+00:47:08,800 --> 00:47:10,640
+in theaters, around the world, today.
+在剧场里，随时随地…
+
+819
+00:47:11,660 --> 00:47:13,000
+That's how, amazing,
+?
+
+820
+00:47:13,880 --> 00:47:16,400
+they were. So, any questions?
+他们已经完成了。那还有什么问题吗？
+
+821
+00:47:28,120 --> 00:47:29,380
+Oh, okay, great question.
+哦，好的，没问题！
+
+822
+00:47:29,460 --> 00:47:31,500
+Okay? So, the Bacchae,
+OK? 这句...??
+
+823
+00:47:31,840 --> 00:47:34,380
+how do other scholars interpret the Bacchae?
+OK? 1??
+
+824
+00:47:34,480 --> 00:47:37,080
+Right? Okay. So, they're given interpretations, but
+在...??
+
+825
+00:47:37,080 --> 00:47:40,100
+the most common interpretation is, it is,
+?
+
+826
+00:47:40,860 --> 00:47:43,220
+a play, that explores,
+???
+
+827
+00:47:45,000 --> 00:47:46,640
+the idea of religious yield.
+宗教的让步概念。
+
+828
+00:47:47,560 --> 00:47:51,860
+Religious devotion. Or, religious fanaticism.
+宗教奉献，或宗教信仰。
+
+829
+00:47:51,940 --> 00:47:55,480
+Okay? Okay?
+好的，好的。
+
+830
+00:47:55,520 --> 00:47:57,060
+Does that make sense? That's the most common interpretation.
+那算得了吗？那是最常见的解释。
+
+831
+00:47:57,080 --> 00:48:00,040
+This play is really about,
+这场戏剧真是关于……
+
+832
+00:48:00,200 --> 00:48:03,380
+the power, of religion, and faith.
+这场戏剧的确是个…
+
+833
+00:48:03,620 --> 00:48:05,840
+And how it drives us, into madness.
+And how it drives us, into madness.
+
+834
+00:48:06,800 --> 00:48:08,880
+Okay? That's the, most common interpretation.
+OK? 这句...??
+
+835
+00:48:10,140 --> 00:48:11,820
+Another interpretation is,
+?
+
+836
+00:48:13,220 --> 00:48:15,360
+well, Dionysus,
+好，狄俄尼索斯，
+
+837
+00:48:17,040 --> 00:48:18,340
+is the villain.
+他是主角。
+
+838
+00:48:18,600 --> 00:48:23,260
+Okay? He's not really the villain, but he's, the main focus, of,
+好的？他不是真正的主角，…
+
+839
+00:48:24,180 --> 00:48:28,060
+this play. And Dionysus, the main character, does a lot of bad things.
+...
+
+840
+00:48:29,080 --> 00:48:31,900
+Well, guess what? For most of his life,
+翻译1
+
+841
+00:48:32,280 --> 00:48:36,640
+Euripides, was participating, in the festival of Dionysus, hoping, to,
+翻译2
+
+842
+00:48:37,720 --> 00:48:39,340
+win first place. Right?
+赢得第一名。对吗？
+
+843
+00:48:39,520 --> 00:48:40,760
+To, to be the protagonist.
+再来一段话，来回到点儿
+
+844
+00:48:41,480 --> 00:48:45,480
+Uh, to, win, first place.
+呃，赢得第一名。
+
+845
+00:48:46,120 --> 00:48:49,200
+But, most of the times, he lost.
+呃，最…
+
+846
+00:48:49,320 --> 00:48:52,360
+Because, he, he kept on, offending the Athenian people.
+翻译1
+
+847
+00:48:52,520 --> 00:48:56,540
+Right? So, another interpretation is, this,
+翻译2
+
+848
+00:48:57,500 --> 00:49:01,160
+play, Bacchae, it's a satire, on the power,
+演出《波吕克》时，巴克斯的戏剧是对巴克斯的戏剧…
+
+849
+00:49:01,380 --> 00:49:03,600
+of Dionysus, and of theater in general.
+演出…
+
+850
+00:49:03,740 --> 00:49:06,600
+Okay? It's a direct criticism, of the festival of Dionysus.
+演…
+
+851
+00:49:07,040 --> 00:49:08,600
+And what he, and what, and what,
+翻译1
+
+852
+00:49:09,240 --> 00:49:12,380
+Euripides is really saying is, the festival of Dionysus, it's not,
+翻译1
+
+853
+00:49:13,640 --> 00:49:15,700
+about, art,
+翻译演
+
+854
+00:49:16,280 --> 00:49:18,160
+and reflection, and democracy.
+和反思，和民主。
+
+855
+00:49:18,620 --> 00:49:21,480
+It's really just a, wild sex party.
+它是个很好的…
+
+856
+00:49:21,740 --> 00:49:23,340
+That's trying to please everyone.
+翻译1
+
+857
+00:49:23,520 --> 00:49:26,520
+Okay? So, so you can also, interpret this as, a,
+]}We need to translate cues 856 and 857. The context: [856]
+
+858
+00:49:26,540 --> 00:49:29,040
+direct criticism, of democracy itself.
+直接批评民主本身。
+
+859
+00:49:29,400 --> 00:49:31,460
+Democracy is just a wild sex party.
+民主就是一场狂野的派对。
+
+860
+00:49:31,840 --> 00:49:34,120
+Right? So these are the two, major interpretations,
+翻译1
+
+861
+00:49:34,600 --> 00:49:37,200
+that it is, that Bacchae, it's about,
+]}We need to translate cues 860 and 861. The previous context: [860]
+
+862
+00:49:37,360 --> 00:49:40,740
+the power and dangers, of religious devotion,
+...???????????????????????????????????
+
+863
+00:49:41,320 --> 00:49:44,120
+fanaticism. Okay? And
+...????...????????? 1?
+
+864
+00:49:44,120 --> 00:49:48,060
+also, the, play Bacchae, it's a direct attack,
+也可以说，巴赫尔的戏剧是一次直接的攻击，在百里里里…
+
+865
+00:49:48,420 --> 00:49:50,960
+on the idea of theater itself, and democracy.
+...
+
+866
+00:49:51,280 --> 00:49:52,860
+Okay? But I don't see it that way.
+好的？我不太懂这句...
+
+867
+00:49:53,160 --> 00:49:56,120
+I think, the most likely explanation for me, is,
+...????????????????????????????????????????????????????…
+
+868
+00:49:56,340 --> 00:49:58,540
+that, it is a direct criticism, of empire.
+????…
+
+869
+00:49:59,840 --> 00:50:02,480
+Okay? And you can believe, whatever you want.
+好的？你可以随便相信任何你想的。
+
+870
+00:50:02,680 --> 00:50:03,960
+And that's the power of,
+而且是个百里里…
+
+871
+00:50:04,560 --> 00:50:07,240
+Athenian theater. There are different ways, to interpret it.
+这就是百里里…
+
+872
+00:50:07,360 --> 00:50:08,800
+Okay? So even today,
+OK? 现在...??
+
+873
+00:50:09,180 --> 00:50:11,540
+modern audiences, are still amazed,
+现代观众仍然惊叹，
+
+874
+00:50:12,320 --> 00:50:13,680
+and, inspired,
+???
+
+875
+00:50:14,220 --> 00:50:15,620
+by, these plays.
+by ... ?
+
+876
+00:50:16,980 --> 00:50:20,260
+Any, any more questions? Yeah,
+翻译：
+
+877
+00:50:20,360 --> 00:50:24,240
+it seems to me, like, all these plays, have a lot of, these things, that,
+it seems to me, like, all these plays, have a lot of, these things, that,
+
+878
+00:50:24,800 --> 00:50:26,500
+they all, come from, the same,
+...
+
+879
+00:50:26,520 --> 00:50:31,220
+very very very very very very very very very
+...
+
+880
+00:50:31,220 --> 00:50:34,260
+very very very very very very very very very very very very very very
+...
+
+881
+00:50:34,260 --> 00:50:38,360
+very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very
+很久...??
+
+882
+00:50:38,360 --> 00:50:41,100
+very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very
+very very very very very very very very very very very very very very very very very very very very very very very very veryvery very very very very very very very very very very very very very very very very very very very very very very very very
+
+883
+00:50:41,100 --> 00:50:44,320
+very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very
+很久...??
+
+884
+00:50:44,320 --> 00:50:46,080
+very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very
+...
+
+885
+00:50:46,080 --> 00:50:47,440
+very very very very very very very very very very very very very very very very very very very
+...
+
+886
+00:50:47,440 --> 00:50:52,860
+very very very very very very very very very very very very very very very very very very
+...
+
+887
+00:50:52,860 --> 00:50:57,880
+So revenge is the main plot device we use to drive action.
+??
+
+888
+00:50:58,340 --> 00:51:00,700
+It's what motivates us to do violent things.
+...
+
+889
+00:51:01,200 --> 00:51:04,960
+And that's why throughout all these plays,
+翻译成中文
+
+890
+00:51:05,720 --> 00:51:07,700
+revenge is a common theme. But
+revenge is a common theme. But
+
+891
+00:51:07,700 --> 00:51:10,840
+another very common theme is the idea of hubris.
+另一个非常常见的主题是自大意的想法。
+
+892
+00:51:14,780 --> 00:51:16,680
+Hubris, arrogance.
+自大意??
+
+893
+00:51:17,120 --> 00:51:18,760
+And this is what the Greek,
+893. 这就是希腊的
+
+894
+00:51:20,120 --> 00:51:23,220
+this is what the Greek playwrights focus a lot on.
+894. 这句...
+
+895
+00:51:23,840 --> 00:51:25,480
+What they discovered is,
+...
+
+896
+00:51:27,140 --> 00:51:30,040
+things go awry in society when
+...
+
+897
+00:51:30,040 --> 00:51:33,500
+the leaders, when the elite, when the kings, they develop hubris.
+当领导者、精英、国王时，他们会产生自大意。
+
+898
+00:51:34,420 --> 00:51:36,540
+Because it leads to bad judgment.
+因为它会导致好时机
+
+899
+00:51:37,560 --> 00:51:39,320
+But what they also discovered is,
+但也发现了…
+
+900
+00:51:41,360 --> 00:51:43,540
+hubris is just a part of human nature.
+h...
+
+901
+00:51:43,960 --> 00:51:48,380
+If you put someone in a position of power, he or she will always feel like they're in a position of power.
+如果把某人放在某个位置，...??…
+
+902
+00:51:48,380 --> 00:51:49,900
+And that's why they develop hubris. So
+...
+
+903
+00:51:49,900 --> 00:51:54,200
+hubris is basically the most common theme throughout all these plays.
+自大意基本是这些戏剧的最常见主题。
+
+904
+00:51:54,460 --> 00:51:58,940
+And you're right, revenge is also a very common theme as well.
+你说得对，复仇也很常见。
+
+905
+00:51:59,520 --> 00:52:01,100
+So yeah, there are these common themes.
+是的，咱们有点儿…
+
+906
+00:52:01,280 --> 00:52:04,640
+And the reason why is, these playwrights,
+和...
+
+907
+00:52:04,640 --> 00:52:07,400
+these poets, they're trying to explore what it means to be human.
+...
+
+908
+00:52:07,660 --> 00:52:12,980
+They're trying to decipher the essence of being human.
+...
+
+909
+00:52:13,260 --> 00:52:16,880
+They're trying to look into the human heart, and trying to figure out what makes us,
+他们正在尝试着去探寻人类的心灵，且去找出…
+
+910
+00:52:19,580 --> 00:52:20,780
+human, basically.
+...
+
+911
+00:52:21,120 --> 00:52:23,460
+And all humans are alike, okay?
+...
+
+912
+00:52:24,400 --> 00:52:26,880
+Okay? Any more questions?
+好的？还有问题吗？
+
+913
+00:52:35,100 --> 00:52:38,220
+Yeah, the Athenians, okay,
+是的，阿尔·??…
+
+914
+00:52:38,300 --> 00:52:41,660
+so the thing about Eupredes, was
+]}We need to translate cues 912-914. Provide translations array with 3strings. Use Chinese. Ensure line breaks natural. Let's translate: 912:
+
+915
+00:52:41,660 --> 00:52:45,740
+that we, today, scholars, will all agree,
+...
+
+916
+00:52:47,280 --> 00:52:48,880
+Eupredes was the most talented.
+...
+
+917
+00:52:49,440 --> 00:52:52,600
+Meaning, his use of poetry, his use of metaphors,
+...
+
+918
+00:52:52,600 --> 00:52:55,440
+imagery, it was the most imaginative, okay?
+译文1
+
+919
+00:52:56,380 --> 00:52:58,420
+We also agree that
+译翻译??…
+
+920
+00:52:58,420 --> 00:53:03,260
+he is the most shocking,
+]}We need to translate cues 918-920. Provide array. Let's parse cues:918, 919, 920. We have context lines. Let's translate each cue. 918:
+
+921
+00:53:03,540 --> 00:53:05,220
+okay? His ideas,
+好的？他的想法，
+
+922
+00:53:05,700 --> 00:53:09,500
+the way he presents things, it is the most visual and imaginative, okay?
+他呈现的方式，最具视觉与想象力，
+
+923
+00:53:09,520 --> 00:53:12,020
+So in terms of pure talent, he's the most talented.
+于是以纯才华计，他最为才华。
+
+924
+00:53:13,180 --> 00:53:16,220
+But when he was alive, okay?
+...
+
+925
+00:53:16,220 --> 00:53:18,880
+He was an extremely arrogant person,
+...
+
+926
+00:53:18,980 --> 00:53:23,920
+who believed theater should be about awakening people,
+...
+
+927
+00:53:24,160 --> 00:53:27,700
+should be challenging people's sense of reality,
+...
+
+928
+00:53:28,060 --> 00:53:32,040
+okay? It should be about education and edification.
+...
+
+929
+00:53:33,440 --> 00:53:39,140
+And these people tend to be hated by contemporaries,
+...
+
+930
+00:53:39,180 --> 00:53:41,060
+okay? But after they're dead,
+ok? 之后...??
+
+931
+00:53:41,500 --> 00:53:44,280
+later generations respect them more.
+?
+
+932
+00:53:44,480 --> 00:53:47,600
+So even though, you know, the Athenians, you know, the Athenians, the Chovs, the Chovs,
+翻译1
+
+933
+00:53:47,640 --> 00:53:49,980
+the Chovs, the Chovs, the Chovs, the Chovs, the Chovs,
+翻译2
+
+934
+00:53:49,980 --> 00:53:52,760
+the Chovs, the Chovs, the Chovs, the Chovs,
+???
+
+935
+00:53:53,280 --> 00:53:55,520
+the Chovs, the Chovs, the Chovs, the Chovs, the Chovs, the Chovs, the Chovs, the Chovs,
+]}
+
+936
+00:53:55,960 --> 00:53:59,860
+the Chovs, the Chovs, the Chovs, the Chovs,
+翻译1
+
+937
+00:53:59,940 --> 00:54:03,260
+the Chovs, the Chovs,
+翻译2
+
+938
+00:54:03,260 --> 00:54:06,580
+the Chovs, the Chovs, the Chovs, the Chovs,
+翻译1
+
+939
+00:54:06,640 --> 00:54:08,680
+the Chovs, the Chovs, the Chovs, the Chovs,
+]}{
+
+940
+00:54:08,680 --> 00:54:10,940
+the Chovs, the Chovs, the Chovs, the Chovs,
+翻译1
+
+941
+00:54:10,940 --> 00:54:13,060
+the Chovs,
+]}{
+
+942
+00:54:13,060 --> 00:54:15,760
+the Chovs,
+the Chovs,
+
+943
+00:54:15,760 --> 00:54:18,960
+was rejuvenated after his death, but
+在他去世后重新焕发光彩，但在他一生中，曾经常被人们所嗅嗅。”】}We need to translate cues [942] and [943] and [944] into Simplified Chinese. The cues are: [942] the Chovs, [943] was rejuvenated after his death, but [944] during his lifetime he was despised by a lot of people. We need to produce JSON with translations array of three strings. Each string may contain at most one newline. Use Chinese punctuation. Let's translate:
+
+944
+00:54:18,960 --> 00:54:22,140
+during his lifetime he was despised by a lot of people.
+The Chovs, ->
+
+945
+00:54:22,440 --> 00:54:24,880
+People respected his genius, but
+People respectedhis genius, but
+
+946
+00:54:24,880 --> 00:54:28,220
+they didn't like the fact that he was so arrogant and candid.
+...?????????????????????
+
+947
+00:54:32,940 --> 00:54:35,080
+And that's true for most of human history, where
+...??..??..??..???
+
+948
+00:54:35,080 --> 00:54:37,800
+if you are a controversial writer,
+...??...??..??..??..???
+
+949
+00:54:38,680 --> 00:54:42,080
+you are not respected by contemporaries,
+...??..??..???
+
+950
+00:54:42,120 --> 00:54:45,220
+but after you're dead, people appreciate your genius.
+但等你去世后，才有人欣赏你的才华。
+
+951
+00:54:45,220 --> 00:54:48,600
+And this is true for most really famous writers.
+而且这才是最常见的事，只有在此时才有得意。”
+
+952
+00:54:50,680 --> 00:54:54,060
+Any more questions? These are great questions, by the way.
+任何问题吗？顺便说一句，都是很好的问题。
+
+953
+00:55:01,000 --> 00:55:04,780
+Okay, great. So next class we will do Socrates and Plato, okay?
+好的，没问题！

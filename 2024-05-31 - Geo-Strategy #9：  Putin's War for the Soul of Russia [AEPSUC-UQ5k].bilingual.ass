@@ -1,0 +1,1088 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.00,English,,0,0,0,,So\N{\rChinese}于是
+Dialogue: 0,0:00:01.00,0:00:04.78,English,,0,0,0,,this week Vladimir Putin in\N{\rChinese}本周，弗拉基米尔·普京在
+Dialogue: 0,0:00:04.78,0:00:08.00,English,,0,0,0,,a speech said to his Russian people\N{\rChinese}一次演讲中对他的俄罗斯人民说
+Dialogue: 0,0:00:08.00,0:00:09.42,English,,0,0,0,,that\N{\rChinese}那
+Dialogue: 0,0:00:09.42,0:00:12.94,English,,0,0,0,,all of Russia must now\N{\rChinese}全俄必已准备好迎接全面战争。
+Dialogue: 0,0:00:12.94,0:00:15.46,English,,0,0,0,,prepare for total war.\N{\rChinese}prepare for total war.
+Dialogue: 0,0:00:16.08,0:00:21.14,English,,0,0,0,,Even if you are not fighting on the front lines in Ukraine,\N{\rChinese}即使你不在乌克兰前线作战，也请你假装在前线。
+Dialogue: 0,0:00:21.52,0:00:22.80,English,,0,0,0,,pretend you are.\N{\rChinese}因为这次演讲，许多分析家。
+Dialogue: 0,0:00:23.90,0:00:27.50,English,,0,0,0,,And because of this speech, there are many analysts\N{\rChinese}And because of this speech, there are many analysts
+Dialogue: 0,0:00:27.50,0:00:28.74,English,,0,0,0,,who believe that\N{\rChinese}谁认为
+Dialogue: 0,0:00:28.74,0:00:33.14,English,,0,0,0,,Putin is preparing Russia for total war.\N{\rChinese}普京正在把俄罗斯准备成总战状态。
+Dialogue: 0,0:00:33.32,0:00:35.36,English,,0,0,0,,And total war means that\N{\rChinese}而总战意味着
+Dialogue: 0,0:00:35.36,0:00:40.30,English,,0,0,0,,every aspect of your society is geared towards winning a war.\N{\rChinese}你的社会各个方面都已调动为赢得战争
+Dialogue: 0,0:00:40.60,0:00:44.38,English,,0,0,0,,And so we last had total war in World War II, okay?\N{\rChinese}于是我们在第二次世界大战中经历了总战，明白吗？
+Dialogue: 0,0:00:45.08,0:00:46.60,English,,0,0,0,,But not after that.\N{\rChinese}但之后就没有了。
+Dialogue: 0,0:00:47.10,0:00:49.06,English,,0,0,0,,So why is Putin doing this?\N{\rChinese}那为什么普京会这么做？
+Dialogue: 0,0:00:49.54,0:00:52.74,English,,0,0,0,,Now, there are some people who believe that\N{\rChinese}现在，有些人认为
+Dialogue: 0,0:00:52.74,0:00:57.34,English,,0,0,0,,it's because Russia is not doing so well in Ukraine.\N{\rChinese}这就是因为俄罗斯在乌克兰的表现不佳。
+Dialogue: 0,0:00:57.62,0:01:00.42,English,,0,0,0,,They lack manpower and so\N{\rChinese}他们缺乏人力，因此需要动员社会全力赢得乌克兰战争。
+Dialogue: 0,0:01:00.42,0:01:05.38,English,,0,0,0,,they need to mobilize their society to fully win the war in Ukraine.\N{\rChinese}好的？还有一个解释是…
+Dialogue: 0,0:01:06.06,0:01:08.84,English,,0,0,0,,Okay? Another explanation is\N{\rChinese}Okay? Another explanation is
+Dialogue: 0,0:01:08.84,0:01:11.98,English,,0,0,0,,that Putin knows\N{\rChinese}那普京知道
+Dialogue: 0,0:01:11.98,0:01:13.00,English,,0,0,0,,that\N{\rChinese}那
+Dialogue: 0,0:01:13.00,0:01:18.40,English,,0,0,0,,NATO is preparing to send reinforcements to Ukraine.\N{\rChinese}北约正准备向乌克兰增援
+Dialogue: 0,0:01:18.66,0:01:22.58,English,,0,0,0,,Remember that because of last summer's offensive,\N{\rChinese}记住，因去年夏季的进攻，乌克兰人手不足。
+Dialogue: 0,0:01:22.74,0:01:26.06,English,,0,0,0,,Ukraine is desperately short of manpower.\N{\rChinese}现在他们的士兵平均年龄已超过四十岁。
+Dialogue: 0,0:01:26.44,0:01:31.36,English,,0,0,0,,Okay? The average age of their soldiers right now is over 40.\N{\rChinese}好吧？
+Dialogue: 0,0:01:31.50,0:01:34.90,English,,0,0,0,,They have men in their 60s who are fighting in the front lines.\N{\rChinese}他们有60多岁的士兵在前线作战。
+Dialogue: 0,0:01:37.60,0:01:41.42,English,,0,0,0,,Emmanuel Macron of France has publicly stated\N{\rChinese}法国总统马克龙公开表示
+Dialogue: 0,0:01:41.42,0:01:43.94,English,,0,0,0,,that he is considering sending French troops to Ukraine.\N{\rChinese}他正在考虑派遣法军前往乌克兰。
+Dialogue: 0,0:01:44.48,0:01:48.10,English,,0,0,0,,The British themselves are thinking of conscription,\N{\rChinese}英国人也在考虑征兵，把所有年轻人都调入军队。
+Dialogue: 0,0:01:48.22,0:01:51.56,English,,0,0,0,,drafting all young men into the army.\N{\rChinese}美国政客们说过…
+Dialogue: 0,0:01:51.56,0:01:54.96,English,,0,0,0,,The American politicians have said\N{\rChinese}The American politicians have said
+Dialogue: 0,0:01:54.96,0:01:57.42,English,,0,0,0,,that they're considering a new law that\N{\rChinese}他们正在考虑一项新法案，将为参军的非法移民授予国籍。
+Dialogue: 0,0:01:57.42,0:02:01.42,English,,0,0,0,,would give citizenship to illegal immigrants who join the army.\N{\rChinese}好的？所以看起来北约只会把乌克兰战争再推向前方。
+Dialogue: 0,0:02:01.66,0:02:07.58,English,,0,0,0,,Okay? So it seems like NATO is only going to escalate the war in Ukraine.\N{\rChinese}好的？
+Dialogue: 0,0:02:07.84,0:02:09.20,English,,0,0,0,,And so Russia is preparing for that.\N{\rChinese}于是俄罗斯也在为此做准备。
+Dialogue: 0,0:02:10.22,0:02:13.40,English,,0,0,0,,One more explanation, one more possibility is\N{\rChinese}再给一个解释，再给一个可能性是
+Dialogue: 0,0:02:13.40,0:02:17.06,English,,0,0,0,,that Putin wants to expand the war.\N{\rChinese}普京想要把战争扩大。
+Dialogue: 0,0:02:17.24,0:02:19.26,English,,0,0,0,,Okay? So he knows he's winning in Ukraine.\N{\rChinese}好的？所以他知道自己在乌克兰赢了。
+Dialogue: 0,0:02:19.26,0:02:22.88,English,,0,0,0,,He's thinking about attacking Moldova\N{\rChinese}他正在考虑进攻摩尔多瓦
+Dialogue: 0,0:02:22.88,0:02:26.62,English,,0,0,0,,and possibly the Baltic states.\N{\rChinese}以及可能的波罗国家。
+Dialogue: 0,0:02:26.86,0:02:29.56,English,,0,0,0,,Okay? These are all possibilities. Today,\N{\rChinese}好的？这些都是可能性。今天，
+Dialogue: 0,0:02:29.90,0:02:34.20,English,,0,0,0,,this morning, what I want to do is argue another possibility,\N{\rChinese}今晨，我想做的是再论一个可能性。
+Dialogue: 0,0:02:34.46,0:02:36.20,English,,0,0,0,,which is that\N{\rChinese}即是
+Dialogue: 0,0:02:36.20,0:02:41.76,English,,0,0,0,,Putin is mobilizing his society\N{\rChinese}普京正在动员他的社会
+Dialogue: 0,0:02:41.76,0:02:45.92,English,,0,0,0,,because he sees war as a tool,\N{\rChinese}因为他把战争视为工具，
+Dialogue: 0,0:02:46.18,0:02:47.46,English,,0,0,0,,as a mechanism,\N{\rChinese}作为一种机制，
+Dialogue: 0,0:02:47.46,0:02:50.74,English,,0,0,0,,to radically reshape\N{\rChinese}彻底重塑
+Dialogue: 0,0:02:50.74,0:02:53.74,English,,0,0,0,,the people in Russia.\N{\rChinese}俄罗斯人民
+Dialogue: 0,0:02:55.16,0:02:56.54,English,,0,0,0,,Okay? So think of a metaphor.\N{\rChinese}好的？那就想象成一个隐喻。
+Dialogue: 0,0:02:56.80,0:02:58.86,English,,0,0,0,,Okay? You're fat and you're like, okay,\N{\rChinese}好的？你又胖又说，好吧。
+Dialogue: 0,0:02:58.90,0:03:02.50,English,,0,0,0,,how do I get fit?\N{\rChinese}我怎么变得健壮？
+Dialogue: 0,0:03:02.80,0:03:05.56,English,,0,0,0,,How do I get trim? Right? You go to the gym and you work out.\N{\rChinese}我怎么变得苗条？对吧？你去健身房练习。
+Dialogue: 0,0:03:07.14,0:03:08.94,English,,0,0,0,,And for Putin, that's what war is.\N{\rChinese}对普京来说，战争就是这样。
+Dialogue: 0,0:03:09.12,0:03:12.22,English,,0,0,0,,War is a workout for society.\N{\rChinese}战争是社会的锻炼。
+Dialogue: 0,0:03:13.06,0:03:16.86,English,,0,0,0,,When you enter war, you become a much more disciplined, unified,\N{\rChinese}当你投身战争，你会变得更有纪律、更统一。
+Dialogue: 0,0:03:17.72,0:03:19.50,English,,0,0,0,,and prosperous society.\N{\rChinese}和繁荣的社会。
+Dialogue: 0,0:03:21.20,0:03:23.90,English,,0,0,0,,Okay? So that's what I want to argue today.\N{\rChinese}好吧。今天我要论证的就是这个。
+Dialogue: 0,0:03:24.48,0:03:27.06,English,,0,0,0,,Okay. So why does Putin think like this?\N{\rChinese}好的。那么普京为什么会这么想呢？
+Dialogue: 0,0:03:27.22,0:03:31.14,English,,0,0,0,,Well, let's look at the current state of Russia.\N{\rChinese}好了，先来看看俄罗斯的现状。
+Dialogue: 0,0:03:31.40,0:03:35.96,English,,0,0,0,,Okay? Russia, in many aspects, is a broken society. Corruption.\N{\rChinese}好？在许多方面，俄罗斯是一个破碎的社会。腐败。
+Dialogue: 0,0:03:37.76,0:03:42.90,English,,0,0,0,,Russia is the most corrupt society in all of Europe.\N{\rChinese}俄罗斯是欧洲最腐败的社会。
+Dialogue: 0,0:03:43.96,0:03:45.84,English,,0,0,0,,The rich people, steal,\N{\rChinese}富人们偷走，
+Dialogue: 0,0:03:46.92,0:03:50.38,English,,0,0,0,,and then they run off to Europe or the United States or Dubai.\N{\rChinese}然后他们跑到欧洲、美国或迪拜去
+Dialogue: 0,0:03:51.46,0:03:56.36,English,,0,0,0,,Okay? So corruption is a huge problem in Russia.\N{\rChinese}好？所以腐败是俄罗斯的一个大问题
+Dialogue: 0,0:03:56.68,0:04:02.32,English,,0,0,0,,And because of corruption, the GDP of Russia is very low.\N{\rChinese}因为腐败，俄罗斯的GDP很低。
+Dialogue: 0,0:04:02.50,0:04:06.44,English,,0,0,0,,So South Korea, which has about a third of the population of Russia,\N{\rChinese}韩国人口约为俄罗斯的三分之一，GDP更高。
+Dialogue: 0,0:04:06.70,0:04:08.42,English,,0,0,0,,has a higher GDP. Okay?\N{\rChinese}好？
+Dialogue: 0,0:04:08.54,0:04:13.12,English,,0,0,0,,The state of Texas, this one state in the United States, has a higher GDP than Russia.\N{\rChinese}德州是美国的一个州，GDP比俄罗斯高。
+Dialogue: 0,0:04:13.62,0:04:17.80,English,,0,0,0,,So Russia, in many ways, in many respects, is a very poor country.\N{\rChinese}俄国在许多方面、许多层面上是一个非常贫穷的国家。
+Dialogue: 0,0:04:18.04,0:04:22.52,English,,0,0,0,,Okay? Second problem is alcoholism.\N{\rChinese}第二个问题是酿酒。
+Dialogue: 0,0:04:24.04,0:04:27.30,English,,0,0,0,,One out of every six Russian males,\N{\rChinese}每六名俄罗斯男性中有一人
+Dialogue: 0,0:04:27.50,0:04:29.52,English,,0,0,0,,about 16, 17% of the population,\N{\rChinese}约占人口的16、17%
+Dialogue: 0,0:04:29.92,0:04:31.82,English,,0,0,0,,they're alcoholics.\N{\rChinese}他们是酒鬼
+Dialogue: 0,0:04:31.88,0:04:34.62,English,,0,0,0,,Okay? It's a disease.\N{\rChinese}好的？这是一种病。
+Dialogue: 0,0:04:34.86,0:04:36.74,English,,0,0,0,,They have the disease of alcoholism.\N{\rChinese}他们患有酿酒病。
+Dialogue: 0,0:04:37.92,0:04:41.64,English,,0,0,0,,One out of every three deaths in Russia is\N{\rChinese}俄罗斯每三起死亡中就有一人。
+Dialogue: 0,0:04:41.64,0:04:43.78,English,,0,0,0,,because of drinking too much.\N{\rChinese}因为喝酒太多。
+Dialogue: 0,0:04:45.24,0:04:46.68,English,,0,0,0,,And because of alcoholism,\N{\rChinese}以及因为酿酒病，
+Dialogue: 0,0:04:46.96,0:04:51.82,English,,0,0,0,,the rate of young men\N{\rChinese}年轻男性的比率
+Dialogue: 0,0:04:51.82,0:04:53.64,English,,0,0,0,,dying is just increasing and increasing.\N{\rChinese}死亡率只在不断上升。
+Dialogue: 0,0:04:54.04,0:04:58.92,English,,0,0,0,,Okay? The third problem is fertility.\N{\rChinese}好吧？第三个问题是出生率。
+Dialogue: 0,0:05:00.46,0:05:04.82,English,,0,0,0,,So right now, the fertility rate in Russia is 1.5.\N{\rChinese}现在，俄罗斯的出生率是1.5。
+Dialogue: 0,0:05:04.98,0:05:07.50,English,,0,0,0,,That is below the replacement level.\N{\rChinese}低于替代水平。
+Dialogue: 0,0:05:07.60,0:05:11.42,English,,0,0,0,,Right? Remember that the replacement level for society is 2.1.\N{\rChinese}对吧？记得替代水平是2.1。
+Dialogue: 0,0:05:12.16,0:05:13.54,English,,0,0,0,,Russia is 1.5.\N{\rChinese}俄罗斯是1.5。
+Dialogue: 0,0:05:13.54,0:05:16.52,English,,0,0,0,,But probably you have a lot of men dying because of alcoholism.\N{\rChinese}但大概你会有很多人因酗酒而去世。
+Dialogue: 0,0:05:16.62,0:05:18.34,English,,0,0,0,,Okay? So since the year 2000,\N{\rChinese}好吧？自2000年以来，俄罗斯人口一直在稳步下降。
+Dialogue: 0,0:05:18.84,0:05:23.88,English,,0,0,0,,the population in Russia has been declining steadily.\N{\rChinese}the population in Russia has been declining steadily.
+Dialogue: 0,0:05:24.74,0:05:26.78,English,,0,0,0,,And all this means is that\N{\rChinese}这意味着……
+Dialogue: 0,0:05:26.78,0:05:29.64,English,,0,0,0,,if current trends continue,\N{\rChinese}如果趋势继续……
+Dialogue: 0,0:05:30.10,0:05:34.68,English,,0,0,0,,then Russia will cease to exist as a society.\N{\rChinese}那么俄罗斯将不再是一个社会。
+Dialogue: 0,0:05:35.20,0:05:36.88,English,,0,0,0,,Okay? The nation will die.\N{\rChinese}好的？民族国家会消亡。
+Dialogue: 0,0:05:38.22,0:05:40.10,English,,0,0,0,,So why is this happening?\N{\rChinese}那为什么会这样呢？
+Dialogue: 0,0:05:40.46,0:05:43.42,English,,0,0,0,,Well, okay. The Western explanation is,\N{\rChinese}嗯，好吧。西方的解释是，
+Dialogue: 0,0:05:43.42,0:05:45.44,English,,0,0,0,,is that this is happening because\N{\rChinese}这就是因为……
+Dialogue: 0,0:05:46.30,0:05:47.80,English,,0,0,0,,Russia is not democratic.\N{\rChinese}俄罗斯不是民主的。
+Dialogue: 0,0:05:48.66,0:05:52.00,English,,0,0,0,,Right? If you have full democracy and\N{\rChinese}好的吗？如果你拥有完整的民主并且…
+Dialogue: 0,0:05:52.00,0:05:53.80,English,,0,0,0,,you unleash the human potential\N{\rChinese}你释放你们人民的潜能，俄罗斯就会繁荣。
+Dialogue: 0,0:05:54.42,0:05:57.34,English,,0,0,0,,of your people, then\N{\rChinese}你释放你们人民的潜能，俄罗斯就会繁荣。
+Dialogue: 0,0:05:57.34,0:05:59.86,English,,0,0,0,,Russia will prosper.\N{\rChinese}你释放你们人民的潜能，俄罗斯就会繁荣。
+Dialogue: 0,0:06:00.94,0:06:04.38,English,,0,0,0,,But Putin, Vladimir Putin, has a different explanation.\N{\rChinese}但普京，弗拉基米尔·普京，有一个不同的解释。
+Dialogue: 0,0:06:05.00,0:06:08.64,English,,0,0,0,,Okay? His explanation is that this is happening to Russia.\N{\rChinese}好的？他的解释是，这一切发生在俄罗斯。
+Dialogue: 0,0:06:08.92,0:06:11.48,English,,0,0,0,,Okay? Corruption, alcoholism, and low fertility\N{\rChinese}好的？腐败、酿酒和低出生率。
+Dialogue: 0,0:06:11.48,0:06:16.14,English,,0,0,0,,because Russians have been lied to,\N{\rChinese}因为俄罗斯人被西方文明欺骗，
+Dialogue: 0,0:06:16.30,0:06:17.54,English,,0,0,0,,deceived,\N{\rChinese}被欺骗，
+Dialogue: 0,0:06:18.48,0:06:21.98,English,,0,0,0,,and manipulated by Western civilization.\N{\rChinese}被操纵。
+Dialogue: 0,0:06:23.14,0:06:29.08,English,,0,0,0,,Western civilization preaches the gospel of liberal democracy,\N{\rChinese}西方文明宣讲自由民主的福音，
+Dialogue: 0,0:06:29.42,0:06:33.28,English,,0,0,0,,of freedom, of human rights, of consumerism.\N{\rChinese}自由、人的权利、消费主义的。
+Dialogue: 0,0:06:33.50,0:06:36.30,English,,0,0,0,,And these are all lies.\N{\rChinese}而这些都是谎言。
+Dialogue: 0,0:06:36.54,0:06:40.80,English,,0,0,0,,They're hypocrisies that have fooled the Russian people\N{\rChinese}这些是让俄罗斯人上当的伪善
+Dialogue: 0,0:06:41.78,0:06:44.56,English,,0,0,0,,and have corrupted the Russian soul\N{\rChinese}并玷污了俄罗斯灵魂
+Dialogue: 0,0:06:44.56,0:06:47.56,English,,0,0,0,,and destroyed Russian civilization.\N{\rChinese}并毁灭了俄罗斯文明。
+Dialogue: 0,0:06:48.28,0:06:52.08,English,,0,0,0,,And because Russians are abandoning their soul,\N{\rChinese}而且因为俄罗斯人正在放弃他们的灵魂
+Dialogue: 0,0:06:52.30,0:06:53.74,English,,0,0,0,,their civilization, their nation,\N{\rChinese}他们的文明，他们的民族国家
+Dialogue: 0,0:06:53.94,0:06:57.44,English,,0,0,0,,this is why this is happening.\N{\rChinese}这就是事情发生的原因。
+Dialogue: 0,0:06:57.78,0:07:00.58,English,,0,0,0,,Okay? Does that make sense? That is Putin's argument.\N{\rChinese}好的？这样说通吗？这就是普京的论点。
+Dialogue: 0,0:07:01.38,0:07:03.68,English,,0,0,0,,So why does Putin believe this?\N{\rChinese}那为什么普京会这么认为？
+Dialogue: 0,0:07:03.78,0:07:06.90,English,,0,0,0,,Well, in the late 80s,\N{\rChinese}好吧，在80年代末，
+Dialogue: 0,0:07:06.90,0:07:10.42,English,,0,0,0,,the Soviet Union had basically lost the Cold War.\N{\rChinese}苏联基本上已输掉冷战。
+Dialogue: 0,0:07:10.42,0:07:14.14,English,,0,0,0,,And they lost the Cold War because their elite basically gave up.\N{\rChinese}他们因为精英基本放弃而输掉冷战。
+Dialogue: 0,0:07:14.28,0:07:15.72,English,,0,0,0,,They no longer believed in communism.\N{\rChinese}他们不再相信共产主义。
+Dialogue: 0,0:07:15.94,0:07:19.34,English,,0,0,0,,They didn't believe in self -sacrifice for the nation.\N{\rChinese}他们不再相信为民族自我牺的精神。
+Dialogue: 0,0:07:20.32,0:07:22.00,English,,0,0,0,,They thought that Western values,\N{\rChinese}他们认为西方价值观，
+Dialogue: 0,0:07:22.34,0:07:25.24,English,,0,0,0,,the Western lifestyle was much better.\N{\rChinese}西方生活方式更好。
+Dialogue: 0,0:07:25.32,0:07:29.58,English,,0,0,0,,Okay? So they gave up. In the late 80s,\N{\rChinese}好吧？于是他们放弃了。
+Dialogue: 0,0:07:30.24,0:07:32.32,English,,0,0,0,,there was an American historian.\N{\rChinese}有一位美国历史学家。
+Dialogue: 0,0:07:32.80,0:07:35.34,English,,0,0,0,,He actually works for the American State Department.\N{\rChinese}他实际上在美国国务院工作。
+Dialogue: 0,0:07:35.56,0:07:37.30,English,,0,0,0,,And his name is Francis Fukuyama.\N{\rChinese}他的名字是弗朗西斯·福山。
+Dialogue: 0,0:07:38.04,0:07:39.90,English,,0,0,0,,And he wrote an extremely\N{\rChinese}他还写了一篇极。
+Dialogue: 0,0:07:40.42,0:07:43.30,English,,0,0,0,,influential essay called The End of History.\N{\rChinese}一篇名为《历史的终结》的有影响力的论文。
+Dialogue: 0,0:07:44.50,0:07:45.76,English,,0,0,0,,End of History.\N{\rChinese}历史的终结。
+Dialogue: 0,0:07:45.92,0:07:47.90,English,,0,0,0,,Okay? With a quotation mark.\N{\rChinese}“好吧？”
+Dialogue: 0,0:07:48.66,0:07:50.50,English,,0,0,0,,And he argued that\N{\rChinese}他认为
+Dialogue: 0,0:07:51.68,0:07:53.84,English,,0,0,0,,the Soviet Union fell\N{\rChinese}苏联解体
+Dialogue: 0,0:07:54.30,0:07:58.30,English,,0,0,0,,and America became triumphant because liberal democracy\N{\rChinese}美国因自由民主而胜利
+Dialogue: 0,0:07:59.56,0:08:02.68,English,,0,0,0,,is the best idea\N{\rChinese}是最好的想法
+Dialogue: 0,0:08:03.18,0:08:05.10,English,,0,0,0,,to have ever been invented.\N{\rChinese}曾经发明的。
+Dialogue: 0,0:08:07.04,0:08:09.44,English,,0,0,0,,And to make his argument,\N{\rChinese}并为此作出论点。
+Dialogue: 0,0:08:09.44,0:08:12.54,English,,0,0,0,,he uses the philosopher Frederick Hegel.\N{\rChinese}他引用了哲学家弗里德里希·黑格。
+Dialogue: 0,0:08:12.62,0:08:17.70,English,,0,0,0,,Okay? Now, Frederick Hegel had something called the theory of the dialectic.\N{\rChinese}好的？现在，弗里德里希·黑格有一种叫做辩证法的理论。
+Dialogue: 0,0:08:18.28,0:08:21.14,English,,0,0,0,,Dialectic. And\N{\rChinese}辩证法。
+Dialogue: 0,0:08:21.14,0:08:25.10,English,,0,0,0,,what Hegel argued is that history\N{\rChinese}何塞格所论的，是历史由思想之战决定的。
+Dialogue: 0,0:08:26.18,0:08:30.58,English,,0,0,0,,is determined by a war of ideas.\N{\rChinese}历史的进程由思想的运动决定。
+Dialogue: 0,0:08:32.52,0:08:37.30,English,,0,0,0,,The progress of history is determined by the movement of ideas.\N{\rChinese}The progress of history is determined by the movement of ideas.
+Dialogue: 0,0:08:37.30,0:08:40.74,English,,0,0,0,,And how ideas work is\N{\rChinese}并且思想的运作方式是
+Dialogue: 0,0:08:40.74,0:08:44.44,English,,0,0,0,,that they have a pattern called the dialectic.\N{\rChinese}它们有一种叫做辩证法的模式。
+Dialogue: 0,0:08:44.54,0:08:46.26,English,,0,0,0,,Okay? So there's a thesis.\N{\rChinese}好的？于是出现了一个命题。
+Dialogue: 0,0:08:47.84,0:08:50.62,English,,0,0,0,,A new idea comes into being.\N{\rChinese}出现一个新想法。
+Dialogue: 0,0:08:51.36,0:08:55.16,English,,0,0,0,,But then we recognize that this idea has problems.\N{\rChinese}随后我们发现这个想法有问题。
+Dialogue: 0,0:08:55.24,0:08:57.08,English,,0,0,0,,It's too extreme. It's too problematic.\N{\rChinese}它太极端，太棘手。
+Dialogue: 0,0:08:57.38,0:08:59.00,English,,0,0,0,,So we create an antithesis.\N{\rChinese}于是我们提出了一个对立命题。
+Dialogue: 0,0:08:59.30,0:09:01.92,English,,0,0,0,,Okay? But\N{\rChinese}好？但……
+Dialogue: 0,0:09:01.92,0:09:06.08,English,,0,0,0,,this antithesis itself is also too extreme.\N{\rChinese}这个对立命题本身也太极端。
+Dialogue: 0,0:09:06.18,0:09:08.34,English,,0,0,0,,And this creates also problems. So then\N{\rChinese}于是又产生了问题。于是……
+Dialogue: 0,0:09:08.34,0:09:12.14,English,,0,0,0,,what happens is the thesis and antithesis come together\N{\rChinese}随后，正题与反题相遇……
+Dialogue: 0,0:09:12.14,0:09:16.74,English,,0,0,0,,and create a more moderate, more efficient idea.\N{\rChinese}并形成更中庸、更高效的想法。
+Dialogue: 0,0:09:17.00,0:09:18.20,English,,0,0,0,,Okay? Called the synthesis.\N{\rChinese}好？称之为合成。
+Dialogue: 0,0:09:19.92,0:09:21.86,English,,0,0,0,,And this is how\N{\rChinese}而这就是……
+Dialogue: 0,0:09:23.02,0:09:25.54,English,,0,0,0,,history moves or progresses.\N{\rChinese}历史的运动或进展方式。
+Dialogue: 0,0:09:26.00,0:09:28.42,English,,0,0,0,,And so Fukuyama takes this idea and says, okay,\N{\rChinese}于是福山把这个想法拿来说，好的，
+Dialogue: 0,0:09:28.62,0:09:32.06,English,,0,0,0,,well this explains what's happening today.\N{\rChinese}好吧，这就解释了现在的情况。
+Dialogue: 0,0:09:32.30,0:09:35.48,English,,0,0,0,,Where at first you have a thesis called capitalism.\N{\rChinese}首先你有一个叫做资本主义的正题。
+Dialogue: 0,0:09:35.74,0:09:38.92,English,,0,0,0,,Okay? Capitalism.\N{\rChinese}好？资本主义。
+Dialogue: 0,0:09:39.20,0:09:40.92,English,,0,0,0,,And this creates the industrial revolution.\N{\rChinese}而这造就工业革命。
+Dialogue: 0,0:09:41.18,0:09:44.22,English,,0,0,0,,Right? And because capitalism was too extreme,\N{\rChinese}对吧，因资本主义过度，
+Dialogue: 0,0:09:44.48,0:09:46.86,English,,0,0,0,,we move towards communism.\N{\rChinese}我们向共产主义前进。
+Dialogue: 0,0:09:47.18,0:09:48.82,English,,0,0,0,,Okay? Communism was created\N{\rChinese}好？共产主义是被创造出来的。
+Dialogue: 0,0:09:50.40,0:09:53.16,English,,0,0,0,,to counteract the extremes of capitalism.\N{\rChinese}以抵消资本主义的极端。
+Dialogue: 0,0:09:54.76,0:09:57.00,English,,0,0,0,,But communism itself is too extreme.\N{\rChinese}但共产主义本身过于极端。
+Dialogue: 0,0:09:57.16,0:09:59.48,English,,0,0,0,,So then we move towards the middle.\N{\rChinese}于是我们转向中间。
+Dialogue: 0,0:09:59.56,0:10:01.58,English,,0,0,0,,Which is the right idea.\N{\rChinese}这才是正确的想法。
+Dialogue: 0,0:10:01.66,0:10:06.04,English,,0,0,0,,Which is called liberal democracy.\N{\rChinese}哪种叫做自由民主。
+Dialogue: 0,0:10:09.22,0:10:13.10,English,,0,0,0,,Okay? So what is liberal democracy? Well,\N{\rChinese}好？那自由民主是什么？嗯，
+Dialogue: 0,0:10:13.22,0:10:18.84,English,,0,0,0,,at the core of liberal democracy is the idea of consumerism.\N{\rChinese}自由民主的核心是消费主义的观念。
+Dialogue: 0,0:10:20.94,0:10:24.64,English,,0,0,0,,And the idea of consumerism is that we exist\N{\rChinese}并且消费主义的想法是我们存在的目的是买东西。
+Dialogue: 0,0:10:26.12,0:10:27.94,English,,0,0,0,,to buy things.\N{\rChinese}只要我们买东西，…。
+Dialogue: 0,0:10:28.56,0:10:31.02,English,,0,0,0,,And as long as we buy things,\N{\rChinese}And as long as we buy things,
+Dialogue: 0,0:10:31.40,0:10:33.10,English,,0,0,0,,there will be world peace.\N{\rChinese}将会有世界和平。
+Dialogue: 0,0:10:33.42,0:10:36.02,English,,0,0,0,,Why? Because consumers have the right to buy things.\N{\rChinese}为什么？因为消费者有买东西的权利。
+Dialogue: 0,0:10:36.02,0:10:37.86,English,,0,0,0,,And they have a need to buy. And therefore\N{\rChinese}他们也有买东西的需求，因此。
+Dialogue: 0,0:10:37.86,0:10:40.92,English,,0,0,0,,nations have a need to produce.\N{\rChinese}国家有生产的需求。
+Dialogue: 0,0:10:41.34,0:10:43.72,English,,0,0,0,,And nations produce the best when\N{\rChinese}当国家相互贸易而非互战时，生产最为出色。
+Dialogue: 0,0:10:43.72,0:10:47.54,English,,0,0,0,,they are trading together as opposed to warring against each other.\N{\rChinese}they are trading together as opposed to warring against each other.
+Dialogue: 0,0:10:48.40,0:10:51.70,English,,0,0,0,,Okay? So this is the argument\N{\rChinese}好的？这就是弗朗西斯·福山在“历史终结”中提出的论点。
+Dialogue: 0,0:10:51.70,0:10:57.36,English,,0,0,0,,that Francis Fukuyama makes in the end of history.\N{\rChinese}我想进一步阐述这个论点。
+Dialogue: 0,0:10:59.82,0:11:02.06,English,,0,0,0,,I want to explain this argument further.\N{\rChinese}I want to explain this argument further.
+Dialogue: 0,0:11:02.26,0:11:04.12,English,,0,0,0,,Okay? What's he really saying?\N{\rChinese}好的？他到底在说什么？
+Dialogue: 0,0:11:04.40,0:11:07.80,English,,0,0,0,,Okay. So throughout human history,\N{\rChinese}好的。所以在人的历史中，
+Dialogue: 0,0:11:08.02,0:11:10.80,English,,0,0,0,,all societies have struggled with one problem.\N{\rChinese}所有社会都在与同一个问题作斗争。
+Dialogue: 0,0:11:11.00,0:11:12.80,English,,0,0,0,,Which is how do we optimize\N{\rChinese}哪是我们如何优化劳动力？
+Dialogue: 0,0:11:13.70,0:11:16.42,English,,0,0,0,,the workforce? How do we get each and\N{\rChinese}我们怎样让每个人都尽可能努力工作？
+Dialogue: 0,0:11:16.42,0:11:19.98,English,,0,0,0,,every person to work as hard as possible for our society?\N{\rChinese}让每个人都为我们的社会尽力工作？
+Dialogue: 0,0:11:22.70,0:11:25.64,English,,0,0,0,,And if everyone did that, then our society would be\N{\rChinese}如果每个人都这么做，我们的社会就会强大、团结、繁荣。
+Dialogue: 0,0:11:26.28,0:11:28.12,English,,0,0,0,,strong, united, and prosperous.\N{\rChinese}对吧？好吧？所以这就是政治的根本问题。
+Dialogue: 0,0:11:28.30,0:11:31.34,English,,0,0,0,,Right? Okay? So that's a fundamental problem of politics.\N{\rChinese}Right? Okay? So that's a fundamental problem of politics.
+Dialogue: 0,0:11:32.38,0:11:34.54,English,,0,0,0,,How do we optimize workforce participation?\N{\rChinese}我们怎样优化劳动力参与？
+Dialogue: 0,0:11:35.20,0:11:39.50,English,,0,0,0,,And traditionally, or historically, there have been three answers.\N{\rChinese}传统上，或历史上，已有三种答案。
+Dialogue: 0,0:11:40.10,0:11:41.34,English,,0,0,0,,The first is war.\N{\rChinese}第一种是战争。
+Dialogue: 0,0:11:42.24,0:11:44.22,English,,0,0,0,,The second is religion.\N{\rChinese}第二种是宗教。
+Dialogue: 0,0:11:45.40,0:11:47.72,English,,0,0,0,,And the third is civilization.\N{\rChinese}第三种是文明。
+Dialogue: 0,0:11:48.22,0:11:53.58,English,,0,0,0,,Okay? Now,\N{\rChinese}好吧？
+Dialogue: 0,0:11:54.38,0:11:56.00,English,,0,0,0,,as you can understand,\N{\rChinese}正如你所理解，
+Dialogue: 0,0:11:56.54,0:11:59.78,English,,0,0,0,,these three things work because they give\N{\rChinese}这三件事之所以奏效，是因为它们赋予了
+Dialogue: 0,0:12:00.38,0:12:04.52,English,,0,0,0,,structure, meaning,\N{\rChinese}结构、意义，
+Dialogue: 0,0:12:05.16,0:12:09.42,English,,0,0,0,,and purpose to our lives.\N{\rChinese}并且赋予我们生活的目的。
+Dialogue: 0,0:12:09.60,0:12:12.20,English,,0,0,0,,Okay? And we have structure, meaning, and purpose,\N{\rChinese}好吧？我们有结构、意义和目的，
+Dialogue: 0,0:12:12.34,0:12:15.68,English,,0,0,0,,we are much more motivated to work hard.\N{\rChinese}我们就更有动力去努力工作。
+Dialogue: 0,0:12:16.54,0:12:20.98,English,,0,0,0,,But as you can also see, there are actually lots of problems\N{\rChinese}但正如你所见，三者都有不少问题。
+Dialogue: 0,0:12:22.22,0:12:23.84,English,,0,0,0,,with all three.\N{\rChinese}对吧？战争就是杀人。
+Dialogue: 0,0:12:23.98,0:12:25.70,English,,0,0,0,,Right? War is you kill people.\N{\rChinese}Right? War is you kill people.
+Dialogue: 0,0:12:25.80,0:12:28.02,English,,0,0,0,,That's bad. Religion is superstitious.\N{\rChinese}那就糟了。宗教是迷信。
+Dialogue: 0,0:12:28.24,0:12:31.86,English,,0,0,0,,Okay? But civilization itself is also\N{\rChinese}好吧？但文明本身也是
+Dialogue: 0,0:12:32.38,0:12:37.68,English,,0,0,0,,problematic. Because the larger extreme of civilization is\N{\rChinese}问题的。因为文明的更大极限是
+Dialogue: 0,0:12:38.64,0:12:41.52,English,,0,0,0,,racism. Okay? Which\N{\rChinese}种族主义。好吧？就是要说我们俄罗斯人比其他人好。
+Dialogue: 0,0:12:41.52,0:12:44.66,English,,0,0,0,,is to say that we Russians are better than everyone else.\N{\rChinese}我们中国人比其他人好。
+Dialogue: 0,0:12:44.80,0:12:46.48,English,,0,0,0,,We Chinese are better than everyone else.\N{\rChinese}We Chinese are better than everyone else.
+Dialogue: 0,0:12:46.74,0:12:48.62,English,,0,0,0,,Therefore, we can do whatever we want.\N{\rChinese}于是我们可以随心所欲。
+Dialogue: 0,0:12:48.76,0:12:53.36,English,,0,0,0,,Okay? And this naturally leads to imperialism. Right?\N{\rChinese}好吧？这自然导致了帝国主义。对吧？
+Dialogue: 0,0:12:56.38,0:13:00.28,English,,0,0,0,,We have a duty to go conquer other people,\N{\rChinese}我们有义务去征服他人。
+Dialogue: 0,0:13:00.28,0:13:01.60,English,,0,0,0,,to civilize them.\N{\rChinese}把他们文明化。
+Dialogue: 0,0:13:01.72,0:13:03.36,English,,0,0,0,,Right? Something called the white man's burden.\N{\rChinese}对吧？这叫白人负担。
+Dialogue: 0,0:13:04.72,0:13:06.92,English,,0,0,0,,And this leads to fascism.\N{\rChinese}于是就出现了法西主义。
+Dialogue: 0,0:13:07.08,0:13:10.82,English,,0,0,0,,Okay? Okay?\N{\rChinese}好吧？好吧？
+Dialogue: 0,0:13:10.86,0:13:12.80,English,,0,0,0,,War and conquest are the ultimate good.\N{\rChinese}战争与征服是终极之善。
+Dialogue: 0,0:13:14.12,0:13:17.52,English,,0,0,0,,So, historically, war, religion, and civilization\N{\rChinese}于是，历史上，战争、宗教与文明。
+Dialogue: 0,0:13:18.14,0:13:21.04,English,,0,0,0,,have given people structure, meaning, and purpose,\N{\rChinese}给人们结构、意义和目的。
+Dialogue: 0,0:13:21.36,0:13:23.60,English,,0,0,0,,but they create a lot of problems.\N{\rChinese}但它们造成了很多问题。
+Dialogue: 0,0:13:23.72,0:13:26.04,English,,0,0,0,,They create suffering, and war,\N{\rChinese}它们带来痛苦与战争。
+Dialogue: 0,0:13:27.02,0:13:28.44,English,,0,0,0,,and pain. Okay?\N{\rChinese}和痛苦。好吧？
+Dialogue: 0,0:13:29.10,0:13:32.82,English,,0,0,0,,So, but over time,\N{\rChinese}于是，随着时间的推移，
+Dialogue: 0,0:13:33.20,0:13:36.10,English,,0,0,0,,what has happened is that\N{\rChinese}发生的事是……
+Dialogue: 0,0:13:37.56,0:13:42.30,English,,0,0,0,,all of them, over time, have become much more abstract.\N{\rChinese}它们都在时间里变得更抽象。
+Dialogue: 0,0:13:43.66,0:13:49.36,English,,0,0,0,,And the reason why they've become more abstract is in order to increase the population,\N{\rChinese}原因是为了增加人口
+Dialogue: 0,0:13:49.62,0:13:53.10,English,,0,0,0,,in order to create mass society.\N{\rChinese}以此形成大众社会
+Dialogue: 0,0:13:53.52,0:13:54.82,English,,0,0,0,,Okay? So, let me give you an example of this.\N{\rChinese}好的？那么，我给你举个例子。
+Dialogue: 0,0:13:55.18,0:13:56.78,English,,0,0,0,,The earliest religions\N{\rChinese}最早的宗教
+Dialogue: 0,0:13:57.48,0:14:00.20,English,,0,0,0,,in humanity have been polytheistic.\N{\rChinese}在人类中曾是多神论。
+Dialogue: 0,0:14:01.20,0:14:03.76,English,,0,0,0,,Okay? And the gods themselves were very much like humans.\N{\rChinese}好的？而神们本身也很像人。
+Dialogue: 0,0:14:03.96,0:14:05.28,English,,0,0,0,,Think of the Greeks. Okay? Zeus,\N{\rChinese}想想希腊人。好吧？宙斯，
+Dialogue: 0,0:14:07.26,0:14:08.58,English,,0,0,0,,Athena, Hera.\N{\rChinese}雅典娜，赫拉。
+Dialogue: 0,0:14:08.86,0:14:11.94,English,,0,0,0,,Okay? It was a polytheistic society, and\N{\rChinese}好吧？那是一个多神论社会，且
+Dialogue: 0,0:14:11.94,0:14:14.76,English,,0,0,0,,they were very much like humans.\N{\rChinese}它们非常像人类。
+Dialogue: 0,0:14:15.36,0:14:16.62,English,,0,0,0,,But over time,\N{\rChinese}但随着时间的推移，
+Dialogue: 0,0:14:17.10,0:14:21.02,English,,0,0,0,,this polytheism became monotheistic, and it became abstract.\N{\rChinese}这多神论演变为单神论，并变得抽象。
+Dialogue: 0,0:14:21.18,0:14:24.92,English,,0,0,0,,Okay? The idea of God was so much removed from us.\N{\rChinese}好的？神的概念从我们身上已远去。
+Dialogue: 0,0:14:25.70,0:14:28.02,English,,0,0,0,,And the benefit of that is that\N{\rChinese}而且那样的好处是
+Dialogue: 0,0:14:28.02,0:14:31.48,English,,0,0,0,,you can have more people believing in one God.\N{\rChinese}你可以让更多人相信一位神。
+Dialogue: 0,0:14:32.62,0:14:35.40,English,,0,0,0,,And it motivates you to work harder.\N{\rChinese}这激励你更努力工作。
+Dialogue: 0,0:14:35.54,0:14:37.28,English,,0,0,0,,Okay? It's just an abstract concept.\N{\rChinese}好的？它只是一个抽象概念。
+Dialogue: 0,0:14:38.26,0:14:40.02,English,,0,0,0,,And because of abstraction,\N{\rChinese}而且因为抽象化，
+Dialogue: 0,0:14:41.04,0:14:42.98,English,,0,0,0,,we develop new ideas.\N{\rChinese}我们发展新想法。
+Dialogue: 0,0:14:43.26,0:14:45.24,English,,0,0,0,,For example, money.\N{\rChinese}例如，金钱。
+Dialogue: 0,0:14:45.38,0:14:48.28,English,,0,0,0,,Okay? So,\N{\rChinese}好吧？所以，
+Dialogue: 0,0:14:48.32,0:14:51.58,English,,0,0,0,,rather than have war, religion,\N{\rChinese}不如有战争，宗教，
+Dialogue: 0,0:14:51.97,0:14:55.22,English,,0,0,0,,and civilization as the structure\N{\rChinese}并且文明作为结构和我们社会的中心，便会产生金钱。
+Dialogue: 0,0:14:55.90,0:14:59.52,English,,0,0,0,,and center of our society, one would make money\N{\rChinese}并且文明作为结构和我们社会的中心，便会产生金钱。
+Dialogue: 0,0:15:00.28,0:15:01.64,English,,0,0,0,,from the structure of your society. Okay?\N{\rChinese}从你们社会的结构中。好吧？
+Dialogue: 0,0:15:01.84,0:15:03.64,English,,0,0,0,,This is what we call capitalism.\N{\rChinese}这就是我们所说的资本主义。
+Dialogue: 0,0:15:05.44,0:15:09.62,English,,0,0,0,,And capitalism, of course, led to the industrial revolution.\N{\rChinese}资本主义当然也导致了工业革命。
+Dialogue: 0,0:15:10.10,0:15:13.40,English,,0,0,0,,Industrialism. Okay?\N{\rChinese}工业主义。好吧？
+Dialogue: 0,0:15:13.50,0:15:17.70,English,,0,0,0,,Capitalism meant that societies were becoming\N{\rChinese}资本主义意味着社会正在变得…
+Dialogue: 0,0:15:18.24,0:15:20.28,English,,0,0,0,,wealthier and wealthier, more industrialized.\N{\rChinese}更富裕、更富裕，工业化程度更高。
+Dialogue: 0,0:15:21.34,0:15:23.06,English,,0,0,0,,Okay? Does that make sense? Alright.\N{\rChinese}好吧？这有道理吗？好的。
+Dialogue: 0,0:15:24.30,0:15:28.52,English,,0,0,0,,But there's a problem with capitalism. Right?\N{\rChinese}但资本主义有个问题。对吧。
+Dialogue: 0,0:15:28.70,0:15:34.34,English,,0,0,0,,What's the problem with making capital or money at the very heart of your society?\N{\rChinese}在你社会的核心制造资本或金钱有什么问题？
+Dialogue: 0,0:15:46.48,0:15:48.06,English,,0,0,0,,Exactly. Okay? So,\N{\rChinese}好的？那么，
+Dialogue: 0,0:15:48.16,0:15:51.42,English,,0,0,0,,the first major problem with capitalism is it's all -consuming.\N{\rChinese}资本主义的第一个主要问题是它的全盘消耗。
+Dialogue: 0,0:15:52.10,0:15:54.44,English,,0,0,0,,So, as Jack says,\N{\rChinese}于是正如杰克所说，
+Dialogue: 0,0:15:54.76,0:15:57.88,English,,0,0,0,,all capitalism cares about is the expansion and\N{\rChinese}资本主义所关心的全是资本的扩张与增长，
+Dialogue: 0,0:15:57.88,0:16:02.52,English,,0,0,0,,growth of capital, regardless of its effect on society.\N{\rChinese}不管它对社会的影响如何。
+Dialogue: 0,0:16:02.96,0:16:05.10,English,,0,0,0,,Okay? Profit for the sake of growing profit.\N{\rChinese}好的？利润只为利润而增长。
+Dialogue: 0,0:16:05.24,0:16:08.30,English,,0,0,0,,It's an all -consuming idea, which\N{\rChinese}这是一种全盘消耗的想法，且
+Dialogue: 0,0:16:08.30,0:16:11.48,English,,0,0,0,,can ultimately lead to the destruction of the planet.\N{\rChinese}最终可能导致地球的毁灭。
+Dialogue: 0,0:16:11.60,0:16:12.86,English,,0,0,0,,Okay? That's the first problem.\N{\rChinese}好的？那是第一个问题。
+Dialogue: 0,0:16:13.04,0:16:15.62,English,,0,0,0,,What's another problem with capitalism?\N{\rChinese}资本主义还有什么别的问题？
+Dialogue: 0,0:16:15.84,0:16:20.16,English,,0,0,0,,Or the idea of having money as the heart and center of your society?\N{\rChinese}或者把钱当作你们社会的心脏和中心的想法呢？
+Dialogue: 0,0:16:25.56,0:16:35.12,English,,0,0,0,,Anyone? Okay. So,\N{\rChinese}有人吗？好的。于是，
+Dialogue: 0,0:16:35.26,0:16:37.32,English,,0,0,0,,what this means is that\N{\rChinese}这意味着什么呢，
+Dialogue: 0,0:16:37.32,0:16:40.08,English,,0,0,0,,money likes to consolidate itself.\N{\rChinese}钱喜欢自我合并。
+Dialogue: 0,0:16:40.54,0:16:42.70,English,,0,0,0,,Okay? Consolidating. Okay? Meaning that\N{\rChinese}好的？合并。好的？意思是……
+Dialogue: 0,0:16:43.42,0:16:47.12,English,,0,0,0,,if, so the example is, let's just say that each of us had a million dollars.\N{\rChinese}如果，举个例子，假设我们每人都有一百万美元。
+Dialogue: 0,0:16:47.28,0:16:50.24,English,,0,0,0,,Right? What's the fastest way for us to grow our money?\N{\rChinese}好的？最快让我们钱增值的方法是什么？
+Dialogue: 0,0:16:52.84,0:16:55.84,English,,0,0,0,,If we put it together, right? And then we go invest it.\N{\rChinese}如果我们把它们放在一起，好的？然后我们去投资它。
+Dialogue: 0,0:16:57.20,0:17:00.24,English,,0,0,0,,Okay? So, in other words, if you just like,\N{\rChinese}好的？所以，换句话说，如果你只是……
+Dialogue: 0,0:17:00.28,0:17:03.72,English,,0,0,0,,let capitalism do whatever it wants to infinity,\N{\rChinese}让资本主义做它想做的事，直到无穷无尽。
+Dialogue: 0,0:17:04.36,0:17:08.44,English,,0,0,0,,what happens is that you exactly have one person with all the money.\N{\rChinese}发生的事是，你恰好拥有一个人掌握所有的钱。
+Dialogue: 0,0:17:08.98,0:17:12.64,English,,0,0,0,,Okay? Does that make sense? Because that's the fastest way to grow money, by consolidating it.\N{\rChinese}好的？这样说通吗？因为这就是通过合并最快让钱增值的方式。
+Dialogue: 0,0:17:13.58,0:17:16.82,English,,0,0,0,,Okay? So that's problematic. What else is wrong with\N{\rChinese}好的？所以这就有问题。还有什么不对的地方？
+Dialogue: 0,0:17:17.60,0:17:21.82,English,,0,0,0,,capitalism or money? Okay.\N{\rChinese}资本主义还是金钱？好的。
+Dialogue: 0,0:17:21.88,0:17:24.98,English,,0,0,0,,So another problem is the idea of alienating.\N{\rChinese}另一个问题是异化的概念。
+Dialogue: 0,0:17:26.96,0:17:28.00,English,,0,0,0,,Or dehumanizing.\N{\rChinese}或者去人性化。
+Dialogue: 0,0:17:32.68,0:17:34.38,English,,0,0,0,,Okay? What does this mean?\N{\rChinese}好的？这句话是什么意思？
+Dialogue: 0,0:17:36.02,0:17:38.04,English,,0,0,0,,Capital alienates and dehumanizes.\N{\rChinese}资本使人异化并去人性化。
+Dialogue: 0,0:17:39.06,0:17:40.14,English,,0,0,0,,What does that mean?\N{\rChinese}那又是什么意思？
+Dialogue: 0,0:17:48.06,0:17:51.56,English,,0,0,0,,Exactly. Okay. You are, you as a person cease to be human.\N{\rChinese}正是。好的。你，作为一个人，便不再是人类。
+Dialogue: 0,0:17:52.16,0:17:54.32,English,,0,0,0,,Right? To be human is to be a complex,\N{\rChinese}对吗？成为人类就是成为一个复杂的，
+Dialogue: 0,0:17:55.54,0:17:56.94,English,,0,0,0,,multifaceted individual\N{\rChinese}多面向的个体。
+Dialogue: 0,0:17:58.10,0:17:59.58,English,,0,0,0,,who likes to create and love.\N{\rChinese}谁喜欢创造并热爱。
+Dialogue: 0,0:18:00.28,0:18:03.56,English,,0,0,0,,But in capitalism, you're only your production value,\N{\rChinese}但在资本主义里，你只是自己的生产价值，
+Dialogue: 0,0:18:03.86,0:18:06.56,English,,0,0,0,,you're only the amount of money in your bank account.\N{\rChinese}你只是银行账户里的金额。
+Dialogue: 0,0:18:06.80,0:18:08.48,English,,0,0,0,,Okay? Does that make sense? Alright?\N{\rChinese}好的？这样说通吗？好吧？
+Dialogue: 0,0:18:08.68,0:18:11.28,English,,0,0,0,,So, for all these reasons,\N{\rChinese}所以，基于这些原因，
+Dialogue: 0,0:18:12.70,0:18:15.14,English,,0,0,0,,capitalism is really bad.\N{\rChinese}资本主义真的很糟。
+Dialogue: 0,0:18:15.30,0:18:20.00,English,,0,0,0,,There are actually more reasons. Okay? So, Karl Marx,\N{\rChinese}有更多理由。好吧？于是，卡尔·马克思在《共产党宣言》中指出了资本主义的这些问题，并提出了解决方案。
+Dialogue: 0,0:18:22.30,0:18:26.40,English,,0,0,0,,in his Communist Manifesto, points out all these problems of capitalism\N{\rChinese}在他的《共产党宣言》中，卡尔·马克思指出了资本主义的这些问题，并提出了解决方案。
+Dialogue: 0,0:18:26.40,0:18:27.70,English,,0,0,0,,and he proposes a solution.\N{\rChinese}卡尔·马克思在《共产党宣言》中指出了资本主义的这些问题，并提出了解决方案。
+Dialogue: 0,0:18:28.00,0:18:32.34,English,,0,0,0,,Which is, okay, rather than make money at the heart\N{\rChinese}哪是，好的，先在工业社会的中心而不是赚钱
+Dialogue: 0,0:18:32.34,0:18:34.82,English,,0,0,0,,and center of your industrial society,\N{\rChinese}在工业社会的中心，先是工人而不是赚钱
+Dialogue: 0,0:18:35.20,0:18:41.02,English,,0,0,0,,make the worker the heart\N{\rChinese}把工人放在工业社会的中心
+Dialogue: 0,0:18:41.02,0:18:42.76,English,,0,0,0,,and center of your society.\N{\rChinese}在你的社会中心。
+Dialogue: 0,0:18:43.24,0:18:45.78,English,,0,0,0,,Okay? So he makes this argument.\N{\rChinese}好的？于是他提出了这个论点。
+Dialogue: 0,0:18:45.96,0:18:49.62,English,,0,0,0,,But what's very revolutionary or prescient\N{\rChinese}但这到底是什么革命性或先见之处。
+Dialogue: 0,0:18:50.23,0:18:54.92,English,,0,0,0,,about his argument is this is a natural cycle.\N{\rChinese}关于他的论点是这是一个自然循环。
+Dialogue: 0,0:18:55.10,0:18:59.80,English,,0,0,0,,Okay? This is part of the Hegel cycle where capitalism comes along and\N{\rChinese}好的？这属于黑格循环的一部分，资本主义出现并且会出现。
+Dialogue: 0,0:19:00.28,0:19:01.56,English,,0,0,0,,capitalism will be the natural evolution\N{\rChinese}资本主义将是自然演进。
+Dialogue: 0,0:19:02.58,0:19:04.50,English,,0,0,0,,of capitalism. Okay?\N{\rChinese}资本主义的。好的吗？
+Dialogue: 0,0:19:04.56,0:19:07.10,English,,0,0,0,,Why? Okay.\N{\rChinese}为什么？好的吗。
+Dialogue: 0,0:19:07.10,0:19:08.62,English,,0,0,0,,Okay. So let's do the thought experiment.\N{\rChinese}好。于是我们来做这个思考实验。
+Dialogue: 0,0:19:08.80,0:19:11.74,English,,0,0,0,,Okay? Let's do this thought experiment where your parents have died\N{\rChinese}好的？让我们做这个思考实验：你的父母去世了。
+Dialogue: 0,0:19:12.26,0:19:17.18,English,,0,0,0,,and now you're working in a factory in order to survive.\N{\rChinese}然后你去工厂工作以求生计。
+Dialogue: 0,0:19:18.12,0:19:20.84,English,,0,0,0,,How do you feel about this?\N{\rChinese}你对此有何感受？
+Dialogue: 0,0:19:23.26,0:19:25.96,English,,0,0,0,,Your parents have died. There's no one to support you.\N{\rChinese}你的父母去世了，没人能扶持你。
+Dialogue: 0,0:19:26.12,0:19:29.82,English,,0,0,0,,So, at age 16, 17, 18, you have to go off to a factory.\N{\rChinese}于是你在十六、十七、十八岁时得去工厂。
+Dialogue: 0,0:19:30.28,0:19:31.76,English,,0,0,0,,To make money for yourself.\N{\rChinese}在那里为自己赚钱。
+Dialogue: 0,0:19:32.02,0:19:33.32,English,,0,0,0,,So how do you feel about this?\N{\rChinese}你对此有何感受？
+Dialogue: 0,0:19:37.22,0:19:38.46,English,,0,0,0,,Are you happy about this?\N{\rChinese}你对此感到开心吗？
+Dialogue: 0,0:19:39.58,0:19:42.18,English,,0,0,0,,How, how do you feel?\N{\rChinese}你是怎么想的？
+Dialogue: 0,0:19:46.06,0:19:49.06,English,,0,0,0,,Depressing and? And lonely and?\N{\rChinese}沮丧又？又孤单？
+Dialogue: 0,0:19:53.64,0:19:55.68,English,,0,0,0,,Yeah, exactly. You're bitter.\N{\rChinese}是的，正是。你很酸涩。
+Dialogue: 0,0:19:56.08,0:19:57.60,English,,0,0,0,,And you're depressed.\N{\rChinese}而且你很沮丧。
+Dialogue: 0,0:19:58.10,0:19:59.60,English,,0,0,0,,Okay? You're alienated.\N{\rChinese}好的？你已疏离。
+Dialogue: 0,0:20:00.58,0:20:04.62,English,,0,0,0,,So then what do you do? Then what do you do?\N{\rChinese}那你接着干什么？那你接着干什么？
+Dialogue: 0,0:20:13.06,0:20:16.08,English,,0,0,0,,What can you do now? You're bitter.\N{\rChinese}你现在能干什么？你很酸涩。
+Dialogue: 0,0:20:16.38,0:20:18.30,English,,0,0,0,,You're angry. You're depressed.\N{\rChinese}你生气了。你沮丧。
+Dialogue: 0,0:20:18.70,0:20:20.04,English,,0,0,0,,You're lonely. So what do you do?\N{\rChinese}你孤单。那你干什么？
+Dialogue: 0,0:20:26.90,0:20:28.36,English,,0,0,0,,Okay. You start to\N{\rChinese}好了。你开始
+Dialogue: 0,0:20:28.84,0:20:30.26,English,,0,0,0,,think about why this is the case.\N{\rChinese}想想为什么会这样。
+Dialogue: 0,0:20:30.28,0:20:33.30,English,,0,0,0,,Right? You start to have a political consciousness.\N{\rChinese}对吧？你开始有了政治意识。
+Dialogue: 0,0:20:33.74,0:20:35.46,English,,0,0,0,,What Marx calls political\N{\rChinese}马克思所说的政治…
+Dialogue: 0,0:20:36.26,0:20:40.62,English,,0,0,0,,consciousness. From this alienation of the worker,\N{\rChinese}意识。由工人离化产生，从而产生意识。
+Dialogue: 0,0:20:40.86,0:20:43.60,English,,0,0,0,,workers will start to develop a political consciousness.\N{\rChinese}工人将开始形成政治意识。
+Dialogue: 0,0:20:43.96,0:20:45.96,English,,0,0,0,,Right? They're like, why is this happening?\N{\rChinese}对吧？他们会问，为什么会这样？
+Dialogue: 0,0:20:46.42,0:20:47.82,English,,0,0,0,,Why has the government abandoned me?\N{\rChinese}政府为什么抛弃我？
+Dialogue: 0,0:20:48.10,0:20:49.68,English,,0,0,0,,Why has society abandoned me?\N{\rChinese}社会为什么抛弃我？
+Dialogue: 0,0:20:49.74,0:20:50.98,English,,0,0,0,,What can I do about this?\N{\rChinese}我能对此做些什么？
+Dialogue: 0,0:20:51.16,0:20:53.46,English,,0,0,0,,Okay? So then what happens?\N{\rChinese}好的？那接下来会怎样？
+Dialogue: 0,0:20:56.24,0:20:57.62,English,,0,0,0,,That's exactly right. You want change.\N{\rChinese}完全正确。你想要改变。
+Dialogue: 0,0:20:57.62,0:20:59.42,English,,0,0,0,,Right? And how do you enact change?\N{\rChinese}对了？你怎么去实现改变？
+Dialogue: 0,0:21:03.44,0:21:06.50,English,,0,0,0,,Yes. Okay. You spread your ideas and you organize.\N{\rChinese}是的。好的。你传播你的想法并组织起来。
+Dialogue: 0,0:21:06.88,0:21:10.44,English,,0,0,0,,Right? And when you organize, what do you realize?\N{\rChinese}对了？当你组织时，你会意识到什么？
+Dialogue: 0,0:21:17.20,0:21:20.98,English,,0,0,0,,Yeah. What you recognize when you start to organize is\N{\rChinese}是的。你开始组织时所认识到的事是…
+Dialogue: 0,0:21:21.41,0:21:24.02,English,,0,0,0,,the capitalist needs you to do the work.\N{\rChinese}资本家需要你来做工作。
+Dialogue: 0,0:21:24.44,0:21:27.42,English,,0,0,0,,Right? The capitalist owns the capital and\N{\rChinese}对了？资本家拥有资本和工厂，...
+Dialogue: 0,0:21:27.42,0:21:30.76,English,,0,0,0,,the factories, but you're the one who's actually doing the real work.\N{\rChinese}...但你才是实际做工作的人。
+Dialogue: 0,0:21:31.16,0:21:32.46,English,,0,0,0,,So without you,\N{\rChinese}所以没有你，
+Dialogue: 0,0:21:33.38,0:21:36.14,English,,0,0,0,,the factories can't run. So as long as you stay united,\N{\rChinese}工厂就运转不了。只要你们保持统一，
+Dialogue: 0,0:21:36.48,0:21:41.10,English,,0,0,0,,you can enact whatever political demands you want.\N{\rChinese}你们就能实现任何你们想要的政治诉求。
+Dialogue: 0,0:21:41.32,0:21:42.62,English,,0,0,0,,Okay? Does that make sense? Okay?\N{\rChinese}好的？这样说通吗？好？
+Dialogue: 0,0:21:42.72,0:21:46.80,English,,0,0,0,,So for Marx, this is just a natural evolution of capitalism.\N{\rChinese}于是对马克思来说，这只是资本主义的自然演变。
+Dialogue: 0,0:21:47.10,0:21:49.92,English,,0,0,0,,Capitalism leads to the alienation of the working class,\N{\rChinese}资本主义导致工人阶级的异化。
+Dialogue: 0,0:21:50.16,0:21:54.84,English,,0,0,0,,which will lead to their political consciousness, which will lead to their solidarity,\N{\rChinese}这将导致他们的政治意识，随后产生团结，并引发政治革命，于是工人便成为核心与中心。
+Dialogue: 0,0:21:55.28,0:21:58.24,English,,0,0,0,,which will lead to a political revolution, and\N{\rChinese}这将导致他们的政治意识，随后产生团结，并引发政治革命，于是工人便成为核心与中心。
+Dialogue: 0,0:21:58.24,0:22:02.86,English,,0,0,0,,so you can make the worker as the heart and center\N{\rChinese}这将导致他们的政治意识，随后产生团结，并引发政治革命，于是工人便成为核心与中心。
+Dialogue: 0,0:22:03.38,0:22:04.96,English,,0,0,0,,of your society.\N{\rChinese}你的社会的……
+Dialogue: 0,0:22:05.82,0:22:08.96,English,,0,0,0,,Okay? Does that make sense, guys?\N{\rChinese}好吧？这样说通吗，大家？
+Dialogue: 0,0:22:09.18,0:22:12.52,English,,0,0,0,,Alright? Now,\N{\rChinese}好了？现在，
+Dialogue: 0,0:22:12.52,0:22:14.86,English,,0,0,0,,what's amazing about Marx\N{\rChinese}马克思的惊人之处
+Dialogue: 0,0:22:15.30,0:22:18.26,English,,0,0,0,,is that today we say he's wrong.\N{\rChinese}就是今天我们说他错了。
+Dialogue: 0,0:22:18.48,0:22:22.72,English,,0,0,0,,Right? Communism happened in the Soviet Union,\N{\rChinese}对吧？共产主义在苏联出现了。
+Dialogue: 0,0:22:22.88,0:22:27.20,English,,0,0,0,,it happened in China, but it didn't happen in Europe and in the United States.\N{\rChinese}它发生在中国，但在欧洲和美国没有发生。
+Dialogue: 0,0:22:27.62,0:22:30.72,English,,0,0,0,,Where Marx said it would happen first, because\N{\rChinese}马克思说它会首先发生，因为
+Dialogue: 0,0:22:30.72,0:22:33.92,English,,0,0,0,,Germany was more industrialized than Russia or China.\N{\rChinese}德国比俄罗斯或中国更工业化。
+Dialogue: 0,0:22:34.10,0:22:36.66,English,,0,0,0,,Okay? Does that make sense? That's what we say.\N{\rChinese}好的？这有道理吗？这就是我们说的。
+Dialogue: 0,0:22:37.38,0:22:39.80,English,,0,0,0,,If you think about it deeply, okay,\N{\rChinese}如果你深思一下，好吗，
+Dialogue: 0,0:22:42.50,0:22:45.88,English,,0,0,0,,Marx was right. After World War II,\N{\rChinese}马克思是对的。二战后，
+Dialogue: 0,0:22:46.86,0:22:50.40,English,,0,0,0,,every society, every industrial society, to some extent,\N{\rChinese}每个社会、每个工业社会，在某种程度上，都采纳了共产主义的理想。
+Dialogue: 0,0:22:51.26,0:22:54.62,English,,0,0,0,,adopted the ideals of communism.\N{\rChinese}这有道理吗？好吗？
+Dialogue: 0,0:22:55.56,0:22:57.38,English,,0,0,0,,Does that make sense? Okay?\N{\rChinese}Does that make sense? Okay?
+Dialogue: 0,0:22:57.62,0:23:00.24,English,,0,0,0,,We call this socialism, not communism, but\N{\rChinese}我们称之为社会主义，而非共产主义，但
+Dialogue: 0,0:23:00.24,0:23:03.08,English,,0,0,0,,basically it adhere to the thinking\N{\rChinese}基本上它遵循马克思的思路，
+Dialogue: 0,0:23:03.74,0:23:07.38,English,,0,0,0,,of Marx, which is to make the worker the heart\N{\rChinese}即把工人放在核心位置。
+Dialogue: 0,0:23:07.38,0:23:08.72,English,,0,0,0,,and center of your society.\N{\rChinese}并成为你们社会的中心。
+Dialogue: 0,0:23:09.42,0:23:11.48,English,,0,0,0,,And why did they do that after World War II?\N{\rChinese}那为什么他们在第二次世界大战后这么做？
+Dialogue: 0,0:23:13.86,0:23:16.68,English,,0,0,0,,Exactly, okay? Because workers create value.\N{\rChinese}没错，好的？因为工人创造价值。
+Dialogue: 0,0:23:20.02,0:23:21.88,English,,0,0,0,,Money doesn't create any value.\N{\rChinese}钱本身不创造任何价值。
+Dialogue: 0,0:23:22.18,0:23:23.70,English,,0,0,0,,Money just creates more money.\N{\rChinese}钱只是再造钱。
+Dialogue: 0,0:23:23.82,0:23:27.26,English,,0,0,0,,Okay, it's speculative. But the workers create value.\N{\rChinese}好的，算是投机。可工人创造价值。
+Dialogue: 0,0:23:27.62,0:23:30.70,English,,0,0,0,,And therefore, you have to treat your workers properly.\N{\rChinese}于是，你就得好好对待你的工人。
+Dialogue: 0,0:23:31.00,0:23:33.46,English,,0,0,0,,So, in America and in Europe,\N{\rChinese}于是，在美国和欧洲，
+Dialogue: 0,0:23:33.64,0:23:37.88,English,,0,0,0,,workers became the heart and center of your society.\N{\rChinese}工人成为你们社会的心脏与中心。
+Dialogue: 0,0:23:38.32,0:23:41.02,English,,0,0,0,,And the workers through unions\N{\rChinese}并且工人通过工会
+Dialogue: 0,0:23:41.50,0:23:45.00,English,,0,0,0,,could demand political reforms.\N{\rChinese}可以要求政治改革
+Dialogue: 0,0:23:45.56,0:23:50.92,English,,0,0,0,,And so, all of society was geared towards making the lives of the middle class,\N{\rChinese}于是，整个社会都以中产阶层的生活为目标
+Dialogue: 0,0:23:51.24,0:23:52.60,English,,0,0,0,,the working class, better, okay?\N{\rChinese}工人，做得更好，行吗？
+Dialogue: 0,0:23:52.78,0:23:54.66,English,,0,0,0,,That's why you had excellent healthcare,\N{\rChinese}这就是你们拥有优质医疗的原因，
+Dialogue: 0,0:23:55.20,0:23:56.64,English,,0,0,0,,great public schools.\N{\rChinese}以及优秀的公立学校。
+Dialogue: 0,0:23:58.62,0:24:02.90,English,,0,0,0,,Cheap universities. Okay?\N{\rChinese}便宜的大学，行吗？
+Dialogue: 0,0:24:03.02,0:24:06.84,English,,0,0,0,,So, the 50s and 60s and 70s was basically the peak\N{\rChinese}于是，50年代、60年代、70年代基本是工人阶层社会的巅峰。
+Dialogue: 0,0:24:09.30,0:24:11.48,English,,0,0,0,,of society for the working class.\N{\rChinese}of society for the working class.
+Dialogue: 0,0:24:12.78,0:24:14.24,English,,0,0,0,,But in the 80s,\N{\rChinese}[402] 但在80年代，
+Dialogue: 0,0:24:16.02,0:24:17.24,English,,0,0,0,,we started to change this.\N{\rChinese}[403] 我们开始改变这一点。
+Dialogue: 0,0:24:17.28,0:24:21.32,English,,0,0,0,,Why? Why would we want to change the system?\N{\rChinese}[404] 为什么？我们为什么要改系统？
+Dialogue: 0,0:24:21.44,0:24:23.26,English,,0,0,0,,It's a great system, right? Marx is right.\N{\rChinese}它是个很棒的系统，对吧？马克思是对的。
+Dialogue: 0,0:24:23.50,0:24:27.54,English,,0,0,0,,Having the worker as the heart and center of your society.\N{\rChinese}把工人放在社会的心脏和中心。
+Dialogue: 0,0:24:27.62,0:24:30.62,English,,0,0,0,,As the central organizing unit of society\N{\rChinese}把工人作为社会的核心组织单元。
+Dialogue: 0,0:24:30.62,0:24:35.96,English,,0,0,0,,makes a lot more sense than having money as the heart\N{\rChinese}更有意义的是把钱放在心脏和中心，明白吗？
+Dialogue: 0,0:24:35.96,0:24:39.66,English,,0,0,0,,and center, okay? But starting in the 80s, we start to go back to money.\N{\rChinese}但从80年代开始，我们又把钱放回了心脏和中心。
+Dialogue: 0,0:24:39.78,0:24:50.64,English,,0,0,0,,Why? Excuse me?\N{\rChinese}为什么？请问一下？
+Dialogue: 0,0:24:57.96,0:25:02.42,English,,0,0,0,,Who wants more? Yes, exactly.\N{\rChinese}谁想要更多？是的，正是如此。
+Dialogue: 0,0:25:02.56,0:25:05.18,English,,0,0,0,,So, what happened in the 80s is something called the revolt of the elite.\N{\rChinese}于是，80年代发生的事叫做精英的反叛。
+Dialogue: 0,0:25:08.68,0:25:10.50,English,,0,0,0,,Okay? In other words,\N{\rChinese}对吗？换句话说，
+Dialogue: 0,0:25:11.10,0:25:16.88,English,,0,0,0,,the problem with having a society based on the worker is it becomes too egalitarian,\N{\rChinese}问题在于以工人为基础的社会会变得过于平等，
+Dialogue: 0,0:25:17.28,0:25:19.34,English,,0,0,0,,too equal, right?\N{\rChinese}太平等了，对吗？
+Dialogue: 0,0:25:19.56,0:25:22.92,English,,0,0,0,,But if you're like the elite, you don't want equality,\N{\rChinese}但如果你是精英，你就不想要平等，
+Dialogue: 0,0:25:23.40,0:25:25.10,English,,0,0,0,,you want difference.\N{\rChinese}你想要差异。
+Dialogue: 0,0:25:25.46,0:25:27.60,English,,0,0,0,,You want to have the same values.\N{\rChinese}你想拥有同样的价值观。
+Dialogue: 0,0:25:27.62,0:25:30.04,English,,0,0,0,,You want to have power and money in your hands.\N{\rChinese}你想把权力和金钱握在手中。
+Dialogue: 0,0:25:30.20,0:25:34.82,English,,0,0,0,,Does that make sense? So, the revolt of the elite happened in the 80s.\N{\rChinese}这有道理吗？于是精英的起义发生在80年代。
+Dialogue: 0,0:25:34.86,0:25:39.06,English,,0,0,0,,And this is what we call in the United States the Reagan Revolution,\N{\rChinese}这就是我们在美国称之为里根革命的事。
+Dialogue: 0,0:25:39.44,0:25:40.98,English,,0,0,0,,okay? The Reagan Revolution.\N{\rChinese}对吧？里根革命。
+Dialogue: 0,0:25:42.04,0:25:44.60,English,,0,0,0,,The beginning of neoliberalism, free market capitalism.\N{\rChinese}新自由主义的起点，自由市场资本主义。
+Dialogue: 0,0:25:45.04,0:25:47.78,English,,0,0,0,,And in Britain it was called Thatcherism, okay?\N{\rChinese}在英国被称为撒切尔主义，明白吗？
+Dialogue: 0,0:25:48.00,0:25:50.14,English,,0,0,0,,Margaret Thatcher. The Thatcher Revolution.\N{\rChinese}玛格丽特·撒切尔。撒切尔革命。
+Dialogue: 0,0:25:51.38,0:25:54.92,English,,0,0,0,,And so, now you need to transition\N{\rChinese}于是，现在你需要从工人转向别的角色，明白吗？
+Dialogue: 0,0:25:55.56,0:25:59.48,English,,0,0,0,,away from the worker to something else, okay?\N{\rChinese}再来一个新的意识形态，明白吗？
+Dialogue: 0,0:25:59.58,0:26:01.52,English,,0,0,0,,Another ideology that\N{\rChinese}Another ideologythat
+Dialogue: 0,0:26:01.52,0:26:05.40,English,,0,0,0,,allows the elite to amass power, okay?\N{\rChinese}让精英聚集力量，明白吗？
+Dialogue: 0,0:26:05.52,0:26:09.20,English,,0,0,0,,So, just to show you how radical this revolution was,\N{\rChinese}于是，为了展示这场革命的激进程度，
+Dialogue: 0,0:26:09.82,0:26:11.42,English,,0,0,0,,in the 1970s, okay?\N{\rChinese}在1970年代，明白吗？
+Dialogue: 0,0:26:11.50,0:26:15.14,English,,0,0,0,,In the 1970s, if you were a CEO, the head of a company, okay?\N{\rChinese}在1970年代，如果你是CEO，公司的负责人，明白吗？
+Dialogue: 0,0:26:15.42,0:26:16.90,English,,0,0,0,,You were making on average\N{\rChinese}你平均每年赚一百万美元。
+Dialogue: 0,0:26:17.36,0:26:19.50,English,,0,0,0,,one million US dollars a year.\N{\rChinese}one million US dollars a year.
+Dialogue: 0,0:26:19.64,0:26:21.98,English,,0,0,0,,That's pretty good, right? That's really good money.\N{\rChinese}那挺不错的，对吧？真是好钱。
+Dialogue: 0,0:26:23.38,0:26:24.80,English,,0,0,0,,And that one million dollars\N{\rChinese}而那一百万美元
+Dialogue: 0,0:26:25.42,0:26:27.10,English,,0,0,0,,was more than\N{\rChinese}刚刚好
+Dialogue: 0,0:26:27.62,0:26:29.54,English,,0,0,0,,20 times the worker.\N{\rChinese}20倍于工人。
+Dialogue: 0,0:26:30.98,0:26:33.98,English,,0,0,0,,Okay? And that's\N{\rChinese}好吧？而且是
+Dialogue: 0,0:26:34.88,0:26:37.84,English,,0,0,0,,pretty reasonable. Today,\N{\rChinese}相当合理。今天，
+Dialogue: 0,0:26:38.06,0:26:41.32,English,,0,0,0,,the average CEO in the United States\N{\rChinese}美国平均CEO年薪2000万美元
+Dialogue: 0,0:26:41.32,0:26:44.22,English,,0,0,0,,makes 20 million dollars a year.\N{\rChinese}他每年赚2000万美元
+Dialogue: 0,0:26:44.56,0:26:45.74,English,,0,0,0,,And that\N{\rChinese}而且是
+Dialogue: 0,0:26:45.74,0:26:51.22,English,,0,0,0,,is 200 to 300 times more than the average worker in the company.\N{\rChinese}比公司平均工人高200到300倍。
+Dialogue: 0,0:26:51.42,0:26:53.06,English,,0,0,0,,Does that make sense? So,\N{\rChinese}这样说对吗？所以，
+Dialogue: 0,0:26:53.18,0:26:57.22,English,,0,0,0,,in the 80s inequality started\N{\rChinese}80年代不平等开始。
+Dialogue: 0,0:26:57.62,0:26:59.10,English,,0,0,0,,to explode.\N{\rChinese}爆炸。
+Dialogue: 0,0:27:00.26,0:27:02.20,English,,0,0,0,,Right? And so, they're transitioning\N{\rChinese}对吧？于是他们从工人转向新的…
+Dialogue: 0,0:27:02.76,0:27:05.00,English,,0,0,0,,from the worker to a new\N{\rChinese}从工人到新的…
+Dialogue: 0,0:27:05.40,0:27:07.12,English,,0,0,0,,organizing unit called the consumer.\N{\rChinese}组织单元称为消费者。
+Dialogue: 0,0:27:10.50,0:27:14.28,English,,0,0,0,,Okay? So, they needed to destroy\N{\rChinese}好的？于是他们需要消灭
+Dialogue: 0,0:27:14.90,0:27:16.86,English,,0,0,0,,the working class, the middle class.\N{\rChinese}工人阶层与中产阶层。
+Dialogue: 0,0:27:17.24,0:27:21.64,English,,0,0,0,,And the way they did it was by introducing a new concept called the consumer, okay?\N{\rChinese}并且他们的做法是引入一个新概念叫做消费者，行吗？
+Dialogue: 0,0:27:21.96,0:27:25.78,English,,0,0,0,,So, in the 50s, 60s, and 70s, the government promised you a good job.\N{\rChinese}于是在50年代、60年代、70年代，政府向你承诺一份好工作。
+Dialogue: 0,0:27:25.90,0:27:28.44,English,,0,0,0,,If you were a member of a society if you were a citizen,\N{\rChinese}如果你是社会成员，若你是公民，
+Dialogue: 0,0:27:28.72,0:27:31.08,English,,0,0,0,,I promise you a good job\N{\rChinese}我向你承诺一份好工作
+Dialogue: 0,0:27:31.70,0:27:33.56,English,,0,0,0,,that you would have for the rest of your life.\N{\rChinese}你将拥有的工作将伴随你余生
+Dialogue: 0,0:27:33.70,0:27:36.10,English,,0,0,0,,Okay? So, in the 80s,\N{\rChinese}好吧？于是到了80年代
+Dialogue: 0,0:27:36.12,0:27:39.48,English,,0,0,0,,the government said I promise you that\N{\rChinese}政府说我向你承诺
+Dialogue: 0,0:27:39.48,0:27:43.56,English,,0,0,0,,you have low prices and a wide selection of goods.\N{\rChinese}你将享有低价和丰富的商品选择。
+Dialogue: 0,0:27:44.96,0:27:46.18,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}好吧？这样说通吗？
+Dialogue: 0,0:27:47.66,0:27:52.74,English,,0,0,0,,Alright? So, this sounds like a subtle shift,\N{\rChinese}好的？这听起来像是一个细微的转变，从工人到消费者。
+Dialogue: 0,0:27:52.88,0:27:55.44,English,,0,0,0,,going from the worker to the consumer.\N{\rChinese}好的？但这意味着一次革命。
+Dialogue: 0,0:27:55.60,0:27:58.52,English,,0,0,0,,Okay? But what this meant was a revolution\N{\rChinese}好的？这听起来像是一个细微的转变，从工人到消费者。
+Dialogue: 0,0:27:59.32,0:28:03.32,English,,0,0,0,,in society. A revolution in politics.\N{\rChinese}在社会中。政治上的革命。
+Dialogue: 0,0:28:03.66,0:28:06.98,English,,0,0,0,,So, remember that an example of the worker,\N{\rChinese}记住，工人是个例子，
+Dialogue: 0,0:28:07.20,0:28:12.26,English,,0,0,0,,the worker has to have political consciousness in order to protect his or her rights,\N{\rChinese}工人必须有政治意识，才能保护自己的权利。
+Dialogue: 0,0:28:12.38,0:28:14.74,English,,0,0,0,,in order to organize and unify\N{\rChinese}为组织和统一而行动，并推动有利的政治改革。
+Dialogue: 0,0:28:15.72,0:28:19.44,English,,0,0,0,,and push for favorable political reforms.\N{\rChinese}好的？这就是工人要做的事。
+Dialogue: 0,0:28:19.56,0:28:21.34,English,,0,0,0,,Okay? That's what the worker must do.\N{\rChinese}Okay? That's whatthe worker must do.
+Dialogue: 0,0:28:21.42,0:28:24.44,English,,0,0,0,,Okay? But now let's think about the mentality of the consumer.\N{\rChinese}好的？现在让我们思考消费者的心态。
+Dialogue: 0,0:28:24.74,0:28:27.14,English,,0,0,0,,And to do this, let's do another\N{\rChinese}接着来做一次新的思维实验。
+Dialogue: 0,0:28:27.62,0:28:29.90,English,,0,0,0,,thought experiment. And the thought experiment is this.\N{\rChinese}思维实验的内容是这样：
+Dialogue: 0,0:28:30.38,0:28:32.30,English,,0,0,0,,Everyone in the school, about 500 people,\N{\rChinese}学校里的人大约五百人，
+Dialogue: 0,0:28:34.00,0:28:38.42,English,,0,0,0,,I decide to give everyone 1 million US dollars.\N{\rChinese}我决定给每人一百万美元。
+Dialogue: 0,0:28:38.90,0:28:40.90,English,,0,0,0,,Okay? So, everyone in the school\N{\rChinese}好吧？于是，学校里的人们。
+Dialogue: 0,0:28:41.50,0:28:44.76,English,,0,0,0,,has exactly 1 million US dollars\N{\rChinese}恰好有一百万美元
+Dialogue: 0,0:28:45.38,0:28:48.24,English,,0,0,0,,to spend. What happens now?\N{\rChinese}要花费。现在会怎样？
+Dialogue: 0,0:28:50.04,0:28:51.50,English,,0,0,0,,Think about this. What happens now?\N{\rChinese}想想这个。现在会怎样？
+Dialogue: 0,0:28:51.52,0:28:57.02,English,,0,0,0,,Use your imagination. What happens?\N{\rChinese}用你的想象力。接下来会怎样？
+Dialogue: 0,0:28:57.62,0:29:10.84,English,,0,0,0,,What's the first thing you do? What's the first thing you do? I've given you a million dollars.\N{\rChinese}第一件事是什么？第一件事是什么？我给了你一百万美元。
+Dialogue: 0,0:29:11.22,0:29:16.82,English,,0,0,0,,What do you do with it? Well,\N{\rChinese}你用它做什么？好吧…
+Dialogue: 0,0:29:16.82,0:29:18.30,English,,0,0,0,,the first thing you do is buy something, right?\N{\rChinese}第一件事是买点东西，对吧？
+Dialogue: 0,0:29:19.22,0:29:23.00,English,,0,0,0,,What do you want to buy? A 1 million dollars is a lot of money.\N{\rChinese}你想买什么？一百万美元是很多钱。
+Dialogue: 0,0:29:24.18,0:29:25.46,English,,0,0,0,,What do you want to buy, Nav?\N{\rChinese}你想买什么，Nav？
+Dialogue: 0,0:29:28.68,0:29:29.94,English,,0,0,0,,You buy a house. You buy a house, right?\N{\rChinese}你买一栋房子。你买一栋房子，对吧？
+Dialogue: 0,0:29:30.10,0:29:32.02,English,,0,0,0,,That's great. That's a great purchase.\N{\rChinese}太好了。买得不错。
+Dialogue: 0,0:29:32.28,0:29:33.98,English,,0,0,0,,Then what do you do? Then what do you do?\N{\rChinese}接下来你做什么？接下来你做什么？
+Dialogue: 0,0:29:37.42,0:29:38.98,English,,0,0,0,,Then buy a house.\N{\rChinese}然后买一栋房子。
+Dialogue: 0,0:29:39.22,0:29:41.08,English,,0,0,0,,Then buy furniture.\N{\rChinese}然后买家具。
+Dialogue: 0,0:29:41.64,0:29:45.28,English,,0,0,0,,Okay. First thing is Nav buys a house.\N{\rChinese}好的。第一件事是Nav买一栋房子。
+Dialogue: 0,0:29:45.42,0:29:49.74,English,,0,0,0,,Then what does he do? Buy furniture.\N{\rChinese}然后他做什么？买家具。
+Dialogue: 0,0:29:49.74,0:29:51.28,English,,0,0,0,,Buy furniture. Then what does he do?\N{\rChinese}买家具。然后他做什么？
+Dialogue: 0,0:29:52.26,0:29:53.90,English,,0,0,0,,There's something that he must do that's very important.\N{\rChinese}有件事他必须做，十分重要。
+Dialogue: 0,0:29:53.90,0:29:56.10,English,,0,0,0,,What does he buy the house?\N{\rChinese}他买的房子是什么？
+Dialogue: 0,0:29:56.20,0:30:01.64,English,,0,0,0,,What does he want to do? He wants to take pictures\N{\rChinese}他想做什么？他想拍照
+Dialogue: 0,0:30:01.64,0:30:02.98,English,,0,0,0,,and post on social media.\N{\rChinese}并在社交媒体上发布
+Dialogue: 0,0:30:03.46,0:30:05.90,English,,0,0,0,,Right? So everyone sees it on social media.\N{\rChinese}对吧？于是大家都能在社交媒体上看到。
+Dialogue: 0,0:30:06.66,0:30:09.44,English,,0,0,0,,Then you see this.\N{\rChinese}然后你就会看到这个。
+Dialogue: 0,0:30:09.68,0:30:14.24,English,,0,0,0,,Nav has this huge house in Beijing with lots of fancy furniture.\N{\rChinese}Nav在北京有一座大房子，里面摆满了豪华家具。
+Dialogue: 0,0:30:14.56,0:30:18.92,English,,0,0,0,,What do you do now? You also want to buy a house.\N{\rChinese}你现在做什么？你也想买房子。
+Dialogue: 0,0:30:19.02,0:30:22.22,English,,0,0,0,,But what kind of house? A bigger house, right?\N{\rChinese}但是什么样的房子？更大的房子，对吧？
+Dialogue: 0,0:30:22.32,0:30:27.90,English,,0,0,0,,And then what do you do? You also post pictures.\N{\rChinese}然后你又做什么？你也会发照片。
+Dialogue: 0,0:30:27.96,0:30:30.50,English,,0,0,0,,You also post pictures, okay? Then how do other people feel?\N{\rChinese}你也会发照片，好的？那其他人会怎么感觉？
+Dialogue: 0,0:30:34.42,0:30:35.86,English,,0,0,0,,You think this is funny, okay?\N{\rChinese}你觉得这很有趣，好的？
+Dialogue: 0,0:30:35.90,0:30:38.62,English,,0,0,0,,But this happens all the time. So\N{\rChinese}但这件事一直发生着。
+Dialogue: 0,0:30:38.62,0:30:41.70,English,,0,0,0,,very quickly what happens in the school?\N{\rChinese}很快学校里发生了什么？
+Dialogue: 0,0:30:46.56,0:30:49.66,English,,0,0,0,,And you all spend your money and you all go into debt.\N{\rChinese}你们都花钱，结果都欠债。
+Dialogue: 0,0:30:49.96,0:30:53.34,English,,0,0,0,,Right? Because you're in competition with each other.\N{\rChinese}对吧？因为你们互相竞争。
+Dialogue: 0,0:30:53.90,0:30:56.32,English,,0,0,0,,That's not the biggest thing. And one million dollars is a lot of money but\N{\rChinese}那不是最重要的事。百万美元算不少，但也买不完所有东西，对吧？
+Dialogue: 0,0:30:56.32,0:30:59.20,English,,0,0,0,,it's not enough to buy everything, right?\N{\rChinese}于是你们又欠债。你们再借钱买更多东西。然后又会发生什么？
+Dialogue: 0,0:30:59.48,0:31:04.96,English,,0,0,0,,So you go into debt. You borrow more money to buy more things. And then what happens?\N{\rChinese}So you go into debt. You borrow more moneyto buy more things. And then what happens?
+Dialogue: 0,0:31:11.84,0:31:17.12,English,,0,0,0,,And then what happens? How do you guys feel about each other?\N{\rChinese}然后发生什么？你们彼此之间的感受如何？
+Dialogue: 0,0:31:17.22,0:31:19.02,English,,0,0,0,,Do you guys have lunch together? Do you guys have dinner together?\N{\rChinese}你们一起吃午饭吗？一起吃晚饭吗？
+Dialogue: 0,0:31:19.02,0:31:21.18,English,,0,0,0,,Do you guys like to share homework together?\N{\rChinese}你们喜欢一起做作业吗？
+Dialogue: 0,0:31:22.52,0:31:25.50,English,,0,0,0,,Do you guys like to share homework together? You guys hate each other, right?\N{\rChinese}你们喜欢一起做作业吗？你们彼此相互嫌吗？
+Dialogue: 0,0:31:25.88,0:31:30.34,English,,0,0,0,,At the end of the day what will happen is you all go into debt and you all hate each other.\N{\rChinese}一天结束后，大家都会背债，互相仇恨。
+Dialogue: 0,0:31:31.16,0:31:33.04,English,,0,0,0,,Right? So that's consumerism.\N{\rChinese}对吧？这就是消费主义。
+Dialogue: 0,0:31:33.26,0:31:34.78,English,,0,0,0,,This is what consumerism is.\N{\rChinese}这就是消费主义。
+Dialogue: 0,0:31:36.26,0:31:38.06,English,,0,0,0,,Consumerism creates a competition\N{\rChinese}消费主义产生竞争。
+Dialogue: 0,0:31:39.14,0:31:41.70,English,,0,0,0,,in society in society for prestige,\N{\rChinese}在社会中为了声望而竞争，
+Dialogue: 0,0:31:42.16,0:31:46.52,English,,0,0,0,,okay? To see who can post the nicest social media pictures.\N{\rChinese}好吧？看看谁能发最漂亮的社交媒体照片。
+Dialogue: 0,0:31:46.52,0:31:50.40,English,,0,0,0,,This leads to the individualization\N{\rChinese}这导致了个体化
+Dialogue: 0,0:31:52.16,0:31:54.00,English,,0,0,0,,or the optimization\N{\rChinese}或优化
+Dialogue: 0,0:31:56.44,0:31:58.10,English,,0,0,0,,of you, okay?\N{\rChinese}你们的意思，好的？
+Dialogue: 0,0:31:58.26,0:31:59.88,English,,0,0,0,,In other words, you are now\N{\rChinese}换句话说，你们现在是
+Dialogue: 0,0:32:00.52,0:32:04.64,English,,0,0,0,,unable to act together.\N{\rChinese}无法一起行动。
+Dialogue: 0,0:32:05.00,0:32:06.46,English,,0,0,0,,You don't want to organize.\N{\rChinese}你不想组织。
+Dialogue: 0,0:32:06.74,0:32:08.38,English,,0,0,0,,You don't want to act in solidarity. Okay?\N{\rChinese}你不想团结行动。好吗？
+Dialogue: 0,0:32:09.16,0:32:11.86,English,,0,0,0,,And ultimately this means that\N{\rChinese}最终这意味着
+Dialogue: 0,0:32:13.66,0:32:16.28,English,,0,0,0,,you develop economic logic.\N{\rChinese}你发展经济逻辑。
+Dialogue: 0,0:32:16.52,0:32:18.66,English,,0,0,0,,Okay? And what is economic logic?\N{\rChinese}好的？那经济逻辑是什么？
+Dialogue: 0,0:32:18.80,0:32:20.06,English,,0,0,0,,It's to see the world\N{\rChinese}就是用经济逻辑去看世界。
+Dialogue: 0,0:32:21.04,0:32:24.92,English,,0,0,0,,only through the lens of capital.\N{\rChinese}仅通过资本的视角。
+Dialogue: 0,0:32:26.24,0:32:30.50,English,,0,0,0,,Okay? Does it make sense? So when you see someone\N{\rChinese}好？有道理吗？所以当你看到某人时，
+Dialogue: 0,0:32:31.04,0:32:34.74,English,,0,0,0,,and you're like, okay well, do I want to date this person?\N{\rChinese}你会想，好的，我想和他约会吗？
+Dialogue: 0,0:32:34.94,0:32:38.06,English,,0,0,0,,You don't ask, oh is this person a nice person?\N{\rChinese}你不问，哦，这个人是好人吗？
+Dialogue: 0,0:32:38.58,0:32:40.92,English,,0,0,0,,You ask yourself, how much money does this person have?\N{\rChinese}你问自己，这个人有多少钱？
+Dialogue: 0,0:32:41.62,0:32:46.06,English,,0,0,0,,Okay? You understand? You use economic logic in order to\N{\rChinese}好？你明白了吗？你用经济逻辑来……
+Dialogue: 0,0:32:46.52,0:32:51.10,English,,0,0,0,,understand the world and to reason and analyze the world, okay?\N{\rChinese}理解世界并进行推理与分析，明白了吗？
+Dialogue: 0,0:32:51.28,0:32:52.62,English,,0,0,0,,Now let me ask you this question.\N{\rChinese}现在让我问你这个问题。
+Dialogue: 0,0:32:53.74,0:32:55.72,English,,0,0,0,,Today is this how China works?\N{\rChinese}今天就是中国的运作方式吗？
+Dialogue: 0,0:32:56.04,0:32:57.42,English,,0,0,0,,Is this how the world works?\N{\rChinese}这就是世界运作的方式吗？
+Dialogue: 0,0:32:58.60,0:32:59.84,English,,0,0,0,,The answer is yes, okay?\N{\rChinese}答案是是，好的？
+Dialogue: 0,0:33:00.38,0:33:02.18,English,,0,0,0,,Are you like this?\N{\rChinese}你是这样的吗？
+Dialogue: 0,0:33:03.78,0:33:05.16,English,,0,0,0,,Yes, you are like this, okay?\N{\rChinese}是的，你就是这样，明白了吗？
+Dialogue: 0,0:33:05.96,0:33:09.14,English,,0,0,0,,You've been brainwashed into thinking\N{\rChinese}你已经被灌输成这样想法
+Dialogue: 0,0:33:09.14,0:33:13.20,English,,0,0,0,,that this is the only way to behave\N{\rChinese}这才是唯一的行为方式
+Dialogue: 0,0:33:13.20,0:33:15.62,English,,0,0,0,,and to think. You're in school.\N{\rChinese}并且思考。你在学校。
+Dialogue: 0,0:33:15.86,0:33:20.64,English,,0,0,0,,Why are you in school? So\N{\rChinese}你为什么在学校？所以
+Dialogue: 0,0:33:20.64,0:33:23.64,English,,0,0,0,,you can get a good job. Why? To make money.\N{\rChinese}你能得到一份好工作。为什么？为了赚钱。
+Dialogue: 0,0:33:23.88,0:33:25.60,English,,0,0,0,,So you can buy things, okay? You understand?\N{\rChinese}所以你可以买东西，明白吗？你懂了吗？
+Dialogue: 0,0:33:25.88,0:33:30.52,English,,0,0,0,,That's how you all think. But there are different ways to think about school, right?\N{\rChinese}这就是你们的想法。但关于学校的思考方式还有别的，懂吗？
+Dialogue: 0,0:33:30.60,0:33:34.60,English,,0,0,0,,You're like, I'm in school to learn, to open my mind, to have an imagination,\N{\rChinese}我在学校是为了学习、开阔我的思维、拥有想象力。
+Dialogue: 0,0:33:34.96,0:33:37.12,English,,0,0,0,,to think critically about the world, right?\N{\rChinese}思考世界，没错吗？
+Dialogue: 0,0:33:37.56,0:33:39.46,English,,0,0,0,,Now it's a way we thought about school\N{\rChinese}现在它是我们思考学校的方式
+Dialogue: 0,0:33:40.08,0:33:42.18,English,,0,0,0,,when the workers were dominant.\N{\rChinese}当工人占主导时
+Dialogue: 0,0:33:42.36,0:33:43.94,English,,0,0,0,,But now that consumers are dominant,\N{\rChinese}但现在消费者占主导，我想的全是怎么找份好工作？
+Dialogue: 0,0:33:44.32,0:33:46.70,English,,0,0,0,,all we think about is how do I get a good job?\N{\rChinese}我怎么买更大的房子？
+Dialogue: 0,0:33:46.84,0:33:48.44,English,,0,0,0,,How do I buy a bigger house?\N{\rChinese}How do I buy a bigger house?
+Dialogue: 0,0:33:49.26,0:33:50.94,English,,0,0,0,,Because I want to post it on social media,\N{\rChinese}因为我想把它发到社交媒体上，
+Dialogue: 0,0:33:53.28,0:33:56.16,English,,0,0,0,,okay? So if you think about this,\N{\rChinese}好吧？所以如果你考虑这个，
+Dialogue: 0,0:33:56.72,0:33:58.10,English,,0,0,0,,what this really is\N{\rChinese}这到底是什么
+Dialogue: 0,0:33:58.62,0:34:00.40,English,,0,0,0,,is the perfection\N{\rChinese}是奴隶的完美
+Dialogue: 0,0:34:02.42,0:34:07.14,English,,0,0,0,,of slavery. Does it make sense?\N{\rChinese}奴隶的完美。是否有意义？
+Dialogue: 0,0:34:08.84,0:34:10.74,English,,0,0,0,,What does this phrase mean? The perfection of slavery?\N{\rChinese}这个短语是什么意思？奴隶的完美？
+Dialogue: 0,0:34:16.22,0:34:18.70,English,,0,0,0,,Yeah, you become a slave of the money, but what?\N{\rChinese}是的，你成了金钱的奴隶，那又怎样？
+Dialogue: 0,0:34:19.96,0:34:24.80,English,,0,0,0,,Why is this perfect? Yes,\N{\rChinese}为什么这很完美？是的，
+Dialogue: 0,0:34:24.92,0:34:26.70,English,,0,0,0,,okay? You understand? If you're a slave, you rebel,\N{\rChinese}好吧？你明白吗？如果你是奴隶，你就会反叛，
+Dialogue: 0,0:34:27.10,0:34:30.22,English,,0,0,0,,right? But if you don't know you're a slave and\N{\rChinese}对吧？但如果你不知道自己是奴隶而且你喜欢这样，你就会选择这样，
+Dialogue: 0,0:34:30.22,0:34:31.96,English,,0,0,0,,you like this, you choose this,\N{\rChinese}然后你就永不反叛，好吗？
+Dialogue: 0,0:34:33.04,0:34:34.38,English,,0,0,0,,then you will never rebel, okay?\N{\rChinese}then you will never rebel, okay?
+Dialogue: 0,0:34:34.68,0:34:35.88,English,,0,0,0,,So the consumerism\N{\rChinese}于是消费主义是奴役的完美，好的？
+Dialogue: 0,0:34:36.30,0:34:37.74,English,,0,0,0,,is the perfection\N{\rChinese}是消费主义的完美，好的？
+Dialogue: 0,0:34:39.42,0:34:42.10,English,,0,0,0,,of slavery, okay?\N{\rChinese}于是消费主义是奴役的完美，好的？
+Dialogue: 0,0:34:43.50,0:34:47.16,English,,0,0,0,,And you can't do that. You can't do that. That's why Francis Fukuyama thinks\N{\rChinese}而你做不到。你做不到。正因如此，福山富士雄认为
+Dialogue: 0,0:34:47.16,0:34:49.52,English,,0,0,0,,that consumerism is the end of\N{\rChinese}消费主义是历史的终点。因为它是一个系统。
+Dialogue: 0,0:34:50.12,0:34:52.18,English,,0,0,0,,history. Because it is a system\N{\rChinese}history. Becauseit is a system
+Dialogue: 0,0:34:53.20,0:34:55.50,English,,0,0,0,,that achieves what the elites want\N{\rChinese}实现精英所欲之事
+Dialogue: 0,0:34:56.08,0:34:59.58,English,,0,0,0,,and the masses are unwilling\N{\rChinese}而大众不愿亦不敢抗议
+Dialogue: 0,0:34:59.58,0:35:02.68,English,,0,0,0,,and unable to protest and rebel.\N{\rChinese}并且无力反抗
+Dialogue: 0,0:35:02.98,0:35:05.40,English,,0,0,0,,Okay, does that make sense? It's a perfect system.\N{\rChinese}好的，听得懂吗？这就是完美的系统。
+Dialogue: 0,0:35:06.58,0:35:07.84,English,,0,0,0,,Okay? So\N{\rChinese}好的？那么
+Dialogue: 0,0:35:09.30,0:35:11.34,English,,0,0,0,,but there are certain civilizations\N{\rChinese}但确实有些文明
+Dialogue: 0,0:35:12.74,0:35:14.90,English,,0,0,0,,that rebel against slavery\N{\rChinese}反抗奴役
+Dialogue: 0,0:35:16.62,0:35:20.24,English,,0,0,0,,intrinsically. It is in their nature to rebel against slavery.\N{\rChinese}本质如此，反抗奴役是其天性。
+Dialogue: 0,0:35:20.52,0:35:23.54,English,,0,0,0,,And one of these civilizations is the Russian civilization.\N{\rChinese}其中之一是俄国文明。
+Dialogue: 0,0:35:25.12,0:35:27.48,English,,0,0,0,,Okay? So when you impose slavery\N{\rChinese}好的？那么当你把奴役强加给俄国人时，他们就会腐败，
+Dialogue: 0,0:35:28.05,0:35:32.68,English,,0,0,0,,on Russians, they become corrupt,\N{\rChinese}他们就会酿酒成瘾，
+Dialogue: 0,0:35:32.96,0:35:35.46,English,,0,0,0,,they become alcoholics, and they refuse to have babies.\N{\rChinese}然后他们就不再生孩子。
+Dialogue: 0,0:35:35.90,0:35:39.08,English,,0,0,0,,That is why Russia is failing as a society.\N{\rChinese}这就是俄国社会衰败的原因。
+Dialogue: 0,0:35:39.24,0:35:43.68,English,,0,0,0,,Because slavery is being imposed on Russians by the Westerners,\N{\rChinese}西方人把奴役强加给俄国人，导致奴役被施加。
+Dialogue: 0,0:35:43.68,0:35:46.42,English,,0,0,0,,and the Russians refuse to be slaves.\N{\rChinese}俄国人却不愿成为奴隶。
+Dialogue: 0,0:35:46.66,0:35:50.02,English,,0,0,0,,But because this system, consumerism, is so perfect,\N{\rChinese}但因为这个系统，消费主义如此完美，
+Dialogue: 0,0:35:50.32,0:35:55.66,English,,0,0,0,,Russian people lack an understanding of how to rebel against the system,\N{\rChinese}俄罗斯人缺乏对如何反抗系统的理解，
+Dialogue: 0,0:35:55.82,0:35:57.26,English,,0,0,0,,and that's why Russia is falling apart.\N{\rChinese}这就是俄国正在崩溃的原因。
+Dialogue: 0,0:35:58.08,0:35:59.44,English,,0,0,0,,Okay? That is a Putin argument.\N{\rChinese}好的？这就是普京的论点。
+Dialogue: 0,0:36:00.30,0:36:04.60,English,,0,0,0,,Does that make sense? Okay?\N{\rChinese}这有道理吗？好的？
+Dialogue: 0,0:36:05.40,0:36:10.36,English,,0,0,0,,In other words, consumerism has corrupted the Russian soul.\N{\rChinese}换句话说，消费主义已经腐蚀了俄国灵魂。
+Dialogue: 0,0:36:13.30,0:36:17.32,English,,0,0,0,,And Russian have chosen to be corrupted by consumerism.\N{\rChinese}俄国人已选择被消费主义腐蚀。
+Dialogue: 0,0:36:20.08,0:36:21.82,English,,0,0,0,,Okay? So does it make sense?\N{\rChinese}好的？这样说有道理吗？
+Dialogue: 0,0:36:22.20,0:36:23.62,English,,0,0,0,,So what Vladimir Putin\N{\rChinese}那么弗拉基米尔·普京是怎样的呢？
+Dialogue: 0,0:36:24.16,0:36:26.68,English,,0,0,0,,must do is free his people.\N{\rChinese}必须做的就是解放他的人民。
+Dialogue: 0,0:36:27.88,0:36:31.04,English,,0,0,0,,Even though they may enjoy prison.\N{\rChinese}即使他们可能享受囚笼。
+Dialogue: 0,0:36:31.20,0:36:33.76,English,,0,0,0,,Okay? Even though Russians may enjoy slavery,\N{\rChinese}好吧？即使俄罗斯人可能享受奴役，
+Dialogue: 0,0:36:34.04,0:36:36.68,English,,0,0,0,,Putin is still going to free his people.\N{\rChinese}普京仍将解放他的人民。
+Dialogue: 0,0:36:36.92,0:36:41.60,English,,0,0,0,,And he's going to do it by creating a new concept to combat\N{\rChinese}他将通过创造一个新概念来对抗消费主义。
+Dialogue: 0,0:36:42.22,0:36:43.62,English,,0,0,0,,consumerism. Okay? So\N{\rChinese}好吧？
+Dialogue: 0,0:36:43.62,0:36:46.94,English,,0,0,0,,we've gone from the worker to the consumer,\N{\rChinese}我们已从工人转到消费者，
+Dialogue: 0,0:36:47.12,0:36:50.90,English,,0,0,0,,and Putin is going to introduce a new concept called the warrior.\N{\rChinese}普京将推出一个新概念叫战士。
+Dialogue: 0,0:36:54.96,0:36:57.58,English,,0,0,0,,The consumer is a person,\N{\rChinese}消费者是一个人，
+Dialogue: 0,0:36:58.06,0:37:01.24,English,,0,0,0,,an individual, who acts alone and\N{\rChinese}一个人，独自行动并
+Dialogue: 0,0:37:01.24,0:37:03.32,English,,0,0,0,,does so to preserve\N{\rChinese}以此来保
+Dialogue: 0,0:37:04.22,0:37:05.72,English,,0,0,0,,his or her life. Okay?\N{\rChinese}自己的生命。好吧？
+Dialogue: 0,0:37:05.84,0:37:07.58,English,,0,0,0,,The consumer is a coward.\N{\rChinese}消费者是懦夫。
+Dialogue: 0,0:37:07.78,0:37:09.24,English,,0,0,0,,The consumer lacks imagination.\N{\rChinese}消费者缺乏想象。
+Dialogue: 0,0:37:09.92,0:37:11.98,English,,0,0,0,,The consumer is alienated.\N{\rChinese}消费者已疏离。
+Dialogue: 0,0:37:12.08,0:37:14.80,English,,0,0,0,,The warrior is different.\N{\rChinese}战士不同。
+Dialogue: 0,0:37:15.02,0:37:18.08,English,,0,0,0,,The warrior is an individual who sees\N{\rChinese}战士是一个看到的个体，...
+Dialogue: 0,0:37:18.08,0:37:20.72,English,,0,0,0,,that through his actions,\N{\rChinese}...
+Dialogue: 0,0:37:21.00,0:37:25.72,English,,0,0,0,,he or she can shape the direction of history.\N{\rChinese}他或她能塑造历史的方向。
+Dialogue: 0,0:37:26.70,0:37:30.08,English,,0,0,0,,I can make my own reality through my courage\N{\rChinese}我可以凭勇气和想象力创造自己的现实。
+Dialogue: 0,0:37:30.08,0:37:31.66,English,,0,0,0,,and through my imagination.\N{\rChinese}我可以凭勇气和想象力创造自己的现实。
+Dialogue: 0,0:37:33.50,0:37:35.44,English,,0,0,0,,And by acting with others.\N{\rChinese}并且与他人一起行动。
+Dialogue: 0,0:37:35.66,0:37:37.34,English,,0,0,0,,Okay? Does that make sense? Alright.\N{\rChinese}好？这样说通吗？好吧。
+Dialogue: 0,0:37:38.00,0:37:43.56,English,,0,0,0,,So, let's do another thought experiment to understand the warrior concept.\N{\rChinese}于是，让我们再做一次思维实验来理解战士概念。
+Dialogue: 0,0:37:44.26,0:37:48.48,English,,0,0,0,,Let's just say that, okay, in this school I give everyone a million dollars and now you hate each other.\N{\rChinese}我们先说，好的，在这所学校我给每个人一百万美元，然后你们互相仇恨。
+Dialogue: 0,0:37:48.58,0:37:51.48,English,,0,0,0,,Okay? Then what happens is I put you on a plane\N{\rChinese}好的？然后发生的事是我把你们放在一架飞机上
+Dialogue: 0,0:37:51.48,0:37:53.94,English,,0,0,0,,and I take you all to an island.\N{\rChinese}然后我把你们全部送到一个岛上。
+Dialogue: 0,0:37:55.10,0:37:57.74,English,,0,0,0,,Okay? And you're on this island and\N{\rChinese}好的？你们在这座岛上，且…
+Dialogue: 0,0:37:58.66,0:38:01.74,English,,0,0,0,,unfortunately on this island there are millions\N{\rChinese}不幸的是，在这座岛上有数百万…
+Dialogue: 0,0:38:01.74,0:38:04.52,English,,0,0,0,,and millions of flesh -eating monkeys.\N{\rChinese}以及数百万只吃肉的猴子。
+Dialogue: 0,0:38:05.06,0:38:06.28,English,,0,0,0,,They want to eat you.\N{\rChinese}它们想吃你。
+Dialogue: 0,0:38:07.80,0:38:10.26,English,,0,0,0,,Okay? But you hate each other.\N{\rChinese}好吧？但你们互相仇恨。
+Dialogue: 0,0:38:10.84,0:38:13.60,English,,0,0,0,,You don't want to work together. What happens now?\N{\rChinese}你们不想一起工作。现在会怎样？
+Dialogue: 0,0:38:19.52,0:38:23.86,English,,0,0,0,,What happens now? Yeah,\N{\rChinese}现在会怎样？
+Dialogue: 0,0:38:23.96,0:38:26.74,English,,0,0,0,,that's right. If you don't do anything, everyone gets eaten by a monkey, right?\N{\rChinese}对的。如果你不做任何事，大家都会被猴子吃掉，对吗？
+Dialogue: 0,0:38:27.52,0:38:32.64,English,,0,0,0,,But what are you going to do? How?\N{\rChinese}那你们打算怎么做？怎么做？
+Dialogue: 0,0:38:32.78,0:38:35.30,English,,0,0,0,,You will fight the monkeys by how will you fight the monkeys?\N{\rChinese}你将怎样打败猴子？
+Dialogue: 0,0:38:41.48,0:38:44.68,English,,0,0,0,,Okay. What's going to happen is that everyone is going to put aside\N{\rChinese}好了。接下来会发生的是大家把……放在一边
+Dialogue: 0,0:38:45.88,0:38:48.70,English,,0,0,0,,the differences and work together to fight the monkeys.\N{\rChinese}把差异化为共识，齐心协力打败猴子。
+Dialogue: 0,0:38:48.90,0:38:51.62,English,,0,0,0,,Okay? And how will you feel\N{\rChinese}好的？那你会怎么感觉？
+Dialogue: 0,0:38:52.22,0:38:55.56,English,,0,0,0,,in this process? Are you going to be happy or depressed?\N{\rChinese}在这个过程中？你会感到快乐还是沮丧？
+Dialogue: 0,0:38:58.44,0:39:08.08,English,,0,0,0,,You're going to be happy. Why? Exactly. You're all working towards the same goal.\N{\rChinese}你会感到快乐。为什么？正是如此。你们都在朝同一目标努力。
+Dialogue: 0,0:39:08.14,0:39:10.48,English,,0,0,0,,Okay? Structure, meaning, and purpose.\N{\rChinese}结构、意义与目的。
+Dialogue: 0,0:39:10.78,0:39:12.20,English,,0,0,0,,Okay? That's what war does.\N{\rChinese}好的？这就是战争的作用。
+Dialogue: 0,0:39:12.64,0:39:16.68,English,,0,0,0,,War gives you structure, meaning, and purpose so you feel happy about yourself.\N{\rChinese}战争给你结构、意义和目的，让你对自己感到快乐。
+Dialogue: 0,0:39:17.04,0:39:19.46,English,,0,0,0,,Okay? Now let's say that during this war,\N{\rChinese}好？现在假设在这场战争中，
+Dialogue: 0,0:39:21.02,0:39:22.72,English,,0,0,0,,um, like Celine dies.\N{\rChinese}嗯，就像塞琳去世一样。
+Dialogue: 0,0:39:22.92,0:39:24.32,English,,0,0,0,,Okay? Now what happens?\N{\rChinese}好的？现在发生了什么？
+Dialogue: 0,0:39:28.12,0:39:29.48,English,,0,0,0,,What does death do now?\N{\rChinese}死亡现在又做了什么？
+Dialogue: 0,0:39:32.86,0:39:36.92,English,,0,0,0,,Yeah. Yes.\N{\rChinese}是的。
+Dialogue: 0,0:39:38.34,0:39:41.52,English,,0,0,0,,And? So Celine dies.\N{\rChinese}然后呢？于是塞琳去世。
+Dialogue: 0,0:39:41.62,0:39:43.90,English,,0,0,0,,She goes to martyr. You all celebrate her, remember her.\N{\rChinese}她成了殉道者。你们都来纪念她，记住她。
+Dialogue: 0,0:39:43.98,0:39:45.80,English,,0,0,0,,You give her a great funeral. And then what do you do?\N{\rChinese}你给她办了大葬礼。然后呢？
+Dialogue: 0,0:39:47.80,0:39:49.26,English,,0,0,0,,You fight harder. Do you understand?\N{\rChinese}你更努力地战斗。你明白吗？
+Dialogue: 0,0:39:50.30,0:39:52.02,English,,0,0,0,,Because death gives you purpose.\N{\rChinese}因为死亡给你带来目的。
+Dialogue: 0,0:39:52.70,0:39:57.22,English,,0,0,0,,Her death makes your life much more valuable to you and to others.\N{\rChinese}她的去世让你的生命对你和他人都更有价值。
+Dialogue: 0,0:39:57.44,0:40:00.70,English,,0,0,0,,Okay? Not only do you celebrate her life,\N{\rChinese}好的？不只是庆祝她的生命，
+Dialogue: 0,0:40:00.84,0:40:02.84,English,,0,0,0,,but you celebrate her, your own life.\N{\rChinese}但你们庆祝自己的生命。
+Dialogue: 0,0:40:02.96,0:40:04.28,English,,0,0,0,,Okay? Alright.\N{\rChinese}好的？行了。
+Dialogue: 0,0:40:04.40,0:40:06.80,English,,0,0,0,,Now let's just say that the monkeys are coming.\N{\rChinese}现在就说猴子来了。
+Dialogue: 0,0:40:06.88,0:40:09.46,English,,0,0,0,,Okay? And there's a bridge.\N{\rChinese}好吧？还有一座桥。
+Dialogue: 0,0:40:10.40,0:40:13.06,English,,0,0,0,,There's a bridge. And\N{\rChinese}有一座桥。还有
+Dialogue: 0,0:40:13.06,0:40:15.88,English,,0,0,0,,Jack is standing on this bridge.\N{\rChinese}杰克站在这座桥上。
+Dialogue: 0,0:40:16.72,0:40:19.80,English,,0,0,0,,And there are ten of you on the other side.\N{\rChinese}还有十个人在另一边。
+Dialogue: 0,0:40:19.90,0:40:22.34,English,,0,0,0,,Okay? So Jack has a choice.\N{\rChinese}好吧？于是杰克有个选择。
+Dialogue: 0,0:40:22.54,0:40:25.58,English,,0,0,0,,He can either cut the bridge and kill himself\N{\rChinese}他可以砍桥自杀，救他人
+Dialogue: 0,0:40:25.58,0:40:29.36,English,,0,0,0,,and save the others, or he can run, run,\N{\rChinese}或者他可以跑，跑
+Dialogue: 0,0:40:30.80,0:40:32.70,English,,0,0,0,,and possibly all get killed.\N{\rChinese}并且可能全部被杀死。
+Dialogue: 0,0:40:33.02,0:40:35.22,English,,0,0,0,,Right? By the monkeys. What does Jack do?\N{\rChinese}对吧？被猴子们。杰克会怎么做？
+Dialogue: 0,0:40:37.18,0:40:38.80,English,,0,0,0,,For sure he will do this.\N{\rChinese}他一定会这么做。
+Dialogue: 0,0:40:38.92,0:40:43.78,English,,0,0,0,,What will he do? He's going to sacrifice himself.\N{\rChinese}他会怎样做？他要自我牺。
+Dialogue: 0,0:40:43.78,0:40:46.68,English,,0,0,0,,He's going to sacrifice himself. Okay? Do you understand? We've seen this in war over and over.\N{\rChinese}他要自我牺。好吧？你明白了吗？我们在战争里一次又一次看到这一点。
+Dialogue: 0,0:40:47.42,0:40:49.94,English,,0,0,0,,Okay? That's what war does to people.\N{\rChinese}好吧？这就是战争对人的作用。
+Dialogue: 0,0:40:50.10,0:40:52.66,English,,0,0,0,,It makes you, it gives you structure, meaning, and purpose.\N{\rChinese}它让你变得更强、更有纪律，给你结构、意义和目的。
+Dialogue: 0,0:40:52.92,0:40:56.86,English,,0,0,0,,And it makes you a stronger, more disciplined person.\N{\rChinese}它让你变得更强、更有纪律。
+Dialogue: 0,0:40:57.96,0:41:00.88,English,,0,0,0,,Okay? Does that make sense? Right?\N{\rChinese}好吧？这说得通吗？对吧？
+Dialogue: 0,0:41:00.96,0:41:04.60,English,,0,0,0,,So that's the thought experiment. So, in theory\N{\rChinese}于是就是这个思维实验。于是，理论上
+Dialogue: 0,0:41:04.60,0:41:06.08,English,,0,0,0,,then, when\N{\rChinese}然后，当
+Dialogue: 0,0:41:06.96,0:41:09.72,English,,0,0,0,,Putin launched this military operation,\N{\rChinese}普京发动这次军事行动时
+Dialogue: 0,0:41:10.16,0:41:14.36,English,,0,0,0,,it's called a special military operation in Ukraine back in February 2022,\N{\rChinese}它在2022年2月被称为乌克兰的特种军事行动
+Dialogue: 0,0:41:14.92,0:41:17.48,English,,0,0,0,,then we should see improvements in Russian society.\N{\rChinese}于是我们应该看到俄罗斯社会的改善。
+Dialogue: 0,0:41:18.26,0:41:21.00,English,,0,0,0,,Okay? Does that make sense? So,\N{\rChinese}好吧？这说得通吗？于是，
+Dialogue: 0,0:41:22.36,0:41:24.16,English,,0,0,0,,what's happened in Russia since this war?\N{\rChinese}自从这场战争以来，俄罗斯发生了什么？
+Dialogue: 0,0:41:24.32,0:41:28.86,English,,0,0,0,,Are people happier? Do you think people are happier?\N{\rChinese}人们更开心了吗？你觉得人们更开心吗？
+Dialogue: 0,0:41:34.36,0:41:39.24,English,,0,0,0,,Do you think people are happier now? Okay,\N{\rChinese}你觉得现在人们更开心吗？好吧，
+Dialogue: 0,0:41:39.28,0:41:41.28,English,,0,0,0,,I think they are. Do you think people are more unified?\N{\rChinese}我觉得他们是的。你觉得人们更团结吗？
+Dialogue: 0,0:41:43.10,0:41:46.76,English,,0,0,0,,I think they are. Okay? So one example of this is\N{\rChinese}我觉得是的。好吧？举个例子是
+Dialogue: 0,0:41:47.82,0:41:49.44,English,,0,0,0,,the Russian economy\N{\rChinese}俄罗斯经济
+Dialogue: 0,0:41:50.16,0:41:51.92,English,,0,0,0,,is surviving U.S.\N{\rChinese}正在承受美国
+Dialogue: 0,0:41:51.92,0:41:54.24,English,,0,0,0,,sanctions. In fact, it's getting stronger and stronger.\N{\rChinese}制裁。实际上，它正变得越来越强大。
+Dialogue: 0,0:41:54.54,0:41:58.58,English,,0,0,0,,Why? Because people are fully participating in the economy now.\N{\rChinese}为什么？因为人们现在完全参与了经济。
+Dialogue: 0,0:41:58.68,0:42:03.28,English,,0,0,0,,Okay? So, an example of this is that every month\N{\rChinese}好的？所以，举个例子是每个月
+Dialogue: 0,0:42:04.46,0:42:07.18,English,,0,0,0,,Russia is producing 150,000\N{\rChinese}俄罗斯每月生产150,000枚弹壳。好吧？
+Dialogue: 0,0:42:08.82,0:42:10.14,English,,0,0,0,,ammunition cells. Okay?\N{\rChinese}弹壳。好吧？
+Dialogue: 0,0:42:10.16,0:42:11.44,English,,0,0,0,,For the war. Every month,\N{\rChinese}用于战争。每个月，
+Dialogue: 0,0:42:11.46,0:42:15.66,English,,0,0,0,,Russia is producing more ammunition shells for the war.\N{\rChinese}俄罗斯正生产更多弹壳用于战争。
+Dialogue: 0,0:42:15.78,0:42:18.72,English,,0,0,0,,Okay? 150,000. Can you guys guess how much\N{\rChinese}好吧？150,000。你们能猜到美国每月生产多少吗？
+Dialogue: 0,0:42:20.56,0:42:22.06,English,,0,0,0,,the United States produces every month?\N{\rChinese}the United States produces every month?
+Dialogue: 0,0:42:22.68,0:42:32.68,English,,0,0,0,,In comparison? Guess. Guess the number.\N{\rChinese}比起来？猜猜。猜个数字。
+Dialogue: 0,0:42:38.00,0:42:41.26,English,,0,0,0,,Jimmy? 100,000?\N{\rChinese}吉米？一十万？
+Dialogue: 0,0:42:43.54,0:42:46.84,English,,0,0,0,,2,000. Okay? You understand?\N{\rChinese}2000。好吧？你明白了吗？
+Dialogue: 0,0:42:47.54,0:42:51.66,English,,0,0,0,,So Russia is steering towards a war economy.\N{\rChinese}于是俄罗斯正朝着战时经济转型。
+Dialogue: 0,0:42:52.34,0:42:54.02,English,,0,0,0,,Factories are producing more and more weapons.\N{\rChinese}工厂产出越来越多的武器。
+Dialogue: 0,0:42:54.40,0:42:55.84,English,,0,0,0,,But that means more and more people are\N{\rChinese}这意味着越来越多的人……
+Dialogue: 0,0:42:56.38,0:42:59.58,English,,0,0,0,,employed. Which means that they're drinking less.\N{\rChinese}使用。也就是说他们喝酒更少。
+Dialogue: 0,0:42:59.82,0:43:02.92,English,,0,0,0,,Okay? When you have structure and meaning\N{\rChinese}好的？当你有结构和意义时。
+Dialogue: 0,0:43:02.92,0:43:05.78,English,,0,0,0,,and purpose in your society, all this goes down.\N{\rChinese}并且在你们社会里，所有这些都在下降。
+Dialogue: 0,0:43:06.32,0:43:08.00,English,,0,0,0,,Corruption goes down. Alcoholism goes down.\N{\rChinese}腐败下降。酿酒下降。
+Dialogue: 0,0:43:08.22,0:43:09.48,English,,0,0,0,,Oh, sorry. Fertility goes up.\N{\rChinese}哦，抱歉。生育率上升。
+Dialogue: 0,0:43:10.16,0:43:11.50,English,,0,0,0,,All right? Does that make sense?\N{\rChinese}好了？这样说对吗？
+Dialogue: 0,0:43:16.42,0:43:19.70,English,,0,0,0,,So, last year,\N{\rChinese}于是，去年，
+Dialogue: 0,0:43:20.66,0:43:22.06,English,,0,0,0,,Putin made this statement.\N{\rChinese}普京作出了这番话。
+Dialogue: 0,0:43:22.26,0:43:24.56,English,,0,0,0,,Okay? He was asked, okay,\N{\rChinese}好吧？他被问到，好的，
+Dialogue: 0,0:43:24.60,0:43:27.88,English,,0,0,0,,you have a lot of Russians dying on the battlefield.\N{\rChinese}你有很多俄罗斯人在战场上牺死。
+Dialogue: 0,0:43:28.20,0:43:32.08,English,,0,0,0,,And he said, well, when they die on the battlefield,\N{\rChinese}他又说，嗯，当他们在战场上牺死时，
+Dialogue: 0,0:43:33.66,0:43:34.94,English,,0,0,0,,we honor them.\N{\rChinese}我们就会纪念他们。
+Dialogue: 0,0:43:36.46,0:43:38.80,English,,0,0,0,,They sacrifice themselves for their country.\N{\rChinese}他们为国家献身。
+Dialogue: 0,0:43:40.16,0:43:41.46,English,,0,0,0,,They will always be remembered as heroes.\N{\rChinese}他们将永远被记作英雄。
+Dialogue: 0,0:43:42.12,0:43:44.18,English,,0,0,0,,Their families will always love them.\N{\rChinese}他们的家人永远爱他们。
+Dialogue: 0,0:43:44.82,0:43:47.62,English,,0,0,0,,But if we just let them do what they want,\N{\rChinese}但如果我们只是让他们按自己的意思去做，他们只会把自己喝死。
+Dialogue: 0,0:43:47.94,0:43:51.48,English,,0,0,0,,all they're gonna do is drink themselves to death.\N{\rChinese}好吧？你明白了吗？
+Dialogue: 0,0:43:52.44,0:43:55.50,English,,0,0,0,,Okay? You understand? So Putin is saying is\N{\rChinese}所以普京所说的是
+Dialogue: 0,0:43:55.50,0:43:57.84,English,,0,0,0,,that what war is, ultimately,\N{\rChinese}那场战争究竟是怎样的，
+Dialogue: 0,0:43:58.12,0:44:02.72,English,,0,0,0,,it is a mechanism for society to rejuvenate itself.\N{\rChinese}它是社会焕发自我的机制。
+Dialogue: 0,0:44:03.66,0:44:05.70,English,,0,0,0,,Okay? What war is,\N{\rChinese}好了？那场战争究竟是怎样的。
+Dialogue: 0,0:44:05.84,0:44:09.02,English,,0,0,0,,it's opportunity for society to cut away the fat.\N{\rChinese}这是社会削减肥肉的机会。
+Dialogue: 0,0:44:09.26,0:44:10.80,English,,0,0,0,,To make it more lean.\N{\rChinese}让它更精简。
+Dialogue: 0,0:44:11.92,0:44:15.56,English,,0,0,0,,So for Putin, this war is not really\N{\rChinese}所以对普京来说，这场战争并不是真正的
+Dialogue: 0,0:44:16.16,0:44:20.58,English,,0,0,0,,about conquering Ukraine or defending against NATO.\N{\rChinese}关于征服乌克兰还是抵御北约？
+Dialogue: 0,0:44:20.88,0:44:24.20,English,,0,0,0,,It's really about saving Russian civilization.\N{\rChinese}真正是为了拯救俄国文明。
+Dialogue: 0,0:44:24.72,0:44:28.24,English,,0,0,0,,It's really about saving the Russian soul.\N{\rChinese}真正是为了拯救俄国灵魂。
+Dialogue: 0,0:44:29.18,0:44:32.00,English,,0,0,0,,Okay? If you don't fight this war,\N{\rChinese}好的？如果你不打这场战争，如果你让这些趋势继续下去，那么俄罗斯最终会消失为一个民族国家。
+Dialogue: 0,0:44:32.20,0:44:35.54,English,,0,0,0,,and you let these trends continue, then Russia will eventually\N{\rChinese}好的？如果你不打这场战争，如果你让这些趋势继续下去，那么俄罗斯最终会消失为一个民族国家。
+Dialogue: 0,0:44:35.96,0:44:37.70,English,,0,0,0,,cease to exist as a nation.\N{\rChinese}好的？如果你不打这场战争，如果你让这些趋势继续下去，那么俄罗斯最终会消失为一个民族国家。
+Dialogue: 0,0:44:38.54,0:44:41.40,English,,0,0,0,,Does that make sense? Okay?\N{\rChinese}这有道理吗？好吧？
+Dialogue: 0,0:44:42.00,0:44:44.04,English,,0,0,0,,So what's gonna happen is that over time,\N{\rChinese}那么接下来会发生的事是，随着时间的推移，
+Dialogue: 0,0:44:44.36,0:44:50.18,English,,0,0,0,,a new concept will arise to challenge consumerism\N{\rChinese}一个新的概念将会出现来挑战消费主义
+Dialogue: 0,0:44:50.18,0:44:53.68,English,,0,0,0,,and liberal democracy. And we will call this concept Putinism.\N{\rChinese}和自由民主。我们把这个概念叫做普京主义。
+Dialogue: 0,0:44:56.26,0:45:01.78,English,,0,0,0,,And the idea of Putinism is really continuous war.\N{\rChinese}普京主义的核心是持续的战争。
+Dialogue: 0,0:45:05.28,0:45:07.00,English,,0,0,0,,That as a society,\N{\rChinese}作为一个社会，
+Dialogue: 0,0:45:07.32,0:45:11.90,English,,0,0,0,,you should be constantly fighting wars in all order to discipline,\N{\rChinese}你应该不断在各个层面打仗以锻炼，统一你的民族。
+Dialogue: 0,0:45:12.32,0:45:15.86,English,,0,0,0,,unify your nation.\N{\rChinese}好的？并让你的人民更强壮。
+Dialogue: 0,0:45:16.86,0:45:20.24,English,,0,0,0,,Okay? And make your people stronger\N{\rChinese}Okay? And make your people stronger
+Dialogue: 0,0:45:20.24,0:45:22.24,English,,0,0,0,,and more prosperous.\N{\rChinese}和更繁荣。
+Dialogue: 0,0:45:22.52,0:45:23.80,English,,0,0,0,,That is Putinism.\N{\rChinese}那就是普京主义。
+Dialogue: 0,0:45:23.90,0:45:27.28,English,,0,0,0,,Okay? And I think this will be his defining legacy.\N{\rChinese}好的？我认为这将是他的定义性遗产。
+Dialogue: 0,0:45:28.42,0:45:33.24,English,,0,0,0,,And Putinism is a direct response to liberal democracy.\N{\rChinese}而普京主义是对自由民主的直接回应。
+Dialogue: 0,0:45:33.58,0:45:37.18,English,,0,0,0,,So we will shift as a society from one\N{\rChinese}于是我们作为社会将从一种
+Dialogue: 0,0:45:37.18,0:45:40.90,English,,0,0,0,,that is based on the consumer to one that is based on the warrior.\N{\rChinese}基于消费者的转为基于战士的。
+Dialogue: 0,0:45:42.56,0:45:45.70,English,,0,0,0,,Does that make sense, guys? Okay?\N{\rChinese}那有道理吗，大家？好吧？
+Dialogue: 0,0:45:46.16,0:45:47.10,English,,0,0,0,,Any questions?\N{\rChinese}还有问题吗？
+Dialogue: 0,0:45:54.18,0:45:56.52,English,,0,0,0,,Oh, so Selina asked a question.\N{\rChinese}哦，塞琳娜问了个问题。
+Dialogue: 0,0:45:57.22,0:46:00.46,English,,0,0,0,,How is capitalism different from liberal democracy?\N{\rChinese}资本主义与自由民主有什么区别？
+Dialogue: 0,0:46:00.50,0:46:05.00,English,,0,0,0,,That's a great question. So capitalism is only concerned about capital.\N{\rChinese}这真是个好问题。资本主义只关注资本。
+Dialogue: 0,0:46:05.40,0:46:09.12,English,,0,0,0,,So you can be a fascist country and be capitalistic.\N{\rChinese}你可以是个法西斯国家，也可以是资本主义的。
+Dialogue: 0,0:46:10.36,0:46:14.90,English,,0,0,0,,So capitalism, many people say, leads to fascism.\N{\rChinese}于是，很多人说资本主义会导致法西斯主义。
+Dialogue: 0,0:46:15.04,0:46:17.98,English,,0,0,0,,So Nazis were extremely capitalistic.\N{\rChinese}于是，纳粹党极度资本主义。
+Dialogue: 0,0:46:18.06,0:46:21.54,English,,0,0,0,,They see communism, the Soviet Union, as a direct threat\N{\rChinese}他们把共产主义、苏联视为直接威胁。
+Dialogue: 0,0:46:22.07,0:46:23.72,English,,0,0,0,,to its existence. Okay?\N{\rChinese}到它的存在。好吗？
+Dialogue: 0,0:46:23.98,0:46:29.48,English,,0,0,0,,The idea of a liberal democracy is the participation of everyone in\N{\rChinese}自由民主的想法是人人参与资本的生成。
+Dialogue: 0,0:46:29.99,0:46:31.20,English,,0,0,0,,the generation of capital.\N{\rChinese}the generation of capital.
+Dialogue: 0,0:46:32.18,0:46:34.80,English,,0,0,0,,Does that make sense? So in other words,\N{\rChinese}这有道理吗？换句话说，
+Dialogue: 0,0:46:34.98,0:46:39.54,English,,0,0,0,,this is one of the ironies of the 20th century is that\N{\rChinese}20世纪的一个讽刺是，
+Dialogue: 0,0:46:40.16,0:46:41.48,English,,0,0,0,,capitalism and democracy\N{\rChinese}资本主义与民主是两种对立的力量。
+Dialogue: 0,0:46:41.92,0:46:44.04,English,,0,0,0,,are opposing forces. And\N{\rChinese}是相互对立的力量。且
+Dialogue: 0,0:46:44.04,0:46:47.06,English,,0,0,0,,the idea of liberal democracy is to put the\N{\rChinese}自由民主的想法是把两者放在一起，合成一个合成体来解释。
+Dialogue: 0,0:46:47.06,0:46:50.88,English,,0,0,0,,two together in a synthesis as to explain away\N{\rChinese}two together in a synthesis as to explain away
+Dialogue: 0,0:46:52.00,0:46:53.84,English,,0,0,0,,or ignore the contradictions.\N{\rChinese}或忽略矛盾。
+Dialogue: 0,0:46:53.98,0:46:56.14,English,,0,0,0,,Okay? But capitalism and democracy are contradictions.\N{\rChinese}好的？但资本主义与民主是矛盾。
+Dialogue: 0,0:46:56.60,0:46:58.96,English,,0,0,0,,Does that make sense? Okay, any more questions?\N{\rChinese}这有道理吗？好的，还问什么？
+Dialogue: 0,0:47:14.90,0:47:17.98,English,,0,0,0,,Okay, so Jack makes a great point, which\N{\rChinese}好的，杰克说了个很好的点，
+Dialogue: 0,0:47:17.98,0:47:20.22,English,,0,0,0,,is like wars that have been fought before\N{\rChinese}像以前打过的战争一样
+Dialogue: 0,0:47:21.48,0:47:23.02,English,,0,0,0,,have destroyed societies.\N{\rChinese}已经毁灭了社会。
+Dialogue: 0,0:47:23.36,0:47:25.00,English,,0,0,0,,Okay? So think of Athens and Sparta.\N{\rChinese}好的吗？想想雅典和斯巴达。
+Dialogue: 0,0:47:25.40,0:47:27.68,English,,0,0,0,,And think of World War II and World War I.\N{\rChinese}再想想第二次世界大战和第一次世界大战。
+Dialogue: 0,0:47:27.74,0:47:31.02,English,,0,0,0,,Okay? Societies become exhausted and destroyed. So\N{\rChinese}好的吗？社会会疲惫并被毁灭。
+Dialogue: 0,0:47:31.02,0:47:36.58,English,,0,0,0,,the idea of continuous war is you fight small -scale wars\N{\rChinese}连续战争的想法是你要打一场小规模的战争
+Dialogue: 0,0:47:37.26,0:47:39.44,English,,0,0,0,,so as to manage the!\N{\rChinese}以此来管理！
+Dialogue: 0,0:47:36.16,0:47:38.16,English,,0,0,0,,!\N{\rChinese}！
+Dialogue: 0,0:47:40.52,0:47:41.72,English,,0,0,0,,the size of the conflict.\N{\rChinese}冲突的规模。
+Dialogue: 0,0:47:41.98,0:47:43.92,English,,0,0,0,,Okay? And it's important to do that.\N{\rChinese}好的吗？而且这很重要。
+Dialogue: 0,0:47:44.00,0:47:46.68,English,,0,0,0,,Why? Why don't you want a large -scale war?\N{\rChinese}为什么？你为什么不想要大规模战争？
+Dialogue: 0,0:47:50.28,0:47:53.48,English,,0,0,0,,No, no, no, no. You, what might happen in a large -scale war?\N{\rChinese}不，不，不，不。你，想想大规模战争会怎样？
+Dialogue: 0,0:47:58.22,0:48:01.24,English,,0,0,0,,That's right, okay. The problem is you have nuclear weapons in place now.\N{\rChinese}对，好的。问题是现在你们已经有核武器。
+Dialogue: 0,0:48:01.36,0:48:02.76,English,,0,0,0,,Okay? So it is not\N{\rChinese}好的？所以这点不是问题。
+Dialogue: 0,0:48:04.04,0:48:06.10,English,,0,0,0,,it's not smart to fight a large -scale war.\N{\rChinese}不打大规模战争是明智的。
+Dialogue: 0,0:48:06.30,0:48:08.14,English,,0,0,0,,When you fight a large -scale war you can't really control\N{\rChinese}打大规模战争时你无法真正控制升级。
+Dialogue: 0,0:48:09.82,0:48:13.00,English,,0,0,0,,the escalation. And eventually, say the United States\N{\rChinese}最终，美国会说……
+Dialogue: 0,0:48:13.00,0:48:15.78,English,,0,0,0,,and Russia fight a ground war in Europe, eventually they'll be so\N{\rChinese}当俄国在欧洲打一场陆战，最终他们互相激愤到要用核武器。
+Dialogue: 0,0:48:15.78,0:48:17.96,English,,0,0,0,,angry at each other, they might have to use nuclear weapons.\N{\rChinese}好的？这就是原因。
+Dialogue: 0,0:48:18.18,0:48:19.36,English,,0,0,0,,Okay? That's why\N{\rChinese}Okay? That's why
+Dialogue: 0,0:48:20.38,0:48:22.92,English,,0,0,0,,one of the major tenets of Putinism\N{\rChinese}普京主义的主要原则之一
+Dialogue: 0,0:48:22.92,0:48:27.22,English,,0,0,0,,is you pick small contained conflicts.\N{\rChinese}就是挑选小规模的局部冲突
+Dialogue: 0,0:48:27.78,0:48:31.36,English,,0,0,0,,So Ukraine is a small contained conflict.\N{\rChinese}所以乌克兰就是一个小规模的局部冲突
+Dialogue: 0,0:48:31.52,0:48:36.60,English,,0,0,0,,Okay? An invasion of France or an invasion of Britain would lead to nuclear war.\N{\rChinese}好的？法国或英国的入侵会引发核战争。
+Dialogue: 0,0:48:36.82,0:48:38.62,English,,0,0,0,,Does that make sense? Okay?\N{\rChinese}这有道理吗？好的？
+Dialogue: 0,0:48:38.70,0:48:41.08,English,,0,0,0,,And that's why the United States would also pick Iran.\N{\rChinese}这也是美国会挑选伊朗的原因。
+Dialogue: 0,0:48:42.00,0:48:44.90,English,,0,0,0,,Because Iran would be a small contained conflict.\N{\rChinese}因为伊朗会是一个小规模的局部冲突。
+Dialogue: 0,0:48:45.16,0:48:46.66,English,,0,0,0,,Does that make sense? Okay?\N{\rChinese}这有道理吗？好的？
+Dialogue: 0,0:48:46.82,0:48:49.48,English,,0,0,0,,So this is the Putinism.\N{\rChinese}这就是普京主义。
+Dialogue: 0,0:48:49.60,0:48:53.06,English,,0,0,0,,Okay? War is a mechanism to transform your society.\N{\rChinese}好的？战争是把社会转变的机制。
+Dialogue: 0,0:48:53.44,0:48:58.20,English,,0,0,0,,Whereas before, we understood war as a mechanism to conquer others.\N{\rChinese}之前我们把战争理解为征服他人的机制。
+Dialogue: 0,0:48:58.40,0:49:02.76,English,,0,0,0,,Okay? As imperialism or the spreading of civilization.\N{\rChinese}好的？作为帝国主义或文明传播的手段。
+Dialogue: 0,0:49:03.30,0:49:05.70,English,,0,0,0,,Now, the idea of Putinism is no, guys.\N{\rChinese}现在，普京主义的想法就是这样，伙计们。
+Dialogue: 0,0:49:06.02,0:49:07.32,English,,0,0,0,,We don't care about the other people.\N{\rChinese}我们不关心别人。
+Dialogue: 0,0:49:07.42,0:49:09.80,English,,0,0,0,,We care about ourselves. We're using war as\N{\rChinese}我们关心自己。我们把战争当作…
+Dialogue: 0,0:49:11.22,0:49:14.20,English,,0,0,0,,basically a mechanism to discipline our bodies.\N{\rChinese}基本是把我们的身体训练成纪律的机制。
+Dialogue: 0,0:49:14.28,0:49:16.34,English,,0,0,0,,Just like the gym. Okay?\N{\rChinese}就像去健身房。好的吗？
+Dialogue: 0,0:49:16.36,0:49:18.02,English,,0,0,0,,Does that make sense? Okay?\N{\rChinese}这样说通吗？好的吗？
+Dialogue: 0,0:49:18.56,0:49:20.56,English,,0,0,0,,The thing about global leaders,\N{\rChinese}关于全球领袖的事，
+Dialogue: 0,0:49:20.68,0:49:24.60,English,,0,0,0,,world leaders is they're all insane but they're not stupid.\N{\rChinese}世界领袖们都很疯狂，却不傻瓜。
+Dialogue: 0,0:49:25.02,0:49:26.68,English,,0,0,0,,You understand? There's a difference.\N{\rChinese}你懂了吗？有区别。
+Dialogue: 0,0:49:27.02,0:49:29.38,English,,0,0,0,,They're happy to kill millions of people.\N{\rChinese}他们乐意杀死数百万人。
+Dialogue: 0,0:49:29.60,0:49:31.36,English,,0,0,0,,They're not happy to blow up the world.\N{\rChinese}他们不乐意炸毁世界。
+Dialogue: 0,0:49:32.44,0:49:36.64,English,,0,0,0,,Okay? But\N{\rChinese}好的吗？
+Dialogue: 0,0:49:36.64,0:49:38.86,English,,0,0,0,,Jack's other point is that\N{\rChinese}杰克的另一个观点是
+Dialogue: 0,0:49:39.58,0:49:41.88,English,,0,0,0,,Russia's not a very wealthy country.\N{\rChinese}俄罗斯不是一个很富裕的国家。
+Dialogue: 0,0:49:42.44,0:49:44.74,English,,0,0,0,,Right? Eventually, you're going to exhaust yourself.\N{\rChinese}对吧？最终，你会把自己耗尽。
+Dialogue: 0,0:49:45.20,0:49:49.60,English,,0,0,0,,And that's why we think war is usually a pyramid scheme.\N{\rChinese}于是我们认为战争通常是金字塔式的计划。
+Dialogue: 0,0:49:52.74,0:49:54.78,English,,0,0,0,,Okay? And what that means is\N{\rChinese}好？这意味着什么呢？
+Dialogue: 0,0:49:55.88,0:49:58.46,English,,0,0,0,,so the example is Nazi Germany.\N{\rChinese}举例就是纳粹德国。
+Dialogue: 0,0:49:58.70,0:50:00.82,English,,0,0,0,,When they were fighting these wars,\N{\rChinese}当他们在这些战争中作战时，
+Dialogue: 0,0:50:01.16,0:50:05.08,English,,0,0,0,,it was costing their economy a lot of money so they were forced to fight even more wars.\N{\rChinese}那耗费了他们的经济大量资金，于是他们被迫再打更多战争。
+Dialogue: 0,0:50:05.22,0:50:09.74,English,,0,0,0,,Okay? That's what eventually led to Germany's invasion of Russia\N{\rChinese}好？这最终导致了德国入侵俄罗斯。
+Dialogue: 0,0:50:09.74,0:50:12.04,English,,0,0,0,,because they needed the resources and the manpower.\N{\rChinese}因为他们需要资源和人力。
+Dialogue: 0,0:50:12.48,0:50:15.20,English,,0,0,0,,Okay? And that's the same thing that will happen here\N{\rChinese}好？这和这里会发生的事一样。
+Dialogue: 0,0:50:16.06,0:50:20.78,English,,0,0,0,,where, okay, Putin is spending a lot of money to fight this war in Ukraine.\N{\rChinese}好，普京在乌克兰战争上花费了大量金钱。
+Dialogue: 0,0:50:21.92,0:50:24.76,English,,0,0,0,,Okay? But after he finishes this war in Ukraine,\N{\rChinese}好的？但在他在乌克兰结束这场战争后，
+Dialogue: 0,0:50:24.90,0:50:28.22,English,,0,0,0,,he needs to go conquer more territory for their resources.\N{\rChinese}他需要去征服更多领土以获取资源。
+Dialogue: 0,0:50:29.24,0:50:31.48,English,,0,0,0,,Okay? So in the long term,\N{\rChinese}好的？所以从长远来看，
+Dialogue: 0,0:50:32.70,0:50:34.14,English,,0,0,0,,this could lead to disaster.\N{\rChinese}这可能导致灾难。
+Dialogue: 0,0:50:34.56,0:50:36.58,English,,0,0,0,,Okay? This could lead to a large scale war.\N{\rChinese}好？这可能引发大规模战争。
+Dialogue: 0,0:50:37.44,0:50:38.94,English,,0,0,0,,But in the short term,\N{\rChinese}但短期内，
+Dialogue: 0,0:50:39.58,0:50:41.30,English,,0,0,0,,it does work. Okay?\N{\rChinese}它确实有效。好？
+Dialogue: 0,0:50:41.42,0:50:44.30,English,,0,0,0,,Does that make sense? Okay. Any more questions?\N{\rChinese}这样说通吗？好。还有别的问题吗？
+Dialogue: 0,0:50:51.62,0:50:54.52,English,,0,0,0,,Okay. So,\N{\rChinese}好。那，
+Dialogue: 0,0:50:55.52,0:51:00.18,English,,0,0,0,,Selena asked a great question, which is like eventually people are going to get exhausted.\N{\rChinese}塞莱娜提了个很好的问题，像是最终人们会精疲力竭。
+Dialogue: 0,0:51:01.06,0:51:02.48,English,,0,0,0,,Okay? And\N{\rChinese}好？然后
+Dialogue: 0,0:51:03.20,0:51:04.60,English,,0,0,0,,what Putin\N{\rChinese}什么是普京
+Dialogue: 0,0:51:06.46,0:51:08.44,English,,0,0,0,,believes is that\N{\rChinese}我认为是这样
+Dialogue: 0,0:51:09.44,0:51:12.06,English,,0,0,0,,the Russians are a warrior culture.\N{\rChinese}俄国人是个战士文化
+Dialogue: 0,0:51:13.66,0:51:16.22,English,,0,0,0,,Okay? Russians enjoy war.\N{\rChinese}好？俄国人喜欢战争。
+Dialogue: 0,0:51:16.52,0:51:18.16,English,,0,0,0,,Russians are good at war.\N{\rChinese}俄国人善于战争。
+Dialogue: 0,0:51:18.74,0:51:22.82,English,,0,0,0,,So, Russians won't be exhausted by war.\N{\rChinese}于是，俄国人不会因战争而疲惫。
+Dialogue: 0,0:51:23.46,0:51:25.84,English,,0,0,0,,They'll be galvanized and energized by war.\N{\rChinese}他们会因战争而被激励并充满活力。
+Dialogue: 0,0:51:26.10,0:51:28.70,English,,0,0,0,,That's a theory. Okay? And he's right.\N{\rChinese}那是一个理论。好？他是对的。
+Dialogue: 0,0:51:28.94,0:51:32.40,English,,0,0,0,,Okay? There are warrior cultures out there around the world\N{\rChinese}好的？世界各地都有战士文化，喜欢作战。
+Dialogue: 0,0:51:32.40,0:51:34.62,English,,0,0,0,,that do enjoy fighting.\N{\rChinese}好的？这些战士文化在世界各地都很活跃，喜欢作战。
+Dialogue: 0,0:51:34.72,0:51:36.20,English,,0,0,0,,Okay? So you think of the German people.\N{\rChinese}好的？你想到的是德国人。
+Dialogue: 0,0:51:37.19,0:51:39.08,English,,0,0,0,,Right? The Germans have been fighting wars for\N{\rChinese}对吗？德国人一直在打仗。
+Dialogue: 0,0:51:39.44,0:51:41.16,English,,0,0,0,,a thousand years and have been really good at it.\N{\rChinese}一千年，且一直做得很出色。
+Dialogue: 0,0:51:41.32,0:51:42.92,English,,0,0,0,,Okay? You think of Japanese.\N{\rChinese}好？你想到的是日本人。
+Dialogue: 0,0:51:43.42,0:51:47.10,English,,0,0,0,,Okay? Japan is also a warrior culture that enjoys fighting wars.\N{\rChinese}好？日本也是喜欢打仗的战士文化。
+Dialogue: 0,0:51:48.00,0:51:50.82,English,,0,0,0,,Okay? China is not a warrior culture.\N{\rChinese}好？中国不是战士文化。
+Dialogue: 0,0:51:51.68,0:51:53.42,English,,0,0,0,,It's very hard for the Chinese to fight wars.\N{\rChinese}对中国人来说，打仗很难。
+Dialogue: 0,0:51:53.64,0:51:58.34,English,,0,0,0,,And Chinese, okay, I hate to say this, but China would probably lose most wars.\N{\rChinese}而且中国人，好的，我说这句话很不情愿，但中国大概会输大多数战争。
+Dialogue: 0,0:51:58.54,0:52:01.60,English,,0,0,0,,Okay? It's not a warrior culture. So, for Chinese civilization,\N{\rChinese}好？它不是战士文化。所以，对中国文明来说，
+Dialogue: 0,0:52:02.24,0:52:04.98,English,,0,0,0,,war would be exhausting. But for Russian civilization,\N{\rChinese}战争会很累人。但对俄罗斯文明来说，
+Dialogue: 0,0:52:05.42,0:52:09.00,English,,0,0,0,,war can be energizing and\N{\rChinese}战争可以充满活力并
+Dialogue: 0,0:52:09.44,0:52:11.82,English,,0,0,0,,illuminating. Okay? Does that make sense? It depends on your civilization.\N{\rChinese}照亮的。好？
+Dialogue: 0,0:52:13.46,0:52:23.98,English,,0,0,0,,Okay? Any more questions? Okay.\N{\rChinese}好？还有问题吗？好。
+Dialogue: 0,0:52:30.42,0:52:31.84,English,,0,0,0,,So, um,\N{\rChinese}所以，呃，
+Dialogue: 0,0:52:33.52,0:52:36.58,English,,0,0,0,,what's going to happen? And the answer is that\N{\rChinese}接下来会发生什么？答案是……
+Dialogue: 0,0:52:37.14,0:52:41.44,English,,0,0,0,,um, culture works right now.\N{\rChinese}呃，文化现在正好发挥作用。
+Dialogue: 0,0:52:41.68,0:52:46.12,English,,0,0,0,,Okay? Because war culture beats consumer culture easily.\N{\rChinese}好的？因为战争文化很容易击败消费文化。
+Dialogue: 0,0:52:46.48,0:52:48.82,English,,0,0,0,,So you see the war in Ukraine where\N{\rChinese}所以你看到乌克兰的战争场景。
+Dialogue: 0,0:52:49.27,0:52:50.96,English,,0,0,0,,Russians are destroying the\N{\rChinese}俄罗斯人正在摧毁
+Dialogue: 0,0:52:51.56,0:52:55.12,English,,0,0,0,,Ukrainians and the Europeans are like ah, I'm too busy watching TV.\N{\rChinese}乌克兰人，欧洲人则像啊，我正忙着看电视。
+Dialogue: 0,0:52:55.36,0:52:58.28,English,,0,0,0,,I'm too busy buying things.\N{\rChinese}我正忙着买东西。
+Dialogue: 0,0:52:58.40,0:53:01.82,English,,0,0,0,,I'm too busy vacationing. Okay? So consumers don't want to go to war.\N{\rChinese}我正忙着度假。
+Dialogue: 0,0:53:02.08,0:53:05.36,English,,0,0,0,,Okay? But eventually Russia is going to reach a point\N{\rChinese}好的？但最终俄罗斯将达到一个直接威胁德国、法国和英国的节点。
+Dialogue: 0,0:53:05.36,0:53:09.28,English,,0,0,0,,where it directly threatens Germany and France and Britain.\N{\rChinese}好的？但最终俄罗斯将达到一个直接威胁德国、法国和英国的节点。
+Dialogue: 0,0:53:09.44,0:53:10.74,English,,0,0,0,,And then they will\N{\rChinese}然后他们会
+Dialogue: 0,0:53:11.64,0:53:15.42,English,,0,0,0,,start to transition into a war culture.\N{\rChinese}开始转入战争文化。
+Dialogue: 0,0:53:15.84,0:53:20.18,English,,0,0,0,,Okay? So, Putinism will become the dominant ideology\N{\rChinese}好的？所以，普京主义将成为未来五十年的主导思想。
+Dialogue: 0,0:53:20.90,0:53:22.22,English,,0,0,0,,for the next 50 years.\N{\rChinese}好的？但普京主义可以传播到其他国家。
+Dialogue: 0,0:53:22.56,0:53:26.22,English,,0,0,0,,Okay? But Putinism can spread to other countries.\N{\rChinese}好的？所以，普京主义将成为未来五十年的主导思想。
+Dialogue: 0,0:53:26.42,0:53:28.94,English,,0,0,0,,Okay? So Japan can adopt Putinism.\N{\rChinese}好的？所以日本可以采用普京主义。
+Dialogue: 0,0:53:29.02,0:53:30.34,English,,0,0,0,,Germany can adopt it.\N{\rChinese}德国也可以采用。
+Dialogue: 0,0:53:31.38,0:53:32.78,English,,0,0,0,,Britain can adopt it. Okay?\N{\rChinese}英国也可以采用。
+Dialogue: 0,0:53:32.98,0:53:36.90,English,,0,0,0,,And so the world we call, so when this happens, we call this world\N{\rChinese}于是我们称之为……当这发生时，我们称之为这个世界
+Dialogue: 0,0:53:37.52,0:53:42.44,English,,0,0,0,,multipolar. So\N{\rChinese}多极化。于是
+Dialogue: 0,0:53:42.44,0:53:43.90,English,,0,0,0,,the word we use is multipolar.\N{\rChinese}我们使用的词是多极化。
+Dialogue: 0,0:53:43.94,0:53:48.40,English,,0,0,0,,Okay? Or multipolarity. Meaning that like there are different centers of power throughout the world.\N{\rChinese}好的？或者多极化。意思是世界各地有不同的权力中心。
+Dialogue: 0,0:53:48.74,0:53:50.20,English,,0,0,0,,Right now there's only the United States.\N{\rChinese}现在只有美国是中心。
+Dialogue: 0,0:53:50.30,0:53:52.28,English,,0,0,0,,It's a global hegemon. But\N{\rChinese}它是全球霸权。可是……
+Dialogue: 0,0:53:52.78,0:53:56.00,English,,0,0,0,,over the next 10, 20 years we expect a multipolar world where\N{\rChinese}在接下十、二十年里我们预期出现多极化世界
+Dialogue: 0,0:53:56.00,0:53:58.40,English,,0,0,0,,each region has different hegemons.\N{\rChinese}每个地区都有不同的霸权。
+Dialogue: 0,0:53:59.32,0:54:02.46,English,,0,0,0,,Okay? Does that make sense? Alright.\N{\rChinese}好？这样说通吗？好的。
+Dialogue: 0,0:54:02.46,0:54:05.12,English,,0,0,0,,Any more questions?.\N{\rChinese}还有问题吗？
+Dialogue: 0,0:54:07.40,0:54:11.74,English,,0,0,0,,..\N{\rChinese}……
+Dialogue: 0,0:54:11.74,0:54:14.12,English,,0,0,0,,Okay. So, what happens to the United States?\N{\rChinese}好的。那么，美国会怎样呢？
+Dialogue: 0,0:54:14.32,0:54:15.86,English,,0,0,0,,So next week we'll discuss the United States.\N{\rChinese}那么下周我们来讨论美国。
+Dialogue: 0,0:54:15.92,0:54:18.82,English,,0,0,0,,Okay? But what I will show you is that\N{\rChinese}好？但我接下来要给你展示的是
+Dialogue: 0,0:54:18.82,0:54:21.00,English,,0,0,0,,if the United States fights this war in Iran,\N{\rChinese}如果美国在伊朗打这场战争，
+Dialogue: 0,0:54:21.36,0:54:24.72,English,,0,0,0,,what it has to do is retreat back to its borders.\N{\rChinese}它要做的就是回到自己的边界
+Dialogue: 0,0:54:24.82,0:54:26.26,English,,0,0,0,,Okay? And has to become isolationist.\N{\rChinese}好的？然后就要变成孤立主义者。
+Dialogue: 0,0:54:26.40,0:54:29.38,English,,0,0,0,,But I'll explain that to you, I'll explain that to you next week.\N{\rChinese}我会在下周给你解释的。
+Dialogue: 0,0:54:29.44,0:54:31.56,English,,0,0,0,,Okay? Any more questions?\N{\rChinese}好的？还有别的问题吗？
+Dialogue: 0,0:54:33.22,0:54:35.04,English,,0,0,0,,Sorry, sorry. Go ahead.\N{\rChinese}抱歉，抱歉。请继续。
+Dialogue: 0,0:54:47.28,0:54:49.08,English,,0,0,0,,..\N{\rChinese}…
+Dialogue: 0,0:54:56.26,0:54:57.58,English,,0,0,0,,..\N{\rChinese}…
+Dialogue: 0,0:54:59.06,0:55:00.36,English,,0,0,0,,..\N{\rChinese}…
+Dialogue: 0,0:55:00.36,0:55:02.00,English,,0,0,0,,....\N{\rChinese}……
+Dialogue: 0,0:55:02.00,0:55:04.72,English,,0,0,0,,..\N{\rChinese}……
+Dialogue: 0,0:55:04.72,0:55:09.42,English,,0,0,0,,... Okay, so that's a great question, okay?\N{\rChinese}……好的，那是个很好的问题，好吗？
+Dialogue: 0,0:55:09.54,0:55:12.52,English,,0,0,0,,So we just said that consumer culture is the perfection of slavery,\N{\rChinese}于是我们刚才说，消费文化是奴役的完美形态。
+Dialogue: 0,0:55:12.84,0:55:15.44,English,,0,0,0,,but is warrior culture slavery?\N{\rChinese}但战士文化算是奴役吗？
+Dialogue: 0,0:55:16.78,0:55:19.72,English,,0,0,0,,And you can make the argument that it's actually anti -slavery.\N{\rChinese}并且你可以提出它实际上是反奴役的论点。
+Dialogue: 0,0:55:20.00,0:55:23.70,English,,0,0,0,,Why? Why?\N{\rChinese}为什么？为什么？
+Dialogue: 0,0:55:26.68,0:55:28.90,English,,0,0,0,,What can the warrior do that the consumer cannot do?\N{\rChinese}战士能做什么是消费者做不到的？
+Dialogue: 0,0:55:31.90,0:55:34.08,English,,0,0,0,,What's the problem with having a warrior culture, really?\N{\rChinese}拥有战士文化到底有什么问题？
+Dialogue: 0,0:55:37.16,0:55:41.46,English,,0,0,0,,See what I mean? What can warriors do that the consumers would never do?\N{\rChinese}你看我说的意思吗？战士能做什么是消费者做不到的？
+Dialogue: 0,0:55:43.82,0:55:46.98,English,,0,0,0,,Guys, warriors can rebel, right?\N{\rChinese}伙计们，战士能起义，对吧？
+Dialogue: 0,0:55:47.34,0:55:51.00,English,,0,0,0,,Warriors can mutiny. The army can be like, you guys are terrible.\N{\rChinese}战士能起兵。军队也会说，咱们这几个人真是糟糕。
+Dialogue: 0,0:55:51.18,0:55:52.62,English,,0,0,0,,We're going to rebel against you, okay?\N{\rChinese}我们要向你起义，好吗？
+Dialogue: 0,0:55:53.32,0:55:56.34,English,,0,0,0,,You understand? Does that make sense to you?\N{\rChinese}你明白吗？这对你来说有意义吗？
+Dialogue: 0,0:55:56.66,0:55:58.88,English,,0,0,0,,Consumers don't do that. Consumers are like, okay, we're going to do this.\N{\rChinese}消费者不会这么做。消费者会说，好吧，我们要这么做。
+Dialogue: 0,0:55:58.90,0:56:00.34,English,,0,0,0,,Hmm, I'm going to rebel.\N{\rChinese}嗯，我要起义。
+Dialogue: 0,0:56:00.54,0:56:02.00,English,,0,0,0,,I'm going to stop buying things.\N{\rChinese}我要停止买东西。
+Dialogue: 0,0:56:02.86,0:56:04.76,English,,0,0,0,,No one's going to do that, okay?\N{\rChinese}没人会这么做，好吗？
+Dialogue: 0,0:56:04.98,0:56:08.78,English,,0,0,0,,You will never be like, I'm going to stop buying things because I think it's bad for the environment.\N{\rChinese}你会说，我要停止买东西，因为我觉得对环境不好。
+Dialogue: 0,0:56:09.02,0:56:11.82,English,,0,0,0,,You won't do that. Whereas warriors are like, you know what?\N{\rChinese}而战士们会说，你知道吗？
+Dialogue: 0,0:56:11.88,0:56:14.50,English,,0,0,0,,I don't like this leader. Let's march to Moscow and get rid of him.\N{\rChinese}我不喜欢这个领导。我们去莫斯科，赶走他。
+Dialogue: 0,0:56:15.30,0:56:17.96,English,,0,0,0,,They can do that. And they do that all the time.\N{\rChinese}他们可以这么做。并且一直这么做。
+Dialogue: 0,0:56:18.32,0:56:20.38,English,,0,0,0,,That's why warrior culture is so destructive.\N{\rChinese}这就是战士文化如此破坏的原因。
+Dialogue: 0,0:56:20.64,0:56:24.70,English,,0,0,0,,That's why warrior culture was so dominant before and then we got rid of it.\N{\rChinese}这就是战士文化在之前如此占主导地位的原因，随后我们又把它除掉。
+Dialogue: 0,0:56:24.82,0:56:26.10,English,,0,0,0,,Because for political leaders,\N{\rChinese}因为对政治领袖来说，
+Dialogue: 0,0:56:26.46,0:56:28.06,English,,0,0,0,,warrior culture is a direct threat.\N{\rChinese}战士文化是直接威胁。
+Dialogue: 0,0:56:28.90,0:56:30.42,English,,0,0,0,,Does that make sense? Okay.\N{\rChinese}这有道理吗？好的。
+Dialogue: 0,0:56:30.50,0:56:32.56,English,,0,0,0,,So, but in this question,\N{\rChinese}所以，在这个问题上，
+Dialogue: 0,0:56:32.70,0:56:36.78,English,,0,0,0,,this reveals a contradiction in Putinism, okay?\N{\rChinese}这揭示了普京主义的矛盾，好的？
+Dialogue: 0,0:56:37.26,0:56:41.26,English,,0,0,0,,What is the ultimate problem in Putin turning\N{\rChinese}普京转变的终极问题是什么？
+Dialogue: 0,0:56:41.26,0:56:43.66,English,,0,0,0,,his entire country into a war society?\N{\rChinese}把整个国家变成战争社会？
+Dialogue: 0,0:56:44.68,0:56:49.44,English,,0,0,0,,What's the problem with that? And\N{\rChinese}这有什么问题？
+Dialogue: 0,0:56:49.44,0:56:50.76,English,,0,0,0,,it's a huge problem for Russia.\N{\rChinese}这对俄罗斯是个大问题。
+Dialogue: 0,0:56:50.92,0:56:55.86,English,,0,0,0,,And this is why ultimately Russia will not triumph in a multipolar world.\N{\rChinese}这就是为什么最终俄罗斯在多极世界中不会胜出的原因。
+Dialogue: 0,0:56:56.14,0:56:57.56,English,,0,0,0,,In fact, it will probably...\N{\rChinese}实际上它可能会崩溃……
+Dialogue: 0,0:56:57.56,0:56:58.88,English,,0,0,0,,Does it? Does it?\N{\rChinese}它会吗？它会吗？
+Dialogue: 0,0:56:58.90,0:57:00.28,English,,0,0,0,,It will probably fall apart. Why?\N{\rChinese}它可能会崩溃。为什么？
+Dialogue: 0,0:57:02.50,0:57:04.38,English,,0,0,0,,For a warrior culture to triumph, what does it need?\N{\rChinese}要让武士文化取得胜利，需要什么？
+Dialogue: 0,0:57:12.78,0:57:14.48,English,,0,0,0,,Warriors fight best when what?\N{\rChinese}战士最擅长的时机？
+Dialogue: 0,0:57:17.90,0:57:20.58,English,,0,0,0,,When there's a king, guys. When there's a king.\N{\rChinese}当有国王时，兄弟们。
+Dialogue: 0,0:57:20.74,0:57:23.18,English,,0,0,0,,That's why we have kings. Right?\N{\rChinese}那就是我们有国王的原因。对吗？
+Dialogue: 0,0:57:23.44,0:57:27.18,English,,0,0,0,,So what's the problem with Putin's Russia?\N{\rChinese}那普京的俄罗斯有什么问题？
+Dialogue: 0,0:57:28.44,0:57:33.18,English,,0,0,0,,Russia is a country of kings. What's going to happen to Russia?\N{\rChinese}俄罗斯是国王的国家。接下来会怎样？
+Dialogue: 0,0:57:34.62,0:57:37.92,English,,0,0,0,,What's going to happen to Russia? Guys, eventually Putin's going to die.\N{\rChinese}俄国会怎样？各位，普京最终会去世。
+Dialogue: 0,0:57:38.32,0:57:40.94,English,,0,0,0,,Do you understand? Eventually he's going to die.\N{\rChinese}你明白了吗？他最终会去世。
+Dialogue: 0,0:57:41.06,0:57:43.66,English,,0,0,0,,And then what's going to happen? The country's going to fall apart because\N{\rChinese}然后会怎样？国家将会分崩。
+Dialogue: 0,0:57:43.66,0:57:47.94,English,,0,0,0,,there's a warrior culture and you have these different generals fighting each other for total control.\N{\rChinese}有一种战士文化，你们有不同的将领互相争夺全局。
+Dialogue: 0,0:57:48.12,0:57:50.02,English,,0,0,0,,There's going to be civil war, okay?\N{\rChinese}将会有内战，明白吗？
+Dialogue: 0,0:57:50.64,0:57:53.44,English,,0,0,0,,Putin right now is a strategic genius.\N{\rChinese}现在的普京是战略天才。
+Dialogue: 0,0:57:54.04,0:57:56.30,English,,0,0,0,,He's the king. Everyone admires him.\N{\rChinese}他是王。人人敬仰他。
+Dialogue: 0,0:57:56.42,0:57:58.88,English,,0,0,0,,So he unites everyone. He can direct officers to war.\N{\rChinese}于是他统一了众人。他能指挥将士投入战斗。
+Dialogue: 0,0:57:58.88,0:58:03.08,English,,0,0,0,,He can direct the entire society into total war. When he dies, this society's going to fall apart.\N{\rChinese}他能把整个社会调入全军。等他去世，社会必将分崩。
+Dialogue: 0,0:58:03.66,0:58:07.84,English,,0,0,0,,Okay? That's why Putin's legacy will not be a strong Russia.\N{\rChinese}好的？这就是为什么普京的遗产不会是强大的俄罗斯。
+Dialogue: 0,0:58:08.14,0:58:09.68,English,,0,0,0,,It will be Putinism. Okay?\N{\rChinese}它将是普京主义。好吗？
+Dialogue: 0,0:58:09.78,0:58:15.26,English,,0,0,0,,The idea of continuous war. Russia may not survive without Putin.\N{\rChinese}持续战争的概念。没有普京，俄罗斯可能不再存续。
+Dialogue: 0,0:58:15.70,0:58:18.58,English,,0,0,0,,Okay? And\N{\rChinese}好的？还有
+Dialogue: 0,0:58:18.58,0:58:23.20,English,,0,0,0,,quite honestly, when you have a great leader like Putin, it's impossible to replace him.\N{\rChinese}说实在，像普京这样的大领袖，替代他的人根本没法出现。
+Dialogue: 0,0:58:25.64,0:58:28.70,English,,0,0,0,,All right? No one would have his genius and authority.\N{\rChinese}好了？没有人能拥有他的天才与权柄。
+Dialogue: 0,0:58:28.72,0:58:33.24,English,,0,0,0,,Right? Nothing like that.\N{\rChinese}对吧？没什么像那样的。
+Dialogue: 0,0:58:34.28,0:58:35.58,English,,0,0,0,,Nothing like that. Nothing like that.\N{\rChinese}没什么像那样的。没什么像那样的。
+Dialogue: 0,0:58:35.58,0:58:39.98,English,,0,0,0,,Nothing like that. Nothing like that. Nothing like that.\N{\rChinese}没什么像那样的。没什么像那样的。没什么像那样的。
+Dialogue: 0,0:58:40.66,0:58:42.60,English,,0,0,0,,Nothing like that. Nothing like that. Nothing like that.\N{\rChinese}没什么像那样的。没什么像那样的。没什么像那样的。
+Dialogue: 0,0:58:42.72,0:58:44.42,English,,0,0,0,,Nothing like that.\N{\rChinese}没什么像那样的。
+Dialogue: 0,0:58:44.80,0:58:46.84,English,,0,0,0,,Nothing like that.\N{\rChinese}没什么像那样的。
+Dialogue: 0,0:58:47.20,0:58:48.94,English,,0,0,0,,Nothing like that. Nothing like that. Nothing like that. Nothing like that. Nothing like that.\N{\rChinese}没什么像那样的。没什么像那样的。没什么像那样的。没什么像那样的。没什么像那样的。
+Dialogue: 0,0:58:49.44,0:58:51.54,English,,0,0,0,,Nothing like that. Nothing like that. Nothing like that.\N{\rChinese}没什么像那样的。没什么像那样的。没什么像那样的。
+Dialogue: 0,0:58:51.88,0:58:54.60,English,,0,0,0,,Nothing like that.\N{\rChinese}没什么像那样的。
+Dialogue: 0,0:58:54.76,0:58:58.84,English,,0,0,0,,Nothing like that. Nothing like that.\N{\rChinese}没什么像那样的。没什么像那样的。
+Dialogue: 0,0:58:58.84,0:59:00.12,English,,0,0,0,,Most people don't like to go to war, okay?\N{\rChinese}大多数人不喜欢去打仗，行吗？
+Dialogue: 0,0:59:00.58,0:59:02.06,English,,0,0,0,,Most people are scared by war.\N{\rChinese}大多数人被打仗吓着。
+Dialogue: 0,0:59:02.48,0:59:06.16,English,,0,0,0,,But ultimately, society is determined\N{\rChinese}但最终，社会由那些愿意根据自己的信念行动的人决定。
+Dialogue: 0,0:59:07.64,0:59:10.46,English,,0,0,0,,by those who are willing to act on their beliefs, okay?\N{\rChinese}所以当我们观察美国时，...
+Dialogue: 0,0:59:10.76,0:59:12.44,English,,0,0,0,,So when we looked at America,\N{\rChinese}So when we looked at America,
+Dialogue: 0,0:59:13.00,0:59:14.34,English,,0,0,0,,look, they issue a lobby,\N{\rChinese}看，他们发起了游说，
+Dialogue: 0,0:59:16.28,0:59:18.18,English,,0,0,0,,they're only a small faction,\N{\rChinese}他们只是一个小派别，
+Dialogue: 0,0:59:19.66,0:59:23.88,English,,0,0,0,,small fraction of the American population, like less than 1%, okay?\N{\rChinese}美国人口中只有小小的一部分，不到1%。
+Dialogue: 0,0:59:24.38,0:59:27.78,English,,0,0,0,,But because they're willing to act, and they're organized, and they're determined,\N{\rChinese}但因为他们愿意行动，并且组织有序，且决意已定，
+Dialogue: 0,0:59:28.84,0:59:31.92,English,,0,0,0,,they're willing to act their way. Does that make sense? Same thing in Russia, where\N{\rChinese}他们就会按自己的方式行动。这样说对吗？在俄国也是如此，
+Dialogue: 0,0:59:31.92,0:59:35.38,English,,0,0,0,,at most, okay, I would say at most, you have 10%\N{\rChinese}至多为十个百分点，我想说至多是十%
+Dialogue: 0,0:59:35.38,0:59:39.74,English,,0,0,0,,who are like, oh, Putinism is a great idea, let's go conquer the world.\N{\rChinese}他们会说：噢，普京主义是个好主意，咱们去征服世界吧。
+Dialogue: 0,0:59:40.00,0:59:42.96,English,,0,0,0,,At most you have 10%. Most people are like,\N{\rChinese}至多只有10%。大多数人会这么想，
+Dialogue: 0,0:59:43.08,0:59:45.78,English,,0,0,0,,we want peace, we want to live our lives.\N{\rChinese}我们想要和平，想过自己的生活。
+Dialogue: 0,0:59:46.94,0:59:50.36,English,,0,0,0,,I have children, I want my children to be safe.\N{\rChinese}我有孩子，我想让孩子们安全。
+Dialogue: 0,0:59:50.42,0:59:52.40,English,,0,0,0,,I don't want to send my children to war, okay?\N{\rChinese}我不想把孩子送去打仗，好吗？
+Dialogue: 0,0:59:52.80,0:59:56.08,English,,0,0,0,,But again, history is determined by those\N{\rChinese}但历史还是由行动者决定。
+Dialogue: 0,0:59:56.08,0:59:58.84,English,,0,0,0,,who are determined to act and act in unison.\N{\rChinese}他们决定行动并同步行动。
+Dialogue: 0,1:00:00.32,1:00:05.00,English,,0,0,0,,Okay, so it's usually the most extreme individuals who get their way.\N{\rChinese}通常是最极端的人实现他们的目标。
+Dialogue: 0,1:00:05.20,1:00:08.22,English,,0,0,0,,Does that make sense? Okay, but thanks for the question, okay?\N{\rChinese}这样说通吗？谢谢你的提问。
+Dialogue: 0,1:00:08.30,1:00:13.08,English,,0,0,0,,Any more questions?.\N{\rChinese}还有问题吗？
+Dialogue: 0,1:00:21.20,1:00:24.30,English,,0,0,0,,Okay, so Putin believes that\N{\rChinese}好的，普京认为
+Dialogue: 0,1:00:24.30,1:00:27.44,English,,0,0,0,,Russia is first and foremost a great civilization,\N{\rChinese}俄罗斯首先是一个伟大的文明
+Dialogue: 0,1:00:27.84,1:00:31.00,English,,0,0,0,,okay? But as a great civilization,\N{\rChinese}好的？但作为一个伟大的文明，
+Dialogue: 0,1:00:31.36,1:00:34.24,English,,0,0,0,,it also has to fight wars to protect itself,\N{\rChinese}它也必须打仗来保全自身，
+Dialogue: 0,1:00:35.00,1:00:37.76,English,,0,0,0,,you understand? So Putin's like,\N{\rChinese}你明白吗？所以普京是这样想的。
+Dialogue: 0,1:00:37.92,1:00:40.48,English,,0,0,0,,you know what, if America left us alone,\N{\rChinese}你知道吗，如果美国让我们自己去做事，我们就不会打仗，行吗？
+Dialogue: 0,1:00:40.80,1:00:44.44,English,,0,0,0,,we would not fight wars, okay?\N{\rChinese}它只是因为美国坚持把我们包围。
+Dialogue: 0,1:00:44.96,1:00:48.74,English,,0,0,0,,It's only because America insists on encircling us,\N{\rChinese}It's only because Americainsists on encircling us,
+Dialogue: 0,1:00:49.78,1:00:53.72,English,,0,0,0,,insists on trying to destroy our culture, our civilization,\N{\rChinese}坚持要摧毁我们的文化，我们的文明
+Dialogue: 0,1:00:54.08,1:00:55.74,English,,0,0,0,,that we must fight a war.\N{\rChinese}我们必须打一场战争。
+Dialogue: 0,1:00:56.94,1:00:58.22,English,,0,0,0,,Okay, does that make sense?\N{\rChinese}好的，这有道理吗？
+Dialogue: 0,1:00:58.58,1:01:01.30,English,,0,0,0,,All right, and so what people say is, listen,\N{\rChinese}好了，大家听着，大家说的都是……
+Dialogue: 0,1:01:01.42,1:01:04.04,English,,0,0,0,,the war in Ukraine, it's ultimately caused\N{\rChinese}乌克兰的战争，最终是由……造成的
+Dialogue: 0,1:01:04.62,1:01:09.78,English,,0,0,0,,by NATO encroachment into Russia,\N{\rChinese}由北约侵入俄国而来，
+Dialogue: 0,1:01:10.02,1:01:12.06,English,,0,0,0,,right? So NATO,\N{\rChinese}对吧？所以北约，
+Dialogue: 0,1:01:12.40,1:01:16.00,English,,0,0,0,,after Soviet Union fell, expanded five times.\N{\rChinese}在苏联解体后，北约扩张了五次。
+Dialogue: 0,1:01:17.08,1:01:19.96,English,,0,0,0,,Guys, NATO was set up as a defensive alliance\N{\rChinese}伙计，北约本来是个防御同盟。
+Dialogue: 0,1:01:20.36,1:01:23.70,English,,0,0,0,,against the Soviet Union. Well, if you don't have a Soviet Union, you don't need NATO anymore.\N{\rChinese}对抗苏联。好吧，若你没有苏联，北约也就不需要了。
+Dialogue: 0,1:01:23.92,1:01:25.66,English,,0,0,0,,So why is NATO expanding?\N{\rChinese}那为什么北约还在扩张？
+Dialogue: 0,1:01:25.66,1:01:27.68,English,,0,0,0,,In fact, NATO was gonna expand into Ukraine.\N{\rChinese}实际上，北约将扩张到乌克兰。
+Dialogue: 0,1:01:28.08,1:01:31.54,English,,0,0,0,,So Putin is like, we are fighting this war,\N{\rChinese}于是普京说，咱们正在打这场战争
+Dialogue: 0,1:01:31.72,1:01:33.86,English,,0,0,0,,ultimately, to defend our civilization.\N{\rChinese}最终，为了捍卫我们的文明。
+Dialogue: 0,1:01:34.34,1:01:36.58,English,,0,0,0,,That's what matters, the defense of our civilization.\N{\rChinese}这才是关键，捍卫我们的文明。
+Dialogue: 0,1:01:37.38,1:01:39.24,English,,0,0,0,,And if it requires us into going,\N{\rChinese}如果它需要我们去行动，
+Dialogue: 0,1:01:39.80,1:01:42.80,English,,0,0,0,,if it requires us to go to war, then\N{\rChinese}如果它需要我们投入战争，
+Dialogue: 0,1:01:42.80,1:01:45.14,English,,0,0,0,,we will do so, okay?\N{\rChinese}我们就这么做，行吗？
+Dialogue: 0,1:01:45.62,1:01:49.02,English,,0,0,0,,And this is this process that will create Putinism, okay?\N{\rChinese}这就是将形成普京主义的过程，行吗？
+Dialogue: 0,1:01:49.20,1:01:51.22,English,,0,0,0,,Or continuous war. Does that make sense?\N{\rChinese}或者持续战争？这样说对吗？
+Dialogue: 0,1:01:52.56,1:01:56.10,English,,0,0,0,,Okay, any more questions? Yeah?\N{\rChinese}好的，还有别的问题吗？嗯？
+Dialogue: 0,1:01:57.54,1:02:16.50,English,,0,0,0,,Yeah?. Okay, so even though\N{\rChinese}嗯？ 好的，算了，就算是这样吧。
+Dialogue: 0,1:02:16.50,1:02:19.42,English,,0,0,0,,only 10% agree with Putinism,\N{\rChinese}只要10%的人认同普京主义，
+Dialogue: 0,1:02:19.98,1:02:21.66,English,,0,0,0,,I actually don't know the real number, okay?\N{\rChinese}我其实不知道确切数字，行吗？
+Dialogue: 0,1:02:21.76,1:02:25.54,English,,0,0,0,,But I think it's only a minority. What happens is that,\N{\rChinese}但我认为只是少数。发生的是，
+Dialogue: 0,1:02:27.22,1:02:30.82,English,,0,0,0,,in war, people become much more unified,\N{\rChinese}在战争中，人们会更团结，
+Dialogue: 0,1:02:31.18,1:02:34.32,English,,0,0,0,,okay? So the example is Ukraine, where actually,\N{\rChinese}好吧？所以例子是乌克兰，实际上，
+Dialogue: 0,1:02:34.40,1:02:39.52,English,,0,0,0,,about 50% of the people in Ukraine were Russian speakers.\N{\rChinese}约有五成乌克兰人说俄语。
+Dialogue: 0,1:02:40.08,1:02:43.06,English,,0,0,0,,Okay? And there was a large group of people,\N{\rChinese}好吧？还有一大批人……
+Dialogue: 0,1:02:43.18,1:02:46.18,English,,0,0,0,,at least a third, who were sympathetic towards Russia.\N{\rChinese}至少三分之一，倾向俄罗斯的人。
+Dialogue: 0,1:02:46.66,1:02:49.68,English,,0,0,0,,But the moment that Putin invaded,\N{\rChinese}但普京发动进攻的那一刻，
+Dialogue: 0,1:02:50.12,1:02:52.50,English,,0,0,0,,they all united under Zelensky, okay?\N{\rChinese}他们都在泽连斯基之下团结起来，行吗？
+Dialogue: 0,1:02:52.68,1:02:54.78,English,,0,0,0,,So that's what war does. War unifies people.\N{\rChinese}于是战争的作用就是如此。战争让人们团结。
+Dialogue: 0,1:02:55.66,1:02:58.28,English,,0,0,0,,So again, back to the island example.\N{\rChinese}再回到岛屿的例子。
+Dialogue: 0,1:02:58.60,1:03:01.26,English,,0,0,0,,You guys may hate each other when you land on the island.\N{\rChinese}你们在岛上登陆时可能互相厮杀。
+Dialogue: 0,1:03:01.44,1:03:04.62,English,,0,0,0,,But hey, if there's a million flesh -eating monkeys that wanna kill you,\N{\rChinese}不过，假如有一百万人类食猴想杀你们，
+Dialogue: 0,1:03:04.72,1:03:07.50,English,,0,0,0,,you guys are going to become a family.\N{\rChinese}你们就会变成一家人。
+Dialogue: 0,1:03:08.40,1:03:10.90,English,,0,0,0,,Okay? Does that make sense? Okay.\N{\rChinese}好的？这样说通吗？好的。
+Dialogue: 0,1:03:10.96,1:03:18.66,English,,0,0,0,,Any more questions? Is this clear to you guys?\N{\rChinese}还有问题吗？这对你们来说清楚吗？
+Dialogue: 0,1:03:19.18,1:03:24.56,English,,0,0,0,,Okay. You look at,\N{\rChinese}好的。你们看着，
+Dialogue: 0,1:03:24.64,1:03:29.58,English,,0,0,0,,so you wanna ask a question. question. Are you confused by something,\N{\rChinese}那么你想问个问题。问题。你是被什么弄糊涂了吗，
+Dialogue: 0,1:03:29.68,1:03:35.04,English,,0,0,0,,Celine? Excuse me?\N{\rChinese}塞琳？请问一下？
+Dialogue: 0,1:03:39.48,1:03:43.46,English,,0,0,0,,Okay, so again Russia is a warrior culture.\N{\rChinese}好了，再说一次，俄罗斯是个战士文化。
+Dialogue: 0,1:03:43.88,1:03:46.14,English,,0,0,0,,It enjoys war, it's good at fighting wars, okay?\N{\rChinese}它喜欢战争，善于打仗，好的？
+Dialogue: 0,1:03:46.24,1:03:48.32,English,,0,0,0,,But China is not a warrior culture.\N{\rChinese}但中国不是战士文化。
+Dialogue: 0,1:03:49.28,1:03:52.88,English,,0,0,0,,And the reason why is that throughout most of Chinese history,\N{\rChinese}原因是，在中国历史的大部分时期，
+Dialogue: 0,1:03:53.10,1:03:56.64,English,,0,0,0,,China was the dominant power, the hegemon, okay?\N{\rChinese}中国是主导力量，霸权，好的？
+Dialogue: 0,1:03:57.22,1:04:01.26,English,,0,0,0,,Also, China is surrounded by natural defenses, right?\N{\rChinese}另外，中国被自然防御环绕，没错吧？
+Dialogue: 0,1:04:01.70,1:04:05.46,English,,0,0,0,,So to the east you have the sea,\N{\rChinese}于是向东你有大海，
+Dialogue: 0,1:04:05.72,1:04:09.06,English,,0,0,0,,to the south and to the west you have mountains,\N{\rChinese}向南和向西你有山脉，向北你有长城，好的？
+Dialogue: 0,1:04:09.42,1:04:12.52,English,,0,0,0,,to the north you have the Great Wall, okay?\N{\rChinese}于是向东你有大海，向南和向西你有山脉，向北你有长城，好的？
+Dialogue: 0,1:04:12.68,1:04:17.18,English,,0,0,0,,So China doesn't feel threatened by anyone and therefore it doesn't have a warrior culture.\N{\rChinese}于是向东你有大海，向南和向西你有山脉，向北你有长城，好的？
+Dialogue: 0,1:04:17.36,1:04:18.64,English,,0,0,0,,Does that make sense? But\N{\rChinese}这有道理吗？但
+Dialogue: 0,1:04:18.64,1:04:22.92,English,,0,0,0,,Russia is a huge country that's been invaded multiple times\N{\rChinese}俄罗斯是个大国，曾多次被侵略
+Dialogue: 0,1:04:22.92,1:04:28.22,English,,0,0,0,,and all these invasions were traumatic for Russia,\N{\rChinese}这些侵略都给俄罗斯带来创伤
+Dialogue: 0,1:04:28.38,1:04:33.94,English,,0,0,0,,okay? So you look at the German invasion of the Soviet Union in 1941,\N{\rChinese}好的？那么你看看1941年德国入侵苏联的情况，
+Dialogue: 0,1:04:34.44,1:04:36.08,English,,0,0,0,,that killed 20 million people.\N{\rChinese}那场战争造成两千万人死亡。
+Dialogue: 0,1:04:37.06,1:04:40.20,English,,0,0,0,,Millions of Russians died in that war and\N{\rChinese}数百万俄罗斯人死于那场战争。
+Dialogue: 0,1:04:40.20,1:04:43.44,English,,0,0,0,,people still celebrate that war, okay?\N{\rChinese}人们仍然庆祝那场战争，好吗？
+Dialogue: 0,1:04:43.70,1:04:47.38,English,,0,0,0,,So China is not a warrior culture,\N{\rChinese}所以中国不是战士文化，
+Dialogue: 0,1:04:47.52,1:04:49.58,English,,0,0,0,,okay?\N{\rChinese}好的？
+Dialogue: 0,1:04:49.66,1:04:53.82,English,,0,0,0,,Does that make sense? Okay, any more questions?\N{\rChinese}这样说通吗？
+Dialogue: 0,1:04:57.30,1:04:58.82,English,,0,0,0,,Okay, so\N{\rChinese}好的，接下来
+Dialogue: 0,1:04:58.82,1:05:01.54,English,,0,0,0,,what we will do next\N{\rChinese}我们要做的事是
+Dialogue: 0,1:05:01.54,1:05:07.50,English,,0,0,0,,week is we'll talk about Putin's strategic genius,\N{\rChinese}本周我们将讨论普京的战略天才，
+Dialogue: 0,1:05:07.72,1:05:10.82,English,,0,0,0,,okay? And what I will show you, and\N{\rChinese}好？我接下来要给你展示的内容是
+Dialogue: 0,1:05:10.82,1:05:13.94,English,,0,0,0,,this will be interesting, is that the way\N{\rChinese}这将会很有趣，俄罗斯人看世界的方式与我们截然不同。
+Dialogue: 0,1:05:13.94,1:05:19.88,English,,0,0,0,,that Russians see the world is radically different from the way we see the world,\N{\rChinese}that Russians see the world is radicallydifferent from the way we see the world,
+Dialogue: 0,1:05:20.02,1:05:22.04,English,,0,0,0,,okay? So\N{\rChinese}好？那么
+Dialogue: 0,1:05:22.04,1:05:24.74,English,,0,0,0,,we'll discuss Putin's\N{\rChinese}我们来讨论普京的
+Dialogue: 0,1:05:24.74,1:05:29.48,English,,0,0,0,,strategy moving forward next class, okay?\N{\rChinese}策略向前推进，下节课，好吗？
+Dialogue: 0,1:05:29.58,1:05:31.38,English,,0,0,0,,Does that make sense? Alright, good.\N{\rChinese}这样说通吗？好的，明白了。

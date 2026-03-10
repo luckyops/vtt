@@ -1,0 +1,825 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.24,0:00:04.54,English,,0,0,0,,Okay, so let's start class\N{\rChinese}好的，开始上课吧
+Dialogue: 0,0:00:04.54,0:00:09.28,English,,0,0,0,,and start to think about the question how\N{\rChinese}先来思考这个问题：怎么回事
+Dialogue: 0,0:00:09.28,0:00:13.20,English,,0,0,0,,and why did the Iranian president,\N{\rChinese}为什么伊朗总统会这样
+Dialogue: 0,0:00:13.58,0:00:16.78,English,,0,0,0,,Ibrahim Raisi, die.\N{\rChinese}伊布拉欣·赖西，去世。
+Dialogue: 0,0:00:18.06,0:00:20.02,English,,0,0,0,,So when\N{\rChinese}于是当
+Dialogue: 0,0:00:20.02,0:00:23.38,English,,0,0,0,,you do history or you\N{\rChinese}你做历史或你
+Dialogue: 0,0:00:23.38,0:00:26.46,English,,0,0,0,,when you do analysis about current events,\N{\rChinese}当你分析当前事件时，
+Dialogue: 0,0:00:26.72,0:00:31.06,English,,0,0,0,,you're always going to have, you're always going to encounter three major problems.\N{\rChinese}你总会遇到三个主要问题。
+Dialogue: 0,0:00:31.30,0:00:34.84,English,,0,0,0,,The first major problem is\N{\rChinese}第一个主要问题是
+Dialogue: 0,0:00:34.84,0:00:38.42,English,,0,0,0,,that there's very little information\N{\rChinese}信息非常少
+Dialogue: 0,0:00:38.42,0:00:41.36,English,,0,0,0,,that you can work with.\N{\rChinese}可供你使用的
+Dialogue: 0,0:00:42.46,0:00:46.02,English,,0,0,0,,Truth is very limited.\N{\rChinese}真相很有限
+Dialogue: 0,0:00:46.42,0:00:47.86,English,,0,0,0,,That's the first problem.\N{\rChinese}第一个问题是
+Dialogue: 0,0:00:49.00,0:00:51.66,English,,0,0,0,,Second problem is\N{\rChinese}第二个问题是
+Dialogue: 0,0:00:51.66,0:00:55.40,English,,0,0,0,,that the information\N{\rChinese}信息
+Dialogue: 0,0:00:55.40,0:00:59.32,English,,0,0,0,,that you have may not be true.\N{\rChinese}那你拥有的可能不是真的。
+Dialogue: 0,0:00:59.52,0:01:01.78,English,,0,0,0,,Okay, so there's also misinformation.\N{\rChinese}好的，还有误传。
+Dialogue: 0,0:01:02.74,0:01:04.00,English,,0,0,0,,That's the second problem.\N{\rChinese}那是第二个问题。
+Dialogue: 0,0:01:04.20,0:01:07.02,English,,0,0,0,,And the third problem is that\N{\rChinese}第三个问题是
+Dialogue: 0,0:01:07.02,0:01:10.20,English,,0,0,0,,there's always going to be an official narrative\N{\rChinese}总会有官方叙事
+Dialogue: 0,0:01:10.20,0:01:13.42,English,,0,0,0,,that the media, the government publishes,\N{\rChinese}媒体、政府发布的
+Dialogue: 0,0:01:13.42,0:01:16.22,English,,0,0,0,,and it may not be true.\N{\rChinese}那可能不是真的。
+Dialogue: 0,0:01:16.78,0:01:19.00,English,,0,0,0,,But it's the one that people people accept.\N{\rChinese}但这是人们接受的那一个。
+Dialogue: 0,0:01:19.26,0:01:20.36,English,,0,0,0,,Okay, so\N{\rChinese}好的，接下来是
+Dialogue: 0,0:01:20.36,0:01:23.74,English,,0,0,0,,the challenge for us\N{\rChinese}挑战在于我们
+Dialogue: 0,0:01:23.74,0:01:28.12,English,,0,0,0,,today is we know that the Iranian president,\N{\rChinese}今天知道伊朗总统伊布拉欣·赖西去世
+Dialogue: 0,0:01:28.88,0:01:34.36,English,,0,0,0,,Ibrahim Raisi, died. He died in the war. He died in the war. He died in the war. I think I'm going to have to use analysis,\N{\rChinese}他在战争中去世
+Dialogue: 0,0:01:34.92,0:01:40.24,English,,0,0,0,,okay, game theory analysis to figure out how he died\N{\rChinese}好的，运用博弈论分析来推断他是怎么去世的
+Dialogue: 0,0:01:40.24,0:01:42.30,English,,0,0,0,,and who might have killed him.\N{\rChinese}以及谁可能杀了他
+Dialogue: 0,0:01:42.54,0:01:45.84,English,,0,0,0,,Does that make sense? But the problem again is\N{\rChinese}这样说通吗？但问题又在于
+Dialogue: 0,0:01:46.28,0:01:49.32,English,,0,0,0,,we are working with very limited information\N{\rChinese}我们手头只有极其有限的信息
+Dialogue: 0,0:01:49.32,0:01:53.84,English,,0,0,0,,that the Iranian government chooses to disclose to the public.\N{\rChinese}伊朗政府选择向公众公布的内容
+Dialogue: 0,0:01:54.08,0:01:56.30,English,,0,0,0,,Okay, so what do we know?\N{\rChinese}好了，那我们知道什么？
+Dialogue: 0,0:01:56.46,0:01:59.64,English,,0,0,0,,We know that as a fact that the Iranian government has a very limited information on the matter.\N{\rChinese}我们知道的事实是，伊朗政府对这件事掌握的信息非常有限。
+Dialogue: 0,0:01:59.64,0:02:01.26,English,,0,0,0,,That's why we know that on May 19th,\N{\rChinese}这就是为什么我们知道在5月19日，
+Dialogue: 0,0:02:01.36,0:02:05.14,English,,0,0,0,,the Iranian president was\N{\rChinese}伊朗总统
+Dialogue: 0,0:02:05.14,0:02:10.50,English,,0,0,0,,in Azerbaijan for a Dem opening ceremony.\N{\rChinese}在阿塞拜疆举行的Dem开幕式。
+Dialogue: 0,0:02:10.84,0:02:13.58,English,,0,0,0,,And then he got into his helicopter\N{\rChinese}然后他登上了直升机
+Dialogue: 0,0:02:13.58,0:02:17.16,English,,0,0,0,,and he was flying back into the country.\N{\rChinese}随后他飞回国内
+Dialogue: 0,0:02:17.90,0:02:20.56,English,,0,0,0,,And when he was flying back,\N{\rChinese}当他飞回去时，
+Dialogue: 0,0:02:20.88,0:02:24.20,English,,0,0,0,,there was an accident that\N{\rChinese}发生了一起事故
+Dialogue: 0,0:02:24.20,0:02:26.16,English,,0,0,0,,caused the helicopter to crash,\N{\rChinese}导致直升机坠落，
+Dialogue: 0,0:02:26.50,0:02:29.48,English,,0,0,0,,killing all nine people in the area.\N{\rChinese}使现场九人全部遇难。
+Dialogue: 0,0:02:29.48,0:02:32.00,English,,0,0,0,,That's why we on board, including the president,\N{\rChinese}那就是我们登机时的原因，包括总统，
+Dialogue: 0,0:02:32.22,0:02:36.12,English,,0,0,0,,the foreign minister, three crew members,\N{\rChinese}外长，三名机组员
+Dialogue: 0,0:02:36.68,0:02:40.92,English,,0,0,0,,the governor of a province,\N{\rChinese}该省的省长
+Dialogue: 0,0:02:41.22,0:02:43.56,English,,0,0,0,,a local religious leader,\N{\rChinese}当地宗教领袖
+Dialogue: 0,0:02:44.02,0:02:46.72,English,,0,0,0,,the bodyguard of the president, and\N{\rChinese}总统的保镖，和
+Dialogue: 0,0:02:46.72,0:02:48.90,English,,0,0,0,,the head of the president's security detail.\N{\rChinese}总统安保组组长。
+Dialogue: 0,0:02:49.50,0:02:50.92,English,,0,0,0,,Okay, so all nine people died.\N{\rChinese}好的，九人全部去世。
+Dialogue: 0,0:02:53.96,0:02:57.40,English,,0,0,0,,And we have reason to believe that\N{\rChinese}我们有理由相信这点。
+Dialogue: 0,0:02:57.40,0:03:02.96,English,,0,0,0,,the most probable reason is an accident,\N{\rChinese}最有可能的原因是一次事故
+Dialogue: 0,0:03:03.12,0:03:07.86,English,,0,0,0,,okay? That\N{\rChinese}好？那是……
+Dialogue: 0,0:03:07.86,0:03:11.84,English,,0,0,0,,this was an accident, that it was bad weather,\N{\rChinese}这是一场事故，因恶劣天气
+Dialogue: 0,0:03:11.92,0:03:16.28,English,,0,0,0,,there was a fog, the pilot couldn't really see, and he crashed into the mountain.\N{\rChinese}有雾，机长几乎看不见，结果撞山。
+Dialogue: 0,0:03:16.60,0:03:19.98,English,,0,0,0,,Okay. And the evidence for this is that...\N{\rChinese}好的。证据是……
+Dialogue: 0,0:03:21.54,0:03:23.38,English,,0,0,0,,One, this happens a lot.\N{\rChinese}一，常有此类事。
+Dialogue: 0,0:03:23.66,0:03:24.96,English,,0,0,0,,For example, in 2020,\N{\rChinese}例如，2020年，
+Dialogue: 0,0:03:25.40,0:03:28.44,English,,0,0,0,,the very famous basketball player,\N{\rChinese}这位非常著名的篮球运动员，
+Dialogue: 0,0:03:28.66,0:03:33.18,English,,0,0,0,,Kobe Bryant, he died in a helicopter crash along with his daughter, okay?\N{\rChinese}科比·布莱恩特，他与女儿一起在直升机坠毁中去世，好吗？
+Dialogue: 0,0:03:33.38,0:03:34.60,English,,0,0,0,,So this actually happens a lot.\N{\rChinese}于是这种事就经常发生。
+Dialogue: 0,0:03:36.02,0:03:38.34,English,,0,0,0,,The second piece of evidence is that\N{\rChinese}第二个证据是……
+Dialogue: 0,0:03:38.34,0:03:43.22,English,,0,0,0,,the helicopter they were flying in is very old.\N{\rChinese}他们乘坐的直升机很老。
+Dialogue: 0,0:03:43.40,0:03:45.82,English,,0,0,0,,It was basically an American helicopter\N{\rChinese}它基本是一架美国直升机
+Dialogue: 0,0:03:45.82,0:03:50.10,English,,0,0,0,,that they started to use in the 70s.\N{\rChinese}它在70年代开始使用。
+Dialogue: 0,0:03:50.92,0:03:54.14,English,,0,0,0,,And after the revolution, America refused to cooperate with Iran,\N{\rChinese}革命后，美国拒绝与伊朗合作。
+Dialogue: 0,0:03:54.42,0:03:57.56,English,,0,0,0,,so they could never actually maintain the helicopter.\N{\rChinese}于是他们就能一直保持直升机。
+Dialogue: 0,0:03:58.48,0:04:01.44,English,,0,0,0,,So maybe it was just a malfunction,\N{\rChinese}于是也许只是一次故障，
+Dialogue: 0,0:04:01.88,0:04:04.76,English,,0,0,0,,okay? So\N{\rChinese}好吧？
+Dialogue: 0,0:04:04.76,0:04:07.56,English,,0,0,0,,these are two compelling reasons why\N{\rChinese}这有两个有说服的理由
+Dialogue: 0,0:04:07.56,0:04:11.28,English,,0,0,0,,most people believe this is an accident.\N{\rChinese}大多数人认为这是一场意外
+Dialogue: 0,0:04:11.64,0:04:15.32,English,,0,0,0,,And this is, again, probably the cause\N{\rChinese}这又可能是原因
+Dialogue: 0,0:04:15.32,0:04:17.42,English,,0,0,0,,that will go down in history, okay?\N{\rChinese}那将载入历史，好的？
+Dialogue: 0,0:04:18.52,0:04:20.90,English,,0,0,0,,Okay. Okay.\N{\rChinese}好的。好的。
+Dialogue: 0,0:04:20.92,0:04:22.84,English,,0,0,0,,So this is a very interesting theory. And it requires us to explore other possibilities.\N{\rChinese}这是一种非常有趣的理论。它需要我们去探索其他可能性。
+Dialogue: 0,0:04:23.30,0:04:24.84,English,,0,0,0,,So there are two other possibilities.\N{\rChinese}于是还有另外两个可能性。
+Dialogue: 0,0:04:25.34,0:04:30.12,English,,0,0,0,,Second possibility is foreign adversary,\N{\rChinese}第二个可能性是外部对手，
+Dialogue: 0,0:04:30.32,0:04:33.48,English,,0,0,0,,which means that\N{\rChinese}这意味着……
+Dialogue: 0,0:04:33.48,0:04:36.20,English,,0,0,0,,either the United States or Israel,\N{\rChinese}或美国或以色列，
+Dialogue: 0,0:04:36.32,0:04:38.30,English,,0,0,0,,or even possibly Azerbaijan, okay?\N{\rChinese}或甚至可能是阿塞拜然，
+Dialogue: 0,0:04:38.40,0:04:42.70,English,,0,0,0,,But a foreign adversary was responsible for this.\N{\rChinese}但外部对手负责此事。
+Dialogue: 0,0:04:43.32,0:04:47.58,English,,0,0,0,,The problem with this theory, though, is one of opportunity...\N{\rChinese}问题在于这个理论的机会性……
+Dialogue: 0,0:04:51.16,0:04:54.54,English,,0,0,0,,And motive. Okay? So\N{\rChinese}以及动机。好吧？所以……
+Dialogue: 0,0:04:54.54,0:04:57.52,English,,0,0,0,,what this means is it's very\N{\rChinese}这意味着很……
+Dialogue: 0,0:04:57.52,0:05:02.44,English,,0,0,0,,hard as a foreign government to plan an assassination\N{\rChinese}外部政府策划伊朗领袖在伊拉克的暗杀很难
+Dialogue: 0,0:05:03.30,0:05:07.74,English,,0,0,0,,of an Iranian leader in Iraq, okay?\N{\rChinese}伊拉克的伊朗领袖暗杀很难，机会也不在
+Dialogue: 0,0:05:07.80,0:05:10.80,English,,0,0,0,,It's very hard. The opportunity isn't there.\N{\rChinese}很难，机会也不在
+Dialogue: 0,0:05:10.96,0:05:13.96,English,,0,0,0,,So maybe Israel, America want him dead.\N{\rChinese}也许以色列、美国想让他死去。
+Dialogue: 0,0:05:14.48,0:05:16.02,English,,0,0,0,,Well, how could they pull it off?\N{\rChinese}那么他们怎么能做到呢？
+Dialogue: 0,0:05:16.10,0:05:18.12,English,,0,0,0,,It's very hard to do such a thing, okay?\N{\rChinese}做成这件事很难，行吗？
+Dialogue: 0,0:05:20.02,0:05:21.74,English,,0,0,0,,Second possibility. The problem is motive.\N{\rChinese}第二种可能。问题在于动机。
+Dialogue: 0,0:05:22.66,0:05:28.46,English,,0,0,0,,What reason would Israel or the United States have for killing the president?\N{\rChinese}以色列或美国杀掉总统会有什么理由？
+Dialogue: 0,0:05:29.18,0:05:32.22,English,,0,0,0,,Now, in the past, the United States\N{\rChinese}过去，美国的情况是这样：
+Dialogue: 0,0:05:32.22,0:05:34.64,English,,0,0,0,,and Israel have killed Iranians before.\N{\rChinese}并且以色列曾杀过伊朗人。
+Dialogue: 0,0:05:34.98,0:05:37.74,English,,0,0,0,,So, for example, in January 2020,\N{\rChinese}例如，2020年1月，
+Dialogue: 0,0:05:38.42,0:05:40.96,English,,0,0,0,,President Donald Trump ordered the\N{\rChinese}总统唐纳德·特朗普下令…
+Dialogue: 0,0:05:40.96,0:05:45.80,English,,0,0,0,,assassination of General Soleimani in Baghdad,\N{\rChinese}巴格达中将苏莱米尼将军的暗杀，
+Dialogue: 0,0:05:45.94,0:05:49.50,English,,0,0,0,,okay? But there was a motive here.\N{\rChinese}好吧？但这里有动机。
+Dialogue: 0,0:05:49.50,0:05:51.14,English,,0,0,0,,And the motive is that\N{\rChinese}动机是……
+Dialogue: 0,0:05:51.14,0:05:55.82,English,,0,0,0,,Soleimani is responsible for Iranian foreign\N{\rChinese}苏莱米尼负责伊朗在中东的外交政策，且是对美利的直接威胁，行吗？
+Dialogue: 0,0:05:55.82,0:05:58.10,English,,0,0,0,,policy in the Middle East and therefore\N{\rChinese}苏莱米尼负责伊朗在中东的外交政策，且是对美利的直接威胁，行吗？
+Dialogue: 0,0:05:58.10,0:06:01.90,English,,0,0,0,,a direct threat to American interests, okay?\N{\rChinese}苏莱米尼负责伊朗在中东的外交政策，且是对美利的直接威胁，行吗？
+Dialogue: 0,0:06:02.24,0:06:05.86,English,,0,0,0,,And Israel in the past has\N{\rChinese}以往，犹太已策划在伊朗暗杀核科学家。
+Dialogue: 0,0:06:05.86,0:06:09.22,English,,0,0,0,,staged assassinations of Iranian\N{\rChinese}以往，犹太已策划在伊朗暗杀核科学家。
+Dialogue: 0,0:06:09.22,0:06:12.32,English,,0,0,0,,nuclear scientists in Iran.\N{\rChinese}以往，犹太已策划在伊朗暗杀核科学家。
+Dialogue: 0,0:06:12.74,0:06:15.42,English,,0,0,0,,But again, the motive is, well,\N{\rChinese}但又一次，动机是，嗯，
+Dialogue: 0,0:06:15.58,0:06:19.32,English,,0,0,0,,Israel is afraid that Iran developed a nuclear weapon.\N{\rChinese}以色列怕伊朗研制核武器。
+Dialogue: 0,0:06:19.32,0:06:23.06,English,,0,0,0,,And therefore, the easiest way to stop\N{\rChinese}于是，最简单的办法是停……
+Dialogue: 0,0:06:23.06,0:06:24.72,English,,0,0,0,,that is to kill the scientists, okay?\N{\rChinese}那就是杀掉科学家，行吗？
+Dialogue: 0,0:06:29.08,0:06:32.22,English,,0,0,0,,Israel, on April 1st of this year,\N{\rChinese}今年4月1日，以色列又策划空袭叙萨姆伊朗使馆。
+Dialogue: 0,0:06:32.34,0:06:35.92,English,,0,0,0,,also staged an airstrike against the Iranian embassy in Damascus,\N{\rChinese}also staged an airstrike againstthe Iranian embassy in Damascus,
+Dialogue: 0,0:06:35.92,0:06:38.92,English,,0,0,0,,killing two Iranian generals.\N{\rChinese}杀两名伊朗将军。
+Dialogue: 0,0:06:39.26,0:06:43.16,English,,0,0,0,,But again, the motive is, what Israel said was\N{\rChinese}再说一次，动机是，正如以色列所说，
+Dialogue: 0,0:06:43.16,0:06:48.32,English,,0,0,0,,that these generals were working with Hamas to threaten Israel.\N{\rChinese}这些将军与哈马斯合作，威胁以色列。
+Dialogue: 0,0:06:48.98,0:06:51.18,English,,0,0,0,,So, the motive is very clear.\N{\rChinese}所以，动机非常明确。
+Dialogue: 0,0:06:51.32,0:06:53.08,English,,0,0,0,,And the problem here is,\N{\rChinese}而这里的问题是，
+Dialogue: 0,0:06:53.18,0:06:56.90,English,,0,0,0,,it's very unclear what the motive is for killing the Iranian president,\N{\rChinese}杀伊朗总统的动机到底是什么，尚不清楚。
+Dialogue: 0,0:06:57.18,0:07:01.78,English,,0,0,0,,okay? In fact, there's a lot of risk in that.\N{\rChinese}好吧？实际上这其中有不少风险。
+Dialogue: 0,0:07:02.02,0:07:07.24,English,,0,0,0,,But again, I am not discounting the possibility it could be a foreign adversary.\N{\rChinese}但我仍不排除是外部敌人造成的可能。
+Dialogue: 0,0:07:07.94,0:07:10.50,English,,0,0,0,,And the third possibility is\N{\rChinese}第三种可能是…
+Dialogue: 0,0:07:10.50,0:07:15.04,English,,0,0,0,,an internal enemy,\N{\rChinese}一个内部敌人，
+Dialogue: 0,0:07:15.26,0:07:18.30,English,,0,0,0,,okay? Meaning that there is a threat.\N{\rChinese}好吧？意味着有威胁。
+Dialogue: 0,0:07:18.30,0:07:22.52,English,,0,0,0,,And there were certain individuals or factions or groups in Iran\N{\rChinese}并且有些个人或派别或团体在伊朗。
+Dialogue: 0,0:07:22.52,0:07:26.18,English,,0,0,0,,that wanted the president dead,\N{\rChinese}那个人想让总统去世，
+Dialogue: 0,0:07:26.50,0:07:28.50,English,,0,0,0,,okay?\N{\rChinese}好吧？
+Dialogue: 0,0:07:29.16,0:07:33.44,English,,0,0,0,,And so, with this internal enemy idea,\N{\rChinese}于是，凭借这个内部敌人设想，
+Dialogue: 0,0:07:34.08,0:07:37.60,English,,0,0,0,,opportunity, this problem doesn't exist because\N{\rChinese}机会，这个问题不存在，因为
+Dialogue: 0,0:07:37.60,0:07:42.06,English,,0,0,0,,obviously these enemies would\N{\rChinese}显然这些敌人会
+Dialogue: 0,0:07:42.06,0:07:45.38,English,,0,0,0,,have resources to track down and kill the president, okay?\N{\rChinese}有资源追踪并杀死总统，好的？
+Dialogue: 0,0:07:46.22,0:07:49.02,English,,0,0,0,,So, an example of this is that,\N{\rChinese}于是，这里有个例子，
+Dialogue: 0,0:07:49.12,0:07:51.98,English,,0,0,0,,remember that when the president was flying home,\N{\rChinese}记得当总统回家时，
+Dialogue: 0,0:07:52.60,0:07:56.00,English,,0,0,0,,he had, there were three helicopters,\N{\rChinese}他有三架直升机
+Dialogue: 0,0:07:56.42,0:08:00.26,English,,0,0,0,,right? It was only his helicopter that crashed.\N{\rChinese}对吧？只有他的直升机坠毁。
+Dialogue: 0,0:08:00.58,0:08:02.52,English,,0,0,0,,The two other helicopters were fine.\N{\rChinese}另外两架直升机正常。
+Dialogue: 0,0:08:03.78,0:08:08.46,English,,0,0,0,,Now, in theory, and like we don't know who was in the other two helicopters,\N{\rChinese}理论上，且我们不知道另外两架直升机里谁在。
+Dialogue: 0,0:08:09.04,0:08:12.44,English,,0,0,0,,but we can guess that they were probably military escort, right?\N{\rChinese}但我们可以猜测他们大概是军方护送，对吧？
+Dialogue: 0,0:08:12.58,0:08:14.42,English,,0,0,0,,They were there to protect the president.\N{\rChinese}他们在那里是为了护送总统。
+Dialogue: 0,0:08:14.42,0:08:16.36,English,,0,0,0,,But at the same time,\N{\rChinese}但与此同时，
+Dialogue: 0,0:08:16.42,0:08:19.32,English,,0,0,0,,if they wanted to kill the president, they could,\N{\rChinese}如果他们想杀掉总统，他们可以做到，
+Dialogue: 0,0:08:19.54,0:08:21.34,English,,0,0,0,,okay?\N{\rChinese}好吗？
+Dialogue: 0,0:08:23.52,0:08:25.24,English,,0,0,0,,So, was it the military?\N{\rChinese}那么，军方是吗？
+Dialogue: 0,0:08:26.32,0:08:28.26,English,,0,0,0,,So, the opportunity was there.\N{\rChinese}于是机会出现了。
+Dialogue: 0,0:08:28.46,0:08:30.72,English,,0,0,0,,But then the question then is, motive.\N{\rChinese}但随后问题是动机。
+Dialogue: 0,0:08:31.64,0:08:33.36,English,,0,0,0,,Why would they do that?\N{\rChinese}他们为什么要这么做？
+Dialogue: 0,0:08:34.20,0:08:36.34,English,,0,0,0,,And the answer is that\N{\rChinese}答案是这样：
+Dialogue: 0,0:08:36.34,0:08:40.38,English,,0,0,0,,the possibility, again, we are looking at possibilities, right?\N{\rChinese}再次说，可能性，我们正在考虑可能性，对吧？
+Dialogue: 0,0:08:43.22,0:08:49.18,English,,0,0,0,,Everyone agrees that the military is a threat. Another argument is\N{\rChinese}大家都同意军方是威胁。
+Dialogue: 0,0:08:49.18,0:08:51.96,English,,0,0,0,,that the military is a threat. Another argument is that the military is a threat.\N{\rChinese}军方是威胁。
+Dialogue: 0,0:08:52.36,0:08:56.18,English,,0,0,0,,Another argument is that the military is a threat. Another argument is that the military is a threat.\N{\rChinese}军方是威胁。
+Dialogue: 0,0:08:56.18,0:08:59.28,English,,0,0,0,,Another argument is that the military is a threat. Another argument is that the military is a threat. Another argument is that the military is a threat.\N{\rChinese}军方是威胁。
+Dialogue: 0,0:08:59.28,0:09:03.06,English,,0,0,0,,Another argument is that the military is a threat. Another argument is that the military is a threat.\N{\rChinese}另一论点是军方是威胁。另一论点是军方是威胁。
+Dialogue: 0,0:09:03.42,0:09:05.46,English,,0,0,0,,Another argument is that the military is a threat.\N{\rChinese}另一论点是军方是威胁。
+Dialogue: 0,0:09:05.46,0:09:07.16,English,,0,0,0,,Another argument is that the military is a threat.\N{\rChinese}另一论点是军方是威胁。
+Dialogue: 0,0:09:07.16,0:09:08.60,English,,0,0,0,,Another argument is that the military is a threat.\N{\rChinese}另一论点是军方是威胁。
+Dialogue: 0,0:09:08.60,0:09:11.86,English,,0,0,0,,Another argument is that the military is a threat.\N{\rChinese}另一论点是军方是威胁。
+Dialogue: 0,0:09:12.00,0:09:13.46,English,,0,0,0,,Another argument is that the military is a threat.\N{\rChinese}另一论点是军方是威胁。
+Dialogue: 0,0:09:13.46,0:09:15.52,English,,0,0,0,,and Reizi, who\N{\rChinese}和雷齐，他
+Dialogue: 0,0:09:15.52,0:09:19.10,English,,0,0,0,,many see as Khomeini's protégé,\N{\rChinese}许多人视他为霍梅尼的门生
+Dialogue: 0,0:09:19.26,0:09:21.58,English,,0,0,0,,will become the Ayatollah.\N{\rChinese}将成为阿亚图拉
+Dialogue: 0,0:09:21.76,0:09:25.26,English,,0,0,0,,Now the Iranian political system,\N{\rChinese}现在伊朗的政治体制，
+Dialogue: 0,0:09:25.32,0:09:29.08,English,,0,0,0,,it's kind of strange because it's an Islamic Republic.\N{\rChinese}它有点奇怪，因为是伊斯兰共和国。
+Dialogue: 0,0:09:29.82,0:09:31.98,English,,0,0,0,,And what that means is that\N{\rChinese}这意味着什么呢？
+Dialogue: 0,0:09:31.98,0:09:36.88,English,,0,0,0,,the ultimate authority is God,\N{\rChinese}终极权威是上帝
+Dialogue: 0,0:09:37.18,0:09:40.10,English,,0,0,0,,the Koran. And it's the Ayatollah\N{\rChinese}可兰经。又是阿亚图拉
+Dialogue: 0,0:09:40.10,0:09:44.10,English,,0,0,0,,who represents the God\N{\rChinese}他代表上帝
+Dialogue: 0,0:09:44.10,0:09:47.42,English,,0,0,0,,and Koran. So he's the ultimate authority.\N{\rChinese}他是终极权威。
+Dialogue: 0,0:09:47.52,0:09:49.00,English,,0,0,0,,He has ultimate veto power.\N{\rChinese}他拥有最终否决权。
+Dialogue: 0,0:09:49.36,0:09:53.16,English,,0,0,0,,And the president is maybe like the CEO of the country.\N{\rChinese}而总统大概像是国家的CEO。
+Dialogue: 0,0:09:54.12,0:09:58.60,English,,0,0,0,,So the person with the real power in the country is the Ayatollah.\N{\rChinese}于是，国家真正掌权的人是阿亚图拉。
+Dialogue: 0,0:09:59.10,0:10:02.84,English,,0,0,0,,And if Reizi becomes the Ayatollah,\N{\rChinese}若雷齐成为阿亚图拉，
+Dialogue: 0,0:10:03.00,0:10:07.30,English,,0,0,0,,then we can expect major policy shifts.\N{\rChinese}我们可以预见重大政策转变。
+Dialogue: 0,0:10:13.68,0:10:16.80,English,,0,0,0,,So then the question then is, well\N{\rChinese}于是，问题是，嗯
+Dialogue: 0,0:10:16.80,0:10:21.06,English,,0,0,0,,who would benefit from Reizi's death\N{\rChinese}谁会从雷齐去世中获利
+Dialogue: 0,0:10:21.06,0:10:24.74,English,,0,0,0,,and stopping him from becoming the next Ayatollah?\N{\rChinese}并阻止他成为下一个阿亚图拉？
+Dialogue: 0,0:10:25.26,0:10:26.98,English,,0,0,0,,And what people say is,\N{\rChinese}而人们所说的是，
+Dialogue: 0,0:10:27.34,0:10:30.58,English,,0,0,0,,and again guys, I'm working with very limited information.\N{\rChinese}再说一次，伙计们，我手头信息很有限。
+Dialogue: 0,0:10:30.92,0:10:32.22,English,,0,0,0,,I don't know Iran that well.\N{\rChinese}我对伊朗不太熟悉。
+Dialogue: 0,0:10:32.34,0:10:33.60,English,,0,0,0,,I just read the news.\N{\rChinese}我刚刚读完新闻。
+Dialogue: 0,0:10:34.04,0:10:36.30,English,,0,0,0,,But what people say is that\N{\rChinese}但人们说的是，
+Dialogue: 0,0:10:36.30,0:10:41.82,English,,0,0,0,,there are two top contenders to be the next Ayatollah.\N{\rChinese}有两位顶级候选人将成为下一个阿亚图拉。
+Dialogue: 0,0:10:42.06,0:10:45.66,English,,0,0,0,,The first contender, the most likely, is Reizi.\N{\rChinese}第一位候选人，最有可能的是雷齐。
+Dialogue: 0,0:10:45.98,0:10:49.68,English,,0,0,0,,The second contender is actually Khomeini's son,\N{\rChinese}第二位候选人实际上是科海尼的儿子，
+Dialogue: 0,0:10:49.94,0:10:54.02,English,,0,0,0,,Mostaba Khomeini.\N{\rChinese}莫斯塔巴·科海尼。
+Dialogue: 0,0:10:56.26,0:11:01.36,English,,0,0,0,,Okay? So\N{\rChinese}好的？那么
+Dialogue: 0,0:11:01.36,0:11:03.16,English,,0,0,0,,with him gone,\N{\rChinese}他走后，
+Dialogue: 0,0:11:03.54,0:11:07.14,English,,0,0,0,,Mostaba Khomeini is most\N{\rChinese}莫斯塔巴·科海尼最有可能成为下一个阿亚图拉。
+Dialogue: 0,0:11:07.14,0:11:10.54,English,,0,0,0,,likely to be the next Ayatollah.\N{\rChinese}likely to be thenext Ayatollah.
+Dialogue: 0,0:11:11.58,0:11:13.64,English,,0,0,0,,Now this presents a\N{\rChinese}现在这就出现了一个
+Dialogue: 0,0:11:13.64,0:11:18.70,English,,0,0,0,,problem for Iran\N{\rChinese}问题给伊朗
+Dialogue: 0,0:11:18.70,0:11:21.36,English,,0,0,0,,because it's an Islamic Republic.\N{\rChinese}因为它是伊斯兰共和国。
+Dialogue: 0,0:11:21.48,0:11:25.26,English,,0,0,0,,It's supposed to be under the rule of God, right?\N{\rChinese}它应该是受上帝统治的，对吧？
+Dialogue: 0,0:11:25.74,0:11:27.90,English,,0,0,0,,And one thing that\N{\rChinese}还有一件事，伊朗人最反对的就是…
+Dialogue: 0,0:11:27.90,0:11:31.12,English,,0,0,0,,most Iranians oppose is the\N{\rChinese}…
+Dialogue: 0,0:11:31.12,0:11:34.90,English,,0,0,0,,idea of hereditary leadership,\N{\rChinese}世袭领导的概念，
+Dialogue: 0,0:11:35.28,0:11:37.12,English,,0,0,0,,okay? A father passing away.\N{\rChinese}好的？父亲去世。
+Dialogue: 0,0:11:37.14,0:11:38.42,English,,0,0,0,,Another argument for a father passing away.\N{\rChinese}另一条理由是父亲去世。
+Dialogue: 0,0:11:44.60,0:11:48.76,English,,0,0,0,,Another argument for a son passing down ownership\N{\rChinese}另一条理由是儿子继承所有权。
+Dialogue: 0,0:11:48.76,0:11:52.96,English,,0,0,0,,ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership\N{\rChinese}所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权
+Dialogue: 0,0:11:53.88,0:11:58.02,English,,0,0,0,,ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership ownership\N{\rChinese}所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权
+Dialogue: 0,0:11:59.04,0:12:11.20,English,,0,0,0,,ownership ownership ownership ownership ownership Alright, so Murshid Tuba Khomeini benefits,\N{\rChinese}所有权所有权所有权所有权所有权好的，穆尔希德·图巴·科海尼受益。
+Dialogue: 0,0:12:11.70,0:12:16.66,English,,0,0,0,,but who would benefit from having him as Ayatollah?\N{\rChinese}但谁会从让他成为阿亚图拉中受益？
+Dialogue: 0,0:12:16.80,0:12:18.98,English,,0,0,0,,And the answer is actually very simple.\N{\rChinese}答案其实很简单。
+Dialogue: 0,0:12:19.32,0:12:21.04,English,,0,0,0,,There's a group in Iran\N{\rChinese}伊朗有一个团体。
+Dialogue: 0,0:12:21.04,0:12:23.22,English,,0,0,0,,called the Islamic\N{\rChinese}被称为伊斯兰
+Dialogue: 0,0:12:23.22,0:12:29.26,English,,0,0,0,,Revolutionary Guard\N{\rChinese}革命卫队
+Dialogue: 0,0:12:29.26,0:12:30.78,English,,0,0,0,,Corps,\N{\rChinese}军团，
+Dialogue: 0,0:12:31.16,0:12:35.30,English,,0,0,0,,or the IRGC.\N{\rChinese}或IRGC。
+Dialogue: 0,0:12:37.78,0:12:40.88,English,,0,0,0,,We will call them the Revolutionary Guards.\N{\rChinese}我们把他们叫做革命卫队。
+Dialogue: 0,0:12:41.42,0:12:45.26,English,,0,0,0,,And what's interesting about them is\N{\rChinese}他们有趣味的地方在于。
+Dialogue: 0,0:12:45.26,0:12:48.96,English,,0,0,0,,that they are separate from the army,\N{\rChinese}他们与陆军分离
+Dialogue: 0,0:12:49.16,0:12:50.54,English,,0,0,0,,the military.\N{\rChinese}陆军。
+Dialogue: 0,0:12:52.62,0:12:56.72,English,,0,0,0,,So where do these guys come from,\N{\rChinese}那么这些人从哪儿来？
+Dialogue: 0,0:12:56.80,0:12:58.88,English,,0,0,0,,and why are they separate from the army?\N{\rChinese}他们为什么与陆军分离？
+Dialogue: 0,0:12:59.66,0:13:01.04,English,,0,0,0,,Well, it goes back to 1979.\N{\rChinese}好，回到1979年。
+Dialogue: 0,0:13:02.40,0:13:05.28,English,,0,0,0,,Remember in 1979, there was a party.\N{\rChinese}记得1979年，发生了一场党派。
+Dialogue: 0,0:13:05.30,0:13:09.88,English,,0,0,0,,There was a popular uprising against the Shah of Iran, the king of Iran.\N{\rChinese}那时有一场人民起义，反对伊朗国王。
+Dialogue: 0,0:13:11.44,0:13:15.82,English,,0,0,0,,And the government brought back Ayatollah Khomeini\N{\rChinese}并且政府把阿亚图拉·霍梅尼从流亡归来执掌国家。
+Dialogue: 0,0:13:15.82,0:13:18.06,English,,0,0,0,,from exile to run the country.\N{\rChinese}并且霍梅尼当时，…
+Dialogue: 0,0:13:18.46,0:13:21.04,English,,0,0,0,,And Khomeini, at that time,\N{\rChinese}And Khomeini, atthat time,
+Dialogue: 0,0:13:21.04,0:13:23.62,English,,0,0,0,,was afraid of the army, because\N{\rChinese}担心军队，因为军队已向国王宣誓忠诚。
+Dialogue: 0,0:13:23.62,0:13:26.64,English,,0,0,0,,the army had sworn allegiance to the king.\N{\rChinese}于是为了解决此问题，…
+Dialogue: 0,0:13:27.08,0:13:29.42,English,,0,0,0,,So to deal with this problem,\N{\rChinese}So to deal withthis problem,
+Dialogue: 0,0:13:29.64,0:13:35.28,English,,0,0,0,,Khomeini established another armed group called the Revolutionary Guards.\N{\rChinese}霍梅尼组建了另一支武装团体，称为革命卫队。
+Dialogue: 0,0:13:35.30,0:13:40.54,English,,0,0,0,,And what they do is actually very different from the military.\N{\rChinese}他们所做的事实际上与军队截然不同。
+Dialogue: 0,0:13:40.80,0:13:46.94,English,,0,0,0,,The military has an obligation to protect the nation. But\N{\rChinese}军队的职责是保卫民族。
+Dialogue: 0,0:13:46.94,0:13:52.16,English,,0,0,0,,the Revolutionary Guard Corps has a responsibility to protect the revolution,\N{\rChinese}革命卫队团体肩负守护革命的责任，伊斯兰共和国。
+Dialogue: 0,0:13:52.88,0:13:54.42,English,,0,0,0,,the Islamic Republic.\N{\rChinese}这意味着最终的结果是。
+Dialogue: 0,0:13:55.14,0:13:57.64,English,,0,0,0,,Which means ultimately that\N{\rChinese}Which means ultimately that
+Dialogue: 0,0:13:57.64,0:14:03.28,English,,0,0,0,,they are Khomeini's private army.\N{\rChinese}他们是霍梅尼的私兵。
+Dialogue: 0,0:14:03.74,0:14:05.28,English,,0,0,0,,They only own the army.\N{\rChinese}他们只拥有军队。
+Dialogue: 0,0:14:05.28,0:14:08.94,English,,0,0,0,,They only obey him. And\N{\rChinese}他们只服从他。
+Dialogue: 0,0:14:08.94,0:14:13.40,English,,0,0,0,,the other thing about the revolution is\N{\rChinese}关于革命的另一件事是
+Dialogue: 0,0:14:13.40,0:14:17.56,English,,0,0,0,,that not only were they trying to bring the Islamic Republic to Iran,\N{\rChinese}不仅是他们试图把伊斯兰共和国带到伊朗，
+Dialogue: 0,0:14:17.84,0:14:21.28,English,,0,0,0,,but they were trying to export the revolution across the Middle East.\N{\rChinese}还试图把革命出口到中东。
+Dialogue: 0,0:14:21.82,0:14:24.22,English,,0,0,0,,Okay? So basically,\N{\rChinese}好的？所以基本上，
+Dialogue: 0,0:14:24.46,0:14:27.92,English,,0,0,0,,the Revolutionary Guard Corps had two main functions.\N{\rChinese}革命卫队有两个主要功能。
+Dialogue: 0,0:14:28.12,0:14:31.40,English,,0,0,0,,The first main function is to protect the Ayatollah,\N{\rChinese}第一个主要功能是保护阿亚图拉。
+Dialogue: 0,0:14:31.50,0:14:35.26,English,,0,0,0,,and ensure the revolution succeeds in Iran.\N{\rChinese}并确保革命在伊朗成功。
+Dialogue: 0,0:14:35.26,0:14:40.88,English,,0,0,0,,But the other function is to export the revolution to the Middle East.\N{\rChinese}但另一功能是把革命出口到中东。
+Dialogue: 0,0:14:41.18,0:14:45.88,English,,0,0,0,,Okay? To spread Islamic\N{\rChinese}好的？把伊斯兰传播出去。
+Dialogue: 0,0:14:45.88,0:14:50.36,English,,0,0,0,,revolution to Syria, Iraq.\N{\rChinese}革命扩展到叙利亚、伊拉克。
+Dialogue: 0,0:14:50.68,0:14:53.86,English,,0,0,0,,And that's why the Middle East was so\N{\rChinese}这就是中东之所以如此动荡的原因。
+Dialogue: 0,0:14:53.86,0:14:57.52,English,,0,0,0,,disturbed and so angered by the revolution.\N{\rChinese}并且因革命而使中东愈发激动。
+Dialogue: 0,0:14:58.24,0:15:00.64,English,,0,0,0,,Alright? Now,\N{\rChinese}好的？现在，
+Dialogue: 0,0:15:00.74,0:15:05.24,English,,0,0,0,,this was why the IRGC was so angry.\N{\rChinese}这就是伊朗革命委员会如此愤怒的原因。
+Dialogue: 0,0:15:05.24,0:15:08.08,English,,0,0,0,,They were so dumbfounded. And because\N{\rChinese}他们很是愕然。
+Dialogue: 0,0:15:08.08,0:15:12.84,English,,0,0,0,,so many countries considered Iran to be a threat,\N{\rChinese}许多国家把伊朗视为威胁，
+Dialogue: 0,0:15:13.30,0:15:18.24,English,,0,0,0,,they encouraged Saddam Hussein to invade the country in 1980.\N{\rChinese}他们鼓动萨达姆·侯赛因于1980年入侵伊朗。
+Dialogue: 0,0:15:19.00,0:15:20.28,English,,0,0,0,,Okay? And\N{\rChinese}好吗？
+Dialogue: 0,0:15:20.28,0:15:23.82,English,,0,0,0,,this started something called the Iran -Iraq War.\N{\rChinese}这引发了伊朗-伊拉克战争。
+Dialogue: 0,0:15:24.94,0:15:29.06,English,,0,0,0,,And it was not just the Americans who support this war.\N{\rChinese}这场战争并非只有美国支持。
+Dialogue: 0,0:15:29.24,0:15:32.28,English,,0,0,0,,The Soviets also support Saddam Hussein and\N{\rChinese}苏联也支持萨达姆·侯赛因。
+Dialogue: 0,0:15:32.28,0:15:38.24,English,,0,0,0,,the Middle East countries, like Saudi Arabia also supported Saddam Hussein.\N{\rChinese}中东国家，如沙特阿拉伯也支持萨达姆·侯赛因。
+Dialogue: 0,0:15:38.42,0:15:42.80,English,,0,0,0,,It was a brutal war and a lot of Iranians died.\N{\rChinese}这是一场残酷的战争，许多伊朗人牺死。
+Dialogue: 0,0:15:43.20,0:15:44.46,English,,0,0,0,,But ultimately,\N{\rChinese}但最终，
+Dialogue: 0,0:15:44.88,0:15:48.76,English,,0,0,0,,the Revolutionary Guard Corps was able\N{\rChinese}革命卫队能够
+Dialogue: 0,0:15:48.76,0:15:51.90,English,,0,0,0,,to protect the revolution from foreign invaders.\N{\rChinese}保护革命免受外来侵略。
+Dialogue: 0,0:15:52.36,0:15:55.08,English,,0,0,0,,And because of that, they became\N{\rChinese}并因而他们成为
+Dialogue: 0,0:15:55.68,0:16:01.06,English,,0,0,0,,the most dominant military group in Iran.\N{\rChinese}伊朗最具统治力的军团。
+Dialogue: 0,0:16:03.00,0:16:08.00,English,,0,0,0,,And so they almost had unlimited access to funds,\N{\rChinese}于是他们几乎拥有无限的资金渠道，
+Dialogue: 0,0:16:09.82,0:16:13.26,English,,0,0,0,,not only to protect the revolution in Iran,\N{\rChinese}不仅仅是为了在伊朗保护革命。
+Dialogue: 0,0:16:13.54,0:16:15.38,English,,0,0,0,,but also to export it overseas.\N{\rChinese}但也把它出口到海外。
+Dialogue: 0,0:16:17.96,0:16:20.66,English,,0,0,0,,Okay, so does this all make sense to you guys?\N{\rChinese}好的，那这全部对你们来说有意义吗？
+Dialogue: 0,0:16:21.66,0:16:22.98,English,,0,0,0,,But with so much power,\N{\rChinese}但凭借如此之大力量，
+Dialogue: 0,0:16:23.64,0:16:26.68,English,,0,0,0,,they eventually became corrupt.\N{\rChinese}他们最终变得腐败。
+Dialogue: 0,0:16:28.06,0:16:30.12,English,,0,0,0,,Today, people believe that\N{\rChinese}如今，人们认为他们控制了约10%到50%的民众，约占伊朗经济的50%。
+Dialogue: 0,0:16:30.12,0:16:35.24,English,,0,0,0,,they control about 10 to 50 percent of the population 50% of the entire Iranian economy\N{\rChinese}他们控制了约10%到50%的民众，约占伊朗经济的50%。
+Dialogue: 0,0:16:35.24,0:16:37.06,English,,0,0,0,,and Because\N{\rChinese}并且因为
+Dialogue: 0,0:16:37.06,0:16:40.58,English,,0,0,0,,you have such a monopoly of power it meant that\N{\rChinese}你拥有如此的权力单一，意味着
+Dialogue: 0,0:16:41.40,0:16:46.08,English,,0,0,0,,over time The economy stagnated,\N{\rChinese}随着时间的推移，经济停滞
+Dialogue: 0,0:16:46.10,0:16:50.80,English,,0,0,0,,okay now Western sanctions American sanctions played a major role Okay,\N{\rChinese}好的，现在西方制裁，美国制裁起了重要作用。
+Dialogue: 0,0:16:50.84,0:16:53.30,English,,0,0,0,,Iran couldn't really sell its oil overseas\N{\rChinese}伊朗确实没能把油卖到海外。
+Dialogue: 0,0:16:54.12,0:16:56.66,English,,0,0,0,,But the real problem was the fact that\N{\rChinese}真正的问题是……
+Dialogue: 0,0:16:56.66,0:17:01.56,English,,0,0,0,,you had a monopoly of power this revolutionary guard Corp controlling the entire economy\N{\rChinese}你拥有权力单一，革命卫队掌控整个经济
+Dialogue: 0,0:17:01.56,0:17:03.54,English,,0,0,0,,and this led to\N{\rChinese}于是产生了……
+Dialogue: 0,0:17:04.44,0:17:05.68,English,,0,0,0,,Protests, okay. So\N{\rChinese}抗议，好的。
+Dialogue: 0,0:17:05.68,0:17:08.46,English,,0,0,0,,the first group protest was in 1999\N{\rChinese}第一波示威始于1999年
+Dialogue: 0,0:17:08.46,0:17:11.26,English,,0,0,0,,you had 50,000 students\N{\rChinese}你有5万名学生
+Dialogue: 0,0:17:11.26,0:17:15.54,English,,0,0,0,,protesting the lack of democracy in\N{\rChinese}抗议缺乏民主
+Dialogue: 0,0:17:15.54,0:17:18.48,English,,0,0,0,,Iran what they were really protesting of course\N{\rChinese}伊朗人实际上在抗议什么？
+Dialogue: 0,0:17:18.48,0:17:22.90,English,,0,0,0,,was the corruption of the Revolutionary Guard Corp But you couldn't do that.\N{\rChinese}是革命卫队的腐败。但你说不出来。
+Dialogue: 0,0:17:22.96,0:17:25.42,English,,0,0,0,,You can't say that so they were protesting for\N{\rChinese}你说不出来，他们就抗议了。
+Dialogue: 0,0:17:26.50,0:17:28.86,English,,0,0,0,,democracy They were crushed\N{\rChinese}民主，随后他们被压制
+Dialogue: 0,0:17:29.82,0:17:34.74,English,,0,0,0,,then in 2009 to 2010 there's something called a green movement\N{\rChinese}随后在2009至2010年出现了所谓的绿运动
+Dialogue: 0,0:17:34.74,0:17:37.76,English,,0,0,0,,and the idea of the green movement was that\N{\rChinese}绿运动的核心理念是
+Dialogue: 0,0:17:38.60,0:17:41.66,English,,0,0,0,,people wanted a new government\N{\rChinese}人们想要一个新的政府
+Dialogue: 0,0:17:41.66,0:17:44.24,English,,0,0,0,,that promised reform and\N{\rChinese}它承诺改革并且
+Dialogue: 0,0:17:45.32,0:17:48.82,English,,0,0,0,,In election their candidate the reform candidate lost\N{\rChinese}在选举中，改革候选人落选
+Dialogue: 0,0:17:48.82,0:17:51.38,English,,0,0,0,,and people suspected that\N{\rChinese}并且人们怀疑
+Dialogue: 0,0:17:51.38,0:17:53.72,English,,0,0,0,,the Revolutionary Guard Corp\N{\rChinese}革命卫队公司
+Dialogue: 0,0:17:55.16,0:17:59.38,English,,0,0,0,,Cheated and so there were violent protests and again the\N{\rChinese}又有暴动，随后又是
+Dialogue: 0,0:18:00.78,0:18:04.42,English,,0,0,0,,Revolutionary Guard Corp suppressed the revolution\N{\rChinese}革命卫队公司镇压了革命
+Dialogue: 0,0:18:06.34,0:18:08.12,English,,0,0,0,,And at that\N{\rChinese}而且在那时
+Dialogue: 0,0:18:08.12,0:18:12.74,English,,0,0,0,,point basically people lost faith in democracy and so\N{\rChinese}基本上人们对民主失去信心
+Dialogue: 0,0:18:13.76,0:18:15.62,English,,0,0,0,,afterwards every other\N{\rChinese}随后又是其他人
+Dialogue: 0,0:18:16.06,0:18:20.54,English,,0,0,0,,President was basically a puppet of the regime Okay,\N{\rChinese}总统基本是政权的傀儡，好的，
+Dialogue: 0,0:18:20.58,0:18:23.22,English,,0,0,0,,and most the most recent protests that\N{\rChinese}以及最近的抗议
+Dialogue: 0,0:18:23.22,0:18:28.08,English,,0,0,0,,in 2023 there was a young woman named Massa a nanny\N{\rChinese}2023年有一位名叫马萨的年轻女子，做保姆。
+Dialogue: 0,0:18:28.08,0:18:30.86,English,,0,0,0,,and She was arrested by the police\N{\rChinese}她被警察逮捕。
+Dialogue: 0,0:18:30.86,0:18:35.20,English,,0,0,0,,for failing to wear head covering in public.\N{\rChinese}因为她在公共场合未戴头巾。
+Dialogue: 0,0:18:35.68,0:18:37.58,English,,0,0,0,,She died in custody.\N{\rChinese}她在押解期间去世。
+Dialogue: 0,0:18:38.38,0:18:40.86,English,,0,0,0,,People suspect that she was beaten by the police.\N{\rChinese}人们怀疑她被警察殴打。
+Dialogue: 0,0:18:41.34,0:18:45.68,English,,0,0,0,,This caused massive protests across the country.\N{\rChinese}此事引发全国大规模抗议。
+Dialogue: 0,0:18:46.58,0:18:48.88,English,,0,0,0,,For the past 10 -20 years,\N{\rChinese}过去10-20年间，
+Dialogue: 0,0:18:49.10,0:18:51.00,English,,0,0,0,,there have been continuous protests\N{\rChinese}伊朗持续不断地举行抗议，
+Dialogue: 0,0:18:51.00,0:18:55.40,English,,0,0,0,,in Iran about the government\N{\rChinese}关于政府的抗议
+Dialogue: 0,0:18:55.40,0:18:58.14,English,,0,0,0,,and the economy, but mainly about the fact that\N{\rChinese}并且经济，但主要是关于革命卫队已占据经济的事实，
+Dialogue: 0,0:18:58.14,0:19:01.84,English,,0,0,0,,the Revolutionary Guard Corps has monopolized\N{\rChinese}革命卫队已垄断经济，
+Dialogue: 0,0:19:01.84,0:19:04.70,English,,0,0,0,,the economy to its own benefit,\N{\rChinese}其经济已被革命卫队独占以谋自身利益。
+Dialogue: 0,0:19:05.02,0:19:08.80,English,,0,0,0,,which has caused the economy to stagnate\N{\rChinese}导致经济停滞并使人们逐渐贫困。
+Dialogue: 0,0:19:08.80,0:19:11.66,English,,0,0,0,,and for people to become poorer over time.\N{\rChinese}但由于抗议如此广泛。
+Dialogue: 0,0:19:12.16,0:19:16.40,English,,0,0,0,,But because the protests are so widespread,\N{\rChinese}But because the protests are so widespread,
+Dialogue: 0,0:19:17.76,0:19:22.12,English,,0,0,0,,the Revolutionary Guard Corps ironically has become more powerful\N{\rChinese}革命卫队自诩更强大
+Dialogue: 0,0:19:22.12,0:19:26.64,English,,0,0,0,,because they are more powerful. They are seen as the most loyal to the current regime.\N{\rChinese}因为它们更强大。被视为最忠于现政权。
+Dialogue: 0,0:19:27.72,0:19:32.48,English,,0,0,0,,Their loyalty is not contested.\N{\rChinese}其忠诚无可争议。
+Dialogue: 0,0:19:33.62,0:19:36.30,English,,0,0,0,,What this means is this.\N{\rChinese}这意味着什么呢。
+Dialogue: 0,0:19:36.38,0:19:38.18,English,,0,0,0,,What this means is that\N{\rChinese}这意味着什么呢，
+Dialogue: 0,0:19:38.18,0:19:43.28,English,,0,0,0,,if there is a change in leadership,\N{\rChinese}如果领导层有变动，
+Dialogue: 0,0:19:44.72,0:19:48.94,English,,0,0,0,,if the Ayatollah dies and a new Ayatollah comes into power,\N{\rChinese}如果阿亚图拉去世，新阿亚图拉上台，
+Dialogue: 0,0:19:49.82,0:19:52.80,English,,0,0,0,,what the new Ayatollah will do\N{\rChinese}新阿亚图拉会做什么？
+Dialogue: 0,0:19:54.12,0:19:58.68,English,,0,0,0,,is reduce the power of the Revolutionary Guard Corps.\N{\rChinese}就是削弱革命卫队的力量。
+Dialogue: 0,0:19:58.98,0:20:02.94,English,,0,0,0,,Does that make sense to you guys? Because he needs to establish his own power base.\N{\rChinese}这对你们来说有道理吗？因为他需要建立自己的势力基础。
+Dialogue: 0,0:20:03.22,0:20:08.64,English,,0,0,0,,And the Revolutionary Guard Corps was loyal to the current...\N{\rChinese}革命卫队对现任领导人最忠诚，……
+Dialogue: 0,0:20:08.64,0:20:13.24,English,,0,0,0,,The Revolutionary Guard Corps is most loyal to the current leader,\N{\rChinese}革命卫队最忠于现任领导人。
+Dialogue: 0,0:20:13.66,0:20:15.42,English,,0,0,0,,the Ayatollah Khomeini.\N{\rChinese}阿亚图拉·科海米尼。
+Dialogue: 0,0:20:15.96,0:20:18.42,English,,0,0,0,,But if there is a new Ayatollah who comes into power,\N{\rChinese}如果有新的阿亚图拉上台，
+Dialogue: 0,0:20:18.68,0:20:20.86,English,,0,0,0,,he needs to establish his own power base.\N{\rChinese}他需要建立自己的势力基础。
+Dialogue: 0,0:20:20.86,0:20:24.42,English,,0,0,0,,So he will bring his people into power. And that\N{\rChinese}于是他会把自己的部下推上台。于是……
+Dialogue: 0,0:20:24.42,0:20:30.20,English,,0,0,0,,means reducing the power of the Revolutionary Guard Corps.\N{\rChinese}这意味着要削弱革命卫队的力量。
+Dialogue: 0,0:20:30.40,0:20:35.00,English,,0,0,0,,Does that make sense? And so there will be a direct threat to the Revolutionary Guard Corps.\N{\rChinese}这样说对吗？于是革命卫队将面临直接威胁。
+Dialogue: 0,0:20:38.38,0:20:41.88,English,,0,0,0,,Now, if... But if the current leader's son,\N{\rChinese}现在，如果……但如果现任领袖之子，莫斯塔巴·科海米尼，成为新阿亚图拉，
+Dialogue: 0,0:20:42.22,0:20:45.48,English,,0,0,0,,Mostaba Khomeini, were to become the new Ayatollah,\N{\rChinese}莫斯塔巴·科海米尼，若成为新阿亚图拉，
+Dialogue: 0,0:20:45.60,0:20:47.54,English,,0,0,0,,then things would stay the same.\N{\rChinese}那么局势将保持不变。
+Dialogue: 0,0:20:48.12,0:20:53.66,English,,0,0,0,,And the Revolutionary Guard Corps would continue to control the economy.\N{\rChinese}于是革命卫队将继续掌控经济。
+Dialogue: 0,0:20:54.92,0:20:56.58,English,,0,0,0,,Okay? Does that make sense to you guys?\N{\rChinese}好的？这样说对你们吗？
+Dialogue: 0,0:20:58.04,0:20:59.60,English,,0,0,0,,Alright? So again,\N{\rChinese}好的？再说一次，
+Dialogue: 0,0:20:59.88,0:21:05.86,English,,0,0,0,,I'm presenting a reason why the Islamic Revolutionary Guard Corps would want to kill the current president\N{\rChinese}我在说明为什么伊斯兰革命卫队会想要杀掉现任总统
+Dialogue: 0,0:21:06.98,0:21:09.22,English,,0,0,0,,and ensure that\N{\rChinese}并确保
+Dialogue: 0,0:21:09.22,0:21:12.58,English,,0,0,0,,the Ayatollah's son becomes the next leader.\N{\rChinese}阿亚图拉之子成为下一任领袖
+Dialogue: 0,0:21:12.98,0:21:17.84,English,,0,0,0,,Because they want to maintain the monopoly of power over the country.\N{\rChinese}因为他们想保持对国家的权力单一掌控。
+Dialogue: 0,0:21:19.00,0:21:20.34,English,,0,0,0,,Does that make sense? Does that make sense to you guys?\N{\rChinese}这样说对你们吗？
+Dialogue: 0,0:21:21.20,0:21:24.84,English,,0,0,0,,Alright? Now, I now want to discuss\N{\rChinese}好了，现在我要讨论
+Dialogue: 0,0:21:26.92,0:21:30.80,English,,0,0,0,,who these people are and how they think about the world.\N{\rChinese}谁这些人是，且他们如何看待世界。
+Dialogue: 0,0:21:30.90,0:21:34.64,English,,0,0,0,,Okay? Because they're corrupt,\N{\rChinese}好的？因为他们腐败，
+Dialogue: 0,0:21:34.94,0:21:37.98,English,,0,0,0,,but they're ultimately religious fanatics\N{\rChinese}但最终是宗教狂热者。
+Dialogue: 0,0:21:38.72,0:21:43.74,English,,0,0,0,,that want to export the revolution across the Middle East.\N{\rChinese}那想把革命输出到中东。
+Dialogue: 0,0:21:44.68,0:21:46.32,English,,0,0,0,,Okay? So,\N{\rChinese}好吧？所以，
+Dialogue: 0,0:21:47.26,0:21:50.14,English,,0,0,0,,let's talk about 1979.\N{\rChinese}我们来聊聊1979。
+Dialogue: 0,0:21:51.90,0:21:56.80,English,,0,0,0,,In 1979, the Shah left Iran\N{\rChinese}1979年，沙阿离开伊朗
+Dialogue: 0,0:21:56.80,0:21:59.96,English,,0,0,0,,because there were so many protests against him.\N{\rChinese}因为有太多抗议
+Dialogue: 0,0:22:00.22,0:22:02.50,English,,0,0,0,,The Shah realized that\N{\rChinese}沙阿意识到
+Dialogue: 0,0:22:03.12,0:22:08.30,English,,0,0,0,,it was very hard for him to stay in power despite the brutality of the army\N{\rChinese}他在军队和警察的残暴之下，能保持在位非常困难
+Dialogue: 0,0:22:08.30,0:22:10.40,English,,0,0,0,,and the police. There were just too many protests.\N{\rChinese}抗议太多，根本就够多了
+Dialogue: 0,0:22:10.68,0:22:12.34,English,,0,0,0,,Too many people wanted to see him gone.\N{\rChinese}太多人想看到他离开
+Dialogue: 0,0:22:12.52,0:22:13.84,English,,0,0,0,,Okay? So he goes to America.\N{\rChinese}好的？于是他去美国。
+Dialogue: 0,0:22:14.56,0:22:19.26,English,,0,0,0,,And there are many Iranians who are outraged by this for two reasons.\N{\rChinese}还有很多伊朗人因两点而愤怒。
+Dialogue: 0,0:22:19.40,0:22:22.24,English,,0,0,0,,The first reason is that they want the Shah,\N{\rChinese}第一点是他们想要沙阿，
+Dialogue: 0,0:22:22.60,0:22:27.10,English,,0,0,0,,the king of Iran, to stand trial for all his human rights crimes\N{\rChinese}伊朗国王，接受审判以应对其所有的人权罪行
+Dialogue: 0,0:22:27.10,0:22:30.10,English,,0,0,0,,while he was king of Iran.\N{\rChinese}当他是伊朗国王时。
+Dialogue: 0,0:22:30.42,0:22:32.64,English,,0,0,0,,Okay? That's the first reason. But\N{\rChinese}好？这就是第一个理由。
+Dialogue: 0,0:22:32.64,0:22:37.24,English,,0,0,0,,the second reason is they were afraid that the Shah had gone to America\N{\rChinese}第二个理由是他们担心沙阿去美国求援助
+Dialogue: 0,0:22:38.42,0:22:40.60,English,,0,0,0,,to win America's support\N{\rChinese}以此赢得美国支持
+Dialogue: 0,0:22:41.46,0:22:45.90,English,,0,0,0,,for an invasion of the country.\N{\rChinese}为了入侵该国。
+Dialogue: 0,0:22:46.12,0:22:48.86,English,,0,0,0,,The Shah was trying to get America to invade Iran and\N{\rChinese}沙阿正试图让美国入侵伊朗。
+Dialogue: 0,0:22:48.86,0:22:52.46,English,,0,0,0,,put him back in power, which happened in 1953.\N{\rChinese}把他重新放回权力，正是1953年发生的事。
+Dialogue: 0,0:22:53.38,0:22:54.98,English,,0,0,0,,Okay? And so,\N{\rChinese}好？于是，
+Dialogue: 0,0:22:55.94,0:22:58.40,English,,0,0,0,,to counter the threat of the Shah,\N{\rChinese}为对抗沙阿的威胁，
+Dialogue: 0,0:22:59.42,0:23:01.32,English,,0,0,0,,in November of 1979,\N{\rChinese}于1979年11月，
+Dialogue: 0,0:23:02.38,0:23:04.26,English,,0,0,0,,300 to 500 students,\N{\rChinese}300到500名学生
+Dialogue: 0,0:23:04.66,0:23:06.80,English,,0,0,0,,college students, stormed the U.S.\N{\rChinese}大学生冲进美国
+Dialogue: 0,0:23:06.82,0:23:09.46,English,,0,0,0,,Embassy and took it over and\N{\rChinese}大使馆接管后又占领了它
+Dialogue: 0,0:23:09.46,0:23:12.26,English,,0,0,0,,held 53 Americans as hostages.\N{\rChinese}又扣押了53名美国人做人质
+Dialogue: 0,0:23:13.40,0:23:18.98,English,,0,0,0,,Okay? And they demanded the Shah be returned to Iran to stand trial.\N{\rChinese}好的？他们要求把沙阿送回伊朗接受审判。
+Dialogue: 0,0:23:19.84,0:23:25.08,English,,0,0,0,,Now, this is obviously an invasion of American territory.\N{\rChinese}现在，这显然是对美国领土的入侵。
+Dialogue: 0,0:23:25.28,0:23:26.52,English,,0,0,0,,This goes against international law.\N{\rChinese}这符合国际法。
+Dialogue: 0,0:23:27.36,0:23:32.06,English,,0,0,0,,But when the students did this, there was so much public support\N{\rChinese}但当学生们这么做时，公众支持如此之多，政府几乎没有采取任何行动。
+Dialogue: 0,0:23:33.00,0:23:36.74,English,,0,0,0,,for the students that the authorities didn't really do anything.\N{\rChinese}此外，霍梅尼阿亚图拉也支持学生们。
+Dialogue: 0,0:23:37.32,0:23:41.80,English,,0,0,0,,Also, the Ayatollah Khomeini supported the students.\N{\rChinese}Also, the Ayatollah Khomeini supported the students.
+Dialogue: 0,0:23:42.20,0:23:46.46,English,,0,0,0,,Okay? So there was widespread public support for the students.\N{\rChinese}好的？于是学生们得到了广泛的公众支持。
+Dialogue: 0,0:23:47.10,0:23:49.56,English,,0,0,0,,When the students invaded the embassy,\N{\rChinese}当学生们占领大使馆时，
+Dialogue: 0,0:23:49.96,0:23:51.56,English,,0,0,0,,the first thing that\N{\rChinese}第一件事是
+Dialogue: 0,0:23:51.56,0:23:56.04,English,,0,0,0,,diplomats must do is basically destroy all the files, right?\N{\rChinese}外交官员要做的就是把所有文件全部销毁，对吧？
+Dialogue: 0,0:23:56.28,0:23:58.36,English,,0,0,0,,All the secrets. So,\N{\rChinese}所有机密。于是，
+Dialogue: 0,0:23:59.72,0:24:02.96,English,,0,0,0,,all embassies come with things called shredders.\N{\rChinese}所有使馆都配备了叫做碎纸机的设备。
+Dialogue: 0,0:24:03.44,0:24:05.02,English,,0,0,0,,Do you guys know what shredders are?\N{\rChinese}你们知道碎纸机是什么吗？
+Dialogue: 0,0:24:06.76,0:24:09.26,English,,0,0,0,,Okay? Shredders are just basically machines,\N{\rChinese}好吧？碎纸机就是一台机器，
+Dialogue: 0,0:24:09.66,0:24:11.14,English,,0,0,0,,and if you wanted to destroy paperwork,\N{\rChinese}如果你想销毁文件，
+Dialogue: 0,0:24:11.62,0:24:13.42,English,,0,0,0,,very quickly, you put it in the machine.\N{\rChinese}很快，你把它放进机器里。
+Dialogue: 0,0:24:13.68,0:24:19.38,English,,0,0,0,,And the machine will cut the paper into about 100 different strips of paper.\N{\rChinese}机器会把纸张切成大约100条不同的纸条。
+Dialogue: 0,0:24:19.66,0:24:22.16,English,,0,0,0,,Okay? And this is the fastest,\N{\rChinese}好吧？这就是最快的方式。
+Dialogue: 0,0:24:22.30,0:24:25.20,English,,0,0,0,,most effective way to destroy your documents.\N{\rChinese}最有效的销毁文件的方法。
+Dialogue: 0,0:24:26.44,0:24:28.62,English,,0,0,0,,And there are about like tens of thousands of pages.\N{\rChinese}大约有几万页。
+Dialogue: 0,0:24:29.88,0:24:31.32,English,,0,0,0,,Can you guess what the students did?\N{\rChinese}你能猜到学生们做了什么吗？
+Dialogue: 0,0:24:36.90,0:24:39.78,English,,0,0,0,,Over months, the students slowly\N{\rChinese}几个月后，学生们慢慢地
+Dialogue: 0,0:24:40.68,0:24:41.80,English,,0,0,0,,and methodically\N{\rChinese}并且有条不着地
+Dialogue: 0,0:24:43.24,0:24:47.18,English,,0,0,0,,pieced the documents back together one by one.\N{\rChinese}把文件一条条拼回去。
+Dialogue: 0,0:24:47.80,0:24:51.06,English,,0,0,0,,And what these documents revealed to the students\N{\rChinese}而这些文件向学生们揭示的内容
+Dialogue: 0,0:24:51.06,0:24:54.04,English,,0,0,0,,and to the public in Iran is that\N{\rChinese}以及向伊朗公众揭示的内容是
+Dialogue: 0,0:24:55.66,0:25:01.54,English,,0,0,0,,the real center of power in Iran was not the palace\N{\rChinese}伊朗真正的权力中心并非宫殿
+Dialogue: 0,0:25:01.54,0:25:03.62,English,,0,0,0,,where the Shah lived, but the U.S.\N{\rChinese}在沙皇居住的地方，但美国大使馆。
+Dialogue: 0,0:25:03.66,0:25:05.36,English,,0,0,0,,Embassy. It was the U.S.\N{\rChinese}美国大使馆。
+Dialogue: 0,0:25:05.40,0:25:09.26,English,,0,0,0,,Embassy that was directing policy in Iran.\N{\rChinese}美国大使馆负责在伊朗制定政策。
+Dialogue: 0,0:25:09.52,0:25:12.24,English,,0,0,0,,It was the U.S. Embassy that was responsible\N{\rChinese}它是美国大使馆负责的事
+Dialogue: 0,0:25:12.85,0:25:15.74,English,,0,0,0,,for the brutality of the regime.\N{\rChinese}它是美国大使馆负责的事
+Dialogue: 0,0:25:16.86,0:25:18.08,English,,0,0,0,,And it was the U.S.\N{\rChinese}它是美国大使馆负责的事
+Dialogue: 0,0:25:18.14,0:25:19.44,English,,0,0,0,,Embassy that in 1953\N{\rChinese}大使馆在1953年发动政变
+Dialogue: 0,0:25:21.88,0:25:24.94,English,,0,0,0,,staged a coup d 'etat against\N{\rChinese}发动政变对伊朗的民主选举政府进行政变
+Dialogue: 0,0:25:24.94,0:25:28.12,English,,0,0,0,,the democratically elected government of Iran\N{\rChinese}the democratically elected government of Iran
+Dialogue: 0,0:25:28.12,0:25:30.80,English,,0,0,0,,and installed the police state of the Shah.\N{\rChinese}并建立了沙皇的警察国家。
+Dialogue: 0,0:25:32.12,0:25:34.36,English,,0,0,0,,Okay? So these students,\N{\rChinese}好的？所以这些学生，
+Dialogue: 0,0:25:35.48,0:25:39.12,English,,0,0,0,,when they read these documents, were really angry.\N{\rChinese}当他们读到这些文件时，真的很生气。
+Dialogue: 0,0:25:39.34,0:25:42.14,English,,0,0,0,,Okay? And you can imagine that\N{\rChinese}好的？你可以想象这些学生，因为他们把这些文件拼凑在一起，对吧？
+Dialogue: 0,0:25:42.14,0:25:46.00,English,,0,0,0,,these students, because they pieced together these documents, right?\N{\rChinese}他们是狂热的。你猜怎么了，伙计们？
+Dialogue: 0,0:25:46.30,0:25:49.24,English,,0,0,0,,They're fanatics. And guess what, guys?\N{\rChinese}They're fanatics. And guess what, guys?
+Dialogue: 0,0:25:49.48,0:25:52.52,English,,0,0,0,,These students have gone on to\N{\rChinese}这些学生后来成为
+Dialogue: 0,0:25:52.52,0:25:58.38,English,,0,0,0,,become the top military leaders of the country.\N{\rChinese}成为该国顶尖的军队领袖。
+Dialogue: 0,0:25:58.82,0:26:00.90,English,,0,0,0,,Okay? And I'll just give you three names.\N{\rChinese}好吧？我给你们列出三个名字。
+Dialogue: 0,0:26:02.22,0:26:04.06,English,,0,0,0,,Hussein Dagan, who\N{\rChinese}侯赛因·达甘，谁
+Dialogue: 0,0:26:04.06,0:26:08.22,English,,0,0,0,,was the Minister of Defense from 2013 to 2017.\N{\rChinese}他是2013年至2017年的国防部长。
+Dialogue: 0,0:26:08.36,0:26:11.64,English,,0,0,0,,Okay? He was a student protester in the U.S.\N{\rChinese}好吧？他是美国的学生示威者。
+Dialogue: 0,0:26:11.70,0:26:13.94,English,,0,0,0,,Embassy. That's one person.\N{\rChinese}大使馆。就是一个人。
+Dialogue: 0,0:26:14.02,0:26:17.46,English,,0,0,0,,Second person is Mohammad Ali Jafari, who\N{\rChinese}第二个人是马哈德·阿里·贾法里，谁
+Dialogue: 0,0:26:17.46,0:26:21.34,English,,0,0,0,,from 2007 to 2019\N{\rChinese}2007年至2019年
+Dialogue: 0,0:26:21.34,0:26:23.62,English,,0,0,0,,was head of the\N{\rChinese}是……的负责人
+Dialogue: 0,0:26:24.54,0:26:26.08,English,,0,0,0,,Revolutionary Guard Corps. Okay?\N{\rChinese}革命卫队。好吧？
+Dialogue: 0,0:26:27.56,0:26:30.52,English,,0,0,0,,And also, Mohammad Bagari,\N{\rChinese}还有，马哈德·阿里·巴加里，
+Dialogue: 0,0:26:30.80,0:26:34.28,English,,0,0,0,,who is still the Chief of Staff of the Iranian Army.\N{\rChinese}他仍是伊朗陆军参谋长。
+Dialogue: 0,0:26:37.14,0:26:42.24,English,,0,0,0,,So the Revolutionary Guard Corps are staffed by individuals\N{\rChinese}于是革命卫队由这些人组成。
+Dialogue: 0,0:26:42.24,0:26:45.56,English,,0,0,0,,who hate America and\N{\rChinese}他们恨美、把美视为大撒旦。
+Dialogue: 0,0:26:45.56,0:26:47.60,English,,0,0,0,,see America as the great Satan.\N{\rChinese}see America as the great Satan.
+Dialogue: 0,0:26:47.76,0:26:49.08,English,,0,0,0,,And they basically want to go to war\N{\rChinese}他们基本想对美发动战争
+Dialogue: 0,0:26:49.08,0:26:54.44,English,,0,0,0,,with America to revenge the wrongs\N{\rChinese}以报复所犯的错
+Dialogue: 0,0:26:54.44,0:26:56.22,English,,0,0,0,,and evils that America did to Iran.\N{\rChinese}和美国对伊朗所做的事与其恶行。
+Dialogue: 0,0:26:56.44,0:27:00.48,English,,0,0,0,,Okay? Does that make sense? Second thing I'll mention is that\N{\rChinese}好的？这样说通吗？第二件事我想说的是……
+Dialogue: 0,0:27:02.00,0:27:05.60,English,,0,0,0,,when, when, sorry, when Saddam Hussein invaded\N{\rChinese}当、当、抱歉，当萨达姆·侯赛因入侵时……
+Dialogue: 0,0:27:08.06,0:27:09.68,English,,0,0,0,,Iran in 1980,\N{\rChinese}1980年的伊朗，
+Dialogue: 0,0:27:10.76,0:27:12.78,English,,0,0,0,,Iran didn't really have an army.\N{\rChinese}伊朗当时并没有真正的陆军。
+Dialogue: 0,0:27:12.98,0:27:14.92,English,,0,0,0,,And the reason why is that\N{\rChinese}原因是……
+Dialogue: 0,0:27:15.80,0:27:17.40,English,,0,0,0,,the Revolutionary Guard Corps\N{\rChinese}革命卫队
+Dialogue: 0,0:27:18.24,0:27:21.44,English,,0,0,0,,had arrested or exiled or executed\N{\rChinese}已逮捕、流放或处决
+Dialogue: 0,0:27:22.20,0:27:25.78,English,,0,0,0,,the officers of the military because they were not seen as loyal to the Revolution.\N{\rChinese}军官们，因为他们不被视为革命的忠诚者
+Dialogue: 0,0:27:26.20,0:27:28.62,English,,0,0,0,,They were seen as loyal to the Shah.\N{\rChinese}他们被视为忠于沙阿。
+Dialogue: 0,0:27:29.22,0:27:34.54,English,,0,0,0,,Okay? So, Iran didn't have an army.\N{\rChinese}好的？所以，伊朗没有陆军。
+Dialogue: 0,0:27:34.78,0:27:37.30,English,,0,0,0,,And Saddam Hussein had airplanes.\N{\rChinese}而萨达姆·侯赛因有飞机。
+Dialogue: 0,0:27:37.62,0:27:40.58,English,,0,0,0,,He had tanks. He had lots of soldiers.\N{\rChinese}他有坦克。他有很多士兵。
+Dialogue: 0,0:27:41.18,0:27:45.08,English,,0,0,0,,And everyone thought that the war would end very quickly.\N{\rChinese}大家都认为战争会很快结束。
+Dialogue: 0,0:27:45.86,0:27:46.90,English,,0,0,0,,But then,\N{\rChinese}但随后，
+Dialogue: 0,0:27:47.02,0:27:49.48,English,,0,0,0,,what the Revolutionary Guard Corps did\N{\rChinese}革命卫队所做的事
+Dialogue: 0,0:27:49.48,0:27:55.44,English,,0,0,0,,was they organized a new army called the Basashi.\N{\rChinese}他们组建了一支新军队，叫巴萨希
+Dialogue: 0,0:27:55.76,0:27:58.62,English,,0,0,0,,Okay? The Basashi.\N{\rChinese}好的？巴萨希
+Dialogue: 0,0:27:58.96,0:28:01.46,English,,0,0,0,,And this was a very important It was a volunteer army\N{\rChinese}这是一支非常重要的志愿军队
+Dialogue: 0,0:28:02.06,0:28:05.62,English,,0,0,0,,of poor religious people from the villages.\N{\rChinese}由来自乡村的贫困宗教人士组成
+Dialogue: 0,0:28:06.36,0:28:09.82,English,,0,0,0,,And what the Al -Atullah Khomeini said to them is,\N{\rChinese}阿尔-阿图拉·霍梅尼对他们说的是，
+Dialogue: 0,0:28:10.10,0:28:13.18,English,,0,0,0,,we don't have weapons, but\N{\rChinese}我们没有武器，但……
+Dialogue: 0,0:28:13.18,0:28:15.40,English,,0,0,0,,we have God on our side.\N{\rChinese}我们有神在我们这边。
+Dialogue: 0,0:28:16.14,0:28:20.68,English,,0,0,0,,Okay? The Iraqis have armor,\N{\rChinese}好的？伊拉克人有装甲。
+Dialogue: 0,0:28:20.84,0:28:22.76,English,,0,0,0,,but we have divine power.\N{\rChinese}但我们有神力。
+Dialogue: 0,0:28:23.36,0:28:24.80,English,,0,0,0,,And what they did was,\N{\rChinese}他们所做的事是，
+Dialogue: 0,0:28:25.72,0:28:29.88,English,,0,0,0,,for, to these villagers, and these guys are about your age, okay?\N{\rChinese}对这些乡村人来说，这些人正是你们的年龄，好的？
+Dialogue: 0,0:28:30.26,0:28:34.92,English,,0,0,0,,They're 16, 17, 18. And they gave each of these guys\N{\rChinese}他们是16、17、18岁。并给每个人一支步枪和一把挂在脖子上的钥匙。
+Dialogue: 0,0:28:35.90,0:28:37.44,English,,0,0,0,,a rifle and\N{\rChinese}他们给每个人一支步枪和一把挂在脖子上的钥匙。
+Dialogue: 0,0:28:37.44,0:28:41.10,English,,0,0,0,,a key to put over their necks.\N{\rChinese}a key to put over their necks.
+Dialogue: 0,0:28:41.28,0:28:44.96,English,,0,0,0,,Okay? And the idea is that this key is your entry into heaven.\N{\rChinese}好的？这个钥匙就是你进入天堂的通道。
+Dialogue: 0,0:28:45.34,0:28:49.72,English,,0,0,0,,Because when you die in war, you are granted automatic entry\N{\rChinese}因为当你在战场上去世时，自动获得进入天堂的资格。
+Dialogue: 0,0:28:51.04,0:28:55.02,English,,0,0,0,,into heaven. And so, these guys,\N{\rChinese}于是，这些人……
+Dialogue: 0,0:28:55.76,0:28:58.10,English,,0,0,0,,and they were organized into groups of like 22, okay?\N{\rChinese}并且他们被组织成大约22人的小组，好的？
+Dialogue: 0,0:28:58.10,0:29:01.16,English,,0,0,0,,They would run ahead\N{\rChinese}他们会先跑到前面
+Dialogue: 0,0:29:01.16,0:29:04.60,English,,0,0,0,,across Iraqi minefields.\N{\rChinese}跨过伊拉克的地雷区
+Dialogue: 0,0:29:05.12,0:29:08.52,English,,0,0,0,,Tanks would strike at them, okay?\N{\rChinese}坦克会向他们开火，好吗？
+Dialogue: 0,0:29:09.04,0:29:11.22,English,,0,0,0,,Helicopters would come and strike at them.\N{\rChinese}直升机会来袭击他们。
+Dialogue: 0,0:29:11.38,0:29:13.96,English,,0,0,0,,And they would keep on running. And of course,\N{\rChinese}他们会继续奔跑，当然如此。
+Dialogue: 0,0:29:15.40,0:29:16.90,English,,0,0,0,,they would die, okay?\N{\rChinese}他们会死，好的？
+Dialogue: 0,0:29:18.70,0:29:20.68,English,,0,0,0,,Because they didn't have any armor.\N{\rChinese}因为他们没有装甲。
+Dialogue: 0,0:29:21.96,0:29:24.56,English,,0,0,0,,But the Iraqis spent so\N{\rChinese}但伊拉克人花了很多时间。
+Dialogue: 0,0:29:24.56,0:29:27.98,English,,0,0,0,,much ammunition and bombs,\N{\rChinese}大量弹药和炸弹，
+Dialogue: 0,0:29:29.10,0:29:32.02,English,,0,0,0,,on them, that\N{\rChinese}在他们身上，那
+Dialogue: 0,0:29:32.02,0:29:34.96,English,,0,0,0,,eventually, the Iraqi army became exhausted.\N{\rChinese}最终，伊拉克军队变得疲惫。
+Dialogue: 0,0:29:35.48,0:29:39.96,English,,0,0,0,,Okay? Does that make sense? And so, they withdrew.\N{\rChinese}好的？这样说通吗？于是他们撤退了。
+Dialogue: 0,0:29:40.10,0:29:42.80,English,,0,0,0,,But then, Iran took the fight to Iraq.\N{\rChinese}但随后，伊朗把战斗带到了伊拉克。
+Dialogue: 0,0:29:43.52,0:29:45.78,English,,0,0,0,,But this shows you that\N{\rChinese}这就说明了你这一点。
+Dialogue: 0,0:29:47.10,0:29:48.76,English,,0,0,0,,the main power\N{\rChinese}伊朗的主导力量
+Dialogue: 0,0:29:49.80,0:29:53.26,English,,0,0,0,,in Iran, why Iran is such a powerful military,\N{\rChinese}伊朗之所以拥有强大军力
+Dialogue: 0,0:29:53.40,0:29:56.72,English,,0,0,0,,is that their Relative Security Guard Corps\N{\rChinese}其相对安全卫队团
+Dialogue: 0,0:29:56.72,0:30:00.84,English,,0,0,0,,are run by fanatics with\N{\rChinese}由狂热的革命热情驱动的狂热分子经营。
+Dialogue: 0,0:30:00.84,0:30:04.30,English,,0,0,0,,a passion for revolution.\N{\rChinese}并得到支持。
+Dialogue: 0,0:30:04.78,0:30:06.04,English,,0,0,0,,And they're supported\N{\rChinese}And they're supported
+Dialogue: 0,0:30:06.51,0:30:09.98,English,,0,0,0,,by the Bajajis, who are these poor,\N{\rChinese}由巴贾吉人组成，他们是这些可怜的、文盲的宗教志愿者。
+Dialogue: 0,0:30:10.72,0:30:12.30,English,,0,0,0,,illiterate religious volunteers.\N{\rChinese}还有数千万的他们可供伊朗使用。
+Dialogue: 0,0:30:12.80,0:30:17.62,English,,0,0,0,,And there's tens of millions of them for Iran to draw on.\N{\rChinese}And there's tens of millionsof them for Iran to draw on.
+Dialogue: 0,0:30:18.40,0:30:20.72,English,,0,0,0,,Okay? And,\N{\rChinese}好的？然后，
+Dialogue: 0,0:30:22.54,0:30:26.02,English,,0,0,0,,what the Relative Security Guard Corps has been doing,\N{\rChinese}相对安全卫队所做的事，
+Dialogue: 0,0:30:27.36,0:30:30.40,English,,0,0,0,,after the Iraq war is,\N{\rChinese}伊拉克战争之后的工作是，
+Dialogue: 0,0:30:30.52,0:30:34.62,English,,0,0,0,,they recognize that if an enemy comes to attack Iran,\N{\rChinese}他们认为如果敌人来袭击伊朗，人民就会死亡。因此他们想把战斗带到敌人身上。
+Dialogue: 0,0:30:36.26,0:30:41.00,English,,0,0,0,,people are going to die. So they want to take the fight to them.\N{\rChinese}好吗？这就是过去20、30年来的原因。
+Dialogue: 0,0:30:41.42,0:30:44.22,English,,0,0,0,,Okay? And that's why, for the past 20, 30 years,\N{\rChinese}Okay? And that's why, for the past 20, 30 years,
+Dialogue: 0,0:30:44.84,0:30:47.50,English,,0,0,0,,the Relative Security Guard Corps has been supporting\N{\rChinese}相对安全卫队一直在支持
+Dialogue: 0,0:30:49.50,0:30:50.94,English,,0,0,0,,conflict in the Middle East.\N{\rChinese}冲突在中东。
+Dialogue: 0,0:30:51.22,0:30:54.54,English,,0,0,0,,They started something called the Axis of Resistance.\N{\rChinese}他们开始了一个叫做“抵抗轴心”的东西。
+Dialogue: 0,0:30:59.92,0:31:02.46,English,,0,0,0,,So, the Axis of Resistance includes\N{\rChinese}于是，抵抗轴心包括
+Dialogue: 0,0:31:04.22,0:31:06.60,English,,0,0,0,,Hamas in the Gaza Strip,\N{\rChinese}加沙地带的哈马斯
+Dialogue: 0,0:31:06.82,0:31:11.20,English,,0,0,0,,Hezbollah in Lebanon, the Houthis in Yemen,\N{\rChinese}真哈伊德在黎巴嫩，胡塞在也门，叙利亚，阿萨德政权在叙利亚
+Dialogue: 0,0:31:13.14,0:31:15.84,English,,0,0,0,,Syria, the Assad regime in Syria,\N{\rChinese}Syria, the Assadregime in Syria,
+Dialogue: 0,0:31:16.72,0:31:20.86,English,,0,0,0,,as well as Shia militia in Iraq.\N{\rChinese}以及伊拉克的什叶派民兵。
+Dialogue: 0,0:31:21.42,0:31:24.80,English,,0,0,0,,Okay? And so, all the money that\N{\rChinese}好的？于是，所有的钱都…
+Dialogue: 0,0:31:24.80,0:31:26.58,English,,0,0,0,,the Relative Security Guard Corps makes\N{\rChinese}相对安全卫队
+Dialogue: 0,0:31:28.18,0:31:30.38,English,,0,0,0,,in Iran, is then\N{\rChinese}在伊朗，随后
+Dialogue: 0,0:31:30.38,0:31:35.20,English,,0,0,0,,sent to this Axis of Resistance to create conflict against Saudi Arabia,\N{\rChinese}投递给这股抵抗轴心，制造与沙特阿拉伯的冲突，
+Dialogue: 0,0:31:35.46,0:31:37.86,English,,0,0,0,,United States, and Israel.\N{\rChinese}美国和以色列。
+Dialogue: 0,0:31:38.44,0:31:41.12,English,,0,0,0,,Okay? Does that make sense? But, so,\N{\rChinese}好的？这样说通吗？但，嗯，你可以想象有些人，
+Dialogue: 0,0:31:41.20,0:31:44.42,English,,0,0,0,,you can imagine that there's some people,\N{\rChinese}可以想象有些人，
+Dialogue: 0,0:31:44.58,0:31:47.66,English,,0,0,0,,and actually a lot of people in Iran who\N{\rChinese}并且在伊朗有很多人这样想：我们为什么要这么做？再来一次？
+Dialogue: 0,0:31:47.66,0:31:50.62,English,,0,0,0,,are like, why are we doing this? Again?\N{\rChinese}如果我们从中东撤出会怎样？
+Dialogue: 0,0:31:52.00,0:31:56.46,English,,0,0,0,,What if we withdrew from the Middle East\N{\rChinese}What if we withdrewfrom the Middle East
+Dialogue: 0,0:31:57.06,0:31:59.06,English,,0,0,0,,and just focused on our own economy?\N{\rChinese}并且只关注我们自己的经济？
+Dialogue: 0,0:31:59.48,0:32:00.90,English,,0,0,0,,Then, Israel,\N{\rChinese}然后，犹太人，
+Dialogue: 0,0:32:01.26,0:32:02.82,English,,0,0,0,,Saudi Arabia, and\N{\rChinese}沙特阿拉伯，
+Dialogue: 0,0:32:02.82,0:32:06.72,English,,0,0,0,,the United States won't have a reason to attack us.\N{\rChinese}美国就不会有理由去攻击我们。
+Dialogue: 0,0:32:10.48,0:32:13.70,English,,0,0,0,,Okay? So, there are people who,\N{\rChinese}好的？所以有人在想，
+Dialogue: 0,0:32:13.78,0:32:17.90,English,,0,0,0,,who are thinking like, maybe the problem isn't Israel,\N{\rChinese}也许问题不在于以色列。
+Dialogue: 0,0:32:18.12,0:32:20.36,English,,0,0,0,,maybe the problem isn't the United States,\N{\rChinese}也许问题不在于美国，
+Dialogue: 0,0:32:20.42,0:32:23.28,English,,0,0,0,,maybe the problem is these guys because they're fanatics.\N{\rChinese}也许问题在于这些人，因为他们是狂热的。
+Dialogue: 0,0:32:23.72,0:32:26.98,English,,0,0,0,,And they're creating all these problems in the Middle East,\N{\rChinese}他们在中东制造了所有这些问题，
+Dialogue: 0,0:32:27.16,0:32:30.24,English,,0,0,0,,which is crippling our economy.\N{\rChinese}哪一项正使我们的经济陷入瘫痪。
+Dialogue: 0,0:32:30.64,0:32:33.40,English,,0,0,0,,If we stop these conflicts and\N{\rChinese}若我们停止这些冲突并且
+Dialogue: 0,0:32:33.40,0:32:36.78,English,,0,0,0,,just focus on our own economic development, then\N{\rChinese}只专注于自身的经济发展，
+Dialogue: 0,0:32:36.78,0:32:38.82,English,,0,0,0,,maybe our people will be better off.\N{\rChinese}也许我们的人会更好。
+Dialogue: 0,0:32:45.66,0:32:48.40,English,,0,0,0,,And one reason to think\N{\rChinese}还有一个理由认为
+Dialogue: 0,0:32:48.40,0:32:52.70,English,,0,0,0,,that there are people in Iran,\N{\rChinese}在伊朗有这样的人，
+Dialogue: 0,0:32:52.98,0:32:55.82,English,,0,0,0,,politicians in Iran, who\N{\rChinese}伊朗的政客，
+Dialogue: 0,0:32:55.82,0:33:00.20,English,,0,0,0,,are extremely skeptical of Revenue Guard\N{\rChinese}极为怀疑收入卫队的政策，
+Dialogue: 0,0:33:00.20,0:33:04.82,English,,0,0,0,,policy in the Middle East is that in January 2020,\N{\rChinese}在2020年一月，
+Dialogue: 0,0:33:06.38,0:33:10.04,English,,0,0,0,,remember that General Soleimani was assassinated by the Americans, right?\N{\rChinese}记得苏莱米将军被美军暗杀，对吧？
+Dialogue: 0,0:33:10.82,0:33:14.82,English,,0,0,0,,The Iranian response wasn't that big of a deal.\N{\rChinese}伊朗的回应并不大。
+Dialogue: 0,0:33:15.08,0:33:16.76,English,,0,0,0,,The Iranians basically didn't respond.\N{\rChinese}伊朗基本没有回应。
+Dialogue: 0,0:33:18.16,0:33:21.72,English,,0,0,0,,Whereas, the Revenue Guard Corps, because\N{\rChinese}而且，收入卫队因为其领袖被杀，随后要求报仇，没错？
+Dialogue: 0,0:33:21.72,0:33:23.92,English,,0,0,0,,their leader was killed, they demanded\N{\rChinese}而且，收入卫队因为其领袖被杀，随后要求报仇，没错？
+Dialogue: 0,0:33:24.60,0:33:26.02,English,,0,0,0,,vengeance, right?\N{\rChinese}而且，收入卫队因为其领袖被杀，随后要求报仇，没错？
+Dialogue: 0,0:33:26.14,0:33:29.28,English,,0,0,0,,They wanted to go to war. But we can suspect\N{\rChinese}他们想要开战。我们可以猜测是像赖西这样的政治家说的，没错，等着吧。
+Dialogue: 0,0:33:29.28,0:33:32.28,English,,0,0,0,,that it was the politicians like Raisi\N{\rChinese}就是像赖西这样的政治家说的，没错，等着吧。
+Dialogue: 0,0:33:32.28,0:33:36.28,English,,0,0,0,,who basically said, no guys, let's be patient, okay?\N{\rChinese}基本上是赖西那类政治家说的，没错，等着吧。
+Dialogue: 0,0:33:36.50,0:33:39.38,English,,0,0,0,,Going to war against Israel and the United States right now is suicidal.\N{\rChinese}现在对以色列和美国发动战争是自杀的举动。
+Dialogue: 0,0:33:40.30,0:33:43.16,English,,0,0,0,,So they were urging caution and restraint.\N{\rChinese}于是他们提议谨慎与自制。
+Dialogue: 0,0:33:43.52,0:33:45.84,English,,0,0,0,,And the Revenue Guard Corps didn't like that.\N{\rChinese}收入卫队对此不满意。
+Dialogue: 0,0:33:47.16,0:33:49.92,English,,0,0,0,,And then April 1st\N{\rChinese}然后在今年的4月1日
+Dialogue: 0,0:33:50.76,0:33:55.04,English,,0,0,0,,of this year, the Israelis struck down the Iranian embassy, right?\N{\rChinese}以色列人打倒了伊朗大使馆，对吧？
+Dialogue: 0,0:33:55.18,0:33:58.06,English,,0,0,0,,Which made matters worse. And again, at that time,\N{\rChinese}这让情况更糟，且当时又是这样
+Dialogue: 0,0:33:58.16,0:34:01.36,English,,0,0,0,,I'm sure the Revenue Guard Corps was let's just go to war.\N{\rChinese}我确信收入卫队就说，咱们直接去打仗。
+Dialogue: 0,0:34:02.02,0:34:05.10,English,,0,0,0,,And again, I'm sure Raisi and\N{\rChinese}再说，我确信赖西和他团队对他们说，伙计们，…
+Dialogue: 0,0:34:05.10,0:34:07.92,English,,0,0,0,,his team said to them, guys,\N{\rChinese}his team said tothem, guys,
+Dialogue: 0,0:34:08.68,0:34:11.96,English,,0,0,0,,we cannot beat the United States and Israel in a war.\N{\rChinese}我们无法在战争中击败美国和以色列。
+Dialogue: 0,0:34:12.24,0:34:13.94,English,,0,0,0,,Let's be strategic about this.\N{\rChinese}让我们对此做战略安排。
+Dialogue: 0,0:34:14.08,0:34:17.58,English,,0,0,0,,Let's be patient. Our time will come, but we need to be patient.\N{\rChinese}让我们耐心等待。我们的时机会到，但要耐心。
+Dialogue: 0,0:34:18.82,0:34:22.22,English,,0,0,0,,Okay? And\N{\rChinese}好的？然后
+Dialogue: 0,0:34:22.22,0:34:25.32,English,,0,0,0,,I'm sure that because of fanatics, they were like,\N{\rChinese}我确信因为狂热，他们会这样说，
+Dialogue: 0,0:34:25.44,0:34:28.40,English,,0,0,0,,they are in a way, these politicians are cowards.\N{\rChinese}这些政客在某种程度上是胆小的。
+Dialogue: 0,0:34:28.94,0:34:30.64,English,,0,0,0,,They're weak. They're soft.\N{\rChinese}他们很弱。很软。
+Dialogue: 0,0:34:31.34,0:34:32.56,English,,0,0,0,,They're not believers.\N{\rChinese}他们不是信徒。
+Dialogue: 0,0:34:33.98,0:34:35.28,English,,0,0,0,,Let's get rid of them. Okay?\N{\rChinese}把他们除掉。好吗？
+Dialogue: 0,0:34:36.40,0:34:38.54,English,,0,0,0,,And then what happened on May 19th\N{\rChinese}然后，5月19日发生了什么事？
+Dialogue: 0,0:34:39.30,0:34:40.80,English,,0,0,0,,was an opportunity arise\N{\rChinese}随后出现了一个机会
+Dialogue: 0,0:34:41.34,0:34:44.84,English,,0,0,0,,where there was fog and they were like, well, here's our opportunity.\N{\rChinese}当时雾气弥漫，他们想：好吧，这是我们的机会。
+Dialogue: 0,0:34:45.10,0:34:47.48,English,,0,0,0,,And so they caused an accident.\N{\rChinese}于是他们制造了事故。
+Dialogue: 0,0:34:48.48,0:34:51.20,English,,0,0,0,,Okay? Does it make sense, guys?\N{\rChinese}好吗？听得懂吗？
+Dialogue: 0,0:34:51.70,0:34:54.28,English,,0,0,0,,Okay. So,\N{\rChinese}好的。
+Dialogue: 0,0:34:54.78,0:34:57.18,English,,0,0,0,,again, I don't know what happened, but\N{\rChinese}再说一次，我不知道发生了什么，但
+Dialogue: 0,0:34:57.18,0:35:01.52,English,,0,0,0,,if we look at game theory and we examine who would benefit\N{\rChinese}如果我们从博弈论来观察，并且检查谁会从雷西之死中受益，
+Dialogue: 0,0:35:02.06,0:35:03.60,English,,0,0,0,,from the death of Raisi,\N{\rChinese}from the death of Raisi,
+Dialogue: 0,0:35:04.82,0:35:07.52,English,,0,0,0,,this group of people, the Revolutionary Guard Corps,\N{\rChinese}这群人，革命卫队，
+Dialogue: 0,0:35:07.72,0:35:10.30,English,,0,0,0,,would most benefit because\N{\rChinese}将最受益，因为
+Dialogue: 0,0:35:10.30,0:35:14.24,English,,0,0,0,,it is very likely that if Raisi became the next Supreme Leader,\N{\rChinese}很可能如果雷西成为下一个最高领袖，
+Dialogue: 0,0:35:14.54,0:35:17.42,English,,0,0,0,,their authority and their policies would be challenged.\N{\rChinese}他们的权威和政策将受到挑战。
+Dialogue: 0,0:35:18.36,0:35:21.22,English,,0,0,0,,Okay? And\N{\rChinese}好的？然后
+Dialogue: 0,0:35:21.22,0:35:24.54,English,,0,0,0,,so, by getting rid of Raisi,\N{\rChinese}于是，除掉雷西后
+Dialogue: 0,0:35:24.74,0:35:26.82,English,,0,0,0,,it makes Mojaba Khomeini,\N{\rChinese}它让莫贾巴·霍梅尼更有可能
+Dialogue: 0,0:35:27.40,0:35:31.56,English,,0,0,0,,the son of the Ayatollah, that much more probable\N{\rChinese}阿亚图拉之子更有可能
+Dialogue: 0,0:35:32.10,0:35:34.24,English,,0,0,0,,in ascending to the Supreme Authority.\N{\rChinese}在升任最高权威时
+Dialogue: 0,0:35:34.52,0:35:39.06,English,,0,0,0,,And that allows them to maintain their power, monopoly of power.\N{\rChinese}并且这让他们得以维持权力，权力的独占。
+Dialogue: 0,0:35:41.06,0:35:46.46,English,,0,0,0,,And even if this accession causes a legitimacy crisis,\N{\rChinese}即便此登位引起合法性危机，
+Dialogue: 0,0:35:46.92,0:35:50.14,English,,0,0,0,,well, it's good for them because\N{\rChinese}好吧，对他们而言是好事。
+Dialogue: 0,0:35:50.14,0:35:53.94,English,,0,0,0,,then the regime is even more dependent on them.\N{\rChinese}然后政权对他们的依赖更深。
+Dialogue: 0,0:35:54.46,0:35:57.52,English,,0,0,0,,Okay? Does that make sense? So, during these protests,\N{\rChinese}好的？这有道理吗？于是，在这些示威期间，
+Dialogue: 0,0:36:00.66,0:36:02.40,English,,0,0,0,,especially the Green Movement,\N{\rChinese}尤其是绿运动期间。
+Dialogue: 0,0:36:03.04,0:36:07.30,English,,0,0,0,,the Revolutionary Guard Corps was the ones responsible for cracking down.\N{\rChinese}革命卫队是负责镇压的那一方。
+Dialogue: 0,0:36:07.54,0:36:10.70,English,,0,0,0,,And they were violent and brutal in cracking down.\N{\rChinese}他们在镇压时既暴力又残忍。
+Dialogue: 0,0:36:11.24,0:36:15.38,English,,0,0,0,,Okay? So, okay.\N{\rChinese}好吧？
+Dialogue: 0,0:36:15.66,0:36:19.18,English,,0,0,0,,Are you guys clear about the logic here?\N{\rChinese}你们对这里的逻辑清楚吗？
+Dialogue: 0,0:36:19.70,0:36:23.86,English,,0,0,0,,Any questions?.\N{\rChinese}还有问题吗？
+Dialogue: 0,0:36:30.96,0:36:33.16,English,,0,0,0,,Okay. That's a great question.\N{\rChinese}好的。很好的问题。
+Dialogue: 0,0:36:33.26,0:36:35.26,English,,0,0,0,,So, Suning asked, does the military still exist?\N{\rChinese}于是，孙英问，军队还存在吗？
+Dialogue: 0,0:36:35.38,0:36:37.10,English,,0,0,0,,And the answer is yes, it still exists.\N{\rChinese}答案是肯定，仍然存在。
+Dialogue: 0,0:36:37.62,0:36:39.04,English,,0,0,0,,Okay? But again,\N{\rChinese}好吧？
+Dialogue: 0,0:36:41.30,0:36:43.58,English,,0,0,0,,the Revolutionary Guard Corps has certain responsibilities\N{\rChinese}革命卫队拥有若干职责
+Dialogue: 0,0:36:44.00,0:36:45.68,English,,0,0,0,,that make it the most powerful group.\N{\rChinese}使其成为最强大的集团。
+Dialogue: 0,0:36:45.86,0:36:48.84,English,,0,0,0,,Okay? So, the first thing is that\N{\rChinese}好吧？所以，第一点是……
+Dialogue: 0,0:36:50.18,0:36:52.46,English,,0,0,0,,it's responsible for the Navy.\N{\rChinese}它负责海军。
+Dialogue: 0,0:36:52.88,0:36:55.44,English,,0,0,0,,Okay? Why is this important? Because the Strait of Hormuz\N{\rChinese}好？这为什么重要？因为霍尔木兹海峡是一个非常重要的航运通道。
+Dialogue: 0,0:36:56.00,0:36:58.20,English,,0,0,0,,is a very strategic shipping lane.\N{\rChinese}好？
+Dialogue: 0,0:36:58.76,0:37:03.06,English,,0,0,0,,And so, they're responsible to maintain that strait.\N{\rChinese}于是，他们负责维护那条海峡。
+Dialogue: 0,0:37:03.20,0:37:06.40,English,,0,0,0,,Okay? And the Navy allows them also to smuggle,\N{\rChinese}好？海军也让他们可以走私货，
+Dialogue: 0,0:37:06.58,0:37:09.36,English,,0,0,0,,which means that they can make more money for themselves.\N{\rChinese}这意味着他们可以为自己赚更多钱。
+Dialogue: 0,0:37:09.80,0:37:11.10,English,,0,0,0,,Okay? So, that's the first thing.\N{\rChinese}好的？那就是第一点。
+Dialogue: 0,0:37:11.20,0:37:15.16,English,,0,0,0,,Second thing is that they're also responsible for the missile program.\N{\rChinese}第二点是他们还负责导弹项目。
+Dialogue: 0,0:37:16.02,0:37:18.82,English,,0,0,0,,. Okay?\N{\rChinese}好的？
+Dialogue: 0,0:37:20.90,0:37:25.50,English,,0,0,0,,And this is where actually the military spends most of its money, the missiles.\N{\rChinese}于是，军方把大部分钱花在导弹上。
+Dialogue: 0,0:37:25.88,0:37:28.82,English,,0,0,0,,Okay? And the third thing is,\N{\rChinese}好？第三点是，
+Dialogue: 0,0:37:28.92,0:37:31.54,English,,0,0,0,,of course, foreign policy.\N{\rChinese}当然，外交政策。
+Dialogue: 0,0:37:33.14,0:37:35.62,English,,0,0,0,,Meaning that the acts of resistance gets,\N{\rChinese}这意味着抵抗行动得到，
+Dialogue: 0,0:37:36.58,0:37:41.36,English,,0,0,0,,sorry, the acts of resistance only interacts with the Revolutionary Guard Corps.\N{\rChinese}抱歉，抵抗行动只与伊斯兰革命卫队互动。
+Dialogue: 0,0:37:41.58,0:37:44.20,English,,0,0,0,,Okay? So, General Soleimani\N{\rChinese}好？所以，苏莱米尼将军。
+Dialogue: 0,0:37:44.20,0:37:46.58,English,,0,0,0,,and the two generals who died\N{\rChinese}和两位将军在开斋时去世
+Dialogue: 0,0:37:47.88,0:37:49.46,English,,0,0,0,,in the iftar, the Israeli airstrike,\N{\rChinese}以色列空袭后去世
+Dialogue: 0,0:37:49.62,0:37:52.84,English,,0,0,0,,they all belong to the Islamic Revolutionary Guard Corps.\N{\rChinese}他们都属于伊斯兰革命卫队
+Dialogue: 0,0:37:53.00,0:37:57.00,English,,0,0,0,,Okay? So, these three things mean\N{\rChinese}好？那么，这三件事意味着
+Dialogue: 0,0:37:57.00,0:37:59.82,English,,0,0,0,,that the Islamic Revolutionary Guard Corps,\N{\rChinese}伊斯兰革命卫队，
+Dialogue: 0,0:38:00.02,0:38:04.20,English,,0,0,0,,they control basically all the money and all the power in the country.\N{\rChinese}他们基本掌控了全国的金钱和权力。
+Dialogue: 0,0:38:05.38,0:38:06.68,English,,0,0,0,,Okay? But they're still military.\N{\rChinese}好的？但他们仍是军队。
+Dialogue: 0,0:38:07.56,0:38:09.52,English,,0,0,0,,Does that make sense? All right.\N{\rChinese}这样说对吗？好的。
+Dialogue: 0,0:38:09.60,0:38:13.06,English,,0,0,0,,Any more questions?.\N{\rChinese}还有别的问题吗？
+Dialogue: 0,0:38:15.34,0:38:17.28,English,,0,0,0,,...\N{\rChinese}…
+Dialogue: 0,0:38:17.80,0:38:19.62,English,,0,0,0,,..\N{\rChinese}..
+Dialogue: 0,0:38:20.88,0:38:23.08,English,,0,0,0,,Okay. So Jack asked a great question.\N{\rChinese}好的。于是杰克提出了一个很好的问题。
+Dialogue: 0,0:38:23.34,0:38:25.62,English,,0,0,0,,Why is the Revolutionary Guard Corps,\N{\rChinese}为什么革命卫队会这样？
+Dialogue: 0,0:38:25.82,0:38:29.68,English,,0,0,0,,why do they believe that they can control Moshtaba Khomeini?\N{\rChinese}他们为什么认为能掌控莫什塔巴·科迈尼？
+Dialogue: 0,0:38:29.82,0:38:34.04,English,,0,0,0,,Okay? Okay. So, in 1989,\N{\rChinese}好的？好的。于是1989年，
+Dialogue: 0,0:38:34.70,0:38:37.54,English,,0,0,0,,the first Ayatollah Khomeini died.\N{\rChinese}第一位阿亚图拉·科迈尼去世。
+Dialogue: 0,0:38:38.16,0:38:42.48,English,,0,0,0,,And Ayatollah Khomeini succeeded him.\N{\rChinese}随后阿亚图拉·科迈尼继任。
+Dialogue: 0,0:38:42.86,0:38:47.56,English,,0,0,0,,And the moment he became the new Ayatollah,\N{\rChinese}他成为新阿亚图拉的那一刻。
+Dialogue: 0,0:38:47.66,0:38:48.78,English,,0,0,0,,he focused on the fact that\N{\rChinese}他聚焦于此点
+Dialogue: 0,0:38:48.78,0:38:54.44,English,,0,0,0,,he focused on cultivating his personal relationship with the Revolutionary Guard Corps.\N{\rChinese}他聚焦于与革命卫队培养个人关系
+Dialogue: 0,0:38:54.64,0:38:58.74,English,,0,0,0,,Okay? So basically, he knows, there's about 250,000 of them.\N{\rChinese}好的？基本上，他知道大约有二十五万名
+Dialogue: 0,0:38:59.62,0:39:04.32,English,,0,0,0,,And he made a point of meeting everyone and memorizing their names.\N{\rChinese}他还会亲自会见每个人并记住他们的名字。
+Dialogue: 0,0:39:04.52,0:39:08.74,English,,0,0,0,,He even knows the names of their children. So\N{\rChinese}他甚至记得他们孩子的名字。于是……
+Dialogue: 0,0:39:08.74,0:39:11.86,English,,0,0,0,,the current Ayatollah Khomeini has a\N{\rChinese}现在的阿亚图拉·科迈尼是……
+Dialogue: 0,0:39:11.86,0:39:16.44,English,,0,0,0,,great personal relationship with the Islamic Revolutionary Guard Corps.\N{\rChinese}与伊斯兰革命卫队的深厚个人关系。
+Dialogue: 0,0:39:16.58,0:39:18.18,English,,0,0,0,,Okay? They're basically his private army.\N{\rChinese}好？他们基本是他的私兵。
+Dialogue: 0,0:39:21.06,0:39:24.04,English,,0,0,0,,And the reason why\N{\rChinese}以及原因是
+Dialogue: 0,0:39:24.04,0:39:28.90,English,,0,0,0,,that the Revolutionary Guard Corps would transfer loyalty to Moshtaba is\N{\rChinese}那是伊斯兰革命卫队将忠诚转移给莫什塔巴的原因。
+Dialogue: 0,0:39:28.90,0:39:32.74,English,,0,0,0,,that Moshtaba himself is an extremely unpopular figure.\N{\rChinese}莫什塔巴本人是极不受欢迎的人物。
+Dialogue: 0,0:39:33.24,0:39:34.58,English,,0,0,0,,If he were popular,\N{\rChinese}如果他受欢迎，
+Dialogue: 0,0:39:34.94,0:39:36.34,English,,0,0,0,,if he were like a clever politician,\N{\rChinese}如果他像个聪明的政治家一样，他很可能会成为下一位阿亚图拉。
+Dialogue: 0,0:39:36.84,0:39:41.26,English,,0,0,0,,then he would most likely become the next Ayatollah.\N{\rChinese}但因为他非常不受欢迎，…
+Dialogue: 0,0:39:41.84,0:39:44.22,English,,0,0,0,,But because he's very unpopular,\N{\rChinese}But because he'svery unpopular,
+Dialogue: 0,0:39:44.90,0:39:46.66,English,,0,0,0,,there's a lot of resistance to him.\N{\rChinese}有很多人对他产生抵抗。
+Dialogue: 0,0:39:47.04,0:39:51.46,English,,0,0,0,,So if he's unpopular, if he becomes the next Ayatollah, it would be only because\N{\rChinese}如果他不受欢迎，若成为下一位阿亚图拉，那只是因为革命卫队把他安排在那里，意味着该句后续。
+Dialogue: 0,0:39:52.10,0:39:54.72,English,,0,0,0,,the Revolutionary Guard Corps put him there, which means that\N{\rChinese}the Revolutionary Guard Corpsput him there, which means that
+Dialogue: 0,0:39:54.72,0:39:59.30,English,,0,0,0,,he must be loyal and obedient to their policies.\N{\rChinese}他必须忠诚并服从他们的政策。
+Dialogue: 0,0:39:59.58,0:40:01.54,English,,0,0,0,,Does that make sense, Jack? Okay.\N{\rChinese}这有道理吗，杰克？好的。
+Dialogue: 0,0:40:01.80,0:40:04.74,English,,0,0,0,,But that's a great question. Any more questions before I move on?\N{\rChinese}这真是个好问题。还有别的问题吗，我再继续？
+Dialogue: 0,0:40:09.42,0:40:13.08,English,,0,0,0,,Okay. So Celine asked a great question.\N{\rChinese}好的。于是塞琳提了个很好的问题。
+Dialogue: 0,0:40:13.58,0:40:16.50,English,,0,0,0,,What changes now that Raisi is dead?\N{\rChinese}现在，拉伊西去世后有什么变化？
+Dialogue: 0,0:40:16.50,0:40:19.64,English,,0,0,0,,Okay. Now, all right.\N{\rChinese}好的。现在，一切就绪。
+Dialogue: 0,0:40:19.74,0:40:24.00,English,,0,0,0,,So if it was an accident,\N{\rChinese}如果是意外，那理论上没有变化，
+Dialogue: 0,0:40:24.82,0:40:27.56,English,,0,0,0,,then in theory, nothing changes because\N{\rChinese}因为最终还是阿亚图拉·霍梅尼的事，
+Dialogue: 0,0:40:27.56,0:40:29.90,English,,0,0,0,,ultimately, it's the Ayatollah Khomeini\N{\rChinese}ultimately, it's the Ayatollah Khomeini
+Dialogue: 0,0:40:30.40,0:40:32.50,English,,0,0,0,,who is responsible for policy.\N{\rChinese}谁负责制定政策？
+Dialogue: 0,0:40:32.90,0:40:34.90,English,,0,0,0,,Okay? But\N{\rChinese}好的？但
+Dialogue: 0,0:40:34.90,0:40:38.26,English,,0,0,0,,if I am correct and\N{\rChinese}如果我说得对，
+Dialogue: 0,0:40:38.26,0:40:41.08,English,,0,0,0,,it was a planned assassination\N{\rChinese}它是一场有预谋的暗杀
+Dialogue: 0,0:40:41.08,0:40:44.34,English,,0,0,0,,by the Revolutionary Guard Corps,\N{\rChinese}由革命卫队完成
+Dialogue: 0,0:40:44.58,0:40:46.04,English,,0,0,0,,then everything changes.\N{\rChinese}随后一切都将改变
+Dialogue: 0,0:40:46.82,0:40:49.70,English,,0,0,0,,Okay? What this means is that\N{\rChinese}好的？这意味着什么？
+Dialogue: 0,0:40:52.32,0:40:55.02,English,,0,0,0,,the political class goes away\N{\rChinese}政治阶层离开
+Dialogue: 0,0:40:55.02,0:40:59.40,English,,0,0,0,,and the military class takes over and they dictate policy.\N{\rChinese}军阶层接手并决定政策。
+Dialogue: 0,0:41:00.24,0:41:01.82,English,,0,0,0,,Okay? So you will see,\N{\rChinese}好的？那你会看到，
+Dialogue: 0,0:41:03.18,0:41:07.34,English,,0,0,0,,first of all, there's going to be an election.\N{\rChinese}首先，接下来会有一次选举。
+Dialogue: 0,0:41:07.54,0:41:08.86,English,,0,0,0,,Okay? So in late June,\N{\rChinese}好的？那么在六月底，
+Dialogue: 0,0:41:09.00,0:41:12.66,English,,0,0,0,,there will be someone to replace the president.\N{\rChinese}将会有人接替总统。
+Dialogue: 0,0:41:13.10,0:41:16.48,English,,0,0,0,,And it's most likely that the current vice president\N{\rChinese}而最有可能的是现任副总统。
+Dialogue: 0,0:41:16.48,0:41:20.24,English,,0,0,0,,who is Mohammad Makbar, the current vice president,\N{\rChinese}即马哈德·马克巴尔，现任副总统，
+Dialogue: 0,0:41:20.42,0:41:22.22,English,,0,0,0,,will become the new president.\N{\rChinese}将成为新总统。
+Dialogue: 0,0:41:22.56,0:41:23.76,English,,0,0,0,,And this is important\N{\rChinese}而这很重要
+Dialogue: 0,0:41:24.30,0:41:28.84,English,,0,0,0,,because Raisi does not come from the Revolutionary Guard Corps.\N{\rChinese}因为雷西并非来自革命卫队。
+Dialogue: 0,0:41:29.04,0:41:30.48,English,,0,0,0,,He comes from the judiciary.\N{\rChinese}他来自司法部门。
+Dialogue: 0,0:41:30.94,0:41:32.70,English,,0,0,0,,Okay? That's a different power base.\N{\rChinese}好的？那是另一种权力基础。
+Dialogue: 0,0:41:33.30,0:41:39.28,English,,0,0,0,,But Mohammad Makbar comes from the Revolutionary Guard Corps.\N{\rChinese}但马哈德·马克巴尔来自革命卫队。
+Dialogue: 0,0:41:39.66,0:41:42.68,English,,0,0,0,,So he would advance Revolutionary Guard Corps interests.\N{\rChinese}于是他将推动革命卫队的利益。
+Dialogue: 0,0:41:45.08,0:41:48.28,English,,0,0,0,,Okay? And if that's the case, then\N{\rChinese}好？如果是这样的话，接下来会是……
+Dialogue: 0,0:41:48.28,0:41:50.76,English,,0,0,0,,what we'll see is\N{\rChinese}我们将看到的是……
+Dialogue: 0,0:41:52.52,0:41:54.40,English,,0,0,0,,the country, the leadership,\N{\rChinese}国家，领导层，
+Dialogue: 0,0:41:54.58,0:41:57.50,English,,0,0,0,,preparing its people for total war.\N{\rChinese}为其人民准备全面战争。
+Dialogue: 0,0:41:58.44,0:42:02.06,English,,0,0,0,,Okay? We will see that the rhetoric becomes more extreme\N{\rChinese}好？我们将看到话语更趋极端。
+Dialogue: 0,0:42:02.76,0:42:07.10,English,,0,0,0,,and preparing its people for an eventual American invasion.\N{\rChinese}并为其人民准备可能的美军入侵。
+Dialogue: 0,0:42:08.34,0:42:12.44,English,,0,0,0,,There will be much more harsh crackdown on political dissent.\N{\rChinese}随后将对政治异见进行更严厉的镇压。
+Dialogue: 0,0:42:12.98,0:42:16.82,English,,0,0,0,,Okay? So that's the first thing.\N{\rChinese}好？这就是第一件事。
+Dialogue: 0,0:42:16.94,0:42:18.60,English,,0,0,0,,Second thing is that\N{\rChinese}第二件事是
+Dialogue: 0,0:42:19.54,0:42:23.58,English,,0,0,0,,the Revolutionary Guard Corps cannot defeat America face to face.\N{\rChinese}革命卫队军团能面对美军一决胜负。
+Dialogue: 0,0:42:24.22,0:42:26.78,English,,0,0,0,,Okay? The only thing that they can do to defeat America and\N{\rChinese}好？他们唯一能做的事就是击败美军。
+Dialogue: 0,0:42:26.78,0:42:29.40,English,,0,0,0,,Israel is to lure them into the country.\N{\rChinese}以色列为诱饵把他们拉进国土。
+Dialogue: 0,0:42:30.62,0:42:32.46,English,,0,0,0,,And they do that by provoking them.\N{\rChinese}他们通过挑衅来做到这一点。
+Dialogue: 0,0:42:32.56,0:42:35.36,English,,0,0,0,,Okay? So there are different things that they can do to provoke America.\N{\rChinese}好？于是他们可以用不同方式挑衅美国。
+Dialogue: 0,0:42:35.68,0:42:37.74,English,,0,0,0,,The first is to accelerate\N{\rChinese}第一点是加速核计划。好？
+Dialogue: 0,0:42:40.42,0:42:42.76,English,,0,0,0,,the nuclear program. Okay?\N{\rChinese}第二点是鼓动代理人。好？
+Dialogue: 0,0:42:43.20,0:42:45.60,English,,0,0,0,,And the second thing is to encourage the proxies. What America and\N{\rChinese}美国和
+Dialogue: 0,0:42:45.60,0:42:47.96,English,,0,0,0,,Israel have said is they see\N{\rChinese}以色列说他们认为
+Dialogue: 0,0:42:47.96,0:42:53.50,English,,0,0,0,,Iran possessing nuclear weapon as an existential threat\N{\rChinese}伊朗拥有核武器是对以色列安全的生存威胁
+Dialogue: 0,0:42:54.36,0:42:55.96,English,,0,0,0,,to the safety of Israel.\N{\rChinese}to the safety ofIsrael.
+Dialogue: 0,0:42:56.82,0:42:58.40,English,,0,0,0,,So this is a no -no.\N{\rChinese}于是这就是个没问题。
+Dialogue: 0,0:42:58.56,0:43:02.74,English,,0,0,0,,Okay? So if Iran accelerates the program,\N{\rChinese}好？如果伊朗加速计划，
+Dialogue: 0,0:43:03.06,0:43:05.28,English,,0,0,0,,this is a direct provocation.\N{\rChinese}这就是直接挑衅。
+Dialogue: 0,0:43:05.32,0:43:08.10,English,,0,0,0,,Okay? That's the first thing. Second thing is to\N{\rChinese}好的？那是第一件事。第二件事是要鼓动代理人。
+Dialogue: 0,0:43:10.26,0:43:11.94,English,,0,0,0,,encourage the proxies.\N{\rChinese}好的，接着说。
+Dialogue: 0,0:43:15.20,0:43:16.74,English,,0,0,0,,Okay, so\N{\rChinese}Okay, so
+Dialogue: 0,0:43:16.74,0:43:21.60,English,,0,0,0,,right now Israel is very concerned about Hezbollah in the north.\N{\rChinese}现在以色列非常关注北部的真哈伊德。
+Dialogue: 0,0:43:21.68,0:43:23.50,English,,0,0,0,,Hamas has already attacked them.\N{\rChinese}哈马斯已经对他们发动攻击。
+Dialogue: 0,0:43:25.08,0:43:27.32,English,,0,0,0,,Hezbollah could also attack Israel.\N{\rChinese}真哈伊德也可能对以色列发动攻击。
+Dialogue: 0,0:43:27.90,0:43:30.50,English,,0,0,0,,If Hezbollah attacks Israel,\N{\rChinese}如果真哈伊德攻击以色列，
+Dialogue: 0,0:43:30.84,0:43:36.68,English,,0,0,0,,then Israel can only interpret this as Iran encouraging Hezbollah to attack them.\N{\rChinese}那么以色列只能把这件事解释为伊朗鼓动真哈伊德去攻击他们。
+Dialogue: 0,0:43:37.70,0:43:40.78,English,,0,0,0,,But if Hezbollah attacks Israel,\N{\rChinese}但如果真哈伊德攻击以色列，
+Dialogue: 0,0:43:41.08,0:43:44.88,English,,0,0,0,,then Israel and the United States would see this as an escalation\N{\rChinese}然后以色列和美国会把这件事视为升级
+Dialogue: 0,0:43:44.88,0:43:45.78,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:43:45.78,0:43:50.92,English,,0,0,0,,they would be much more determined to eventually attack Iran in some way.\N{\rChinese}他们最终会更有决心以某种方式攻击伊朗。
+Dialogue: 0,0:43:52.02,0:43:55.64,English,,0,0,0,,You also have Shia\N{\rChinese}你也有什叶武装部队
+Dialogue: 0,0:43:55.64,0:43:58.38,English,,0,0,0,,militias in Iraq\N{\rChinese}在伊拉克
+Dialogue: 0,0:43:58.38,0:44:00.60,English,,0,0,0,,who could attack US military bases.\N{\rChinese}谁能攻击美军基地。
+Dialogue: 0,0:44:03.18,0:44:06.66,English,,0,0,0,,You also have the Houthis in Yemen who can attack Syria.\N{\rChinese}也有也门的胡塞可以攻击叙利亚。
+Dialogue: 0,0:44:06.66,0:44:08.12,English,,0,0,0,,You also have Saudi Arabia, oil fields.\N{\rChinese}你也有沙特阿拉伯的油田。
+Dialogue: 0,0:44:10.66,0:44:14.94,English,,0,0,0,,So you're encouraging your proxies to make things worse in the Middle East,\N{\rChinese}所以你在鼓励你的代理人让中东局势更糟。
+Dialogue: 0,0:44:15.12,0:44:17.18,English,,0,0,0,,in which case the United States can only conclude that\N{\rChinese}在这种情况下，美国只能得出结论
+Dialogue: 0,0:44:17.18,0:44:20.24,English,,0,0,0,,we need to destroy the head of the snake, which is Iran.\N{\rChinese}我们需要消灭蛇头，即伊朗。
+Dialogue: 0,0:44:21.38,0:44:22.90,English,,0,0,0,,The second thing that could happen.\N{\rChinese}第二件可能发生的事。
+Dialogue: 0,0:44:23.08,0:44:24.72,English,,0,0,0,,The third thing that could happen is\N{\rChinese}第三件可能发生的事是
+Dialogue: 0,0:44:24.72,0:44:31.42,English,,0,0,0,,basically Iran\N{\rChinese}基本上伊朗
+Dialogue: 0,0:44:31.42,0:44:33.00,English,,0,0,0,,starts to attack shipping lanes.\N{\rChinese}开始攻击航运航线。
+Dialogue: 0,0:44:34.36,0:44:37.56,English,,0,0,0,,Okay? It makes shipping much more difficult.\N{\rChinese}好的？这样就更难运输了。
+Dialogue: 0,0:44:38.46,0:44:44.24,English,,0,0,0,,And the fourth thing is basically terror.\N{\rChinese}第四件事基本是恐怖。
+Dialogue: 0,0:44:44.96,0:44:47.56,English,,0,0,0,,Basically Iran,\N{\rChinese}基本上伊朗，
+Dialogue: 0,0:44:47.94,0:44:49.44,English,,0,0,0,,through its proxy,\N{\rChinese}通过其代理人，
+Dialogue: 0,0:44:49.54,0:44:53.28,English,,0,0,0,,launches terror attacks against America and its allies.\N{\rChinese}发起对美及其盟友的恐怖袭击。
+Dialogue: 0,0:44:54.52,0:44:57.22,English,,0,0,0,,So there are many things that\N{\rChinese}于是有许多事要做。
+Dialogue: 0,0:44:57.22,0:45:00.22,English,,0,0,0,,Iran can do to provoke a war.\N{\rChinese}伊朗可以做的事来挑起战争。
+Dialogue: 0,0:45:00.86,0:45:03.66,English,,0,0,0,,And again, if I'm right.\N{\rChinese}再说一次，如果我没错。
+Dialogue: 0,0:45:03.90,0:45:06.10,English,,0,0,0,,And again, I don't know. I don't know if I'm right or not.\N{\rChinese}再说一次，我也不确定。我不知道自己是否正确。
+Dialogue: 0,0:45:06.94,0:45:10.26,English,,0,0,0,,Then we should expect that in late June,\N{\rChinese}然后我们应该预期在六月底
+Dialogue: 0,0:45:10.48,0:45:14.30,English,,0,0,0,,Mohammed Markbar wins the election and his rhetoric\N{\rChinese}穆罕默德·马克巴尔赢得选举，他的演说
+Dialogue: 0,0:45:15.16,0:45:17.00,English,,0,0,0,,becomes much more extremist.\N{\rChinese}变得更极端。
+Dialogue: 0,0:45:17.80,0:45:19.46,English,,0,0,0,,We need to take a fight to America.\N{\rChinese}我们需要把战斗带到美国。
+Dialogue: 0,0:45:20.32,0:45:22.36,English,,0,0,0,,We need to avenge Soleimani.\N{\rChinese}我们需要为索莱曼尼报仇
+Dialogue: 0,0:45:24.38,0:45:26.56,English,,0,0,0,,We can also expect that\N{\rChinese}我们也可以预期
+Dialogue: 0,0:45:26.56,0:45:31.20,English,,0,0,0,,the fighting in the Middle East becomes much more extreme.\N{\rChinese}中东战事变得更激烈。
+Dialogue: 0,0:45:32.80,0:45:34.36,English,,0,0,0,,Okay? So, I'm going to stop here.\N{\rChinese}好的？那我就到此为止。
+Dialogue: 0,0:45:34.36,0:45:35.62,English,,0,0,0,,I'm going to stop. I'm going to stop.\N{\rChinese}我就停下来了。
+Dialogue: 0,0:45:35.62,0:45:37.28,English,,0,0,0,,And we should see escalation.\N{\rChinese}我们应该看到事态升级。
+Dialogue: 0,0:45:38.58,0:45:40.88,English,,0,0,0,,The acceleration of the nuclear program,\N{\rChinese}核计划的加速,
+Dialogue: 0,0:45:41.14,0:45:44.12,English,,0,0,0,,proxies become much more violent.\N{\rChinese}代理人更激烈。
+Dialogue: 0,0:45:44.90,0:45:47.34,English,,0,0,0,,Shipping is disturbed.\N{\rChinese}航运受扰。
+Dialogue: 0,0:45:47.78,0:45:51.08,English,,0,0,0,,And you have a terror campaign throughout the world.\N{\rChinese}并且你在全球开展恐怖行动。
+Dialogue: 0,0:45:51.58,0:45:53.58,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}好？这有道理吗？
+Dialogue: 0,0:45:54.86,0:45:56.92,English,,0,0,0,,All right. But again, I don't know.\N{\rChinese}好的。再说一次，我也不确定。
+Dialogue: 0,0:45:57.76,0:46:00.86,English,,0,0,0,,And also, by the way, just because\N{\rChinese}另外，顺便说一句，仅仅因为
+Dialogue: 0,0:46:00.86,0:46:03.86,English,,0,0,0,,these things might happen, does not mean\N{\rChinese}这些事可能发生，未必意味着
+Dialogue: 0,0:46:03.86,0:46:06.00,English,,0,0,0,,that we're going to see a lot of people kill.\N{\rChinese}我们将看到很多人被杀
+Dialogue: 0,0:46:06.82,0:46:08.46,English,,0,0,0,,Okay? Do you understand?\N{\rChinese}好？你明白了吗？
+Dialogue: 0,0:46:08.86,0:46:11.78,English,,0,0,0,,But I'm saying that if,\N{\rChinese}但我说的是如果，
+Dialogue: 0,0:46:11.98,0:46:15.52,English,,0,0,0,,in fact, the Revolutionary Guard Corp did kill Raisi,\N{\rChinese}实际上，革命卫队军团确实杀了赖西，然后我们就会看到这些事发生。
+Dialogue: 0,0:46:15.68,0:46:18.16,English,,0,0,0,,then we should see these things happening.\N{\rChinese}随后我们就会看到这些事发生。
+Dialogue: 0,0:46:18.64,0:46:22.12,English,,0,0,0,,But just because these things happen does not mean that\N{\rChinese}但仅仅因为这些事发生，并不意味着赖西被杀。
+Dialogue: 0,0:46:22.12,0:46:24.00,English,,0,0,0,,Raisi was killed.\N{\rChinese}赖西被杀。
+Dialogue: 0,0:46:24.14,0:46:26.56,English,,0,0,0,,Okay? Does that make sense? All right.\N{\rChinese}好的？这样说通吗？好吧。
+Dialogue: 0,0:46:27.52,0:46:30.72,English,,0,0,0,,Any more questions? So, you're saying that\N{\rChinese}还有别的问题吗？所以，你是说……
+Dialogue: 0,0:46:30.72,0:46:34.78,English,,0,0,0,,the war is going to be more international or maybe it's going to be more global?\N{\rChinese}战争会更国际化，还是更全球化？
+Dialogue: 0,0:46:37.30,0:46:41.66,English,,0,0,0,,Okay. So, Celine's question is, how will they fight the war?\N{\rChinese}好的。塞琳的问题是：他们将如何打这场战争？
+Dialogue: 0,0:46:42.42,0:46:44.90,English,,0,0,0,,And they can only fight the war in one way, which\N{\rChinese}他们只能用一种方式来打这场战争，
+Dialogue: 0,0:46:44.90,0:46:47.38,English,,0,0,0,,is to lure the Americans into attacking Iran.\N{\rChinese}那就是诱使美国人去攻击伊朗。
+Dialogue: 0,0:46:48.26,0:46:52.22,English,,0,0,0,,Okay? Does that make sense? It is suicide to attack America in the open.\N{\rChinese}好的？这样说通吗？在公开攻击美国是自杀。
+Dialogue: 0,0:46:52.68,0:46:55.50,English,,0,0,0,,Remember that America has shock and awe, which means that\N{\rChinese}记住美国有冲击与震撼，这意味着它拥有空中霸权。
+Dialogue: 0,0:46:55.50,0:46:58.64,English,,0,0,0,,they have air supremacy, which means they have satellites\N{\rChinese}它们拥有卫星。
+Dialogue: 0,0:46:58.64,0:47:02.18,English,,0,0,0,,that can see everything that you do, which means they have special forces.\N{\rChinese}那能看到你所做的一切，意味着他们拥有特种部队。
+Dialogue: 0,0:47:02.48,0:47:04.82,English,,0,0,0,,Okay? It is suicide to\N{\rChinese}好？在公开攻击美国是自杀。
+Dialogue: 0,0:47:04.82,0:47:09.30,English,,0,0,0,,attack America in the open.\N{\rChinese}attack America in the open.
+Dialogue: 0,0:47:09.88,0:47:14.48,English,,0,0,0,,So what Iran needs to do is trick America into invading Iran,\N{\rChinese}于是伊朗需要做的就是把美国诱使去侵略伊朗，
+Dialogue: 0,0:47:14.78,0:47:17.62,English,,0,0,0,,and then America would lose for sure.\N{\rChinese}然后美国一定会输的。
+Dialogue: 0,0:47:18.24,0:47:20.58,English,,0,0,0,,Okay? And that's something that we'll discuss next week.\N{\rChinese}好？这件事我们下周再讨论。
+Dialogue: 0,0:47:20.76,0:47:22.32,English,,0,0,0,,But that's what they have to do.\N{\rChinese}但那就是他们必须做的事。
+Dialogue: 0,0:47:22.64,0:47:25.50,English,,0,0,0,,And again, if they provoke America enough,\N{\rChinese}再说一次，如果他们足够挑衅美国，
+Dialogue: 0,0:47:25.80,0:47:29.34,English,,0,0,0,,then America will eventually get angry enough to send an invasion force against Iran.\N{\rChinese}美国最终会愈发愤怒，派遣侵略部队进攻伊朗。
+Dialogue: 0,0:47:30.02,0:47:31.70,English,,0,0,0,,Does that make sense? Okay.\N{\rChinese}这有道理吗？好的。
+Dialogue: 0,0:47:31.70,0:47:32.74,English,,0,0,0,,Any more questions?\N{\rChinese}还有问题吗？
+Dialogue: 0,0:47:40.40,0:47:43.84,English,,0,0,0,,Is this clear to you guys, the logic here?\N{\rChinese}你们明白这里的逻辑了吗？
+Dialogue: 0,0:47:44.48,0:47:47.76,English,,0,0,0,,Okay? So again,\N{\rChinese}好的？再说一次，
+Dialogue: 0,0:47:48.22,0:47:49.60,English,,0,0,0,,this is all speculation.\N{\rChinese}这全是推测。
+Dialogue: 0,0:47:49.96,0:47:53.24,English,,0,0,0,,I have no actual information or evidence.\N{\rChinese}我没有实际信息或证据。
+Dialogue: 0,0:47:53.44,0:47:56.28,English,,0,0,0,,Okay? I'm just saying, okay, Raisi died,\N{\rChinese}好的？我只是说，好的，赖西去世了，可能是意外。
+Dialogue: 0,0:47:56.56,0:47:58.28,English,,0,0,0,,and it was probably an accident.\N{\rChinese}但如果不是意外，谁最能从中受益？
+Dialogue: 0,0:47:58.68,0:48:01.64,English,,0,0,0,,But if it was not an accident, then who would most benefit?\N{\rChinese}答案是革命卫队团，因为他们把他视为直接威胁。
+Dialogue: 0,0:48:01.64,0:48:03.52,English,,0,0,0,,Who would benefit from killing him or his death?\N{\rChinese}谁会从杀死他或他的死亡中获益？
+Dialogue: 0,0:48:03.70,0:48:07.00,English,,0,0,0,,And the answer is the Revolutionary Guard Corps,\N{\rChinese}答案是革命卫队团
+Dialogue: 0,0:48:07.12,0:48:09.64,English,,0,0,0,,because they see him as a direct threat to their authority.\N{\rChinese}因为他们把他视为对其权威的直接威胁。
+Dialogue: 0,0:48:10.40,0:48:13.90,English,,0,0,0,,Okay? But at the same time, what's important to remember is\N{\rChinese}好的？但与此同时，记住的重点是
+Dialogue: 0,0:48:13.90,0:48:18.88,English,,0,0,0,,that any new leader would see these guys as a problem,\N{\rChinese}新的领导人会把这些人视为问题
+Dialogue: 0,0:48:19.08,0:48:23.30,English,,0,0,0,,because they have too much power, and they are creating too much tension overseas.\N{\rChinese}因为他们拥有过多的权力，且在海外制造过多的紧张
+Dialogue: 0,0:48:24.22,0:48:25.50,English,,0,0,0,,And they're too fanatical.\N{\rChinese}而且他们太狂热了。
+Dialogue: 0,0:48:25.88,0:48:28.28,English,,0,0,0,,Okay? And so...\N{\rChinese}好？于是……
+Dialogue: 0,0:48:30.76,0:48:32.80,English,,0,0,0,,It's mostly... It's most likely that\N{\rChinese}大体上……最有可能是
+Dialogue: 0,0:48:32.80,0:48:35.92,English,,0,0,0,,they would want to elevate Mostaba Khomeini,\N{\rChinese}他们会想提升莫斯塔巴·霍梅尼
+Dialogue: 0,0:48:36.06,0:48:39.00,English,,0,0,0,,because Mostaba Khomeini is not popular, and\N{\rChinese}因为莫斯塔巴·霍梅尼不受欢迎，且
+Dialogue: 0,0:48:39.00,0:48:42.64,English,,0,0,0,,he would have to be loyal to the Revolutionary Guard Corps,\N{\rChinese}他必须对革命卫队忠诚
+Dialogue: 0,0:48:43.36,0:48:45.68,English,,0,0,0,,or he would need their help to maintain power.\N{\rChinese}或者他需要他们的帮助来维持权力。
+Dialogue: 0,0:48:46.88,0:48:48.78,English,,0,0,0,,Okay? But I...\N{\rChinese}好？但我……
+Dialogue: 0,0:48:48.78,0:48:50.50,English,,0,0,0,,Okay. Does that make sense, guys?\N{\rChinese}好的。这样说通吗，大家？
+Dialogue: 0,0:48:51.48,0:48:53.34,English,,0,0,0,,All right? So next class,\N{\rChinese}好的？那接下来一节课，
+Dialogue: 0,0:48:53.46,0:48:58.10,English,,0,0,0,,we'll discuss what an actual war between the United States and Iran would look like.\N{\rChinese}我们来讨论美国和伊朗真正开战会是什么样子。
+Dialogue: 0,0:48:58.58,0:49:00.58,English,,0,0,0,,And what's important to remember is that...\N{\rChinese}重要的是要记住……
+Dialogue: 0,0:49:00.58,0:49:03.70,English,,0,0,0,,I've been slacking off for a while. I've been saying all semester that\N{\rChinese}我最近有点懒散。整学期我都说美国会赢得这场战争，但从没说过伊朗会赢得这场战争。
+Dialogue: 0,0:49:03.70,0:49:08.24,English,,0,0,0,,the United States will lose the war, but never have I said that Iran will win the war.\N{\rChinese}好？原因是这样。
+Dialogue: 0,0:49:09.06,0:49:11.26,English,,0,0,0,,Okay? And the reason why is that\N{\rChinese}Okay? And the reason why is that
+Dialogue: 0,0:49:11.26,0:49:15.28,English,,0,0,0,,this war will be brutal for Iran.\N{\rChinese}这场战争对伊朗将会很残酷。
+Dialogue: 0,0:49:16.22,0:49:18.64,English,,0,0,0,,Tens of millions of people will die for no reason.\N{\rChinese}数千万人将无缘无故死亡。
+Dialogue: 0,0:49:19.12,0:49:21.50,English,,0,0,0,,And that's why policies like Raisi and\N{\rChinese}这就是拉伊西等政策的原因。
+Dialogue: 0,0:49:21.50,0:49:24.82,English,,0,0,0,,others are like, let's not go to war.\N{\rChinese}其他人说，别去打仗。
+Dialogue: 0,0:49:25.02,0:49:27.00,English,,0,0,0,,Okay? All right.\N{\rChinese}好的？那就这样。
+Dialogue: 0,0:49:27.08,0:49:28.96,English,,0,0,0,,So I'll see you guys next week.\N{\rChinese}那我下周见你们。

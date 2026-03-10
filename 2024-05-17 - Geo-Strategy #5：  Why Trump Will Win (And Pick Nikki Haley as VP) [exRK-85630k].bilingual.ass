@@ -1,0 +1,710 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.82,0:00:03.42,English,,0,0,0,,Okay, so let's begin class.\N{\rChinese}好的，开始上课。
+Dialogue: 0,0:00:03.88,0:00:09.02,English,,0,0,0,,And today we are discussing whether or not Trump will win in November.\N{\rChinese}今天我们讨论特朗普是否会在十一月赢得选举。
+Dialogue: 0,0:00:09.76,0:00:13.34,English,,0,0,0,,And I'm making the prediction that he will win in November\N{\rChinese}我预测他会在十一月赢得选举。
+Dialogue: 0,0:00:13.34,0:00:14.56,English,,0,0,0,,and that\N{\rChinese}以及那点
+Dialogue: 0,0:00:14.56,0:00:18.38,English,,0,0,0,,he will pick Nikki Haley as his vice president.\N{\rChinese}他将挑选尼基·海利为副总统。
+Dialogue: 0,0:00:19.06,0:00:21.72,English,,0,0,0,,Okay, so let me make you the argument today.\N{\rChinese}好了，接下来我给你们讲个论点。
+Dialogue: 0,0:00:22.54,0:00:27.32,English,,0,0,0,,Okay, so let's first discuss why Biden won in 2020\N{\rChinese}好的，先来讨论一下拜登在2020年赢得选举的原因。
+Dialogue: 0,0:00:27.32,0:00:30.14,English,,0,0,0,,and why it's possible\N{\rChinese}然后再说说今年他可能会输的可能性。
+Dialogue: 0,0:00:30.14,0:00:33.32,English,,0,0,0,,that he may lose this year.\N{\rChinese}（此处可补充）
+Dialogue: 0,0:00:33.76,0:00:36.04,English,,0,0,0,,Okay, so in 2020,\N{\rChinese}好的，2020年是……
+Dialogue: 0,0:00:36.46,0:00:39.40,English,,0,0,0,,it was a very special year in American politics\N{\rChinese}那一年美国政治格局特别特殊……
+Dialogue: 0,0:00:39.40,0:00:42.26,English,,0,0,0,,because it was a larger,\N{\rChinese}因为投票人数比往年多……
+Dialogue: 0,0:00:42.26,0:00:46.96,English,,0,0,0,,it was the largest turnout in American history since about 1900.\N{\rChinese}自1900年以来，美国历史上最大的投票率。
+Dialogue: 0,0:00:47.80,0:00:51.14,English,,0,0,0,,Okay, so 74 million people voted for Trump.\N{\rChinese}好，74万投票给特朗普。
+Dialogue: 0,0:00:52.22,0:00:55.08,English,,0,0,0,,For Biden, 81 million people voted for him.\N{\rChinese}81万投票给拜登。
+Dialogue: 0,0:00:57.42,0:01:01.20,English,,0,0,0,,And two out of every three American adults came out to vote.\N{\rChinese}并且每三位美国成年人中有两位投票。
+Dialogue: 0,0:01:01.42,0:01:04.14,English,,0,0,0,,Okay, so it was the largest turnout in American history.\N{\rChinese}好，2020年是美国历史上最大的投票率。
+Dialogue: 0,0:01:05.62,0:01:11.30,English,,0,0,0,,It doesn't, it sounds like a very lopsided victory for Biden,\N{\rChinese}听起来像是拜登的绝对大胜。
+Dialogue: 0,0:01:11.52,0:01:13.22,English,,0,0,0,,81 million versus 74 million.\N{\rChinese}8100万对比7400万。
+Dialogue: 0,0:01:13.48,0:01:16.96,English,,0,0,0,,But because America has an electoral college system,\N{\rChinese}但因为美国有选举团制度，
+Dialogue: 0,0:01:18.92,0:01:21.70,English,,0,0,0,,which is not director -elected,\N{\rChinese}它不是直接选举的。
+Dialogue: 0,0:01:21.72,0:01:23.40,English,,0,0,0,,it's not a democratic democracy, actually,\N{\rChinese}它并不是一次真正的民主投票，
+Dialogue: 0,0:01:23.46,0:01:28.42,English,,0,0,0,,the margin of victory was only 65,000 votes.\N{\rChinese}胜利差距仅有65,000票。
+Dialogue: 0,0:01:28.56,0:01:34.46,English,,0,0,0,,Meaning that if 65,000 people in key battleground states flipped their votes,\N{\rChinese}也就是说，如果关键摇摆州的65,000人投票翻转，
+Dialogue: 0,0:01:34.58,0:01:36.14,English,,0,0,0,,then Trump would have won.\N{\rChinese}然后特朗普就赢了。
+Dialogue: 0,0:01:36.40,0:01:39.48,English,,0,0,0,,Okay, so the margin of victory was very, very close,\N{\rChinese}好的，胜利差距非常非常接近，
+Dialogue: 0,0:01:39.66,0:01:44.18,English,,0,0,0,,as is usually the case in highly contested American elections.\N{\rChinese}正如在高度竞争的美国选举中常见的情况。
+Dialogue: 0,0:01:44.86,0:01:48.28,English,,0,0,0,,So let's understand the coalition that\N{\rChinese}于是我们来了解这个联盟
+Dialogue: 0,0:01:48.28,0:01:50.68,English,,0,0,0,,brought Biden into the White House.\N{\rChinese}把拜登送进白宫。
+Dialogue: 0,0:01:50.68,0:01:52.00,English,,0,0,0,,Okay, so\N{\rChinese}好的，所以。
+Dialogue: 0,0:01:52.00,0:01:57.96,English,,0,0,0,,the first major component of this coalition are black people.\N{\rChinese}第一大组成部分是黑人。
+Dialogue: 0,0:01:58.80,0:02:02.68,English,,0,0,0,,91% of all blacks voted for Biden.\N{\rChinese}91%的黑人投票给拜登。
+Dialogue: 0,0:02:02.80,0:02:04.34,English,,0,0,0,,Only 8% voted for Trump.\N{\rChinese}仅有8%投票给特朗普。
+Dialogue: 0,0:02:04.76,0:02:08.42,English,,0,0,0,,That's a huge majority for Biden.\N{\rChinese}这对拜登来说是大多数。
+Dialogue: 0,0:02:09.20,0:02:13.92,English,,0,0,0,,So why did so many black people vote for Biden in 2020?\N{\rChinese}那么，为什么那么多的黑人在2020年投票给拜登？
+Dialogue: 0,0:02:14.42,0:02:17.00,English,,0,0,0,,Well, first of all, it's because\N{\rChinese}首先，原因是……
+Dialogue: 0,0:02:18.40,0:02:21.60,English,,0,0,0,,Biden was Obama's vice president for eight years.\N{\rChinese}拜登曾是奥巴马的副总统八年。
+Dialogue: 0,0:02:21.80,0:02:26.82,English,,0,0,0,,And so a lot of older black people had a certain loyalty to him.\N{\rChinese}于是很多年长的黑人对他有一定的忠诚。
+Dialogue: 0,0:02:27.06,0:02:30.30,English,,0,0,0,,Okay, they felt that we owe this man because\N{\rChinese}好的，他们觉得我们欠这位先生，因为
+Dialogue: 0,0:02:30.30,0:02:35.08,English,,0,0,0,,he served loyally to our man, Barack Obama, for eight years.\N{\rChinese}他忠诚地为我们的男人巴拉克·奥巴马服务了八年。
+Dialogue: 0,0:02:35.26,0:02:37.76,English,,0,0,0,,And so now we must bring him into the White House.\N{\rChinese}于是现在我们必须把他带进白宫。
+Dialogue: 0,0:02:38.44,0:02:40.80,English,,0,0,0,,But this year, the debt is paid off, right?\N{\rChinese}但今年债务已付清，对吗？
+Dialogue: 0,0:02:41.36,0:02:44.04,English,,0,0,0,,So they won't feel so loyal to Biden.\N{\rChinese}于是他们对拜登的忠诚度就不那么高了。
+Dialogue: 0,0:02:44.16,0:02:46.14,English,,0,0,0,,Okay. Also in 2020,\N{\rChinese}好的。还有在2020年，
+Dialogue: 0,0:02:46.98,0:02:50.10,English,,0,0,0,,there's something called a George Floyd protest.\N{\rChinese}有个叫做“乔治·弗洛伊德”抗议的事。
+Dialogue: 0,0:02:51.64,0:02:53.40,English,,0,0,0,,So what happened was that\N{\rChinese}于是发生的事是这样：
+Dialogue: 0,0:02:54.56,0:02:56.18,English,,0,0,0,,in May 2020,\N{\rChinese}2020年5月，
+Dialogue: 0,0:02:56.68,0:02:59.62,English,,0,0,0,,a black man in Minneapolis, George Floyd,\N{\rChinese}明尼阿波利斯的黑人乔治·弗洛伊德
+Dialogue: 0,0:02:59.86,0:03:03.66,English,,0,0,0,,he was strangled to death by a white police officer.\N{\rChinese}他被一名白人警察扼住喉咙致死。
+Dialogue: 0,0:03:03.82,0:03:07.38,English,,0,0,0,,It was captured on video and it caused a national uproar.\N{\rChinese}它被拍成视频并引发全国性骚乱。
+Dialogue: 0,0:03:07.64,0:03:11.18,English,,0,0,0,,In fact, there were riots\N{\rChinese}实际上，发生了骚乱
+Dialogue: 0,0:03:11.18,0:03:12.84,English,,0,0,0,,and protests throughout the country.\N{\rChinese}并在全国掀起示威。
+Dialogue: 0,0:03:13.12,0:03:16.12,English,,0,0,0,,And Trump came out and did this.\N{\rChinese}随后特朗普出现并这么做了。
+Dialogue: 0,0:03:16.14,0:03:19.04,English,,0,0,0,,He did not acknowledge the pain that\N{\rChinese}他没有承认那份痛感
+Dialogue: 0,0:03:19.04,0:03:21.36,English,,0,0,0,,black people felt because of this death.\N{\rChinese}黑人因这起死亡事件而产生感受。
+Dialogue: 0,0:03:21.62,0:03:27.12,English,,0,0,0,,And so black people felt antipathy towards Trump. Okay.\N{\rChinese}于是黑人对特朗普产生了反感。好的。
+Dialogue: 0,0:03:27.46,0:03:33.08,English,,0,0,0,,So these are the two major reasons why black people voted for Biden in 2020.\N{\rChinese}所以这两点是黑人在2020年投票给拜登的主要原因。
+Dialogue: 0,0:03:34.94,0:03:36.50,English,,0,0,0,,But this year,\N{\rChinese}但今年，
+Dialogue: 0,0:03:38.04,0:03:39.46,English,,0,0,0,,Trump's not in office, right?\N{\rChinese}特朗普已经不在任了，对吗？
+Dialogue: 0,0:03:39.64,0:03:41.86,English,,0,0,0,,Biden's in office. So black people are asking the question,\N{\rChinese}拜登在任。于是黑人们在问……
+Dialogue: 0,0:03:42.18,0:03:44.80,English,,0,0,0,,what has Biden done for us these past four years?\N{\rChinese}拜登过去四年为我们做了什么？
+Dialogue: 0,0:03:46.14,0:03:50.08,English,,0,0,0,,And unfortunately, the answer is not that much.\N{\rChinese}不幸的是，答案并不多。
+Dialogue: 0,0:03:50.18,0:03:53.00,English,,0,0,0,,And in fact, you can make the argument that\N{\rChinese}而且，你可以这样论证：
+Dialogue: 0,0:03:53.00,0:03:58.34,English,,0,0,0,,Biden has really hurt the standard of living of black people.\N{\rChinese}拜登确实让黑人生活水平下降。
+Dialogue: 0,0:03:58.42,0:04:03.32,English,,0,0,0,,Why? Because inflation has gone up.\N{\rChinese}为什么？因为通胀上涨了。
+Dialogue: 0,0:04:03.52,0:04:05.52,English,,0,0,0,,Okay. When inflation goes up,\N{\rChinese}好的。当通胀上涨时，
+Dialogue: 0,0:04:06.46,0:04:08.62,English,,0,0,0,,it usually hurts poor people the most.\N{\rChinese}它通常最伤害的是贫困人群。
+Dialogue: 0,0:04:08.74,0:04:10.76,English,,0,0,0,,Okay. The standard of living goes way down.\N{\rChinese}好的，生活水平大幅下降。
+Dialogue: 0,0:04:11.70,0:04:13.56,English,,0,0,0,,Also, illegal immigration\N{\rChinese}另外，非法移民也在增加。好。
+Dialogue: 0,0:04:15.40,0:04:16.62,English,,0,0,0,,has gone up. Okay.\N{\rChinese}于是，在2020年，特朗普离任时。
+Dialogue: 0,0:04:16.84,0:04:19.84,English,,0,0,0,,So in 2020, when Trump left office,\N{\rChinese}So in 2020, whenTrump left office,
+Dialogue: 0,0:04:20.04,0:04:23.20,English,,0,0,0,,there were about 10 million illegal immigrants in America.\N{\rChinese}美国有大约一千万非法移民。
+Dialogue: 0,0:04:23.48,0:04:26.56,English,,0,0,0,,Now there are 20 million illegal immigrants in America.\N{\rChinese}现在美国有两千万非法移民。
+Dialogue: 0,0:04:26.74,0:04:31.00,English,,0,0,0,,And it seems like Biden's doing nothing to stop this trend.\N{\rChinese}看起来拜登什么也没做来阻止这个趋势。
+Dialogue: 0,0:04:31.66,0:04:34.78,English,,0,0,0,,And of course, when illegal immigrants come to the country,\N{\rChinese}当然，非法移民来到这个国家时，
+Dialogue: 0,0:04:34.96,0:04:37.50,English,,0,0,0,,they usually take the jobs of poor people.\N{\rChinese}他们通常抢走穷人的工作。
+Dialogue: 0,0:04:37.62,0:04:38.86,English,,0,0,0,,Okay. They bring wages down.\N{\rChinese}于是工资就下降了。
+Dialogue: 0,0:04:39.12,0:04:40.88,English,,0,0,0,,And that again hurts black people.\N{\rChinese}又一次又伤害了黑人。
+Dialogue: 0,0:04:41.30,0:04:43.36,English,,0,0,0,,And then third is Ukraine.\N{\rChinese}接着第三点是乌克兰。
+Dialogue: 0,0:04:44.36,0:04:48.68,English,,0,0,0,,So while the standard of living for black people\N{\rChinese}于是黑人生活水平下降。
+Dialogue: 0,0:04:48.68,0:04:51.14,English,,0,0,0,,and other poor people in America are going down,\N{\rChinese}以及美国其他贫困人群也在下降，
+Dialogue: 0,0:04:51.38,0:04:56.56,English,,0,0,0,,America is sending tens of billions of dollars to Ukraine to fight a war\N{\rChinese}美国向乌克兰拨出数百亿美元以作战斗，
+Dialogue: 0,0:04:56.56,0:05:00.54,English,,0,0,0,,that has nothing to do with America.\N{\rChinese}这与美国无关。
+Dialogue: 0,0:05:00.96,0:05:04.56,English,,0,0,0,,So many Americans see this as just bad leadership.\N{\rChinese}于是许多美国人把这看成只是糟糕的领导。
+Dialogue: 0,0:05:04.80,0:05:06.58,English,,0,0,0,,Okay. So that's black people.\N{\rChinese}好的。那就是黑人。
+Dialogue: 0,0:05:06.86,0:05:09.48,English,,0,0,0,,And recent polls show that\N{\rChinese}而最近的民调显示……
+Dialogue: 0,0:05:09.48,0:05:15.46,English,,0,0,0,,actually Biden's lead with black people is not a bad thing.\N{\rChinese}实际上拜登在黑人选民中的领先并不算坏事。
+Dialogue: 0,0:05:15.46,0:05:17.28,English,,0,0,0,,Not as much as it was in 2020.\N{\rChinese}比2020年少了不少。
+Dialogue: 0,0:05:17.50,0:05:19.84,English,,0,0,0,,Okay. So this lead is going down.\N{\rChinese}好的，这个领先正在下降。
+Dialogue: 0,0:05:20.30,0:05:22.36,English,,0,0,0,,Young people. Okay.\N{\rChinese}年轻人。好的。
+Dialogue: 0,0:05:22.48,0:05:26.46,English,,0,0,0,,Well, young people tend to vote Democratic in all elections.\N{\rChinese}嗯，年轻人往往在各次选举中投票给民主党。
+Dialogue: 0,0:05:27.48,0:05:32.22,English,,0,0,0,,And they were extremely galvanized to vote in 2020\N{\rChinese}他们在2020年投票热情高涨。
+Dialogue: 0,0:05:32.22,0:05:37.26,English,,0,0,0,,because they saw Trump as this very hateful racist\N{\rChinese}因为他们把特朗普视为极其可恨的种族主义者
+Dialogue: 0,0:05:37.26,0:05:38.66,English,,0,0,0,,that they must remove from office.\N{\rChinese}他必须从职务上移除。
+Dialogue: 0,0:05:38.88,0:05:42.94,English,,0,0,0,,Right. And they were driven to believe this because of the George Floyd protests.\N{\rChinese}对，正因乔治·弗洛伊德示威而产生此信念。
+Dialogue: 0,0:05:44.36,0:05:46.14,English,,0,0,0,,Unfortunately, this year,\N{\rChinese}不幸的是，今年，
+Dialogue: 0,0:05:46.28,0:05:50.46,English,,0,0,0,,young people may not feel compelled to vote for Biden.\N{\rChinese}年轻人可能不再被迫投票给拜登。
+Dialogue: 0,0:05:50.60,0:05:55.44,English,,0,0,0,,In fact, a lot of young people are choosing to sit out this election.\N{\rChinese}实际上，很多年轻人选择在这次选举中不投票。
+Dialogue: 0,0:05:56.00,0:05:57.48,English,,0,0,0,,Why? You guys know?\N{\rChinese}为什么？你们知道吗？
+Dialogue: 0,0:05:58.14,0:05:59.68,English,,0,0,0,,Gaza. Okay.\N{\rChinese}加沙。好的。
+Dialogue: 0,0:05:59.78,0:06:02.72,English,,0,0,0,,So as you know, right now,\N{\rChinese}所以正如你们所知，现在是……
+Dialogue: 0,0:06:02.72,0:06:04.46,English,,0,0,0,,throughout America on college campuses,\N{\rChinese}在美国各大专校园里，
+Dialogue: 0,0:06:04.74,0:06:07.68,English,,0,0,0,,young people are protesting the war in Gaza.\N{\rChinese}年轻人正在抗议加沙战争。
+Dialogue: 0,0:06:09.06,0:06:12.20,English,,0,0,0,,So these young people are not going to vote for Trump.\N{\rChinese}于是这些年轻人不会投票给特朗普。
+Dialogue: 0,0:06:12.28,0:06:13.20,English,,0,0,0,,Okay. But\N{\rChinese}好的。但
+Dialogue: 0,0:06:13.20,0:06:15.32,English,,0,0,0,,they probably will not vote for Biden as\N{\rChinese}他们大概不会投票给拜登，作为对美国通过以色列政策的抗议。
+Dialogue: 0,0:06:15.32,0:06:19.56,English,,0,0,0,,a protest against American policy via the Israel.\N{\rChinese}a protest against American policy via the Israel.
+Dialogue: 0,0:06:19.80,0:06:22.58,English,,0,0,0,,Okay. Now let's look at the college educated.\N{\rChinese}好的。现在我们来看看受过大学教育的人。
+Dialogue: 0,0:06:22.96,0:06:27.80,English,,0,0,0,,Okay. So 70% of people with college degrees voted for Biden.\N{\rChinese}好的。所以70%的大学学历者投票给拜登。
+Dialogue: 0,0:06:28.66,0:06:34.32,English,,0,0,0,,These are what we call the coastal elite.\N{\rChinese}这些就是我们所说的海岸精英。
+Dialogue: 0,0:06:34.46,0:06:38.46,English,,0,0,0,,Right. The coastal professional managerial elite.\N{\rChinese}右。海岸专业管理精英。
+Dialogue: 0,0:06:38.66,0:06:42.16,English,,0,0,0,,And they usually overwhelmingly vote Democratic.\N{\rChinese}他们通常压倒性投票给民主党。
+Dialogue: 0,0:06:42.16,0:06:44.26,English,,0,0,0,,And this year, they will still say the same.\N{\rChinese}今年他们仍会这么说。
+Dialogue: 0,0:06:44.64,0:06:47.02,English,,0,0,0,,But they will be less enthusiastic\N{\rChinese}但他们的热情会稍低
+Dialogue: 0,0:06:47.02,0:06:51.74,English,,0,0,0,,because of what they perceive to be poor global leadership.\N{\rChinese}因为他们认为全球领导力不足
+Dialogue: 0,0:06:52.22,0:06:56.22,English,,0,0,0,,Okay. Biden under Biden's watch, Ukraine blew up.\N{\rChinese}好的。拜登在位时，乌克兰爆炸
+Dialogue: 0,0:06:56.28,0:06:57.62,English,,0,0,0,,But so did Gaza.\N{\rChinese}但加沙也一样。
+Dialogue: 0,0:06:58.32,0:07:01.20,English,,0,0,0,,And many are starting to feel that it's because\N{\rChinese}而且许多人开始觉得这正是因为……
+Dialogue: 0,0:07:01.20,0:07:04.08,English,,0,0,0,,Biden comes across as too old,\N{\rChinese}拜登给人的印象太老了，
+Dialogue: 0,0:07:04.22,0:07:07.90,English,,0,0,0,,too weak, and too feeble to stand against Putin.\N{\rChinese}太弱，太脆弱，无法与普京抗衡。
+Dialogue: 0,0:07:08.40,0:07:12.14,English,,0,0,0,,Okay. So college educated people will still vote for Biden.\N{\rChinese}好的。所以受过大学教育的人仍会投票给拜登。
+Dialogue: 0,0:07:12.14,0:07:15.20,English,,0,0,0,,So overwhelmingly vote Democratic. That is the core Democratic base.\N{\rChinese}于是大多数投票给民主党。这就是核心民主党基础。
+Dialogue: 0,0:07:15.42,0:07:18.28,English,,0,0,0,,But they'll be less enthusiastic about Biden.\N{\rChinese}但他们对拜登的热情会稍低。
+Dialogue: 0,0:07:18.44,0:07:21.88,English,,0,0,0,,And they'll vote primarily against Trump.\N{\rChinese}他们主要会投票给普京。
+Dialogue: 0,0:07:22.04,0:07:24.14,English,,0,0,0,,Okay. Woman. Okay.\N{\rChinese}好的。女人。好的。
+Dialogue: 0,0:07:24.30,0:07:30.28,English,,0,0,0,,So 54% of women voted for Biden.\N{\rChinese}于是54%的女性投票给拜登。
+Dialogue: 0,0:07:30.48,0:07:33.20,English,,0,0,0,,44% voted for Trump.\N{\rChinese}44%投票给特朗普。
+Dialogue: 0,0:07:33.30,0:07:35.48,English,,0,0,0,,Okay. And again, because\N{\rChinese}好。再一次，因为
+Dialogue: 0,0:07:35.48,0:07:39.60,English,,0,0,0,,Trump is seen as this hateful figure.\N{\rChinese}特朗普被视为这位可恨的形象。
+Dialogue: 0,0:07:40.40,0:07:42.36,English,,0,0,0,,We expect that\N{\rChinese}我们预期它会。
+Dialogue: 0,0:07:42.36,0:07:45.24,English,,0,0,0,,woman will still consistently vote Democratic this year.\N{\rChinese}该女子今年仍将持续投票给民主党。
+Dialogue: 0,0:07:45.38,0:07:48.74,English,,0,0,0,,Okay. And also because of abortion issues.\N{\rChinese}好的。还有因为生育问题。
+Dialogue: 0,0:07:48.92,0:07:52.68,English,,0,0,0,,Right. So women are very passionate about abortion.\N{\rChinese}对。于是女性对生育问题非常热情。
+Dialogue: 0,0:07:52.96,0:07:56.32,English,,0,0,0,,And they will come out and vote for Biden to ensure\N{\rChinese}他们会出来投票给拜登以确保
+Dialogue: 0,0:07:56.32,0:07:59.08,English,,0,0,0,,that abortion rights are protected.\N{\rChinese}已保障生育权利。
+Dialogue: 0,0:07:59.74,0:08:02.40,English,,0,0,0,,Last, let's look at suburban voters.\N{\rChinese}最后，让我们看一下郊区选民。
+Dialogue: 0,0:08:02.54,0:08:04.20,English,,0,0,0,,Okay. So the suburbs.\N{\rChinese}好的。于是郊区。
+Dialogue: 0,0:08:04.32,0:08:07.58,English,,0,0,0,,The suburbs are between the cities, the urban areas, and the rural areas.\N{\rChinese}郊区位于城市、都市区与乡村之间。
+Dialogue: 0,0:08:07.70,0:08:12.48,English,,0,0,0,,Okay. Cities, urban areas, overwhelmingly support the Democratic Party.\N{\rChinese}好的。城市、都市区大多支持民主党。
+Dialogue: 0,0:08:12.96,0:08:17.16,English,,0,0,0,,Rural areas overwhelmingly support the Republican Party.\N{\rChinese}乡村区大多支持共和党。
+Dialogue: 0,0:08:17.58,0:08:21.16,English,,0,0,0,,So the suburbs are where the battleground is.\N{\rChinese}郊区就是战场所在。
+Dialogue: 0,0:08:22.06,0:08:23.34,English,,0,0,0,,And so if you look at 19,\N{\rChinese}于是如果你看2019年，
+Dialogue: 0,0:08:23.88,0:08:26.82,English,,0,0,0,,sorry, 2016,\N{\rChinese}抱歉，2016年。
+Dialogue: 0,0:08:26.82,0:08:29.96,English,,0,0,0,,when Trump defeated Hillary Clinton,\N{\rChinese}当特朗普击败希拉里·克林顿时
+Dialogue: 0,0:08:30.36,0:08:33.82,English,,0,0,0,,only 45% of\N{\rChinese}仅有45%的
+Dialogue: 0,0:08:34.42,0:08:36.58,English,,0,0,0,,the suburbs voted for Clinton.\N{\rChinese}郊区投票给克林顿
+Dialogue: 0,0:08:36.58,0:08:40.40,English,,0,0,0,,Which allowed Trump to defeat her in the election.\N{\rChinese}这使得特朗普在选举中击败她。
+Dialogue: 0,0:08:40.58,0:08:44.78,English,,0,0,0,,Okay. Now, what's interesting is that in 2020,\N{\rChinese}好的。接下来有趣的是在2020年，
+Dialogue: 0,0:08:45.24,0:08:46.88,English,,0,0,0,,this flipped and\N{\rChinese}这一点发生了翻转。
+Dialogue: 0,0:08:46.88,0:08:52.16,English,,0,0,0,,54% of suburban voters voted for Biden.\N{\rChinese}郊区选民中有54%投票给拜登。
+Dialogue: 0,0:08:52.60,0:08:55.96,English,,0,0,0,,That's a flip of 2 million voters.\N{\rChinese}这相当于两百万人投票翻转。
+Dialogue: 0,0:08:57.14,0:08:59.68,English,,0,0,0,,Okay. So in elections,\N{\rChinese}好，回到选举上。
+Dialogue: 0,0:08:59.80,0:09:02.50,English,,0,0,0,,usually it's a suburban vote that\N{\rChinese}通常是郊区选票决定选举，因为有摇摆选民。
+Dialogue: 0,0:09:02.50,0:09:05.82,English,,0,0,0,,determines the election because there's swing voters.\N{\rChinese}好的。于是我们来快速看看为什么。
+Dialogue: 0,0:09:06.02,0:09:08.76,English,,0,0,0,,Okay. So\N{\rChinese}Okay. So
+Dialogue: 0,0:09:08.76,0:09:10.52,English,,0,0,0,,for Trump to win this year,\N{\rChinese}为了让特朗普今年赢得胜利，
+Dialogue: 0,0:09:10.70,0:09:13.90,English,,0,0,0,,he needs to win the suburban vote.\N{\rChinese}他需要赢得郊区选票。
+Dialogue: 0,0:09:14.08,0:09:15.96,English,,0,0,0,,He won that in 2016.\N{\rChinese}他在2016年赢得了那一票。
+Dialogue: 0,0:09:16.18,0:09:18.58,English,,0,0,0,,He lost that in 2020. Okay.\N{\rChinese}他在2020年输了那一票。好了。
+Dialogue: 0,0:09:18.68,0:09:20.90,English,,0,0,0,,So let's examine very\N{\rChinese}于是我们来快速看看原因。
+Dialogue: 0,0:09:20.90,0:09:25.64,English,,0,0,0,,quickly why the\N{\rChinese}quickly why the
+Dialogue: 0,0:09:25.64,0:09:27.62,English,,0,0,0,,suburbs went Biden in 2020.\N{\rChinese}郊区在2020年投给拜登。
+Dialogue: 0,0:09:27.90,0:09:29.88,English,,0,0,0,,Okay. And there are three major reasons.\N{\rChinese}好的，还有三个主要原因。
+Dialogue: 0,0:09:30.00,0:09:36.22,English,,0,0,0,,The first is the media narrative. So\N{\rChinese}第一个是媒体叙事。
+Dialogue: 0,0:09:36.22,0:09:40.16,English,,0,0,0,,what's happening throughout Trump's presidency\N{\rChinese}特朗普执政期间发生的事
+Dialogue: 0,0:09:40.16,0:09:44.80,English,,0,0,0,,is basically the entire mainstream media got together\N{\rChinese}基本上，主流媒体聚在一起
+Dialogue: 0,0:09:44.80,0:09:48.38,English,,0,0,0,,and criticized Trump.\N{\rChinese}并批评特朗普。
+Dialogue: 0,0:09:48.70,0:09:52.22,English,,0,0,0,,Okay. So the first major criticism of Trump, if you remember,\N{\rChinese}好的。第一个主要批评是，若你记得，是他是俄国资产。
+Dialogue: 0,0:09:52.54,0:09:54.84,English,,0,0,0,,is he was a Russian asset.\N{\rChinese}好的。第一个主要批评是，若你记得，是他是俄国资产。
+Dialogue: 0,0:09:55.22,0:09:58.40,English,,0,0,0,,Okay. He was a paid Putin puppet.\N{\rChinese}好的。他是付费的普京傀儡。
+Dialogue: 0,0:09:58.64,0:10:01.54,English,,0,0,0,,And of course, that was just a complete lie.\N{\rChinese}当然，那只是完全的谎言。
+Dialogue: 0,0:10:01.70,0:10:02.92,English,,0,0,0,,What we call Russiagate. Okay.\N{\rChinese}我们称之为俄案。好了。
+Dialogue: 0,0:10:03.06,0:10:05.56,English,,0,0,0,,But then they start to say that\N{\rChinese}但随后他们开始说……
+Dialogue: 0,0:10:05.56,0:10:08.08,English,,0,0,0,,Trump was a divisive figure.\N{\rChinese}特朗普是一个分裂的形象。
+Dialogue: 0,0:10:08.98,0:10:10.38,English,,0,0,0,,Okay. And\N{\rChinese}好的。
+Dialogue: 0,0:10:10.38,0:10:13.54,English,,0,0,0,,this idea caught\N{\rChinese}这个想法在郊区抓住了想象。
+Dialogue: 0,0:10:13.54,0:10:16.90,English,,0,0,0,,the imagination of the suburbs.\N{\rChinese}这个想法在郊区抓住了想象。
+Dialogue: 0,0:10:17.10,0:10:20.30,English,,0,0,0,,Okay. Because if you live in the suburbs, you tend to be middle class.\N{\rChinese}好的。因为如果你住在郊区，你往往属于中产阶层。
+Dialogue: 0,0:10:20.54,0:10:22.56,English,,0,0,0,,You tend to be pretty wealthy and well educated.\N{\rChinese}你往往会相当富裕且受过良好教育。
+Dialogue: 0,0:10:22.76,0:10:26.66,English,,0,0,0,,So you like the status quo. You want a leader who's conservative\N{\rChinese}于是你喜欢现状。你想要一个保守的领袖
+Dialogue: 0,0:10:26.66,0:10:29.48,English,,0,0,0,,and who's a unifier.\N{\rChinese}并且是个统一者
+Dialogue: 0,0:10:30.00,0:10:32.66,English,,0,0,0,,And throughout the Trump presidency, we saw that.\N{\rChinese}在整个特朗普任期里我们都看见了这一点
+Dialogue: 0,0:10:32.66,0:10:35.04,English,,0,0,0,,We saw the polarization of politics.\N{\rChinese}我们看到了政治的两极化。
+Dialogue: 0,0:10:35.42,0:10:39.84,English,,0,0,0,,The left and the right hate each other and they fought all the time.\N{\rChinese}左翼与右翼互相仇恨，时常争斗。
+Dialogue: 0,0:10:40.16,0:10:44.58,English,,0,0,0,,And what really showed this was the George Floyd protests.\N{\rChinese}而真正体现这一点的是乔治·弗洛伊德示威。
+Dialogue: 0,0:10:45.32,0:10:49.96,English,,0,0,0,,So you had protesters rioting in the streets.\N{\rChinese}于是街头有示威者起义。
+Dialogue: 0,0:10:50.42,0:10:54.46,English,,0,0,0,,And Trump was like, let's send in the military to crush the protesters.\N{\rChinese}于是特朗普说，派军队去镇压示威者。
+Dialogue: 0,0:10:54.98,0:10:58.90,English,,0,0,0,,And so people in the suburbs were very worried about this.\N{\rChinese}于是郊区的人对此很担心。
+Dialogue: 0,0:10:59.02,0:11:02.56,English,,0,0,0,,They thought that a leader, the president, should be a uniter.\N{\rChinese}他们认为，领袖、总统应是团结者。
+Dialogue: 0,0:11:03.36,0:11:07.96,English,,0,0,0,,Right. And Biden came across as extremely steady,\N{\rChinese}对，拜登给人极稳重之感，像个老牌人。
+Dialogue: 0,0:11:08.20,0:11:11.24,English,,0,0,0,,as very establishment, as someone who\N{\rChinese}他是个……
+Dialogue: 0,0:11:11.24,0:11:14.84,English,,0,0,0,,could unite both the Republican Party and the Democratic Party.\N{\rChinese}可以把共和党和民主党都团结起来。
+Dialogue: 0,0:11:15.00,0:11:18.16,English,,0,0,0,,Okay. That was his perception in 2020.\N{\rChinese}好的。那是他在2020年的看法。
+Dialogue: 0,0:11:18.48,0:11:22.40,English,,0,0,0,,So that's the first major reason why the suburbs went Biden.\N{\rChinese}这就是郊区投票给拜登的首要原因。
+Dialogue: 0,0:11:22.80,0:11:25.78,English,,0,0,0,,Second was the pandemic.\N{\rChinese}第二点是疫情。
+Dialogue: 0,0:11:26.16,0:11:29.76,English,,0,0,0,,So as you know, COVID hit the United States.\N{\rChinese}正如你所知，COVID席卷美国。
+Dialogue: 0,0:11:29.92,0:11:33.98,English,,0,0,0,,And the suburbs were extremely freaked out about this\N{\rChinese}郊区对此极为惊慌。
+Dialogue: 0,0:11:33.98,0:11:36.38,English,,0,0,0,,because they tend to have children who go to school.\N{\rChinese}因为他们往往有孩子上学。
+Dialogue: 0,0:11:37.38,0:11:39.40,English,,0,0,0,,They tend to be older.\N{\rChinese}他们往往年纪大。
+Dialogue: 0,0:11:39.70,0:11:42.00,English,,0,0,0,,And they thought that\N{\rChinese}他们认为这样就行了。
+Dialogue: 0,0:11:42.00,0:11:46.28,English,,0,0,0,,Trump's handling of the pandemic was very incompetent.\N{\rChinese}特朗普对疫情的处理非常不称职。
+Dialogue: 0,0:11:46.42,0:11:49.32,English,,0,0,0,,Okay. He was an outsider,\N{\rChinese}好的。他是个外来人，
+Dialogue: 0,0:11:49.76,0:11:53.66,English,,0,0,0,,a political outsider. But that meant he could not get things done in Washington.\N{\rChinese}但这意味着他在华盛办事不顺利。
+Dialogue: 0,0:11:54.56,0:11:57.72,English,,0,0,0,,Okay. So that's the second problem with Trump.\N{\rChinese}好的。那就是特朗普的第二个问题。
+Dialogue: 0,0:11:57.96,0:11:59.70,English,,0,0,0,,And the third reason why\N{\rChinese}还有第三个原因是
+Dialogue: 0,0:11:59.70,0:12:05.34,English,,0,0,0,,the suburbs went Biden is Kamala Harris.\N{\rChinese}郊区投给拜登的是卡玛拉·哈里斯。
+Dialogue: 0,0:12:06.24,0:12:08.24,English,,0,0,0,,Okay. And this is key.\N{\rChinese}好的。关键点来了。
+Dialogue: 0,0:12:09.24,0:12:12.44,English,,0,0,0,,Biden picked Kamala Harris to\N{\rChinese}拜登挑选卡玛拉·哈里斯为副总统。
+Dialogue: 0,0:12:12.44,0:12:15.40,English,,0,0,0,,be his vice president.\N{\rChinese}be his vice president.
+Dialogue: 0,0:12:16.08,0:12:17.30,English,,0,0,0,,To be his running mate.\N{\rChinese}成为他的竞选搭档。
+Dialogue: 0,0:12:17.62,0:12:20.72,English,,0,0,0,,And Kamala Harris, let me tell you a little about Kamala Harris.\N{\rChinese}我来稍微介绍一下卡玛拉·哈里斯。
+Dialogue: 0,0:12:21.10,0:12:24.10,English,,0,0,0,,Her father is Jamaican.\N{\rChinese}她的父亲是牙买加人。
+Dialogue: 0,0:12:24.14,0:12:28.60,English,,0,0,0,,Her mother is Indian. And she has a younger sister.\N{\rChinese}她的母亲是印度人，她还有个妹妹。
+Dialogue: 0,0:12:29.28,0:12:30.62,English,,0,0,0,,But she was young.\N{\rChinese}但她还很年轻。
+Dialogue: 0,0:12:31.32,0:12:33.30,English,,0,0,0,,Her dad left the family.\N{\rChinese}她的父亲离开了家。
+Dialogue: 0,0:12:33.60,0:12:38.26,English,,0,0,0,,So her mom raised the two girls by herself.\N{\rChinese}她的妈妈独自抚养了这两个女孩。
+Dialogue: 0,0:12:40.14,0:12:42.88,English,,0,0,0,,And Kamala Harris is an extremely accomplished person.\N{\rChinese}卡玛拉·哈里斯是一位极为出色的人。
+Dialogue: 0,0:12:43.56,0:12:44.76,English,,0,0,0,,She went to Stanford.\N{\rChinese}她曾就读过斯坦福大学。
+Dialogue: 0,0:12:45.24,0:12:49.14,English,,0,0,0,,Then she became Attorney General of California.\N{\rChinese}然后她成为加利福尼亚州总检察长。
+Dialogue: 0,0:12:49.50,0:12:50.82,English,,0,0,0,,Then became a U.S.\N{\rChinese}随后她成为美国参议员。
+Dialogue: 0,0:12:50.84,0:12:52.42,English,,0,0,0,,Senator. Okay. And\N{\rChinese}好的。
+Dialogue: 0,0:12:52.42,0:12:55.98,English,,0,0,0,,there are three reasons why the suburbs love Kamala Harris.\N{\rChinese}有三个原因解释为什么郊区人喜欢卡玛拉·哈里斯。
+Dialogue: 0,0:12:56.26,0:12:57.46,English,,0,0,0,,Okay. First of all,\N{\rChinese}好的。首先，
+Dialogue: 0,0:12:57.50,0:13:03.38,English,,0,0,0,,like us.\N{\rChinese}像我们一样。
+Dialogue: 0,0:13:03.60,0:13:06.68,English,,0,0,0,,Okay. Meaning like she comes across as someone who\N{\rChinese}好的。也就是说她给人的印象是……
+Dialogue: 0,0:13:06.68,0:13:08.54,English,,0,0,0,,speaks and\N{\rChinese}说话像郊区人一样
+Dialogue: 0,0:13:08.54,0:13:11.90,English,,0,0,0,,thinks like people in the suburbs.\N{\rChinese}思考像郊区人一样
+Dialogue: 0,0:13:12.08,0:13:15.30,English,,0,0,0,,Okay. Well educated, articulate,\N{\rChinese}受过良好教育，口才好，聪明，保守。
+Dialogue: 0,0:13:15.78,0:13:17.18,English,,0,0,0,,smart, conservative.\N{\rChinese}受过良好教育，口才好，聪明，保守。
+Dialogue: 0,0:13:17.46,0:13:22.50,English,,0,0,0,,Okay. Second is she's seen as very establishment.\N{\rChinese}好的。第二点是她被视为非常建制派。
+Dialogue: 0,0:13:23.24,0:13:25.88,English,,0,0,0,,Meaning that she's not liberal.\N{\rChinese}也就是说她不是自由派。
+Dialogue: 0,0:13:25.88,0:13:29.36,English,,0,0,0,,In fact, when she was Attorney General of California,\N{\rChinese}事实上，她在加州总检察官任期内，刑事案件处理非常严厉。
+Dialogue: 0,0:13:29.78,0:13:32.32,English,,0,0,0,,she was extremely tough on crime.\N{\rChinese}她在加州总检察官任期内，刑事案件处理非常严厉。
+Dialogue: 0,0:13:32.58,0:13:35.62,English,,0,0,0,,She was trying to send as many people to jail as possible.\N{\rChinese}她试着把尽可能多的人送进监狱。
+Dialogue: 0,0:13:35.88,0:13:39.98,English,,0,0,0,,And sometimes, quite honestly, some of these people were innocent.\N{\rChinese}有时，真诚地说，其中有些人是无辜的。
+Dialogue: 0,0:13:40.28,0:13:42.44,English,,0,0,0,,Okay. And she still sent them to jail.\N{\rChinese}好的。她还是把他们送进监狱。
+Dialogue: 0,0:13:42.54,0:13:45.86,English,,0,0,0,,She was very controversial as Attorney General.\N{\rChinese}她在加州总检察官任期内颇具争议。
+Dialogue: 0,0:13:46.56,0:13:48.10,English,,0,0,0,,But guess what, guys?\N{\rChinese}但你猜怎么了，伙计们？
+Dialogue: 0,0:13:48.42,0:13:51.30,English,,0,0,0,,People in the suburbs like tough on crime.\N{\rChinese}郊区的人喜欢对犯罪严厉。
+Dialogue: 0,0:13:51.58,0:13:53.06,English,,0,0,0,,Okay. They want safety.\N{\rChinese}好的。他们想要安全。
+Dialogue: 0,0:13:53.20,0:13:54.80,English,,0,0,0,,They want security. They have kids.\N{\rChinese}他们想要安全。孩子们在。
+Dialogue: 0,0:13:55.76,0:13:57.48,English,,0,0,0,,Okay. And\N{\rChinese}好的。
+Dialogue: 0,0:13:57.48,0:14:01.08,English,,0,0,0,,the third reason why they like Kamala Harris is\N{\rChinese}第三个他们喜欢卡玛拉·哈里斯的原因是
+Dialogue: 0,0:14:01.08,0:14:03.88,English,,0,0,0,,because of the redemption story.\N{\rChinese}因为复兴的故事。
+Dialogue: 0,0:14:04.42,0:14:10.08,English,,0,0,0,,So, in 2019,\N{\rChinese}于是，2019年，
+Dialogue: 0,0:14:10.46,0:14:14.08,English,,0,0,0,,there's a Democratic primary. Okay. This is when\N{\rChinese}有一次民主党初选。好的。那时
+Dialogue: 0,0:14:14.08,0:14:18.02,English,,0,0,0,,the Democrats try to\N{\rChinese}民主党人试图
+Dialogue: 0,0:14:18.02,0:14:20.88,English,,0,0,0,,get a nomination for the general election.\N{\rChinese}获得大选的提名。
+Dialogue: 0,0:14:20.98,0:14:24.60,English,,0,0,0,,Okay. And there was a lot of people who\N{\rChinese}好的，很多人争夺提名，包括乔·拜登和卡玛拉·哈里斯。
+Dialogue: 0,0:14:24.60,0:14:28.88,English,,0,0,0,,are vying for the nomination, including Joe Biden and Kamala Harris.\N{\rChinese}在2019年6月，
+Dialogue: 0,0:14:29.12,0:14:30.44,English,,0,0,0,,In June 2019,\N{\rChinese}In June 2019,
+Dialogue: 0,0:14:31.10,0:14:35.14,English,,0,0,0,,there was the first Democratic debate.\N{\rChinese}有一次第一次民主党辩论。
+Dialogue: 0,0:14:36.08,0:14:39.02,English,,0,0,0,,Okay. And at this point, Kamala Harris and\N{\rChinese}好的。此时，卡玛拉·哈里斯和乔·拜登被视为夺得提名的重磅候选人。
+Dialogue: 0,0:14:39.02,0:14:44.08,English,,0,0,0,,Joe Biden were considered very heavy favorites to win the nomination.\N{\rChinese}Joe Biden were considered very heavy favorites to win the nomination.
+Dialogue: 0,0:14:44.56,0:14:46.38,English,,0,0,0,,And in that first debate,\N{\rChinese}在那场第一次辩论中，
+Dialogue: 0,0:14:46.74,0:14:51.12,English,,0,0,0,,Kamala Harris and Joe Biden got into a very serious fight.\N{\rChinese}卡玛拉·哈里斯和乔·拜登展开了一场激烈的争论。
+Dialogue: 0,0:14:51.12,0:14:53.94,English,,0,0,0,,And they had a very nasty argument on television.\N{\rChinese}他们在电视上争执得相当激烈。
+Dialogue: 0,0:14:54.34,0:14:58.48,English,,0,0,0,,Okay. So, what happened is that Kamala Harris turned to Joe Biden.\N{\rChinese}好的。于是，卡玛拉·哈里斯转向乔·拜登。
+Dialogue: 0,0:14:58.90,0:15:00.62,English,,0,0,0,,And Joe Biden is kind of shell -shocked.\N{\rChinese}乔·拜登有点像被震惊的样子。
+Dialogue: 0,0:15:00.72,0:15:02.02,English,,0,0,0,,Okay. He's kind of old.\N{\rChinese}好的。他有点老了。
+Dialogue: 0,0:15:02.36,0:15:06.20,English,,0,0,0,,And Kamala Harris is directing her words at him.\N{\rChinese}卡玛拉·哈里斯正把话说给他听。
+Dialogue: 0,0:15:06.28,0:15:07.80,English,,0,0,0,,And he doesn't really want to see her.\N{\rChinese}他并不想见她。
+Dialogue: 0,0:15:07.92,0:15:09.88,English,,0,0,0,,Okay. He doesn't really want to confront her.\N{\rChinese}他也不想跟她对峙。
+Dialogue: 0,0:15:10.16,0:15:13.72,English,,0,0,0,,And what Kamala Harris says to Joe Biden is,\N{\rChinese}凯玛拉·哈里斯对乔·拜登说，
+Dialogue: 0,0:15:13.92,0:15:17.80,English,,0,0,0,,Joe, you've been in Washington, D.C., for 50 years.\N{\rChinese}乔，你已经在华盛顿特区待了五十年。
+Dialogue: 0,0:15:18.74,0:15:21.10,English,,0,0,0,,And some of your policies I don't support.\N{\rChinese}而我不支持你的一些政策。
+Dialogue: 0,0:15:21.12,0:15:25.88,English,,0,0,0,,For example, you do not support the integration of black\N{\rChinese}例如，你不支持黑人融合
+Dialogue: 0,0:15:25.88,0:15:27.50,English,,0,0,0,,and white students together.\N{\rChinese}与白人学生一起。
+Dialogue: 0,0:15:28.40,0:15:29.66,English,,0,0,0,,Well, you know what, Joe?\N{\rChinese}好，乔，你知道吗？
+Dialogue: 0,0:15:29.94,0:15:31.16,English,,0,0,0,,I'm a black student.\N{\rChinese}我是黑人学生。
+Dialogue: 0,0:15:31.34,0:15:36.08,English,,0,0,0,,I was a black little girl, grew up in the 70s in California.\N{\rChinese}我是一名黑人小女孩，成长于70年代的加州。
+Dialogue: 0,0:15:36.66,0:15:39.74,English,,0,0,0,,And I got an opportunity to succeed in America\N{\rChinese}我在美国获得了成功的机会
+Dialogue: 0,0:15:39.74,0:15:42.56,English,,0,0,0,,because of integration, because I could go to white school.\N{\rChinese}因为融合，我可以去白人学校。
+Dialogue: 0,0:15:42.76,0:15:46.04,English,,0,0,0,,And you opposed my opportunity to succeed.\N{\rChinese}并且你阻碍了我的成功机会。
+Dialogue: 0,0:15:46.40,0:15:50.70,English,,0,0,0,,Okay. So, basically, she was calling.\N{\rChinese}好的。所以，基本上她在称呼。
+Dialogue: 0,0:15:50.70,0:15:52.42,English,,0,0,0,,She was calling Biden a racist.\N{\rChinese}她把拜登称为种族主义者。
+Dialogue: 0,0:15:54.32,0:15:59.12,English,,0,0,0,,And at that point, everyone thought that, okay, well, if Biden gets a nomination,\N{\rChinese}到那时，大家都认为，好的，嗯，如果拜登拿到提名，
+Dialogue: 0,0:15:59.66,0:16:04.98,English,,0,0,0,,there's no way he's going to pick her to be the VP.\N{\rChinese}他一定会把她选为副总统。
+Dialogue: 0,0:16:05.26,0:16:07.06,English,,0,0,0,,Okay. And then\N{\rChinese}好的。然后
+Dialogue: 0,0:16:07.06,0:16:11.78,English,,0,0,0,,he picks her to be the VP.\N{\rChinese}他挑选她为副总统。
+Dialogue: 0,0:16:12.24,0:16:13.96,English,,0,0,0,,And so what do people think about Biden?\N{\rChinese}那么人们对拜登的看法是什么？
+Dialogue: 0,0:16:15.24,0:16:16.94,English,,0,0,0,,What do people think of Biden?\N{\rChinese}人们对拜登的看法是什么？
+Dialogue: 0,0:16:17.12,0:16:19.60,English,,0,0,0,,What impression do people get because of this?\N{\rChinese}人们因这件事得到什么印象？
+Dialogue: 0,0:16:19.66,0:16:29.56,English,,0,0,0,,Anyone? Or there's no other impression or other\N{\rChinese}有人吗？或者没有其他印象，或者其他种类的印象。
+Dialogue: 0,0:16:29.56,0:16:34.94,English,,0,0,0,,sort of impression or other sort of impression.\N{\rChinese}还有其他种类的印象吗？
+Dialogue: 0,0:16:34.96,0:16:38.58,English,,0,0,0,,Or there's no other impression or other sort of impression or other sort of impression or other sort of impression or\N{\rChinese}还有其他种类的印象吗？
+Dialogue: 0,0:16:38.58,0:16:41.34,English,,0,0,0,,other sort of impression or other sort of impression or impression or other sort of impression or other sort of impression\N{\rChinese}还有其他种类的印象吗？
+Dialogue: 0,0:16:41.34,0:16:43.80,English,,0,0,0,,or other sort of impression\N{\rChinese}或者其他种类的印象
+Dialogue: 0,0:16:43.80,0:16:49.04,English,,0,0,0,,or empathy\N{\rChinese}或者共情
+Dialogue: 0,0:16:49.04,0:16:52.38,English,,0,0,0,,okay he understands that voters want from\N{\rChinese}好的，他明白选民想要的
+Dialogue: 0,0:16:52.38,0:16:53.72,English,,0,0,0,,that Harris okay and\N{\rChinese}那哈里斯好的和
+Dialogue: 0,0:16:53.72,0:16:58.20,English,,0,0,0,,guess what guys these three things doesn't hold grudges listens team player\N{\rChinese}猜猜看，兄弟们，这三件事不留怨，听得懂，团队球员
+Dialogue: 0,0:16:58.20,0:17:03.86,English,,0,0,0,,and empathy this is anti -trump right this is the anti -trump\N{\rChinese}和共情，这才是反特朗普的，才是反特朗普的
+Dialogue: 0,0:17:03.86,0:17:08.70,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:17:08.70,0:17:10.62,English,,0,0,0,,because of this narrative\N{\rChinese}因为这个叙事
+Dialogue: 0,0:17:11.30,0:17:14.28,English,,0,0,0,,woman especially woman in the suburbs\N{\rChinese}尤其是郊区的女性
+Dialogue: 0,0:17:14.28,0:17:18.08,English,,0,0,0,,went for Biden okay previously\N{\rChinese}于是她们投给拜登
+Dialogue: 0,0:17:18.08,0:17:20.50,English,,0,0,0,,that gone for Trump now they went for Biden because\N{\rChinese}那时他们投给特朗普，现在又投给拜登，因为……
+Dialogue: 0,0:17:20.50,0:17:23.02,English,,0,0,0,,as it turns out woman want\N{\rChinese}结果是女性想要……
+Dialogue: 0,0:17:25.54,0:17:28.42,English,,0,0,0,,compassionate empathetic leadership that\N{\rChinese}有同情、同理的领导力
+Dialogue: 0,0:17:28.42,0:17:30.74,English,,0,0,0,,is decisive and bold\N{\rChinese}决定性且大胆
+Dialogue: 0,0:17:30.74,0:17:34.72,English,,0,0,0,,but is also\N{\rChinese}但也同样
+Dialogue: 0,0:17:35.90,0:17:39.52,English,,0,0,0,,tolerant okay and that this is also why even\N{\rChinese}宽容，且这也是原因
+Dialogue: 0,0:17:39.52,0:17:42.06,English,,0,0,0,,though Hillary Clinton what like ran in 2016 and\N{\rChinese}虽然希拉里·克林顿在2016年跑过一次并且
+Dialogue: 0,0:17:42.06,0:17:45.06,English,,0,0,0,,she was a woman the suburbs didn't vote for her\N{\rChinese}她是个女人，郊区没有投她
+Dialogue: 0,0:17:45.06,0:17:48.08,English,,0,0,0,,because she was she didn't come across as someone who\N{\rChinese}因为她没给人一种……
+Dialogue: 0,0:17:48.08,0:17:50.86,English,,0,0,0,,was a woman and she was a woman and she was a woman and she was a woman and she was compassionate and forgiving and\N{\rChinese}她是个女人，她是个女人，她是个女人，她是个女人，她是个女人，她很有同情心，很宽容，且…
+Dialogue: 0,0:17:50.86,0:17:53.84,English,,0,0,0,,tolerant okay does that make sense and\N{\rChinese}宽容，嗯，这样说对吗？
+Dialogue: 0,0:17:53.84,0:17:57.30,English,,0,0,0,,this is why Biden was\N{\rChinese}这就是为什么拜登是…
+Dialogue: 0,0:17:57.30,0:17:59.94,English,,0,0,0,,able to win in 2020\N{\rChinese}能在2020年赢得胜利
+Dialogue: 0,0:17:59.94,0:18:02.40,English,,0,0,0,,so\N{\rChinese}于是
+Dialogue: 0,0:18:02.40,0:18:05.46,English,,0,0,0,,this year what can Trump do\N{\rChinese}今年特朗普能做什么
+Dialogue: 0,0:18:05.46,0:18:09.92,English,,0,0,0,,to win the suburbs what can you do\N{\rChinese}赢得郊区，你能做什么
+Dialogue: 0,0:18:09.92,0:18:16.28,English,,0,0,0,,yeah he\N{\rChinese}是的，他
+Dialogue: 0,0:18:16.28,0:18:19.18,English,,0,0,0,,can copy this exact same thing okay and\N{\rChinese}他可以复制这同样的事
+Dialogue: 0,0:18:19.18,0:18:22.02,English,,0,0,0,,it turns out he can do this okay why because\N{\rChinese}结果他能做到这点，为什么呢？
+Dialogue: 0,0:18:22.02,0:18:25.62,English,,0,0,0,,on the Republican side there's someone not called\N{\rChinese}在共和党那边有个人，叫做…
+Dialogue: 0,0:18:25.62,0:18:28.40,English,,0,0,0,,Nikki Kelly Nikki Kelly I'm sorry Nikki Haley\N{\rChinese}尼基·凯利，尼基·凯利，我说的是尼基·海利
+Dialogue: 0,0:18:28.40,0:18:30.58,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:18:30.58,0:18:33.28,English,,0,0,0,,Nikki Haley is very similar\N{\rChinese}尼基·海利很相似
+Dialogue: 0,0:18:33.28,0:18:35.54,English,,0,0,0,,to Kamala Harris okay\N{\rChinese}像卡玛拉·哈里斯
+Dialogue: 0,0:18:35.54,0:18:41.24,English,,0,0,0,,Nikki Haley her parents are Indian immigrants okay\N{\rChinese}尼基·海利的父母是印度移民，没错。
+Dialogue: 0,0:18:41.24,0:18:45.88,English,,0,0,0,,so she's Indian she's of South Asian this descent\N{\rChinese}所以她是印度人，属于南亚裔。
+Dialogue: 0,0:18:45.88,0:18:48.14,English,,0,0,0,,and her father is a Muslim and she's a Muslim and\N{\rChinese}她父亲是穆斯林，她本人也是穆斯林。
+Dialogue: 0,0:18:48.14,0:18:53.02,English,,0,0,0,,she's a Muslim now there's a Muslim\N{\rChinese}她是穆斯林，现在有一个穆斯林
+Dialogue: 0,0:18:53.02,0:18:55.92,English,,0,0,0,,there's a Muslim there's a Muslim there's a Muslim there's a Muslim\N{\rChinese}有一个穆斯林，有一个穆斯林，有一个穆斯林，有一个穆斯林
+Dialogue: 0,0:18:55.92,0:18:59.16,English,,0,0,0,,there's a Muslim there's a Muslim there's a Muslim there's a Muslim there's a Muslim there's a Muslim there's a Muslim there's a Muslim there's a Muslim there's a Muslim\N{\rChinese}有一个穆斯林，有一个穆斯林，有一个穆斯林，有一个穆斯林，有一个穆斯林，有一个穆斯林，有一个穆斯林
+Dialogue: 0,0:18:59.16,0:19:00.52,English,,0,0,0,,there's a Muslim there's a Muslim there's a Muslim there's a Muslim there's a Muslim there's a Muslim there's a Muslim there's a Muslim there's\N{\rChinese}有一个穆斯林，有一个穆斯林，有一个穆斯林，有一个穆斯林，有一个穆斯林，有一个穆斯林，有一个穆斯林，有一个穆斯林，有一个
+Dialogue: 0,0:19:00.52,0:19:02.44,English,,0,0,0,,a Muslim there's a Muslim\N{\rChinese}有一个穆斯林，有一个穆斯林
+Dialogue: 0,0:19:02.44,0:19:05.80,English,,0,0,0,,there's a Muslim\N{\rChinese}有一个穆斯林
+Dialogue: 0,0:19:05.80,0:19:08.88,English,,0,0,0,,there's a Muslim\N{\rChinese}有一个穆斯林
+Dialogue: 0,0:19:08.88,0:19:11.84,English,,0,0,0,,there's a Muslim\N{\rChinese}有一个穆斯林
+Dialogue: 0,0:19:11.84,0:19:15.44,English,,0,0,0,,there's a Muslim\N{\rChinese}有一个穆斯林
+Dialogue: 0,0:19:18.60,0:19:20.32,English,,0,0,0,,and even though\N{\rChinese}并且即便如此
+Dialogue: 0,0:19:20.32,0:19:23.90,English,,0,0,0,,she lost to Trump there was a group of people\N{\rChinese}她输给特朗普后，仍有一群人
+Dialogue: 0,0:19:23.90,0:19:26.66,English,,0,0,0,,who loved her guess who\N{\rChinese}他们喜欢她，猜测是……
+Dialogue: 0,0:19:26.66,0:19:28.42,English,,0,0,0,,just loved her who\N{\rChinese}刚刚喜欢她，猜测是……
+Dialogue: 0,0:19:28.42,0:19:31.08,English,,0,0,0,,voted for her in droves guess guess\N{\rChinese}投票给她的人在郊区猜测是……
+Dialogue: 0,0:19:31.08,0:19:33.14,English,,0,0,0,,what what demographic group anyone\N{\rChinese}什么什么人口群体……
+Dialogue: 0,0:19:33.14,0:19:39.20,English,,0,0,0,,sub -urban\N{\rChinese}郊区
+Dialogue: 0,0:19:39.20,0:19:42.66,English,,0,0,0,,woman okay you understand college educated suburban woman okay\N{\rChinese}大学教育的郊区女性，明白吧
+Dialogue: 0,0:19:42.66,0:19:48.64,English,,0,0,0,,so in other words if Trump brings her on to the ticket\N{\rChinese}换句话说，如果特朗普把她拉上车票
+Dialogue: 0,0:19:48.64,0:19:50.78,English,,0,0,0,,then\N{\rChinese}然后
+Dialogue: 0,0:19:50.78,0:19:54.78,English,,0,0,0,,it's very likely he can swing the suburbs back to him\N{\rChinese}他很可能把郊区重新拉回去
+Dialogue: 0,0:19:54.78,0:19:57.26,English,,0,0,0,,and win the election but\N{\rChinese}并赢得选举
+Dialogue: 0,0:19:57.26,0:20:00.28,English,,0,0,0,,there's a problem the problem is that\N{\rChinese}有个问题，问题是
+Dialogue: 0,0:20:00.28,0:20:01.94,English,,0,0,0,,Nikki Haley and\N{\rChinese}尼基·海利和
+Dialogue: 0,0:20:01.94,0:20:05.76,English,,0,0,0,,Trump got into a very nasty fight during the primary okay\N{\rChinese}特朗普在初选中打了一场很激烈的斗争
+Dialogue: 0,0:20:05.76,0:20:10.26,English,,0,0,0,,so Nikki Haley said listen I served under Trump\N{\rChinese}于是尼基·海利说：听着，我曾在特朗普手下服役
+Dialogue: 0,0:20:10.26,0:20:13.20,English,,0,0,0,,and I think he's going to win the election he's a divisive figure and\N{\rChinese}我认为他将赢得选举，他是个分裂人物，且现在我们的国家需要统一者
+Dialogue: 0,0:20:13.20,0:20:18.42,English,,0,0,0,,right now in our country we we need a unifier that's why I'm running for president\N{\rChinese}这就是我竞选总统的原因
+Dialogue: 0,0:20:18.42,0:20:22.80,English,,0,0,0,,because I want to unite this country whereas Trump can only divide this country okay\N{\rChinese}因为我想统一这个国家，而特朗普只能把它分裂。
+Dialogue: 0,0:20:22.80,0:20:26.08,English,,0,0,0,,and then Trump being Trump responds\N{\rChinese}随后，特朗普如常回应。
+Dialogue: 0,0:20:26.08,0:20:29.90,English,,0,0,0,,and says Nikki Haley is a birdbrain she's stupid okay\N{\rChinese}他说尼基·海利是个傻瓜，真是笨蛋。
+Dialogue: 0,0:20:29.90,0:20:31.36,English,,0,0,0,,so\N{\rChinese}于是
+Dialogue: 0,0:20:31.36,0:20:35.26,English,,0,0,0,,you think you see this you think like\N{\rChinese}你觉得你看到了这点，你会这样想
+Dialogue: 0,0:20:35.26,0:20:37.92,English,,0,0,0,,there's no way Trump will pick her because\N{\rChinese}没有办法让特朗普选她
+Dialogue: 0,0:20:37.92,0:20:41.48,English,,0,0,0,,Nikki Haley's not loyal to Trump right and Trump will pick her because she's a!\N{\rChinese}尼基·海利对特朗普不忠诚，特朗普会选她，因为她是个……！
+Dialogue: 0,0:20:41.50,0:20:43.56,English,,0,0,0,,И ему ему ему ему И\N{\rChinese}和他他他他和
+Dialogue: 0,0:20:43.56,0:20:47.94,English,,0,0,0,,ему ему ему И ему ему\N{\rChinese}他他他和他
+Dialogue: 0,0:20:47.94,0:20:51.70,English,,0,0,0,,ему И ему ему ему И ему ему ему И ему ему ему И ему ему ему\N{\rChinese}给他，给他他他，给他他他，给他他他
+Dialogue: 0,0:20:51.70,0:20:54.54,English,,0,0,0,,И ему ему ему И ему ему ему И ему ему ему И ему ему ему И\N{\rChinese}他他他他他
+Dialogue: 0,0:20:54.54,0:20:56.04,English,,0,0,0,,ему ему ему И ему ему ему И ему ему ему\N{\rChinese}他他他他
+Dialogue: 0,0:20:56.04,0:21:00.96,English,,0,0,0,,И ему ему ему И ему ему ему И ему ему И\N{\rChinese}他他他他…
+Dialogue: 0,0:21:00.96,0:21:04.66,English,,0,0,0,,ему ему И ему ему И ему ему И ему ему И ему ему И ему ему И\N{\rChinese}他他他他…
+Dialogue: 0,0:21:04.66,0:21:07.58,English,,0,0,0,,ему ему И ему\N{\rChinese}他他他
+Dialogue: 0,0:21:07.58,0:21:11.48,English,,0,0,0,,ему И ему ему\N{\rChinese}他他他
+Dialogue: 0,0:21:11.48,0:21:16.94,English,,0,0,0,,But let me ask you this question. If in August,\N{\rChinese}但请先问你一个问题。若在八月，
+Dialogue: 0,0:21:17.06,0:21:19.06,English,,0,0,0,,during the Republican convention,\N{\rChinese}在共和党大会期间，
+Dialogue: 0,0:21:19.72,0:21:22.72,English,,0,0,0,,he does pick Nikki Haley,\N{\rChinese}他确选尼基·海利
+Dialogue: 0,0:21:23.66,0:21:25.04,English,,0,0,0,,how would people feel about him?\N{\rChinese}人们会怎么感觉？
+Dialogue: 0,0:21:29.78,0:21:31.20,English,,0,0,0,,How would the media report this?\N{\rChinese}媒体会怎么报道这件事？
+Dialogue: 0,0:21:32.60,0:21:34.98,English,,0,0,0,,Nikki Haley is an enemy of Trump.\N{\rChinese}尼基·海利是特朗普的敌人。
+Dialogue: 0,0:21:35.22,0:21:36.96,English,,0,0,0,,Trump called her a bird brain.\N{\rChinese}特朗普称她是个傻瓜。
+Dialogue: 0,0:21:36.96,0:21:40.56,English,,0,0,0,,Trump said, I will never pick Nikki Haley.\N{\rChinese}特朗普说：我永远不会选尼基·海利。
+Dialogue: 0,0:21:41.06,0:21:45.28,English,,0,0,0,,And then in August, three months from now,\N{\rChinese}然后在八月，也就是三个月后
+Dialogue: 0,0:21:45.46,0:21:47.36,English,,0,0,0,,he says, you know what, I was wrong.\N{\rChinese}他说，知道了，我错了。
+Dialogue: 0,0:21:47.54,0:21:50.96,English,,0,0,0,,I think Nikki Haley is the best person to be my VP.\N{\rChinese}我认为尼基·海利是最合适合我的副总统人选。
+Dialogue: 0,0:21:51.42,0:21:54.00,English,,0,0,0,,That's why she'll be my running mate in November.\N{\rChinese}这就是她在十一月成为我的竞选搭档的原因。
+Dialogue: 0,0:21:54.68,0:21:56.32,English,,0,0,0,,How would people feel about him?\N{\rChinese}人们会怎么想他？
+Dialogue: 0,0:21:57.56,0:22:00.06,English,,0,0,0,,What would the suburbs think about Trump?\N{\rChinese}郊区人会怎么想特朗普？
+Dialogue: 0,0:22:04.12,0:22:05.88,English,,0,0,0,,How would you feel if you saw this?\N{\rChinese}如果你看到这个，你会怎么感觉？
+Dialogue: 0,0:22:14.90,0:22:18.18,English,,0,0,0,,Or you saw this now, or you saw this now, or you saw this now,\N{\rChinese}或者你现在看到这个，或者你现在看到这个，或者你现在看到这个，
+Dialogue: 0,0:22:18.18,0:22:22.12,English,,0,0,0,,or you saw this now.\N{\rChinese}或你现在看到这个。
+Dialogue: 0,0:22:22.12,0:22:23.76,English,,0,0,0,,Or you saw this now.\N{\rChinese}或你现在看到这个。
+Dialogue: 0,0:22:23.82,0:22:25.74,English,,0,0,0,,Or you saw this now. Or you saw this now.\N{\rChinese}或你现在看到这个。或你现在看到这个。
+Dialogue: 0,0:22:25.74,0:22:27.38,English,,0,0,0,,Or you saw this now. Or you saw this now.\N{\rChinese}或你现在看到这个。或你现在看到这个。
+Dialogue: 0,0:22:27.38,0:22:28.64,English,,0,0,0,,Or you saw this now.\N{\rChinese}或你现在看到这个。
+Dialogue: 0,0:22:28.64,0:22:30.64,English,,0,0,0,,Or you saw this now. Or you saw this now. Or you saw this now. Or you saw this now. Or you saw this now.\N{\rChinese}或你现在看到这个。或你现在看到这个。或你现在看到这个。或你现在看到这个。或你现在看到这个。
+Dialogue: 0,0:22:30.64,0:22:31.86,English,,0,0,0,,Or you saw this now. Or you saw this now.\N{\rChinese}或你现在看到这个。或你现在看到这个。
+Dialogue: 0,0:22:32.36,0:22:34.64,English,,0,0,0,,Or you saw this now.\N{\rChinese}或你现在看到这个。
+Dialogue: 0,0:22:35.06,0:22:36.72,English,,0,0,0,,Or you saw this now.\N{\rChinese}或你现在看到这个。
+Dialogue: 0,0:22:36.96,0:22:39.42,English,,0,0,0,,is he's divisive but much more than that\N{\rChinese}他是分裂的，但远不止于此
+Dialogue: 0,0:22:39.42,0:22:43.86,English,,0,0,0,,he's immature he's incapable of growth okay but hey\N{\rChinese}他还不成熟，成长能力不足，但好吧
+Dialogue: 0,0:22:44.73,0:22:48.48,English,,0,0,0,,if in august he picks nikki haley to be his vp\N{\rChinese}如果他在八月把尼基·黑利选为副总统
+Dialogue: 0,0:22:48.48,0:22:52.24,English,,0,0,0,,then the media will be like he is a changed man\N{\rChinese}然后媒体会说他变了
+Dialogue: 0,0:22:52.77,0:22:56.12,English,,0,0,0,,he's learned his lessons he's willing to let go\N{\rChinese}他学会了经验，愿意放下怨恨
+Dialogue: 0,0:22:56.12,0:22:59.56,English,,0,0,0,,of grudges he's willing to listen he now has empathy\N{\rChinese}他愿意倾听，已有同理
+Dialogue: 0,0:22:59.56,0:23:00.96,English,,0,0,0,,therefore\N{\rChinese}于是
+Dialogue: 0,0:23:00.96,0:23:04.42,English,,0,0,0,,he should be president okay do you understand\N{\rChinese}他应该当选总统，明白吗？
+Dialogue: 0,0:23:04.42,0:23:06.70,English,,0,0,0,,but then\N{\rChinese}然后
+Dialogue: 0,0:23:06.70,0:23:12.12,English,,0,0,0,,what happens is the suburbs switch over to trump\N{\rChinese}发生的是郊区投票给特朗普
+Dialogue: 0,0:23:12.12,0:23:14.78,English,,0,0,0,,and then he wins so\N{\rChinese}于是他赢了
+Dialogue: 0,0:23:14.78,0:23:18.38,English,,0,0,0,,if he picks nikki haley in august\N{\rChinese}如果他在八月挑选尼基·黑利
+Dialogue: 0,0:23:18.38,0:23:21.60,English,,0,0,0,,he will win okay i'm not completely sure\N{\rChinese}他会赢，嗯，我不完全确定
+Dialogue: 0,0:23:21.60,0:23:23.94,English,,0,0,0,,that he will pick nikki haley i think that\N{\rChinese}他会挑选尼基·黑利，我想是这样
+Dialogue: 0,0:23:23.94,0:23:26.50,English,,0,0,0,,this is his best strategic move okay but\N{\rChinese}这是他最好的战略举措，嗯
+Dialogue: 0,0:23:26.50,0:23:29.54,English,,0,0,0,,trump is not really predictable all right\N{\rChinese}特朗普并不太可预测，先说吧
+Dialogue: 0,0:23:29.56,0:23:35.14,English,,0,0,0,,and who he picks as vice president will give us a good clue as to how he will govern\N{\rChinese}他挑选谁做副总统，能给我们一个好线索，说明他会怎样执政
+Dialogue: 0,0:23:35.14,0:23:38.00,English,,0,0,0,,when he when he becomes president okay does that\N{\rChinese}他一旦当选总统，情况就会怎样呢
+Dialogue: 0,0:23:38.00,0:23:40.98,English,,0,0,0,,make sense all right now the question then\N{\rChinese}好像是这样，接下来是个问题
+Dialogue: 0,0:23:40.98,0:23:43.74,English,,0,0,0,,is okay who\N{\rChinese}是的，谁
+Dialogue: 0,0:23:43.74,0:23:45.58,English,,0,0,0,,is nikki haley and\N{\rChinese}是尼基·黑利
+Dialogue: 0,0:23:45.58,0:23:49.48,English,,0,0,0,,what will she do as vice president okay\N{\rChinese}她将会做什么副总统？
+Dialogue: 0,0:23:49.48,0:23:52.34,English,,0,0,0,,now what's important to understand about nikki haley is\N{\rChinese}现在，理解尼基·黑利的重要点是：
+Dialogue: 0,0:23:52.34,0:23:55.46,English,,0,0,0,,that when she left office when\N{\rChinese}她离任时……
+Dialogue: 0,0:23:55.46,0:23:58.22,English,,0,0,0,,she left washington dc political office in\N{\rChinese}她于2018年离开华盛市政治职务
+Dialogue: 0,0:23:58.22,0:24:02.08,English,,0,0,0,,2018 she had nothing in her bank account okay\N{\rChinese}她的银行账户里一分钱也没有
+Dialogue: 0,0:24:02.08,0:24:04.98,English,,0,0,0,,she had no money in her bank account now\N{\rChinese}她的银行账户里现在也没有钱
+Dialogue: 0,0:24:04.98,0:24:08.40,English,,0,0,0,,she has 10 million dollars in her bank account\N{\rChinese}她的银行账户里有一千万美元
+Dialogue: 0,0:24:08.40,0:24:12.70,English,,0,0,0,,and she lives in a five million dollar mansion\N{\rChinese}她住在一栋价值五百万美元的豪宅里
+Dialogue: 0,0:24:12.70,0:24:15.38,English,,0,0,0,,so where\N{\rChinese}于是呢？
+Dialogue: 0,0:24:15.38,0:24:18.24,English,,0,0,0,,did she get this money okay she got her\N{\rChinese}她拿到这笔钱了吗？好的，她拿到了。
+Dialogue: 0,0:24:18.24,0:24:20.58,English,,0,0,0,,she got this money mainly for\N{\rChinese}她拿这笔钱主要是为了
+Dialogue: 0,0:24:20.58,0:24:25.46,English,,0,0,0,,an organization called united against\N{\rChinese}一个名为“United Against”的组织
+Dialogue: 0,0:24:27.22,0:24:28.58,English,,0,0,0,,a nuclear\N{\rChinese}一个核
+Dialogue: 0,0:24:30.74,0:24:32.92,English,,0,0,0,,iran okay and\N{\rChinese}伊朗，好吧
+Dialogue: 0,0:24:32.92,0:24:36.82,English,,0,0,0,,this organization's primary purpose is\N{\rChinese}该组织的主要目的在于
+Dialogue: 0,0:24:36.82,0:24:40.62,English,,0,0,0,,to create conflict between the united states and\N{\rChinese}制造美国与……之间的冲突
+Dialogue: 0,0:24:40.62,0:24:44.88,English,,0,0,0,,iran okay they they go\N{\rChinese}伊朗，好吧，他们去
+Dialogue: 0,0:24:44.88,0:24:48.10,English,,0,0,0,,against any companies or individuals who\N{\rChinese}对任何公司或个人
+Dialogue: 0,0:24:48.10,0:24:49.88,English,,0,0,0,,support iran united states who\N{\rChinese}支持伊朗的美国人做生意
+Dialogue: 0,0:24:49.88,0:24:51.74,English,,0,0,0,,does business with iran okay they\N{\rChinese}他们与伊朗做生意
+Dialogue: 0,0:24:51.74,0:24:53.14,English,,0,0,0,,are a very anti\N{\rChinese}是非常……的
+Dialogue: 0,0:24:53.14,0:24:58.38,English,,0,0,0,,-iranian organization one of\N{\rChinese}……伊朗组织之一
+Dialogue: 0,0:24:58.38,0:25:03.54,English,,0,0,0,,their main donors his name is sheldon alderson\N{\rChinese}他们的主要捐赠者是谢尔顿·阿尔德森
+Dialogue: 0,0:25:03.54,0:25:05.42,English,,0,0,0,,and\N{\rChinese}和
+Dialogue: 0,0:25:05.42,0:25:10.90,English,,0,0,0,,sheldon alderson is an extremely pro -israel business person\N{\rChinese}谢尔顿·阿尔德森是一位极其亲以色列的商人
+Dialogue: 0,0:25:11.90,0:25:15.04,English,,0,0,0,,okay he owns a lot of casinos okay\N{\rChinese}他拥有许多赌场
+Dialogue: 0,0:25:15.04,0:25:18.48,English,,0,0,0,,so mgm sands uh he's he's a billionaire\N{\rChinese}于是mgm sands，他是亿万富翁
+Dialogue: 0,0:25:18.48,0:25:23.38,English,,0,0,0,,and what's interesting about sandal uh sandal alderson he's dead okay but\N{\rChinese}以及关于沙龙·阿尔德森的有趣之处，他已经去世，但……
+Dialogue: 0,0:25:23.38,0:25:29.10,English,,0,0,0,,he was the main patron of a man named sheldon alderson\N{\rChinese}他是名为谢尔顿·阿尔德森的人的主要赞助者……
+Dialogue: 0,0:25:30.00,0:25:31.88,English,,0,0,0,,he's the main political patron and financial donor to benjamin netanyahu okay\N{\rChinese}他是本杰明·内塔尼亚胡的主要政治赞助者和财务捐赠者。
+Dialogue: 0,0:25:31.88,0:25:37.10,English,,0,0,0,,he is the main political patron\N{\rChinese}他是本杰明·内塔尼亚胡的主要政治赞助者
+Dialogue: 0,0:25:37.10,0:25:39.56,English,,0,0,0,,and financial donor to benjamin netanyahu\N{\rChinese}以及财务捐赠者
+Dialogue: 0,0:25:41.46,0:25:44.82,English,,0,0,0,,so sheldon alderson supports both netanyahu\N{\rChinese}于是谢尔顿·阿尔德森同时支持内塔尼亚胡
+Dialogue: 0,0:25:44.82,0:25:49.46,English,,0,0,0,,and supports this organization called united against a nuclear iran\N{\rChinese}并支持一个名为“联合对抗核伊朗”的组织
+Dialogue: 0,0:25:49.46,0:25:54.16,English,,0,0,0,,and united against a nuclear iran hired um nikki haley\N{\rChinese}并联合对抗核伊朗雇佣了尼基·海利
+Dialogue: 0,0:25:54.16,0:25:58.34,English,,0,0,0,,and paid a lot of money okay that's the first thing second thing is\N{\rChinese}并支付了大量资金，第一件事，第二件事是
+Dialogue: 0,0:25:58.34,0:26:01.18,English,,0,0,0,,that in iran there's a lot of people who support iran and in 2019 she got a job\N{\rChinese}在伊朗有很多支持伊朗的人，2019年她得到了一份工作
+Dialogue: 0,0:26:01.18,0:26:06.48,English,,0,0,0,,with boeing boeing is a weapons manufacturer they make airplanes\N{\rChinese}她加入了波音公司，波音是一家武器制造商，他们生产飞机
+Dialogue: 0,0:26:06.48,0:26:08.80,English,,0,0,0,,but they mainly make bombs and missiles okay so\N{\rChinese}但他们主要生产炸弹和导弹
+Dialogue: 0,0:26:08.80,0:26:14.44,English,,0,0,0,,they love war she sat on the board of boeing an extremely prestigious job\N{\rChinese}他们热爱战争，她担任波音董事会席位，极具声望的职位
+Dialogue: 0,0:26:14.44,0:26:20.04,English,,0,0,0,,and she was paid three hundred thousand u.s dollars just to sit on the board\N{\rChinese}她获得三十万美元的报酬，仅仅是坐在董事会席上
+Dialogue: 0,0:26:20.04,0:26:23.74,English,,0,0,0,,and do nothing okay she has\N{\rChinese}然后她什么也没干
+Dialogue: 0,0:26:23.74,0:26:35.64,English,,0,0,0,,also given speeches at an organization called christianism there's a\N{\rChinese}也在基督教组织的演讲中出现了一个
+Dialogue: 0,0:26:35.64,0:26:42.30,English,,0,0,0,,series of\N{\rChinese}系列的
+Dialogue: 0,0:26:42.30,0:26:51.80,English,,0,0,0,,uh uh uh uh uh uh uh uh uh\N{\rChinese}呃呃呃呃呃呃呃呃
+Dialogue: 0,0:26:52.94,0:26:56.66,English,,0,0,0,,uh uh uh uh uh uh uh uh uh\N{\rChinese}呃呃呃呃呃呃呃呃
+Dialogue: 0,0:26:58.06,0:27:00.24,English,,0,0,0,,uh uh uh uh Kingdom of Heaven and therefore\N{\rChinese}呃呃呃呃王国之天，故此…
+Dialogue: 0,0:27:00.24,0:27:03.06,English,,0,0,0,,they want as much conflict in the Middle East as possible.\N{\rChinese}他们想在中东尽可能多的冲突。
+Dialogue: 0,0:27:04.70,0:27:08.36,English,,0,0,0,,So all this is telling us is\N{\rChinese}所以这一切都在告诉我们
+Dialogue: 0,0:27:08.36,0:27:12.20,English,,0,0,0,,that if Nikki Haley becomes vice president,\N{\rChinese}如果尼基·海利成为副总统
+Dialogue: 0,0:27:12.48,0:27:14.68,English,,0,0,0,,her main responsibility\N{\rChinese}她的主要职责是
+Dialogue: 0,0:27:15.64,0:27:17.94,English,,0,0,0,,will be to agitate for war against Iran.\N{\rChinese}将会动员发动对伊朗的战争。
+Dialogue: 0,0:27:17.94,0:27:20.30,English,,0,0,0,,She will be the one in\N{\rChinese}她将是那位在……的白宫人物
+Dialogue: 0,0:27:20.30,0:27:24.86,English,,0,0,0,,the White House pushing for war in Iran,\N{\rChinese}在白宫推动伊朗战争的那个人
+Dialogue: 0,0:27:25.06,0:27:27.52,English,,0,0,0,,escalating tensions in Iran.\N{\rChinese}伊朗局势持续升温。
+Dialogue: 0,0:27:31.90,0:27:33.52,English,,0,0,0,,So Nikki Haley.\N{\rChinese}于是尼基·海利。
+Dialogue: 0,0:27:33.78,0:27:35.60,English,,0,0,0,,What's also interesting is\N{\rChinese}还有一点有趣的事是。
+Dialogue: 0,0:27:35.60,0:27:38.76,English,,0,0,0,,in January 2019\N{\rChinese}2019年1月
+Dialogue: 0,0:27:38.76,0:27:44.52,English,,0,0,0,,basically the primary is over.\N{\rChinese}基本上初选结束。
+Dialogue: 0,0:27:44.66,0:27:47.62,English,,0,0,0,,Trump has won everything. But in January 2019.\N{\rChinese}特朗普已赢得一切。但在2019年1月。
+Dialogue: 0,0:27:47.62,0:27:49.32,English,,0,0,0,,even after Trump won,\N{\rChinese}即便特朗普赢了，
+Dialogue: 0,0:27:49.76,0:27:53.90,English,,0,0,0,,Haley was able to raise more money than Trump.\N{\rChinese}海利也筹集了比他更多的钱。
+Dialogue: 0,0:27:54.14,0:27:59.44,English,,0,0,0,,So Haley got about 12 million dollars from donors,\N{\rChinese}于是海利从捐赠者那里筹得约1200万美元。
+Dialogue: 0,0:27:59.62,0:28:02.06,English,,0,0,0,,Trump gets 11 million dollars.\N{\rChinese}特朗普筹得1100万美元。
+Dialogue: 0,0:28:02.36,0:28:04.20,English,,0,0,0,,Okay? And\N{\rChinese}好的？还有
+Dialogue: 0,0:28:04.20,0:28:08.20,English,,0,0,0,,the only explanation for this is these donors knew\N{\rChinese}这唯一的解释是这些捐赠者知道
+Dialogue: 0,0:28:08.20,0:28:10.68,English,,0,0,0,,that Haley would not become president,\N{\rChinese}那海利不会成为总统，
+Dialogue: 0,0:28:10.82,0:28:12.22,English,,0,0,0,,she could not be Trump, but\N{\rChinese}她也不是特朗普，但
+Dialogue: 0,0:28:12.22,0:28:14.60,English,,0,0,0,,they're trying to position her to be\N{\rChinese}他们正把她定位为
+Dialogue: 0,0:28:14.60,0:28:19.90,English,,0,0,0,,his vice president by making her stay in the race\N{\rChinese}让她留在竞选中，成为他的副总统
+Dialogue: 0,0:28:19.90,0:28:22.10,English,,0,0,0,,and giving her as much publicity as possible.\N{\rChinese}并尽可能给她宣传。
+Dialogue: 0,0:28:22.34,0:28:25.56,English,,0,0,0,,In fact, even though she dropped out of the race,\N{\rChinese}事实上，即使她退出竞选，
+Dialogue: 0,0:28:25.76,0:28:29.44,English,,0,0,0,,she's still getting about 25%\N{\rChinese}她仍然获得约25%
+Dialogue: 0,0:28:29.44,0:28:34.66,English,,0,0,0,,to 33% of all Republican votes, okay? So\N{\rChinese}到33%的全部共和党票数，好的？
+Dialogue: 0,0:28:34.66,0:28:40.58,English,,0,0,0,,she comes across as an extremely popular establishment figure.\N{\rChinese}她给人的印象是极受欢迎的建制派人物。
+Dialogue: 0,0:28:41.76,0:28:46.24,English,,0,0,0,,So this is the the Haley Haley Haley Haley\N{\rChinese}于是这就是哈利的哈利哈利哈利。
+Dialogue: 0,0:28:46.24,0:28:52.22,English,,0,0,0,,Haley Haley\N{\rChinese}哈利 哈利
+Dialogue: 0,0:28:52.22,0:28:56.24,English,,0,0,0,,Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley\N{\rChinese}哈利 哈利 哈利 哈利 哈利 哈利 哈利
+Dialogue: 0,0:28:56.24,0:28:59.50,English,,0,0,0,,Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley\N{\rChinese}哈利 哈利 哈利 哈利 哈利 哈利 哈利哈利 哈利 哈利 哈利 哈利 哈利 哈利
+Dialogue: 0,0:28:59.50,0:29:02.54,English,,0,0,0,,Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley\N{\rChinese}哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利
+Dialogue: 0,0:29:02.54,0:29:03.70,English,,0,0,0,,Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley\N{\rChinese}哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利 哈利
+Dialogue: 0,0:29:03.70,0:29:06.14,English,,0,0,0,,Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley\N{\rChinese}哈利 哈利 哈利 哈利 哈利 哈利 哈利哈利 哈利 哈利 哈利 哈利 哈利 哈利
+Dialogue: 0,0:29:06.14,0:29:07.76,English,,0,0,0,,Haley Haley Haley Haley Haley Haley Haley Haley Haley Haley\N{\rChinese}哈利
+Dialogue: 0,0:29:07.76,0:29:09.82,English,,0,0,0,,Haley Haley\N{\rChinese}哈利
+Dialogue: 0,0:29:09.82,0:29:15.06,English,,0,0,0,,Haley or Trump has slight advantage,\N{\rChinese}哈利或特朗普略占优势，
+Dialogue: 0,0:29:15.20,0:29:20.46,English,,0,0,0,,okay? Trump can basically seal the victory\N{\rChinese}好的？如果他挑选尼基·哈利做副总统，特朗普基本能锁定胜利，
+Dialogue: 0,0:29:20.86,0:29:23.64,English,,0,0,0,,if he picks Nikki Haley to be his vice president,\N{\rChinese}if he picks Nikki Haleyto be his vice president,
+Dialogue: 0,0:29:24.86,0:29:28.04,English,,0,0,0,,because Nikki Haley will turn the suburbs to him\N{\rChinese}因为尼基·哈利会把郊区强力交给他
+Dialogue: 0,0:29:28.84,0:29:30.96,English,,0,0,0,,very strongly, and it's the suburbs that\N{\rChinese}而郊区正是决定美国选举的关键
+Dialogue: 0,0:29:30.96,0:29:34.52,English,,0,0,0,,basically decide US elections.\N{\rChinese}basically decideUS elections.
+Dialogue: 0,0:29:37.62,0:29:39.40,English,,0,0,0,,And as vice president,\N{\rChinese}作为副总统，
+Dialogue: 0,0:29:39.58,0:29:44.30,English,,0,0,0,,what she will be doing is advocating for war against Iran,\N{\rChinese}她将要做的就是倡导对伊朗的战争，
+Dialogue: 0,0:29:44.56,0:29:47.80,English,,0,0,0,,which means that she's on the payroll\N{\rChinese}这意味着她已被列入名单中
+Dialogue: 0,0:29:48.71,0:29:52.96,English,,0,0,0,,of anti -Iranian forces in the United States.\N{\rChinese}在美国的反伊朗势力中。
+Dialogue: 0,0:29:54.67,0:29:58.16,English,,0,0,0,,Okay? So, any questions?\N{\rChinese}好的？那还有问题吗？
+Dialogue: 0,0:29:59.15,0:30:01.22,English,,0,0,0,,Anything you're not clear about right now?\N{\rChinese}现在你还有不明白的地方吗？
+Dialogue: 0,0:30:13.80,0:30:16.64,English,,0,0,0,,What if she holds a grudge against Trump?\N{\rChinese}如果她对特朗普怀有怨恨呢？
+Dialogue: 0,0:30:18.64,0:30:22.48,English,,0,0,0,,Okay, so Jack asked a great question, okay?\N{\rChinese}好的，杰克提出了一个很好的问题，明白吗？
+Dialogue: 0,0:30:23.20,0:30:27.84,English,,0,0,0,,He's like, what if Haley holds a grudge and says no, right?\N{\rChinese}他是这么说的：如果哈利对他有怨恨并且说不，怎么样？
+Dialogue: 0,0:30:28.92,0:30:32.24,English,,0,0,0,,And quite honestly, she has been asked in the past,\N{\rChinese}而且说实话，她曾被问过，
+Dialogue: 0,0:30:32.52,0:30:35.82,English,,0,0,0,,are you willing to serve as Trump's vice president?\N{\rChinese}你愿意当特朗普的副总统吗？
+Dialogue: 0,0:30:36.24,0:30:40.82,English,,0,0,0,,And she's like, no, because he's a divider.\N{\rChinese}她回答说，愿意，因为他是个分裂者。
+Dialogue: 0,0:30:40.82,0:30:45.28,English,,0,0,0,,He's divisive, and we need to move on from Trump, okay?\N{\rChinese}他是分裂的，我们需要从特朗普身上走开，明白吗？
+Dialogue: 0,0:30:45.40,0:30:51.92,English,,0,0,0,,All right. Do you guys remember in class,\N{\rChinese}好的。你们记得在课堂上，
+Dialogue: 0,0:30:52.10,0:30:54.76,English,,0,0,0,,when we studied Trump, very closely, his personality?\N{\rChinese}当我们细细研究特朗普，他的个性格吗？
+Dialogue: 0,0:30:55.54,0:30:58.84,English,,0,0,0,,We looked at his days in the WWE, okay?\N{\rChinese}我们回顾了他在WWE的日子，行吗？
+Dialogue: 0,0:31:00.54,0:31:03.66,English,,0,0,0,,And there was a scene where Vince McMahon,\N{\rChinese}随后出现了一个场景，Vince McMahon，WWE的老板，亿万富翁，挑战特朗普。
+Dialogue: 0,0:31:04.12,0:31:07.38,English,,0,0,0,,the owner of WWE, a billionaire, challenges Trump\N{\rChinese}the owner of WWE, a billionaire, challenges Trump
+Dialogue: 0,0:31:08.02,0:31:09.96,English,,0,0,0,,to a fight, right?\N{\rChinese}转成一场斗争，行吗？
+Dialogue: 0,0:31:10.82,0:31:14.12,English,,0,0,0,,Well, guess what, guys? Politics is the same thing.\N{\rChinese}好，猜猜吧，伙计们？政治就是一样的事。
+Dialogue: 0,0:31:14.24,0:31:15.74,English,,0,0,0,,It's all theater, okay?\N{\rChinese}全是戏剧，明白吗？
+Dialogue: 0,0:31:16.08,0:31:21.34,English,,0,0,0,,Politics is theater. What Nikki Haley\N{\rChinese}政治是戏剧。尼基·黑利
+Dialogue: 0,0:31:21.34,0:31:25.18,English,,0,0,0,,and Donald Trump are doing is pretending to be bitter enemies,\N{\rChinese}和唐纳德·特朗普正在假装成对手，
+Dialogue: 0,0:31:25.36,0:31:29.56,English,,0,0,0,,so that their reconciliation will be\N{\rChinese}以便他们的和解能出现。
+Dialogue: 0,0:31:29.56,0:31:32.20,English,,0,0,0,,so dramatic. You understand?\N{\rChinese}好戏剧。你明白吗？
+Dialogue: 0,0:31:33.58,0:31:38.06,English,,0,0,0,,So, Nikki Haley served under Trump in the first administration,\N{\rChinese}于是，尼基·黑利在特朗普第一届任期服役，
+Dialogue: 0,0:31:38.28,0:31:39.66,English,,0,0,0,,okay? So, from 2016 to 2018,\N{\rChinese}好？于是，从2016到2018，
+Dialogue: 0,0:31:40.02,0:31:41.78,English,,0,0,0,,she was used to being a fighter. She was used to being an ambassador for Trump.\N{\rChinese}她习惯了当斗士。她习惯了当特朗普的使者。
+Dialogue: 0,0:31:43.10,0:31:47.08,English,,0,0,0,,And everyone says that the two got along really well.\N{\rChinese}大家都说两人相处得很不错。
+Dialogue: 0,0:31:47.48,0:31:48.56,English,,0,0,0,,In fact,\N{\rChinese}事实上，
+Dialogue: 0,0:31:48.74,0:31:53.98,English,,0,0,0,,Trump was considering having her be his VP,\N{\rChinese}特朗普正在考虑让她担任副总统
+Dialogue: 0,0:31:54.30,0:31:56.50,English,,0,0,0,,running mate, in 2020.\N{\rChinese}2020年，他是竞选搭档。
+Dialogue: 0,0:31:56.90,0:32:00.92,English,,0,0,0,,He was thinking of dropping Mike Pence and putting her on the ticket, okay?\N{\rChinese}他想把麦克·佩恩换掉，放上她，行吗？
+Dialogue: 0,0:32:01.02,0:32:04.24,English,,0,0,0,,So, the two of them together actually have a great rapport.\N{\rChinese}于是，两人合在一起真的相处得很好。
+Dialogue: 0,0:32:04.54,0:32:05.88,English,,0,0,0,,The two respect each other.\N{\rChinese}两人互相尊敬。
+Dialogue: 0,0:32:05.96,0:32:08.38,English,,0,0,0,,They get along very well, okay? So, that's the first thing.\N{\rChinese}他们相处得很好，行吗？所以，这就是第一件事。
+Dialogue: 0,0:32:08.58,0:32:10.18,English,,0,0,0,,Second thing is that,\N{\rChinese}第二件事是……
+Dialogue: 0,0:32:10.82,0:32:12.74,English,,0,0,0,,the thing to know about very\N{\rChinese}关于非常成功的政治家的第一件事是
+Dialogue: 0,0:32:12.74,0:32:17.32,English,,0,0,0,,successful politicians is they are first\N{\rChinese}成功的政治家首先是
+Dialogue: 0,0:32:17.32,0:32:19.28,English,,0,0,0,,and foremost opportunists.\N{\rChinese}而且是最主要的机会主义者。
+Dialogue: 0,0:32:19.54,0:32:21.40,English,,0,0,0,,They have no ideas.\N{\rChinese}他们没有主张。
+Dialogue: 0,0:32:22.28,0:32:23.96,English,,0,0,0,,They have no principles.\N{\rChinese}他们没有原则。
+Dialogue: 0,0:32:25.04,0:32:29.20,English,,0,0,0,,All they care about is political power, right?\N{\rChinese}他们只关心政治权力，对吧？
+Dialogue: 0,0:32:29.60,0:32:32.84,English,,0,0,0,,So, why would Nikki Haley agree to be Vice President?\N{\rChinese}那么，尼基·海利为什么会同意做副总统？
+Dialogue: 0,0:32:34.00,0:32:37.92,English,,0,0,0,,Why? Because\N{\rChinese}为什么？因为
+Dialogue: 0,0:32:37.92,0:32:39.84,English,,0,0,0,,there's one step away from the presidency.\N{\rChinese}离总统一步之遥。
+Dialogue: 0,0:32:39.84,0:32:42.66,English,,0,0,0,,presidency, do you understand? If anything happens to Trump, she's president.\N{\rChinese}总统，明白吗？只要特朗普有事，她就能当选。
+Dialogue: 0,0:32:42.94,0:32:45.74,English,,0,0,0,,And in four years time, she can run as\N{\rChinese}四年后，她就能竞选。
+Dialogue: 0,0:32:46.82,0:32:49.56,English,,0,0,0,,the Republican nominee for the presidency.\N{\rChinese}共和党总统候选人。
+Dialogue: 0,0:32:49.80,0:32:53.66,English,,0,0,0,,Does that make sense? So that's the thing you need to know about politicians.\N{\rChinese}这有道理吗？这就是你需要知道的关于政治家的事。
+Dialogue: 0,0:32:54.52,0:32:56.46,English,,0,0,0,,All they care about is political power.\N{\rChinese}他们只关心政治权力。
+Dialogue: 0,0:32:56.68,0:32:59.70,English,,0,0,0,,They will do anything to achieve political power.\N{\rChinese}他们会不择手段争取政治权力。
+Dialogue: 0,0:32:59.76,0:33:02.64,English,,0,0,0,,They will sell their own mother to achieve political power.\N{\rChinese}他们会卖掉自己的母亲以争取政治权力。
+Dialogue: 0,0:33:02.74,0:33:04.08,English,,0,0,0,,But it's the same thing for rich people.\N{\rChinese}但这对富人来说也是同样的事。
+Dialogue: 0,0:33:04.32,0:33:05.66,English,,0,0,0,,Rich people love money.\N{\rChinese}富人爱钱。
+Dialogue: 0,0:33:05.84,0:33:08.38,English,,0,0,0,,They will do anything to get money.\N{\rChinese}他们会不择手段争取钱。
+Dialogue: 0,0:33:08.38,0:33:09.60,English,,0,0,0,,Sell their own mother, fine.\N{\rChinese}卖掉自己的母亲也行。
+Dialogue: 0,0:33:11.62,0:33:13.20,English,,0,0,0,,Also, celebrities, famous people, right?\N{\rChinese}还有，明星、名人，对吧？
+Dialogue: 0,0:33:13.42,0:33:18.18,English,,0,0,0,,All they care about is fame. So, do you understand, Jack?\N{\rChinese}他们只在乎名声。所以，你明白了吗，杰克？
+Dialogue: 0,0:33:20.04,0:33:21.12,English,,0,0,0,,Any more questions?\N{\rChinese}还有别问吗？
+Dialogue: 0,0:33:29.58,0:33:30.92,English,,0,0,0,,Is this clear to you guys?\N{\rChinese}这句话你们明白了吗？
+Dialogue: 0,0:33:34.68,0:33:36.22,English,,0,0,0,,Is there anything you're not clear about?\N{\rChinese}还有什么不明白的吗？
+Dialogue: 0,0:33:36.58,0:33:38.06,English,,0,0,0,,I'll explain further.\N{\rChinese}我再解释一下。
+Dialogue: 0,0:33:42.24,0:33:44.02,English,,0,0,0,,Is there anything that\N{\rChinese}有什么可以
+Dialogue: 0,0:33:44.02,0:33:46.36,English,,0,0,0,,Biden could do before the election\N{\rChinese}拜登在选举前可以做的事
+Dialogue: 0,0:33:46.36,0:33:50.38,English,,0,0,0,,to have an advantage over Trump?\N{\rChinese}来占据优势于特朗普？
+Dialogue: 0,0:33:50.50,0:33:54.56,English,,0,0,0,,Okay, so Jack asked a great question, okay?\N{\rChinese}好的，杰克刚刚问了个好问题，听着？
+Dialogue: 0,0:33:54.72,0:33:58.44,English,,0,0,0,,Well, listen. Like,\N{\rChinese}嗯，听着。像是，我只要读新闻就能算出来，对吧？
+Dialogue: 0,0:33:58.44,0:34:00.94,English,,0,0,0,,I can figure this out just by reading the news, right?\N{\rChinese}I can figure this out justby reading the news, right?
+Dialogue: 0,0:34:01.34,0:34:05.32,English,,0,0,0,,Biden has an amazing team of extremely well -paid,\N{\rChinese}拜登拥有一支极其高薪、专业、经验丰富的战略团队与他合作。
+Dialogue: 0,0:34:05.52,0:34:08.82,English,,0,0,0,,professional, experienced strategists working with him.\N{\rChinese}他们对此了如指掌，能洞察一切。
+Dialogue: 0,0:34:08.88,0:34:11.46,English,,0,0,0,,They know this. They can see what's going on.\N{\rChinese}他们知道这一点，能看清局势。
+Dialogue: 0,0:34:11.96,0:34:15.06,English,,0,0,0,,So, what can Biden do to\N{\rChinese}那么拜登能做什么来应对特朗普的策略或民调呢？
+Dialogue: 0,0:34:15.06,0:34:19.46,English,,0,0,0,,counter Trump's strategy or the polls, okay?\N{\rChinese}答案是这样的：如果你看看2020年，…】
+Dialogue: 0,0:34:20.34,0:34:24.32,English,,0,0,0,,And the answer is this. If you look at 2020,\N{\rChinese}And the answer is this. If you look at 2020,
+Dialogue: 0,0:34:24.70,0:34:27.38,English,,0,0,0,,everyone thought\N{\rChinese}大家都认为
+Dialogue: 0,0:34:27.38,0:34:32.02,English,,0,0,0,,that Biden could not get the nomination, okay?\N{\rChinese}拜登能否获得提名？
+Dialogue: 0,0:34:32.20,0:34:34.32,English,,0,0,0,,Why? Because he lacks charisma.\N{\rChinese}为什么？因为他缺乏魅力。
+Dialogue: 0,0:34:34.80,0:34:36.08,English,,0,0,0,,Nobody really likes him, okay?\N{\rChinese}没人真喜欢他，行吗？
+Dialogue: 0,0:34:36.34,0:34:38.36,English,,0,0,0,,So, when Biden goes to school, he's not going to get the nomination.\N{\rChinese}于是，拜登去学校时，他还没拿到提名。
+Dialogue: 0,0:34:38.36,0:34:40.30,English,,0,0,0,,He's going to speak. There's no one there to listen to him.\N{\rChinese}他会发言。那里没人听他说。
+Dialogue: 0,0:34:40.36,0:34:44.86,English,,0,0,0,,He's boring, and he has no ideas, and he's old.\N{\rChinese}他很无聊，没想法，老了。
+Dialogue: 0,0:34:46.12,0:34:50.26,English,,0,0,0,,I mean, Biden ran for president two times before, and he lost both times.\N{\rChinese}我说，拜登以前跑两次总统，两个都输了。
+Dialogue: 0,0:34:50.42,0:34:53.40,English,,0,0,0,,And the reason why is he's not charismatic, and\N{\rChinese}原因是他不具魅力，且
+Dialogue: 0,0:34:53.40,0:34:55.38,English,,0,0,0,,he has no ideas, okay?\N{\rChinese}他没有想法，行吗？
+Dialogue: 0,0:34:55.60,0:34:59.90,English,,0,0,0,,But Biden's like, nope, I'm going to stay in the race because I believe I can win.\N{\rChinese}但拜登说：不，我会继续参选，因为我相信能赢。
+Dialogue: 0,0:35:00.12,0:35:03.80,English,,0,0,0,,And you ask him, Biden, what is your strategy?\N{\rChinese}你问他，拜登，你的策略是什么？
+Dialogue: 0,0:35:03.98,0:35:05.22,English,,0,0,0,,What is your reasoning going forward?\N{\rChinese}接下来你会怎么推理？
+Dialogue: 0,0:35:05.42,0:35:07.58,English,,0,0,0,,I don't know. I'm going to win, okay?\N{\rChinese}我不知道，我会赢，行吗？
+Dialogue: 0,0:35:09.80,0:35:12.64,English,,0,0,0,,So, if we were discussing this in 2020,\N{\rChinese}于是，如果我们在2020年讨论这个，
+Dialogue: 0,0:35:12.90,0:35:15.42,English,,0,0,0,,in May and June,\N{\rChinese}在五月和六月，
+Dialogue: 0,0:35:16.04,0:35:20.18,English,,0,0,0,,I would be like, Biden has no chance, okay?\N{\rChinese}我会说：拜登没机会，行吗？
+Dialogue: 0,0:35:20.28,0:35:22.36,English,,0,0,0,,Because Trump's going to go out there and\N{\rChinese}因为特朗普会去那里…
+Dialogue: 0,0:35:22.36,0:35:25.64,English,,0,0,0,,give speeches to 100,000 people, and\N{\rChinese}给十万人演讲，随后他们会爱上他，随后去投票，行吗？
+Dialogue: 0,0:35:25.64,0:35:29.12,English,,0,0,0,,they're going to love him, and they're going to go and vote for him, okay?\N{\rChinese}拜登演讲，大家全都睡着。
+Dialogue: 0,0:35:29.26,0:35:31.12,English,,0,0,0,,Biden gives a speech, everyone falls asleep.\N{\rChinese}Biden gives a speech,everyone falls asleep.
+Dialogue: 0,0:35:32.54,0:35:34.12,English,,0,0,0,,And under the debate stage,\N{\rChinese}在辩论阶段，
+Dialogue: 0,0:35:34.54,0:35:36.26,English,,0,0,0,,Trump will destroy Biden, okay?\N{\rChinese}特朗普会把拜登打败，行吗？
+Dialogue: 0,0:35:37.94,0:35:40.56,English,,0,0,0,,So, I was sure that\N{\rChinese}于是，我确信
+Dialogue: 0,0:35:40.56,0:35:44.82,English,,0,0,0,,in May, April 2020,\N{\rChinese}五月，四月2020年，
+Dialogue: 0,0:35:45.46,0:35:47.08,English,,0,0,0,,Biden had no chance.\N{\rChinese}拜登没有机会。
+Dialogue: 0,0:35:47.40,0:35:52.04,English,,0,0,0,,But then what happened? Hey, the George Floyd protest happened.\N{\rChinese}然后发生了什么？嘿，乔治·弗洛伊德示威发生了。
+Dialogue: 0,0:35:52.66,0:35:55.62,English,,0,0,0,,So all these young people who didn't really like Biden,\N{\rChinese}于是这些年轻人，之前不太喜欢拜登，
+Dialogue: 0,0:35:55.76,0:35:58.04,English,,0,0,0,,they were now galvanized to go vote for him.\N{\rChinese}他们现在被激励去投票给他。
+Dialogue: 0,0:35:58.18,0:36:01.14,English,,0,0,0,,All these black people, all these suburban voters,\N{\rChinese}这些黑人、郊区选民，
+Dialogue: 0,0:36:01.28,0:36:05.30,English,,0,0,0,,they wanted Biden to win because they thought Trump was divisive, okay?\N{\rChinese}他们想拜登赢，因为觉得特朗普分裂，行吗？
+Dialogue: 0,0:36:06.26,0:36:08.20,English,,0,0,0,,And then what happened? The pandemic happened.\N{\rChinese}然后发生了什么？疫情来了。
+Dialogue: 0,0:36:08.54,0:36:11.26,English,,0,0,0,,So, Trump couldn't go out to debate.\N{\rChinese}于是特朗普没能出场辩论。
+Dialogue: 0,0:36:11.76,0:36:13.34,English,,0,0,0,,Trump couldn't go out to campaign anymore.\N{\rChinese}特朗普再也没法外出竞选了。
+Dialogue: 0,0:36:13.80,0:36:16.40,English,,0,0,0,,You understand? Biden could just sit in his basement\N{\rChinese}你明白吗？拜登可以在他地下室里坐着不动，没错吧？
+Dialogue: 0,0:36:16.40,0:36:19.58,English,,0,0,0,,and do nothing, right?\N{\rChinese}and do nothing,right?
+Dialogue: 0,0:36:19.86,0:36:23.04,English,,0,0,0,,Do you understand? So,\N{\rChinese}你明白吗？于是，
+Dialogue: 0,0:36:23.04,0:36:27.44,English,,0,0,0,,unfortunately, Biden learned the wrong lessons from 2020.\N{\rChinese}不幸的是，拜登从2020年学到了错误的经验。
+Dialogue: 0,0:36:27.72,0:36:30.62,English,,0,0,0,,The lesson that he learned in 2020 is that, hey,\N{\rChinese}他在2020年学到的经验是，嘿，
+Dialogue: 0,0:36:30.80,0:36:33.72,English,,0,0,0,,if I just sit in my basement all day and make no mistakes,\N{\rChinese}如果我整天坐在地下室里不犯错，我的代理人，民主党国会，都会说：我就是民主党主席。
+Dialogue: 0,0:36:34.06,0:36:36.46,English,,0,0,0,,my surrogates, the Democratic Congress, they're going to be like, oh, I'm going to be the president of the Democratic Party.\N{\rChinese}希拉里·克林顿、比尔·克林顿、巴拉克·奥巴马，…
+Dialogue: 0,0:36:36.72,0:36:39.66,English,,0,0,0,,Hillary Clinton, Bill Clinton, Barack Obama,\N{\rChinese}Hillary Clinton, BillClinton, Barack Obama,
+Dialogue: 0,0:36:39.84,0:36:42.54,English,,0,0,0,,they'll go out and give speeches for me.\N{\rChinese}他们会出来为我演讲。
+Dialogue: 0,0:36:42.60,0:36:45.86,English,,0,0,0,,They'll fire up the base. And I'll win because\N{\rChinese}他们会点燃基础。于是我赢了，因为
+Dialogue: 0,0:36:45.86,0:36:47.84,English,,0,0,0,,I'm not Trump, okay?\N{\rChinese}我不是特朗普，明白吗？
+Dialogue: 0,0:36:48.12,0:36:49.68,English,,0,0,0,,That is the entire Biden strategy.\N{\rChinese}那就是完整的拜登策略。
+Dialogue: 0,0:36:50.24,0:36:51.72,English,,0,0,0,,I'm not Trump.\N{\rChinese}我不是特朗普。
+Dialogue: 0,0:36:55.74,0:37:00.38,English,,0,0,0,,Okay? The problem with this idea is,\N{\rChinese}好吧？这个想法的难点是，
+Dialogue: 0,0:37:00.66,0:37:04.70,English,,0,0,0,,okay, in 2020,\N{\rChinese}好的，2020年，
+Dialogue: 0,0:37:05.04,0:37:08.34,English,,0,0,0,,the American people, the American people, people had four years of Trump,\N{\rChinese}美国人民，美国人民，四年特朗普后，
+Dialogue: 0,0:37:08.48,0:37:09.98,English,,0,0,0,,and they know he sucks, okay?\N{\rChinese}他们知道他很糟，明白吗？
+Dialogue: 0,0:37:10.40,0:37:14.92,English,,0,0,0,,The problem now is the American people have seen four years of Biden,\N{\rChinese}现在的问题是美国人民已经看到了四年的拜登，
+Dialogue: 0,0:37:15.06,0:37:17.64,English,,0,0,0,,and Biden sucks as well, okay?\N{\rChinese}拜登也很糟，明白吗？
+Dialogue: 0,0:37:18.08,0:37:19.92,English,,0,0,0,,And so, it's a question like, who sucks more,\N{\rChinese}于是问题是，谁更糟呢？
+Dialogue: 0,0:37:20.04,0:37:23.14,English,,0,0,0,,Biden or Trump, okay?\N{\rChinese}拜登还是特朗普，明白吗？
+Dialogue: 0,0:37:23.26,0:37:27.40,English,,0,0,0,,So, in other words, people are not going to come out to vote\N{\rChinese}于是换句话说，选民不会去投票
+Dialogue: 0,0:37:27.40,0:37:28.94,English,,0,0,0,,because they think both suck,\N{\rChinese}因为他们觉得两者都糟
+Dialogue: 0,0:37:31.42,0:37:36.22,English,,0,0,0,,and which means that the party with equality, right?\N{\rChinese}并且这意味着拥有平等的党派，对吧？
+Dialogue: 0,0:37:36.24,0:37:41.02,English,,0,0,0,,The only coalition with a base that feels more strongly about the issues is going to come out to vote, okay?\N{\rChinese}唯一那支基底更强烈关注议题的联盟才会去投票，对吗？
+Dialogue: 0,0:37:41.62,0:37:44.12,English,,0,0,0,,And what we know is that\N{\rChinese}我们已知的就是……
+Dialogue: 0,0:37:44.12,0:37:48.18,English,,0,0,0,,the Republican coalition\N{\rChinese}共和党联盟
+Dialogue: 0,0:37:48.18,0:37:51.70,English,,0,0,0,,of rural voters, conservatives, Christians,\N{\rChinese}乡村选民、保守派、基督徒、白人选民
+Dialogue: 0,0:37:53.42,0:37:54.46,English,,0,0,0,,white voters,\N{\rChinese}white voters,
+Dialogue: 0,0:37:54.66,0:38:00.12,English,,0,0,0,,they feel much more passionately about Trump than the Democratic coalition feels about Biden.\N{\rChinese}他们对特朗普的热情远超民主党联盟对拜登的热情。
+Dialogue: 0,0:38:00.58,0:38:03.24,English,,0,0,0,,Okay? Does that make sense? So, unfortunately,\N{\rChinese}好吧？这样说对吗？所以不幸的是，
+Dialogue: 0,0:38:03.38,0:38:06.22,English,,0,0,0,,the answer is that Biden is only going to vote.\N{\rChinese}答案是拜登只会投票。
+Dialogue: 0,0:38:06.24,0:38:10.06,English,,0,0,0,,Biden has no strategy going forward because he didn't have a strategy going forward in 2020.\N{\rChinese}拜登前进没有策略，因为他在2020年也没有前进的策略。
+Dialogue: 0,0:38:10.58,0:38:13.70,English,,0,0,0,,And he won in 2020, so why can't the same thing happen in,\N{\rChinese}他在2020年赢了，那为什么今年也能这么做呢？
+Dialogue: 0,0:38:15.24,0:38:16.88,English,,0,0,0,,same thing happen this year, right?\N{\rChinese}同样的事今年也能发生吗？
+Dialogue: 0,0:38:19.38,0:38:22.96,English,,0,0,0,,And unfortunately, because Biden's so old, he's 81,\N{\rChinese}而且不幸的是，拜登年事已高，81岁，
+Dialogue: 0,0:38:23.66,0:38:28.50,English,,0,0,0,,he doesn't have the energy to change the way he is.\N{\rChinese}他没有精力去改变自己的状态。
+Dialogue: 0,0:38:28.60,0:38:32.26,English,,0,0,0,,You understand? It's much easier for him to sit around\N{\rChinese}你明白了吗？他坐在那儿更容易，然后祈祷那样的方式。
+Dialogue: 0,0:38:32.26,0:38:34.52,English,,0,0,0,,and pray the way that\N{\rChinese}and pray the waythat
+Dialogue: 0,0:38:34.52,0:38:39.64,English,,0,0,0,,I'm not Trump will deliver another election than it is for him to go out\N{\rChinese}我不认为特朗普会再赢一次选举，随后再去改变自己。
+Dialogue: 0,0:38:39.64,0:38:41.70,English,,0,0,0,,and change who he is. He can't change who he is.\N{\rChinese}他自己也没法再改变自己。
+Dialogue: 0,0:38:42.82,0:38:45.10,English,,0,0,0,,Okay? Does that make sense?\N{\rChinese}好的？这样说通吗？
+Dialogue: 0,0:38:45.62,0:38:48.18,English,,0,0,0,,Okay, but that's a great question, all right?\N{\rChinese}好的，但这确实是个好问题，没错吧？
+Dialogue: 0,0:38:49.96,0:38:52.58,English,,0,0,0,,Any more questions before?\N{\rChinese}还有问题吗？
+Dialogue: 0,0:39:01.68,0:39:03.72,English,,0,0,0,,Okay. Okay, so again,\N{\rChinese}好的。好的，再说一次，
+Dialogue: 0,0:39:03.92,0:39:06.72,English,,0,0,0,,I am not sure\N{\rChinese}我不确定
+Dialogue: 0,0:39:06.72,0:39:08.98,English,,0,0,0,,who will win this year, okay?\N{\rChinese}谁会在今年赢得比赛，好吗？
+Dialogue: 0,0:39:09.06,0:39:11.74,English,,0,0,0,,I think it's Trump. I'm not sure that\N{\rChinese}我觉得是特朗普。我不确定尼基·海利会是他的副总统。
+Dialogue: 0,0:39:11.74,0:39:14.40,English,,0,0,0,,Nikki Haley will be his vice president.\N{\rChinese}我只是猜测。所以问题是我们为什么要这么做？
+Dialogue: 0,0:39:14.60,0:39:18.42,English,,0,0,0,,I'm just making a guess. So the question then is why are we doing this?\N{\rChinese}I'm just making a guess. So the question then is why are we doing this?
+Dialogue: 0,0:39:18.54,0:39:21.58,English,,0,0,0,,And the answer is this. We try to think.\N{\rChinese}答案就是这样。我们先想一想。
+Dialogue: 0,0:39:21.78,0:39:25.56,English,,0,0,0,,We have to build an analytical model, right, of how the world works.\N{\rChinese}我们得构建一个分析模型，来说明世界是怎样运作的。
+Dialogue: 0,0:39:26.02,0:39:30.04,English,,0,0,0,,And the only way we know if this model works or not is by making predictions\N{\rChinese}检验模型是否有效的唯一办法，就是做出预测。
+Dialogue: 0,0:39:30.04,0:39:31.66,English,,0,0,0,,and testing it against reality.\N{\rChinese}并用它与现实检验。
+Dialogue: 0,0:39:31.88,0:39:34.68,English,,0,0,0,,Okay? So you know what?\N{\rChinese}好吧？那你知道什么？
+Dialogue: 0,0:39:34.96,0:39:37.18,English,,0,0,0,,It's possible that in August,\N{\rChinese}有可能在八月，
+Dialogue: 0,0:39:39.10,0:39:40.82,English,,0,0,0,,Trump will pick someone else okay?\N{\rChinese}特朗普会选其他人吗？
+Dialogue: 0,0:39:40.90,0:39:43.12,English,,0,0,0,,Possibly someone named JD Vance okay?\N{\rChinese}可能是叫J.D. Vance的人吗？
+Dialogue: 0,0:39:46.30,0:39:50.44,English,,0,0,0,,The only thing you need to know about JD Vance is he's very loyal to Trump okay?\N{\rChinese}关于J.D. Vance你只需要知道的一点是他对特朗普非常忠诚。
+Dialogue: 0,0:39:50.52,0:39:53.08,English,,0,0,0,,It's possible he picks JD Vance okay?\N{\rChinese}有可能他选J.D. Vance吗？
+Dialogue: 0,0:39:53.18,0:39:56.16,English,,0,0,0,,I think he'll pick Nikki Haley. I often actually...\N{\rChinese}我觉得他会选Nikki Haley。我经常这样想……
+Dialogue: 0,0:39:57.96,0:40:02.08,English,,0,0,0,,I often think that there's a very good chance he picks JD Vance as well okay?\N{\rChinese}我经常认为他很可能也会选J.D. Vance，好吗？
+Dialogue: 0,0:40:02.08,0:40:04.42,English,,0,0,0,,But I'll make the bet that he picks Nikki Haley.\N{\rChinese}我会押注他会选Nikki Haley。
+Dialogue: 0,0:40:04.90,0:40:09.94,English,,0,0,0,,So it's possible in August he does not pick Nikki Haley,\N{\rChinese}于是，8月他可能不选Nikki Haley，
+Dialogue: 0,0:40:10.04,0:40:11.36,English,,0,0,0,,he picks J.D. Vance or someone else instead.\N{\rChinese}他可能选J.D. Vance或其他人。
+Dialogue: 0,0:40:11.50,0:40:15.96,English,,0,0,0,,It's also possible that in November Trump loses.\N{\rChinese}也有可能在十一月特朗普落败。
+Dialogue: 0,0:40:17.78,0:40:20.70,English,,0,0,0,,Well that's fine because if I'm wrong,\N{\rChinese}好吧，没问题，如果我错了，
+Dialogue: 0,0:40:20.88,0:40:23.62,English,,0,0,0,,then what I do is I go back to this analysis\N{\rChinese}我就回到这份分析里去
+Dialogue: 0,0:40:23.62,0:40:26.42,English,,0,0,0,,and I make changes to this analysis\N{\rChinese}我对这份分析做了调整
+Dialogue: 0,0:40:27.00,0:40:30.96,English,,0,0,0,,so that it's much more reflective and accurate.\N{\rChinese}使其更具反思性和准确性。
+Dialogue: 0,0:40:30.96,0:40:32.44,English,,0,0,0,,Does that make sense?\N{\rChinese}这有道理吗？
+Dialogue: 0,0:40:33.56,0:40:39.04,English,,0,0,0,,And that's how we try to think critically about the world.\N{\rChinese}这就是我们尝试用批判性思维看世界的方式。
+Dialogue: 0,0:40:39.14,0:40:42.38,English,,0,0,0,,By building analytical models that we can then test against reality\N{\rChinese}通过构建可随后对照现实检验的分析模型
+Dialogue: 0,0:40:42.38,0:40:45.60,English,,0,0,0,,and then based on what happens in reality,\N{\rChinese}并根据现实中发生的事来调整
+Dialogue: 0,0:40:45.88,0:40:49.04,English,,0,0,0,,we can go and refine our analytical model.\N{\rChinese}我们可以去细化我们的分析模型。
+Dialogue: 0,0:40:50.36,0:40:56.34,English,,0,0,0,,Any questions? Okay, so\N{\rChinese}还有问题吗？
+Dialogue: 0,0:40:56.34,0:41:02.28,English,,0,0,0,,next week we discuss the war in Iran,\N{\rChinese}下周我们讨论伊朗的战争，
+Dialogue: 0,0:41:02.54,0:41:06.08,English,,0,0,0,,okay? Because if you look at this,\N{\rChinese}好的？因为如果你看这个，
+Dialogue: 0,0:41:06.34,0:41:09.86,English,,0,0,0,,again if Nikki Haley becomes the vice president,\N{\rChinese}再次，如果尼基·海利成为副总统，
+Dialogue: 0,0:41:10.08,0:41:14.26,English,,0,0,0,,it is very likely she will agitate for war against Iran.\N{\rChinese}很可能她会发动对伊朗的战争。
+Dialogue: 0,0:41:15.04,0:41:16.82,English,,0,0,0,,And Trump will go along, okay?\N{\rChinese}好，特朗普也会跟着走，好的？
+Dialogue: 0,0:41:17.50,0:41:19.32,English,,0,0,0,,And if that's the case, then\N{\rChinese}如果是这样的话，接下来
+Dialogue: 0,0:41:19.32,0:41:23.68,English,,0,0,0,,we need to understand how America will fight the war and how Iran will respond.\N{\rChinese}我们需要了解美国将如何打这场战争，以及伊朗会如何回应。
+Dialogue: 0,0:41:24.02,0:41:31.44,English,,0,0,0,,And that's what we will do next week, okay? Thank you.\N{\rChinese}那就是我们下周要做的事，好的？谢谢。

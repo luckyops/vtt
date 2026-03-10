@@ -1,0 +1,1153 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1620
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,64,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,66,1
+Style: Chinese,PingFang SC,76,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,66,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.42,English,,0,0,0,,Okay, so good morning.\N{\rChinese}好的，早上好。
+Dialogue: 0,0:00:02.14,0:00:05.94,English,,0,0,0,,Today, this morning, we are doing the Byzantine Empire,\N{\rChinese}今天，早上我们来讲拜占庭帝国，
+Dialogue: 0,0:00:06.18,0:00:09.24,English,,0,0,0,,and I will be looking at three questions.\N{\rChinese}我将会讨论三个问题。
+Dialogue: 0,0:00:09.82,0:00:14.16,English,,0,0,0,,The first question is, why do we have the Byzantine Empire?\N{\rChinese}第一个问题是，为什么我们会有拜占庭帝国？
+Dialogue: 0,0:00:16.06,0:00:20.94,English,,0,0,0,,Historically, we have seen the Byzantine\N{\rChinese}从历史上看，我们把拜占庭帝国视为罗马帝国的延续。
+Dialogue: 0,0:00:20.94,0:00:23.74,English,,0,0,0,,Empire as a continuation of the Roman Empire.\N{\rChinese}Empire as a continuation of the Roman Empire.
+Dialogue: 0,0:00:23.74,0:00:26.24,English,,0,0,0,,We have the Byzantine Empire because\N{\rChinese}我们之所以有拜占庭帝国是因为
+Dialogue: 0,0:00:26.24,0:00:29.20,English,,0,0,0,,Constantine the Great, in 330,\N{\rChinese}康斯坦丁大帝在公元330年
+Dialogue: 0,0:00:29.84,0:00:33.42,English,,0,0,0,,transferred the capital of the\N{\rChinese}把首都迁至
+Dialogue: 0,0:00:33.42,0:00:36.96,English,,0,0,0,,Roman Empire from Rome to Byzantium,\N{\rChinese}从罗马到拜占庭的罗马帝国，
+Dialogue: 0,0:00:37.06,0:00:39.96,English,,0,0,0,,which he called New Rome,\N{\rChinese}他称之为新罗马，
+Dialogue: 0,0:00:40.12,0:00:43.94,English,,0,0,0,,and which eventually was renamed to Constantinople.\N{\rChinese}最终改名为君士坦丁堡。
+Dialogue: 0,0:00:44.74,0:00:46.82,English,,0,0,0,,So why did he make that transition?\N{\rChinese}那他为什么做这个转移？
+Dialogue: 0,0:00:47.88,0:00:50.50,English,,0,0,0,,Okay, that's the first question. The second question is,\N{\rChinese}好的，那是第一个问题。第二个问题是，
+Dialogue: 0,0:00:50.90,0:00:55.72,English,,0,0,0,,how did the Byzantine Empire, rise? It fell,\N{\rChinese}拜占庭帝国是怎么崛起的？又是怎么衰落的？
+Dialogue: 0,0:00:55.96,0:01:01.54,English,,0,0,0,,it lasted from 330 until 1453,\N{\rChinese}它从330年持续到1453年，
+Dialogue: 0,0:01:01.82,0:01:07.38,English,,0,0,0,,when the Ottoman Turks overran the capital of Constantinople.\N{\rChinese}1453年时，奥斯曼土耳人攻占君士坦丁堡首都。
+Dialogue: 0,0:01:07.60,0:01:09.62,English,,0,0,0,,So it lasted for over a thousand years.\N{\rChinese}于是它持续了逾千年。
+Dialogue: 0,0:01:10.06,0:01:14.68,English,,0,0,0,,Arguably, it is the most enduring world empire in human history.\N{\rChinese}可谓是人类历史上最持久的世界帝国。
+Dialogue: 0,0:01:15.26,0:01:16.72,English,,0,0,0,,So how was it so successful?\N{\rChinese}那么它是如何如此成功的？
+Dialogue: 0,0:01:16.90,0:01:18.12,English,,0,0,0,,That's the second question.\N{\rChinese}这就是第二个问题。
+Dialogue: 0,0:01:18.84,0:01:23.62,English,,0,0,0,,And the third and last question is, why did it ultimately decline?\N{\rChinese}第三个问题是，为什么它最终衰落？
+Dialogue: 0,0:01:23.74,0:01:25.06,English,,0,0,0,,Why did it collapse?\N{\rChinese}它是怎么崩溃的？
+Dialogue: 0,0:01:25.52,0:01:30.14,English,,0,0,0,,What were the factors that led to its eventual demise?\N{\rChinese}导致它最终衰落的因素是什么？
+Dialogue: 0,0:01:30.84,0:01:35.64,English,,0,0,0,,Okay, so those are the three questions we will be looking at this morning.\N{\rChinese}好的，今天上午我们要研究的就是这三个问题。
+Dialogue: 0,0:01:36.28,0:01:40.02,English,,0,0,0,,And what I want to do, first I want to present the scholarly consensus.\N{\rChinese}我先想做的事是先给大家介绍学界的共识。
+Dialogue: 0,0:01:40.38,0:01:42.20,English,,0,0,0,,What is generally accepted,\N{\rChinese}一般认为的内容是……
+Dialogue: 0,0:01:42.58,0:01:45.52,English,,0,0,0,,what is generally believed about these three questions.\N{\rChinese}这三问的共识是什么？
+Dialogue: 0,0:01:45.82,0:01:47.64,English,,0,0,0,,And then I want to present my own perspective\N{\rChinese}然后我想给出自己的观点
+Dialogue: 0,0:01:47.64,0:01:52.60,English,,0,0,0,,in order to refute the scholarly consensus.\N{\rChinese}以此来反驳学界共识。
+Dialogue: 0,0:01:52.82,0:01:55.22,English,,0,0,0,,Okay. All right, so let's start.\N{\rChinese}好的，开始吧。
+Dialogue: 0,0:01:55.96,0:01:59.32,English,,0,0,0,,This is the Roman Empire in 117.\N{\rChinese}这是公元117年的罗马帝国。
+Dialogue: 0,0:01:59.64,0:02:02.48,English,,0,0,0,,And as you can see, it is huge.\N{\rChinese}正如你所见，它非常庞大。
+Dialogue: 0,0:02:02.86,0:02:05.58,English,,0,0,0,,It spans across the Mediterranean.\N{\rChinese}它横跨地中海。
+Dialogue: 0,0:02:06.46,0:02:07.56,English,,0,0,0,,This is Spain.\N{\rChinese}这就是西班牙。
+Dialogue: 0,0:02:07.84,0:02:13.56,English,,0,0,0,,Over here is Anatolia,\N{\rChinese}这里是安纳托利亚。
+Dialogue: 0,0:02:13.78,0:02:15.90,English,,0,0,0,,Egypt, the Levant.\N{\rChinese}埃及，黎凡特。
+Dialogue: 0,0:02:16.06,0:02:19.24,English,,0,0,0,,Okay, so it is a huge world empire.\N{\rChinese}好的，正是一个庞大的世界帝国。
+Dialogue: 0,0:02:19.38,0:02:20.72,English,,0,0,0,,And that's a problem.\N{\rChinese}这就是问题所在。
+Dialogue: 0,0:02:20.90,0:02:22.24,English,,0,0,0,,It's just much too big.\N{\rChinese}它太大了。
+Dialogue: 0,0:02:22.24,0:02:24.04,English,,0,0,0,,Unlike China,\N{\rChinese}与中国不同，
+Dialogue: 0,0:02:24.24,0:02:27.44,English,,0,0,0,,it has no natural boundaries.\N{\rChinese}它没有天然边界。
+Dialogue: 0,0:02:27.76,0:02:30.04,English,,0,0,0,,And throughout most of its history,\N{\rChinese}并且在其大部分历史中
+Dialogue: 0,0:02:30.30,0:02:35.06,English,,0,0,0,,it was invaded by barbarians,\N{\rChinese}它被蛮族入侵
+Dialogue: 0,0:02:35.06,0:02:36.32,English,,0,0,0,,what the Romans called barbarians.\N{\rChinese}正如罗马人所说的蛮族
+Dialogue: 0,0:02:36.78,0:02:40.88,English,,0,0,0,,Basically these Germanic Gothic tribes from the north.\N{\rChinese}基本上是来自北方的日耳曼哥特部落。
+Dialogue: 0,0:02:41.06,0:02:45.76,English,,0,0,0,,It also had a major adversary in the Persian Empire.\N{\rChinese}它也有一个主要对手——波斯帝国。
+Dialogue: 0,0:02:46.46,0:02:49.50,English,,0,0,0,,At this time, they were fighting against the Parthians.\N{\rChinese}此时，他们正与帕提亚人作战。
+Dialogue: 0,0:02:49.50,0:02:51.12,English,,0,0,0,,But later on,\N{\rChinese}但后来，
+Dialogue: 0,0:02:51.12,0:02:55.06,English,,0,0,0,,they would fight against what we call the Sassanian Persian Empire.\N{\rChinese}他们将会与我们所说的萨萨尼亚波斯帝国作战。
+Dialogue: 0,0:02:56.82,0:02:58.08,English,,0,0,0,,And so\N{\rChinese}于是如此
+Dialogue: 0,0:02:58.08,0:03:01.76,English,,0,0,0,,this was not a really sustainable empire.\N{\rChinese}这就是一个不太可持续的帝国。
+Dialogue: 0,0:03:02.86,0:03:06.68,English,,0,0,0,,Internally, as we discussed last class, there was a contradiction.\N{\rChinese}内部上，正如上节所说，出现了矛盾。
+Dialogue: 0,0:03:07.60,0:03:11.92,English,,0,0,0,,They were an empire, but they believed themselves to be republic.\N{\rChinese}他们是帝国，却自认为是共和国。
+Dialogue: 0,0:03:12.46,0:03:18.00,English,,0,0,0,,It was important for them to maintain republican institutions like the Senate.\N{\rChinese}对他们来说，保持诸如参议院的共和制度很重要。
+Dialogue: 0,0:03:18.00,0:03:19.40,English,,0,0,0,,Even though\N{\rChinese}即便如此。
+Dialogue: 0,0:03:19.40,0:03:23.64,English,,0,0,0,,it was to the detriment of the management of the empire.\N{\rChinese}这对帝国的管理造成了损失。
+Dialogue: 0,0:03:23.90,0:03:27.26,English,,0,0,0,,What I mean by that is that throughout this time,\N{\rChinese}我的意思是，在这段时间里，
+Dialogue: 0,0:03:27.38,0:03:31.20,English,,0,0,0,,on paper, in theory, it was committee.\N{\rChinese}从纸面上，理论上是委员会。
+Dialogue: 0,0:03:31.70,0:03:33.28,English,,0,0,0,,It was ruled by committee.\N{\rChinese}它由委员会统治。
+Dialogue: 0,0:03:33.84,0:03:35.78,English,,0,0,0,,The Senate was really in command.\N{\rChinese}参议院真正掌握了指挥权。
+Dialogue: 0,0:03:36.08,0:03:38.30,English,,0,0,0,,And as we discussed in previous classes,\N{\rChinese}正如我们在前几课中讨论的那样，
+Dialogue: 0,0:03:38.64,0:03:42.80,English,,0,0,0,,the Senate is composed of the Roman aristocracy,\N{\rChinese}参议院由罗马贵族组成，
+Dialogue: 0,0:03:43.04,0:03:44.56,English,,0,0,0,,the ruling houses of Rome.\N{\rChinese}罗马的统治家族
+Dialogue: 0,0:03:44.96,0:03:46.38,English,,0,0,0,,And when you have that.\N{\rChinese}当你拥有那样时。
+Dialogue: 0,0:03:46.38,0:03:49.56,English,,0,0,0,,When you have rule by committee.\N{\rChinese}当你拥有委员会统治时。
+Dialogue: 0,0:03:50.62,0:03:54.46,English,,0,0,0,,When powers divide up evenly among the ruling houses of an empire.\N{\rChinese}当各大国在帝国统治家族间均分势力时。
+Dialogue: 0,0:03:54.78,0:03:58.38,English,,0,0,0,,The only thing they can really agree on is to be corrupt together.\N{\rChinese}他们唯一能达成一致的就是共同腐败。
+Dialogue: 0,0:03:59.26,0:04:02.60,English,,0,0,0,,And so the Senate was a huge problem because\N{\rChinese}于是参议院成了大问题，因其基本掌握财富。
+Dialogue: 0,0:04:02.60,0:04:04.80,English,,0,0,0,,they basically monopolized wealth.\N{\rChinese}他们基本上垄断了财富。
+Dialogue: 0,0:04:05.74,0:04:08.26,English,,0,0,0,,And there was a lot of discontent in the provinces.\N{\rChinese}在省份里出现了大量不满。
+Dialogue: 0,0:04:08.88,0:04:11.02,English,,0,0,0,,There was a lot of discontent among the people.\N{\rChinese}人们之间也有很多不安。
+Dialogue: 0,0:04:11.70,0:04:14.92,English,,0,0,0,,And the Romans tried different solutions to this.\N{\rChinese}罗马人尝试了不同的方案来解决这个问题。
+Dialogue: 0,0:04:16.46,0:04:18.68,English,,0,0,0,,But none of the solutions worked.\N{\rChinese}但这些方案都没有奏效。
+Dialogue: 0,0:04:20.58,0:04:25.90,English,,0,0,0,,And eventually we had something called the Third Century Crisis.\N{\rChinese}于是我们出现了所谓的三世纪危机。
+Dialogue: 0,0:04:26.02,0:04:27.44,English,,0,0,0,,The crisis of the Third Century.\N{\rChinese}三世纪危机。
+Dialogue: 0,0:04:27.80,0:04:31.92,English,,0,0,0,,Which basically meant the Roman Empire was about to disintegrate.\N{\rChinese}这基本意味着罗马帝国即将解体。
+Dialogue: 0,0:04:32.52,0:04:33.92,English,,0,0,0,,There were civil wars going on.\N{\rChinese}出现了内战。
+Dialogue: 0,0:04:34.46,0:04:36.98,English,,0,0,0,,There were these invasions in the north.\N{\rChinese}北方又有入侵。
+Dialogue: 0,0:04:37.72,0:04:39.02,English,,0,0,0,,There was economic collapse.\N{\rChinese}经济崩溃。
+Dialogue: 0,0:04:39.42,0:04:43.10,English,,0,0,0,,There was a plague. So in the Third Century.\N{\rChinese}瘟疫爆发。于是三世纪。
+Dialogue: 0,0:04:44.92,0:04:50.08,English,,0,0,0,,It really seemed the Roman Empire was on the brink of complete implosion.\N{\rChinese}罗马帝国似乎已接近彻底崩溃。
+Dialogue: 0,0:04:50.76,0:04:54.66,English,,0,0,0,,Then a military genius by the name of Deocletian.\N{\rChinese}然后出现了名为德奥克里安的军事天才。
+Dialogue: 0,0:04:54.80,0:04:57.08,English,,0,0,0,,He re -united the empire.\N{\rChinese}他重新统一了帝国。
+Dialogue: 0,0:04:57.46,0:05:02.66,English,,0,0,0,,And he recognized we basically needed to change the system.\N{\rChinese}他意识到我们基本需要改变制度。
+Dialogue: 0,0:05:02.90,0:05:08.88,English,,0,0,0,,And we needed to make radical changes in order to save the Roman Empire.\N{\rChinese}我们需要进行根本性变革以挽救罗马帝国。
+Dialogue: 0,0:05:09.26,0:05:13.24,English,,0,0,0,,Okay? As you can see.\N{\rChinese}好吧？你看得出来。
+Dialogue: 0,0:05:13.24,0:05:16.00,English,,0,0,0,,It is extremely difficult to\N{\rChinese}极其艰难。
+Dialogue: 0,0:05:16.00,0:05:20.76,English,,0,0,0,,protect Rome against the barbarian invaders over time.\N{\rChinese}保护罗马免受蛮族入侵
+Dialogue: 0,0:05:21.02,0:05:23.66,English,,0,0,0,,Eventually the western portion of the\N{\rChinese}最终西部帝国将被这些蛮族占领
+Dialogue: 0,0:05:23.66,0:05:28.12,English,,0,0,0,,empire will be overrun by these barbarians.\N{\rChinese}empire will be overrun by these barbarians.
+Dialogue: 0,0:05:28.14,0:05:30.18,English,,0,0,0,,Who we call the Germanics.\N{\rChinese}我们称之为日耳曼人。
+Dialogue: 0,0:05:30.20,0:05:31.90,English,,0,0,0,,The Goths. The Slavs.\N{\rChinese}哥特人。斯拉夫人。
+Dialogue: 0,0:05:31.94,0:05:35.54,English,,0,0,0,,The Huns. Okay? Basically these are the successors to the Yamal people.\N{\rChinese}匈奴人。好吧？基本上这些是雅玛尔人的后继者。
+Dialogue: 0,0:05:35.86,0:05:37.24,English,,0,0,0,,And they come from the steppes.\N{\rChinese}他们来自草原。
+Dialogue: 0,0:05:37.34,0:05:38.82,English,,0,0,0,,And so they are extremely aggressive.\N{\rChinese}因此他们极具侵略性。
+Dialogue: 0,0:05:40.86,0:05:42.14,English,,0,0,0,,Mobile people.\N{\rChinese}他们是流动的民族。
+Dialogue: 0,0:05:43.24,0:05:45.86,English,,0,0,0,,Who will eventually overrun the Roman Empire.\N{\rChinese}谁最终会征服罗马帝国。
+Dialogue: 0,0:05:46.04,0:05:47.52,English,,0,0,0,,And they will establish.\N{\rChinese}他们随后将建立。
+Dialogue: 0,0:05:49.44,0:05:53.98,English,,0,0,0,,Basically the tribes that will eventually give us the modern states of Germany.\N{\rChinese}基本上这些部落最终会形成今天的德国国家。
+Dialogue: 0,0:05:55.80,0:05:57.38,English,,0,0,0,,Britain. France.\N{\rChinese}英国。法国。
+Dialogue: 0,0:05:57.52,0:06:02.02,English,,0,0,0,,Okay? So basically these are the ancestors of western Europeans.\N{\rChinese}好的？所以基本上这些是西欧人的祖先。
+Dialogue: 0,0:06:02.98,0:06:04.94,English,,0,0,0,,Alright. Um.\N{\rChinese}好的。嗯。
+Dialogue: 0,0:06:07.30,0:06:09.38,English,,0,0,0,,As. Um.\N{\rChinese}嗯。
+Dialogue: 0,0:06:09.50,0:06:11.30,English,,0,0,0,,So. As you can see.\N{\rChinese}好。正如你所见。
+Dialogue: 0,0:06:11.30,0:06:13.90,English,,0,0,0,,These. Um.\N{\rChinese}这些。嗯。
+Dialogue: 0,0:06:14.24,0:06:16.34,English,,0,0,0,,Barbarians. They will establish their own empires.\N{\rChinese}蛮族。他们将建立自己的帝国。
+Dialogue: 0,0:06:16.48,0:06:18.28,English,,0,0,0,,And all that will be left after the year.\N{\rChinese}以及所有在那一年之后留下的事物。
+Dialogue: 0,0:06:18.34,0:06:21.44,English,,0,0,0,,About the year 500. Is the Eastern Roman Empire.\N{\rChinese}大约公元五百年，东罗马帝国。
+Dialogue: 0,0:06:21.88,0:06:24.00,English,,0,0,0,,Which is a successor. Uh.\N{\rChinese}它是继承者。呃。
+Dialogue: 0,0:06:24.18,0:06:25.42,English,,0,0,0,,To. The.\N{\rChinese}至。那。
+Dialogue: 0,0:06:25.90,0:06:27.30,English,,0,0,0,,Roman Empire. Okay?\N{\rChinese}罗马帝国。好的？
+Dialogue: 0,0:06:27.38,0:06:30.56,English,,0,0,0,,And. Um. Even though they call themselves Romans.\N{\rChinese}而且。呃。即使他们自称罗马人。
+Dialogue: 0,0:06:31.26,0:06:33.60,English,,0,0,0,,And they identify themselves as Romans.\N{\rChinese}而且他们自认是罗马人。
+Dialogue: 0,0:06:34.48,0:06:35.92,English,,0,0,0,,Historians refer to the.\N{\rChinese}史家称之为。
+Dialogue: 0,0:06:36.08,0:06:38.60,English,,0,0,0,,To the Eastern Roman Empire. As the Byzantines.\N{\rChinese}至东罗马帝国。即拜占庭人。
+Dialogue: 0,0:06:38.70,0:06:39.94,English,,0,0,0,,Okay? They. They.\N{\rChinese}好的？他们。它们。
+Dialogue: 0,0:06:40.10,0:06:41.52,English,,0,0,0,,Them. Again. They. Them. Say. That they themselves.\N{\rChinese}他们。又。它们。它们。说。那他们自己。
+Dialogue: 0,0:06:41.52,0:06:43.04,English,,0,0,0,,Did not call themselves the Byzantine.\N{\rChinese}未自称为拜占庭人。
+Dialogue: 0,0:06:43.76,0:06:46.20,English,,0,0,0,,It's what later historians. Call them.\N{\rChinese}后来史家称之为。
+Dialogue: 0,0:06:46.72,0:06:48.24,English,,0,0,0,,Okay. So.\N{\rChinese}好。
+Dialogue: 0,0:06:48.34,0:06:49.54,English,,0,0,0,,The man. Who.\N{\rChinese}那个人。谁。
+Dialogue: 0,0:06:49.68,0:06:51.62,English,,0,0,0,,Makes this transition. Uh.\N{\rChinese}做这件事的人。呃。
+Dialogue: 0,0:06:51.76,0:06:53.82,English,,0,0,0,,Who basically. Is a founder of the Byzantine Empire.\N{\rChinese}基本上就是拜占庭帝国的创始人。
+Dialogue: 0,0:06:54.00,0:06:56.44,English,,0,0,0,,His name is Constantine the Great. And what he does.\N{\rChinese}他的名字是大君士多尼亚，所作所为亦是如此。
+Dialogue: 0,0:06:56.60,0:06:58.14,English,,0,0,0,,That's very important. Is. That.\N{\rChinese}这非常重要。就是这样。
+Dialogue: 0,0:06:58.14,0:06:59.46,English,,0,0,0,,He shifts the capital.\N{\rChinese}他把首都迁移。
+Dialogue: 0,0:07:00.24,0:07:02.26,English,,0,0,0,,From Rome. To.\N{\rChinese}从罗马到。
+Dialogue: 0,0:07:02.78,0:07:04.42,English,,0,0,0,,Byzantium. On the Bosporus.\N{\rChinese}拜占庭。博斯普鲁斯海峡之上。
+Dialogue: 0,0:07:05.30,0:07:06.54,English,,0,0,0,,And. Today.\N{\rChinese}而且。如今。
+Dialogue: 0,0:07:06.58,0:07:08.12,English,,0,0,0,,We call this place. Constantinople.\N{\rChinese}我们把这个地方叫做君士坦丁堡。
+Dialogue: 0,0:07:08.48,0:07:09.76,English,,0,0,0,,It's still there guys.\N{\rChinese}它仍然在那里，伙计们。
+Dialogue: 0,0:07:10.00,0:07:14.40,English,,0,0,0,,If you want to visit. It's called Istanbul. in Turkey, and it's a beautiful city.\N{\rChinese}如果你想去参观，它叫伊斯坦布尔，位于土耳其，是一座美丽的城市。
+Dialogue: 0,0:07:14.68,0:07:19.04,English,,0,0,0,,Definitely one of the most beautiful cities in the world.\N{\rChinese}绝对是世界上最美丽的城市之一。
+Dialogue: 0,0:07:19.78,0:07:22.26,English,,0,0,0,,Now, the question is, sorry, I skipped.\N{\rChinese}现在，问题是，抱歉，我跳过了。
+Dialogue: 0,0:07:22.42,0:07:25.16,English,,0,0,0,,The question then is, why was this move made?\N{\rChinese}那么问题是，为什么会做出这一步？
+Dialogue: 0,0:07:25.40,0:07:28.72,English,,0,0,0,,And what modern historians believe is\N{\rChinese}而现代史学家认为是
+Dialogue: 0,0:07:28.72,0:07:31.34,English,,0,0,0,,that this was a strategic decision.\N{\rChinese}那是一次战略决策。
+Dialogue: 0,0:07:33.32,0:07:37.22,English,,0,0,0,,First of all, Rome was not easily defended.\N{\rChinese}首先，罗马并不易守。
+Dialogue: 0,0:07:37.22,0:07:43.14,English,,0,0,0,,So it's very common throughout its history for it to be overrun by a provincial military governor.\N{\rChinese}于是，在其历史上，常常出现被省级军事总督攻占的情况。
+Dialogue: 0,0:07:43.34,0:07:46.48,English,,0,0,0,,So think of Julius Caesar, but also there were others as well\N{\rChinese}想想朱利叶斯·凯撒，也有其他类似的例子。
+Dialogue: 0,0:07:46.48,0:07:50.32,English,,0,0,0,,who did the same thing, who were extremely successful in the provinces,\N{\rChinese}谁也做了同样的事，谁在省里极为成功，并且他们用军队攻占罗马。
+Dialogue: 0,0:07:50.58,0:07:53.90,English,,0,0,0,,and they took their military and conquered Rome.\N{\rChinese}and they took their military and conquered Rome.
+Dialogue: 0,0:07:54.08,0:07:58.14,English,,0,0,0,,It was very easy to overrun Rome and then declare himself emperor.\N{\rChinese}很容易攻占罗马并自称皇帝。
+Dialogue: 0,0:07:58.48,0:08:02.50,English,,0,0,0,,So by moving into Constantinople, the city,\N{\rChinese}于是，迁入君士坦丁堡这座城市。
+Dialogue: 0,0:08:02.66,0:08:04.88,English,,0,0,0,,the capital, is now impregnable.\N{\rChinese}首都已变得不可攻陷。
+Dialogue: 0,0:08:05.10,0:08:07.08,English,,0,0,0,,It is impossible to...\N{\rChinese}这几乎不可能再被攻占。
+Dialogue: 0,0:08:07.22,0:08:10.00,English,,0,0,0,,besiege. It is easily defensible.\N{\rChinese}围攻。很容易防守。
+Dialogue: 0,0:08:10.28,0:08:13.00,English,,0,0,0,,And how so, I will show you later on.\N{\rChinese}然后我稍后再给你演示。
+Dialogue: 0,0:08:13.12,0:08:17.02,English,,0,0,0,,Okay, the other thing that's really important about this transition is\N{\rChinese}好的，另外一个非常重要的转折点是
+Dialogue: 0,0:08:18.16,0:08:22.02,English,,0,0,0,,Constantinople is really at the center of the Empire now.\N{\rChinese}君士坦丁堡现在正是帝国的中心。
+Dialogue: 0,0:08:22.30,0:08:24.92,English,,0,0,0,,Rome was too far to the west\N{\rChinese}罗马太远在西方
+Dialogue: 0,0:08:24.92,0:08:27.22,English,,0,0,0,,and most of\N{\rChinese}以及大部分
+Dialogue: 0,0:08:28.48,0:08:31.14,English,,0,0,0,,the Roman Empire's most wealthy provinces,\N{\rChinese}罗马帝国最富裕的省份
+Dialogue: 0,0:08:31.28,0:08:36.00,English,,0,0,0,,the most important province like Egypt, Anatolia, and the Levant, were actually in the east.\N{\rChinese}最重要的省份如埃及、安那托利亚和黎凡特，实际上在东部。
+Dialogue: 0,0:08:36.00,0:08:40.32,English,,0,0,0,,Okay, so it's recognition the fact the center of gravity\N{\rChinese}好的，正是承认重心在东部。
+Dialogue: 0,0:08:41.15,0:08:44.20,English,,0,0,0,,in the Empire was really in the east.\N{\rChinese}在帝国中，重心确实在东部。
+Dialogue: 0,0:08:44.40,0:08:46.84,English,,0,0,0,,And the third reason is again,\N{\rChinese}第三个原因再次是，
+Dialogue: 0,0:08:47.50,0:08:48.86,English,,0,0,0,,throughout most of its history,\N{\rChinese}在其大部分历史中，
+Dialogue: 0,0:08:49.18,0:08:55.12,English,,0,0,0,,Rome's main competitor were the Persian Empire to the east.\N{\rChinese}罗马的主要竞争者是东部的波斯帝国。
+Dialogue: 0,0:08:55.34,0:08:56.90,English,,0,0,0,,And so by moving to Constantinople,\N{\rChinese}于是迁至君士坦丁堡，可以让皇帝最轻松地并最直接地回应
+Dialogue: 0,0:08:57.10,0:08:59.92,English,,0,0,0,,it allows the Emperor to most easily\N{\rChinese}于是迁至君士坦丁堡，可以让皇帝最轻松地并最直接地回应
+Dialogue: 0,0:08:59.92,0:09:02.46,English,,0,0,0,,and most directly respond to the\N{\rChinese}于是迁至君士坦丁堡，可以让皇帝最轻松地并最直接地回应
+Dialogue: 0,0:09:03.02,0:09:04.56,English,,0,0,0,,threat of the Persians.\N{\rChinese}波斯人的威胁。
+Dialogue: 0,0:09:04.64,0:09:05.98,English,,0,0,0,,Okay, so this is a very important point.\N{\rChinese}好的，这点很重要。
+Dialogue: 0,0:09:05.98,0:09:07.74,English,,0,0,0,,This is the scholarly consensus.\N{\rChinese}这是学界共识。
+Dialogue: 0,0:09:08.32,0:09:11.58,English,,0,0,0,,Okay. But as I will show you later on,\N{\rChinese}好的。稍后我会再给你展示，
+Dialogue: 0,0:09:11.72,0:09:13.34,English,,0,0,0,,I disagree with this consensus.\N{\rChinese}我与这个共识不太一样。
+Dialogue: 0,0:09:13.58,0:09:16.58,English,,0,0,0,,I think there was a much more important reason why\N{\rChinese}我认为还有更重要的原因。
+Dialogue: 0,0:09:17.16,0:09:19.12,English,,0,0,0,,Constantine made this move. Okay?\N{\rChinese}康斯坦丁做出了这个决定。好的？
+Dialogue: 0,0:09:23.14,0:09:26.80,English,,0,0,0,,The Byzantine Empire becomes the\N{\rChinese}拜占庭帝国成为现代基督教的诞生地。
+Dialogue: 0,0:09:28.84,0:09:30.74,English,,0,0,0,,birthplace of modern Christianity.\N{\rChinese}拜占庭帝国成为现代基督教的诞生地。
+Dialogue: 0,0:09:31.30,0:09:35.84,English,,0,0,0,,Okay, Constantine the Great is the first Christian Roman Empire.\N{\rChinese}好的，康斯坦丁大帝是第一个基督教罗马帝国。
+Dialogue: 0,0:09:35.98,0:09:37.96,English,,0,0,0,,He converts to Christianity.\N{\rChinese}他皈皈基督教。
+Dialogue: 0,0:09:38.36,0:09:39.98,English,,0,0,0,,But not only that, but\N{\rChinese}但不止于此，且
+Dialogue: 0,0:09:39.98,0:09:44.10,English,,0,0,0,,he lays the intellectual basis for modern day Christianity,\N{\rChinese}他奠定了现代基督教的知识基础
+Dialogue: 0,0:09:44.28,0:09:47.00,English,,0,0,0,,for something called the Council of Nicaea.\N{\rChinese}为一个叫做尼西亚会议的事物。
+Dialogue: 0,0:09:47.90,0:09:50.12,English,,0,0,0,,The pronunciation is different.\N{\rChinese}发音不同。
+Dialogue: 0,0:09:50.30,0:09:55.04,English,,0,0,0,,Okay, it's properly pronounced Nicaea, but most people pronounce it Nicaea.\N{\rChinese}好的，正确发音是尼西亚，但大多数人读作尼西亚。
+Dialogue: 0,0:09:55.24,0:09:58.20,English,,0,0,0,,Okay, so the Council of Nicaea. We talked about this last semester,\N{\rChinese}好的，尼西亚会议。我们上学期已经讨论过了。
+Dialogue: 0,0:09:58.40,0:10:01.76,English,,0,0,0,,where the Council of Nicaea was established to\N{\rChinese}尼西亚会议的建立是为了
+Dialogue: 0,0:10:01.76,0:10:05.42,English,,0,0,0,,answer a theological debate in the Christian world.\N{\rChinese}回答基督教世界中的神学争论。
+Dialogue: 0,0:10:05.48,0:10:07.20,English,,0,0,0,,Okay. What is the nature of Jesus?\N{\rChinese}好的。耶稣的本性是什么？
+Dialogue: 0,0:10:07.46,0:10:09.28,English,,0,0,0,,What is the relationship with God?\N{\rChinese}它与上帝的关系是什么？
+Dialogue: 0,0:10:09.60,0:10:13.36,English,,0,0,0,,As we discussed, one of the more popular interpretations,\N{\rChinese}正如我们讨论的，较为流行的解释之一是亚里士主义的概念，
+Dialogue: 0,0:10:14.08,0:10:17.24,English,,0,0,0,,explanations, is the idea of Arianism, where\N{\rChinese}其中
+Dialogue: 0,0:10:17.24,0:10:20.16,English,,0,0,0,,Jesus is a lesser divinity to God.\N{\rChinese}耶稣是比上帝低一等的神性。
+Dialogue: 0,0:10:20.40,0:10:25.06,English,,0,0,0,,The Council of Nicaea established the idea of the Holy Trinity,\N{\rChinese}尼西亚会议确立了圣三位一体的概念，
+Dialogue: 0,0:10:25.22,0:10:28.36,English,,0,0,0,,which is that God, Jesus,\N{\rChinese}即上帝、耶稣与圣灵三位一体，
+Dialogue: 0,0:10:28.38,0:10:30.32,English,,0,0,0,,and the Holy Spirit are co -equal.\N{\rChinese}且三位同等。
+Dialogue: 0,0:10:30.34,0:10:32.06,English,,0,0,0,,They are separate, but they are co -equal.\N{\rChinese}它们是分开的，但同等。
+Dialogue: 0,0:10:32.14,0:10:34.34,English,,0,0,0,,We call this the Holy Trinity, the Godhead.\N{\rChinese}我们把它叫做圣三位一体，神头。
+Dialogue: 0,0:10:34.78,0:10:37.66,English,,0,0,0,,Okay? So that is Constantine's major contribution.\N{\rChinese}好？这就是君士坦丁的主要贡献。
+Dialogue: 0,0:10:39.90,0:10:43.02,English,,0,0,0,,After Constantine, one of his successors,\N{\rChinese}在君士坦丁之后，他的继任者之一，
+Dialogue: 0,0:10:43.18,0:10:44.26,English,,0,0,0,,Theodosius,\N{\rChinese}特奥多西乌斯，
+Dialogue: 0,0:10:44.42,0:10:49.84,English,,0,0,0,,makes Christianity the official religion of the Roman Empire.\N{\rChinese}把基督教定为罗马帝国的官方宗教。
+Dialogue: 0,0:10:50.08,0:10:53.84,English,,0,0,0,,There is now a crackdown on both the idea of paganism,\N{\rChinese}现在开始对古教的概念进行压制，
+Dialogue: 0,0:10:53.94,0:10:56.76,English,,0,0,0,,which used to be the religion of the Roman Empire,\N{\rChinese}它曾是罗马帝国的宗教，
+Dialogue: 0,0:10:56.94,0:10:58.94,English,,0,0,0,,as well as the idea of heresy, okay?\N{\rChinese}以及对异端的概念也同样压制，
+Dialogue: 0,0:10:59.04,0:11:01.42,English,,0,0,0,,Especially the idea of Arianism.\N{\rChinese}尤其是阿利乌派的概念。
+Dialogue: 0,0:11:02.38,0:11:05.26,English,,0,0,0,,He also builds something called the Theodosianus.\N{\rChinese}他还建造了一件叫做特奥多西乌斯的东西。
+Dialogue: 0,0:11:05.26,0:11:08.48,English,,0,0,0,,So here is an example of worship\N{\rChinese}于是这里出现了一个崇拜的例子。
+Dialogue: 0,0:11:08.48,0:11:12.82,English,,0,0,0,,worship worship worship worship worship worship\N{\rChinese}崇拜
+Dialogue: 0,0:11:12.82,0:11:15.52,English,,0,0,0,,worship worship worship worship worship worship worship worship\N{\rChinese}崇拜
+Dialogue: 0,0:11:15.52,0:11:21.04,English,,0,0,0,,worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship\N{\rChinese}崇拜
+Dialogue: 0,0:11:21.04,0:11:22.64,English,,0,0,0,,worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship\N{\rChinese}崇拜
+Dialogue: 0,0:11:22.64,0:11:26.54,English,,0,0,0,,worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship\N{\rChinese}崇拜
+Dialogue: 0,0:11:26.54,0:11:29.44,English,,0,0,0,,worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship\N{\rChinese}崇拜
+Dialogue: 0,0:11:29.44,0:11:35.38,English,,0,0,0,,worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship worship These walls protected the city.\N{\rChinese}这些墙保护了城市。
+Dialogue: 0,0:11:35.60,0:11:37.58,English,,0,0,0,,There weren't that many soldiers in the city.\N{\rChinese}城里没有太多士兵。
+Dialogue: 0,0:11:37.70,0:11:41.86,English,,0,0,0,,You didn't actually need that many soldiers to protect against invaders.\N{\rChinese}你不需要太多士兵来抵御入侵。
+Dialogue: 0,0:11:43.00,0:11:46.66,English,,0,0,0,,The other thing, so these walls are still standing today.\N{\rChinese}另一件事，就是这些墙今天还在。
+Dialogue: 0,0:11:46.82,0:11:48.28,English,,0,0,0,,You can actually go get on a plane,\N{\rChinese}你可以坐飞机，
+Dialogue: 0,0:11:48.86,0:11:51.68,English,,0,0,0,,fly to Istanbul and visit these walls.\N{\rChinese}飞到伊斯坦布尔去参观这些墙。
+Dialogue: 0,0:11:52.14,0:11:55.66,English,,0,0,0,,Okay, they were basically designed to stand for all eternity.\N{\rChinese}好的，它们基本上是为永恒而建的。
+Dialogue: 0,0:11:56.66,0:11:59.68,English,,0,0,0,,And that was the idea of Constantinople, the eternal city.\N{\rChinese}这就是君士坦丁堡的想法，永恒之城。
+Dialogue: 0,0:12:03.16,0:12:04.56,English,,0,0,0,,They also had sea walls.\N{\rChinese}他们也有海墙。
+Dialogue: 0,0:12:04.88,0:12:08.40,English,,0,0,0,,So not only could you not attack Constantinople by land,\N{\rChinese}于是你既不能陆路攻打君士坦丁堡，也不能海路进攻。
+Dialogue: 0,0:12:08.54,0:12:10.12,English,,0,0,0,,you couldn't even attack it by sea.\N{\rChinese}于是你既不能陆路攻打君士坦丁堡，也不能海路进攻。
+Dialogue: 0,0:12:11.28,0:12:15.82,English,,0,0,0,,One of the great inventions of Constantinople\N{\rChinese}君士坦丁堡的伟大发明之一
+Dialogue: 0,0:12:15.82,0:12:17.76,English,,0,0,0,,is the idea of Greek fire.\N{\rChinese}是希腊火的概念
+Dialogue: 0,0:12:18.20,0:12:21.84,English,,0,0,0,,Okay, the story is that they were being attacked\N{\rChinese}好的，故事是他们正被攻击
+Dialogue: 0,0:12:22.58,0:12:25.40,English,,0,0,0,,by the Muslims, this is in the eighth century, when\N{\rChinese}由穆斯林所说，这件事发生在八世纪，当时
+Dialogue: 0,0:12:25.40,0:12:28.82,English,,0,0,0,,the Muslims are expanding throughout the world.\N{\rChinese}穆斯林正在遍布世界。
+Dialogue: 0,0:12:29.26,0:12:33.20,English,,0,0,0,,They're conquering both the Sassanian Empire\N{\rChinese}他们正在征服萨珊帝国
+Dialogue: 0,0:12:33.20,0:12:35.88,English,,0,0,0,,as well as the Roman Empire.\N{\rChinese}以及罗马帝国。
+Dialogue: 0,0:12:36.16,0:12:39.70,English,,0,0,0,,And they want to, obviously, overrun Constantinople.\N{\rChinese}他们显然想占领君士坦丁堡。
+Dialogue: 0,0:12:40.10,0:12:43.48,English,,0,0,0,,And ultimately, what saves the city\N{\rChinese}最终，是什么拯救了这座城市
+Dialogue: 0,0:12:43.92,0:12:47.42,English,,0,0,0,,is the invention of something called Greek fire, which is basically kerosene, right?\N{\rChinese}这就是被称为希腊火的发明，基本上就是煤油，对吧？
+Dialogue: 0,0:12:47.48,0:12:49.58,English,,0,0,0,,You take kerosene, you throw it at someone, and then\N{\rChinese}你拿煤油，扔向某人，然后
+Dialogue: 0,0:12:49.58,0:12:52.36,English,,0,0,0,,the boat is light on fire.\N{\rChinese}船上点着火
+Dialogue: 0,0:12:52.70,0:12:54.10,English,,0,0,0,,The story is that\N{\rChinese}故事是这样
+Dialogue: 0,0:12:54.10,0:12:57.98,English,,0,0,0,,this was invented by a Hellenized Jew\N{\rChinese}这就是由一位希腊化犹太人发明的。
+Dialogue: 0,0:12:57.98,0:12:59.30,English,,0,0,0,,who converted to Christianity.\N{\rChinese}谁皈基督教。
+Dialogue: 0,0:12:59.78,0:13:02.24,English,,0,0,0,,And he has this great idea, and then\N{\rChinese}他有了这个大主意，随后
+Dialogue: 0,0:13:02.24,0:13:06.12,English,,0,0,0,,he approaches the emperor with this invention.\N{\rChinese}他携带此发明前往皇帝面前。
+Dialogue: 0,0:13:06.56,0:13:11.28,English,,0,0,0,,And the emperor believes that he is an angel sent by God to save the city.\N{\rChinese}皇帝以为天使，来拯城也。
+Dialogue: 0,0:13:12.02,0:13:13.64,English,,0,0,0,,Okay, and so\N{\rChinese}好的，接着说
+Dialogue: 0,0:13:13.64,0:13:18.56,English,,0,0,0,,it is impossible to actually launch a naval expedition against Constantinople\N{\rChinese}于是对君士坦丁堡发起海上远征就成了不可能的事
+Dialogue: 0,0:13:18.56,0:13:20.88,English,,0,0,0,,because they'll just burn down your ships.\N{\rChinese}因为他们会把你的船烧光。
+Dialogue: 0,0:13:23.42,0:13:26.72,English,,0,0,0,,At the height of the Byzantine Empire,\N{\rChinese}在拜占庭帝国的巅峰时期。
+Dialogue: 0,0:13:26.96,0:13:29.56,English,,0,0,0,,it almost reestablishes,\N{\rChinese}它几乎重新确立
+Dialogue: 0,0:13:29.56,0:13:32.08,English,,0,0,0,,reconstitutes the entire Roman,\N{\rChinese}重组整个罗马
+Dialogue: 0,0:13:32.82,0:13:35.04,English,,0,0,0,,the Byzantine Empire, and this is the year 565.\N{\rChinese}拜占庭帝国，时间是公元565年。
+Dialogue: 0,0:13:35.54,0:13:38.22,English,,0,0,0,,At this point, the emperor is Justinian.\N{\rChinese}此时皇帝是朱斯提安。
+Dialogue: 0,0:13:38.74,0:13:42.46,English,,0,0,0,,And at this point, the one who is leading the military\N{\rChinese}此时，指挥拜占庭军队的将领是贝利萨里乌斯。
+Dialogue: 0,0:13:43.06,0:13:45.90,English,,0,0,0,,of the Byzantines, his name is Belisarius,\N{\rChinese}贝利萨里乌斯是拜占庭军队的主帅。
+Dialogue: 0,0:13:46.20,0:13:49.06,English,,0,0,0,,and he is considered the last great Roman general.\N{\rChinese}他被视为最后一位伟大的罗马将帅。
+Dialogue: 0,0:13:49.32,0:13:52.38,English,,0,0,0,,Okay, his military genius is on par with that\N{\rChinese}好的，他的军事天才与以下将帅相当：尤利乌斯·凯撒、汉尼拔以及其他伟将。
+Dialogue: 0,0:13:52.38,0:13:55.76,English,,0,0,0,,of Julius Caesar, Hannibal, all the great generals.\N{\rChinese}……
+Dialogue: 0,0:13:56.44,0:13:58.70,English,,0,0,0,,And through his military conquest,\N{\rChinese}通过他的军事征服，
+Dialogue: 0,0:13:59.12,0:14:02.62,English,,0,0,0,,the Byzantine Empire is able to,\N{\rChinese}拜占庭帝国得以
+Dialogue: 0,0:14:02.64,0:14:04.48,English,,0,0,0,,you know, expand its influence.\N{\rChinese}扩展其影响力。
+Dialogue: 0,0:14:05.16,0:14:06.44,English,,0,0,0,,But as we learn in this class,\N{\rChinese}但正如本课所学，
+Dialogue: 0,0:14:06.98,0:14:10.84,English,,0,0,0,,once you reach a peak of empire, there are problems, okay?\N{\rChinese}一旦帝国达到顶峰，便会出现问题，
+Dialogue: 0,0:14:10.98,0:14:13.92,English,,0,0,0,,So the first problem is that\N{\rChinese}第一个问题是
+Dialogue: 0,0:14:13.92,0:14:17.24,English,,0,0,0,,your city becomes overpopulated, and when your city becomes overpopulated,\N{\rChinese}你的城市人口过多，人口过多时，城市就会出现瘟疫，好的？
+Dialogue: 0,0:14:17.38,0:14:20.18,English,,0,0,0,,it becomes susceptible to the plague, okay?\N{\rChinese}于是就有了一个叫做朱迪安瘟疫的东西，好的？
+Dialogue: 0,0:14:20.40,0:14:22.52,English,,0,0,0,,So there's something called the Justinian Plague, which\N{\rChinese}So there's something calledthe Justinian Plague, which
+Dialogue: 0,0:14:22.52,0:14:25.56,English,,0,0,0,,wiped out anywhere between 50 to 60\N{\rChinese}被消灭的比例在50%到60%之间
+Dialogue: 0,0:14:25.56,0:14:28.76,English,,0,0,0,,% of the entire population of Constantinople.\N{\rChinese}占康斯坦丁堡总人口的百分比
+Dialogue: 0,0:14:29.72,0:14:32.78,English,,0,0,0,,At this point, the population, the population of Constantinople,\N{\rChinese}此时康斯坦丁堡的人口数
+Dialogue: 0,0:14:32.78,0:14:34.90,English,,0,0,0,,the population of the city is about 500,000, half a million.\N{\rChinese}城市人口约五十万，五十万。
+Dialogue: 0,0:14:35.24,0:14:38.04,English,,0,0,0,,The plague killed 300,000 people.\N{\rChinese}瘟疫造成三十万死亡。
+Dialogue: 0,0:14:38.26,0:14:39.84,English,,0,0,0,,That's a lot of people, okay?\N{\rChinese}人多得很可观，行吗？
+Dialogue: 0,0:14:40.04,0:14:44.46,English,,0,0,0,,Even today, scholars debate where this plague came from.\N{\rChinese}至今，学者仍在争论这次瘟疫的来源。
+Dialogue: 0,0:14:44.68,0:14:48.80,English,,0,0,0,,Originally, we believe it came from grain ships from Egypt,\N{\rChinese}最初我们认为它来自埃及的粮食船。
+Dialogue: 0,0:14:49.00,0:14:52.56,English,,0,0,0,,right, because Constantinople imports all its food from Egypt,\N{\rChinese}对，因康斯坦丁堡的粮食全从埃及运来。
+Dialogue: 0,0:14:52.74,0:14:56.96,English,,0,0,0,,and so there were rats on these ships, and these rats spread basically the bubonic plague.\N{\rChinese}于是船上有老鼠，老鼠把鼠疫传播开来。
+Dialogue: 0,0:14:57.48,0:14:59.54,English,,0,0,0,,Now historians believe that it actually came\N{\rChinese}现在史学家认为它实际上来自草原、匈奴和腓尼基人。
+Dialogue: 0,0:15:00.36,0:15:02.76,English,,0,0,0,,from the steppes, the Huns, and Phoenicians.\N{\rChinese}from the steppes, theHuns, and Phoenicians.
+Dialogue: 0,0:15:02.76,0:15:07.26,English,,0,0,0,,So they found that they found that they found that they found that they found that they found\N{\rChinese}于是他们发现他们发现他们发现他们发现他们发现他们发现
+Dialogue: 0,0:15:07.90,0:15:10.52,English,,0,0,0,,that they found that they found that they found\N{\rChinese}于是他们发现他们发现他们发现
+Dialogue: 0,0:15:11.36,0:15:15.94,English,,0,0,0,,that they found that they found that they found that they found that they found that they found that they found that they found that they found that they found that they found that they found that they found that they found that they found\N{\rChinese}他们发现他们发现他们发现他们发现他们发现他们发现他们发现他们发现他们发现他们发现他们发现
+Dialogue: 0,0:15:16.76,0:15:19.58,English,,0,0,0,,that they found that they found that they found that they found that they found that they found that they found that they found that they found that they found\N{\rChinese}他们发现他们发现他们发现他们发现他们发现他们发现他们发现他们发现他们发现他们发现他们发现
+Dialogue: 0,0:15:19.58,0:15:22.76,English,,0,0,0,,that they found that they found that they found that they found that they found that they found that\N{\rChinese}他们发现他们发现他们发现他们发现他们发现他们发现他们发现
+Dialogue: 0,0:15:22.76,0:15:25.90,English,,0,0,0,,they found that they found that they found that they found\N{\rChinese}他们发现他们发现他们发现他们发现
+Dialogue: 0,0:15:27.42,0:15:30.90,English,,0,0,0,,that they found that they found\N{\rChinese}他们发现他们发现
+Dialogue: 0,0:15:30.90,0:15:34.80,English,,0,0,0,,that they found the empire, the emperor, comes into conflict with the general.\N{\rChinese}他们发现帝国、皇帝与将军之间产生冲突。
+Dialogue: 0,0:15:35.02,0:15:38.16,English,,0,0,0,,So even though Justinian and Belisarius, they were great friends,\N{\rChinese}于是即使朱利安和贝利萨里乌斯是好友，
+Dialogue: 0,0:15:38.34,0:15:43.12,English,,0,0,0,,their wives were great friends, they themselves had a lot of personal conflict.\N{\rChinese}他们的妻子是好朋友，他们自己也有很多个人冲突。
+Dialogue: 0,0:15:43.52,0:15:46.20,English,,0,0,0,,In fact, towards the end of his life,\N{\rChinese}实际上，在他生命的末期，贝利萨里乌斯被以叛国罪审判。
+Dialogue: 0,0:15:46.38,0:15:48.86,English,,0,0,0,,Belisarius was actually tried for treason.\N{\rChinese}贝利萨里乌斯在他晚年被以叛国罪审判。
+Dialogue: 0,0:15:49.14,0:15:53.14,English,,0,0,0,,And there were many times when Belisarius was on military campaign,\N{\rChinese}有许多次贝利萨里乌斯出征，显然朱利安在暗中破坏他。
+Dialogue: 0,0:15:53.56,0:15:56.82,English,,0,0,0,,it was clear that Justinian was trying to sabotage him.\N{\rChinese}it was clear that Justinianwas trying to sabotage him.
+Dialogue: 0,0:15:56.82,0:15:59.62,English,,0,0,0,,Because obviously if you're emperor,\N{\rChinese}因为显然如果你是皇帝，
+Dialogue: 0,0:15:59.98,0:16:02.92,English,,0,0,0,,you're afraid that your general,\N{\rChinese}你会担心你的将军，
+Dialogue: 0,0:16:03.16,0:16:06.90,English,,0,0,0,,your great conquering general, will eventually come back and take your throne.\N{\rChinese}你的伟大征服将军，终将归来夺取你的王位。
+Dialogue: 0,0:16:07.32,0:16:10.76,English,,0,0,0,,Okay? So because of what happened between Justinian\N{\rChinese}好的？所以因为朱利安之间的事发生了。
+Dialogue: 0,0:16:10.76,0:16:13.58,English,,0,0,0,,and Belisarius, basically, this was the last time\N{\rChinese}以及贝利萨里乌斯，基本上，这就是拜占庭人发动大规模军事行动的最后一次。
+Dialogue: 0,0:16:13.58,0:16:17.76,English,,0,0,0,,that the Byzantines embarked on a massive military campaign.\N{\rChinese}拜占庭人发动大规模军事行动的最后一次。
+Dialogue: 0,0:16:18.83,0:16:21.26,English,,0,0,0,,Okay, from now on, they're defensive.\N{\rChinese}好的，从现在开始，他们是防御的。
+Dialogue: 0,0:16:21.64,0:16:23.98,English,,0,0,0,,And also, they focus on the idea of diplomacy,\N{\rChinese}另外，他们聚焦于外交的概念。
+Dialogue: 0,0:16:24.32,0:16:26.80,English,,0,0,0,,basically bribing their enemies not to attack.\N{\rChinese}基本上是给敌人贿赐，让他们不来攻击。
+Dialogue: 0,0:16:26.82,0:16:29.48,English,,0,0,0,,They don't want to attack them, especially the Huns, but\N{\rChinese}他们不想去攻击他们，尤其是匈奴，但也包括阿拉伯人以及波斯王国。
+Dialogue: 0,0:16:29.48,0:16:34.22,English,,0,0,0,,also the Arabs, as well as the Persian Empire.\N{\rChinese}同样是阿拉伯人以及波斯王国。
+Dialogue: 0,0:16:38.36,0:16:39.88,English,,0,0,0,,This is Hagia Sophia,\N{\rChinese}这就是圣索菲亚大教堂，
+Dialogue: 0,0:16:40.34,0:16:41.58,English,,0,0,0,,the Cathedral to Wisdom.\N{\rChinese}智慧之大教堂。
+Dialogue: 0,0:16:41.70,0:16:44.48,English,,0,0,0,,And this is the great monument,\N{\rChinese}以及这座宏伟的纪念碑。
+Dialogue: 0,0:16:44.86,0:16:48.80,English,,0,0,0,,the great legacy of the Byzantine Empire.\N{\rChinese}拜占庭帝国的伟大遗产。
+Dialogue: 0,0:16:49.10,0:16:52.22,English,,0,0,0,,It's absolutely beautiful. Again, guys, this is what's amazing,\N{\rChinese}它绝对美丽。再说一次，伙计们，这就是令人惊叹的地方，
+Dialogue: 0,0:16:52.58,0:16:54.62,English,,0,0,0,,it's still there. Okay?\N{\rChinese}它仍然在那里。好吗？
+Dialogue: 0,0:16:54.80,0:16:57.96,English,,0,0,0,,You can actually get on a plane, go to Istanbul, and visit this place.\N{\rChinese}你可以乘飞机去伊斯坦布尔，亲自去参观这儿。
+Dialogue: 0,0:16:58.08,0:16:59.56,English,,0,0,0,,It's absolutely gorgeous.\N{\rChinese}它真是绝美无比。
+Dialogue: 0,0:17:00.42,0:17:02.14,English,,0,0,0,,Definitely worth visiting.\N{\rChinese}绝对值得一游。
+Dialogue: 0,0:17:03.90,0:17:05.86,English,,0,0,0,,All right. Now,\N{\rChinese}好的。现在，
+Dialogue: 0,0:17:05.92,0:17:09.74,English,,0,0,0,,why did Constantinople fall?\N{\rChinese}为什么君士坦丁堡会落下？
+Dialogue: 0,0:17:11.72,0:17:14.74,English,,0,0,0,,And so what happened was that,\N{\rChinese}于是发生的事是这样，
+Dialogue: 0,0:17:14.76,0:17:19.08,English,,0,0,0,,again, even though Constantinople itself is impenetrable,\N{\rChinese}再说，虽然君士坦丁堡本身不可攻破，但它依旧是个帝国。
+Dialogue: 0,0:17:19.26,0:17:22.46,English,,0,0,0,,it's invincible, it's still an empire.\N{\rChinese}于是，最终它的各个地区被攻占。
+Dialogue: 0,0:17:22.78,0:17:26.62,English,,0,0,0,,And so eventually, its regions were eventually overrun.\N{\rChinese}于是，最终它的各个地区被攻占。
+Dialogue: 0,0:17:26.68,0:17:30.32,English,,0,0,0,,And so, you know, Constantinople was completely overrun by great enemies. So, for example, in about the year 1450,\N{\rChinese}于是，你知道，君士坦丁堡被大敌完全攻占。于是，例如在大约1450年，
+Dialogue: 0,0:17:30.48,0:17:33.90,English,,0,0,0,,and this is three years before the eventual fall of the city,\N{\rChinese}这正是城落后三年，
+Dialogue: 0,0:17:34.70,0:17:39.28,English,,0,0,0,,the Ottoman Empire just, it's basically taken over the Byzantines.\N{\rChinese}奥斯曼帝国刚刚占领拜占庭。
+Dialogue: 0,0:17:39.36,0:17:42.60,English,,0,0,0,,Okay? And the only city left standing is Constantinople.\N{\rChinese}好的？唯一剩下来的城就是君士坦丁堡。
+Dialogue: 0,0:17:42.72,0:17:44.54,English,,0,0,0,,Okay? So you can see over here are the Ottomans.\N{\rChinese}好的？你可以看到这里是奥斯曼人。
+Dialogue: 0,0:17:44.62,0:17:47.38,English,,0,0,0,,Over here is the Ottomans. Okay?\N{\rChinese}这里是奥斯曼人。好的？
+Dialogue: 0,0:17:50.92,0:17:53.94,English,,0,0,0,,The Ottomans were able to conquer the city because\N{\rChinese}奥斯曼人之所以能攻占这座城市，正是因为他们发明了攻城机具。
+Dialogue: 0,0:17:53.94,0:17:56.22,English,,0,0,0,,of the invention of siege engines.\N{\rChinese}好的？这些城垛的坑道，像房子一样大。
+Dialogue: 0,0:17:56.22,0:17:59.58,English,,0,0,0,,Okay? These are, these canyons are as big as houses.\N{\rChinese}Okay? These are, these canyons are as big as houses.
+Dialogue: 0,0:17:59.90,0:18:02.78,English,,0,0,0,,And they basically overwhelm the walls and\N{\rChinese}他们基本上突破城墙，让奥斯曼人攻占城池。
+Dialogue: 0,0:18:02.78,0:18:07.12,English,,0,0,0,,allow the Ottomans to overrun the city.\N{\rChinese}现在，重要的是要明白，即使……。
+Dialogue: 0,0:18:07.70,0:18:10.52,English,,0,0,0,,Now, what's important to understand is even\N{\rChinese}Now, what's importantto understand is even
+Dialogue: 0,0:18:10.52,0:18:13.64,English,,0,0,0,,though the Byzantines were Christian and\N{\rChinese}虽然拜占庭人是基督徒，且…
+Dialogue: 0,0:18:13.64,0:18:16.48,English,,0,0,0,,the Ottomans were Muslim, and even though\N{\rChinese}而且即便…
+Dialogue: 0,0:18:16.48,0:18:19.74,English,,0,0,0,,the Turks overran the city,\N{\rChinese}土耳人攻占了城池…
+Dialogue: 0,0:18:19.94,0:18:25.38,English,,0,0,0,,the Turks were extremely respectful to the citizens of the city.\N{\rChinese}土耳人对城里百姓极为敬重。
+Dialogue: 0,0:18:26.22,0:18:30.62,English,,0,0,0,,Because they were considered the heirs, the successors to the Roman Empire.\N{\rChinese}因为他们被视为罗马帝国的继承者。
+Dialogue: 0,0:18:31.18,0:18:34.96,English,,0,0,0,,And this was the center of what we call the Orthodox Church.\N{\rChinese}这正是我们所说的东正教会的中心。
+Dialogue: 0,0:18:35.42,0:18:39.76,English,,0,0,0,,So the citizens were treated extremely well.\N{\rChinese}于是城里百姓受到极好的对待。
+Dialogue: 0,0:18:40.14,0:18:45.86,English,,0,0,0,,Okay? This again is another picture of the siege of Constantinople.\N{\rChinese}好？这又是另一幅君士坦丁堡围城的画面。
+Dialogue: 0,0:18:46.18,0:18:51.26,English,,0,0,0,,All right. Let's talk lastly about the significance\N{\rChinese}好了。最后再聊聊其意义。
+Dialogue: 0,0:18:51.26,0:18:52.72,English,,0,0,0,,and power of the city.\N{\rChinese}和城市的权力。
+Dialogue: 0,0:18:52.92,0:18:55.72,English,,0,0,0,,The city was the center of the world.\N{\rChinese}城市是世界的中心。
+Dialogue: 0,0:18:56.22,0:18:57.82,English,,0,0,0,,It was the center of the world for hundreds of years.\N{\rChinese}它是数百年世界的中心。
+Dialogue: 0,0:18:58.24,0:18:59.90,English,,0,0,0,,Both intellectually, because\N{\rChinese}两方面都如此，因其又继承了罗马帝国与希腊文明。
+Dialogue: 0,0:18:59.90,0:19:04.54,English,,0,0,0,,again it was the heir to not just the Roman Empire, but also to Greek civilization.\N{\rChinese}它又在贸易方面成为世界的首都。
+Dialogue: 0,0:19:06.56,0:19:10.14,English,,0,0,0,,It was also in terms of trade, the capital of the world,\N{\rChinese}It was also in terms of trade, the capital of the world,
+Dialogue: 0,0:19:10.26,0:19:14.28,English,,0,0,0,,because it was a meeting place of both the Aegean,\N{\rChinese}因为它是爱琴海与地中海的交汇点，
+Dialogue: 0,0:19:14.28,0:19:17.84,English,,0,0,0,,which leads to the Mediterranean, as well as the Black Sea,\N{\rChinese}以及通往黑海的通道，
+Dialogue: 0,0:19:17.98,0:19:21.68,English,,0,0,0,,which leads into what is Russia today.\N{\rChinese}再通往今天的俄罗斯。
+Dialogue: 0,0:19:22.02,0:19:25.90,English,,0,0,0,,Okay? So if you wanted to go anywhere, you basically had to go through Constantinople.\N{\rChinese}好的？所以如果你想去任何地方，你基本上得先经过君士坦丁堡。
+Dialogue: 0,0:19:26.22,0:19:29.82,English,,0,0,0,,It was really the center of the world. And through trade, taxing trade,\N{\rChinese}它真的是世界的中心。通过贸易、征税，城市变得极其富裕。
+Dialogue: 0,0:19:30.32,0:19:32.28,English,,0,0,0,,the city became extremely wealthy.\N{\rChinese}the city becameextremely wealthy.
+Dialogue: 0,0:19:32.98,0:19:36.00,English,,0,0,0,,Also, because it was the center of the world, it was very multicultural,\N{\rChinese}此外，因其为世界中心，城市极具多元文化，又是大都会。
+Dialogue: 0,0:19:36.56,0:19:37.74,English,,0,0,0,,very cosmopolitan.\N{\rChinese}你基本上拥有所有主要的……
+Dialogue: 0,0:19:38.06,0:19:40.24,English,,0,0,0,,You had basically all major\N{\rChinese}You had basically all major
+Dialogue: 0,0:19:40.24,0:19:44.76,English,,0,0,0,,ethnicities living inside the city.\N{\rChinese}居住在城内的各族群。
+Dialogue: 0,0:19:45.02,0:19:46.46,English,,0,0,0,,Jews, Christians,\N{\rChinese}犹太人、基督徒，
+Dialogue: 0,0:19:46.68,0:19:49.86,English,,0,0,0,,Muslims were all treated with extreme tolerance.\N{\rChinese}穆斯林都受到极度宽容。
+Dialogue: 0,0:19:50.86,0:19:55.40,English,,0,0,0,,They basically had their own quarters within the city.\N{\rChinese}他们基本上在城内各自有自己的区块。
+Dialogue: 0,0:19:55.40,0:19:57.78,English,,0,0,0,,Okay? As you can see at its height,\N{\rChinese}好？正如你所见，城在高处时，
+Dialogue: 0,0:19:57.88,0:20:02.14,English,,0,0,0,,the city was extremely beautiful and very wealthy.\N{\rChinese}城极其美丽，富饶无比。
+Dialogue: 0,0:20:02.30,0:20:06.08,English,,0,0,0,,It was really for a hundred years the capital of the world,\N{\rChinese}它确实在百年间是世界的首都，基本上是宇宙的首都。
+Dialogue: 0,0:20:06.18,0:20:07.66,English,,0,0,0,,the capital of the universe, basically.\N{\rChinese}正如你所见，几乎不可能围攻它。
+Dialogue: 0,0:20:10.22,0:20:14.32,English,,0,0,0,,As you can see, it is almost impossible to besiege.\N{\rChinese}As you can see, it is almost impossible to besiege.
+Dialogue: 0,0:20:14.56,0:20:17.90,English,,0,0,0,,Okay? You can never cut it off from supplies.\N{\rChinese}好？你永远可以从供给中切断它。
+Dialogue: 0,0:20:18.14,0:20:20.50,English,,0,0,0,,You can never isolate the city because\N{\rChinese}你永远可以从供给中切断它。
+Dialogue: 0,0:20:20.50,0:20:22.98,English,,0,0,0,,it is the meeting place of so many rivers.\N{\rChinese}它是许多河流汇聚之处。
+Dialogue: 0,0:20:23.14,0:20:25.96,English,,0,0,0,,Okay? This is the Bosporus. Okay?\N{\rChinese}好的？这就是博斯普鲁斯。好的？
+Dialogue: 0,0:20:26.02,0:20:27.86,English,,0,0,0,,So that is the Roman Empire.\N{\rChinese}于是就是罗马帝国。
+Dialogue: 0,0:20:28.14,0:20:30.92,English,,0,0,0,,Okay? So this is the, again,\N{\rChinese}好的？所以这就是，还是那样的。
+Dialogue: 0,0:20:31.02,0:20:33.50,English,,0,0,0,,what we know about it. And\N{\rChinese}我们对它的了解。然后
+Dialogue: 0,0:20:33.50,0:20:39.42,English,,0,0,0,,now I'm going to explain my theory to these three questions.\N{\rChinese}现在我要把我的理论解释给这三个问题。
+Dialogue: 0,0:20:40.02,0:20:43.84,English,,0,0,0,,Why did Constantine make the move from Rome to Byzantium?\N{\rChinese}为什么康斯坦丁把首都从罗马迁到拜占庭？
+Dialogue: 0,0:20:44.12,0:20:46.26,English,,0,0,0,,Why did it rise? Why did it decline?\N{\rChinese}它为何崛起？它为何衰落？
+Dialogue: 0,0:20:46.52,0:20:50.26,English,,0,0,0,,Okay? But before I start with my explanation,\N{\rChinese}好的吗？但在我开始解释之前，
+Dialogue: 0,0:20:50.62,0:20:53.30,English,,0,0,0,,are there any questions about what I just said?\N{\rChinese}我刚才说的内容还有什么问题吗？
+Dialogue: 0,0:20:53.30,0:20:56.12,English,,0,0,0,,What is presented? This is all pretty basic stuff.\N{\rChinese}已呈现的内容？这都是很基础的东西。
+Dialogue: 0,0:20:56.26,0:20:59.52,English,,0,0,0,,This is stuff you can find on the internet, on Wikipedia.\N{\rChinese}这些内容你可以在网上、维基百科上找到。
+Dialogue: 0,0:20:59.94,0:21:02.36,English,,0,0,0,,You can ask Chachi, Bettina, they'll probably give you the same answers.\N{\rChinese}你可以问查奇、贝蒂娜，他们可能会给你同样的答案。
+Dialogue: 0,0:21:02.48,0:21:06.86,English,,0,0,0,,Okay? But are there any questions so far about Constantinople\N{\rChinese}好的吗？但到目前为止，关于君士坦丁堡和拜占庭帝国还有什么问题吗？
+Dialogue: 0,0:21:06.86,0:21:09.96,English,,0,0,0,,and the Byzantine Empire before I present my ideas?\N{\rChinese}我在讲我的想法之前，先问问你们有没有什么疑问？
+Dialogue: 0,0:21:12.02,0:21:13.06,English,,0,0,0,,Was this clear to you guys?\N{\rChinese}到现在为止，你们觉得清楚吗？
+Dialogue: 0,0:21:21.38,0:21:22.96,English,,0,0,0,,Any questions, guys?\N{\rChinese}还有问题吗，大家？
+Dialogue: 0,0:21:26.78,0:21:31.36,English,,0,0,0,,..\N{\rChinese}……
+Dialogue: 0,0:21:31.36,0:21:33.34,English,,0,0,0,,...\N{\rChinese}……
+Dialogue: 0,0:21:34.50,0:21:37.16,English,,0,0,0,,....\N{\rChinese}....
+Dialogue: 0,0:21:37.16,0:21:41.74,English,,0,0,0,,...\N{\rChinese}...
+Dialogue: 0,0:21:42.34,0:21:45.68,English,,0,0,0,,.....\N{\rChinese}.....
+Dialogue: 0,0:21:54.24,0:22:05.20,English,,0,0,0,,. ....\N{\rChinese}....
+Dialogue: 0,0:22:05.20,0:22:18.12,English,,0,0,0,,............ So culturally, were the Romans at this time Greek or Roman?\N{\rChinese}……所以在文化上，罗马人在那时是希腊人还是罗马人？
+Dialogue: 0,0:22:19.72,0:22:21.40,English,,0,0,0,,And you're absolutely right, Doug, in that\N{\rChinese}而且你完全正确，杜格，的那点是……
+Dialogue: 0,0:22:21.40,0:22:25.68,English,,0,0,0,,Greek culture is really the hegemon, right?\N{\rChinese}希腊文化真的是霸权吗？
+Dialogue: 0,0:22:25.84,0:22:27.40,English,,0,0,0,,I mean, it's so\N{\rChinese}我的意思是，它是的确如此
+Dialogue: 0,0:22:27.40,0:22:31.22,English,,0,0,0,,superior to Roman culture.\N{\rChinese}比罗马文化更优越
+Dialogue: 0,0:22:31.88,0:22:35.00,English,,0,0,0,,I mean, Romans really were peasants who\N{\rChinese}我说，罗马人真的是农民，才建起帝国，但希腊人基本上建起西方文明，行吗？
+Dialogue: 0,0:22:35.00,0:22:39.24,English,,0,0,0,,built an empire, but the Greeks basically built Western civilization, okay?\N{\rChinese}你有荷马，你有柏拉图，你有赫罗多德。
+Dialogue: 0,0:22:39.30,0:22:41.68,English,,0,0,0,,You had Homer, you had Plato, you had Herodotus.\N{\rChinese}You had Homer, you had Plato, you had Herodotus.
+Dialogue: 0,0:22:41.68,0:22:43.46,English,,0,0,0,,The Romans were aware of this.\N{\rChinese}罗马人已意识到这一点。
+Dialogue: 0,0:22:43.56,0:22:46.72,English,,0,0,0,,And this was a conflict within Roman culture,\N{\rChinese}这在罗马文化内部是一场冲突，
+Dialogue: 0,0:22:47.00,0:22:50.32,English,,0,0,0,,civilization for a long, long time, because\N{\rChinese}文明长久长久，
+Dialogue: 0,0:22:50.32,0:22:52.54,English,,0,0,0,,they felt that even though they had conquered the world,\N{\rChinese}他们觉得，虽然他们征服了世界，但他们即将被希腊人文化征服。
+Dialogue: 0,0:22:52.76,0:22:56.08,English,,0,0,0,,they were about to be conquered culturally by the Greeks.\N{\rChinese}于是罗马人已意识到这一点，并对此起了反抗。
+Dialogue: 0,0:22:56.24,0:22:59.94,English,,0,0,0,,So the Romans were aware of this, and they rebelled against this.\N{\rChinese}So the Romans were aware of this, and they rebelled against this.
+Dialogue: 0,0:23:00.42,0:23:05.62,English,,0,0,0,,And you weren't here for my lecture on the Aeneid, but really,\N{\rChinese}而你并不是来听我关于《埃涅阿德》讲座的，实际上，
+Dialogue: 0,0:23:05.80,0:23:11.56,English,,0,0,0,,Augustus Caesar sponsored the writing of the Aeneid in response to the hegemon\N{\rChinese}奥古斯都·凯撒赞助《埃涅阿德》的创作，以回应霸权者
+Dialogue: 0,0:23:12.78,0:23:16.44,English,,0,0,0,,and his So here's an example here.\N{\rChinese}以及他的……
+Dialogue: 0,0:23:16.44,0:23:20.68,English,,0,0,0,,So here's an example here. So here's an example here.\N{\rChinese}这里给你举个例子。这里给你举个例子。
+Dialogue: 0,0:23:21.08,0:23:22.72,English,,0,0,0,,So here's an example here. So here's an example here.\N{\rChinese}这里给你举个例子。这里给你举个例子。
+Dialogue: 0,0:23:24.76,0:23:26.68,English,,0,0,0,,So here's an example here.\N{\rChinese}这里给你举个例子。
+Dialogue: 0,0:23:27.00,0:23:28.96,English,,0,0,0,,So here's an example here. So here's an example here. So here's an example here. So here's an example here.\N{\rChinese}这里给你举个例子。这里给你举个例子。这里给你举个例子。这里给你举个例子。
+Dialogue: 0,0:23:31.54,0:23:34.14,English,,0,0,0,,So here's an example here.\N{\rChinese}这里给你举个例子。
+Dialogue: 0,0:23:34.82,0:23:37.98,English,,0,0,0,,So here's an example here. So here's an example here.\N{\rChinese}这里给你举个例子。这里给你举个例子。
+Dialogue: 0,0:23:38.44,0:23:40.14,English,,0,0,0,,So here's an example here.\N{\rChinese}这里给你举个例子。
+Dialogue: 0,0:23:40.14,0:23:41.84,English,,0,0,0,,I want to look at is why\N{\rChinese}我想看的就是为什么
+Dialogue: 0,0:23:41.84,0:23:43.26,English,,0,0,0,,did Constantine make the\N{\rChinese}康斯坦丁为什么这么做
+Dialogue: 0,0:23:43.26,0:23:46.94,English,,0,0,0,,move from Rome\N{\rChinese}从罗马迁移到拜占廷？
+Dialogue: 0,0:23:46.94,0:23:49.90,English,,0,0,0,,to Byzantium?\N{\rChinese}好的，我先给你一些背景。
+Dialogue: 0,0:23:50.08,0:23:52.16,English,,0,0,0,,Okay, so let me give you some background.\N{\rChinese}Okay, so let me giveyou some background.
+Dialogue: 0,0:23:53.50,0:23:56.72,English,,0,0,0,,So during the time of Augustus,\N{\rChinese}在奥古斯都时期，
+Dialogue: 0,0:23:56.74,0:24:02.60,English,,0,0,0,,Augustus we today see him as the first Roman Emperor,\N{\rChinese}奥古斯都我们今天把他视为第一位罗马皇帝，
+Dialogue: 0,0:24:02.80,0:24:06.72,English,,0,0,0,,but he doesn't himself see himself as the first Emperor.\N{\rChinese}但他自己并不认为自己是第一位皇帝。
+Dialogue: 0,0:24:06.92,0:24:10.28,English,,0,0,0,,He just saw himself as just a citizen of Rome.\N{\rChinese}他只是把自己当作罗马的普通公民。
+Dialogue: 0,0:24:10.46,0:24:14.00,English,,0,0,0,,Okay, he is what we call a prince, or he calls himself a prince.\N{\rChinese}好的，他就是我们所说的王子，或者他自称王子。
+Dialogue: 0,0:24:14.04,0:24:17.70,English,,0,0,0,,And this is where we get the modern English word prince,\N{\rChinese}这就是我们得到现代英语单词prince的来源。
+Dialogue: 0,0:24:17.86,0:24:19.48,English,,0,0,0,,as well as principal, high school principal.\N{\rChinese}作为校长，初中校长。
+Dialogue: 0,0:24:19.94,0:24:21.52,English,,0,0,0,,And it just means first citizen.\N{\rChinese}就是第一位公民。
+Dialogue: 0,0:24:22.02,0:24:25.08,English,,0,0,0,,So again, the problem with Rome is\N{\rChinese}所以再次，罗马的问题是。
+Dialogue: 0,0:24:25.08,0:24:29.68,English,,0,0,0,,that you had the aristocracy through the Senate monopolize all wealth\N{\rChinese}于是你们让贵族通过参议院垄断所有财富
+Dialogue: 0,0:24:29.68,0:24:33.32,English,,0,0,0,,and power. And this led to a lot of contradictions\N{\rChinese}并且权力。于是产生了许多矛盾
+Dialogue: 0,0:24:33.32,0:24:34.52,English,,0,0,0,,and conflicts with everything.\N{\rChinese}并且与一切产生冲突
+Dialogue: 0,0:24:34.52,0:24:38.08,English,,0,0,0,,And so, you know, the first emperor, he was a prince, and he was a king, and he was a king. And so, you know, the first emperor, he was a prince, and he was a in the Roman Empire. And so, the solution\N{\rChinese}于是，你知道，第一位皇帝，他是王子，也是王，又是王。于是，你知道，第一位皇帝，他是王子，也是王，又是王。于是，解决方案是……
+Dialogue: 0,0:24:38.08,0:24:41.94,English,,0,0,0,,that Augustus proposed is make the prince,\N{\rChinese}奥古斯都提出的方案是让王子成为……
+Dialogue: 0,0:24:42.06,0:24:43.44,English,,0,0,0,,make me the CEO.\N{\rChinese}让我成为CEO。
+Dialogue: 0,0:24:43.72,0:24:46.76,English,,0,0,0,,Okay, this is still committee, it's still ruled by committee,\N{\rChinese}好的，这仍然是委员会制，仍由委员会统治。
+Dialogue: 0,0:24:46.96,0:24:49.14,English,,0,0,0,,but I'll be the coordinator, I'll be the CEO.\N{\rChinese}但我会是协调者，我会是CEO。
+Dialogue: 0,0:24:49.56,0:24:53.68,English,,0,0,0,,Okay, and the idea here was even\N{\rChinese}好的，这里的想法更是……
+Dialogue: 0,0:24:53.68,0:24:57.98,English,,0,0,0,,though this was not a great system, it did preserve the culture,\N{\rChinese}虽然这不是一个很好的制度，但它确实保存了文化，
+Dialogue: 0,0:24:58.28,0:25:01.86,English,,0,0,0,,okay, the history, the legacy, and\N{\rChinese}好了，历史，遗产，
+Dialogue: 0,0:25:01.86,0:25:03.80,English,,0,0,0,,the traditions of the Roman people.\N{\rChinese}罗马人民的传统。
+Dialogue: 0,0:25:03.88,0:25:06.46,English,,0,0,0,,And that was what he was trying to do. And so, he was trying to do something that was what he was trying to do. And so, he was trying to do something that was what was important to protect and\N{\rChinese}他正试图做的就是这一点。
+Dialogue: 0,0:25:06.46,0:25:09.14,English,,0,0,0,,preserve the culture,\N{\rChinese}保存文化
+Dialogue: 0,0:25:09.40,0:25:12.68,English,,0,0,0,,especially the idea of libertas, okay, liberty.\N{\rChinese}尤其是自由的概念，好的，自由。
+Dialogue: 0,0:25:14.46,0:25:18.50,English,,0,0,0,,But this system didn't really work, right?\N{\rChinese}但这个制度确实没能奏效，对吧？
+Dialogue: 0,0:25:18.66,0:25:20.90,English,,0,0,0,,You had these civil wars,\N{\rChinese}你经历了多场内战，
+Dialogue: 0,0:25:21.22,0:25:23.94,English,,0,0,0,,you had a lot of provincial riots,\N{\rChinese}你还经历了大量省级骚乱。
+Dialogue: 0,0:25:24.36,0:25:25.80,English,,0,0,0,,rebellions.\N{\rChinese}起义。
+Dialogue: 0,0:25:25.86,0:25:27.42,English,,0,0,0,,So, this system simply didn't work.\N{\rChinese}于是，这个制度就简单地没能奏效。
+Dialogue: 0,0:25:27.52,0:25:31.00,English,,0,0,0,,And this led to what we call the crisis of the third century,\N{\rChinese}于是，这导致了我们所说的三世纪危机。
+Dialogue: 0,0:25:31.18,0:25:34.48,English,,0,0,0,,when basically the Roman Empire was about to collapse.\N{\rChinese}当罗马帝国基本即将崩溃时。
+Dialogue: 0,0:25:34.48,0:25:35.56,English,,0,0,0,,And so, the Roman Empire was about to collapse. And so,\N{\rChinese}于是，罗马帝国即将崩溃。于是，
+Dialogue: 0,0:25:41.08,0:25:46.10,English,,0,0,0,,this system simply didn't work.\N{\rChinese}这个制度就简单地没能奏效。
+Dialogue: 0,0:25:46.36,0:25:47.64,English,,0,0,0,,And so, this system simply didn't work. And so, this system simply didn't work.\N{\rChinese}于是，这个制度就简单地没能奏效。于是，这个制度就简单地没能奏效。
+Dialogue: 0,0:25:48.68,0:25:52.24,English,,0,0,0,,And so, this system simply didn't work. And so, this system simply didn't work.\N{\rChinese}于是，这个制度就简单地没能奏效。于是，这个制度就简单地没能奏效。
+Dialogue: 0,0:25:52.34,0:25:57.44,English,,0,0,0,,And so, this system simply didn't work.\N{\rChinese}于是，这个制度就简单地没能奏效。
+Dialogue: 0,0:25:58.84,0:26:02.82,English,,0,0,0,,And so, this is why this is why this is why this is why this is why this is why this is why this is why\N{\rChinese}于是，这就是为什么，这就是为什么，这就是为什么，这就是为什么，这就是为什么，这就是为什么，这就是为什么，这就是为什么
+Dialogue: 0,0:26:02.82,0:26:06.78,English,,0,0,0,,this is why this is why this is why this is why this is why this is why this idea of starting an imperial bureaucracy,\N{\rChinese}这就是为什么，这就是为什么，这就是为什么，这就是为什么，这就是为什么，这就是为什么，这就是为什么，这个开始帝国官僚制的想法
+Dialogue: 0,0:26:07.18,0:26:11.68,English,,0,0,0,,centralizing power with the emperor through the bureaucracy.\N{\rChinese}通过官僚制把权力集中在皇帝手中
+Dialogue: 0,0:26:12.04,0:26:14.42,English,,0,0,0,,And the Romans hated this idea.\N{\rChinese}罗马人恨此念头。
+Dialogue: 0,0:26:15.42,0:26:20.14,English,,0,0,0,,What emperors discovered is this cultural shift,\N{\rChinese}皇帝们发现的，是这文化转变。
+Dialogue: 0,0:26:20.30,0:26:24.06,English,,0,0,0,,the Romans just found absolutely disgusting.\N{\rChinese}罗马人刚刚发现这件事，真是太可恶了。
+Dialogue: 0,0:26:24.46,0:26:27.92,English,,0,0,0,,Go back to the assassination of Julius Caesar.\N{\rChinese}回到尤利乌斯·凯撒的刺杀事件。
+Dialogue: 0,0:26:28.44,0:26:31.02,English,,0,0,0,,The Romans are extremely culturally arrogant.\N{\rChinese}罗马人极具文化自负。
+Dialogue: 0,0:26:31.30,0:26:33.04,English,,0,0,0,,Why did they assassinate Julius Caesar?\N{\rChinese}他们为何刺杀尤利乌斯·凯撒？
+Dialogue: 0,0:26:33.16,0:26:35.82,English,,0,0,0,,And the people who assassinated Julius Caesar were his best friends.\N{\rChinese}并且刺杀尤利乌斯·凯撒的人是他的好友。
+Dialogue: 0,0:26:36.10,0:26:39.14,English,,0,0,0,,In fact, we believe Marcus Brutus, who\N{\rChinese}事实上，我们认为马库斯·布鲁图斯，
+Dialogue: 0,0:26:39.14,0:26:43.20,English,,0,0,0,,was one of the lead conspirators, was actually his biological son, right?\N{\rChinese}他是主要阴谋者之一，实际上是他的亲生儿子，对吗？
+Dialogue: 0,0:26:43.40,0:26:48.96,English,,0,0,0,,Why? Because Julius Caesar was threatening the cultural traditions of Rome.\N{\rChinese}为什么？因为尤利乌斯·凯撒威胁了罗马的文化传统。
+Dialogue: 0,0:26:49.16,0:26:51.82,English,,0,0,0,,They were afraid that Julius Caesar would become king.\N{\rChinese}他们怕尤利乌斯·凯撒会成为国王。
+Dialogue: 0,0:26:52.48,0:26:54.88,English,,0,0,0,,So what these emperors,\N{\rChinese}那么这些皇帝们，
+Dialogue: 0,0:26:54.92,0:26:58.04,English,,0,0,0,,first under Diocletian, but especially under Constantine,\N{\rChinese}首先在多克利安统治时期，但尤其在康斯坦丁时期
+Dialogue: 0,0:26:58.16,0:27:03.12,English,,0,0,0,,discovered is it's really hard to change culture.\N{\rChinese}发现的事就是改变文化真的很难。
+Dialogue: 0,0:27:03.12,0:27:06.78,English,,0,0,0,,You know, they were really afraid of changing culture. And they were really afraid of changing culture. And there's really one solution to this problem.\N{\rChinese}你知道，他们真的很怕改变文化。又是很怕改变文化。还有一个真正的解决办法。
+Dialogue: 0,0:27:07.38,0:27:11.40,English,,0,0,0,,Okay, to understand this, let's run a thought experiment, okay?\N{\rChinese}好的，为了理解这个，让我们做一个思维实验，好吗？
+Dialogue: 0,0:27:11.92,0:27:14.34,English,,0,0,0,,Okay, so you understand the persistence of culture.\N{\rChinese}好的，明白了文化的持续性。
+Dialogue: 0,0:27:15.22,0:27:17.90,English,,0,0,0,,Okay, so we're at school and\N{\rChinese}好的，我们现在在学校里。
+Dialogue: 0,0:27:17.90,0:27:20.72,English,,0,0,0,,this school is known for being innovative.\N{\rChinese}这所学校以创新著称。
+Dialogue: 0,0:27:21.10,0:27:25.32,English,,0,0,0,,It's known for being student -centered.\N{\rChinese}它以以学生为中心而闻名。
+Dialogue: 0,0:27:25.56,0:27:28.48,English,,0,0,0,,It focuses a lot on activities and extracurriculars, right?\N{\rChinese}它主要关注活动和课外项目，对吧？
+Dialogue: 0,0:27:28.58,0:27:30.42,English,,0,0,0,,And that's great. I'm very supportive of this.\N{\rChinese}这很好，我很支持。
+Dialogue: 0,0:27:30.80,0:27:32.22,English,,0,0,0,,But let's just say that,\N{\rChinese}但先说个事，
+Dialogue: 0,0:27:33.58,0:27:36.62,English,,0,0,0,,that the school brings me in as a consultant\N{\rChinese}学校把我请来做顾问
+Dialogue: 0,0:27:36.62,0:27:41.12,English,,0,0,0,,and asks me to help improve the school.\N{\rChinese}并请我来帮助改进学校。
+Dialogue: 0,0:27:41.64,0:27:44.60,English,,0,0,0,,And I spend months interviewing students and\N{\rChinese}我花了几个月时间采访学生并。
+Dialogue: 0,0:27:45.08,0:27:49.50,English,,0,0,0,,teachers. I feel this school is great in terms of innovation,\N{\rChinese}老师们。我觉得这所学校在创新方面很棒，
+Dialogue: 0,0:27:49.80,0:27:51.80,English,,0,0,0,,but they need to focus more on academics.\N{\rChinese}但他们需要更专注学业。
+Dialogue: 0,0:27:52.42,0:27:53.98,English,,0,0,0,,Kids need to read more.\N{\rChinese}孩子们需要读书多一点。
+Dialogue: 0,0:27:54.44,0:27:56.46,English,,0,0,0,,Kids need to focus more on\N{\rChinese}孩子们需要更专注于
+Dialogue: 0,0:27:57.20,0:28:00.90,English,,0,0,0,,test scores. And then you have a perfect balance, okay?\N{\rChinese}考试成绩。然后你就有了完美的平衡，好的？
+Dialogue: 0,0:28:00.98,0:28:03.38,English,,0,0,0,,And that's my solution. And that's my solution.\N{\rChinese}我有个办法。
+Dialogue: 0,0:28:03.38,0:28:07.84,English,,0,0,0,,I'm pretty sure if I tried that, I'd be fired within a week.\N{\rChinese}我很确定如果我试了，周内就会被解雇。
+Dialogue: 0,0:28:08.48,0:28:13.92,English,,0,0,0,,And the reason why is I am attacking your cultural traditions.\N{\rChinese}原因是我在攻击你们的文化传统。
+Dialogue: 0,0:28:14.26,0:28:16.58,English,,0,0,0,,I'm attacking your identity, your sense of self.\N{\rChinese}我在攻击你的身份，你的自我感。
+Dialogue: 0,0:28:17.00,0:28:18.88,English,,0,0,0,,So if I want to implement my vision,\N{\rChinese}所以如果我要实现我的愿景，
+Dialogue: 0,0:28:19.16,0:28:22.60,English,,0,0,0,,I can't force my vision on you.\N{\rChinese}我不能把我的愿景强加给你。
+Dialogue: 0,0:28:22.74,0:28:26.86,English,,0,0,0,,The only thing I can really do is switch schools and build my own school.\N{\rChinese}我能做的唯一事就是换学派，创办自己的学派。
+Dialogue: 0,0:28:27.24,0:28:28.64,English,,0,0,0,,Does that make sense to you guys?\N{\rChinese}这样说对你们有道理吗？
+Dialogue: 0,0:28:28.64,0:28:34.34,English,,0,0,0,,Okay, and this is a pretty persistent thing throughout the world,\N{\rChinese}好了，这在整个世界里一直是个相当持久的现象。
+Dialogue: 0,0:28:34.44,0:28:40.18,English,,0,0,0,,okay? So that's why Constantine made the move to Byzantium.\N{\rChinese}好的？所以这就是康斯坦丁搬到拜占廷的原因。
+Dialogue: 0,0:28:40.24,0:28:43.28,English,,0,0,0,,He recognized that if I'm going to build an empire, and\N{\rChinese}他意识到，如果我要建造一个帝国，且……
+Dialogue: 0,0:28:43.28,0:28:45.66,English,,0,0,0,,Rome needs to be an empire if it is to endure,\N{\rChinese}罗马若要永存，也必须成为一个帝国。
+Dialogue: 0,0:28:46.38,0:28:49.80,English,,0,0,0,,I need to switch cultures. And\N{\rChinese}我需要换文化。然后
+Dialogue: 0,0:28:49.80,0:28:55.76,English,,0,0,0,,the best way to switch culture is by moving your capital from Rome to Byzantium.\N{\rChinese}最好的换文化方式是把首都从罗马搬到拜占廷。
+Dialogue: 0,0:28:56.18,0:28:57.80,English,,0,0,0,,And when he did that,\N{\rChinese}当他这么做时，
+Dialogue: 0,0:28:58.54,0:29:00.14,English,,0,0,0,,the entire culture shifted.\N{\rChinese}整个文化发生了转变。
+Dialogue: 0,0:29:00.28,0:29:03.14,English,,0,0,0,,Okay, so let me very quickly explain the cultural shift.\N{\rChinese}好了，我很快来解释一下文化转变。
+Dialogue: 0,0:29:03.42,0:29:08.22,English,,0,0,0,,In Rome, it was pagan.\N{\rChinese}在罗马，曾是异教。
+Dialogue: 0,0:29:09.86,0:29:13.26,English,,0,0,0,,Okay, oh by the way, pagan is not the word that they use.\N{\rChinese}好的，顺便说一句，‘异教’并不是他们用的词。
+Dialogue: 0,0:29:13.42,0:29:16.80,English,,0,0,0,,Okay, pagan is a word that Christians use to insult them basically.\N{\rChinese}好的，‘异教’是基督徒用来称呼他们的词。
+Dialogue: 0,0:29:17.02,0:29:19.82,English,,0,0,0,,Okay, but for the sake of convenience, we'll use the word pagan.\N{\rChinese}好的，为方便起见，我们用‘异教’这个词。
+Dialogue: 0,0:29:20.30,0:29:23.54,English,,0,0,0,,That was the religion. They were Roman, meaning\N{\rChinese}那是宗教。他们是罗马人，意味着
+Dialogue: 0,0:29:23.54,0:29:25.98,English,,0,0,0,,that they had a distinct cultural identity.\N{\rChinese}他们拥有独特的文化身份。
+Dialogue: 0,0:29:26.92,0:29:29.20,English,,0,0,0,,And... Lastly, they were republic,\N{\rChinese}最后，他们是共和国。
+Dialogue: 0,0:29:29.86,0:29:33.52,English,,0,0,0,,meaning they were run by the Senate basically.\N{\rChinese}意思是它基本上由参议院统治。
+Dialogue: 0,0:29:33.86,0:29:36.96,English,,0,0,0,,Okay, not just Senate, but by tradition and\N{\rChinese}好的，不只是参议院，而是由传统和……
+Dialogue: 0,0:29:36.96,0:29:40.06,English,,0,0,0,,by custom.\N{\rChinese}再加上习俗。
+Dialogue: 0,0:29:40.18,0:29:43.76,English,,0,0,0,,Okay? By Constantinople,\N{\rChinese}好的？以君士坦丁堡为中心，
+Dialogue: 0,0:29:43.96,0:29:46.24,English,,0,0,0,,okay, the Byzantine Empire was completely different.\N{\rChinese}好的，拜占庭帝国完全不同。
+Dialogue: 0,0:29:46.40,0:29:47.80,English,,0,0,0,,First of all, it was Christian.\N{\rChinese}首先，它是基督教的。
+Dialogue: 0,0:29:50.26,0:29:54.36,English,,0,0,0,,And the pagan and Christian worldview are in conflict with each other.\N{\rChinese}与异教与基督教的世界观相互冲突。
+Dialogue: 0,0:29:54.46,0:29:55.68,English,,0,0,0,,This is a major shift.\N{\rChinese}这是一次重要的转变。
+Dialogue: 0,0:29:56.66,0:29:59.44,English,,0,0,0,,Second is... They were multicultural.\N{\rChinese}第二点是……他们是多元文化的。
+Dialogue: 0,0:30:03.34,0:30:05.04,English,,0,0,0,,So, as Doug says,\N{\rChinese}于是正如道格所说，
+Dialogue: 0,0:30:05.44,0:30:10.12,English,,0,0,0,,in the time of Rome, the time of Augustus, there was a major conflict,\N{\rChinese}在罗马与奥古斯都的时代，出现了一场大冲突，
+Dialogue: 0,0:30:10.50,0:30:13.60,English,,0,0,0,,major debate between Roman culture and Greek culture.\N{\rChinese}罗马文化与希腊文化之间的重大辩论。
+Dialogue: 0,0:30:13.80,0:30:16.12,English,,0,0,0,,But when they switched over to Constantinople,\N{\rChinese}但当他们迁至君士坦丁堡时，完全接受了希腊文化。
+Dialogue: 0,0:30:16.36,0:30:18.62,English,,0,0,0,,they completely embraced Greek culture.\N{\rChinese}事实上，语言从罗马转为希腊。
+Dialogue: 0,0:30:19.40,0:30:24.34,English,,0,0,0,,In fact, the language switched from being Roman to Greek.\N{\rChinese}In fact, the language switched from being Roman to Greek.
+Dialogue: 0,0:30:24.68,0:30:25.88,English,,0,0,0,,They spoke Greek.\N{\rChinese}他们说希腊语。
+Dialogue: 0,0:30:26.24,0:30:27.78,English,,0,0,0,,And they embraced Greek culture.\N{\rChinese}他们拥抱希腊文化。
+Dialogue: 0,0:30:29.40,0:30:33.70,English,,0,0,0,,Herodotus, Plato were major thinkers\N{\rChinese}赫罗多德、柏拉图是主要思想家。
+Dialogue: 0,0:30:33.70,0:30:37.98,English,,0,0,0,,that the Byzantine Empire embraced and celebrated.\N{\rChinese}那是拜占庭帝国所拥抱并庆祝的事物。
+Dialogue: 0,0:30:39.08,0:30:42.06,English,,0,0,0,,And lastly, it switched from being republic, meaning\N{\rChinese}最后，它从共和国转变为帝国，意味着它由参议院统治。
+Dialogue: 0,0:30:42.06,0:30:45.34,English,,0,0,0,,that it went, being run by Senate, to an empire,\N{\rChinese}于是它变成了帝国，开始由参议院管理。
+Dialogue: 0,0:30:45.76,0:30:48.98,English,,0,0,0,,which basically meant it was being run by a bureaucracy.\N{\rChinese}它基本上是由官僚体系管理的。
+Dialogue: 0,0:30:51.06,0:30:54.30,English,,0,0,0,,Okay? So,\N{\rChinese}好的？所以，
+Dialogue: 0,0:30:54.30,0:30:57.76,English,,0,0,0,,Byzantine, the Byzantine Empire, is a very distinct culture.\N{\rChinese}拜占庭，拜占庭帝国，是一种非常独特的文化。
+Dialogue: 0,0:30:57.76,0:30:59.96,English,,0,0,0,,It's a distinct entity from the Roman Empire.\N{\rChinese}它是一个与罗马帝国不同的独立实体。
+Dialogue: 0,0:31:00.30,0:31:03.24,English,,0,0,0,,Historians today argue the Byzantine Empire\N{\rChinese}历史学家今天认为拜占庭帝国是罗马帝国的延续。
+Dialogue: 0,0:31:03.24,0:31:06.84,English,,0,0,0,,is a continuation of the Roman Empire,\N{\rChinese}它是罗马帝国的延续。
+Dialogue: 0,0:31:07.10,0:31:11.32,English,,0,0,0,,but that's only a superficial and shallow understanding.\N{\rChinese}但那只是表面浅显的理解。
+Dialogue: 0,0:31:12.04,0:31:15.78,English,,0,0,0,,Culturally, the Byzantine Empire was a\N{\rChinese}从文化上看，拜占庭帝国是
+Dialogue: 0,0:31:15.78,0:31:20.36,English,,0,0,0,,radical departure from the Roman Empire or the Roman Republic.\N{\rChinese}从罗马帝国或罗马共和国的根本转变。
+Dialogue: 0,0:31:20.74,0:31:24.56,English,,0,0,0,,Okay? And so, I will explain what these differences are.\N{\rChinese}好的？于是，我会解释这些差异。
+Dialogue: 0,0:31:24.84,0:31:27.18,English,,0,0,0,,And this... And this is important because\N{\rChinese}而且……这点很重要，因为……
+Dialogue: 0,0:31:27.18,0:31:32.02,English,,0,0,0,,it's going to inform our understanding of future events in Western civilization.\N{\rChinese}它将帮助我们理解西方文明未来的事件。
+Dialogue: 0,0:31:32.32,0:31:36.34,English,,0,0,0,,Okay? So, let me first explain the difference in worldview between the pagan\N{\rChinese}好的？先让我先解释一下异教与基督教的世界观差异。
+Dialogue: 0,0:31:36.34,0:31:39.20,English,,0,0,0,,and the Christian. All right?\N{\rChinese}好的？
+Dialogue: 0,0:31:40.40,0:31:43.48,English,,0,0,0,,All right. Pagan. And\N{\rChinese}好的。异教。还有
+Dialogue: 0,0:31:43.48,0:31:47.36,English,,0,0,0,,again, guys, I will have to make a lot of generalizations, but\N{\rChinese}再说一次，大家，我得做很多概括，但
+Dialogue: 0,0:31:47.36,0:31:52.76,English,,0,0,0,,it's a useful framework for the understanding of ancient cultures.\N{\rChinese}它是理解古代文化的有用框架。
+Dialogue: 0,0:31:52.84,0:31:54.54,English,,0,0,0,,Okay? So, what's the pagan worldview?\N{\rChinese}好了，异教的世界观是什么？
+Dialogue: 0,0:31:54.54,0:31:56.20,English,,0,0,0,,Well, in the pagan worldview,\N{\rChinese}好吧，在异教的世界观里，
+Dialogue: 0,0:31:56.56,0:32:00.18,English,,0,0,0,,there are different layers to your understanding of the world.\N{\rChinese}有不同层次的世界理解。
+Dialogue: 0,0:32:00.66,0:32:03.70,English,,0,0,0,,The forces, the supernatural forces that\N{\rChinese}有超自然的力量。
+Dialogue: 0,0:32:03.70,0:32:06.48,English,,0,0,0,,you interact with intimately are the gods.\N{\rChinese}你与之亲密互动的就是神。
+Dialogue: 0,0:32:07.26,0:32:09.04,English,,0,0,0,,Okay? And\N{\rChinese}好了？还有
+Dialogue: 0,0:32:09.04,0:32:14.24,English,,0,0,0,,the gods is really a metaphorical way to understand nature.\N{\rChinese}神其实是理解自然的隐喻。
+Dialogue: 0,0:32:15.78,0:32:19.08,English,,0,0,0,,Right? So, in nature,\N{\rChinese}对吧？所以，在自然界，
+Dialogue: 0,0:32:19.26,0:32:23.18,English,,0,0,0,,there are all these natural forces that we can't really see.\N{\rChinese}有所有这些我们看不见的自然力量。
+Dialogue: 0,0:32:23.28,0:32:24.52,English,,0,0,0,,For example, the wind. We can't really see the wind.\N{\rChinese}比如风。我们看不见风。
+Dialogue: 0,0:32:24.54,0:32:28.32,English,,0,0,0,,We can't really see the wind. But also, we can't really see creativity or luck.\N{\rChinese}我们看不见风。但也看不见创造力或运气。
+Dialogue: 0,0:32:28.92,0:32:30.44,English,,0,0,0,,Well, in the pagan worldview,\N{\rChinese}好吧，在异教的世界观里，
+Dialogue: 0,0:32:30.84,0:32:34.56,English,,0,0,0,,these hidden invisible forces are rendered\N{\rChinese}这些隐藏的无形力量被呈现为
+Dialogue: 0,0:32:34.56,0:32:36.50,English,,0,0,0,,and expressed as gods.\N{\rChinese}并以神的形式呈现。
+Dialogue: 0,0:32:37.24,0:32:39.60,English,,0,0,0,,Okay? And the gods are those that\N{\rChinese}好吧？而神是我们每天以亲密方式互动的对象。
+Dialogue: 0,0:32:39.60,0:32:42.64,English,,0,0,0,,we interact with every day on an intimate basis.\N{\rChinese}we interact with every day on an intimate basis.
+Dialogue: 0,0:32:42.94,0:32:45.50,English,,0,0,0,,It was very important for us to maintain good\N{\rChinese}我们保持良好关系非常重要
+Dialogue: 0,0:32:45.50,0:32:49.98,English,,0,0,0,,relations with the gods by making ritual tributes to the gods.\N{\rChinese}通过向神献祭进行仪式性祭祀来与神建立关系。
+Dialogue: 0,0:32:50.42,0:32:54.52,English,,0,0,0,,Okay? So, sacrifice and rituals were a very important part of the pagan worldview.\N{\rChinese}好的？所以，祭祀和仪式在异教世界观中是非常重要的一部分。
+Dialogue: 0,0:32:54.52,0:32:58.26,English,,0,0,0,,Above the gods are actually\N{\rChinese}上方的神实际上是……
+Dialogue: 0,0:32:58.26,0:33:00.98,English,,0,0,0,,even higher invisible forces\N{\rChinese}更高层的无形力量
+Dialogue: 0,0:33:00.98,0:33:03.86,English,,0,0,0,,that no one has control of.\N{\rChinese}那没有人能掌控的。
+Dialogue: 0,0:33:04.02,0:33:07.12,English,,0,0,0,,Okay? Which includes fate, which\N{\rChinese}好？包括命运，
+Dialogue: 0,0:33:07.12,0:33:08.88,English,,0,0,0,,includes luck, okay?\N{\rChinese}包括运气，好吗？
+Dialogue: 0,0:33:08.88,0:33:10.40,English,,0,0,0,,Fortune. Okay? But they're all...\N{\rChinese}运势。好吗？但它们都是…
+Dialogue: 0,0:33:10.40,0:33:13.56,English,,0,0,0,,But there are these invisible forces that\N{\rChinese}但有这些无形力量，即使神也要服从。
+Dialogue: 0,0:33:13.56,0:33:16.00,English,,0,0,0,,even the gods must submit to.\N{\rChinese}even the gods must submit to.
+Dialogue: 0,0:33:16.30,0:33:19.48,English,,0,0,0,,And then, at the highest level,\N{\rChinese}然后，在最高层级上，
+Dialogue: 0,0:33:19.58,0:33:24.50,English,,0,0,0,,are what are called unwritten gods.\N{\rChinese}就是所谓的无形之神。
+Dialogue: 0,0:33:26.98,0:33:28.52,English,,0,0,0,,So, unwritten and immutable.\N{\rChinese}于是，未写且不变。
+Dialogue: 0,0:33:28.70,0:33:33.48,English,,0,0,0,,Immutable just means unable to change, eternal laws of the universe. And\N{\rChinese}不变就是指无法改变，宇宙的永恒法则。
+Dialogue: 0,0:33:33.48,0:33:39.26,English,,0,0,0,,think of this structure as giving the universe some order\N{\rChinese}把这种结构想象成给宇宙带来某种秩序
+Dialogue: 0,0:33:39.26,0:33:40.98,English,,0,0,0,,and structure. Okay?\N{\rChinese}还有结构。好吗？
+Dialogue: 0,0:33:40.98,0:33:43.40,English,,0,0,0,,So, think of gravity. Right?\N{\rChinese}所以，想想重力。对吗？
+Dialogue: 0,0:33:43.54,0:33:46.60,English,,0,0,0,,It's an unwritten and immutable law of the universe.\N{\rChinese}它是宇宙的无形不变法则。
+Dialogue: 0,0:33:46.92,0:33:51.34,English,,0,0,0,,And what they really mean by this is the idea really of karma or justice.\N{\rChinese}而他们真正想表达的就是因果报应或正义的概念。
+Dialogue: 0,0:33:51.82,0:33:54.80,English,,0,0,0,,Right? If you do good in the world, good will happen to you.\N{\rChinese}对吗？如果你在世间行善，善事就会降临于你。
+Dialogue: 0,0:33:54.94,0:33:58.40,English,,0,0,0,,If you do evil in the world, evil will happen to you.\N{\rChinese}如果你在世间行恶，恶事就会降临于你。
+Dialogue: 0,0:33:58.56,0:34:00.86,English,,0,0,0,,It may not happen to you, but it may happen to your children.\N{\rChinese}它可能不降临于你，但可能降临于你的子孙。
+Dialogue: 0,0:34:01.06,0:34:05.02,English,,0,0,0,,Okay? So, there is a cosmic balance to the world.\N{\rChinese}好的？所以，世界上有一种宇宙平衡。
+Dialogue: 0,0:34:05.12,0:34:08.08,English,,0,0,0,,And this is really the pagan worldview.\N{\rChinese}这才是异教的世界观。
+Dialogue: 0,0:34:08.42,0:34:13.30,English,,0,0,0,,Right? The Christian worldview is very simple.\N{\rChinese}对吗？基督教世界观很简单。
+Dialogue: 0,0:34:13.66,0:34:15.40,English,,0,0,0,,There's you. Okay?\N{\rChinese}有你。好吗？
+Dialogue: 0,0:34:15.62,0:34:17.28,English,,0,0,0,,You. And then there's God.\N{\rChinese}你。然后就是上帝。
+Dialogue: 0,0:34:17.72,0:34:22.04,English,,0,0,0,,And the thing that matters is your personal relationship with God.\N{\rChinese}重要的是你与上帝的个人关系。
+Dialogue: 0,0:34:22.38,0:34:24.18,English,,0,0,0,,And that's it, guys. Alright?\N{\rChinese}好了，大家。行吗？
+Dialogue: 0,0:34:24.38,0:34:29.72,English,,0,0,0,,So, let's look at the three major differences between the pagan worldview\N{\rChinese}那么，让我们看看异教世界观与基督教世界观之间的三大差异。
+Dialogue: 0,0:34:29.72,0:34:31.26,English,,0,0,0,,and the Christian worldview.\N{\rChinese}和基督教世界观。
+Dialogue: 0,0:34:31.54,0:34:35.10,English,,0,0,0,,Okay? And again, this is a generalized, simplified version.\N{\rChinese}好的？再说一次，这是一个概括、简化的版本。
+Dialogue: 0,0:34:35.28,0:34:39.56,English,,0,0,0,,We use it in order to be clear about the differences\N{\rChinese}我们用它来清晰地说明差异。
+Dialogue: 0,0:34:39.56,0:34:41.08,English,,0,0,0,,and that there are, in fact, differences.\N{\rChinese}并且实际上存在差异。
+Dialogue: 0,0:34:41.54,0:34:43.76,English,,0,0,0,,Alright. So, the three major differences are this.\N{\rChinese}好了。那么，三大差异就是这样。
+Dialogue: 0,0:34:44.58,0:34:48.32,English,,0,0,0,,The Christian worldview introduces into\N{\rChinese}基督教世界观引入了
+Dialogue: 0,0:34:48.32,0:34:52.84,English,,0,0,0,,the Roman world three ideas that really didn't exist before.\N{\rChinese}罗马世界里有三个概念，之前并未出现。
+Dialogue: 0,0:34:52.96,0:34:56.24,English,,0,0,0,,Okay? They are truth, evil,\N{\rChinese}好吧？它们是真理、邪恶，
+Dialogue: 0,0:34:56.44,0:34:58.88,English,,0,0,0,,and the individual.\N{\rChinese}以及个体。
+Dialogue: 0,0:34:59.58,0:35:03.22,English,,0,0,0,,Now, these ideas actually existed in other traditions,\N{\rChinese}现在，这些概念实际上在其他传统中存在。
+Dialogue: 0,0:35:03.24,0:35:07.24,English,,0,0,0,,like the Jewish tradition and the Persian tradition through Zoroastrianism.\N{\rChinese}像犹太传统和波斯传统通过祆罗波斯主义。
+Dialogue: 0,0:35:07.30,0:35:10.90,English,,0,0,0,,But they really didn't exist in the Greek and the Roman tradition.\N{\rChinese}但它们在希腓和罗马传统中确实没有出现。
+Dialogue: 0,0:35:11.70,0:35:14.70,English,,0,0,0,,So, the counterpart to truth in the pagan\N{\rChinese}于是，异教里与真理相对应的是…
+Dialogue: 0,0:35:14.70,0:35:20.18,English,,0,0,0,,tradition is the idea of chaos or luck.\N{\rChinese}传统是混沌或运气的概念。
+Dialogue: 0,0:35:21.46,0:35:22.92,English,,0,0,0,,Okay? So,\N{\rChinese}好的？那么，
+Dialogue: 0,0:35:23.30,0:35:25.50,English,,0,0,0,,there's no structure to the universe.\N{\rChinese}宇宙没有结构。
+Dialogue: 0,0:35:25.72,0:35:28.94,English,,0,0,0,,In the Christian worldview, there's a God\N{\rChinese}在基督教的世界观里，有一位上帝
+Dialogue: 0,0:35:28.94,0:35:30.86,English,,0,0,0,,who has designed the universe.\N{\rChinese}谁设计了宇宙。
+Dialogue: 0,0:35:31.10,0:35:32.32,English,,0,0,0,,And that is the truth.\N{\rChinese}那就是真理。
+Dialogue: 0,0:35:33.72,0:35:36.92,English,,0,0,0,,Okay? So, the intention of God is the truth.\N{\rChinese}好的？那么，上帝的意图就是真理。
+Dialogue: 0,0:35:37.04,0:35:40.34,English,,0,0,0,,The plan is the truth. Whereas in the pagan worldview,\N{\rChinese}计划即真理。而在异教的世界观里，
+Dialogue: 0,0:35:40.58,0:35:41.88,English,,0,0,0,,there's no design, guys.\N{\rChinese}没有设计，大家。
+Dialogue: 0,0:35:41.98,0:35:43.32,English,,0,0,0,,It's just complete random chaos.\N{\rChinese}它只是完全随机的混乱。
+Dialogue: 0,0:35:43.62,0:35:47.52,English,,0,0,0,,And you just have to do, try your best in this world.\N{\rChinese}然后你就得尽力而为
+Dialogue: 0,0:35:47.64,0:35:51.30,English,,0,0,0,,Okay? In the Christian worldview, it's the idea of evil.\N{\rChinese}好的？在基督教的世界观里，它是邪恶的概念。
+Dialogue: 0,0:35:52.10,0:35:55.96,English,,0,0,0,,Which is if you go against the intention of God, you commit sin.\N{\rChinese}若你违背上帝之意，即犯了罪
+Dialogue: 0,0:35:56.32,0:35:59.26,English,,0,0,0,,That is evil. Now,\N{\rChinese}那就是邪恶。现在，
+Dialogue: 0,0:35:59.28,0:36:01.86,English,,0,0,0,,what's interesting for us is in the pagan worldview,\N{\rChinese}我们感兴趣的是在异教世界观中，
+Dialogue: 0,0:36:02.20,0:36:04.92,English,,0,0,0,,the opposite idea is action.\N{\rChinese}相反的概念是行动。
+Dialogue: 0,0:36:06.54,0:36:09.84,English,,0,0,0,,Okay? In other words, in a world of chaos,\N{\rChinese}好吧？换句话说，在混乱的世界里，
+Dialogue: 0,0:36:10.26,0:36:12.72,English,,0,0,0,,you have to act.\N{\rChinese}你必须行动。
+Dialogue: 0,0:36:13.48,0:36:15.40,English,,0,0,0,,You have to do stuff.\N{\rChinese}你得干点事。
+Dialogue: 0,0:36:15.78,0:36:19.00,English,,0,0,0,,If you refuse to act, you are a slave.\N{\rChinese}如果你不行动，你就是奴隶。
+Dialogue: 0,0:36:20.26,0:36:22.60,English,,0,0,0,,So. Think back to the Iliad.\N{\rChinese}好。回想《伊利亚特》。
+Dialogue: 0,0:36:22.76,0:36:27.42,English,,0,0,0,,Right? In the Iliad, Achilles says why he is in Troy.\N{\rChinese}对吧？在《伊利亚特》中，阿基琉斯说他为什么在特洛伊。
+Dialogue: 0,0:36:27.56,0:36:30.26,English,,0,0,0,,Why he's fighting in Troy. And he says that\N{\rChinese}他为什么在特洛伊作战？他这么说。
+Dialogue: 0,0:36:30.26,0:36:34.92,English,,0,0,0,,before he came to Troy, he was told his fate.\N{\rChinese}在他到达特洛伊之前，他已被告知自己的命运。
+Dialogue: 0,0:36:35.08,0:36:38.54,English,,0,0,0,,He could either die old,\N{\rChinese}他可以老死，也可以
+Dialogue: 0,0:36:38.76,0:36:42.16,English,,0,0,0,,back at home,\N{\rChinese}回到家里，
+Dialogue: 0,0:36:42.26,0:36:46.04,English,,0,0,0,,or he could die young in Troy.\N{\rChinese}或者他可以在特洛伊早逝。
+Dialogue: 0,0:36:46.64,0:36:50.08,English,,0,0,0,,But by dying young in Troy, he'll become famous.\N{\rChinese}但若在特洛伊早逝，他就会成名。
+Dialogue: 0,0:36:50.90,0:36:55.66,English,,0,0,0,,He'll be remembered forever. And for Achilles, that's not really a choice.\N{\rChinese}他将永被记住。对阿基琉斯而言，这不算选择。
+Dialogue: 0,0:36:55.96,0:36:59.12,English,,0,0,0,,What he's being told is you must come to Troy and\N{\rChinese}他被告知的事是你要去特洛伊并且要死去。
+Dialogue: 0,0:36:59.12,0:37:01.34,English,,0,0,0,,you must die.\N{\rChinese}你必须去特洛伊并且要死去。
+Dialogue: 0,0:37:01.50,0:37:03.16,English,,0,0,0,,And that will win you eternal glory.\N{\rChinese}并且这将为你赢得永恒的荣耀。
+Dialogue: 0,0:37:03.88,0:37:06.42,English,,0,0,0,,Okay? It's the idea of action.\N{\rChinese}好的？这就是行动的概念。
+Dialogue: 0,0:37:07.48,0:37:10.18,English,,0,0,0,,Also think of the Romans.\N{\rChinese}也想想罗马人。
+Dialogue: 0,0:37:10.42,0:37:13.54,English,,0,0,0,,Okay? In their legends, they have a name, named Musius.\N{\rChinese}好？在他们的传说里，有个名叫穆西乌斯。
+Dialogue: 0,0:37:14.02,0:37:16.04,English,,0,0,0,,Remember at the beginning of the Roman Republic,\N{\rChinese}记得罗马共和国初期，
+Dialogue: 0,0:37:16.42,0:37:19.52,English,,0,0,0,,the Romans are besieged by the Etruscan king.\N{\rChinese}罗马人被伊特鲁里亚王围攻。
+Dialogue: 0,0:37:19.52,0:37:22.88,English,,0,0,0,,And Musius is a young, normal man, only 20 years old.\N{\rChinese}穆西乌斯是个年轻普通人，只有二十岁。
+Dialogue: 0,0:37:23.00,0:37:26.34,English,,0,0,0,,He decides to assassinate the king in order to free the Romans.\N{\rChinese}他决定刺杀王以解放罗马人。
+Dialogue: 0,0:37:26.62,0:37:29.36,English,,0,0,0,,He swims across the Tiber and\N{\rChinese}他游过台伯河
+Dialogue: 0,0:37:29.36,0:37:32.06,English,,0,0,0,,he's about to do his deed, but it's payday.\N{\rChinese}他正准备完成自己的事，但正是发薪日。
+Dialogue: 0,0:37:32.24,0:37:34.20,English,,0,0,0,,And the king is with his secretary.\N{\rChinese}而王与他的秘书在一起。
+Dialogue: 0,0:37:34.64,0:37:36.50,English,,0,0,0,,And they look alike. They dress alike.\N{\rChinese}他们看起来相似，穿着也一样。
+Dialogue: 0,0:37:36.58,0:37:39.88,English,,0,0,0,,They look alike. And Musius is hiding with his dagger\N{\rChinese}他们看起来相似。穵西乌斯正躲藏着手中的匕首。
+Dialogue: 0,0:37:39.88,0:37:42.22,English,,0,0,0,,and he knows it's 50 -50.\N{\rChinese}他知道是五十比五十。
+Dialogue: 0,0:37:42.48,0:37:45.92,English,,0,0,0,,Okay? Now, for us, we'd be like, you know what?\N{\rChinese}好的？现在，对我们来说，像是，你知道吗？
+Dialogue: 0,0:37:46.08,0:37:47.70,English,,0,0,0,,50 -50 is terrible odds.\N{\rChinese}50-50是极差的赔率。
+Dialogue: 0,0:37:48.06,0:37:50.10,English,,0,0,0,,So. Let me go back another day.\N{\rChinese}于是。让我再回到前一天。
+Dialogue: 0,0:37:50.24,0:37:51.66,English,,0,0,0,,Or let me be more patient.\N{\rChinese}或者让我更耐心一点。
+Dialogue: 0,0:37:52.16,0:37:53.48,English,,0,0,0,,But for Musius,\N{\rChinese}但对穆西乌斯来说，
+Dialogue: 0,0:37:53.84,0:37:56.16,English,,0,0,0,,it's fortune favors the bold.\N{\rChinese}运气偏向勇者。
+Dialogue: 0,0:37:56.40,0:37:58.76,English,,0,0,0,,So he's like, 50 -50 is great odds.\N{\rChinese}于是，他说，50-50是极好的赔率。
+Dialogue: 0,0:37:59.02,0:38:03.12,English,,0,0,0,,I'm never getting better odds. So he takes his dagger\N{\rChinese}我从来没有更好的赔率。所以他拿起匕首。
+Dialogue: 0,0:38:03.12,0:38:05.20,English,,0,0,0,,and he kills the secretary.\N{\rChinese}并且他杀了秘书。
+Dialogue: 0,0:38:05.46,0:38:09.24,English,,0,0,0,,Okay? He misses. Then he's captured by the king.\N{\rChinese}好的？他失误。随后被王俘获。
+Dialogue: 0,0:38:09.64,0:38:12.52,English,,0,0,0,,The king wants to torture him and force him to confess.\N{\rChinese}国王想折磨他，让他自白。
+Dialogue: 0,0:38:13.04,0:38:16.36,English,,0,0,0,,And the king threatens him and says, I will burn you alive.\N{\rChinese}于是国王威胁他并说：我会把你活活烧死。
+Dialogue: 0,0:38:16.84,0:38:18.88,English,,0,0,0,,Okay? There's a great fire beside Musius.\N{\rChinese}好的？穆西乌斯旁边有一大火。
+Dialogue: 0,0:38:19.52,0:38:21.12,English,,0,0,0,,If you do not tell me the truth.\N{\rChinese}如果你不告诉我真相。
+Dialogue: 0,0:38:21.56,0:38:25.70,English,,0,0,0,,What Musius does is he puts his hand into the fire\N{\rChinese}穆西乌斯所做的就是把手伸进火里
+Dialogue: 0,0:38:25.70,0:38:27.76,English,,0,0,0,,and lets it burn in front of the king.\N{\rChinese}随后让它在王面前燃烧。
+Dialogue: 0,0:38:28.06,0:38:29.98,English,,0,0,0,,And that scares the king.\N{\rChinese}...
+Dialogue: 0,0:38:30.54,0:38:32.40,English,,0,0,0,,Okay? That's the idea of action.\N{\rChinese}好的？这就是行动的意思。
+Dialogue: 0,0:38:33.06,0:38:36.30,English,,0,0,0,,You make your fortune for your action.\N{\rChinese}你靠行动创造自己的运势。
+Dialogue: 0,0:38:37.56,0:38:39.68,English,,0,0,0,,You cannot sit and wait.\N{\rChinese}你不能坐着等着。
+Dialogue: 0,0:38:39.78,0:38:41.20,English,,0,0,0,,You cannot deliberate.\N{\rChinese}你不能思考。
+Dialogue: 0,0:38:41.62,0:38:43.12,English,,0,0,0,,You cannot be clever. You just act.\N{\rChinese}你不能用聪明，只能行动。
+Dialogue: 0,0:38:43.32,0:38:45.50,English,,0,0,0,,You're just brave. Okay? That's a pagan worldview.\N{\rChinese}你只是勇敢。好的吗？那就是一种异教的世界观。
+Dialogue: 0,0:38:45.72,0:38:48.92,English,,0,0,0,,This is important for us because the people\N{\rChinese}这对我们很重要，因为人们
+Dialogue: 0,0:38:48.92,0:38:51.80,English,,0,0,0,,who were in the war, they were the ones who will feature in our course who\N{\rChinese}在战争中的人们，就是我们课程中将要出现的人们。
+Dialogue: 0,0:38:51.80,0:38:55.62,English,,0,0,0,,is very important and who follow this worldview are also the Vikings.\N{\rChinese}这很重要，跟随这种世界观的人也是维京人。
+Dialogue: 0,0:38:55.96,0:38:58.38,English,,0,0,0,,Okay? So the Vikings share this similar worldview.\N{\rChinese}好的？所以维京人也有类似的世界观。
+Dialogue: 0,0:38:58.48,0:39:04.34,English,,0,0,0,,It's a pagan worldview. The last thing is the idea in the Christian worldview it's individual\N{\rChinese}这是一种异教的世界观。最后一点是基督教世界观中的个体观念。
+Dialogue: 0,0:39:04.34,0:39:08.96,English,,0,0,0,,that matters. The individual's individual soul is what matters.\N{\rChinese}那才重要。个体的灵魂才是关键。
+Dialogue: 0,0:39:09.82,0:39:13.80,English,,0,0,0,,Okay? But in the pagan worldview what matters is the community.\N{\rChinese}好的吗？但在异教世界观里，重要的是群体。
+Dialogue: 0,0:39:16.20,0:39:18.84,English,,0,0,0,,Why are Achilles' individual souls\N{\rChinese}为什么阿基琉斯的个体灵魂
+Dialogue: 0,0:39:19.58,0:39:21.42,English,,0,0,0,,Why is Achilles fighting in Troy?\N{\rChinese}为什么阿基琉斯要在特洛伊作战
+Dialogue: 0,0:39:21.60,0:39:25.54,English,,0,0,0,,Why is Musias sacrificing himself for Rome?\N{\rChinese}为什么穆西亚斯为罗马自我献祭？
+Dialogue: 0,0:39:25.68,0:39:28.08,English,,0,0,0,,Because they want to be remembered by their community.\N{\rChinese}因为他们想被群体记住。
+Dialogue: 0,0:39:28.96,0:39:30.58,English,,0,0,0,,So let me give you two examples of this.\N{\rChinese}于是我给你举两个例子。
+Dialogue: 0,0:39:31.26,0:39:33.64,English,,0,0,0,,Let's go back to the Iliad, Hector.\N{\rChinese}回到《伊利亚特》吧，赫克托尔。
+Dialogue: 0,0:39:33.78,0:39:36.98,English,,0,0,0,,Remember Hector? Hector in the Iliad,\N{\rChinese}记得赫克托尔吗？《伊利亚特》里的赫克托尔，
+Dialogue: 0,0:39:36.98,0:39:40.06,English,,0,0,0,,he is the greatest Trojan warrior, and\N{\rChinese}他是最伟大的特洛伊战士，
+Dialogue: 0,0:39:40.06,0:39:44.10,English,,0,0,0,,he's destroying the Greeks because Achilles refuses to fight.\N{\rChinese}他正在摧毁希腊人，因为阿基琉斯不愿作战。
+Dialogue: 0,0:39:45.68,0:39:48.78,English,,0,0,0,,But then Achilles enters the battlefield,\N{\rChinese}但随后阿基琉斯踏入战场，
+Dialogue: 0,0:39:48.78,0:39:52.44,English,,0,0,0,,and at this point, Hector's lieutenant tells him,\N{\rChinese}此时赫克托尔的副将向他报告，
+Dialogue: 0,0:39:52.56,0:39:54.26,English,,0,0,0,,Hector, Achilles is back.\N{\rChinese}赫克托尔，阿基琉斯回来了。
+Dialogue: 0,0:39:54.84,0:39:56.06,English,,0,0,0,,Let's go home.\N{\rChinese}回家去吧。
+Dialogue: 0,0:39:56.24,0:39:58.10,English,,0,0,0,,Let's go hide behind the walls of Troy.\N{\rChinese}我们去躲进特洛伊城墙后吧。
+Dialogue: 0,0:39:58.20,0:40:00.94,English,,0,0,0,,We'll be fine. But Hector says, no.\N{\rChinese}我们会没事的。但赫克托尔说不。
+Dialogue: 0,0:40:01.66,0:40:03.12,English,,0,0,0,,Fortune favors the both.\N{\rChinese}运势同样照顾两人。
+Dialogue: 0,0:40:03.28,0:40:04.58,English,,0,0,0,,The gods are with me.\N{\rChinese}神明与我同在。
+Dialogue: 0,0:40:04.82,0:40:06.94,English,,0,0,0,,And so, of course, Achilles and\N{\rChinese}于是，当然，阿基琉斯和希腊人摧毁了特洛伊人，
+Dialogue: 0,0:40:06.94,0:40:09.58,English,,0,0,0,,the Greeks destroy the Trojans, and\N{\rChinese}他们又被迫跑回特洛伊城墙。
+Dialogue: 0,0:40:09.58,0:40:12.76,English,,0,0,0,,they're all forced to run back to the walls of Troy.\N{\rChinese}they're all forced to runback to the walls of Troy.
+Dialogue: 0,0:40:13.22,0:40:16.80,English,,0,0,0,,Every Roman enters Troy except for Hector.\N{\rChinese}每个罗马人都进了特洛伊，唯独赫克托尔未入。
+Dialogue: 0,0:40:17.06,0:40:18.64,English,,0,0,0,,Hector stays outside.\N{\rChinese}赫克托尔留在外面。
+Dialogue: 0,0:40:18.78,0:40:21.60,English,,0,0,0,,He's outside the walls of Troy and waits for Achilles to come.\N{\rChinese}他站在特洛伊城墙外，等待阿基琉斯来临。
+Dialogue: 0,0:40:21.84,0:40:25.66,English,,0,0,0,,He knows for a fact that Achilles will kill him.\N{\rChinese}他知道阿基琉斯一定会杀他。
+Dialogue: 0,0:40:25.82,0:40:29.60,English,,0,0,0,,Achilles is a god. He's a great warrior, but he's not a god.\N{\rChinese}阿基琉斯是神，他是伟大的战士，却不是真神。
+Dialogue: 0,0:40:30.52,0:40:34.32,English,,0,0,0,,And at this point, he knows he's about to be killed,\N{\rChinese}此时他已知自己即将被杀。
+Dialogue: 0,0:40:34.42,0:40:37.82,English,,0,0,0,,and most of us would just sneak back into the walls of Troy, right?\N{\rChinese}我们大多数人会偷偷溜回特洛伊城墙里，对吧？
+Dialogue: 0,0:40:38.24,0:40:39.92,English,,0,0,0,,He can't do that because\N{\rChinese}他做不到这件事，因为
+Dialogue: 0,0:40:39.92,0:40:45.90,English,,0,0,0,,he's afraid of being laughed at by his lieutenant.\N{\rChinese}他怕被下属嘲笑。
+Dialogue: 0,0:40:46.42,0:40:50.04,English,,0,0,0,,He's afraid of shame. He has to die for his community.\N{\rChinese}他怕丢面子。他得为自己的团体而死。
+Dialogue: 0,0:40:50.78,0:40:52.78,English,,0,0,0,,Okay? So that's Hector.\N{\rChinese}好？那就是赫克托。
+Dialogue: 0,0:40:53.36,0:40:56.12,English,,0,0,0,,But also, think about Lucretia.\N{\rChinese}再想想卢克雷蒂娅。
+Dialogue: 0,0:40:56.84,0:41:00.36,English,,0,0,0,,Lucretia. Lucretia,\N{\rChinese}卢克雷蒂娅。卢克雷蒂娅，记得吧，她是贵妇，被……被袭击的女人。
+Dialogue: 0,0:41:00.42,0:41:03.68,English,,0,0,0,,remember, is the woman, noblewoman,\N{\rChinese}卢克雷蒂娅，记得吧，她是贵妇，被……被袭击的女人。
+Dialogue: 0,0:41:03.86,0:41:06.98,English,,0,0,0,,who is raped by the\N{\rChinese}卢克雷蒂娅。卢克雷蒂娅，记得吧，她是贵妇，被……被袭击的女人。
+Dialogue: 0,0:41:06.98,0:41:10.66,English,,0,0,0,,son of Tarquinius Superbus,\N{\rChinese}塔尔奎尼乌斯·苏佩尔布的儿子，
+Dialogue: 0,0:41:10.82,0:41:12.74,English,,0,0,0,,the last king of Rome.\N{\rChinese}罗马的最后一位国王。
+Dialogue: 0,0:41:12.86,0:41:16.86,English,,0,0,0,,And this is what starts the rebellion, that overfurthening.\N{\rChinese}这就是引发叛乱的起因，随后又演变成……
+Dialogue: 0,0:41:17.58,0:41:21.52,English,,0,0,0,,And this is what throws the Roman monarchy. Lucretia is raped,\N{\rChinese}并且这就是导致罗马王室崩溃的原因。卢克雷蒂娅被掠夺，
+Dialogue: 0,0:41:21.56,0:41:22.78,English,,0,0,0,,and then she kills herself\N{\rChinese}随后她自尽身亡
+Dialogue: 0,0:41:23.78,0:41:25.10,English,,0,0,0,,because she's dishonored.\N{\rChinese}因为她失了面子
+Dialogue: 0,0:41:25.34,0:41:28.88,English,,0,0,0,,And Augustine, remember Augustine in the City of God, he writes about this.\N{\rChinese}安格鲁斯记得《上帝之城》里的奥古斯丁，他写过这件事。
+Dialogue: 0,0:41:29.46,0:41:32.30,English,,0,0,0,,Okay? And from his perspective,\N{\rChinese}好的？从他的视角来看，
+Dialogue: 0,0:41:33.02,0:41:38.12,English,,0,0,0,,it was a crime for Lucretia to kill herself.\N{\rChinese}卢克雷蒂娅自尽是罪过。
+Dialogue: 0,0:41:38.56,0:41:41.60,English,,0,0,0,,Why? Because we are all the creation of God.\N{\rChinese}为什么？因为我们都是上帝的创造。
+Dialogue: 0,0:41:41.94,0:41:43.68,English,,0,0,0,,Therefore, we are the property of God.\N{\rChinese}所以，我们是上帝的财产。
+Dialogue: 0,0:41:44.00,0:41:46.92,English,,0,0,0,,Therefore, when we kill ourselves, when we kill ourselves,\N{\rChinese}于是，当我们自尽时，
+Dialogue: 0,0:41:47.58,0:41:51.06,English,,0,0,0,,we are committing a sin against God.\N{\rChinese}我们正在对上帝犯下罪行。
+Dialogue: 0,0:41:51.72,0:41:53.72,English,,0,0,0,,We are basically stealing from God.\N{\rChinese}我们基本上是在向上帝偷窃。
+Dialogue: 0,0:41:53.92,0:41:55.56,English,,0,0,0,,And that's why if you commit suicide,\N{\rChinese}这就是为什么自杀会犯下罪行。
+Dialogue: 0,0:41:56.04,0:41:59.58,English,,0,0,0,,you'll be condemned to hell forever.\N{\rChinese}你将永远被判入地狱。
+Dialogue: 0,0:42:00.34,0:42:02.74,English,,0,0,0,,Okay? You'll be condemned to damnation forever.\N{\rChinese}你将永远被判入地狱。
+Dialogue: 0,0:42:03.40,0:42:07.60,English,,0,0,0,,And then Augustine explains Lucretia killed herself\N{\rChinese}随后奥古斯丁解释卢克雷蒂娅自尽。
+Dialogue: 0,0:42:07.60,0:42:10.78,English,,0,0,0,,because she's afraid of the shame\N{\rChinese}因为她怕自己会有羞愧
+Dialogue: 0,0:42:10.78,0:42:13.16,English,,0,0,0,,that she would have to endure if she lived.\N{\rChinese}那她若活着就得忍受的羞愧
+Dialogue: 0,0:42:13.36,0:42:17.56,English,,0,0,0,,She was afraid that she'd be laughed at by God.\N{\rChinese}她怕被上帝嘲笑
+Dialogue: 0,0:42:17.56,0:42:19.56,English,,0,0,0,,She was afraid that she'd be laughed at by the other woman of Rome.\N{\rChinese}她怕被罗马的另一位女子嘲笑。
+Dialogue: 0,0:42:19.82,0:42:23.44,English,,0,0,0,,Okay? And that's the idea of community versus the individual.\N{\rChinese}好的？这就是社区与个人的概念。
+Dialogue: 0,0:42:24.28,0:42:27.28,English,,0,0,0,,All right? Okay.\N{\rChinese}好的？好了。
+Dialogue: 0,0:42:28.66,0:42:32.30,English,,0,0,0,,So, this, so it's a radically different worldview,\N{\rChinese}于是，这样，便是一个根本不同的世界观，
+Dialogue: 0,0:42:32.76,0:42:35.70,English,,0,0,0,,the pagan versus the Christian.\N{\rChinese}古教徒与异教徒的对比，
+Dialogue: 0,0:42:35.84,0:42:37.42,English,,0,0,0,,Let me explain some other differences.\N{\rChinese}让我再说明一些其它差别。
+Dialogue: 0,0:42:37.68,0:42:39.92,English,,0,0,0,,For example, the attitude towards sex.\N{\rChinese}例如，关于性的态度。
+Dialogue: 0,0:42:42.00,0:42:45.34,English,,0,0,0,,Okay? Christians, because we live in a Christian world,\N{\rChinese}好？基督徒，因为我们生活在基督徒的世界里，
+Dialogue: 0,0:42:45.34,0:42:46.98,English,,0,0,0,,we know that sex is bad.\N{\rChinese}好？我们知道性是坏的。
+Dialogue: 0,0:42:47.38,0:42:50.34,English,,0,0,0,,Okay? Sex should only happen between husband\N{\rChinese}好？性只应在夫妻之间发生
+Dialogue: 0,0:42:50.34,0:42:53.48,English,,0,0,0,,and wife, and it should only happen for the purpose of procreation.\N{\rChinese}并且只为生育之用，配偶方可发生。
+Dialogue: 0,0:42:54.08,0:42:56.40,English,,0,0,0,,We shouldn't do it because we enjoy it.\N{\rChinese}我们不该因乐趣而做。
+Dialogue: 0,0:42:56.84,0:43:00.40,English,,0,0,0,,The pagans have the complete opposite attitude towards sex.\N{\rChinese}异教徒对性的态度完全相反。
+Dialogue: 0,0:43:00.72,0:43:02.80,English,,0,0,0,,Sex was to be embraced.\N{\rChinese}性本应被拥抱。
+Dialogue: 0,0:43:03.08,0:43:05.56,English,,0,0,0,,It was to be enjoyed. It was to be celebrated.\N{\rChinese}It was to be enjoyed. It was to be celebrated.
+Dialogue: 0,0:43:06.54,0:43:07.98,English,,0,0,0,,Why? Because\N{\rChinese}为什么？因为
+Dialogue: 0,0:43:07.98,0:43:12.04,English,,0,0,0,,if the gods didn't mean for us to have sex,\N{\rChinese}如果神不打算让我们有性事，
+Dialogue: 0,0:43:12.22,0:43:13.96,English,,0,0,0,,they wouldn't make it so much fun.\N{\rChinese}他们不会把它做得那么好玩。
+Dialogue: 0,0:43:14.48,0:43:19.66,English,,0,0,0,,Okay? So, sex was a very important part of pagan life.\N{\rChinese}好的？所以，性在异教徒的生活中非常重要。
+Dialogue: 0,0:43:20.00,0:43:21.42,English,,0,0,0,,As well as violence.\N{\rChinese}以及暴力。
+Dialogue: 0,0:43:21.58,0:43:24.90,English,,0,0,0,,Okay? They also embraced and celebrated violence.\N{\rChinese}好吧？他们也拥抱并庆祝暴力。
+Dialogue: 0,0:43:25.26,0:43:26.52,English,,0,0,0,,So, think about the Vikings.\N{\rChinese}所以，想想维京人。
+Dialogue: 0,0:43:26.76,0:43:28.60,English,,0,0,0,,Think about the Romans. Right?\N{\rChinese}想想罗马人。对吗？
+Dialogue: 0,0:43:29.28,0:43:30.72,English,,0,0,0,,They loved violence.\N{\rChinese}他们喜爱暴力。
+Dialogue: 0,0:43:30.98,0:43:33.94,English,,0,0,0,,And the Christians hated violence.\N{\rChinese}而基督徒则恨暴力。
+Dialogue: 0,0:43:37.22,0:43:39.68,English,,0,0,0,,So, the argument is that\N{\rChinese}于是，论点是
+Dialogue: 0,0:43:39.68,0:43:42.84,English,,0,0,0,,the Christian worldview is an improvement on the pagan worldview\N{\rChinese}基督徒的世界观是对异教世界观的改进。
+Dialogue: 0,0:43:42.84,0:43:46.36,English,,0,0,0,,because the pagans, they had things like orgies.\N{\rChinese}因为异教徒也有……
+Dialogue: 0,0:43:46.38,0:43:49.04,English,,0,0,0,,They had things like child sacrifice.\N{\rChinese}他们有孩童祭祀。
+Dialogue: 0,0:43:49.36,0:43:51.60,English,,0,0,0,,They had things like genocide.\N{\rChinese}他们有种族灭绝。
+Dialogue: 0,0:43:51.90,0:43:53.28,English,,0,0,0,,Okay? This is all bad. Right?\N{\rChinese}好的？这全是坏事。对吗？
+Dialogue: 0,0:43:55.70,0:43:57.86,English,,0,0,0,,But remember, and this is really important.\N{\rChinese}但记住，这点很重要。
+Dialogue: 0,0:43:58.12,0:44:02.12,English,,0,0,0,,Okay? These are just two different worldviews.\N{\rChinese}好的？这只是两种不同的世界观。
+Dialogue: 0,0:44:02.36,0:44:06.76,English,,0,0,0,,And it's hard for us to objectively assess which one is better.\N{\rChinese}而我们很难客观判断哪一种更好。
+Dialogue: 0,0:44:06.94,0:44:10.00,English,,0,0,0,,We can only say that they both have their benefits\N{\rChinese}我们只能说它们各有优点
+Dialogue: 0,0:44:10.00,0:44:12.70,English,,0,0,0,,and they both have their consequences.\N{\rChinese}各有后果
+Dialogue: 0,0:44:13.54,0:44:15.34,English,,0,0,0,,Okay? So, an example is food.\N{\rChinese}好的？所以，举个例子就是食物。
+Dialogue: 0,0:44:16.18,0:44:18.80,English,,0,0,0,,If we were to go to America today and\N{\rChinese}如果我们今天去美国的话
+Dialogue: 0,0:44:18.80,0:44:21.94,English,,0,0,0,,look at the food that Americans eat, we'd be disgusted.\N{\rChinese}看美国人吃的食物，我们会觉得很惊艳。
+Dialogue: 0,0:44:22.00,0:44:24.96,English,,0,0,0,,Right? Hamburgers, Coca -Cola, French fries.\N{\rChinese}对吧？汉堡、可口可乐、法式薯条。
+Dialogue: 0,0:44:25.24,0:44:28.22,English,,0,0,0,,But guess what, guys? If Americans were to come to China,\N{\rChinese}但你们猜怎么啦？如果美国人来中国，他们也会被中国人的食物给惊呆了。
+Dialogue: 0,0:44:28.46,0:44:32.88,English,,0,0,0,,they would be equally disgusted by the food that Chinese eat.\N{\rChinese}好吧？像麻辣烫和这些东西。
+Dialogue: 0,0:44:32.96,0:44:35.16,English,,0,0,0,,Okay? Like malatang and this stuff.\N{\rChinese}Okay? Like malatang and this stuff.
+Dialogue: 0,0:44:35.32,0:44:37.14,English,,0,0,0,,Okay? Some of this stuff is really bad for you.\N{\rChinese}好的？这件事有些真的对你不利。
+Dialogue: 0,0:44:37.40,0:44:39.00,English,,0,0,0,,So, I would keep that in mind.\N{\rChinese}所以，我会记住这点。
+Dialogue: 0,0:44:39.92,0:44:42.68,English,,0,0,0,,It's easy for us to be culturally arrogant and selfish.\N{\rChinese}我们很容易自以为文化自豪且自私。
+Dialogue: 0,0:44:42.68,0:44:45.62,English,,0,0,0,,And say, like, we are so better than these ancients.\N{\rChinese}又说，像，我们比这些古人好得多。
+Dialogue: 0,0:44:47.54,0:44:49.40,English,,0,0,0,,But it's all a matter of perspective.\N{\rChinese}但这全是视角问题。
+Dialogue: 0,0:44:50.04,0:44:53.24,English,,0,0,0,,If we were to go back in time and look at the pagan world,\N{\rChinese}如果我们回到过去，看看异教世界，
+Dialogue: 0,0:44:53.52,0:44:56.38,English,,0,0,0,,we'd be disgusted by the murders,\N{\rChinese}我们会被屠杀惊呆
+Dialogue: 0,0:44:56.46,0:45:00.10,English,,0,0,0,,by the violence, by all the sex going on.\N{\rChinese}被暴力、各类性事惊呆
+Dialogue: 0,0:45:00.22,0:45:03.38,English,,0,0,0,,Okay? But at the same time, and this is really hard for us to understand,\N{\rChinese}好吧？但同样时，这点真难懂
+Dialogue: 0,0:45:03.62,0:45:07.22,English,,0,0,0,,but if they were to come here, if they were to time travel and come here and see our world,\N{\rChinese}但如果他们来到这里，若他们能时光旅行来到此处，看到我们的世界，就会惊呆。好吧？
+Dialogue: 0,0:45:07.78,0:45:09.72,English,,0,0,0,,they'd be disgusted. Okay?\N{\rChinese}因为，从他们的视角来看，我们会像奴隶一样行事。
+Dialogue: 0,0:45:09.92,0:45:12.66,English,,0,0,0,,Because, like, from their perspective, we'd behave like slaves.\N{\rChinese}Because, like, from their perspective, we'd behave like slaves.
+Dialogue: 0,0:45:14.06,0:45:18.38,English,,0,0,0,,Achilles is out winning glory on the beaches of Troy.\N{\rChinese}阿基琉斯在特洛伊海滩上赢得荣耀。
+Dialogue: 0,0:45:18.60,0:45:22.80,English,,0,0,0,,While we are in school memorizing useless facts\N{\rChinese}而我们在学校里记忆无用的事实。
+Dialogue: 0,0:45:22.80,0:45:25.68,English,,0,0,0,,so that we can get useless pieces of paper,\N{\rChinese}以便拿到无用的纸片。
+Dialogue: 0,0:45:26.02,0:45:28.56,English,,0,0,0,,so that we can make useless pieces of money.\N{\rChinese}以便拿到无用的纸币。
+Dialogue: 0,0:45:28.74,0:45:30.34,English,,0,0,0,,Right? Money is paper.\N{\rChinese}对吧？钱是纸。
+Dialogue: 0,0:45:30.54,0:45:33.10,English,,0,0,0,,They would not understand why we're doing this to ourselves.\N{\rChinese}他们不明白我们为什么要这么做。
+Dialogue: 0,0:45:33.54,0:45:34.94,English,,0,0,0,,Alright? So, I would keep that in mind.\N{\rChinese}好的？我会记住这点。
+Dialogue: 0,0:45:35.14,0:45:39.22,English,,0,0,0,,Like, the pagan worldview is very different from the Christian worldview,\N{\rChinese}像，异教世界观与基督教世界观差别很大，
+Dialogue: 0,0:45:39.38,0:45:41.30,English,,0,0,0,,and that's it. Alright?\N{\rChinese}就是这样。好的？
+Dialogue: 0,0:45:41.30,0:45:44.94,English,,0,0,0,,And, in fact, we will later in the semester discover\N{\rChinese}并且实际上，我们在学期后期会发现
+Dialogue: 0,0:45:44.94,0:45:47.90,English,,0,0,0,,that there are some thinkers, such as Nietzsche, Frederick Nietzsche,\N{\rChinese}有一些思想家，例如尼采、弗雷德里克·尼采，
+Dialogue: 0,0:45:48.16,0:45:50.82,English,,0,0,0,,who believe that\N{\rChinese}他们认为
+Dialogue: 0,0:45:50.82,0:45:53.56,English,,0,0,0,,the switch from the pagan worldview to the Christian\N{\rChinese}从异教世界观转向基督教世界观的切换是文明发展中的一次重大挫折。
+Dialogue: 0,0:45:53.56,0:45:57.72,English,,0,0,0,,worldview was a major setback in the development of civilization.\N{\rChinese}好的？
+Dialogue: 0,0:45:58.30,0:46:00.44,English,,0,0,0,,Okay? Alright.\N{\rChinese}好了。
+Dialogue: 0,0:46:00.52,0:46:04.20,English,,0,0,0,,Any questions about the difference between the pagans and the Christians before I move on?\N{\rChinese}还有关于异教与基督徒差异的疑问吗？我继续说吧？
+Dialogue: 0,0:46:08.00,0:46:12.74,English,,0,0,0,,Any questions? Was this clear?\N{\rChinese}还有疑问吗？说得清楚吗？
+Dialogue: 0,0:46:13.66,0:46:15.50,English,,0,0,0,,Alright. Now,\N{\rChinese}好了。现在，
+Dialogue: 0,0:46:15.54,0:46:19.64,English,,0,0,0,,let's move on to the idea of republic versus empire.\N{\rChinese}让我们继续讨论共和国与帝国的概念。
+Dialogue: 0,0:46:22.12,0:46:24.16,English,,0,0,0,,Okay? And, look, I mean,\N{\rChinese}好的？再说一句，我是说，
+Dialogue: 0,0:46:24.28,0:46:26.94,English,,0,0,0,,the differences are pretty stark.\N{\rChinese}差异相当明显。
+Dialogue: 0,0:46:27.08,0:46:29.32,English,,0,0,0,,Right? So, in a republic,\N{\rChinese}对吧？所以，在共和国里，
+Dialogue: 0,0:46:29.60,0:46:33.50,English,,0,0,0,,it's usually, there's,\N{\rChinese}通常是这样，
+Dialogue: 0,0:46:33.50,0:46:34.86,English,,0,0,0,,like, egalitarianism. Okay?\N{\rChinese}像是平等主义。
+Dialogue: 0,0:46:35.38,0:46:37.78,English,,0,0,0,,Everyone's opinion does matter.\N{\rChinese}每个人的意见都很重要。
+Dialogue: 0,0:46:41.60,0:46:45.04,English,,0,0,0,,And, in an empire, there's a hierarchy.\N{\rChinese}在帝国里，存在层级。
+Dialogue: 0,0:46:45.72,0:46:47.30,English,,0,0,0,,Okay? So, that's the first major difference.\N{\rChinese}好的？这就是第一个主要区别。
+Dialogue: 0,0:46:47.52,0:46:49.88,English,,0,0,0,,Okay? In a republic, people are egalitarian.\N{\rChinese}好的？在共和国里，人们是平等的。
+Dialogue: 0,0:46:50.56,0:46:53.40,English,,0,0,0,,And, in an empire, there's a hierarchy.\N{\rChinese}而在帝国里，存在层级。
+Dialogue: 0,0:46:53.72,0:46:55.12,English,,0,0,0,,So, think about this.\N{\rChinese}所以，想想这个。
+Dialogue: 0,0:46:55.70,0:46:59.00,English,,0,0,0,,In the Persian empire, if you were to meet the emperor,\N{\rChinese}在波斯帝国里，如果你要遇见皇帝，
+Dialogue: 0,0:46:59.28,0:47:01.30,English,,0,0,0,,what you have to do was prostrate\N{\rChinese}你要做的就是俯伏
+Dialogue: 0,0:47:02.12,0:47:03.92,English,,0,0,0,,yourself first and then kiss his feet.\N{\rChinese}先把自己放在第一位，然后再去吻他的脚。
+Dialogue: 0,0:47:05.12,0:47:06.78,English,,0,0,0,,Alright? That's the idea of empire.\N{\rChinese}好的？这就是帝国的概念。
+Dialogue: 0,0:47:07.14,0:47:09.34,English,,0,0,0,,But, in a republic, you didn't do that.\N{\rChinese}但在共和国里，你们就不这么做。
+Dialogue: 0,0:47:09.34,0:47:11.56,English,,0,0,0,,In fact, even though\N{\rChinese}事实上，即使
+Dialogue: 0,0:47:11.56,0:47:14.22,English,,0,0,0,,Rome was becoming a welfare city,\N{\rChinese}罗马正成为一个福利城市，
+Dialogue: 0,0:47:14.60,0:47:18.92,English,,0,0,0,,a major tradition in Rome was you didn't lock your doors.\N{\rChinese}罗马的主要传统是你们不锁门。
+Dialogue: 0,0:47:19.04,0:47:21.96,English,,0,0,0,,You didn't have guards. So a senator who\N{\rChinese}你们没有卫兵。所以一位参议员
+Dialogue: 0,0:47:21.96,0:47:24.54,English,,0,0,0,,was in charge of Gaul, he was literally,\N{\rChinese}他负责高卢，他真的，
+Dialogue: 0,0:47:24.80,0:47:28.10,English,,0,0,0,,he could literally put millions of people to death if he wanted to.\N{\rChinese}他只要想就能让数百万人死去。
+Dialogue: 0,0:47:28.46,0:47:31.74,English,,0,0,0,,He didn't lock his door. So, you, the lowliest Roman,\N{\rChinese}他没锁门。所以，你这位最卑微的罗马人，可以随便走进他的屋里
+Dialogue: 0,0:47:31.96,0:47:33.94,English,,0,0,0,,could just walk into his house and\N{\rChinese}could just walkinto his house and
+Dialogue: 0,0:47:33.94,0:47:38.72,English,,0,0,0,,have tea with him or coffee with him and talk about life.\N{\rChinese}喝茶或咖啡跟他聊聊生活。
+Dialogue: 0,0:47:38.82,0:47:40.86,English,,0,0,0,,Okay? That was the tradition in Rome.\N{\rChinese}好吧？这就是罗马的传统。
+Dialogue: 0,0:47:41.34,0:47:44.82,English,,0,0,0,,Also, another thing is when\N{\rChinese}另外，还有一点是当
+Dialogue: 0,0:47:44.82,0:47:48.54,English,,0,0,0,,Roman senators walked the streets of Rome, they always carried an umbrella.\N{\rChinese}罗马参议员走在罗马街道时，总是携带伞。
+Dialogue: 0,0:47:48.86,0:47:53.20,English,,0,0,0,,Something called a, to protect themselves.\N{\rChinese}有一种叫做的东西，来保护自己。
+Dialogue: 0,0:47:53.82,0:47:55.18,English,,0,0,0,,Okay? And the reason why is this.\N{\rChinese}好吧？原因就在这里。
+Dialogue: 0,0:47:56.12,0:47:58.44,English,,0,0,0,,Roman houses were two stories.\N{\rChinese}罗马房屋有两层楼。
+Dialogue: 0,0:47:59.36,0:48:01.40,English,,0,0,0,,And they didn't have a sewage system.\N{\rChinese}并且没有下水道系统。
+Dialogue: 0,0:48:01.62,0:48:04.48,English,,0,0,0,,So if you did go to the bathroom, you did so\N{\rChinese}于是你去洗手间时，第二层你就用桶去做事。
+Dialogue: 0,0:48:04.48,0:48:06.96,English,,0,0,0,,using a bucket on the second floor.\N{\rChinese}于是你去洗手间时，第二层你就用桶去做事。
+Dialogue: 0,0:48:07.26,0:48:09.14,English,,0,0,0,,Okay? And so\N{\rChinese}好的？于是
+Dialogue: 0,0:48:09.14,0:48:12.66,English,,0,0,0,,what would happen is if you saw someone you didn't like walk the streets,\N{\rChinese}如果你看到你不喜欢的人走在街上，
+Dialogue: 0,0:48:12.82,0:48:14.78,English,,0,0,0,,you would actually take your bucket and\N{\rChinese}你就会拿起你的桶
+Dialogue: 0,0:48:14.78,0:48:18.50,English,,0,0,0,,throw all this shit at him.\N{\rChinese}把这一切抛给他。
+Dialogue: 0,0:48:18.58,0:48:19.90,English,,0,0,0,,Okay? That's literally what they did.\N{\rChinese}好吧？这就是他们的做法。
+Dialogue: 0,0:48:20.38,0:48:22.22,English,,0,0,0,,So, if you're a senator,\N{\rChinese}所以，如果你是参议员，
+Dialogue: 0,0:48:22.66,0:48:25.42,English,,0,0,0,,you could be the most powerful man in the world, but\N{\rChinese}你可以成为世界上最有权势的人，
+Dialogue: 0,0:48:25.42,0:48:29.02,English,,0,0,0,,you could still literally risk having shit thrown at you.\N{\rChinese}你仍然可能真的被抛来一堆东西。
+Dialogue: 0,0:48:29.10,0:48:31.10,English,,0,0,0,,Okay? So that's the Roman world.\N{\rChinese}好吧？这就是罗马世界。
+Dialogue: 0,0:48:31.28,0:48:33.78,English,,0,0,0,,It was egalitarian. Where there's an empire,\N{\rChinese}它是平等的。若有帝国，就有层级。
+Dialogue: 0,0:48:34.14,0:48:37.76,English,,0,0,0,,there's hierarchy. So, in the egalitarian world, there's a lot of things.\N{\rChinese}于是，在平等的世界里，有许多事物。
+Dialogue: 0,0:48:37.76,0:48:40.14,English,,0,0,0,,In the egalitarian world, it means there's openness.\N{\rChinese}在平等的世界里，意味着开放。
+Dialogue: 0,0:48:40.40,0:48:42.46,English,,0,0,0,,People are open to new ideas.\N{\rChinese}人们对新想法持开放态度。
+Dialogue: 0,0:48:42.64,0:48:44.18,English,,0,0,0,,There's debate. Okay?\N{\rChinese}有争论。好吧？
+Dialogue: 0,0:48:44.30,0:48:47.04,English,,0,0,0,,Literally anyone could propose a new idea.\N{\rChinese}字面上任何人都可以提出新想法。
+Dialogue: 0,0:48:48.42,0:48:51.60,English,,0,0,0,,Whereas in the empire,\N{\rChinese}而在帝国中，
+Dialogue: 0,0:48:52.06,0:48:55.20,English,,0,0,0,,it was a very closed system.\N{\rChinese}那时是个极为封闭的体系。
+Dialogue: 0,0:48:55.38,0:48:58.22,English,,0,0,0,,Okay? They didn't like new ideas.\N{\rChinese}好的？他们不喜欢新想法。
+Dialogue: 0,0:48:58.50,0:49:01.16,English,,0,0,0,,So go back to the example of Greek fire.\N{\rChinese}于是回到希腊火的例子。
+Dialogue: 0,0:49:01.62,0:49:03.22,English,,0,0,0,,Right? A guy,\N{\rChinese}对吧？一个人，
+Dialogue: 0,0:49:03.58,0:49:05.24,English,,0,0,0,,and it's a story so we don't know if it's true.\N{\rChinese}而且这事是个故事，我们不确定它是否真实。
+Dialogue: 0,0:49:05.30,0:49:07.48,English,,0,0,0,,But a guy had to go to the emperor.\N{\rChinese}但有人必须去找皇帝。
+Dialogue: 0,0:49:07.48,0:49:11.98,English,,0,0,0,,And get his approval before the military could adopt it.\N{\rChinese}然后在军队采用之前得到他的批准。
+Dialogue: 0,0:49:12.22,0:49:13.94,English,,0,0,0,,That's really inefficient, guys.\N{\rChinese}这真是个低效的做法。
+Dialogue: 0,0:49:14.18,0:49:16.36,English,,0,0,0,,Okay? The Greeks would have just gone and done it.\N{\rChinese}好的？希腊人会直接去做这件事。
+Dialogue: 0,0:49:16.50,0:49:20.06,English,,0,0,0,,The Romans would have let the commanders make their own decisions.\N{\rChinese}罗马人会让指挥自行决定。
+Dialogue: 0,0:49:20.36,0:49:22.00,English,,0,0,0,,It would not have been the decision of the Senate.\N{\rChinese}这不再是参议院的决定。
+Dialogue: 0,0:49:22.16,0:49:24.98,English,,0,0,0,,It would have been the decision of the military commander\N{\rChinese}它将由由参议院任命的军队指挥决定。
+Dialogue: 0,0:49:24.98,0:49:27.56,English,,0,0,0,,that was appointed by the Senate.\N{\rChinese}好的？所以，
+Dialogue: 0,0:49:28.00,0:49:29.44,English,,0,0,0,,Okay? So,\N{\rChinese}Okay? So,
+Dialogue: 0,0:49:29.62,0:49:34.82,English,,0,0,0,,the republic would be much more innovative than the empire\N{\rChinese}共和国会比帝国更具创新性
+Dialogue: 0,0:49:34.82,0:49:38.04,English,,0,0,0,,because the republic would be much more open.\N{\rChinese}因为共和国会更开放
+Dialogue: 0,0:49:38.32,0:49:44.14,English,,0,0,0,,Okay? So, there would be a lot more diversity in a republic.\N{\rChinese}于是，共和国会有更多多样性
+Dialogue: 0,0:49:44.40,0:49:47.22,English,,0,0,0,,And in an empire,\N{\rChinese}在帝国里，
+Dialogue: 0,0:49:47.56,0:49:50.50,English,,0,0,0,,things would be much more conformist.\N{\rChinese}事情会更趋同化。
+Dialogue: 0,0:49:51.32,0:49:53.72,English,,0,0,0,,Okay? You would have a lot more creativity,\N{\rChinese}好的？你会有更多创造力。
+Dialogue: 0,0:49:54.02,0:49:57.16,English,,0,0,0,,a lot more diversity within a republic than within an empire.\N{\rChinese}在共和国里，内部多样性更丰富。
+Dialogue: 0,0:49:58.66,0:50:01.98,English,,0,0,0,,Right? And that's kind of intuitive because if you think about it,\N{\rChinese}对吧？这也很直观，因为如果你想想看，
+Dialogue: 0,0:50:02.06,0:50:06.50,English,,0,0,0,,an empire has so much more people and so much more wealth and resources.\N{\rChinese}在帝国里，人口、财富和资源都多得多了。
+Dialogue: 0,0:50:06.50,0:50:09.68,English,,0,0,0,,But historically,\N{\rChinese}但从历史来看，
+Dialogue: 0,0:50:10.20,0:50:13.46,English,,0,0,0,,we found that republics and democracies are much more innovative\N{\rChinese}我们发现共和国和民主国家比帝国更具创新性和创造力。
+Dialogue: 0,0:50:13.46,0:50:16.60,English,,0,0,0,,and creative than empires.\N{\rChinese}and creative than empires.
+Dialogue: 0,0:50:16.78,0:50:21.14,English,,0,0,0,,The reason has to do with the idea of a bureaucracy. All right? Something that\N{\rChinese}原因与官僚的概念有关。对吧？这是一件事，[885]一个民主或共和国没有的，是帝国官僚的概念。
+Dialogue: 0,0:50:21.14,0:50:23.94,English,,0,0,0,,a democracy or a\N{\rChinese}原因与官僚的概念有关。对吧？这是一件事，[885]一个民主或共和国没有的，是帝国官僚的概念。
+Dialogue: 0,0:50:23.94,0:50:29.40,English,,0,0,0,,republic does not have is the idea of an imperial bureaucracy.\N{\rChinese}republic does not have is the idea of an imperial bureaucracy.
+Dialogue: 0,0:50:30.84,0:50:34.56,English,,0,0,0,,All right? They have bureaucracies, but they're not that big and they're not imperial.\N{\rChinese}好的？他们有官僚，但不大也不帝国。
+Dialogue: 0,0:50:35.04,0:50:37.62,English,,0,0,0,,So. Let's talk about bureaucracy.\N{\rChinese}好了，来聊聊官僚。
+Dialogue: 0,0:50:38.44,0:50:41.32,English,,0,0,0,,All right? And this is a very important idea that\N{\rChinese}好的？这可是一个非常重要的概念。
+Dialogue: 0,0:50:41.32,0:50:44.56,English,,0,0,0,,I want you guys to remember for the rest of the semester\N{\rChinese}我想让你们在整个学期里记住这一点
+Dialogue: 0,0:50:44.94,0:50:46.48,English,,0,0,0,,because we will refer to this idea.\N{\rChinese}因为我们会引用这个概念
+Dialogue: 0,0:50:46.70,0:50:49.20,English,,0,0,0,,All right? Now, in the beginning,\N{\rChinese}好了，先从一开始说
+Dialogue: 0,0:50:49.34,0:50:52.30,English,,0,0,0,,bureaucracies are good for empires because\N{\rChinese}官僚对帝国有利，因为……
+Dialogue: 0,0:50:52.30,0:50:55.46,English,,0,0,0,,what they do is they do centralization.\N{\rChinese}他们做的事是中央集权。
+Dialogue: 0,0:50:57.50,0:51:02.36,English,,0,0,0,,All right? They're able to centralize the empire,\N{\rChinese}好了，他们能把帝国中央化。
+Dialogue: 0,0:51:02.66,0:51:04.00,English,,0,0,0,,unite the empire basically.\N{\rChinese}统一帝国基本上。
+Dialogue: 0,0:51:04.68,0:51:08.90,English,,0,0,0,,Something that they do is they do centralization. And what they do that's important is the idea of systemization.\N{\rChinese}他们做的事是中央集权。重要的是系统化的概念。
+Dialogue: 0,0:51:12.36,0:51:16.20,English,,0,0,0,,All right? Basically keep records,\N{\rChinese}好了？基本上保持记录。
+Dialogue: 0,0:51:16.58,0:51:18.56,English,,0,0,0,,create laws, systemization.\N{\rChinese}制定法律，系统化。
+Dialogue: 0,0:51:19.00,0:51:20.60,English,,0,0,0,,And last is the idea of standardization.\N{\rChinese}最后是标准化的概念。
+Dialogue: 0,0:51:21.60,0:51:24.00,English,,0,0,0,,Standardization. Uniformity.\N{\rChinese}标准化。统一性。
+Dialogue: 0,0:51:24.06,0:51:27.54,English,,0,0,0,,Okay? So, getting people to speak the same language,\N{\rChinese}好的？于是让人们说同一种语言，
+Dialogue: 0,0:51:27.72,0:51:29.54,English,,0,0,0,,getting people to use the metric system,\N{\rChinese}让人们使用公制，
+Dialogue: 0,0:51:30.16,0:51:31.88,English,,0,0,0,,getting people to use money.\N{\rChinese}让人们使用货币。
+Dialogue: 0,0:51:32.04,0:51:34.84,English,,0,0,0,,All right? And this creates tremendous wealth.\N{\rChinese}好的？这就产生了巨大的财富。
+Dialogue: 0,0:51:35.06,0:51:38.04,English,,0,0,0,,All right? And this creates tremendous wealth within the empire in the early years because, again,\N{\rChinese}好的？这在早期帝国里产生了巨大的财富，因为，还是，
+Dialogue: 0,0:51:38.16,0:51:40.76,English,,0,0,0,,what you have is you have the creation of money\N{\rChinese}你拥有的是货币的创造
+Dialogue: 0,0:51:40.76,0:51:43.90,English,,0,0,0,,because you have a legal system and\N{\rChinese}因为你们有法律体系，且
+Dialogue: 0,0:51:45.50,0:51:49.00,English,,0,0,0,,you have a monopoly on violence.\N{\rChinese}你们拥有对暴力的垄断权，且
+Dialogue: 0,0:51:50.78,0:51:55.34,English,,0,0,0,,Monopoly on violence just means that these neighbors don't fight anymore.\N{\rChinese}对暴力的垄断权意味着邻国不再互相争斗。
+Dialogue: 0,0:51:55.56,0:51:56.90,English,,0,0,0,,Okay? Because there's a police.\N{\rChinese}好的？因为有警察。
+Dialogue: 0,0:51:57.34,0:52:00.22,English,,0,0,0,,There are these courts. They can just sue each other.\N{\rChinese}有这些法院。它们可以互相起诉。
+Dialogue: 0,0:52:00.32,0:52:02.60,English,,0,0,0,,There's a legal system and people are now using money.\N{\rChinese}有法律体系，人们现在使用货币。
+Dialogue: 0,0:52:03.36,0:52:04.68,English,,0,0,0,,This leads to contracts.\N{\rChinese}这导致了合同。
+Dialogue: 0,0:52:04.96,0:52:08.86,English,,0,0,0,,All right? All right? So this leads to trade and increased economic activity.\N{\rChinese}好的？好的？于是产生了贸易和经济活动的增加。
+Dialogue: 0,0:52:09.94,0:52:11.78,English,,0,0,0,,So you have peace and prosperity.\N{\rChinese}于是就有了和平与繁荣。
+Dialogue: 0,0:52:12.16,0:52:15.46,English,,0,0,0,,People feel safe. People feel that life is predictable.\N{\rChinese}人们觉得安全。人们觉得生活可预见。
+Dialogue: 0,0:52:15.82,0:52:17.74,English,,0,0,0,,So they do more. They work harder.\N{\rChinese}于是他们做得更多。更努力工作。
+Dialogue: 0,0:52:17.98,0:52:20.88,English,,0,0,0,,Okay? And this leads to, in the early stages of an empire,\N{\rChinese}好吧？这导致了，帝国早期的...
+Dialogue: 0,0:52:21.16,0:52:24.06,English,,0,0,0,,to tremendous prosperity.\N{\rChinese}带来巨大的繁荣。
+Dialogue: 0,0:52:25.40,0:52:28.80,English,,0,0,0,,Okay? But over time,\N{\rChinese}好吧？但随着时间的推移，
+Dialogue: 0,0:52:29.14,0:52:34.46,English,,0,0,0,,what will happen is this bureaucracy will ossify.\N{\rChinese}随后会出现的情况是这个官僚体制会僵化。
+Dialogue: 0,0:52:36.14,0:52:39.06,English,,0,0,0,,Meaning the people within the\N{\rChinese}意思是，官僚内部的人会想办法把官僚体制用于自己的个人利益。
+Dialogue: 0,0:52:39.06,0:52:44.74,English,,0,0,0,,bureaucracy will think of how to use the bureaucracy for their own personal benefit.\N{\rChinese}好吧？我们可以说这就是腐败。
+Dialogue: 0,0:52:45.10,0:52:47.10,English,,0,0,0,,Okay? We can say this is corruption.\N{\rChinese}Okay? We can saythis is corruption.
+Dialogue: 0,0:52:47.28,0:52:49.98,English,,0,0,0,,Okay? So centralization leads to corruption where\N{\rChinese}好的？于是中央集权导致腐败，只剩少数人掌握全部权力并把它用于个人利益。
+Dialogue: 0,0:52:49.98,0:52:52.90,English,,0,0,0,,just a minority of people with all the power\N{\rChinese}好的？于是中央集权导致腐败，只剩少数人掌握全部权力并把它用于个人利益。
+Dialogue: 0,0:52:53.29,0:52:55.58,English,,0,0,0,,use it for their own personal benefit.\N{\rChinese}好的？于是中央集权导致腐败，只剩少数人掌握全部权力并把它用于个人利益。
+Dialogue: 0,0:52:55.90,0:53:00.32,English,,0,0,0,,They're basically parasites. The technical word we use for this is rent seeking.\N{\rChinese}他们基本是寄生虫。我们用的技术词是租金寻求。
+Dialogue: 0,0:53:00.54,0:53:03.63,English,,0,0,0,,Okay? Rent seeking. So if you go landlord.\N{\rChinese}好吧？租金寻求。所以如果你去做地主。
+Dialogue: 0,0:53:04.02,0:53:08.44,English,,0,0,0,,Landlord. They're landlords who charge rent to their tenants.\N{\rChinese}地主。他们是向租户收租金的地主。
+Dialogue: 0,0:53:08.60,0:53:11.78,English,,0,0,0,,Well, if it's a monopoly, they can charge as much as they want.\N{\rChinese}好吧，如果是垄断，他们可以随便收取租金。
+Dialogue: 0,0:53:11.94,0:53:13.68,English,,0,0,0,,There's nothing you can do about it. Okay?\N{\rChinese}没什么办法可以做的。好吧？
+Dialogue: 0,0:53:13.74,0:53:15.20,English,,0,0,0,,It's what we call rent seeking.\N{\rChinese}这就是我们所说的租金寻求。
+Dialogue: 0,0:53:16.00,0:53:18.08,English,,0,0,0,,So centralization eventually leads to corruption.\N{\rChinese}于是中央化最终导致腐败。
+Dialogue: 0,0:53:20.02,0:53:22.94,English,,0,0,0,,Systemization leads to ultimately stagnation.\N{\rChinese}系统化最终导致停滞。
+Dialogue: 0,0:53:24.08,0:53:28.02,English,,0,0,0,,Okay? There's nothing new going on.\N{\rChinese}好吧？没什么新鲜事。
+Dialogue: 0,0:53:28.20,0:53:33.32,English,,0,0,0,,And centralization leads to the idea of conformity or hominem.\N{\rChinese}并且中央化导致了同化或同化的概念。
+Dialogue: 0,0:53:33.74,0:53:35.18,English,,0,0,0,,Hominem. Hominization.\N{\rChinese}同化。同化化。
+Dialogue: 0,0:53:35.50,0:53:37.06,English,,0,0,0,,Okay? Where everything becomes the same.\N{\rChinese}好吧？一切都变得一样。
+Dialogue: 0,0:53:37.22,0:53:39.18,English,,0,0,0,,Where everything is bland.\N{\rChinese}一切都显得平淡。
+Dialogue: 0,0:53:40.96,0:53:43.96,English,,0,0,0,,Right? Does that make sense?\N{\rChinese}对吧？这样说通吗？
+Dialogue: 0,0:53:44.80,0:53:49.34,English,,0,0,0,,Okay. So\N{\rChinese}好的。
+Dialogue: 0,0:53:49.34,0:53:51.84,English,,0,0,0,,why this happens is\N{\rChinese}为什么会出现这种情况是
+Dialogue: 0,0:53:51.84,0:53:55.08,English,,0,0,0,,because even\N{\rChinese}因为即使
+Dialogue: 0,0:53:55.08,0:53:59.26,English,,0,0,0,,though the bureaucracy is only an institution among different institutions.\N{\rChinese}虽然官僚只是众多机构中的一种。
+Dialogue: 0,0:53:59.48,0:54:01.78,English,,0,0,0,,Okay? So think about this. You have to compare bureaucracy. Okay?\N{\rChinese}好的？想想这个。你得把官僚做比较。好吗？
+Dialogue: 0,0:54:11.02,0:54:13.04,English,,0,0,0,,So here is bureaucracy.\N{\rChinese}所以这里就是官僚。
+Dialogue: 0,0:54:14.02,0:54:15.56,English,,0,0,0,,So here is bureaucracy.\N{\rChinese}所以这里就是官僚。
+Dialogue: 0,0:54:16.14,0:54:17.34,English,,0,0,0,,So here is bureaucracy. So here is bureaucracy. So here is bureaucracy.\N{\rChinese}所以这里就是官僚。这里就是官僚。 这里就是官僚。
+Dialogue: 0,0:54:17.34,0:54:20.92,English,,0,0,0,,So here is bureaucracy. So here is bureaucracy. So here is bureaucracy. So here is bureaucracy. So here is bureaucracy. So here is bureaucracy.\N{\rChinese}所以这里就是官僚。 这里就是官僚。 这里就是官僚。 这里就是官僚。 这里就是官僚。 这里就是官僚。
+Dialogue: 0,0:54:20.92,0:54:23.28,English,,0,0,0,,So here is bureaucracy. So here is bureaucracy.\N{\rChinese}所以这里就是官僚。 这里就是官僚。
+Dialogue: 0,0:54:23.56,0:54:27.28,English,,0,0,0,,So here is bureaucracy.\N{\rChinese}所以这里就是官僚。
+Dialogue: 0,0:54:27.28,0:54:31.80,English,,0,0,0,,up against the church. So there are different\N{\rChinese}与教会对峙。于是有不同的机构可以抵消官僚。
+Dialogue: 0,0:54:33.60,0:54:38.28,English,,0,0,0,,institutions that can counter the bureaucracy.\N{\rChinese}institutions that can counter the bureaucracy.
+Dialogue: 0,0:54:38.66,0:54:39.94,English,,0,0,0,,But over time,\N{\rChinese}但随着时间的推移，
+Dialogue: 0,0:54:40.52,0:54:42.12,English,,0,0,0,,in terms of peace and prosperity,\N{\rChinese}在和平与繁荣方面，
+Dialogue: 0,0:54:42.52,0:54:44.08,English,,0,0,0,,if things are really stable,\N{\rChinese}若事物真的稳定，
+Dialogue: 0,0:54:44.28,0:54:47.82,English,,0,0,0,,eventually the bureaucracy triumphs over\N{\rChinese}最终，官僚取得胜利
+Dialogue: 0,0:54:47.82,0:54:50.44,English,,0,0,0,,all these other institutions.\N{\rChinese}所有这些其他机构。
+Dialogue: 0,0:54:51.38,0:54:52.80,English,,0,0,0,,And the reason why is this.\N{\rChinese}原因正是如此。
+Dialogue: 0,0:54:53.26,0:54:54.52,English,,0,0,0,,First is\N{\rChinese}首先是
+Dialogue: 0,0:54:55.34,0:54:57.64,English,,0,0,0,,the bureaucracy can monopolize\N{\rChinese}官僚可以垄断
+Dialogue: 0,0:55:00.64,0:55:03.54,English,,0,0,0,,status. Okay?\N{\rChinese}状态。好吗？
+Dialogue: 0,0:55:04.08,0:55:10.58,English,,0,0,0,,And mobility. So if you're just an ordinary person, well,\N{\rChinese}移动性。所以如果你只是普通人，嗯，
+Dialogue: 0,0:55:10.58,0:55:16.08,English,,0,0,0,,the best way to rise from our society is through the bureaucracy.\N{\rChinese}通过官僚晋升是我们社会的最佳途径。
+Dialogue: 0,0:55:16.34,0:55:18.60,English,,0,0,0,,This is certainly true in China, right?\N{\rChinese}这在中国确实如此，对吧？
+Dialogue: 0,0:55:18.86,0:55:21.42,English,,0,0,0,,Where everyone wants to be a bureaucrat because\N{\rChinese}大家都想成为官僚，因为这被视为实现社会地位和流动性的机制。
+Dialogue: 0,0:55:21.42,0:55:26.42,English,,0,0,0,,that's seen as the mechanism of achieving social status as well as social mobility.\N{\rChinese}that's seen as the mechanism of achievingsocial status as well as social mobility.
+Dialogue: 0,0:55:26.44,0:55:27.70,English,,0,0,0,,Also,\N{\rChinese}还有，
+Dialogue: 0,0:55:30.26,0:55:33.76,English,,0,0,0,,bureaucracies monopolize information.\N{\rChinese}官僚机构垄断信息。
+Dialogue: 0,0:55:36.26,0:55:40.98,English,,0,0,0,,It controls what information flows into the system.\N{\rChinese}它控制着信息流入系统的方式。
+Dialogue: 0,0:55:41.14,0:55:43.40,English,,0,0,0,,It controls what the emperor sees.\N{\rChinese}它决定着皇帝所见之事。
+Dialogue: 0,0:55:44.02,0:55:46.10,English,,0,0,0,,Okay? So we can say this is about censorship\N{\rChinese}好的？所以我们可以说这关乎审查与秘密。
+Dialogue: 0,0:55:47.52,0:55:48.96,English,,0,0,0,,and secrecy.\N{\rChinese}最后它做的事是垄断叙事的概念。
+Dialogue: 0,0:55:53.68,0:55:58.08,English,,0,0,0,,And the last thing that it does is it monopolizes the idea of narrative.\N{\rChinese}And the last thing that it does is it monopolizes the idea of narrative.
+Dialogue: 0,0:55:59.76,0:56:04.82,English,,0,0,0,,Okay? It controls the production of culture.\N{\rChinese}好的？它掌控文化的生产。
+Dialogue: 0,0:56:05.86,0:56:07.10,English,,0,0,0,,And we can...\N{\rChinese}而我们可以……
+Dialogue: 0,0:56:08.26,0:56:13.28,English,,0,0,0,,So it does this mainly through the process of writing history.\N{\rChinese}于是它主要通过写史的过程来实现。
+Dialogue: 0,0:56:13.94,0:56:15.00,English,,0,0,0,,Okay? So remember,\N{\rChinese}好的？记住，
+Dialogue: 0,0:56:15.06,0:56:18.38,English,,0,0,0,,history is the creation of a\N{\rChinese}历史是把人们团结在一起的文化叙事的创造。
+Dialogue: 0,0:56:18.38,0:56:21.90,English,,0,0,0,,cultural narrative to bind people together.\N{\rChinese}cultural narrative tobind people together.
+Dialogue: 0,0:56:22.24,0:56:25.66,English,,0,0,0,,And it's usually the imperial bureaucrats who do this.\N{\rChinese}而这通常是帝国官僚完成的。
+Dialogue: 0,0:56:26.44,0:56:31.90,English,,0,0,0,,In other words, what's important for us to understand is the bureaucrats have a monopoly\N{\rChinese}换句话说，我们要理解的重要点是官僚拥有读写和知识的垄断。
+Dialogue: 0,0:56:33.76,0:56:38.10,English,,0,0,0,,of literacy and knowledge.\N{\rChinese}他们掌握着文字和知识的独占权。
+Dialogue: 0,0:56:38.74,0:56:40.16,English,,0,0,0,,They control the schools.\N{\rChinese}他们掌管学校。
+Dialogue: 0,0:56:40.52,0:56:42.04,English,,0,0,0,,They control the media.\N{\rChinese}他们掌管媒体。
+Dialogue: 0,0:56:42.26,0:56:43.98,English,,0,0,0,,They control history writing.\N{\rChinese}他们掌管史书。
+Dialogue: 0,0:56:44.20,0:56:46.12,English,,0,0,0,,They control how you think and\N{\rChinese}他们掌管你思考与写作。于是即使这些机构相互竞争，
+Dialogue: 0,0:56:46.92,0:56:50.04,English,,0,0,0,,write. So even\N{\rChinese}他们掌管你思考与写作。于是即使这些机构相互竞争，
+Dialogue: 0,0:56:50.04,0:56:52.74,English,,0,0,0,,though these are competing institutions,\N{\rChinese}他们掌管你思考与写作。于是即使这些机构相互竞争，
+Dialogue: 0,0:56:53.28,0:56:56.16,English,,0,0,0,,the bureaucracy, by controlling this meta -reality,\N{\rChinese}行政机构通过掌控这层元现实来实现统治，
+Dialogue: 0,0:56:56.16,0:56:59.04,English,,0,0,0,,that's culture, it controls the way\N{\rChinese}这就是文化，它决定了……
+Dialogue: 0,0:57:00.68,0:57:02.94,English,,0,0,0,,these other institutions\N{\rChinese}这些其他机构的运作方式
+Dialogue: 0,0:57:03.96,0:57:05.42,English,,0,0,0,,behave. Okay?\N{\rChinese}表现。好吗？
+Dialogue: 0,0:57:05.60,0:57:10.44,English,,0,0,0,,So the example I want to use is the idea of\N{\rChinese}我想用的例子是“神头”这个概念。
+Dialogue: 0,0:57:10.87,0:57:13.14,English,,0,0,0,,the godhead. Alright?\N{\rChinese}对吗？
+Dialogue: 0,0:57:13.18,0:57:15.50,English,,0,0,0,,The godhead. So\N{\rChinese}神头。于是
+Dialogue: 0,0:57:15.50,0:57:19.64,English,,0,0,0,,my argument to you is the godhead, it's really a bureaucratic invention.\N{\rChinese}我的论点是神头，真的是一种官僚发明。
+Dialogue: 0,0:57:23.94,0:57:26.36,English,,0,0,0,,Right? Right? Because remember,\N{\rChinese}对吧？对吧？因为记得，
+Dialogue: 0,0:57:26.58,0:57:29.00,English,,0,0,0,,during the Council of Nicaea,\N{\rChinese}在尼西亚会议期间，
+Dialogue: 0,0:57:30.58,0:57:34.44,English,,0,0,0,,there was a debate as to the nature of Jesus.\N{\rChinese}关于耶稣的本性展开了辩论。
+Dialogue: 0,0:57:34.84,0:57:37.08,English,,0,0,0,,There were these Aryans who believed that\N{\rChinese}有些阿里安派人士认为……
+Dialogue: 0,0:57:37.08,0:57:40.04,English,,0,0,0,,Jesus was a lesser divinity.\N{\rChinese}耶稣是较小的神性。
+Dialogue: 0,0:57:40.38,0:57:44.40,English,,0,0,0,,Then there were people who believed in modalism,\N{\rChinese}随后出现了信奉模态论的人们，
+Dialogue: 0,0:57:44.46,0:57:46.54,English,,0,0,0,,who just believed the Holy Spirit,\N{\rChinese}他们只信奉圣灵，
+Dialogue: 0,0:57:47.12,0:57:51.70,English,,0,0,0,,Jesus, and God were different forms of the same entity.\N{\rChinese}耶稣与上帝是同一实体的不同形式。
+Dialogue: 0,0:57:52.08,0:57:55.66,English,,0,0,0,,Then you have partialism, which is to say that there are partialities, but there are partialities, but they are all part of the same entity.\N{\rChinese}随后出现了部分论，即认为有部分性，但这些部分性都是同一实体的一部分。
+Dialogue: 0,0:57:55.82,0:58:00.14,English,,0,0,0,,Okay? And these three different explanations make sense, they make intuitive sense.\N{\rChinese}好吧？这三种不同的解释都能成立，直观上也通顺。
+Dialogue: 0,0:58:00.74,0:58:04.24,English,,0,0,0,,The idea of the godhead, where God,\N{\rChinese}神头的概念，即上帝、耶稣与圣灵三者同等。
+Dialogue: 0,0:58:05.30,0:58:08.58,English,,0,0,0,,Jesus, and the Holy Spirit\N{\rChinese}耶稣，和圣灵
+Dialogue: 0,0:58:09.86,0:58:12.64,English,,0,0,0,,are co -equal,\N{\rChinese}同等
+Dialogue: 0,0:58:12.64,0:58:16.28,English,,0,0,0,,separate, the same thing, makes no sense.\N{\rChinese}分开，同一事物，没意义。
+Dialogue: 0,0:58:17.24,0:58:21.86,English,,0,0,0,,And the reason why they would do this is to create a sense of mystery.\N{\rChinese}他们这么做的原因是制造神秘感。
+Dialogue: 0,0:58:22.94,0:58:24.72,English,,0,0,0,,Right? And distance.\N{\rChinese}对吧？还有距离感。
+Dialogue: 0,0:58:26.86,0:58:29.88,English,,0,0,0,,And secrecy. And that,\N{\rChinese}和秘密。还有那点，
+Dialogue: 0,0:58:29.96,0:58:31.90,English,,0,0,0,,my friends, is the definition of a bureaucracy.\N{\rChinese}我的朋友们，这是官僚的定义。
+Dialogue: 0,0:58:34.96,0:58:38.74,English,,0,0,0,,Right? I'm not sure if you've dealt with bureaucracies I have.\N{\rChinese}对吧？我不确定你是否遇到过我所说的官僚。
+Dialogue: 0,0:58:38.90,0:58:41.06,English,,0,0,0,,They suck. They dehumanize you.\N{\rChinese}他们真是糟糕。把你变成了人形。
+Dialogue: 0,0:58:41.36,0:58:45.02,English,,0,0,0,,So think of, I'll just use a silly example.\N{\rChinese}于是想想，我举个傻瓜例子。
+Dialogue: 0,0:58:45.22,0:58:48.14,English,,0,0,0,,Right? So in America, there's something called a census.\N{\rChinese}对吧？在美国有个叫人口普查的东西。
+Dialogue: 0,0:58:49.00,0:58:53.08,English,,0,0,0,,And on the census, you have to write down what racial group you belong to.\N{\rChinese}在普查里，你得写下自己属于哪一族群。
+Dialogue: 0,0:58:53.38,0:58:55.02,English,,0,0,0,,And the racial group I'm talking about is the And the racial group of the United States is the Asian American.\N{\rChinese}我说的族群是美国的亚裔美国人。
+Dialogue: 0,0:58:55.02,0:58:57.98,English,,0,0,0,,And the racial group I belong to, if I were American, is Asian American.\N{\rChinese}如果我是美国人，我属于亚裔美国人。
+Dialogue: 0,0:58:58.62,0:59:00.38,English,,0,0,0,,Right? Guess what?\N{\rChinese}对吧？猜猜看？
+Dialogue: 0,0:59:00.48,0:59:02.00,English,,0,0,0,,Guess who else belongs in that group?\N{\rChinese}再猜猜还有谁属于这个组？
+Dialogue: 0,0:59:02.16,0:59:04.76,English,,0,0,0,,Indian people. Vietnamese people.\N{\rChinese}印度人。越南人。
+Dialogue: 0,0:59:04.94,0:59:06.74,English,,0,0,0,,Japanese people. Korean people.\N{\rChinese}日语人。韩语人。
+Dialogue: 0,0:59:07.10,0:59:11.28,English,,0,0,0,,That makes no sense. We know that in Asia,\N{\rChinese}这没道理。我们知道在亚洲，
+Dialogue: 0,0:59:11.74,0:59:14.88,English,,0,0,0,,the Indian culture is vastly different from the Japanese culture,\N{\rChinese}印度文化与日语文化大相径庭。
+Dialogue: 0,0:59:15.06,0:59:18.02,English,,0,0,0,,which is vastly different from the Korean culture,\N{\rChinese}与韩语文化大相径庭，
+Dialogue: 0,0:59:18.20,0:59:20.04,English,,0,0,0,,and the Chinese culture, and the Vietnamese culture.\N{\rChinese}与汉语文化大相径庭，和越南文化。
+Dialogue: 0,0:59:20.10,0:59:22.60,English,,0,0,0,,These are different people with their own\N{\rChinese}这些是不同的人，拥有自己的
+Dialogue: 0,0:59:23.74,0:59:25.08,English,,0,0,0,,belief systems.\N{\rChinese}信仰体系。
+Dialogue: 0,0:59:25.32,0:59:27.04,English,,0,0,0,,But in a bureaucracy,\N{\rChinese}但在官僚体系中，
+Dialogue: 0,0:59:27.46,0:59:29.96,English,,0,0,0,,it just categorizes everyone together\N{\rChinese}它只是把大家归为一类。
+Dialogue: 0,0:59:29.96,0:59:33.72,English,,0,0,0,,almost randomly or indifferently.\N{\rChinese}几乎随机或无差别。
+Dialogue: 0,0:59:34.52,0:59:38.78,English,,0,0,0,,Okay? And that's why I would make the argument that ultimately,\N{\rChinese}好？这就是我最终会提出的论点，随后，
+Dialogue: 0,0:59:39.25,0:59:44.88,English,,0,0,0,,multicultural societies are not as creative as\N{\rChinese}多元文化社会并不如预期般富有创造力。
+Dialogue: 0,0:59:45.50,0:59:46.86,English,,0,0,0,,tribal societies.\N{\rChinese}部落社会。
+Dialogue: 0,0:59:47.68,0:59:50.06,English,,0,0,0,,Okay? Tribal versus multicultural.\N{\rChinese}好？部落与多元文化。
+Dialogue: 0,0:59:50.48,0:59:52.74,English,,0,0,0,,Think about the multicultural societies\N{\rChinese}想想多元文化社会。
+Dialogue: 0,0:59:53.22,0:59:55.04,English,,0,0,0,,that are around us today.\N{\rChinese}那些在我们周围的事物。
+Dialogue: 0,0:59:55.26,0:59:58.12,English,,0,0,0,,Singapore is a multicultural society.\N{\rChinese}新加坡是一个多元文化社会。
+Dialogue: 0,0:59:58.50,1:00:00.84,English,,0,0,0,,Canada is a multicultural society.\N{\rChinese}加拿大是一个多元文化社会。
+Dialogue: 0,1:00:01.20,1:00:02.62,English,,0,0,0,,They're not very creative guys.\N{\rChinese}他们不太有创意。
+Dialogue: 0,1:00:02.88,1:00:05.16,English,,0,0,0,,They're very bland. They're very conformist.\N{\rChinese}他们很平淡，极其从众。
+Dialogue: 0,1:00:05.94,1:00:07.30,English,,0,0,0,,They're very bureaucratic.\N{\rChinese}他们极其官僚。
+Dialogue: 0,1:00:09.36,1:00:13.72,English,,0,0,0,,Okay? Very tribal societies,\N{\rChinese}好的？很部落的社会，
+Dialogue: 0,1:00:13.80,1:00:16.62,English,,0,0,0,,like the Greeks. The Greeks were extremely tribal.\N{\rChinese}像希腊人。希腊人很部落。
+Dialogue: 0,1:00:16.86,1:00:18.46,English,,0,0,0,,They were extremely chauvinistic.\N{\rChinese}他们很自夸。
+Dialogue: 0,1:00:18.52,1:00:19.92,English,,0,0,0,,They were extremely creative.\N{\rChinese}他们极其有创意。
+Dialogue: 0,1:00:21.50,1:00:23.32,English,,0,0,0,,As were um\N{\rChinese}他们也如此
+Dialogue: 0,1:00:25.00,1:00:26.68,English,,0,0,0,,as are the Europeans.\N{\rChinese}他们也如此
+Dialogue: 0,1:00:26.94,1:00:29.36,English,,0,0,0,,Okay? As are the Vikings.\N{\rChinese}好吧？正如维京人。
+Dialogue: 0,1:00:30.30,1:00:35.24,English,,0,0,0,,And the reason why is tribalism is energetic.\N{\rChinese}而且之所以部落是精力充沛。
+Dialogue: 0,1:00:35.50,1:00:40.34,English,,0,0,0,,It makes you passionate. It makes you think deeply about the world.\N{\rChinese}它让你热情满怀，让你深思世界。
+Dialogue: 0,1:00:41.34,1:00:43.48,English,,0,0,0,,Whereas in a multicultural society,\N{\rChinese}在多元文化社会中，
+Dialogue: 0,1:00:44.28,1:00:49.28,English,,0,0,0,,people have to spend their energies getting along with each other.\N{\rChinese}人们需要花费精力相互配合。
+Dialogue: 0,1:00:49.36,1:00:52.32,English,,0,0,0,,It's important not to be offensive.\N{\rChinese}重要的是不失礼貌。
+Dialogue: 0,1:00:52.66,1:00:55.16,English,,0,0,0,,Okay? And so it's because of these three\N{\rChinese}好吧？于是这三点原因导致了它的形成。
+Dialogue: 0,1:00:56.04,1:01:00.38,English,,0,0,0,,reasons. The certain cultural construct of the Byzantine Empire.\N{\rChinese}拜占庭帝国的文化构造是如此。
+Dialogue: 0,1:01:00.92,1:01:02.14,English,,0,0,0,,It was Christian.\N{\rChinese}它是基督教的。
+Dialogue: 0,1:01:02.52,1:01:04.08,English,,0,0,0,,It was multicultural.\N{\rChinese}多元文化。
+Dialogue: 0,1:01:04.84,1:01:07.94,English,,0,0,0,,The word we can also use is cosmopolitan.\N{\rChinese}我们也可以用“世界性”一词。
+Dialogue: 0,1:01:08.08,1:01:10.84,English,,0,0,0,,Okay? Also, it was bureaucratic.\N{\rChinese}好的？另外，它是官僚化的。
+Dialogue: 0,1:01:11.00,1:01:13.34,English,,0,0,0,,The Byzantines were not a very creative people.\N{\rChinese}拜占庭人并不算是很有创造力的民族。
+Dialogue: 0,1:01:14.56,1:01:17.90,English,,0,0,0,,Okay? Even though they had access to every culture in the world.\N{\rChinese}好吧？即便他们能接触世界上所有的文化。
+Dialogue: 0,1:01:18.02,1:01:20.24,English,,0,0,0,,Even though they had access to the classics.\N{\rChinese}即便他们能接触古典。
+Dialogue: 0,1:01:21.50,1:01:25.06,English,,0,0,0,,Plato, Homer, Herodotus, as well as Virgil.\N{\rChinese}柏拉图、荷马、赫罗多德以及维吉尔。
+Dialogue: 0,1:01:25.18,1:01:28.00,English,,0,0,0,,They were not that creative.\N{\rChinese}他们并不算很有创造力。
+Dialogue: 0,1:01:28.42,1:01:34.06,English,,0,0,0,,In fact, if you had a genius like Homer or Dante living in the Byzantine Empire,\N{\rChinese}事实上，如果在拜占庭帝国有像荷马或但丁那样的天才……
+Dialogue: 0,1:01:35.76,1:01:38.44,English,,0,0,0,,well, he would just become a bureaucrat.\N{\rChinese}好吧，他就会变成个官僚。
+Dialogue: 0,1:01:40.04,1:01:42.78,English,,0,0,0,,We would never know the genius of Homer and Dante.\N{\rChinese}我们永远不知道荷马和但丁的天才。
+Dialogue: 0,1:01:43.26,1:01:48.56,English,,0,0,0,,Homer and Dante could only arise in tribal societies.\N{\rChinese}荷马和但丁只能在部落社会中诞生。
+Dialogue: 0,1:01:49.52,1:01:53.74,English,,0,0,0,,Okay? So, that um,\N{\rChinese}好的？那么，那个……
+Dialogue: 0,1:01:54.12,1:01:55.44,English,,0,0,0,,yeah.\N{\rChinese}嗯。
+Dialogue: 0,1:01:55.56,1:01:57.18,English,,0,0,0,,So, does that make sense to you guys?\N{\rChinese}那么，这样对你们来说有道理吗？
+Dialogue: 0,1:01:57.78,1:02:00.66,English,,0,0,0,,Okay. And again, this is just an introduction\N{\rChinese}好的。再说一次，这只是一个介绍。
+Dialogue: 0,1:02:01.32,1:02:02.92,English,,0,0,0,,to the conflict between\N{\rChinese}关于……之间的冲突。
+Dialogue: 0,1:02:03.40,1:02:06.52,English,,0,0,0,,these political systems. Empire versus Republic.\N{\rChinese}这些政治体系。帝国对共和国。
+Dialogue: 0,1:02:07.10,1:02:10.80,English,,0,0,0,,Bureaucracy versus um, yeah.\N{\rChinese}官僚主义与……嗯，好吧。
+Dialogue: 0,1:02:11.14,1:02:12.96,English,,0,0,0,,Alright? We will continue\N{\rChinese}好的？我们继续。
+Dialogue: 0,1:02:13.50,1:02:16.74,English,,0,0,0,,these themes and these topics as we\N{\rChinese}这些主题和话题，正如我们。
+Dialogue: 0,1:02:17.50,1:02:20.64,English,,0,0,0,,move on throughout Western history.\N{\rChinese}沿着西方历史的脉络前进。
+Dialogue: 0,1:02:21.50,1:02:23.86,English,,0,0,0,,But, I first want to introduce these ideas to you.\N{\rChinese}不过，我先想把这些概念介绍给你。
+Dialogue: 0,1:02:24.02,1:02:26.48,English,,0,0,0,,It's really important that you understand the difference between\N{\rChinese}你要明白它们之间的差别，真的很重要。
+Dialogue: 0,1:02:27.22,1:02:28.58,English,,0,0,0,,paganism and Christianity.\N{\rChinese}异教与基督教。
+Dialogue: 0,1:02:29.00,1:02:30.96,English,,0,0,0,,Because we'll be referring to\N{\rChinese}因为我们会在学期后面提到这个冲突、这个分裂。
+Dialogue: 0,1:02:31.48,1:02:35.24,English,,0,0,0,,this conflict, this division later on in the semester as well.\N{\rChinese}this conflict, this division later on in the semester as well.
+Dialogue: 0,1:02:36.30,1:02:38.30,English,,0,0,0,,Any questions about this?\N{\rChinese}有关于这点的疑问吗？
+Dialogue: 0,1:02:40.40,1:02:42.62,English,,0,0,0,,Please feel free to argue, okay?\N{\rChinese}请随意发言，行吗？
+Dialogue: 0,1:02:47.70,1:02:48.94,English,,0,0,0,,Please feel free\N{\rChinese}请随意发言
+Dialogue: 0,1:02:49.50,1:02:52.00,English,,0,0,0,,to ask questions to argue.\N{\rChinese}请随意提问、争论。
+Dialogue: 0,1:02:52.40,1:02:56.46,English,,0,0,0,,Because when you do that, it helps me improve my own thinking.\N{\rChinese}因为这样做能帮助我完善自己的思考。
+Dialogue: 0,1:02:58.28,1:03:00.76,English,,0,0,0,,Alright? Any comments? Any feedback?\N{\rChinese}好的？有评论吗？有反馈吗？
+Dialogue: 0,1:03:05.68,1:03:10.38,English,,0,0,0,,Okay. So, I want to give you guys some time to think about questions.\N{\rChinese}好的。于是，我想给你们一些时间来思考问题。
+Dialogue: 0,1:03:10.74,1:03:15.14,English,,0,0,0,,But, before I do that, I want to look ahead over the next couple of weeks\N{\rChinese}不过，在此之前，我想先预览接下来几周的内容，并告诉你们我们将要做的事，好吗？
+Dialogue: 0,1:03:15.14,1:03:16.70,English,,0,0,0,,and tell you what we'll be doing, okay?\N{\rChinese}and tell you what we'll be doing, okay?
+Dialogue: 0,1:03:17.36,1:03:20.94,English,,0,0,0,,So, we did the Roman Empire, then we did the Byzantines.\N{\rChinese}于是我们先讲了罗马帝国，然后再讲了拜占庭帝国。
+Dialogue: 0,1:03:21.50,1:03:23.72,English,,0,0,0,,So, as I explained to you,\N{\rChinese}于是，我向你们解释过，
+Dialogue: 0,1:03:24.26,1:03:28.94,English,,0,0,0,,the Roman Empire, Western Roman Empire, will collapse\N{\rChinese}罗马帝国，西罗马帝国，将会崩溃。
+Dialogue: 0,1:03:29.52,1:03:32.00,English,,0,0,0,,in the year 476, when\N{\rChinese}在476年，当
+Dialogue: 0,1:03:32.00,1:03:35.42,English,,0,0,0,,the last emperor, Romulus Augustus, is deposed.\N{\rChinese}最后一位皇帝罗姆卢斯·奥古斯都被罢位。
+Dialogue: 0,1:03:35.56,1:03:38.96,English,,0,0,0,,Okay? But, when he's deposed,\N{\rChinese}好的？但当他被罢位时，
+Dialogue: 0,1:03:40.02,1:03:42.16,English,,0,0,0,,people don't understand the Roman Empire has come to an end.\N{\rChinese}人们不明白罗马帝国已经结束。
+Dialogue: 0,1:03:43.32,1:03:45.86,English,,0,0,0,,Okay? Because the people who\N{\rChinese}好的？因为仍在掌权的人们认为罗马帝国还在继续。
+Dialogue: 0,1:03:45.86,1:03:48.14,English,,0,0,0,,are still in charge think the Roman Empire is continuing.\N{\rChinese}好的？因为仍在掌权的人们认为罗马帝国还在继续。
+Dialogue: 0,1:03:48.52,1:03:54.48,English,,0,0,0,,But now, we have a long period of civil wars throughout Europe. Alright?\N{\rChinese}现在，我们在欧洲经历了长时间的内战。好吗？
+Dialogue: 0,1:03:54.60,1:04:00.30,English,,0,0,0,,And these civil wars will eventually lead to something called the Holy Roman Empire,\N{\rChinese}这些内战最终导致了所谓的神圣罗马帝国。
+Dialogue: 0,1:04:00.64,1:04:03.32,English,,0,0,0,,which is something that the, which\N{\rChinese}哪是那件事，哪是……
+Dialogue: 0,1:04:03.32,1:04:06.92,English,,0,0,0,,is what Charlemagne of the Franks will create.\N{\rChinese}这就是查理曼将要创造的事物。
+Dialogue: 0,1:04:07.14,1:04:11.86,English,,0,0,0,,And this will lead, interesting for us, to the rise of the Vikings.\N{\rChinese}这将导致我们感兴趣的事——维京人的崛起。
+Dialogue: 0,1:04:12.52,1:04:15.32,English,,0,0,0,,Okay? The Vikings are important\N{\rChinese}好？维京人很重要。
+Dialogue: 0,1:04:15.32,1:04:18.94,English,,0,0,0,,because they will go on and basically\N{\rChinese}因为它们会继续并基本上
+Dialogue: 0,1:04:19.78,1:04:22.84,English,,0,0,0,,influence British culture as well as\N{\rChinese}影响英国文化以及
+Dialogue: 0,1:04:23.50,1:04:25.52,English,,0,0,0,,Russian culture. Alright?\N{\rChinese}俄罗斯文化。好吗？
+Dialogue: 0,1:04:25.62,1:04:27.70,English,,0,0,0,,So Russia comes from the idea of the Rus.\N{\rChinese}于是，俄罗斯来自于鲁斯的概念。
+Dialogue: 0,1:04:27.96,1:04:31.12,English,,0,0,0,,Okay? The Rus are basically just Vikings.\N{\rChinese}好？鲁斯基本上就是维京人。
+Dialogue: 0,1:04:32.28,1:04:36.58,English,,0,0,0,,Um, over here we will begin,\N{\rChinese}嗯，接下来我们将开始。
+Dialogue: 0,1:04:36.78,1:04:39.88,English,,0,0,0,,we will see the beginning of the Abbasid Caliphate,\N{\rChinese}我们将看到阿拔斯王朝的起始，
+Dialogue: 0,1:04:39.92,1:04:42.50,English,,0,0,0,,which is really the golden age of\N{\rChinese}它实际上是阿拔斯王朝的黄金时代，
+Dialogue: 0,1:04:43.38,1:04:44.66,English,,0,0,0,,the, um,\N{\rChinese}这，嗯，
+Dialogue: 0,1:04:45.46,1:04:48.02,English,,0,0,0,,Muslims. But eventually,\N{\rChinese}穆斯林。但最终，
+Dialogue: 0,1:04:48.24,1:04:50.58,English,,0,0,0,,they will be conquered by the Mongols.\N{\rChinese}他们将被蒙古人征服。
+Dialogue: 0,1:04:52.46,1:04:53.86,English,,0,0,0,,Alright? And\N{\rChinese}好的？然后
+Dialogue: 0,1:04:53.86,1:04:58.38,English,,0,0,0,,the conquest of the Mongols will eventually take us into the Renaissance,\N{\rChinese}蒙古人的征服最终将把我们带入文艺复兴时期，
+Dialogue: 0,1:04:58.76,1:05:00.48,English,,0,0,0,,Dante. And\N{\rChinese}但丁达。然后
+Dialogue: 0,1:05:00.48,1:05:04.24,English,,0,0,0,,this will mark a new beginning in world history.\N{\rChinese}这将标志世界史的新起点。
+Dialogue: 0,1:05:04.34,1:05:07.46,English,,0,0,0,,Okay? So I just want to explain to you what we're doing.\N{\rChinese}好的？我只是想跟你说明我们要做的事。
+Dialogue: 0,1:05:07.68,1:05:12.40,English,,0,0,0,,We will definitely have to do um, the Holy Roman Empire, that's number one.\N{\rChinese}我们一定要先做圣罗马帝国，那是第一项。
+Dialogue: 0,1:05:12.60,1:05:14.90,English,,0,0,0,,Then this will lead us to the Vikings, number two.\N{\rChinese}接下来就是维京人，第二项。
+Dialogue: 0,1:05:15.30,1:05:18.70,English,,0,0,0,,Then we'll talk about the Abbasid Caliphate, number three.\N{\rChinese}然后我们会讨论阿拔斯王朝，第三项。
+Dialogue: 0,1:05:18.90,1:05:21.48,English,,0,0,0,,And then we'll talk about the Mongols, and then the Renaissance.\N{\rChinese}接着我们会谈论蒙古人，然后是文艺复兴。
+Dialogue: 0,1:05:21.50,1:05:23.38,English,,0,0,0,,Okay? So this is what we'll be doing over the next\N{\rChinese}好了？这就是我们接下来要做的事。
+Dialogue: 0,1:05:23.90,1:05:25.66,English,,0,0,0,,two to three weeks. Alright?\N{\rChinese}两到三周，行吗？
+Dialogue: 0,1:05:25.74,1:05:27.36,English,,0,0,0,,We'll be going very fast throughout\N{\rChinese}我们会在整个...
+Dialogue: 0,1:05:27.74,1:05:30.04,English,,0,0,0,,uh, we'll be going very fast this semester.\N{\rChinese}呃，我们会在本学期快速推进。
+Dialogue: 0,1:05:30.32,1:05:32.42,English,,0,0,0,,Okay? So just to let you know. Alright?\N{\rChinese}好的？只是告诉你一下。行吗？

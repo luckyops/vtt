@@ -1,0 +1,6069 @@
+1
+00:00:00,000 --> 00:00:03,320
+Okay, so we start Rome today,
+好的，我们今天从罗马开始，并在接下四节课里讲罗马共和国的崛起。然后再讲罗马帝国的崛起。
+
+2
+00:00:03,480 --> 00:00:08,940
+and we will spend the next four classes on the rise of the Roman Republic,
+好的，开始啦！
+
+3
+00:00:09,240 --> 00:00:14,540
+and then the rise of the Roman Empire.
+...
+
+4
+00:00:14,960 --> 00:00:17,760
+So, Rome, traditionally,
+所以，罗马，传统上说，
+
+5
+00:00:17,960 --> 00:00:22,600
+we believe Rome was founded in the year 753 BCE,
+我们认为罗马在公元前753年建成，
+
+6
+00:00:22,860 --> 00:00:24,300
+but we don't know, okay?
+但我们不知晓，
+
+7
+00:00:24,480 --> 00:00:25,980
+That's just what tradition says,
+那就是传统所说的，
+
+8
+00:00:26,340 --> 00:00:27,640
+that's what the Romans believe,
+那是罗马人所信的，
+
+9
+00:00:28,080 --> 00:00:29,560
+but we actually don't know, okay?
+但我们现在才知道吗？
+
+10
+00:00:30,000 --> 00:00:33,480
+So, around this time, Rome,
+所以，约在此时，罗马，
+
+11
+00:00:33,700 --> 00:00:35,420
+it's just like a small,
+它就像一个小的，
+
+12
+00:00:35,700 --> 00:00:39,680
+insignificant kingdom in the middle of Italy, okay?
+在中意大利的中间，好的？
+
+13
+00:00:39,860 --> 00:00:42,880
+It was founded on a Tiber, this is Rome,
+它在提伯河上建立，这是罗马，它是意大利的拉丁区的一个小的。”“以此为例，拉丁人们。”】}We need to translate cues 13-15. Provide JSON array translations.Ensure each translation string may contain at most one newline. Use natural Chinese. Let's translate: cue13:
+
+14
+00:00:43,080 --> 00:00:47,720
+and it's part of Italy called the Latin area, okay?
+? Wait we need to produce translation for each cue: 13,14,15. Provide array of 3 strings. Let's translate each cue separately. Use Chinese terms:
+
+15
+00:00:47,800 --> 00:00:50,520
+So, these people are known as the Latins.
+? Let's producetranslations: 13:
+
+16
+00:00:50,760 --> 00:00:54,140
+Now, at this time, and over the next centuries,
+现在，到了这时，接下来几个世纪里，罗马将是一个小的、贫穷的王国，始终。
+
+17
+00:00:54,520 --> 00:00:56,940
+Rome would be a small,
+它将是一个小的、贫穷的王国，始终。
+
+18
+00:00:57,040 --> 00:00:59,980
+poor kingdom, always.
+它将是一个小的、贫穷的王古
+
+19
+00:01:00,000 --> 00:01:01,600
+It was at war with its neighbors, okay?
+It was at war withits neighbors, okay?
+
+20
+00:01:01,680 --> 00:01:05,220
+Primarily, the Sabins over here, and
+}
+
+21
+00:01:05,220 --> 00:01:06,760
+then you have other tribes as well.
+?
+
+22
+00:01:07,620 --> 00:01:11,880
+At this time, the dominant civilization is what we call the Etrischians,
+在此时，主导的...??
+
+23
+00:01:12,040 --> 00:01:13,380
+and
+??
+
+24
+00:01:13,380 --> 00:01:15,880
+the Etrischians are the most advanced
+...
+
+25
+00:01:15,880 --> 00:01:19,500
+civilization in Italy during this time,
+civilization in Italy during this time,
+
+26
+00:01:19,600 --> 00:01:23,080
+and it is very similar to Greece,
+26. 先后? 先后??
+
+27
+00:01:23,280 --> 00:01:26,360
+in that there are different city -states,
+在那里有不同的城市-州
+
+28
+00:01:26,400 --> 00:01:29,980
+and they trade with each other.
+...
+
+29
+00:01:30,000 --> 00:01:32,940
+And because they are by the sea,
+??
+
+30
+00:01:33,180 --> 00:01:36,400
+they are able to access cultures
+他们可以访问文化…
+
+31
+00:01:36,400 --> 00:01:38,360
+and ideas and goods
+...
+
+32
+00:01:38,760 --> 00:01:40,780
+from all around the world, okay?
+...
+
+33
+00:01:42,280 --> 00:01:44,520
+Then across the Mediterranean,
+...
+
+34
+00:01:44,900 --> 00:01:46,540
+you have a place called Carthage.
+...
+
+35
+00:01:48,800 --> 00:01:51,240
+Here is Italy, Sicily, okay?
+??
+
+36
+00:01:51,380 --> 00:01:53,880
+An island called Sicily. Sicily is important because
+...
+
+37
+00:01:53,880 --> 00:01:57,000
+it's basically the main island of the Mediterranean, so
+it's basically the main island of the Mediterranean, so
+
+38
+00:01:57,000 --> 00:01:59,980
+you're going to control the Mediterranean Sea and the Tiber.
+...
+
+39
+00:01:59,980 --> 00:02:02,660
+And to trade, you have to control Sicily, all right?
+??
+
+40
+00:02:03,200 --> 00:02:05,660
+So, across the sea is Carthage, and
+跨海而来，卡尔塔格就是...
+
+41
+00:02:05,660 --> 00:02:08,220
+Carthage is from...
+跨海之旅，卡尔塔格从...
+
+42
+00:02:09,830 --> 00:02:13,060
+It's a colony of Phoenicia, which is in the Levant, okay?
+它是黎巴嫩的一个殖民，位于黎巴嫩，好的？
+
+43
+00:02:13,640 --> 00:02:16,080
+And over the next few hundred years,
+它是...
+
+44
+00:02:16,440 --> 00:02:19,080
+Carthage would become the dominant
+卡尔塔格将会...
+
+45
+00:02:19,080 --> 00:02:22,480
+economic power of the Mediterranean,
+...
+
+46
+00:02:22,760 --> 00:02:26,220
+because they're very good at trade,
+因为他们在贸易上非常擅长，
+
+47
+00:02:26,360 --> 00:02:28,760
+and they're very good at...
+而且他们在...
+
+48
+00:02:29,980 --> 00:02:33,260
+Sailing, okay? So they'll travel and
+航行，好的？他们会去旅行并
+
+49
+00:02:33,260 --> 00:02:36,340
+sail all around the world and found new colonies, and
+航行...
+
+50
+00:02:36,340 --> 00:02:41,960
+slowly they'll build up their own little empire across the Mediterranean.
+慢慢地，他们将在地中海建立自己的小帝国。
+
+51
+00:02:42,700 --> 00:02:44,660
+And they are, for the longest time,
+慢慢地，他们会在地中海建造小帝国。
+
+52
+00:02:44,900 --> 00:02:49,380
+the wealthiest city in Europe,
+...
+
+53
+00:02:49,420 --> 00:02:52,140
+basically, okay? And
+基本上，好的？然后…
+
+54
+00:02:52,140 --> 00:02:53,620
+of course,
+?
+
+55
+00:02:53,640 --> 00:02:57,150
+over here are the Greeks, right?
+over ... ?
+
+56
+00:02:57,560 --> 00:03:03,120
+And we spend a lot of time... I'm sorry. It's been a lot of time...
+... ?
+
+57
+00:03:03,120 --> 00:03:05,580
+It's been a lot of time... It's been a lot of time...
+已花费不少时间……已花费不少时间……
+
+58
+00:03:05,580 --> 00:03:07,100
+It's been a lot of time...
+? 1? 1? 1..
+
+59
+00:03:07,100 --> 00:03:09,500
+It's been a lot of time...
+已花费...
+
+60
+00:03:09,500 --> 00:03:11,400
+It's been a lot of time... It's been a lot of time...
+已花费...
+
+61
+00:03:11,400 --> 00:03:13,200
+It's been a lot of time... It's been a lot of time...
+已花费...已花费...
+
+62
+00:03:13,200 --> 00:03:15,340
+It's been a lot of time... It's been a lot of time... It's been a lot of time...
+已花费...已花费...已花主...
+
+63
+00:03:15,340 --> 00:03:16,740
+It's been a lot of time...
+已花费...
+
+64
+00:03:17,800 --> 00:03:19,200
+It's been a lot of time...
+已花费...
+
+65
+00:03:19,780 --> 00:03:23,800
+It's been a lot of time...
+已花费...
+
+66
+00:03:23,800 --> 00:03:25,440
+that it did become, right?
+已花费...
+
+67
+00:03:27,260 --> 00:03:29,820
+So, what we will look at the first class is
+所以，我们先来看第一类：罗马如何成为如此强大
+
+68
+00:03:30,560 --> 00:03:33,660
+how did Rome become so powerful?
+它们的战争胜利率很高！
+
+69
+00:03:34,500 --> 00:03:38,040
+And the easy answer is, it's good at war.
+And the easy answeris, it's good at war.
+
+70
+00:03:38,260 --> 00:03:42,800
+It's really good at war. And then the question then is, well, why is it good at war?
+}]}}
+
+71
+00:03:43,000 --> 00:03:44,880
+Why is it better than the Greeks or the Carthaginians?
+翻译1
+
+72
+00:03:45,340 --> 00:03:47,760
+And the answer is, because
+翻译2
+
+73
+00:03:47,760 --> 00:03:50,620
+the Romans are not afraid to die,
+罗马人不怕死，
+
+74
+00:03:51,220 --> 00:03:56,720
+and because the Romans have a different conception of citizenship than the Greeks.
+罗马人有不同的公民观念。
+
+75
+00:03:56,860 --> 00:03:59,100
+Okay, remember the Greeks were extremely jealous
+好的，记得古希腔的...
+
+76
+00:03:59,820 --> 00:04:03,540
+of citizenship. It was very hard to become an Athenian.
+...
+
+77
+00:04:03,580 --> 00:04:08,340
+It was very hard to become a Spartan. You basically have to be born into the polis.
+它很容易成为一名斯巴达人。你基本上要出生在波里斯里。
+
+78
+00:04:09,180 --> 00:04:10,560
+Same thing with the Carthaginians.
+同样的事情在古巴塔里亚人里。
+
+79
+00:04:10,620 --> 00:04:14,740
+They were not as strict as the Greeks.
+他们很久...
+
+80
+00:04:14,940 --> 00:04:16,300
+They were pretty inflexible as well.
+...
+
+81
+00:04:16,420 --> 00:04:19,140
+They were very proud of being a citizen.
+他们非常自豪成为公民。
+
+82
+00:04:19,820 --> 00:04:23,920
+Rome, because it was the poorest and smallest,
+...
+
+83
+00:04:24,880 --> 00:04:26,340
+it had no choice.
+它没有选择。
+
+84
+00:04:26,680 --> 00:04:30,100
+If you wanted to immigrate to Rome, they welcomed you as a citizen.
+如果你想去罗马...
+
+85
+00:04:30,400 --> 00:04:33,660
+And as such, they could, throughout its history,
+和如此，它在历史上可以利用周边的巨大人力资源。
+
+86
+00:04:33,880 --> 00:04:38,600
+draw on the vast manpower
+和...
+
+87
+00:04:38,600 --> 00:04:40,720
+pool in the surrounding areas.
+...
+
+88
+00:04:41,440 --> 00:04:44,120
+Okay? And as such,
+OK? 让我们来回顾...
+
+89
+00:04:44,180 --> 00:04:49,120
+with their almost unlimited manpower pool,
+with their almost unlimited…
+
+90
+00:04:49,120 --> 00:04:52,640
+they could eventually overwhelm the Greeks
+...
+
+91
+00:04:52,640 --> 00:04:53,920
+and the Carthaginians and
+和卡尔塔格人以及
+
+92
+00:04:53,920 --> 00:04:58,860
+become the dominant power in the Mediterranean by about 200 BC.
+在200 年 前后，约 百 年 前后…
+
+93
+00:04:59,560 --> 00:05:03,880
+Okay, that's the easy answer, and that's what most historians and most scholars believe.
+好的，答案就是这样，最 先后给我方…
+
+94
+00:05:05,020 --> 00:05:08,740
+But I want to be more precise, okay?
+...
+
+95
+00:05:08,860 --> 00:05:10,980
+I want to show you that
+我想给你展示…
+
+96
+00:05:10,980 --> 00:05:13,680
+ultimately it's the value system
+?
+
+97
+00:05:15,360 --> 00:05:19,100
+or what is known as the character of these different civilizations,
+or what is known as the characterof these different civilizations,
+
+98
+00:05:19,120 --> 00:05:23,560
+that ultimately determine their fate
+...
+
+99
+00:05:23,560 --> 00:05:25,200
+and future. Okay, does that make sense?
+...
+
+100
+00:05:25,560 --> 00:05:30,120
+All right, so, so
+All right, so, so
+
+101
+00:05:30,120 --> 00:05:32,860
+about 500 BC, Rome becomes a republic.
+...
+
+102
+00:05:33,700 --> 00:05:40,600
+And at this time, the Etruscan culture is dominating Rome. In fact,
+在此时，埃特鲁斯坎文化在罗马里占据主导地位。
+
+103
+00:05:40,900 --> 00:05:46,300
+three out of Rome's seven kings previously were Etruscan.
+三百里程?
+
+104
+00:05:47,020 --> 00:05:49,380
+Okay? So culturally and traditionally, speaking,
+...
+
+105
+00:05:50,140 --> 00:05:54,120
+the Etruscans have this huge impact on Rome.
+the Etruscans have this………………………………………………
+
+106
+00:05:54,320 --> 00:05:58,060
+But because Rome is very good at war, it's slowly able to expand
+?
+
+107
+00:05:58,060 --> 00:06:00,860
+and conquer the Etruscans and
+和...以...
+
+108
+00:06:00,860 --> 00:06:03,800
+basically control all of Italy, okay?
+...
+
+109
+00:06:04,460 --> 00:06:06,760
+And because the Romans are expansionists by nature,
+...
+
+110
+00:06:06,980 --> 00:06:10,760
+they are a war -like people, they are basically a war machine,
+...
+
+111
+00:06:11,460 --> 00:06:14,720
+they now want to control Sicily.
+...
+
+112
+00:06:18,060 --> 00:06:21,020
+They now want to control Sicily. It's been a
+They now want to control Sicily. It's been a
+
+113
+00:06:21,020 --> 00:06:26,840
+war on the Entean,
+战争在恩特安
+
+114
+00:06:27,000 --> 00:06:32,940
+Entean is the Enteanan dynasty,
+...
+
+115
+00:06:37,840 --> 00:06:39,080
+Entean dynasty is the Entean dynasty
+...
+
+116
+00:06:39,080 --> 00:06:48,720
+of Entean,
+翻译结果
+
+117
+00:06:48,720 --> 00:06:51,120
+the Greek world is dominant throughout the world.
+...
+
+118
+00:06:53,720 --> 00:06:56,620
+So, Alexander conquered most of the world, and
+...
+
+119
+00:06:56,620 --> 00:06:59,680
+his generals now control most of the territory.
+他的将军现在掌握了大部分领土。
+
+120
+00:07:00,360 --> 00:07:03,640
+And one of the successors to Alexander, his name is Pyrrhus,
+他的后继者之一，名为皮里乌斯。
+
+121
+00:07:04,920 --> 00:07:09,160
+he decides this is an opportunity for him to build his own empire.
+他决定这是一场机会…
+
+122
+00:07:10,010 --> 00:07:14,840
+So, he responds to the Greeks
+...
+
+123
+00:07:14,840 --> 00:07:17,020
+who call for help against Rome.
+...
+
+124
+00:07:17,020 --> 00:07:19,580
+So, Rome is threatening the Greeks in southern Italy.
+...
+
+125
+00:07:19,800 --> 00:07:22,260
+The Greeks are asking for help from the compatriots.
+希腊里人们正向同胞求助
+
+126
+00:07:22,760 --> 00:07:27,200
+Pyrrhus comes with an
+Pyrrhus comes with an
+
+127
+00:07:27,200 --> 00:07:29,900
+army to help his compatriots.
+...
+
+128
+00:07:30,140 --> 00:07:31,640
+And remember, at this time,
+And remember, atthis time,
+
+129
+00:07:31,720 --> 00:07:36,300
+the Greeks have the best military in the world because of the hoplite phallus.
+希腊里人拥有世界上最好的军队，因为方形步兵的存在。
+
+130
+00:07:37,600 --> 00:07:41,100
+And Pyrrhus is destroying the Romans.
+帕里乌斯正好用来消灭罗马人。
+
+131
+00:07:42,120 --> 00:07:43,380
+Battle after battle,
+战场接连战场
+
+132
+00:07:44,520 --> 00:07:47,820
+Pyrrhus is destroying, and decimating the Romans.
+帕里乌斯正消灭并消耗罗马人
+
+133
+00:07:49,260 --> 00:07:50,860
+Eventually, Pyrrhus says this.
+最终，帕里乌斯说这句话。
+
+134
+00:07:52,060 --> 00:07:53,820
+Wow, I'm winning so many wars.
+哇！我好像个…??
+
+135
+00:07:53,880 --> 00:07:58,180
+I'm winning so many battles. And if I continue to win battles,
+我正在赢得多场战斗，若继续赢得战斗…
+
+136
+00:07:58,300 --> 00:07:59,640
+I will be completely out of men.
+...我方可得方…??
+
+137
+00:08:00,580 --> 00:08:01,920
+I will have no more soldiers left.
+我会有点…??
+
+138
+00:08:02,320 --> 00:08:04,720
+Okay, and this is where the phrase
+?
+
+139
+00:08:06,440 --> 00:08:08,140
+pyrrhic victory comes from, right?
+pyrrh...??
+
+140
+00:08:08,760 --> 00:08:12,420
+You can win, but the costs of victory are
+?
+
+141
+00:08:12,420 --> 00:08:16,100
+so high, you might as well have lost, all right?
+...
+
+142
+00:08:16,100 --> 00:08:19,480
+And so, what this means is, even
+...
+
+143
+00:08:19,480 --> 00:08:23,880
+though the Romans were militarily inferior to the Greeks,
+...
+
+144
+00:08:24,100 --> 00:08:26,220
+the Romans weren't afraid to die,
+罗马人不怕死，
+
+145
+00:08:26,740 --> 00:08:30,480
+and they inflicted so many casualties on the Greeks
+罗马人不怕死！
+
+146
+00:08:30,480 --> 00:08:33,120
+that the Greeks eventually had to withdraw,
+...
+
+147
+00:08:33,600 --> 00:08:37,600
+okay? And this will start many centuries of war between the Romans
+好的？这将会开始许多百年之战
+
+148
+00:08:37,600 --> 00:08:40,700
+and the Greeks. Remember, at this time, in the beginning,
+好吧！这点儿……………………………………………………………………??
+
+149
+00:08:40,780 --> 00:08:44,860
+the Greeks are wealthier, more numerous,
+]}We need to translate cues 147-149. Provide array translations. Each string may contain newline. Use Chinese terms. Let's craft translations. Cue 147:
+
+150
+00:08:46,100 --> 00:08:48,100
+and more military dominant than the Romans.
+和罗马人一样，军队更强大。
+
+151
+00:08:48,380 --> 00:08:52,400
+But eventually, because of the Roman way of war,
+因为罗马人的作战方式，最终会...
+
+152
+00:08:52,880 --> 00:08:56,120
+Rome will eventually conquer the Greeks, okay?
+罗马最终会...
+
+153
+00:08:56,600 --> 00:09:01,580
+So that's the Greeks. Eventually,
+...】...
+
+154
+00:09:01,580 --> 00:09:03,360
+the Romans went to Sicily, and
+...??】?????
+
+155
+00:09:03,360 --> 00:09:06,520
+this brings them into direct conflict with Carthage.
+...??????
+
+156
+00:09:06,640 --> 00:09:09,360
+And this starts what is called the First Punic War.
+...
+
+157
+00:09:10,040 --> 00:09:11,540
+Now, there's a problem.
+...
+
+158
+00:09:12,940 --> 00:09:16,000
+Carthage is a naval power,
+...
+
+159
+00:09:16,980 --> 00:09:18,420
+Rome is a land power.
+翻译1
+
+160
+00:09:18,740 --> 00:09:20,200
+Rome has no navy.
+]}
+
+161
+00:09:23,620 --> 00:09:25,180
+So what Rome does is,
+?
+
+162
+00:09:25,640 --> 00:09:28,700
+slowly over time, it builds its own navy, and
+...
+
+163
+00:09:28,700 --> 00:09:30,800
+at first, it sucks, they lose a lot of ships,
+...
+
+164
+00:09:31,220 --> 00:09:33,280
+and so the Romans build more ships, and
+...
+
+165
+00:09:33,280 --> 00:09:36,440
+they get slaughtered by the Carthaginians at sea, so
+他们在海上被迦特尔人屠宰，随后又建造了多船，船只…
+
+166
+00:09:36,440 --> 00:09:41,140
+they build more ships, and more ships, and more ships, and eventually, they overwhelm the Carthaginians.
+?
+
+167
+00:09:41,600 --> 00:09:46,080
+And so, after 20 years of war, in what is called the First Punic War,
+???
+
+168
+00:09:48,620 --> 00:09:54,280
+Rome becomes a dominant naval power in the Mediterranean.
+罗马在地中海成为主导海权
+
+169
+00:09:54,740 --> 00:09:56,060
+Carthage becomes second.
+卡尔塔格里亚在地中海后期……
+
+170
+00:10:01,060 --> 00:10:03,540
+Then something strange happens, okay?
+Then something strange happens, okay?
+
+171
+00:10:04,760 --> 00:10:08,260
+Carthage, it is a trading power, is a maritime power,
+卡尔塔格里亚是个商贸之力，海上能占领…
+
+172
+00:10:08,640 --> 00:10:10,160
+and while
+]}
+
+173
+00:10:10,160 --> 00:10:13,900
+it's able to dominate its neighbors,
+?
+
+174
+00:10:14,320 --> 00:10:17,280
+okay, it establishes an empire in North America, in North Africa, and in Spain.
+好的，它在北美、北非和西班牙建立了帝国。
+
+175
+00:10:19,780 --> 00:10:22,900
+It loses a lot of wars against the Greeks and the Romans,
+它在对抗希腊与罗马的战斗中失了不少战斗，胜者是好好战士。
+
+176
+00:10:22,960 --> 00:10:24,640
+who are just better warriors, okay?
+它在…
+
+177
+00:10:25,340 --> 00:10:31,000
+But then, the Carthaginians produce a man named Hannibal Carba.
+…
+
+178
+00:10:33,900 --> 00:10:35,920
+Hannibal Barca. And
+汉尼拔·巴卡。和
+
+179
+00:10:35,920 --> 00:10:40,700
+Hannibal Barca is considered, by many military historians,
+汉尼略巴卡是…
+
+180
+00:10:41,180 --> 00:10:43,640
+to be the greatest general who ever lived.
+成为史上最伟大的将军。
+
+181
+00:10:46,500 --> 00:10:48,400
+As a military strategist,
+作为一位军事策划者，
+
+182
+00:10:48,480 --> 00:10:52,720
+Hannibal had no competitor, okay?
+汉尼拔没有竞争对手，好的？
+
+183
+00:10:54,700 --> 00:10:58,440
+And Hannibal Barca, he hates Rome with a passion.
+汉尼拔·巴卡，他对罗马情有一…
+
+184
+00:10:58,720 --> 00:11:01,360
+He understands this. He understands that
+他明白这一点。他明白罗马是根本的
+
+185
+00:11:01,360 --> 00:11:05,800
+Rome is fundamentally an
+]}We need to translate cue [184] and [185] into Simplified Chinese. The previous context: [184] He understands this. He understands that. [185] Rome is fundamentally an... The translationshould be natural Chinese subtitles. We need to produce JSON with translations array of two strings. Each string may contain at most one newline. Use Chinese punctuation. Let's translate:
+
+186
+00:11:05,800 --> 00:11:07,760
+expansionist military power.
+扩张的军事实力。
+
+187
+00:11:08,580 --> 00:11:11,780
+Rome will not stop until it has conquered the world.
+罗马将一直征服世界，直至完成。
+
+188
+00:11:12,940 --> 00:11:16,020
+So even though, technically, Carthage,
+...
+
+189
+00:11:16,020 --> 00:11:18,760
+Rome, and Rome are at peace,
+...
+
+190
+00:11:20,180 --> 00:11:22,080
+eventually, Rome will come for Carthage.
+eventually, Rome will come for Carthage.
+
+191
+00:11:22,300 --> 00:11:28,160
+So it is better to take a fight to Rome first than to wait for Rome to come to you,
+...
+
+192
+00:11:28,300 --> 00:11:32,600
+okay? Now,
+好的？现在，卡塔格在此时基本是罗马的共和国。它由一群叫做“老议员”之议会统领。
+
+193
+00:11:32,600 --> 00:11:36,900
+Carthage at this time, it is basically a republic like Rome.
+好的，/??…???
+
+194
+00:11:37,300 --> 00:11:42,060
+And it's run by people called, by something called Council of Elders.
+...
+
+195
+00:11:44,660 --> 00:11:46,040
+Okay, and these are the words, okay,
+OK? 先后? 先后??……
+
+196
+00:11:46,040 --> 00:11:49,800
+the wealthiest citizens in Carthage.
+...
+
+197
+00:11:49,980 --> 00:11:51,360
+And there's elements of democracy
+...
+
+198
+00:11:52,040 --> 00:11:55,360
+and Arlacher as well, but it's primarily republic, okay?
+和阿尔拉赫也一样，但它主要是共和国，好吗？
+
+199
+00:11:55,440 --> 00:11:59,040
+It's run by these people. And these are merchants.
+它由这些人统领。它是商人们的！
+
+200
+00:11:59,440 --> 00:12:03,700
+These are wealthy people. War is bad for business, okay?
+这些人很富裕，战争好吗？
+
+201
+00:12:03,900 --> 00:12:06,520
+So they were not supportive of Hannibal
+他们在...
+
+202
+00:12:07,040 --> 00:12:10,260
+in his desire for war against Rome.
+在他的战争意愿中
+
+203
+00:12:11,800 --> 00:12:14,560
+So Hannibal did two things, okay?
+哈尼巴尔做了两件事
+
+204
+00:12:14,560 --> 00:12:15,580
+The first thing is,
+第一件事是，
+
+205
+00:12:17,240 --> 00:12:20,760
+he was in charge of civil mines in Spain.
+他在西班牙负责采矿。
+
+206
+00:12:21,580 --> 00:12:26,040
+And what he did was he conquered a lot more, a lot of Spanish territory
+在此时，哈尼尔·巴卡尔在………………………………………………
+
+207
+00:12:26,560 --> 00:12:28,540
+for Carthage.
+?
+
+208
+00:12:28,920 --> 00:12:31,860
+And so he was able to amass more wealth.
+翻译1
+
+209
+00:12:32,240 --> 00:12:36,420
+He took this wealth and he used it to basically bribe the Council of Elders,
+翻译2
+
+210
+00:12:36,460 --> 00:12:37,900
+to leave them alone, okay?
+离开他们，好的？
+
+211
+00:12:37,980 --> 00:12:41,460
+And to support his military adventures in Spain.
+并且把他在西班牙的军旅事宜。
+
+212
+00:12:41,920 --> 00:12:43,760
+And again, these are business people.
+又是个别的！
+
+213
+00:12:43,760 --> 00:12:46,080
+If it's profitable, they will support you.
+如果是有利可得，...
+
+214
+00:12:47,400 --> 00:12:49,880
+And then what Hannibal did was
+.........
+
+215
+00:12:50,700 --> 00:12:52,460
+he did something that
+...
+
+216
+00:12:52,460 --> 00:12:55,780
+was unimaginable before.
+...
+
+217
+00:12:56,340 --> 00:13:00,320
+He took his army and he crossed the Alps, okay?
+...
+
+218
+00:13:00,500 --> 00:13:03,640
+He crossed the Alps, sorry, the Alps are here,
+...
+
+219
+00:13:06,160 --> 00:13:10,320
+into Italy. He is now at Rome's doorstep.
+...
+
+220
+00:13:10,640 --> 00:13:13,740
+And again, before Hannibal did this,
+...
+
+221
+00:13:13,760 --> 00:13:18,760
+it was thought impossible to cross the Alps,
+翻译成中文
+
+222
+00:13:18,780 --> 00:13:21,620
+especially in winter, with an army, okay?
+especially in winter, with an army, okay?
+
+223
+00:13:21,720 --> 00:13:24,720
+But Hannibal did that. He lost a lot of men and
+223
+
+224
+00:13:24,720 --> 00:13:27,720
+elephants, war elephants, in his crossing, but
+elephants, war elephants, in his crossing, but
+
+225
+00:13:27,720 --> 00:13:29,680
+he was able to cross.
+翻译成中文
+
+226
+00:13:30,080 --> 00:13:34,800
+And when he crossed, he was able to summon a lot of allies to his side,
+...
+
+227
+00:13:34,880 --> 00:13:38,680
+okay? Because Rome was at war with everyone in Italy
+好的，因为...
+
+228
+00:13:39,200 --> 00:13:42,940
+and with the Gauls to the north of Italy in France, okay?
+...
+
+229
+00:13:42,940 --> 00:13:45,160
+So Rome had a lot of enemies.
+所以罗马有很多敌人。
+
+230
+00:13:45,600 --> 00:13:50,780
+And so Hannibal was able to replenish his forces once he landed in Italy.
+他在一旦到达意大利时，能再把…
+
+231
+00:13:51,060 --> 00:13:53,660
+He was also a very charismatic speaker,
+他也很有魅力的说话者，...
+
+232
+00:13:54,040 --> 00:13:58,360
+a great general, okay? Rome heard about this,
+他人……
+
+233
+00:13:58,380 --> 00:14:00,540
+and at first Romans were shocked, but they weren't scared.
+在第一轮时，罗马先后…
+
+234
+00:14:01,660 --> 00:14:03,460
+Rome is a war machine, okay?
+...
+
+235
+00:14:03,620 --> 00:14:05,840
+So they decided to send an army against Hannibal.
+于是他们决定派一支军队去对付汉尼拔。
+
+236
+00:14:06,500 --> 00:14:10,160
+And army after army fell against Hannibal.
+军队又发起了又发起…
+
+237
+00:14:10,300 --> 00:14:14,180
+Hannibal was able to defeat Roman, Roman soldiers
+...
+
+238
+00:14:14,180 --> 00:14:18,680
+and armies using superior military tactics
+...
+
+239
+00:14:18,680 --> 00:14:23,000
+and strategies, okay? Then the Romans decide, you know what,
+and strategies, okay? Then theRomans decide, you know what,
+
+240
+00:14:23,700 --> 00:14:26,260
+here's what we're gonna do. We'll take two years off,
+here's what we're gonna do. We'll take two years off,
+
+241
+00:14:26,740 --> 00:14:31,100
+and we're going to build the world's largest army, okay?
+...
+
+242
+00:14:31,760 --> 00:14:36,140
+80,000 men. And at this time, Hannibal had about 40,000 men.
+80,000人…
+
+243
+00:14:37,320 --> 00:14:39,520
+And then we'll take these 80,000 soldiers and
+翻译：
+
+244
+00:14:39,520 --> 00:14:42,320
+we'll just throw at Hannibal and crush Hannibal,
+...
+
+245
+00:14:42,540 --> 00:14:44,840
+and the war will be over, okay?
+和战争结束了，好吗？
+
+246
+00:14:44,980 --> 00:14:47,540
+And that's the strategy. That's just the Roman way, okay?
+这是个好点子！
+
+247
+00:14:47,640 --> 00:14:51,700
+The Romans are not creative. They are just brutal,
+罗马人不具创意， 只要点儿…
+
+248
+00:14:52,000 --> 00:14:54,960
+bold, and direct, okay?
+...
+
+249
+00:14:55,100 --> 00:14:59,620
+That's just their way of war. And so
+...
+
+250
+00:14:59,620 --> 00:15:03,540
+Hannibal meets his
+...
+
+251
+00:15:03,540 --> 00:15:08,580
+80,000 soldier army at a place called Cannae.
+80,000名士兵在坎纳埃的战场上
+
+252
+00:15:09,280 --> 00:15:13,920
+And they fight something called the Battle of Cannae, in 216 BCE.
+80,000士兵军队在坎纳埃的战场
+
+253
+00:15:14,160 --> 00:15:18,620
+And this is the most famous battle in human history,
+...
+
+254
+00:15:18,800 --> 00:15:20,340
+okay?
+...
+
+255
+00:15:20,500 --> 00:15:25,520
+Remember, the Romans outnumbered Hannibal two to one. And
+...
+
+256
+00:15:25,520 --> 00:15:29,420
+what Hannibal does is he decides on
+...
+
+257
+00:15:29,420 --> 00:15:32,160
+a place to face the Romans, okay?
+在此处，...??
+
+258
+00:15:32,560 --> 00:15:34,960
+And in this place, it's a small valley,
+...
+
+259
+00:15:36,100 --> 00:15:40,040
+and so even though the Romans are numerically superior
+...
+
+260
+00:15:40,040 --> 00:15:43,120
+because the valley is small,
+因为山谷小，他们只好排成一条直线。
+
+261
+00:15:43,340 --> 00:15:47,440
+they're forced to march in a straight line, as opposed to in a wide line, okay?
+因为山谷小，他排成一条直外线
+
+262
+00:15:47,860 --> 00:15:50,140
+If you have more numbers, you want to march in a wide line,
+如果你有更多的数字，想要排成宽线，
+
+263
+00:15:50,620 --> 00:15:52,200
+but because of the geography,
+如果你有更多的点数，算算排成宽线？
+
+264
+00:15:52,380 --> 00:15:56,220
+they're forced to march in a straight, long line, okay?
+他们在此处排成一条长直线，好吗？
+
+265
+00:15:56,280 --> 00:16:01,720
+So they're marching this way. Hannibal is uphill with his army,
+他人排成了个别??
+
+266
+00:16:03,080 --> 00:16:04,560
+and he does something strange.
+他做了点儿好像…
+
+267
+00:16:05,480 --> 00:16:10,020
+He organizes his army not in a straight line, but in a concave line.
+他把军队排成了…
+
+268
+00:16:10,040 --> 00:16:11,960
+Okay, like this, concave.
+好的，像这样，凹形。
+
+269
+00:16:13,080 --> 00:16:17,520
+And the Romans look at this, and they laugh because they've never seen anything like this before.
+罗马人看着这，咬咬咬...
+
+270
+00:16:17,720 --> 00:16:20,320
+And they think it's a sign of weakness.
+...
+
+271
+00:16:20,620 --> 00:16:23,420
+It means the military under Hannibal,
+...
+
+272
+00:16:24,680 --> 00:16:25,880
+it's undisciplined.
+它不整齐。
+
+273
+00:16:26,680 --> 00:16:30,380
+They're just amateurs. This will be over in an hour, okay?
+他们只是业余的。这个会在一小时内结束，好吗？
+
+274
+00:16:30,960 --> 00:16:36,040
+So the Romans are marching confidently against Hannibal.
+罗马人自信地向汉尼拔进军。
+
+275
+00:16:36,700 --> 00:16:40,020
+They're attacking. On the wings of both the Romans,
+他们正攻势...
+
+276
+00:16:40,040 --> 00:16:43,180
+both armies are the horsemen, the cavalry, okay?
+...
+
+277
+00:16:43,640 --> 00:16:47,480
+So what happens as the Romans march against Hannibal is,
+?
+
+278
+00:16:47,600 --> 00:16:52,040
+Hannibal sends his cavalry against the Roman cavalry,
+汉尼拔把骑兵发给...
+
+279
+00:16:52,820 --> 00:16:57,020
+and they overwhelm the Roman cavalry, okay?
+和...??
+
+280
+00:16:57,180 --> 00:16:58,580
+And now they're turning back in
+???
+
+281
+00:16:59,780 --> 00:17:01,480
+to attack the flank or the back.
+...
+
+282
+00:17:02,660 --> 00:17:05,880
+Meanwhile, the Roman attack, it's
+...
+
+283
+00:17:05,880 --> 00:17:10,020
+so powerful, the surge is so strong, that the Roman army,
+translations
+
+284
+00:17:10,760 --> 00:17:14,220
+the concave of Hannibal's army,
+???
+
+285
+00:17:14,320 --> 00:17:17,580
+turns upside down, okay?
+翻译1
+
+286
+00:17:17,680 --> 00:17:19,020
+It turns upside down.
+翻译后
+
+287
+00:17:20,680 --> 00:17:22,180
+When it does so,
+当它这样做时，
+
+288
+00:17:25,700 --> 00:17:30,380
+it traps the Roman army in a circle, okay?
+它把罗马军队围成圆圈，
+
+289
+00:17:30,460 --> 00:17:32,200
+Do you see this, okay?
+你看到了吗，好的？
+
+290
+00:17:32,500 --> 00:17:35,520
+Now they are inside a circle, and
+现在他们已经在圈里了，
+
+291
+00:17:35,520 --> 00:17:38,540
+the army is coming around and attacking from the back, okay?
+the army is coming around andattacking from the back, okay?
+
+292
+00:17:38,540 --> 00:17:43,000
+Militarily, we call this the double envelopment strategy,
+...
+
+293
+00:17:43,260 --> 00:17:45,020
+okay, double envelopment strategy.
+OK
+
+294
+00:17:45,680 --> 00:17:49,520
+And so the Romans are circled completely,
+And so the Romans are circled completely,
+
+295
+00:17:49,800 --> 00:17:52,720
+and what follows is the
+and what...
+
+296
+00:17:52,720 --> 00:17:56,700
+greatest massacre in history,
+翻译结果
+
+297
+00:17:56,760 --> 00:17:59,120
+militarily, until World War I.
+...
+
+298
+00:17:59,700 --> 00:18:02,300
+The army of 80,000 that
+...
+
+299
+00:18:02,300 --> 00:18:07,880
+the Romans sent lost almost 70,000 men.
+罗马军队几乎失去七万兵士。
+
+300
+00:18:07,880 --> 00:18:11,080
+70,000 men died that day.
+七十万兵士在那天相继相继
+
+301
+00:18:11,300 --> 00:18:15,140
+And again, no military would lose so much men
+又一次，军队没有能在...
+
+302
+00:18:16,440 --> 00:18:20,180
+until World War I, when they had much larger armies,
+又一次...
+
+303
+00:18:20,200 --> 00:18:23,820
+like millions of people, and when they had machine guns, all right?
+像...??...???
+
+304
+00:18:24,320 --> 00:18:26,940
+So this is like the greatest military disaster
+...
+
+305
+00:18:27,520 --> 00:18:29,520
+in human history up to this point.
+在此之前的人的...
+
+306
+00:18:30,240 --> 00:18:31,900
+The disaster is so great
+...
+
+307
+00:18:32,980 --> 00:18:37,320
+that right now, Rome has lost 20%, okay?
+那时，罗马已失去20%，好吧？
+
+308
+00:18:37,320 --> 00:18:42,860
+20% of its adult male population.
+20%之成人男士…
+
+309
+00:18:46,200 --> 00:18:48,840
+To put that in context, in World War I,
+...
+
+310
+00:18:49,600 --> 00:18:52,640
+the Germans lost anywhere between 10 to 15
+...
+
+311
+00:18:52,640 --> 00:18:57,460
+% of their adult male population before they were forced to surrender to the Allies,
+311. % 之成人…
+
+312
+00:18:57,740 --> 00:19:00,120
+okay? So Rome has lost 20%.
+...
+
+313
+00:19:00,120 --> 00:19:03,800
+It's lost a third of the Senate.
+...
+
+314
+00:19:04,180 --> 00:19:06,820
+The Senate is the highest governing body of Rome.
+...
+
+315
+00:19:07,320 --> 00:19:09,400
+So a third of their leadership is dead.
+...
+
+316
+00:19:12,460 --> 00:19:13,900
+At the same time,
+在同一时间，
+
+317
+00:19:15,280 --> 00:19:21,140
+Hannibal is able to convince the Greeks to start a second front against the Romans,
+汉尼拔能够说服服服…
+
+318
+00:19:21,400 --> 00:19:24,140
+okay? So
+...
+
+319
+00:19:24,140 --> 00:19:26,640
+at this point, the war is basically over.
+在此时，战争基本结束。
+
+320
+00:19:27,840 --> 00:19:30,780
+And Hannibal sends envoys to Rome and says,
+汉尼拔向罗马发送使者，发…
+
+321
+00:19:31,080 --> 00:19:33,780
+listen, the war is over.
+听着，战争结束了。
+
+322
+00:19:33,980 --> 00:19:38,000
+I'm willing to negotiate a peace treaty. I'm willing to negotiate a peace settlement.
+我愿意谈成和平条约。
+
+323
+00:19:42,420 --> 00:19:45,920
+I am willing to negotiate peace terms.
+我愿意协商和平…
+
+324
+00:19:47,580 --> 00:19:49,140
+And then something strange happens.
+我……
+
+325
+00:19:49,380 --> 00:19:51,460
+And this is unique in human history, okay?
+和这件事在人的历史中独一无二，行吗？
+
+326
+00:19:52,320 --> 00:19:55,400
+The Roman Senate, they come together and they discuss a situation.
+罗马的士兵们一起来，讨论着…
+
+327
+00:19:55,800 --> 00:19:57,040
+It's bleak.
+它很黯淡。
+
+328
+00:19:57,060 --> 00:20:01,060
+It's hopeless. But
+它很黯淡。
+
+329
+00:20:01,060 --> 00:20:04,520
+there are Romans. Romans do not surrender.
+有罗马人。罗马人不投降。
+
+330
+00:20:06,200 --> 00:20:08,440
+So the Senate told Hannibal,
+于是，罗马士兵们回到…
+
+331
+00:20:09,240 --> 00:20:10,580
+we will continue the war.
+我们会继续战…
+
+332
+00:20:11,380 --> 00:20:13,000
+We will raise another army.
+我们将再起一支军队。
+
+333
+00:20:13,800 --> 00:20:17,420
+If you want to come attack us, come.
+如果你们想来袭击我们，来吧！
+
+334
+00:20:18,080 --> 00:20:19,500
+We will be ready for you.
+我们会准备好。”]}We need to translate cues 332-334. Provide JSON array translations. Ensure Chinese natural. Use terms: army=军队. Provide one line each. Let's craft translations: 332:
+
+335
+00:20:21,520 --> 00:20:23,480
+And this is completely unexpected, okay?
+这完全出乎意料，行吗？
+
+336
+00:20:23,560 --> 00:20:28,240
+Hannibal does not know what to do. And this war continues.
+汉尼拔不知道该怎么办。战争继续。
+
+337
+00:20:28,620 --> 00:20:30,140
+And this, again, is 216.
+再一次，216。
+
+338
+00:20:32,680 --> 00:20:36,940
+This war continues for another, another 15 years.
+这场战争又持续了十五年。
+
+339
+00:20:37,120 --> 00:20:38,380
+And then 15 years later,
+再过十五年，随后又有十五年。
+
+340
+00:20:38,900 --> 00:20:44,160
+the Romans have won. They destroyed the Carpathianian presence in Spain.
+罗马人赢了，随后在西班牙的卡尔帕斯人出现。”
+
+341
+00:20:45,020 --> 00:20:47,160
+And they've conquered, and they've,
+又已征服，且已……
+
+342
+00:20:47,940 --> 00:20:49,180
+Lenin and Africa
+列宁·奥弗斯特拉的拉丁·奥弗斯特拉
+
+343
+00:20:50,100 --> 00:20:51,580
+enforced Carpathians to surrender.
+又一次…
+
+344
+00:20:52,180 --> 00:20:55,520
+All right? Okay, so this is the mystery.
+All right? Okay, sothis is the mystery.
+
+345
+00:20:58,280 --> 00:21:01,280
+Why did the Romans not surrender?
+为什么罗马人不再归还？
+
+346
+00:21:01,700 --> 00:21:03,760
+And how were the Romans able
+为什么罗马人不再归还？
+
+347
+00:21:04,180 --> 00:21:06,800
+to defeat not just the Carthaginians, but also the Greeks?
+击败不只是迦特人，还要击败希腊人？
+
+348
+00:21:07,060 --> 00:21:09,320
+And also, like, everyone else?
+又是…
+
+349
+00:21:09,660 --> 00:21:11,360
+Okay? Because at that time,
+好的？因为那时，汉尼拔基本把全世界团结在罗马之敌。
+
+350
+00:21:11,480 --> 00:21:15,420
+Hannibal basically united the entire world against Rome, against Rome and Rome.
+好的？因为那时，汉尼巴尔·巴卡尔…
+
+351
+00:21:16,140 --> 00:21:18,700
+In the end, even though it was very costly, right?
+最终，虽然花费很大，但也算是…
+
+352
+00:21:18,840 --> 00:21:21,340
+They did win. So that's a mystery.
+它们赢了，算是个…
+
+353
+00:21:22,780 --> 00:21:25,640
+Okay? So, um,
+好的？所以，嗯，
+
+354
+00:21:31,460 --> 00:21:33,400
+first thing we need to understand is,
+OK? 先后…??
+
+355
+00:21:33,400 --> 00:21:37,540
+traditional military doctrine about who wins wars, it's basically wrong.
+传统的军事理论关于谁赢得战争，基本上是错的。
+
+356
+00:21:38,880 --> 00:21:42,160
+Traditionally, we understand the military about three things.
+传统的军事实践三件事！
+
+357
+00:21:42,540 --> 00:21:43,780
+Okay? Manpower.
+好的？人力。
+
+358
+00:21:44,120 --> 00:21:45,480
+How many soldiers do you have?
+好的？我司司司…
+
+359
+00:21:46,120 --> 00:21:47,820
+Technology. How good are your weapons?
+技术。你的武器有多好？
+
+360
+00:21:48,860 --> 00:21:50,900
+And resources. How wealthy are you?
+资源…??
+
+361
+00:21:51,460 --> 00:21:55,340
+Okay? Traditionally, we've understood war making,
+?
+
+362
+00:21:56,620 --> 00:21:59,300
+um, like,
+嗯，像是……
+
+363
+00:21:59,380 --> 00:22:01,480
+if you're good at war, you will have these three things.
+如果你能在战场上好好地做事，能有这三件事！
+
+364
+00:22:01,560 --> 00:22:03,740
+Okay? Lots of soldiers, lots of technology,
+好的，…
+
+365
+00:22:04,280 --> 00:22:05,480
+and lots of money.
+和很多钱。
+
+366
+00:22:07,120 --> 00:22:09,760
+And if you analyze it this way,
+如果你按这种方式分析，
+
+367
+00:22:10,720 --> 00:22:14,800
+then Rome should be no match against Carthage.
+那么罗马就能和迦尔特相匹配。
+
+368
+00:22:14,980 --> 00:22:17,440
+Right? Carthage is a lot wealthier.
+右？迦尔特更富裕。
+
+369
+00:22:17,860 --> 00:22:19,920
+Uh, it has more technology.
+呃，...
+
+370
+00:22:20,260 --> 00:22:21,680
+It has the greatest general in Hannibal.
+它…
+
+371
+00:22:23,120 --> 00:22:24,720
+But then at the same time,
+但随后同一时间，
+
+372
+00:22:24,940 --> 00:22:29,000
+the Athenians should not have been able to defeat the Persians.
+雅典人本不该能战胜波斯人。
+
+373
+00:22:29,160 --> 00:22:33,720
+At the same time, Alexander the Master of Persia should not have been able to defeat the Persians.
+亚历山大，波斯之主，亦可战胜波斯人。
+
+374
+00:22:34,360 --> 00:22:38,720
+In fact, throughout human history, we have a lot of instances,
+在此， … … …
+
+375
+00:22:39,460 --> 00:22:44,140
+cases where smaller armies have been able to defeat much larger armies.
+...
+
+376
+00:22:44,680 --> 00:22:46,720
+So think of Genghis Khan. Think of Muhammad.
+...
+
+377
+00:22:47,080 --> 00:22:48,640
+Okay? So clearly this is wrong.
+好的？所以这明显是错误的。
+
+378
+00:22:49,340 --> 00:22:54,080
+But if this is wrong, what is a better way to understand military strength?
+但如果这就是错的，怎样才能更好地理解军队的实力？
+
+379
+00:22:55,000 --> 00:22:58,240
+Well, I would argue how strong a military, uh,
+我想说的是，军队的...
+
+380
+00:22:58,340 --> 00:23:01,440
+is, is based on three criteria.
+...
+
+381
+00:23:01,440 --> 00:23:04,280
+The first is cohesion.
+...
+
+382
+00:23:06,860 --> 00:23:09,860
+Do the soldiers like
+...
+
+383
+00:23:09,860 --> 00:23:12,640
+and identify with each other?
+与彼此相识？
+
+384
+00:23:12,700 --> 00:23:14,380
+Are they united? Okay?
+他们是否统一？好吧？
+
+385
+00:23:14,460 --> 00:23:16,340
+Cohesion. Second is the idea of discipline.
+团结。第二个是纪律的概念。
+
+386
+00:23:18,000 --> 00:23:22,180
+How well trained and experienced are they?
+训练有多好？
+
+387
+00:23:22,360 --> 00:23:25,160
+And the third is devotion.
+第三个是训练好？
+
+388
+00:23:28,700 --> 00:23:32,260
+How committed are they to winning?
+训练好？
+
+389
+00:23:33,260 --> 00:23:34,740
+Okay? So
+好的？所以
+
+390
+00:23:34,740 --> 00:23:38,620
+if you want to see how powerful a nation is militarily,
+如果你想看到一个国家在军事实力上有多强大，
+
+391
+00:23:38,840 --> 00:23:40,840
+you have to ask yourself these three questions.
+你需要先问自己这三道题。
+
+392
+00:23:41,400 --> 00:23:43,600
+Are they cohesive? Are they disciplined?
+它们是否团结？它们有哪种？
+
+393
+00:23:43,840 --> 00:23:46,000
+Are they devoted? Okay?
+它们有哪??????????????????????
+
+394
+00:23:46,660 --> 00:23:49,080
+And I would also argue that
+]}We need to translate cues [392] and [393] and [394] into Simplified Chinese. Provide JSON array translations in order. Each translation string may contain at most one newline. Use terms: cohesive, disciplined, devoted. Provide natural Chinese subtitles. Let's craft translations: [392]
+
+395
+00:23:49,080 --> 00:23:52,860
+each nation has a certain culture, a certain value system,
+...
+
+396
+00:23:54,140 --> 00:23:56,040
+which makes, which gives it a certain character.
+...
+
+397
+00:23:56,740 --> 00:23:58,480
+And this character will tell you
+...
+
+398
+00:23:59,200 --> 00:24:01,140
+if they are likely to win a war, or not.
+if they are likely to win a war, or not.
+
+399
+00:24:01,340 --> 00:24:02,580
+Okay? All right.
+好的，先前回顾一下…
+
+400
+00:24:02,600 --> 00:24:05,340
+So let's examine briefly the characteristics
+...
+
+401
+00:24:06,260 --> 00:24:10,240
+of Rome as opposed to the Greeks and the Carthaginians.
+罗马的...
+
+402
+00:24:10,380 --> 00:24:13,620
+Okay? So let's, let's do a table.
+...
+
+403
+00:24:13,720 --> 00:24:17,080
+Let's just say, okay, you have, you have Greeks,
+让我们先说，好的，你已经有希腊、迦尔、罗马。
+
+404
+00:24:18,100 --> 00:24:21,040
+you have Carthage, you have Rome.
+让我们来个表格！
+
+405
+00:24:22,780 --> 00:24:24,280
+All right. We know a lot about the Greeks.
+好的。我们对希腊了解很多。
+
+406
+00:24:24,940 --> 00:24:29,540
+And there are three major concepts that define Greek culture.
+三大概念在此刻给出。
+
+407
+00:24:30,000 --> 00:24:31,800
+Okay? All right.
+好的？好啦！
+
+408
+00:24:31,840 --> 00:24:34,560
+So the first question is, what makes you a good person?
+好的，先说！
+
+409
+00:24:35,320 --> 00:24:37,980
+For the Greeks, it was the idea of erite.
+对希腊来说，才是个好点子。
+
+410
+00:24:39,640 --> 00:24:41,080
+Okay? Erite just means excellence.
+好的，先说！
+
+411
+00:24:41,680 --> 00:24:43,320
+You could be an asshole.
+你可以是个傻瓜。
+
+412
+00:24:43,620 --> 00:24:44,820
+You could be a jerk.
+你可以是个傻瓜。
+
+413
+00:24:44,920 --> 00:24:48,220
+But if you're erite, like you have talent, then you're a good person.
+413: 1/2 1/2? 1..??? 1..??..???
+
+414
+00:24:48,480 --> 00:24:50,920
+Okay? And the erite that
+]}We need to translate cues 413-415. Provide array translations. Let's translate each cue. 413:
+
+415
+00:24:50,920 --> 00:24:53,460
+the Greeks are most concerned about
+]} seems garbled. Actually cue 413:
+
+416
+00:24:54,480 --> 00:24:57,420
+is the ability to speak well and the ability to fight well.
+...
+
+417
+00:24:57,760 --> 00:24:59,300
+Okay? That's erite.
+...
+
+418
+00:25:00,220 --> 00:25:05,780
+So I'm going to give you a question. The question is, what is the thing
+...
+
+419
+00:25:05,780 --> 00:25:08,820
+that matters to you? Okay? The most valuable thing in your life.
+那对你重要吗？好吧，生活中最有价值的事物。
+
+420
+00:25:09,460 --> 00:25:11,080
+Well, why do you fight?
+我好像我好？
+
+421
+00:25:11,300 --> 00:25:13,040
+Well, for the Greeks, it was the idea of freedom.
+...
+
+422
+00:25:15,080 --> 00:25:16,420
+Okay? And for them,
+好的？那对他们来说，
+
+423
+00:25:16,440 --> 00:25:21,760
+the idea of freedom means the ability to speak your mind in front of your peers.
+自由发言的意思是能在同伴前说出自己的想法。
+
+424
+00:25:22,120 --> 00:25:23,560
+Okay? The freedom of speech, basically.
+好的？
+
+425
+00:25:25,140 --> 00:25:27,500
+And the last question for the Greeks is,
+和…………………
+
+426
+00:25:28,080 --> 00:25:30,920
+what is the purpose of life?
+...
+
+427
+00:25:31,460 --> 00:25:33,640
+Okay? And here the Greeks have an easy answer.
+...
+
+428
+00:25:33,780 --> 00:25:36,360
+It's eudaimonia. Remember,
+428: ???
+
+429
+00:25:36,460 --> 00:25:39,520
+eudaimonia is Greek for flourishing.
+]}We need to translate cues 428-430. They are: [428] It's eudaimonia. Remember, [429] eudaimonia is Greek for flourishing. [430] You can only... etc. We need to produce JSON with translations array of 3 strings. Use simplified Chinese. Use line breaks if needed. Let's translate each cue in order. Use natural Chinese. Let's produce translations: 428:
+
+430
+00:25:40,000 --> 00:25:45,600
+You can only be happy as a person if you are achieving your true potential,
+]}We need to produce JSON with translations array. Let's produce translations: 428:
+
+431
+00:25:45,800 --> 00:25:48,320
+if you are flourishing as a person.
+]}We need to translate cues 428-431? Actually cues 428-431: 428, 429, 430, 431. Let's translate. Use simplified Chinese. Provide array of 4 translations. Let's do it.
+
+432
+00:25:49,440 --> 00:25:51,360
+Okay? So,
+...
+
+433
+00:25:53,000 --> 00:25:55,560
+that's Greek culture. And if you think about it,
+...
+
+434
+00:25:55,680 --> 00:26:00,100
+this explains why the Greeks were the most creative civilization in human history.
+428: 这是eudaimonia。记住，
+
+435
+00:26:00,180 --> 00:26:01,600
+Right? So, they're very creative.
+429: eudaimonia是希腊语的“繁荣”
+
+436
+00:26:01,720 --> 00:26:04,700
+At the same time, they're also very selfish.
+在同一时间，他们也很自私。
+
+437
+00:26:05,120 --> 00:26:07,360
+And that's why they were never able to come together
+在同一条??
+
+438
+00:26:08,340 --> 00:26:10,560
+except in times of national emergency,
+438: 1/2? 1/2? 1/?? 2? 1? 2??? 1??? 1..??? 2??? 1..??? 2??… 1..???? 2??? 1..??… ????? 1..??? 1..??? ??????? ??????? 1..??? 2??? 1..??.. 2??? 外部? 1????? 2??……………??… 1..???? 2??……………??… ………………??…
+
+439
+00:26:11,180 --> 00:26:12,560
+like when the Persians invaded.
+...
+
+440
+00:26:12,940 --> 00:26:15,140
+And only then, but even then,
+只在此时，才有…
+
+441
+00:26:15,260 --> 00:26:18,540
+only a few of the Greeks in these states came together and some even joined the Persians.
+只有几位古希腊语??
+
+442
+00:26:18,640 --> 00:26:21,620
+Okay? So, the Greeks are notorious for being creative
+...
+
+443
+00:26:21,620 --> 00:26:23,560
+but also for being selfish.
+...
+
+444
+00:26:23,860 --> 00:26:26,900
+So, that's Greek culture. Now, let's look at the Carthaginians.
+好的，...
+
+445
+00:26:27,160 --> 00:26:28,940
+Okay? Now, unfortunately,
+...
+
+446
+00:26:28,940 --> 00:26:32,060
+we don't know anything about the Carthaginians.
+我们还不知道迦尔特人是什么样子。
+
+447
+00:26:32,200 --> 00:26:37,970
+The reason why is Rome wiped Carthage out of history.
+因为罗马已把迦尔古尔特之…
+
+448
+00:26:38,680 --> 00:26:43,170
+Okay? Rome destroyed Carthage, killed everyone, and erased Carthage
+OK? 罗马已把…
+
+449
+00:26:43,560 --> 00:26:47,120
+from the history books. But, we do know
+]}We need to produce translations for cues [448] and [449]. We have partial translation given. We need to produce final JSON with translations array of two strings. Use simplified Chinese. Use terms:
+
+450
+00:26:47,820 --> 00:26:49,580
+they are a
+他们是一个
+
+451
+00:26:51,060 --> 00:26:53,960
+mercantile empire, meaning they are focused on trade.
+商贸帝国
+
+452
+00:26:54,220 --> 00:26:56,220
+We also know that in their political system,
+我们也知道，在其政治体系中，
+
+453
+00:26:56,260 --> 00:26:59,520
+it's the wealthiest citizens who have the most money and the most political power.
+在百货商…
+
+454
+00:27:00,080 --> 00:27:04,160
+Okay? And so, they are basically a merchant culture, a merchant,
+OK? 这…
+
+455
+00:27:04,880 --> 00:27:06,380
+mercantile culture. And from that,
+?…..?????..??????…???..??……………
+
+456
+00:27:06,500 --> 00:27:10,460
+we can make certain guesses about their value system.
+我们可以对他们的价值观做出某些猜测。
+
+457
+00:27:10,600 --> 00:27:14,720
+Okay? So, what is good for the Carthaginians?
+我们可以对…?????……????????…??…?????…???????…?????…???????
+
+458
+00:27:15,000 --> 00:27:16,240
+It's the idea of being lucky.
+是的，...
+
+459
+00:27:16,400 --> 00:27:19,200
+Right? You succeed in life if you're lucky.
+...
+
+460
+00:27:19,560 --> 00:27:20,900
+That's how business people are, right?
+...
+
+461
+00:27:21,000 --> 00:27:23,400
+And that's why they're very superstitious.
+...
+
+462
+00:27:23,980 --> 00:27:25,300
+The Carthaginians are notorious
+卡塔格人以极其宗教与迷信闻名
+
+463
+00:27:25,800 --> 00:27:27,860
+for being extremely religious and superstitious.
+卡塔格人以极其…
+
+464
+00:27:27,860 --> 00:27:30,800
+And one example of this is,
+在此一例子里，
+
+465
+00:27:31,040 --> 00:27:34,060
+of all these major civilizations,
+在此一………………??
+
+466
+00:27:34,600 --> 00:27:37,660
+the Carthaginians are known for practicing human sacrifice.
+卡塔格人以人祭进行的知名
+
+467
+00:27:38,140 --> 00:27:39,840
+In fact, in times of war,
+卡塔格人以……………
+
+468
+00:27:40,000 --> 00:27:44,100
+they will even go as far as practicing child sacrifice,
+他们甚至会把孩子献祭，
+
+469
+00:27:44,460 --> 00:27:47,480
+killing children, killing children
+他们会把孩子献祭，
+
+470
+00:27:47,480 --> 00:27:52,140
+and sacrificing them to the gods in return for divine favor in times of war.
+和在战时把他们献给神以换取神恩的祭祀。
+
+471
+00:27:52,340 --> 00:27:56,820
+Okay? So, they are known for focusing on fortune and luck.
+好的，先前…
+
+472
+00:27:57,160 --> 00:27:59,900
+Okay? What do they care about?
+好的？他们在乎什么？
+
+473
+00:28:00,000 --> 00:28:01,340
+They care about their own interests, right?
+他们们的事情…
+
+474
+00:28:02,000 --> 00:28:07,160
+What's profitable? What's their purpose in life?
+什么是利润？我们要做什么？
+
+475
+00:28:07,280 --> 00:28:11,140
+Accumulating wealth. Right?
+积累积累…
+
+476
+00:28:11,220 --> 00:28:13,000
+Does that make sense? Because these are business people.
+这有道理吗？因为这些人是商人。
+
+477
+00:28:13,160 --> 00:28:16,680
+They're merchants. So, that's how they structure
+他们是商人。
+
+478
+00:28:17,820 --> 00:28:19,380
+their society and their culture.
+这就是商人们的结构。
+
+479
+00:28:19,540 --> 00:28:23,640
+And that's why, for most of their history, they were extremely wealthy.
+而这就是为什么，在他们大部分历史里，他们极其富裕。
+
+480
+00:28:23,960 --> 00:28:27,840
+Okay? They were notorious for being extremely clever
+好的，...??…?????
+
+481
+00:28:29,760 --> 00:28:33,760
+business people who made a lot of money for themselves.
+...??????????????
+
+482
+00:28:35,500 --> 00:28:39,280
+Rome, let's look at Rome.
+罗马，让我们看看罗马。
+
+483
+00:28:39,360 --> 00:28:41,800
+Okay? What is good for them?
+好的？ 这是什么好？
+
+484
+00:28:41,920 --> 00:28:43,520
+What's a good person? The answer is piety.
+好的，??…??????
+
+485
+00:28:44,240 --> 00:28:48,500
+Piety just means duty to the gods,
+虔诚只是对神的职责，
+
+486
+00:28:49,140 --> 00:28:52,120
+to the city, Rome, and to your father.
+对城市、罗马和父亲的职责。
+
+487
+00:28:52,240 --> 00:28:55,120
+Okay? They believe heavily in filial piety.
+好的？他们深信孝顺。
+
+488
+00:28:55,660 --> 00:28:58,340
+The best person was someone who practiced piety. Okay?
+最好的那个人是虔诚的人。好的吗？
+
+489
+00:29:02,980 --> 00:29:05,200
+What did they think was most valuable in their lives?
+他们认为在生活中最重要的是什么？
+
+490
+00:29:05,260 --> 00:29:07,320
+It's the idea of liberty. Okay?
+它就是自由的概念。
+
+491
+00:29:07,460 --> 00:29:12,160
+But liberty is a different conception for the Romans than for the Greeks.
+但自由对罗马人来说是另一种概念。
+
+492
+00:29:12,620 --> 00:29:16,100
+Remember, for the Greeks, what mattered was the opportunity
+记得吧，给我方才有机会…
+
+493
+00:29:16,920 --> 00:29:20,120
+and the ability to speak your mind in front of your peers.
+...
+
+494
+00:29:20,320 --> 00:29:22,140
+Okay? That's what freedom was.
+好的？这就是自由的意义。
+
+495
+00:29:23,320 --> 00:29:25,780
+The Romans believed liberty
+罗马人认为自由是...
+
+496
+00:29:26,800 --> 00:29:28,820
+was about receiving the law,
+罗马人...
+
+497
+00:29:31,660 --> 00:29:34,780
+the institutions, and the history of Rome.
+机构与罗马的历史。
+
+498
+00:29:35,000 --> 00:29:38,900
+But it is only by respecting the law could you be free.
+但只要有尊法，才可自由。
+
+499
+00:29:39,900 --> 00:29:41,600
+Otherwise, we'd all just be savages.
+否则，才会有个别的…
+
+500
+00:29:41,800 --> 00:29:43,580
+Okay? That's the conception of liberty.
+好的？这就是自由的概念。
+
+501
+00:29:49,980 --> 00:29:52,200
+Now, the last question then is what's the purpose of life?
+现在，最后一个问题就是要点儿吗？
+
+502
+00:29:52,700 --> 00:29:57,060
+And for the Romans, what really mattered to them is the idea of re publica.
+此时…
+
+503
+00:29:57,280 --> 00:29:59,200
+So, re publica.
+所以，re publica。
+
+504
+00:29:59,300 --> 00:30:00,820
+This is Latin. And
+这是拉丁语，且…
+
+505
+00:30:00,820 --> 00:30:04,920
+it's translated as usually public virtue for the public good.
+它们…
+
+506
+00:30:05,420 --> 00:30:08,220
+Okay? And this is where we get the term republic from.
+好的？这就是...??
+
+507
+00:30:08,780 --> 00:30:11,960
+And so, for Romans, the highest honor,
+...?????
+
+508
+00:30:12,700 --> 00:30:17,280
+the highest privilege, the purpose of life was to serve Rome
+...?????
+
+509
+00:30:17,280 --> 00:30:20,100
+and make it stronger and better.
+和...再做一次...
+
+510
+00:30:23,740 --> 00:30:27,800
+Okay? Does that make sense? Setting for political office
+OK?…………………
+
+511
+00:30:28,380 --> 00:30:32,580
+and being head of the military was the highest honor Rome could bestow on you.
+...
+
+512
+00:30:32,620 --> 00:30:34,580
+That was the entire point of life, point
+那是...??
+
+513
+00:30:36,620 --> 00:30:37,870
+of your life.
+????
+
+514
+00:30:38,660 --> 00:30:40,200
+Okay? Does that make sense? Okay?
+????
+
+515
+00:30:40,300 --> 00:30:43,820
+So, if you, if we just do a compare and contrast,
+515: So...???
+
+516
+00:30:44,500 --> 00:30:46,140
+we could easily figure out, oh,
+516...???
+
+517
+00:30:46,690 --> 00:30:49,880
+it's the Roman ethical system that
+???
+
+518
+00:30:49,880 --> 00:30:52,920
+will allow them the most cohesion, discipline, and devotion
+518-519-520的翻译???
+
+519
+00:30:53,440 --> 00:30:54,700
+in their military.
+]}We need to translate cues 518, 519, 520.They are separate cues? Actually cue 518:
+
+520
+00:30:55,360 --> 00:30:58,120
+And therefore, over time, we can see that over time,
+? Wait context: [518] will allow them the most cohesion, discipline, and devotion [519] in their military. [520] And then over time, we can see... Actually 520:
+
+521
+00:30:58,780 --> 00:31:02,780
+in a war, the Romans should be able to defeat both the Carthaginians
+???
+
+522
+00:31:02,780 --> 00:31:05,340
+and the Greeks. Okay?
+???????????????????????在...????????????????????..??..??..??.. …… … … ??… … … … ... …??… … … We need to translate cues 521-523. Provide JSON array. Let's translate. 521:
+
+523
+00:31:05,340 --> 00:31:07,760
+Does that matter? Sorry, does that make sense to you?
+?
+
+524
+00:31:09,260 --> 00:31:10,860
+Okay. Any questions so far?
+We need to translate...
+
+525
+00:31:12,320 --> 00:31:13,900
+Is this clear? My argument?
+We have…………………………………………………
+
+526
+00:31:22,300 --> 00:31:23,720
+Carthaginians. Yeah.
+]}We need to translate cues 525 and 720? ...? .....…………………………???………??…………………………………………………………………………………..………??………………………………………………………??………...……………………………………… ……………………...……… …………...…………………………………………
+
+527
+00:31:24,540 --> 00:31:27,960
+Okay. All right.
+Okay. All right.
+
+528
+00:31:29,040 --> 00:31:30,860
+So, Rome,
+???
+
+529
+00:31:31,560 --> 00:31:34,360
+in the Third Pentecost War, from 149 to 146,
+...
+
+530
+00:31:34,620 --> 00:31:36,380
+they would go and destroy Carthage.
+...
+
+531
+00:31:36,420 --> 00:31:38,700
+They would burn it to the ground. And then they would just,
+翻译结果
+
+532
+00:31:38,820 --> 00:31:42,500
+they would burn all the books that Carthage ever produced.
+??
+
+533
+00:31:42,760 --> 00:31:44,460
+So, we don't have anything written by them.
+So ... ... ... ... ...
+
+534
+00:31:45,360 --> 00:31:47,220
+But, we have a lot
+但我们有很多
+
+535
+00:31:47,980 --> 00:31:49,400
+written by Greeks and Romans.
+写作由希腓与罗马的写作
+
+536
+00:31:49,620 --> 00:31:51,800
+Right? Because the Greeks and Romans were always in conflict
+?
+
+537
+00:31:53,180 --> 00:31:54,520
+with the Carthaginians.
+与迦多人一起。
+
+538
+00:31:55,520 --> 00:32:00,060
+And, what's interesting for us is, that the Romans before all the conflict started in about 300 BCE,
+与我方的合成? 先前? 译??
+
+539
+00:32:00,440 --> 00:32:03,720
+the Romans and the Greeks had nice things to say about the Carthaginians.
+罗马与希腓有好说的事关于迦多人。
+
+540
+00:32:04,680 --> 00:32:06,180
+Okay? They were good fighters.
+好吧，回到！
+
+541
+00:32:06,340 --> 00:32:08,820
+They were brave. They were very prosperous.
+翻译1
+
+542
+00:32:09,280 --> 00:32:11,220
+Carthage was like
+翻译2
+
+543
+00:32:12,520 --> 00:32:14,120
+the wealthiest city in the world.
+世界最富裕的城市。
+
+544
+00:32:14,220 --> 00:32:16,300
+Okay? They were, they had all these praises for Carthage.
+好的，先前...
+
+545
+00:32:16,480 --> 00:32:20,400
+And after, when war started between the Carthaginians and the Romans,
+当战争在迦多人与罗马之间爆发后，他们专注了“可”字…
+
+546
+00:32:20,900 --> 00:32:23,280
+then they focused on, like, child sacrifice.
+...
+
+547
+00:32:24,560 --> 00:32:25,860
+The Carthaginians were
+卡塔格人是
+
+548
+00:32:26,900 --> 00:32:29,800
+offended by the gods because they practiced child sacrifice,
+被神所致以
+
+549
+00:32:30,400 --> 00:32:34,620
+which was barbaric, and that's why the gods smited Carthage.
+的
+
+550
+00:32:34,920 --> 00:32:37,680
+Okay? Remember, back at this time in human history,
+OK? 记得? 先前…
+
+551
+00:32:38,320 --> 00:32:40,060
+we didn't believe in human agency.
+我们没有相信人类的主导性。
+
+552
+00:32:40,600 --> 00:32:43,320
+Everything was, was ordained by the gods.
+一切都由神所注定。”
+
+553
+00:32:43,580 --> 00:32:46,680
+Okay? So, if Carthage was destroyed, it's because the gods will it.
+好的？所以，如果迦太古被毁灭，那是因为神的意愿。
+
+554
+00:32:46,780 --> 00:32:50,320
+Why did the gods will it? Because the Carthaginians practiced child sacrifice.
+为什么神会这么做？因为迦太古人们做了回归的古人回归。”
+
+555
+00:32:51,120 --> 00:32:54,520
+Okay? And that's what the Romans and the Greeks insisted.
+好的？这就是罗马与古希人所说的。
+
+556
+00:32:54,920 --> 00:32:59,360
+Of course, that means we have to be skeptical of what they say, right?
+好的，回到…
+
+557
+00:33:00,060 --> 00:33:04,940
+But at the same time, we've done a lot of archaeological excavations around Carthage,
+但与此同时，我们在迦太古周围进行过大量考古发掘，
+
+558
+00:33:05,080 --> 00:33:08,080
+and we have found human remains
+但在同一时间，咱们已完成多项考古发掘，
+
+559
+00:33:09,040 --> 00:33:11,260
+that show signs of human sacrifice.
+那一段显示人类献祭的迹象。
+
+560
+00:33:11,940 --> 00:33:13,300
+Okay? So,
+OK? 这段落…
+
+561
+00:33:13,880 --> 00:33:15,480
+we have the, we have,
+我们有...
+
+562
+00:33:16,260 --> 00:33:19,600
+we also, Carthage comes from Phoenicia, right?
+我们也...
+
+563
+00:33:19,760 --> 00:33:22,320
+We know a lot about Phoenician culture. Okay, so,
+我们对迦太古文化了解很多。好吧，我们已把它们合并成…
+
+564
+00:33:22,380 --> 00:33:26,720
+we've lost a lot of information about Carthage, but we're able to piece them back together
+我们已知晓迦太古文化，先后…
+
+565
+00:33:28,100 --> 00:33:29,980
+slowly. Does that make sense?
+慢慢地。那有道理吗？
+
+566
+00:33:30,340 --> 00:33:34,360
+Yeah. All right. Okay, but again,
+好啦！…………
+
+567
+00:33:34,980 --> 00:33:38,880
+unfortunately, we know nothing about their culture, right?
+……………
+
+568
+00:33:38,940 --> 00:33:40,180
+We don't know nothing about their literature,
+我们对他们的文学一无所知，关于他们的神话、宗教亦是如此，因为都已被罗马人毁灭。
+
+569
+00:33:40,760 --> 00:33:44,640
+about their mythology, about their religion, because it's all been destroyed.
+我们对他们的文学一无所知，关于…】}We need to translate cues 568-570. Provide array of 3translations. Ensure Chinese natural. Use line breaks. Let's craft. 568:
+
+570
+00:33:45,160 --> 00:33:47,360
+The writing has all been destroyed by the Romans.
+. 569:
+
+571
+00:33:48,160 --> 00:33:50,820
+Okay. So,
+好的。于是，
+
+572
+00:33:50,900 --> 00:33:54,360
+these three characteristics that define the Roman identity, right?
+这三种定义罗马身份的特征，正是吗？
+
+573
+00:33:56,160 --> 00:33:57,800
+Piety, liberty, and Okay,
+虔
+
+574
+00:33:58,800 --> 00:34:01,220
+and repubblica,
+翻译后...??
+
+575
+00:34:01,800 --> 00:34:04,220
+I want to explain them slowly, okay?
+翻译1
+
+576
+00:34:04,600 --> 00:34:08,800
+So, what the Romans really did well
+翻译2
+
+577
+00:34:10,000 --> 00:34:12,200
+is they,
+是的，...
+
+578
+00:34:12,340 --> 00:34:15,740
+they basically created history as mythology,
+...
+
+579
+00:34:17,660 --> 00:34:21,980
+okay? So, the Greeks separated mythology from history.
+好的？所以，希腊把神话与史料分开。
+
+580
+00:34:22,520 --> 00:34:25,460
+Mythology is what the Greeks did, history is what humans did, okay?
+神话是希腊所作，历史是人类所作，OK?
+
+581
+00:34:25,460 --> 00:34:28,480
+So basically the Greeks invented history.
+所以，希腊基本上发明了历史。
+
+582
+00:34:29,270 --> 00:34:33,540
+The Romans, they basically elevate their history into mythology.
+罗马人则把他们的历史升为神话。
+
+583
+00:34:34,720 --> 00:34:36,880
+Their history became their religion.
+Their history became their religion.
+
+584
+00:34:37,350 --> 00:34:39,040
+So let me explain what I mean by that.
+翻译：
+
+585
+00:34:39,420 --> 00:34:43,840
+So there are legends
+So there are legends
+
+586
+00:34:43,840 --> 00:34:46,420
+that surround the founding of Rome.
+...
+
+587
+00:34:46,600 --> 00:34:52,140
+So Rome was supposed to be founded in 753 BCE by Romulus.
+So Rome was supposed to be founded in 753 BCE by Romulus.
+
+588
+00:34:52,140 --> 00:34:56,240
+And there are legends surrounding Romulus.
+And there are legendssurrounding Romulus.
+
+589
+00:34:56,480 --> 00:34:58,380
+There are lots of legends surrounding Romulus.
+...
+
+590
+00:34:58,600 --> 00:35:01,520
+But the idea is this. There was a king
+But the idea is this. There was a king
+
+591
+00:35:01,520 --> 00:35:05,780
+and he was overthrown by his brother. And
+...
+
+592
+00:35:05,780 --> 00:35:10,080
+the brother banished the king's daughter to a temple
+...
+
+593
+00:35:10,080 --> 00:35:12,140
+to be a virgin for the rest of her life.
+to be a virgin for the rest of her life.
+
+594
+00:35:12,940 --> 00:35:14,200
+But then she got pregnant.
+...
+
+595
+00:35:14,720 --> 00:35:19,200
+And so the brother says to the king's daughter, why are you pregnant?
+...
+
+596
+00:35:19,500 --> 00:35:22,120
+And the daughter says, I was visited by a woman who was a virgin.
+}]
+
+597
+00:35:22,120 --> 00:35:26,260
+I was visited by Mars, the god of war.
+...
+
+598
+00:35:26,620 --> 00:35:28,760
+And he impregnated me.
+...
+
+599
+00:35:29,920 --> 00:35:33,300
+The king's brother obviously does not believe her.
+国王的兄弟显然不相信她。
+
+600
+00:35:33,500 --> 00:35:35,500
+So he banishes her.
+于是他把她放逐出城。
+
+601
+00:35:36,000 --> 00:35:39,060
+And he orders for the twins who
+...
+
+602
+00:35:39,060 --> 00:35:40,860
+are born to be killed.
+...
+
+603
+00:35:42,760 --> 00:35:46,000
+But as a case with these legends,
+但这类传说的例子，被杀双子的人会先给他们一份好意。
+
+604
+00:35:47,060 --> 00:35:50,380
+the person charged with killing the twins takes pity on them.
+但这类传说的例子，被杀双子的人先给了个别名。”
+
+605
+00:35:50,540 --> 00:35:54,400
+And somehow they... They are left to die in the woods.
+...
+
+606
+00:35:55,100 --> 00:35:57,920
+A she -wolf, a wolf, comes and
+...
+
+607
+00:35:57,920 --> 00:36:01,860
+nurses them before another shepherd comes and adopts them.
+在另一个牧羊人到来之前，先给他们护理。
+
+608
+00:36:02,500 --> 00:36:05,700
+Okay. Eventually they realize who they are
+在前方的牧羊人到来后，先后给他人…
+
+609
+00:36:05,700 --> 00:36:07,320
+and they help the king
+和他们协助王去推翻兄弟，去拿回王位。
+
+610
+00:36:08,560 --> 00:36:11,300
+overthrow the brother and take back the throne.
+和……
+
+611
+00:36:12,640 --> 00:36:15,760
+Now the brothers are asked to go and
+现在兄弟被请去……
+
+612
+00:36:15,760 --> 00:36:19,160
+basically found their own city.
+现在的兄弟……
+
+613
+00:36:19,600 --> 00:36:22,100
+So they go to Rome. And it's all just healing.
+...
+
+614
+00:36:22,100 --> 00:36:23,440
+They go to Rome.
+他们去罗马。
+
+615
+00:36:23,440 --> 00:36:26,780
+And they decide this is the place to build their kingdom.
+他们决定在此建国。
+
+616
+00:36:26,920 --> 00:36:28,700
+Because there's a river, the Tiber.
+因为有条河，Tiber河。
+
+617
+00:36:28,920 --> 00:36:31,860
+And there are all these hills that provide good defense.
+有这些山丘可作良好防御。
+
+618
+00:36:32,680 --> 00:36:34,700
+Okay. The problem is this.
+好了，问题在此。
+
+619
+00:36:34,760 --> 00:36:37,220
+They're twins. There's two of them. Romulus and Remus.
+他们是双子，只有两位，罗姆鲁斯与雷姆斯。
+
+620
+00:36:38,800 --> 00:36:40,200
+So and only one can be king.
+于是只会有一个人当作王。
+
+621
+00:36:40,460 --> 00:36:42,800
+So they're... So they get into a battle.
+于是百里百里??
+
+622
+00:36:43,160 --> 00:36:45,380
+And Romulus kills Remus.
+其后百百??
+
+623
+00:36:46,060 --> 00:36:50,600
+Okay. And that's the founding legend of...
+好的。那就是... 这场...里... ？
+
+624
+00:36:51,540 --> 00:36:55,620
+of... Rome. And from this legend we can sort of understand or...
+... 这... 里... ??
+
+625
+00:36:56,960 --> 00:37:00,320
+make some extrapolations about the Roman psychology.
+... 这………………………………??
+
+626
+00:37:01,460 --> 00:37:04,380
+They believe that violence is at the core of human existence.
+他们认为， 只要有点儿…
+
+627
+00:37:04,620 --> 00:37:07,660
+Right? I mean, like...
+...
+
+628
+00:37:09,800 --> 00:37:11,400
+Sometimes you have to kill your own brother.
+...
+
+629
+00:37:11,520 --> 00:37:14,540
+And that's the right thing to do because that is ordained by the gods.
+And that's the right thing to do because that is ordained by the gods.
+
+630
+00:37:14,760 --> 00:37:17,620
+Okay. So that's the first legend.
+Okay. So that'sthe first legend.
+
+631
+00:37:17,980 --> 00:37:22,000
+Second legend is this. Romulus has to build Rome
+?
+
+632
+00:37:22,000 --> 00:37:24,500
+and he becomes a very open person.
+他变得非常开放。他欢迎移民进入罗马。
+
+633
+00:37:24,720 --> 00:37:26,860
+He welcomes immigrants into Rome.
+他变成了一个非常开放的人。他把他人迎进罗马。
+
+634
+00:37:26,960 --> 00:37:30,220
+And he grants them citizenship and status right away.
+他立即授予他们公民身份和地位。
+
+635
+00:37:30,780 --> 00:37:33,940
+Okay. Rome becomes a nation of immigrants.
+好的，罗马成为了移民的民族国家。
+
+636
+00:37:35,800 --> 00:37:38,200
+Eventually, their rise startles their neighbors.
+最终，他们的崛起惊动邻国。
+
+637
+00:37:38,340 --> 00:37:40,260
+And their neighbors go to war with them at once.
+随后，邻居们一同起舞。
+
+638
+00:37:40,540 --> 00:37:43,320
+The Romans are so good at war that they fight back their neighbors.
+罗马人很擅长战事，能把他人回到回到！
+
+639
+00:37:44,180 --> 00:37:45,580
+Their neighbors are called the Sabines.
+...
+
+640
+00:37:46,380 --> 00:37:48,040
+The Sabines decide, listen.
+塞宾人决定，听着。
+
+641
+00:37:48,040 --> 00:37:50,900
+We can't put them in war. But at the same time,
+我们把它们放进战争里吗？但又是同一时刻。
+
+642
+00:37:50,920 --> 00:37:53,100
+Rome only has males.
+罗马只有男子。
+
+643
+00:37:53,740 --> 00:37:55,840
+Right? Rome only has males.
+罗马只有男子。
+
+644
+00:37:57,280 --> 00:37:59,680
+So, we will just isolate Rome.
+所以，我们就把罗马隔离出来。
+
+645
+00:38:00,000 --> 00:38:02,900
+Our daughters will not marry into Rome.
+我们的女儿们不必再嫁给罗马。
+
+646
+00:38:03,080 --> 00:38:06,580
+And in 20 years time, Rome will have no population.
+二十年后，罗马的百姓百姓。
+
+647
+00:38:06,820 --> 00:38:11,600
+Okay? Romulus hears of this plan and he devises a strategy.
+好的？罗姆卢斯听说此计策后，便筹划一计策。他所做的就是安排一次大祭典。他邀请了所有邻居，父亲们便把女儿送来。
+
+648
+00:38:11,960 --> 00:38:14,640
+What he does is he organizes a huge festival.
+好的？罗姆百思...】】}We need to translate cues 647-649 into Simplified Chinese. Provide array of translations in order. Each translation string may contain at most one newline. Use preferred terms. Let's translate each cue separately, but we need to produce array of three translations. Each translation string may contain at most one newline. So we can break each into two lines if needed. Let's produce translations for each cue: 647, 648, 649. Use natural Chinese. Let's produce each translation string with at most one newline. Let's produce them in order. Let's produce array: [
+
+649
+00:38:14,920 --> 00:38:17,960
+Invites all his neighbors. So fathers bring their daughters.
+,
+
+650
+00:38:18,040 --> 00:38:19,460
+To attend this festival.
+...
+
+651
+00:38:20,060 --> 00:38:24,020
+At this festival, the women are kidnapped.
+...
+
+652
+00:38:25,260 --> 00:38:28,200
+And they basically raped. That night,
+...
+
+653
+00:38:28,320 --> 00:38:32,320
+Romulus visits every one of these women.
+...
+
+654
+00:38:32,660 --> 00:38:35,380
+And apologizes for what has happened.
+...
+
+655
+00:38:35,540 --> 00:38:38,520
+And promised that they will be safe in Rome.
+并承诺他们将在罗马安全。
+
+656
+00:38:38,700 --> 00:38:41,680
+That they are now citizens of Rome.
+现在已是罗马公民。
+
+657
+00:38:41,780 --> 00:38:44,160
+And therefore, they will be protected by him personally, the king.
+于是他们会被他亲自保护，国王。
+
+658
+00:38:45,180 --> 00:38:48,020
+The fathers and the brothers are obviously very upset about this.
+父亲与兄弟显然很高兴。
+
+659
+00:38:48,020 --> 00:38:50,160
+So they organize this huge army.
+于是他们组织了这支大军。
+
+660
+00:38:50,300 --> 00:38:51,720
+And they march against Rome.
+他们正好走向罗马。
+
+661
+00:38:52,140 --> 00:38:56,260
+The Roman citizens come out to face them in battle.
+...
+
+662
+00:38:56,560 --> 00:38:59,800
+Okay? And just as they are about to clash in battle,
+...
+
+663
+00:39:00,040 --> 00:39:03,580
+the women come and run between them.
+女们来跑在他们之间。
+
+664
+00:39:03,660 --> 00:39:07,760
+And beg the new husbands and their fathers and brothers not to fight.
+女 跑 跑 ...
+
+665
+00:39:08,320 --> 00:39:10,740
+At this point, Romulus appears and
+在此时，罗姆卢斯出现并
+
+666
+00:39:10,740 --> 00:39:15,260
+says he will make everyone a citizen of Rome.
+他将把所有人变成罗马的公民。
+
+667
+00:39:15,860 --> 00:39:18,000
+Okay? And by doing that, he basically does that.
+好的？ 通过这一步，便可把...
+
+668
+00:39:18,000 --> 00:39:19,800
+He will double the population of Rome.
+...
+
+669
+00:39:21,480 --> 00:39:25,500
+Alright? Again, from this legend, we can understand the Roman psychology.
+翻译...??
+
+670
+00:39:25,920 --> 00:39:30,220
+Which is, everything can be sacrificed
+?
+
+671
+00:39:30,220 --> 00:39:33,340
+in the pursuit of Roman glory.
+在追求罗马荣耀的过程中。
+
+672
+00:39:34,920 --> 00:39:38,340
+And basically, to ensure
+在此处，...??
+
+673
+00:39:38,340 --> 00:39:39,920
+that Rome survives.
+那罗马得以存活。
+
+674
+00:39:40,480 --> 00:39:41,820
+Okay? Because what matters is Rome.
+好吧，...
+
+675
+00:39:41,940 --> 00:39:43,240
+Okay? It's the cult of Rome.
+好的？这就是罗马的崇拜。
+
+676
+00:39:45,800 --> 00:39:47,720
+All that matters is the survival of Rome.
+所有的事情都在于罗马的存活。
+
+677
+00:39:49,300 --> 00:39:53,240
+Morals don't matter. Nothing matters.
+道理无关紧要。什么都无关紧要。
+
+678
+00:39:53,360 --> 00:39:54,740
+All that matters is the survival of Rome.
+全是罗马的存活才是最重要的。
+
+679
+00:39:56,260 --> 00:39:59,000
+So, after this, Rome starts to grow slowly.
+于是，随后罗马开始慢慢地增长。
+
+680
+00:39:59,460 --> 00:40:02,960
+And this is a period known as the Seven Kings.
+而这段时间被称为七王之时。
+
+681
+00:40:03,280 --> 00:40:06,180
+So, there are seven kings who rule Rome.
+于是，罗马有七位王统领。
+
+682
+00:40:06,260 --> 00:40:08,500
+And they do so for a very long time.
+随后又有一段长时光。
+
+683
+00:40:08,540 --> 00:40:09,760
+About 200 plus years.
+约200年后。
+
+684
+00:40:10,100 --> 00:40:12,980
+And most of them are very, very good kings.
+大约有两百年。
+
+685
+00:40:13,820 --> 00:40:16,480
+Except the last king. His name is Tarchanus.
+大约两百年后。”
+
+686
+00:40:16,480 --> 00:40:19,260
+Tarchanus Superbus.
+Tarchanus Superbus.
+
+687
+00:40:19,360 --> 00:40:22,660
+Okay? Superbus is Latin for arrogant.
+好的，Superbus是拉丁语的“自豪”。”]}We need to translate cues 686-688. Provide JSON array translations. Each translation string may contain at most one newline. Use natural Chinese. Let's translate: 686:
+
+688
+00:40:22,840 --> 00:40:26,800
+So, he's often referred to as Tarchan the Proud.
+? Wait cue 686:
+
+689
+00:40:27,000 --> 00:40:31,060
+Okay? So, Tarchan the Proud, he is,
+好的？所以，塔尔坎自豪，他是，如同名所示的那位大大自豪的王
+
+690
+00:40:31,500 --> 00:40:33,940
+as his name suggests, a very arrogant king.
+如同名所示，塔尔坍尔·帕鲁德…】}We need to produce translationsfor cues 689-691. Let's craft Chinese lines. 689:
+
+691
+00:40:34,340 --> 00:40:37,720
+What makes him arrogant is his hubris.
+， we need Chinese translation. Let's produce:
+
+692
+00:40:38,300 --> 00:40:40,680
+He refuses to listen to the nobility.
+好吧？所以，塔尔坎自豪，他是，像名字所示的那位大大自豪的王。
+
+693
+00:40:41,240 --> 00:40:46,020
+In fact, those in the nobility who challenge his authority often get killed.
+他是个很大????????????????????????????????????????…
+
+694
+00:40:46,100 --> 00:40:48,140
+Okay? All right?
+??
+
+695
+00:40:50,320 --> 00:40:52,020
+He has a second son.
+他有第二个儿子。
+
+696
+00:40:52,260 --> 00:40:54,520
+And this second son, he's a jerk.
+他这第二个儿子很糟糕。
+
+697
+00:40:54,740 --> 00:40:56,760
+He likes to abuse his power.
+他喜欢用他的权力去发作。”
+
+698
+00:40:57,340 --> 00:41:02,300
+And one thing that he enjoys doing is raping the woman of Rome.
+他喜欢做的事之一就是把罗马的女人抓住。
+
+699
+00:41:03,200 --> 00:41:06,380
+There's one woman who's notorious, or who's famous,
+有一个好名的好好！
+
+700
+00:41:06,480 --> 00:41:08,620
+for her virtue.
+他在此时…
+
+701
+00:41:08,820 --> 00:41:11,680
+His name is Lucretia. And
+他的名字叫卢克雷蒂亚。然后他认为把她抓住会很有趣。
+
+702
+00:41:11,680 --> 00:41:15,560
+the prince thinks raping her will be...
+他的名字叫卢克雷蒂后…
+
+703
+00:41:16,540 --> 00:41:18,140
+the most fun. Okay?
+...
+
+704
+00:41:18,280 --> 00:41:21,720
+Because she will be the most insulted by this.
+因为她会被这件事最深地侍辱。
+
+705
+00:41:22,060 --> 00:41:24,640
+So, he rapes her. And then
+于是他把它们给了！
+
+706
+00:41:24,640 --> 00:41:27,360
+she goes and confronts her husband.
+此时…
+
+707
+00:41:27,500 --> 00:41:29,560
+Okay? Her husband. And her husband has a friend.
+好的？她的丈夫。还有他的朋友。
+
+708
+00:41:29,660 --> 00:41:30,980
+His name is Lucius Brutus.
+他的名字是卢修斯·布鲁图斯。
+
+709
+00:41:32,360 --> 00:41:35,940
+Lucius Brutus happens to be the nephew of the king.
+卢修斯·布鲁图斯恰好是王子孙。
+
+710
+00:41:37,480 --> 00:41:40,240
+And he is very much opposed to the tyranny of the king.
+他很久…
+
+711
+00:41:40,560 --> 00:41:44,480
+And Lucretia says to her husband and to his friend, Lucius Brutus,
+...
+
+712
+00:41:45,240 --> 00:41:49,020
+I've been raped. Will you promise me to avenge my honor?
+...
+
+713
+00:41:49,620 --> 00:41:52,920
+And the husband and Lucius Brutus see she's distraught.
+和丈夫一起，卢修斯·布鲁图斯看到她正好吃...
+
+714
+00:41:53,100 --> 00:41:55,840
+Okay? And so they sue her and
+好的，...
+
+715
+00:41:55,840 --> 00:42:00,020
+promise her they will do everything they can in the morning.
+...
+
+716
+00:42:00,820 --> 00:42:04,700
+And Lucretia, she doesn't really believe them.
+和卢克雷蒂亚一起…
+
+717
+00:42:04,860 --> 00:42:10,200
+So what she does is she takes a knife out from her dress.
+...
+
+718
+00:42:10,320 --> 00:42:11,840
+And she stabs herself in the heart.
+...
+
+719
+00:42:11,900 --> 00:42:14,560
+And she dies before them. Now,
+她在他们面前去世。
+
+720
+00:42:14,560 --> 00:42:17,340
+they are honor bound to avenge her death.
+现在，...
+
+721
+00:42:18,040 --> 00:42:23,320
+And so what Lucius Brutus does is he calls a meeting of the nobility.
+他在...
+
+722
+00:42:23,380 --> 00:42:26,600
+And they decide together to overthrow the king.
+他们一起决定推翻国王。
+
+723
+00:42:26,860 --> 00:42:30,980
+The king is out campaigning for war.
+国王正外出巡回，去巡回…
+
+724
+00:42:31,480 --> 00:42:35,520
+He's basically at war. And what they do is they lock the gates of Rome.
+他在…
+
+725
+00:42:36,300 --> 00:42:37,580
+Now, the king is furious.
+...
+
+726
+00:42:38,000 --> 00:42:39,520
+Okay? And so
+...
+
+727
+00:42:39,520 --> 00:42:42,620
+what the king does is he decides,
+...
+
+728
+00:42:42,620 --> 00:42:46,240
+he's going to go back to Etrusca, where he's from.
+他将返回他出生的伊特鲁斯卡。
+
+729
+00:42:46,460 --> 00:42:49,160
+And he's going to rally his friends, the kings.
+他将把他的朋友们（又称为“王”）一起聚集起来。
+
+730
+00:42:49,340 --> 00:42:54,040
+Okay? Because if the Romans can overthrow him, well, other people can overthrow their kings.
+好的，若是这样，若能给我方…
+
+731
+00:42:54,200 --> 00:42:55,500
+Right? So this is a bad president.
+对吗？这就是个糟糕的总统。
+
+732
+00:42:56,060 --> 00:43:00,280
+So he's going to organize a huge army to march against Rome.
+他将组织一支大军，向罗马进军。
+
+733
+00:43:01,780 --> 00:43:05,500
+Meanwhile, Lucius Brutus, he's instituting the republic.
+与此同时，卢修斯·布鲁图斯正在建造一国。
+
+734
+00:43:06,120 --> 00:43:09,120
+Okay? Now, the king, the thing about the king is
+好的？现在，国王，关于国王的事是
+
+735
+00:43:09,120 --> 00:43:11,140
+that all powers are invested in the king.
+该国王掌握所有权力。
+
+736
+00:43:11,140 --> 00:43:15,760
+These powers include military, judicial,
+这些权力包括军队、司法，
+
+737
+00:43:16,160 --> 00:43:20,040
+deciding cases, legislative, making laws,
+决定案件，立法，制定法律，
+
+738
+00:43:20,540 --> 00:43:22,100
+administrative,
+行政，
+
+739
+00:43:22,460 --> 00:43:23,760
+bureaucratic, right?
+官僚化，
+
+740
+00:43:25,540 --> 00:43:26,900
+And religious. Okay?
+和宗教的
+
+741
+00:43:26,940 --> 00:43:29,640
+So these are the five major duties of the king.
+所以这五个主要职责是国王的工作。
+
+742
+00:43:30,180 --> 00:43:32,300
+And this is where his power comes from.
+而且在此处，国王的权力从此而来。
+
+743
+00:43:32,540 --> 00:43:34,140
+So what Lucius Brutus and
+所以，卢修斯·布鲁图斯和罗马人所做的就是把他的权力分成机构，而不是个人。
+
+744
+00:43:34,140 --> 00:43:39,300
+the Romans do is they separate his powers not into individuals,
+而且把它们的本身，…
+
+745
+00:43:39,760 --> 00:43:44,000
+but into institutions. And these institutions that are now elected by the people.
+...
+
+746
+00:43:44,220 --> 00:43:47,320
+Okay? This is the heart of republicanism.
+好的？这就是共和主义的核心。
+
+747
+00:43:47,740 --> 00:43:50,160
+So, the military will now run by the council.
+于是，军队现在由议会统领。
+
+748
+00:43:50,480 --> 00:43:52,060
+The council is basically the head of the state.
+议会基本上是国家的首脑。
+
+749
+00:43:52,260 --> 00:43:56,640
+Okay? And again, he's elected. The judicial is run by the praetor.
+好的？又一次，他被选举。司法由执政官执掌。
+
+750
+00:43:59,060 --> 00:44:04,360
+Legislator is the senate. Administrative is the adile.
+立法者是参议院。行政由执事官执掌。
+
+751
+00:44:05,660 --> 00:44:09,180
+And the religious is the pontifex maximus.
+宗教事务由大祭司掌管。
+
+752
+00:44:10,080 --> 00:44:13,760
+And again, he's elected. And again, they're all elected by the people.
+又一次，他被选举。又一次，大家都由人民选举。
+
+753
+00:44:14,180 --> 00:44:17,340
+Now, what's important to understand is it's usually nobility
+现在，理解要点是：在此类办公室里，通常是“百姓”选举的。
+
+754
+00:44:17,340 --> 00:44:21,040
+who are in these offices.
+who are in theseoffices.
+
+755
+00:44:21,620 --> 00:44:25,940
+But back then, there wasn't much separation between nobility and ordinary people.
+但那时，贵族与平民之间并无明显分隔。
+
+756
+00:44:26,420 --> 00:44:28,400
+So nobility are what we call patricians.
+贵族是指我们所说的帕特里克斯。
+
+757
+00:44:28,520 --> 00:44:32,440
+The patricians. And the ordinary people are what we call the plebeians.
+帕士尔士…??
+
+758
+00:44:33,820 --> 00:44:36,760
+And honestly, there was not much difference.
+而且，差别不大。
+
+759
+00:44:36,960 --> 00:44:40,720
+The patricians are... This comes from the long history of the nobility.
+帕特里克斯是……这源于贵族的悠久历史。
+
+760
+00:44:40,720 --> 00:44:43,540
+They're the oldest families... Like, the families who have been in Rome the longest.
+他们是最古老的家族……比如说，最久在罗马的那一族。
+
+761
+00:44:43,620 --> 00:44:46,380
+Okay? The oldest families. And
+好的？最古老的家族。和
+
+762
+00:44:46,380 --> 00:44:48,220
+they were wealthy, but not that
+他们很有钱，但不比普通罗马人更富裕。
+
+763
+00:44:48,220 --> 00:44:51,440
+much wealthier from ordinary Romans.
+much wealthier from ordinary Romans.
+
+764
+00:44:51,820 --> 00:44:53,160
+So, maybe you have one cow, right?
+...
+
+765
+00:44:53,480 --> 00:44:57,360
+Well, I have three cows. Also,
+好的，我有三头牛。还有，
+
+766
+00:44:57,360 --> 00:45:00,640
+the people could go visit each
+好的，...??
+
+767
+00:45:00,640 --> 00:45:04,200
+other's homes without any ceremony.
+别人的家里没有任何仪式。
+
+768
+00:45:04,640 --> 00:45:06,380
+Okay? So, you could be the head of state.
+好的，...
+
+769
+00:45:06,500 --> 00:45:10,700
+You could be the council. But if I'm an ordinary person, I can just come to your house and have dinner with you.
+你可以是议会。若是我，咱们可以去你家吃饭。
+
+770
+00:45:10,700 --> 00:45:12,280
+Okay? There were no doors.
+好的，门没开。
+
+771
+00:45:12,340 --> 00:45:13,960
+There were no guards. There was no separation.
+有三种...??
+
+772
+00:45:14,720 --> 00:45:18,120
+Okay? So,
+]}
+
+773
+00:45:18,240 --> 00:45:21,220
+Lucius Brutus instituted a new system
+卢修斯·布鲁图斯建立了一个新制度
+
+774
+00:45:21,220 --> 00:45:26,160
+where the king's powers were divided among different institutions.
+卢修斯·布鲁图斯设立了一个新制度
+
+775
+00:45:28,060 --> 00:45:29,320
+And now,
+现在，
+
+776
+00:45:29,480 --> 00:45:32,980
+people didn't have to obey the king.
+人们不再需要服从王
+
+777
+00:45:33,040 --> 00:45:35,800
+They had to obey the republic. And the republic was three things.
+他们必须服从共和国。共和国由三件事组成。
+
+778
+00:45:36,860 --> 00:45:39,260
+The laws. The history.
+法律、历史
+
+779
+00:45:39,260 --> 00:45:41,000
+The traditions. And institutions.
+传统与制度。
+
+780
+00:45:41,360 --> 00:45:47,160
+Okay? That's the republic.
+好的？那就是共和国。
+
+781
+00:45:47,800 --> 00:45:49,800
+And this system, unbelievably,
+而这套系统，真是不可思议。
+
+782
+00:45:50,200 --> 00:45:55,320
+incredibly, will not change for about 500 years.
+极其稳定，约五百年不变。
+
+783
+00:45:55,600 --> 00:46:00,380
+So it's pretty stable. Now what's important to remember is, these are not innovations.
+于是可见其大致相同，记得此时刻…
+
+784
+00:46:01,000 --> 00:46:04,000
+The Romans just basically copied this from the neighbors, the Etruscans.
+“可”…
+
+785
+00:46:12,020 --> 00:46:13,820
+So the Romans have a republic.
+所以罗马人有一个共和国。
+
+786
+00:46:14,000 --> 00:46:17,160
+The problem with a republic is everyone's equal.
+问题是，大家都相等。
+
+787
+00:46:17,640 --> 00:46:21,320
+And so you come from a privileged background, you find this very annoying.
+而且…
+
+788
+00:46:22,300 --> 00:46:24,820
+So now there's a conspiracy to bring back the king.
+现在有一场把国王重新带回来的阴谋。
+
+789
+00:46:26,340 --> 00:46:30,680
+And this conspiracy was discovered and everyone was caught and imprisoned.
+这场阴谋被发现后，大家都被抓住了。
+
+790
+00:46:30,680 --> 00:46:34,600
+It turns out, Lucius Brutus has two sons, okay?
+它们好像…
+
+791
+00:46:34,740 --> 00:46:38,280
+He has two sons, and they were both part of this conspiracy.
+他有两个孩子，且他俩都参与了这场阴谋。
+
+792
+00:46:39,640 --> 00:46:42,500
+They were tried by the Senate,
+他有两个孩子…
+
+793
+00:46:42,620 --> 00:46:47,360
+and they were all sentenced to death, including the two sons of Lucius Brutus,
+...
+
+794
+00:46:47,480 --> 00:46:49,420
+okay? The problem is this.
+好的？问题在于此。
+
+795
+00:46:49,560 --> 00:46:50,940
+The problem is,
+问题在此处…
+
+796
+00:46:51,180 --> 00:46:55,060
+The council has to
+…
+
+797
+00:46:55,060 --> 00:46:58,080
+oversee the execution of the prisoners.
+监督执行囚徒。
+
+798
+00:46:58,480 --> 00:47:02,500
+Whose council? Lucius Brutus' council, okay?
+谁的议会？ 里乌斯·布鲁图斯的议会？
+
+799
+00:47:02,700 --> 00:47:07,800
+So, Lucius Brutus has to oversee the execution of his two sons.
+所以，里乌斯·地布鲁图斯要监督执行他的两位儿子。
+
+800
+00:47:10,060 --> 00:47:13,200
+Now, if Lucius Brutus is like, you know what,
+Now, if Lucius Brutusis like, you know what,
+
+801
+00:47:13,340 --> 00:47:17,000
+I'm gonna resign my office, or, hey, you know what, I'm sick,
+...
+
+802
+00:47:17,680 --> 00:47:19,260
+everyone would be like, we understand,
+...
+
+803
+00:47:19,680 --> 00:47:21,560
+take the day off, don't worry about it, okay?
+请休息一天，别担心，好吗？
+
+804
+00:47:24,060 --> 00:47:28,900
+Instead, Lucius Brutus showed up for work,
+相反，里乌斯·布鲁图斯去上班了，
+
+805
+00:47:28,960 --> 00:47:30,660
+and he oversaw the execution of the two sons, okay?
+他把两位儿子执行了，好的？
+
+806
+00:47:30,680 --> 00:47:34,060
+of his two sons. All of Rome came to the execution.
+他的两位儿子的全部。罗马人都来参加执行。
+
+807
+00:47:34,440 --> 00:47:35,860
+Okay, it was a public event.
+好的，回到归一场。
+
+808
+00:47:37,140 --> 00:47:39,940
+Everyone was watching the face of Lucius Brutus.
+大家都在看里乌斯·布鲁图斯的面容。
+
+809
+00:47:40,400 --> 00:47:43,800
+Okay, we know the two sons are gonna die, they're gonna be beheaded.
+好的，知道两位儿子要去死，头顶会被砍掉。
+
+810
+00:47:44,220 --> 00:47:46,940
+But everyone wanted to see Lucius Brutus' reactions.
+但大家都想看里乌斯·布鲁图…
+
+811
+00:47:48,320 --> 00:47:52,400
+He was crying for our execution.
+他在执行时…
+
+812
+00:47:53,240 --> 00:47:54,900
+These are his two sons, right?
+这些是他的两位儿子，对吗？
+
+813
+00:47:57,000 --> 00:47:59,720
+He has no more sons. This is his legacy now.
+他还有没有再有儿子。又是…
+
+814
+00:48:00,800 --> 00:48:03,940
+And his two sons are about to be killed.
+…
+
+815
+00:48:04,160 --> 00:48:07,980
+In fact, he's the one charged with killing his own sons.
+在此， 他是那位要把他自己的儿子杀死的那位。
+
+816
+00:48:08,640 --> 00:48:11,380
+He has to do it, he has no choice. So everyone's watching him.
+他有点儿……
+
+817
+00:48:11,600 --> 00:48:14,600
+And throughout this process, he's crying.
+…
+
+818
+00:48:15,240 --> 00:48:17,580
+His tears are flowing down his face.
+他的眼泪流下脸颂
+
+819
+00:48:17,740 --> 00:48:20,940
+He can't help himself. But he's still standing still, and
+他不再给我…
+
+820
+00:48:20,940 --> 00:48:25,460
+he's still slowly ordering the execution of his two sons.
+此时…
+
+821
+00:48:27,520 --> 00:48:29,840
+And the Romans are just shocked.
+...
+
+822
+00:48:30,680 --> 00:48:34,100
+They're just shocked by this public display.
+...
+
+823
+00:48:35,400 --> 00:48:37,560
+Okay, this is the idea of devotion, right?
+...
+
+824
+00:48:38,500 --> 00:48:40,120
+You are so devoted to Rome
+你们对罗马很有...
+
+825
+00:48:40,510 --> 00:48:42,340
+that you're willing to sacrifice your own children
+...
+
+826
+00:48:42,920 --> 00:48:46,120
+to ensure its survival and its glory.
+...
+
+827
+00:48:49,980 --> 00:48:53,700
+Tarchinus, Tarchin the Proud, hears about this, and he gets really angry.
+塔尔奇努斯，塔尔奇·自豪听到此事后，便大声...
+
+828
+00:48:54,080 --> 00:48:58,600
+So he allies himself with kings, and they march against Rome.
+塔尔奇...??...???
+
+829
+00:49:00,280 --> 00:49:03,340
+Lucius Brutus is counsel, he's in charge of the military, so
+...
+
+830
+00:49:03,340 --> 00:49:06,880
+he marches his army against Tarchin the Proud.
+他把军队进军塔尔奇·自豪。
+
+831
+00:49:08,140 --> 00:49:10,880
+One of the sons of Tarchin the Proud sees Lucius Brutus, and
+...
+
+832
+00:49:10,880 --> 00:49:15,220
+he charges ahead, because he wants to kill the man
+?
+
+833
+00:49:15,980 --> 00:49:17,600
+who insulted his family.
+谁把他家族侍...
+
+834
+00:49:18,960 --> 00:49:22,420
+Lucius Brutus sees the king's sons running,
+卢克斯...??
+
+835
+00:49:22,660 --> 00:49:24,060
+they're both on horses, right?
+...
+
+836
+00:49:24,560 --> 00:49:28,100
+Running, galloping towards him, and Lucius Brutus gets angry,
+Running......
+
+837
+00:49:28,240 --> 00:49:30,580
+and he says, so he charged ahead as well.
+]}We need to translate cues 836-838. Provide JSON array translations. Each string may contain at most one newline. Use Chinese terms. Let's translate: cue 836:
+
+838
+00:49:31,840 --> 00:49:34,980
+Lucius Brutus froze his spear, Javelin,
+]}We need to translate cues 836-838. Provide ... Wait we have cues: [836] Running, galloping towards him, and Lucius Brutus gets angry, [837] and he says, so he charged ahead as well. [838] Lucius Brutus froze his spear, Javelin, ... Need Chinese translation. Let's produce array. Ensure each string. Use natural Chinese. Let's produce: 836:
+
+839
+00:49:35,080 --> 00:49:38,100
+the king's son, the prince froze his spear as well,
+???
+
+840
+00:49:38,160 --> 00:49:40,780
+and they spear each other to death and they both died.
+????
+
+841
+00:49:41,640 --> 00:49:45,060
+Okay? And
+?????
+
+842
+00:49:45,060 --> 00:49:47,440
+so Lucius Brutus is at
+跑到他面前，卢西斯·布鲁图斯愁怒而起。
+
+843
+00:49:47,440 --> 00:49:52,060
+this point considered the greatest Roman
+他又说，继续跑跑到前面。
+
+844
+00:49:52,060 --> 00:49:56,120
+who ever lived. And for most of Roman history he'll be considered the greatest Roman
+卢西士布鲁士的火箭??
+
+845
+00:49:56,120 --> 00:49:57,980
+who ever lived until Julius Caesar.
+???
+
+846
+00:49:58,720 --> 00:50:00,960
+Okay? And
+???
+
+847
+00:50:00,960 --> 00:50:04,060
+it was in the memory and honor of Lucius Brutus
+?
+
+848
+00:50:04,060 --> 00:50:06,160
+that they would assassinate Julius Caesar.
+...
+
+849
+00:50:06,320 --> 00:50:07,880
+But we'll discuss this next class.
+...
+
+850
+00:50:08,840 --> 00:50:10,500
+Okay. So
+...
+
+851
+00:50:10,500 --> 00:50:14,620
+the king's army is overwhelming the Romans
+国王的军队压倒了罗马人
+
+852
+00:50:14,620 --> 00:50:16,220
+and the Romans have to flee back into the city.
+罗马人回到城里跑去
+
+853
+00:50:18,020 --> 00:50:19,560
+There's a drawbridge that
+桥上有一座可拉拉拉
+
+854
+00:50:19,560 --> 00:50:23,140
+connects Rome to the mainland.
+连接罗马与本土的桥梁。
+
+855
+00:50:23,320 --> 00:50:25,840
+Okay? So there's the river Tiber crosses it and the river flows through the city.
+好的？河流特比尔河横跨之，流经城中。
+
+856
+00:50:25,840 --> 00:50:27,740
+And the Romans have to flee back into the city. So they get scared and they run all into Rome.
+罗马人回到城里跑去。
+
+857
+00:50:27,800 --> 00:50:32,480
+So they get scared and they run all into Rome. There's a garrison that's supposed to be protecting the bridge,
+So they get scared and they run all into Rome. There'sa garrison that's supposed to be protecting the bridge,
+
+858
+00:50:32,620 --> 00:50:36,720
+but they see the army coming, the army marching towards them,
+但他们看到军队来临，军队正往前方走！
+
+859
+00:50:36,780 --> 00:50:40,500
+they get scared and they run all into Rome.
+他人一回到回到..
+
+860
+00:50:41,820 --> 00:50:43,760
+One guy, his name is Caucasus,
+One guy ... ... .. .. .. .. ?? ? ? ?? .. .. ?? ?? … .. ?? ... .. .. .. {
+
+861
+00:50:44,520 --> 00:50:47,660
+he decides, I can't run away, because
+他决定，我要跑到...??
+
+862
+00:50:47,660 --> 00:50:52,060
+I run away, the army just marches into Rome and kills everyone.
+...
+
+863
+00:50:52,420 --> 00:50:55,400
+So he descends, he decides to make a last stand, and
+翻译成中文
+
+864
+00:50:55,400 --> 00:50:58,600
+it's it's just one guy there's one random guy okay
+...
+
+865
+00:50:58,600 --> 00:51:00,020
+and
+...
+
+866
+00:51:00,020 --> 00:51:03,500
+what he does is he starts shunning insults at
+what he does is he starts shunning insults at
+
+867
+00:51:03,500 --> 00:51:05,960
+the enemy army he's like you guys are
+the enemy army he's like you guys are
+
+868
+00:51:05,960 --> 00:51:09,560
+slaves we're Romans we will always be free
+奴隶们，我们是罗马人，...
+
+869
+00:51:09,560 --> 00:51:11,900
+and the enemy army and
+...
+
+870
+00:51:11,900 --> 00:51:14,900
+like their spouses of them okay they have absolutely no idea what's
+像他们的配偶一样好， 他们有点儿…
+
+871
+00:51:14,900 --> 00:51:18,740
+going on this is one guy on a bridge shining insulting insulting them okay
+...
+
+872
+00:51:18,740 --> 00:51:22,880
+so they they freeze eventually they
+so...???
+
+873
+00:51:22,880 --> 00:51:26,460
+realize oh this guy is just distracting us
+?
+
+874
+00:51:26,460 --> 00:51:30,200
+because his friends the other soldiers are trying to cut down the bridge
+因为...??
+
+875
+00:51:30,200 --> 00:51:31,140
+so
+?
+
+876
+00:51:31,140 --> 00:51:33,900
+they run to him at this point to
+translations
+
+877
+00:51:33,900 --> 00:51:38,960
+up to other Romans okay two officers run besides cockles
+???
+
+878
+00:51:38,960 --> 00:51:42,520
+and together the three of them hold off the invading army together
+和他们三人一起抵挡入侵军队
+
+879
+00:51:42,520 --> 00:51:44,100
+okay with their shields they fight
+好，带着盾牌去战斗
+
+880
+00:51:44,100 --> 00:51:48,920
+for their lives eventually the bridge
+...
+
+881
+00:51:48,920 --> 00:51:53,760
+is about to be cut down okay the two officers are going to be shot down
+...
+
+882
+00:51:53,760 --> 00:51:57,100
+and they're going to be shot down and they're going to run away and cockles makes the last stand and
+...
+
+883
+00:51:57,100 --> 00:51:58,400
+the bridge falls and
+translations
+
+884
+00:51:58,400 --> 00:52:02,420
+what cockles does is before it falls completely he jumps into the Tiber
+translations
+
+885
+00:52:02,420 --> 00:52:05,480
+and he survives he doesn't drown
+and he surviveshe doesn't drown
+
+886
+00:52:05,480 --> 00:52:08,880
+so
+...
+
+887
+00:52:08,880 --> 00:52:13,340
+this tells us hey anyone can be
+this … ... … … 汉 ... ? … ?? ? 1 ? ... .. .. i ... ??? i ?? … i ??… i -… .. .. ??… .. i i … ... .. ??… ... ?? … i ???… i ... .. i {
+
+888
+00:52:13,340 --> 00:52:17,900
+a hero of Rome right it loses Brutus he's the king's nephew he's nobility
+...
+
+889
+00:52:17,900 --> 00:52:21,040
+but cockles he's just an ordinary Roman
+翻译成中文
+
+890
+00:52:21,040 --> 00:52:23,460
+who had the courage he had the
+who had the courage he had the
+
+891
+00:52:23,460 --> 00:52:27,860
+devotion to fight for Rome okay
+...
+
+892
+00:52:27,860 --> 00:52:31,400
+and by doing so with his devotion he's able to save Rome by himself
+翻译结果
+
+893
+00:52:31,400 --> 00:52:34,600
+so
+...
+
+894
+00:52:34,600 --> 00:52:37,200
+Rome right now is surrounded by this huge army
+Rome right now is surrounded by this huge army
+
+895
+00:52:37,200 --> 00:52:41,440
+and one young man his name is Musius
+...
+
+896
+00:52:41,440 --> 00:52:43,460
+and
+]}
+
+897
+00:52:43,460 --> 00:52:47,280
+he's a Roman nobleman okay he goes to the Senate
+...
+
+898
+00:52:47,280 --> 00:52:49,560
+and he says to the Senate, listen,
+翻译结果
+
+899
+00:52:49,800 --> 00:52:53,140
+we're being surrounded by an enemy army,
+we're being surrounded by an enemy army,
+
+900
+00:52:53,240 --> 00:52:54,800
+they're huge, we're starving to death.
+they're huge, we're starving to death.
+
+901
+00:52:55,260 --> 00:52:57,320
+I have a plan to win this war.
+我有一个计划来赢得这场战争。
+
+902
+00:52:58,060 --> 00:52:59,460
+I'm going to swim across the Tiber,
+我正好去游泳跨过提伯河。
+
+903
+00:53:00,380 --> 00:53:04,600
+sneak into the enemy camp and kill the enemy king and this war will end.
+...
+
+904
+00:53:05,320 --> 00:53:08,740
+The Senate gives Musias his approval and
+...
+
+905
+00:53:08,740 --> 00:53:10,520
+Musias sneaks into the enemy camp.
+Musias 轻轻进入敌营。
+
+906
+00:53:11,660 --> 00:53:16,240
+It's payday, which means the soldiers are getting their wages, right?
+它是个星期五，士兵们正好去发薪水。
+
+907
+00:53:17,100 --> 00:53:19,640
+Musias sneaks into the front and
+Musias 轻轻进入前方，...
+
+908
+00:53:19,640 --> 00:53:23,420
+he sees on the podium there are two individuals
+Mus...
+
+909
+00:53:23,420 --> 00:53:25,920
+who are giving out wages to the soldiers.
+谁在发给士兵的工资。
+
+910
+00:53:26,600 --> 00:53:28,800
+They both look like the king.
+他们都一样好像士兵的王
+
+911
+00:53:29,380 --> 00:53:31,420
+One's a king and one's a secretary.
+一个人是国王，另一个是秘书。
+
+912
+00:53:31,900 --> 00:53:36,300
+They look the same. Musias doesn't know who's the king and who's the secretary.
+他们看起来一样。
+
+913
+00:53:37,080 --> 00:53:40,720
+You know, at this point, an ordinary person would be like,
+913. 你知道，...???
+
+914
+00:53:40,840 --> 00:53:42,580
+I'll come back later, okay?
+]}We need to translate cues 913-915. Provide translations array with 3 strings. Use Chinese. Let's translate: cue 913:
+
+915
+00:53:42,800 --> 00:53:44,400
+Like, let me
+]}We need to produce translation. Let's craft:
+
+916
+00:53:44,820 --> 00:53:47,700
+figure it out, let me spy first and figure out who the king is and then
+...
+
+917
+00:53:47,700 --> 00:53:51,140
+when a better opportunity arises, I'll kill the king.
+...
+
+918
+00:53:52,260 --> 00:53:55,180
+Musias is like, it's 50 -50,
+...
+
+919
+00:53:55,340 --> 00:53:58,800
+man, so he takes his knife, rushes to the podium
+913 时 给我来 ...???
+
+920
+00:53:58,800 --> 00:54:01,440
+and stabs one other man
+and stabs one other man
+
+921
+00:54:01,440 --> 00:54:06,140
+who happens to be the secretary, okay?
+?
+
+922
+00:54:07,320 --> 00:54:10,820
+So, he's arrested and the king is now interrogating him.
+...
+
+923
+00:54:11,260 --> 00:54:13,800
+He wants to know if there are other spies in the camp.
+...
+
+924
+00:54:14,160 --> 00:54:16,320
+s s King says to Musias,
+翻译：
+
+925
+00:54:16,560 --> 00:54:20,300
+tell me the truth or I will burn you alive,
+925 译文
+
+926
+00:54:20,740 --> 00:54:25,020
+okay? And he shows Musias the pyre, okay, with this huge pyre.
+925 译后
+
+927
+00:54:25,560 --> 00:54:30,280
+Musias says, I am one of
+穆西亚斯说：我是一百个年轻罗马人之一
+
+928
+00:54:30,280 --> 00:54:33,340
+a hundred young Romans who
+Muscia
+
+929
+00:54:33,340 --> 00:54:36,640
+have pledged their lives to kill you to free Rome.
+已承诺献身以杀你，解放罗马。
+
+930
+00:54:37,120 --> 00:54:38,780
+He's lying. This is not true.
+他已在此作了两句。”
+
+931
+00:54:40,420 --> 00:54:44,140
+You kill me, there'll be 99 more, okay?
+你杀了我，等着吧，等着有一百个…
+
+932
+00:54:44,140 --> 00:54:47,500
+We are not afraid of you. You say you will burn me if I do not tell you the truth?
+我们不再…
+
+933
+00:54:48,240 --> 00:54:51,500
+Now what he does is he puts his hand into the fire.
+现在他把手放进火里
+
+934
+00:54:52,580 --> 00:54:55,060
+His hand is burning,
+翻译后...
+
+935
+00:54:55,620 --> 00:54:58,980
+okay? And he holds it together.
+好的，...
+
+936
+00:54:59,480 --> 00:55:02,040
+And what makes him hold it together is what he
+936. 先后...
+
+937
+00:55:02,040 --> 00:55:07,720
+sees is the face of Lucius Budus as he orders the execution of his two sons,
+看到的就是Luc Buddus的面容，...
+
+938
+00:55:07,860 --> 00:55:09,540
+right? Because
+...
+
+939
+00:55:09,540 --> 00:55:14,120
+ordering the execution of your two sons is a lot harder than burning.
+...
+
+940
+00:55:14,140 --> 00:55:15,560
+Than burning your hand alive, okay?
+...
+
+941
+00:55:15,720 --> 00:55:18,480
+Than burning your hand. And
+]}We have to translate cue [941]
+
+942
+00:55:18,480 --> 00:55:22,180
+the king, he looks at this and he thinks,
+...
+
+943
+00:55:22,240 --> 00:55:28,080
+the Romans are the craziest bastards I have ever met.
+...
+
+944
+00:55:28,500 --> 00:55:30,480
+Screw this, I'm going home.
+...
+
+945
+00:55:31,540 --> 00:55:34,440
+And he lets Musias go. And the war is over.
+...
+
+946
+00:55:36,440 --> 00:55:38,220
+Okay? And
+...
+
+947
+00:55:38,220 --> 00:55:41,900
+that's how the Roman Republic survived the invasion
+...
+
+948
+00:55:41,900 --> 00:55:43,860
+and became the Republic.
+and became the Republic.
+
+949
+00:55:50,160 --> 00:55:54,200
+Okay? So this is the history of Rome.
+好的？这就是罗马的历史。
+
+950
+00:55:54,740 --> 00:55:57,820
+And this history is something that
+好的，...
+
+951
+00:55:57,820 --> 00:56:00,020
+can be taught to anyone who becomes a citizen.
+可教给任何成为公民的人。
+
+952
+00:56:00,440 --> 00:56:03,960
+If you are a Roman, it's because you believe in this history.
+如果你是罗马人，那就是因为你相信这段历史。
+
+953
+00:56:04,280 --> 00:56:08,320
+Believing in this history, knowing this history is what makes you a Roman.
+相信这段历史，知道这段历史就是成为罗马人的关键。
+
+954
+00:56:09,640 --> 00:56:12,080
+Okay? So that's the first concept.
+好的？这就是第一个概念。
+
+955
+00:56:13,240 --> 00:56:14,700
+Piety. Loyalty to Rome.
+Piety...
+
+956
+00:56:14,860 --> 00:56:16,720
+Second concept that
+...
+
+957
+00:56:16,720 --> 00:56:22,040
+makes Rome unique or powerful is the idea of liberty.
+...
+
+958
+00:56:24,800 --> 00:56:28,240
+Okay? What Cogles did, what Musias did,
+OK? 这条????????????????????????????????????????????????
+
+959
+00:56:28,300 --> 00:56:32,300
+what Lucius Budus did was preserve the liberty of Rome.
+what Lucius Budus did was preserve the liberty of Rome.
+
+960
+00:56:32,680 --> 00:56:37,060
+Remember, what liberty means is respecting
+...
+
+961
+00:56:37,060 --> 00:56:39,860
+and following the laws, institutions,
+and following thelaws, institutions,
+
+962
+00:56:40,380 --> 00:56:42,220
+and history of Rome.
+...
+
+963
+00:56:42,340 --> 00:56:43,720
+Because that's what makes Rome.
+因为它们让我们有机会…
+
+964
+00:56:44,640 --> 00:56:46,380
+That's what allows you to have freedom.
+That's what allowsyou to have freedom.
+
+965
+00:56:47,320 --> 00:56:50,540
+Okay? And that's why, in 216,
+好的？ 这就是为什么在 216 年…
+
+966
+00:56:50,540 --> 00:56:53,920
+even though Hannibal had defeated the Romans, the Romans refused to surrender,
+...
+
+967
+00:56:54,100 --> 00:56:58,480
+because surrendering would mean surrendering their liberty, right?
+因为投降意味着他们的自由就要交给他，才是吧？
+
+968
+00:56:58,700 --> 00:57:01,640
+Because Hannibal would impose peace terms, that
+因为哈尼巴尔会给出发的...
+
+969
+00:57:01,640 --> 00:57:05,500
+would, that would make, basically, Rome into a clan state of Carthage.
+...
+
+970
+00:57:05,660 --> 00:57:08,200
+It would lose their liberty, right?
+...
+
+971
+00:57:08,340 --> 00:57:11,440
+If you don't have liberty, your life isn't worth living.
+如果你没能有自由，才会…
+
+972
+00:57:12,800 --> 00:57:14,240
+Give me life or give me liberty, okay? liberty.
+...
+
+973
+00:57:15,500 --> 00:57:19,300
+The third element of Roman greatness
+...
+
+974
+00:57:19,300 --> 00:57:22,680
+is the idea of rep this right Republica.
+...
+
+975
+00:57:23,240 --> 00:57:27,280
+So what this means is every nobleman
+所以这意味着每位贵族人
+
+976
+00:57:27,280 --> 00:57:31,960
+if you have the ability you want to serve Rome.
+如果你有能力就能去服务
+
+977
+00:57:32,640 --> 00:57:35,380
+So what they did was this they turn
+所以他们所做的就是把罗马政治变成一场竞争，产生最好的男人。
+
+978
+00:57:35,380 --> 00:57:36,800
+Roman politics into a
+So...??
+
+979
+00:57:36,800 --> 00:57:42,620
+competition to produce the best man.
+...
+
+980
+00:57:42,940 --> 00:57:45,540
+It was basically a meritocracy. So
+它基本是个功绩制。于是
+
+981
+00:57:45,540 --> 00:57:49,000
+once you have the financial means, you stood for election
+一旦有了财力，你就去竞选
+
+982
+00:57:49,000 --> 00:57:53,100
+and this system was basically a meritocracy.
+这套制度基本是个功绩制。
+
+983
+00:57:53,920 --> 00:57:56,780
+You first stood for election to become an adile
+...
+
+984
+00:57:56,780 --> 00:57:59,800
+and then you become a praetor and then you became a council.
+然后你成为执事官，然后你成为议员。
+
+985
+00:58:01,240 --> 00:58:05,960
+Once you were council, you had the opportunity to win the highest glory.
+一旦成为议员，你就有机会赢得最高荣誉。
+
+986
+00:58:06,940 --> 00:58:11,300
+What you could do is become a governor of a faraway province
+你可以成为远方省份的行政官
+
+987
+00:58:11,300 --> 00:58:14,500
+and if you are governor of this faraway province
+我想要...??
+
+988
+00:58:14,500 --> 00:58:17,340
+and you can win more territory for Rome
+和你可以为罗马赢得更多领土
+
+989
+00:58:17,340 --> 00:58:19,740
+then you'll be given something called a triumph.
+...
+
+990
+00:58:21,040 --> 00:58:25,500
+Triumph is a big parade
+胜利是一次大游行
+
+991
+00:58:25,500 --> 00:58:28,200
+where you're celebrated by all the Roman people.
+胜利之旅程
+
+992
+00:58:28,400 --> 00:58:33,300
+That's what every Roman soldier aspired to,
+...
+
+993
+00:58:33,360 --> 00:58:36,500
+to become a great general who would receive his own triumph
+...
+
+994
+00:58:36,500 --> 00:58:39,880
+because he's won new territory for Rome.
+因为他赢得了罗马的新领土
+
+995
+00:58:40,240 --> 00:58:43,500
+Okay and that's why even
+OK
+
+996
+00:58:43,500 --> 00:58:47,700
+though a third of the Roman Senate was wiped out by Hannibal,
+though a third of the Roman Senate was wiped out by Hannibal,
+
+997
+00:58:47,920 --> 00:58:50,080
+they didn't give up because
+...
+
+998
+00:58:50,080 --> 00:58:53,580
+the other people were like okay now here's my opportunity to prove myself.
+the other people were like okay now here's my opportunity to prove myself.
+
+999
+00:58:54,040 --> 00:58:57,080
+Right and one of these young people his name is Scipio,
+right?
+
+1000
+00:58:57,260 --> 00:59:00,500
+he would go on and
+他会继续去……
+
+1001
+00:59:00,500 --> 00:59:03,720
+lead an army into Spain, conquer Spain and
+他会去...
+
+1002
+00:59:03,720 --> 00:59:05,860
+then lead an army against Hannibal in North Africa.
+然后带领一支军队进攻北非的汉尼拔。
+
+1003
+00:59:05,860 --> 00:59:07,840
+In Carthage and destroy Hannibal.
+在卡尔塔格里，去往后方去！
+
+1004
+00:59:09,020 --> 00:59:13,520
+Okay, because
+OK
+
+1005
+00:59:13,520 --> 00:59:16,940
+the point of life is to receive the triumph
+...
+
+1006
+00:59:16,940 --> 00:59:21,060
+and if you receive the triumph then
+翻译结果
+
+1007
+00:59:21,060 --> 00:59:25,720
+you will be remembered by
+你会被...
+
+1008
+00:59:25,720 --> 00:59:30,160
+Romans in their history, which is what gives your life meaning.
+Romans in their history, whichis what gives your life meaning.
+
+1009
+00:59:32,060 --> 00:59:35,740
+Okay, alright so do we understand this?
+好的，接着说吧！
+
+1010
+00:59:35,760 --> 00:59:43,060
+Okay, so do we understand this? Go on,
+Okay, so do we understand this? Go on,
+
+1011
+00:59:43,100 --> 00:59:51,040
+move on,
+翻译结果
+
+1012
+00:59:51,040 --> 00:59:55,240
+move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on,
+move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on,move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on, move on,
+
+1013
+00:59:55,620 --> 00:59:58,640
+move on, move on, move on, move on, move on, move on, move on,
+...
+
+1014
+00:59:58,960 --> 01:00:02,340
+move on, move on, move on, move on,
+move on, move on, move on, move on,
+
+1015
+01:00:02,800 --> 01:00:05,660
+move on Judas's Buddhist over for the king,
+翻译结果
+
+1016
+01:00:05,760 --> 01:00:07,620
+and he established the Roman Republic.
+...
+
+1017
+01:00:08,280 --> 01:00:11,020
+The Roman Republic is now a nation of laws.
+The Roman Republic isnow a nation of laws.
+
+1018
+01:00:12,680 --> 01:00:15,600
+His two sons are princes, and
+His two sons areprinces, and
+
+1019
+01:00:15,600 --> 01:00:18,260
+they lost their privileges, so
+他们失去了特权，故
+
+1020
+01:00:18,260 --> 01:00:22,440
+they partake in this conspiracy to bring back the king, right?
+他们参与了这场谋划，想把王回到位上，没错吧？
+
+1021
+01:00:23,140 --> 01:00:26,220
+This conspiracy was discovered, and
+...
+
+1022
+01:00:26,220 --> 01:00:28,560
+as punishment, they were all sentenced to death,
+作为惩罚，他们全部被判处死刑，
+
+1023
+01:00:29,360 --> 01:00:32,040
+because they wanted to destroy the republic and bring back the king.
+因为他们想要去掉了它们的...
+
+1024
+01:00:33,140 --> 01:00:37,000
+Does that make sense? So,
+它们的确是...
+
+1025
+01:00:37,000 --> 01:00:39,840
+what the story, and again, we don't know if these stories are true.
+...
+
+1026
+01:00:39,900 --> 01:00:42,400
+They're probably not true, okay? What this story is telling us is,
+他们可能没几乎没几乎...??
+
+1027
+01:00:43,840 --> 01:00:46,480
+if the founder of the Roman Republic can sacrifice
+?
+
+1028
+01:00:46,480 --> 01:00:50,340
+his family in order to make sure the republic survives,
+1028 他的家族...??
+
+1029
+01:00:50,840 --> 01:00:54,860
+well, you can as well, okay? No sacrifice,
+?
+
+1030
+01:00:55,140 --> 01:01:01,080
+every sacrifice must be made to ensure Roman greatness.
+每一次祭祀都要为罗马之大成而作。
+
+1031
+01:01:02,040 --> 01:01:04,480
+That's basically the message, right?
+这就是了。
+
+1032
+01:01:04,560 --> 01:01:10,400
+Any more questions? That's a great question,
+翻译1
+
+1033
+01:01:10,480 --> 01:01:13,000
+okay? So, how do we know this? The answer is this,
+翻译后续”}
+
+1034
+01:01:13,480 --> 01:01:17,500
+for most of this time, this is what we call oral history,
+]}We need to produce translations for cues [1032], [1033], [1034]. Provide JSON with translations array. Let's translate. Use simplified Chinese. Ensure line breaks natural. Provide each translation string. Let's craft. [1032]
+
+1035
+01:01:18,900 --> 01:01:20,900
+okay, so this is, you know, mythology,
+...????????????????????????????????
+
+1036
+01:01:21,820 --> 01:01:26,320
+and it was basically passed from generation to generation.
+...????...??????????????????
+
+1037
+01:01:28,320 --> 01:01:31,880
+This oral history was written down in books,
+...??????..??..??..??..??..???
+
+1038
+01:01:31,980 --> 01:01:34,400
+okay, on the, But because Rome was at war so much,
+...
+
+1039
+01:01:34,540 --> 01:01:37,900
+Rome was conquered once
+...
+
+1040
+01:01:37,900 --> 01:01:42,520
+and Rome was burned down, and so we lost a lot of the written history.
+...
+
+1041
+01:01:43,520 --> 01:01:48,540
+Now the problem with oral history is there are different versions of oral history.
+...??...??..??..??..??...???
+
+1042
+01:01:48,760 --> 01:01:51,140
+So there are different versions of these stories.
+...??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..???
+
+1043
+01:01:51,980 --> 01:01:54,700
+And then a man named Livy,
+...??..??..?..??..??..??..??..?? ...??..??..??..??..??..??..??..??..??..??..???
+
+1044
+01:01:54,720 --> 01:01:59,780
+during the time of the Roman Empire,
+在罗马帝国时期，
+
+1045
+01:01:59,960 --> 01:02:05,720
+when it was first founded, he sat down to write the official history of Rome.
+当时在首次建成时，他坐下来写罗马官方历史。
+
+1046
+01:02:05,980 --> 01:02:08,980
+And this is where we get all these stories from.
+这就是我们从此处得到的所有故事。
+
+1047
+01:02:09,700 --> 01:02:13,680
+And again, we don't believe these stories to be that true.
+又一次，我们不认为这些故事是真的。
+
+1048
+01:02:15,300 --> 01:02:17,840
+Lucius Brutus was probably a real person, but
+Luc Br ?? ????????????????????????????????????????????????????
+
+1049
+01:02:17,840 --> 01:02:20,180
+whether or not he did these things, we don't know.
+???????????????????..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..??..JSON
+
+1050
+01:02:21,220 --> 01:02:24,900
+It's debatable. But
+可争议。 但
+
+1051
+01:02:24,900 --> 01:02:27,680
+what matters is, this is what Romans believed.
+这就是罗马人所信的。
+
+1052
+01:02:28,220 --> 01:02:32,000
+Do you understand? What matters is what they believed as opposed to what really happened.
+你明白吗？ 这才是要点。
+
+1053
+01:02:32,020 --> 01:02:35,280
+And this is what creates the Roman identity.
+并且这就是构成罗马身份的因素。
+
+1054
+01:02:36,840 --> 01:02:40,480
+Great. Any more questions?
+好，随时再问。
+
+1055
+01:02:42,540 --> 01:02:47,320
+Okay. So, yeah, I mean, that's basically it, okay?
+好的，先说一句：我先说一句。”
+
+1056
+01:02:47,440 --> 01:02:49,660
+This is what made Rome great, and
+这就是让罗马伟大的原因，且
+
+1057
+01:02:49,660 --> 01:02:53,120
+that's what allowed them to come back from the defeats
+这就是让他们从汉尼拔造成的败仗中归来并最终获胜的原因。
+
+1058
+01:02:53,120 --> 01:02:57,580
+that Hannibal inflicted on them to eventually win the war.
+that Hannibal inflicted on them to eventually win the war.
+
+1059
+01:02:59,040 --> 01:03:07,340
+Okay? Any more questions?
+好的？还有问题吗？
+
+1060
+01:03:10,460 --> 01:03:16,960
+Okay. I have a question about...
+好的，我有一个问题……
+
+1061
+01:03:20,140 --> 01:03:26,040
+I'm talking about how Rome built an 80,000 -year army.
+我在说的是罗马建造了80,000年军队。
+
+1062
+01:03:26,240 --> 01:03:28,300
+80,000 army against Hannibal, yes.
+80,000人的军队对阵汉尼拔，嗯？
+
+1063
+01:03:28,480 --> 01:03:31,060
+Yes. So, the Roman army...
+是的，回到…
+
+1064
+01:03:45,300 --> 01:03:48,000
+Okay. That's a great question, okay?
+好的，回到…
+
+1065
+01:03:48,080 --> 01:03:52,480
+So, like, you want to know more about Hannibal's invasion of Italy, right?
+所以，你想了解更多关于汉尼拔入侵意大利的事吗？
+
+1066
+01:03:52,900 --> 01:03:54,160
+Okay. All right.
+好的，没问题。
+
+1067
+01:03:56,840 --> 01:04:01,900
+So, Rome... What Rome is able to do is offer citizenship to anyone.
+所以，罗马……我想要给你们给我…
+
+1068
+01:04:02,020 --> 01:04:05,240
+Anyone who fights for Rome. And Rome has,
+任何人为罗马打战…
+
+1069
+01:04:05,600 --> 01:04:09,040
+for the longest time, been fighting its neighbors, right?
+...………………
+
+1070
+01:04:09,460 --> 01:04:11,140
+Once it conquered its neighbors,
+?……..???
+
+1071
+01:04:11,540 --> 01:04:15,340
+its neighbors promised to send soldiers to Rome in times of war.
+its neighbors promised to send soldiers to Rome in times of war.
+
+1072
+01:04:15,800 --> 01:04:21,460
+So, Rome is able to draw on soldiers from all around the Italian peninsula.
+好，罗马可从意大利半岛各处发兵。
+
+1073
+01:04:22,660 --> 01:04:25,740
+Okay? That's the first thing. Second thing is
+好吧！………
+
+1074
+01:04:25,740 --> 01:04:27,320
+that when
+那时…
+
+1075
+01:04:27,320 --> 01:04:30,760
+Hannibal invaded Italy,
+那时…
+
+1076
+01:04:32,180 --> 01:04:36,960
+he was doing so with many Gauls, okay?
+他正与许多高卢人一起行动，好吗？
+
+1077
+01:04:37,060 --> 01:04:38,620
+Who are the invaders of Italy.
+谁是那时的意大利发起的发起者。
+
+1078
+01:04:39,100 --> 01:04:43,220
+And these Gauls have traditionally been the enemy of the Italians.
+1078: 这几位高卢人一直以此为名，...??
+
+1079
+01:04:44,000 --> 01:04:45,900
+So, when Hannibal did so,
+?
+
+1080
+01:04:46,300 --> 01:04:51,220
+Rome's neighbors rallied to Rome's support,
+罗马的邻居们聚集在罗马的支持下，
+
+1081
+01:04:51,340 --> 01:04:53,900
+to support Rome. Okay? Because they saw the Gauls and
+罗马的地位…
+
+1082
+01:04:53,900 --> 01:04:58,000
+Hannibal as invaders who threatened their culture.
+汉尼拔作为入侵者，威胀了他们的...
+
+1083
+01:04:58,280 --> 01:05:01,340
+Okay? That's the second thing. The third thing is...
+汉尼...
+
+1084
+01:05:01,340 --> 01:05:05,920
+Okay. Hannibal had an invading army, right?
+好的。汉尼拔有一支进攻军队，对吗？
+
+1085
+01:05:06,240 --> 01:05:09,960
+But he had no organizational and logistic support.
+但他没有组织和物流支持。
+
+1086
+01:05:11,060 --> 01:05:12,520
+He had no food supply.
+他没有粮食。
+
+1087
+01:05:13,040 --> 01:05:15,360
+Because he was basically doing this on his own initiative.
+因为他基本上是自发起的。
+
+1088
+01:05:15,920 --> 01:05:17,820
+Carthage is too far away. Okay?
+卡尔塔格很远。
+
+1089
+01:05:18,420 --> 01:05:22,700
+And Rome had the best, like, navy in the Mediterranean.
+和...
+
+1090
+01:05:23,080 --> 01:05:28,200
+So, there was no way that Carthage could resupply Hannibal.
+...
+
+1091
+01:05:28,360 --> 01:05:30,700
+Sorry. There's no way Carthage could resupply Hannibal, right?
+...
+
+1092
+01:05:32,120 --> 01:05:35,780
+So, Hannibal was forced to spend a lot of his time foraging for food.
+因为你是军旅天才。但还要给军队补给。
+
+1093
+01:05:36,820 --> 01:05:39,620
+Do you understand? And that's ultimately why he lost the war.
+...????????..??..??..??..??..???
+
+1094
+01:05:39,900 --> 01:05:43,720
+Because it's possible for you to win all these battles
+..??..??..???
+
+1095
+01:05:43,720 --> 01:05:46,660
+because you're a military genius. But you still have to feed your soldiers.
+因为你是军旅天才。但你仍要给军队补给。
+
+1096
+01:05:47,660 --> 01:05:51,780
+And what Rome did after the Battle of Canaan was they recognized this fact.
+而后，罗马在战后…………………………………………………………………………………
+
+1097
+01:05:51,920 --> 01:05:56,780
+They recognized that Hannibal's main problem was logistics.
+……………………地……………………………………………
+
+1098
+01:05:56,780 --> 01:05:59,580
+And they started to not...
+他们开始不...
+
+1099
+01:05:59,580 --> 01:06:02,720
+They decided we will never fight Hannibal in a battle again.
+他们决定我们再也不再战斗哈尼拔。
+
+1100
+01:06:02,960 --> 01:06:04,440
+We will cut off his food supply.
+我们把他吃的食物吃了。
+
+1101
+01:06:04,740 --> 01:06:09,460
+Okay? And so, Hannibal had to spend most of his time foraging for food.
+好的？于是，汉尼拔需要把大部分时间用于采集食物。
+
+1102
+01:06:11,080 --> 01:06:15,220
+Meanwhile, Rome could rebuild itself by freeing its slaves. Okay?
+与此同时，罗马可通过自由放置的奴隶来重建。
+
+1103
+01:06:15,620 --> 01:06:21,120
+And by recruiting more neighbors to join their cause.
+再把……………………………………………………………
+
+1104
+01:06:21,940 --> 01:06:23,300
+Okay? Does that make sense?
+好的？这有道理吗？
+
+1105
+01:06:24,260 --> 01:06:25,660
+Okay. That's why...
+好的。那就是...
+
+1106
+01:06:27,440 --> 01:06:32,040
+That's why armies don't win wars.
+这就是为什么军队不赢得战争。
+
+1107
+01:06:32,400 --> 01:06:34,820
+Nations win wars. Does that make sense?
+...
+
+1108
+01:06:35,740 --> 01:06:38,260
+So, another thing that you need to understand is
+...
+
+1109
+01:06:38,260 --> 01:06:39,560
+while
+...
+
+1110
+01:06:39,560 --> 01:06:43,420
+Hannibal was winning glory in Italy,
+汉尼拔在意大利的胜利中...
+
+1111
+01:06:44,080 --> 01:06:47,540
+the kinds of elders in Carthage, were they happy about this, do you think?
+...
+
+1112
+01:06:50,260 --> 01:06:52,360
+These are business people, right? Are they happy about this?
+这些是商人，对吧？他们对此满意吗？
+
+1113
+01:06:52,660 --> 01:06:53,980
+They're not happy about this.
+他们对此不满意。
+
+1114
+01:06:53,980 --> 01:06:57,680
+Because one, they're not happy about this. And the other thing is, one, it's going to cost them a lot of money to continue the war.
+因为一，...
+
+1115
+01:06:58,120 --> 01:07:01,220
+And listen, Italy is poor.
+...
+
+1116
+01:07:01,380 --> 01:07:03,920
+So, there's no profit to be made from conquering Rome.
+1116 So, ...
+
+1117
+01:07:04,080 --> 01:07:06,060
+Okay? That's the first problem. Second problem is,
+]}We need to translate cue 1116:
+
+1118
+01:07:06,300 --> 01:07:10,100
+if Hannibal were to win glory in Italy,
+如果汉尼拔在意大利赢得荣耀，
+
+1119
+01:07:10,380 --> 01:07:12,940
+he would come back and become the king of Carthage, right?
+如果汉尼拔...
+
+1120
+01:07:13,640 --> 01:07:16,120
+Does that make sense? So,
+???
+
+1121
+01:07:16,120 --> 01:07:20,160
+Hannibal was being undermined by Carthage itself,
+??
+
+1122
+01:07:20,360 --> 01:07:24,260
+even though Hannibal was trying to save Carthage.
+1122 even ...
+
+1123
+01:07:25,400 --> 01:07:29,700
+Does that make sense? And that's what makes Rome unique.
+1123...
+
+1124
+01:07:32,240 --> 01:07:34,960
+Rome has been united for most of its history,
+1124...
+
+1125
+01:07:35,120 --> 01:07:39,260
+whereas most places like Greece and Carthage were divided into different political factions.
+在此时，...
+
+1126
+01:07:39,620 --> 01:07:45,140
+And that's what caused Carthage to ultimately be undermined.
+...
+
+1127
+01:07:45,420 --> 01:07:49,260
+So, ultimately, Rome was able to come back from the defeat
+...
+
+1128
+01:07:49,260 --> 01:07:52,140
+and defeat Carthage, because
+1128...
+
+1129
+01:07:52,140 --> 01:07:57,620
+Carthage, again, saw Hannibal as big a threat as Rome.
+112i...
+
+1130
+01:07:57,820 --> 01:08:00,860
+Okay? This would be costly for Carthage,
+..
+
+1131
+01:08:01,000 --> 01:08:04,020
+because after the war is over,
+1131
+
+1132
+01:08:04,160 --> 01:08:08,140
+50 years later, Rome,
+...
+
+1133
+01:08:08,900 --> 01:08:11,840
+a Roman senator named Cato the Elder, he visits Carthage
+...
+
+1134
+01:08:11,840 --> 01:08:15,100
+because he's curious what's happened to Carthage after the end of the war.
+因为他好奇战争结束后卡尔塔格发生了什么事。
+
+1135
+01:08:15,440 --> 01:08:18,620
+And to his dismay, and
+...
+
+1136
+01:08:18,620 --> 01:08:22,120
+to his shock, Carthage has become a great power.
+到他惊讶时，迦尔塔格已成为一大强国。
+
+1137
+01:08:22,120 --> 01:08:23,860
+It has become wealthier than ever before.
+它已变得更富裕，超过以前。
+
+1138
+01:08:24,640 --> 01:08:27,680
+Okay? 50 years of peace means that
+好的？50年和平意味着……
+
+1139
+01:08:27,680 --> 01:08:31,140
+Carthage is able to accumulate more wealth than ever before.
+...
+
+1140
+01:08:31,320 --> 01:08:32,700
+It has so much wealth that
+...
+
+1141
+01:08:32,700 --> 01:08:36,940
+it is able to pay off the indemnity
+...
+
+1142
+01:08:36,940 --> 01:08:38,320
+that Rome imposed on it.
+that Rome imposed on it.
+
+1143
+01:08:38,420 --> 01:08:40,660
+Okay? It's basically able to pay Rome off.
+好的，...
+
+1144
+01:08:40,980 --> 01:08:42,260
+And Cato the Elder,
+And Cato the Elder,
+
+1145
+01:08:42,520 --> 01:08:46,900
+he is traumatized by this.
+...
+
+1146
+01:08:47,080 --> 01:08:49,980
+He goes back to Rome and says, we have to destroy Carthage.
+He goes back to Rome and says, we have to destroy Carthage.
+
+1147
+01:08:50,920 --> 01:08:52,440
+Okay? There's a huge debate in the Senate.
+...
+
+1148
+01:08:52,820 --> 01:08:56,780
+He says, listen, if we let Carthage survive,
+他说：听着，如果我们让迦特拉存活，卡尔塔格会一直是我们的...
+
+1149
+01:08:57,220 --> 01:08:58,560
+Carthage will always be a threat to us.
+他...
+
+1150
+01:08:59,300 --> 01:09:03,980
+And the other senators were like, listen, Cato, I know you want to destroy Carthage,
+和其他参议员说：听着，卡托，知道我想要去掉卡尔塔格，但…
+
+1151
+01:09:05,140 --> 01:09:08,760
+but remember, Carthage threatens us.
+...
+
+1152
+01:09:10,160 --> 01:09:13,280
+If we destroy Carthage, we, Rome,
+如果我们摧毁迦特拉，罗马，将会有个…
+
+1153
+01:09:13,360 --> 01:09:15,720
+will no longer have an enemy.
+...
+
+1154
+01:09:16,500 --> 01:09:18,180
+We will no longer have a threat.
+我们将不再有威胁。
+
+1155
+01:09:21,440 --> 01:09:25,180
+We will change as a people if we destroy Carthage.
+我们将会变成…
+
+1156
+01:09:26,120 --> 01:09:28,300
+But Cato the Elder insisted. Eventually,
+但卡托老者坚持不懈。最终，
+
+1157
+01:09:28,600 --> 01:09:34,200
+an army was dispatched to destroy Carthage.
+一支军队被派遣去摧毁迦特拉。
+
+1158
+01:09:34,480 --> 01:09:40,300
+The Romans have a habit of always blaming the enemies for starting a war.
+罗马有时常把战争起因归咎于敌人。
+
+1159
+01:09:40,440 --> 01:09:42,100
+Okay? So they didn't want to instigate the war.
+好的，回到此时。”
+
+1160
+01:09:42,320 --> 01:09:46,600
+So they made up these dumb excuses and said that Carthage was violating the peace treaty.
+于是他俩又回到…
+
+1161
+01:09:47,140 --> 01:09:51,420
+And the Romans said to Carthage, listen, if you surrender all your weapons, you will not be able to destroy Carthage.
+...
+
+1162
+01:09:51,420 --> 01:09:57,300
+We will go away. The Carthaginians believed the Romans
+...
+
+1163
+01:09:57,300 --> 01:10:01,760
+and thought if they surrender all their weapons, they go away.
+如果他们把所有武器交给了，回到…
+
+1164
+01:10:02,640 --> 01:10:04,060
+The Romans got all these weapons.
+把…
+
+1165
+01:10:04,180 --> 01:10:06,180
+They were like, we didn't expect this, man.
+…
+
+1166
+01:10:06,820 --> 01:10:09,840
+So the Romans said to the Carthaginians, you know what?
+于是罗马人对迦巴人说：你们知道吗？
+
+1167
+01:10:11,020 --> 01:10:16,960
+We also need you to move your city from the coast 10 kilometers inland.
+我们也要把他（…）…
+
+1168
+01:10:17,720 --> 01:10:20,220
+Okay? And at this point, the Carthaginians knew.
+...
+
+1169
+01:10:21,420 --> 01:10:22,780
+Rome was going to destroy Carthage.
+罗马将要摧毁迦巴城。
+
+1170
+01:10:22,920 --> 01:10:24,420
+So there's a three -year siege.
+三年之久的围城。
+
+1171
+01:10:24,780 --> 01:10:28,800
+And then at the end of it, Rome conquered Carthage, killed everyone inside,
+随后在围城结束后，罗马又回到…
+
+1172
+01:10:29,240 --> 01:10:32,060
+enslaved others, burned all the books,
+奴隶化他人，焚烧所有书籍，并把迦巴从历史与史书中抹去。
+
+1173
+01:10:32,160 --> 01:10:36,160
+and wiped out Carthage from history as well as the history books.
+好，~！~ 这就是“罗马”之~！
+
+1174
+01:10:36,620 --> 01:10:39,280
+Okay? So that's a Roman mentality.
+Okay? So that'sa Roman mentality.
+
+1175
+01:10:40,660 --> 01:10:43,580
+Devotion means all or nothing.
+奉献就是全或全无。
+
+1176
+01:10:43,700 --> 01:10:48,080
+Okay? You don't surrender, but you also don't show mercy to your enemies.
+好的？我方能回到…
+
+1177
+01:10:49,180 --> 01:10:50,640
+Okay? So Hannibal was right.
+好的…
+
+1178
+01:10:51,020 --> 01:10:55,120
+Rome was a threat to Carthage.
+罗马是迦巴的威胁。
+
+1179
+01:10:55,540 --> 01:10:59,180
+But because Carthage has a merchant culture run by business people,
+因为有商人经营的商贸文化， 只要…
+
+1180
+01:10:59,400 --> 01:11:01,000
+they could never recognize the threat.
+...
+
+1181
+01:11:02,840 --> 01:11:05,080
+Does that make sense? All right.
+...
+
+1182
+01:11:07,100 --> 01:11:08,040
+Any more questions?
+...
+
+1183
+01:11:12,920 --> 01:11:16,420
+Good..
+...
+
+1184
+01:11:20,780 --> 01:11:24,720
+Public virtue. Yeah. .
+公共的美德。好吧。
+
+1185
+01:11:31,200 --> 01:11:33,000
+...
+...
+
+1186
+01:11:37,360 --> 01:11:41,360
+Okay. So why do people want to come to Rome?
+好的，为什么有点儿…
+
+1187
+01:11:41,500 --> 01:11:44,680
+Well, the fact of the matter is that for most of history,
+1187
+
+1188
+01:11:44,880 --> 01:11:46,400
+people didn't want to go to Rome.
+1188
+
+1189
+01:11:46,400 --> 01:11:48,580
+Because Rome was considered a,
+1189
+
+1190
+01:11:48,760 --> 01:11:52,340
+like for example, the Greeks didn't want to go to Rome
+比如说，希腊人不想去罗马
+
+1191
+01:11:52,340 --> 01:11:54,120
+because they thought Rome was uncivilized.
+因为他们以为罗马未必已得已得…
+
+1192
+01:11:55,380 --> 01:11:58,820
+But Romans wanted to go to Athens because they thought Athens was the height of civilization.
+但罗马人想去亚特斯…
+
+1193
+01:11:59,760 --> 01:12:02,560
+The Carthaginians certainly didn't want to go to Rome.
+卡塔格人当然不想去罗马。
+
+1194
+01:12:02,740 --> 01:12:05,040
+Okay? Rome was like Macedonia.
+好吧，罗马像是个…
+
+1195
+01:12:05,200 --> 01:12:06,740
+So basically like North Korea even.
+...
+
+1196
+01:12:06,860 --> 01:12:08,380
+You can even say it's like North Korea.
+你甚至可以说它像北韩。
+
+1197
+01:12:08,540 --> 01:12:12,040
+Okay? It's a militaristic society that's barbaric.
+好的？它是个军队化的百事，百事…
+
+1198
+01:12:12,560 --> 01:12:14,260
+Right? The Greeks like to watch theater.
+希腊人很…
+
+1199
+01:12:14,260 --> 01:12:17,840
+The Romans like to watch gladiator shows or lions eat people.
+罗马人喜欢观看角斗士表演或狮子吞食人类。
+
+1200
+01:12:17,940 --> 01:12:20,920
+Okay? So for most of its history,
+好吧，罗马的历史上大约一段时间里，...】}We need to translate cues 1199-1201. Provide array of translations in order. Each translation string may contain at most one newline. Use natural Chinese. Let's translate: cue 1199:
+
+1201
+01:12:21,060 --> 01:12:23,220
+people avoided Rome.
+? Actually cue 1199:
+
+1202
+01:12:23,620 --> 01:12:26,520
+When becoming a republic, you had no choice but
+当成为共和国时，你别无选择，只能去罗马，因为那是你建事业的路。
+
+1203
+01:12:26,520 --> 01:12:30,000
+to go to Rome because that's how you could build your career.
+罗马是世界之首都。
+
+1204
+01:12:30,220 --> 01:12:32,700
+It was the capital of the world.
+It was the capital of the world.
+
+1205
+01:12:33,860 --> 01:12:36,980
+Okay? Does that make sense?
+好的？那有道理吗？
+
+1206
+01:12:37,580 --> 01:12:41,560
+So another way of saying this is there were many people
+另外一种说法是：有许多人...
+
+1207
+01:12:41,560 --> 01:12:44,160
+who wanted to be Greek because they were attracted by the culture.
+...
+
+1208
+01:12:44,160 --> 01:12:46,080
+Nobody wanted to be Roman.
+没有人想成为罗马人。
+
+1209
+01:12:46,260 --> 01:12:49,220
+The Romans made everyone into a Roman through the conquest.
+罗马人通过征服把大家变成了罗马人。
+
+1210
+01:12:50,100 --> 01:12:52,580
+Okay? So
+好的？
+
+1211
+01:12:52,580 --> 01:12:56,840
+the Romans were repugnant in many ways.
+罗马人有多种方式显得可笑。
+
+1212
+01:12:57,020 --> 01:13:00,000
+Okay? They just were a repugnant people.
+好？他们就是那种可笑的族群。
+
+1213
+01:13:02,160 --> 01:13:07,100
+Okay. Any more questions?
+好。还有别的问法吗？
+
+1214
+01:13:14,820 --> 01:13:19,720
+Okay, great. So next class, it's a fun class, we do Julius Caesar. Okay?
+OK

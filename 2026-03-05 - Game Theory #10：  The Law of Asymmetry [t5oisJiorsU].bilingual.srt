@@ -1,0 +1,4504 @@
+1
+00:00:00,000 --> 00:00:05,000
+We continue our discussion of the U.S.-Iran war
+我们继续讨论正在进行的美伊战争
+
+2
+00:00:05,000 --> 00:00:06,920
+that is happening right now.
+正如你所知，我做出了预测
+
+3
+00:00:08,960 --> 00:00:12,340
+So, as you know, I made the prediction
+So, as you know, Imade the prediction
+
+4
+00:00:12,340 --> 00:00:15,100
+that the United States will lose this war.
+美国将会输掉这场战争。
+
+5
+00:00:15,320 --> 00:00:19,720
+And last class, we did an overview of the military
+上节课，我们对军事实力与战略位置做了概览。
+
+6
+00:00:19,720 --> 00:00:20,960
+and strategic position.
+and strategic position.
+
+7
+00:00:21,840 --> 00:00:23,000
+And today,
+今天，
+
+8
+00:00:23,180 --> 00:00:26,460
+we're going to provide some theoretical framework for
+我们将为
+
+9
+00:00:26,460 --> 00:00:29,740
+how to understand how this war will progress
+如何理解这场战争的进展提供一些理论框架
+
+10
+00:00:29,740 --> 00:00:34,020
+and why, ultimately, I believe the United States will lose this war.
+以及为什么，最终我认为美国会输掉这场战争。
+
+11
+00:00:34,560 --> 00:00:39,640
+Today, I present to you a very important idea in game theory.
+今天，我向你们介绍一个非常重要的博弈理论概念。
+
+12
+00:00:40,160 --> 00:00:41,720
+And once you understand this idea,
+一旦你们理解了这个概念，
+
+13
+00:00:42,200 --> 00:00:46,880
+you understand why things will turn out the way they do.
+你明白为什么事情会按那样发展。
+
+14
+00:00:47,020 --> 00:00:49,400
+It's called a law of asymmetry.
+这叫不对称定律。
+
+15
+00:00:50,200 --> 00:00:54,020
+Law. of asymmetry
+不对称定律。
+
+16
+00:00:54,020 --> 00:00:56,380
+and
+和
+
+17
+00:00:56,380 --> 00:00:58,660
+all this is saying is that
+这全部的意思是
+
+18
+00:00:58,660 --> 00:01:01,340
+the United States and
+美国和
+
+19
+00:01:01,340 --> 00:01:05,180
+Iran are not peers they're not
+伊朗不是同级的，他们不是同等的。
+
+20
+00:01:05,180 --> 00:01:10,360
+equals the United States is far stronger than Iran
+美国远比伊朗强大。
+
+21
+00:01:10,360 --> 00:01:13,980
+and we should expect the United States to overwhelm
+我们应该预料美国会压倒伊朗。
+
+22
+00:01:13,980 --> 00:01:18,940
+and destroy Iran really easily the law asymmetry states
+并且轻易摧毁伊朗，非对称法则说
+
+23
+00:01:18,940 --> 00:01:23,300
+that that's usually not the case it's usually underdog
+那通常不是这样，通常是弱者
+
+24
+00:01:23,300 --> 00:01:25,820
+that has the advantage
+那弱者拥有优势
+
+25
+00:01:25,820 --> 00:01:27,500
+and
+和
+
+26
+00:01:27,500 --> 00:01:31,960
+we see this from history all the time okay
+我们从历史中看到这一点，时间都一样，好的
+
+27
+00:01:31,960 --> 00:01:35,200
+so when the Persians in about 490
+于是当波斯人在大约490年
+
+28
+00:01:35,200 --> 00:01:39,220
+BC invaded mainland Greece against Athens
+BC入侵希腊本土对抗雅典
+
+29
+00:01:39,220 --> 00:01:42,080
+and Sparta Persia at this time at that
+以及斯巴达，波斯在此时已是...
+
+30
+00:01:42,080 --> 00:01:44,840
+time was the first world empire infinite
+此时是第一大帝国，万无穷
+
+31
+00:01:45,300 --> 00:01:48,300
+resources infinite mental resources and the only reason that Persia was able to conquer the Greek Empire was because of the power of the Persians and
+资源无穷，正是波斯人的力量让他们能征服希腊帝国，且波斯人拥有无穷的财富与力量
+
+32
+00:01:48,300 --> 00:01:52,480
+the power of the Persians and the power of the Persians and the power of the Persians and power infinite wealth and it lost to the Greeks not once
+波斯人的力量、波斯人的力量、波斯人的力量、波斯人的力量以及无穷的财富，正是他们能征服希腊的原因
+
+33
+00:01:52,480 --> 00:01:54,960
+but twice and and then
+两次而非一次，随后又…
+
+34
+00:01:54,960 --> 00:01:57,620
+the Macedonians under exit in the Greek and
+马其顿人在希腊时期的统治下
+
+35
+00:01:57,620 --> 00:02:03,220
+they were like a tribal army not a very large army they were able to go into Persia
+他们像部落军队，规模不大，却能进攻波斯
+
+36
+00:02:03,220 --> 00:02:07,380
+and Persia at the time was basically most of Eurasia
+当时波斯基本占领欧亚大陆
+
+37
+00:02:07,380 --> 00:02:09,500
+and conquered it in about ten years time
+并在大约十年内征服它
+
+38
+00:02:09,500 --> 00:02:14,780
+the Romans started off as a tribal people
+罗马人最初是部落民族
+
+39
+00:02:14,780 --> 00:02:18,240
+which then built the Mediterranean Empire
+随后便建立了地中海帝国
+
+40
+00:02:19,220 --> 00:02:22,420
+then you have the ex -ex you have so
+然后你就有了前后两次的出现，接着是…
+
+41
+00:02:22,420 --> 00:02:23,720
+the Vikings so
+维京人，呃…
+
+42
+00:02:23,720 --> 00:02:27,260
+this happens a lot in human history a
+这种情况在人的历史里经常出现
+
+43
+00:02:27,260 --> 00:02:30,300
+people in the borderlands a tribe a
+边境人群，部落民族，少数民族能征服大帝国
+
+44
+00:02:30,300 --> 00:02:34,820
+small ethnicity are able to conquer a great empire
+以及不对称定律告诉我们原因。
+
+45
+00:02:34,820 --> 00:02:39,520
+and the law asymmetry tells us why okay
+and the law asymmetry tells us why okay
+
+46
+00:02:39,520 --> 00:02:42,700
+so I'm gonna go over the very slowly in detail
+于是我会慢慢细细讲一遍
+
+47
+00:02:42,700 --> 00:02:46,680
+how this law symmetry asymmetry works all right
+这条对称律是怎么运作的，先说说吧
+
+48
+00:02:46,680 --> 00:02:50,060
+so let's look at an empire
+那我们先来看看一个帝国
+
+49
+00:02:50,060 --> 00:02:52,620
+and
+和
+
+50
+00:02:52,620 --> 00:02:56,520
+there are three major advantages to
+有三个主要优势
+
+51
+00:02:56,520 --> 00:03:01,980
+an empire all right the first is mass this just means
+一个帝国，首先是规模
+
+52
+00:03:01,980 --> 00:03:05,680
+that they have a lot of people okay they always have an even amount of people
+他们有很多人，大家都知道美国人口大约三千五百万
+
+53
+00:03:05,680 --> 00:03:08,960
+so United States has a population of about 350 million people
+美国人口约三千五百万
+
+54
+00:03:08,960 --> 00:03:13,960
+but remember the United States can also draw on the populations of its allies
+美国还可以调动其盟友的人口
+
+55
+00:03:13,960 --> 00:03:17,020
+which includes the five eyes the Anglosphere but
+包括五眼联盟、英联圈；又包括欧洲；又包括东亚、韩国、日本。
+
+56
+00:03:17,020 --> 00:03:19,220
+also includes Europe it also includes
+包括五眼联盟、英联圈；又包括欧洲；又包括东亚、韩国、日本。
+
+57
+00:03:19,220 --> 00:03:22,520
+East Asia South Korea Japan
+包括五眼联盟、英联圈；又包括欧洲；又包括东亚、韩国、日本。
+
+58
+00:03:22,520 --> 00:03:27,280
+basically wherever the Americans have a military base all right
+基本上美国在任何有军事基地的地方都能发挥作用
+
+59
+00:03:27,280 --> 00:03:32,020
+so most of the world are either allies of the United States or vassals United States
+因此世界大部分要么是美国的盟友，要么是其附庙国
+
+60
+00:03:32,020 --> 00:03:34,900
+so the United States can basically draw on in billions and
+美国可以从这些地方调动数十亿人
+
+61
+00:03:34,900 --> 00:03:38,300
+billions of people for its wars okay
+数十亿人参与其战争
+
+62
+00:03:38,300 --> 00:03:40,880
+so it's mass second is the idea of organization
+于是它的规模第二点是组织的概念
+
+63
+00:03:44,520 --> 00:03:47,440
+organization just means a hierarchy of brokers
+组织仅仅是指代理层级
+
+64
+00:03:47,440 --> 00:03:48,700
+and elite that
+和精英那
+
+65
+00:03:48,700 --> 00:03:52,300
+allows you to organize your resources
+让你能组织资源
+
+66
+00:03:52,300 --> 00:03:55,860
+and your people in order to generate wealth
+以及人力以产生财富
+
+67
+00:03:55,860 --> 00:03:59,220
+which is basically scientific technology okay science
+它基本上是科学技术，科学与技术
+
+68
+00:03:59,220 --> 00:04:02,760
+and technology which
+以及技术，导致最先进的武器
+
+69
+00:04:02,760 --> 00:04:05,140
+leads to the most advanced weaponry okay so
+于是组织和
+
+70
+00:04:05,140 --> 00:04:08,260
+think about the United States how they fight this war they have these satellites
+想想美国是怎么打这场战争的，他们有这些卫星，能精准打击
+
+71
+00:04:08,260 --> 00:04:10,420
+that provide for precision targeting
+他们还有这些飞机，B‑2轰炸机、F‑15战机…
+
+72
+00:04:11,260 --> 00:04:15,960
+they have these airplanes these b -2 bombers f -15s
+they have these airplanesthese b -2 bombers f -15s
+
+73
+00:04:15,960 --> 00:04:17,260
+that are the most advanced
+那是人类历史上最先进的武器
+
+74
+00:04:18,420 --> 00:04:21,620
+weaponry ever in human history okay
+所以组织和…
+
+75
+00:04:21,620 --> 00:04:23,680
+so organization and
+so organizationand
+
+76
+00:04:23,680 --> 00:04:27,700
+the last great strength of the Empire
+帝国的最后一次伟大力量
+
+77
+00:04:27,700 --> 00:04:33,340
+is the idea of death death is the idea
+是死亡的概念，死亡就是概念
+
+78
+00:04:33,340 --> 00:04:36,960
+that because your people are infinite
+因为你们的人是无穷的
+
+79
+00:04:36,960 --> 00:04:39,900
+because your organization is so strong because
+因为你的组织很强大，因而…
+
+80
+00:04:39,900 --> 00:04:41,400
+your resources are so
+你的资源很…
+
+81
+00:04:41,400 --> 00:04:45,060
+vast you can afford to lose many many wars
+广阔，你可以承受多场战争的失败
+
+82
+00:04:45,060 --> 00:04:48,500
+okay it's not a big deal the United States loses this
+好的，没什么大事，美国在伊朗战役中输了，如果他们想回来……
+
+83
+00:04:48,500 --> 00:04:51,320
+war in Iran if they want to go back they
+他们可以带着更多士兵、更多武器回来……
+
+84
+00:04:51,320 --> 00:04:56,200
+can go back with even more soldiers even more weaponry
+can go back with even moresoldiers even more weaponry
+
+85
+00:04:56,200 --> 00:05:00,120
+because their wealth is infinite okay
+因为他们的财富无限，好的
+
+86
+00:05:00,120 --> 00:05:04,840
+so these are the three major advantages of an empire
+所以这就是帝国的三大优势
+
+87
+00:05:04,840 --> 00:05:06,780
+and in theory because
+而且理论上因为
+
+88
+00:05:06,780 --> 00:05:10,740
+of these advantages an empire should be
+这些优势中，帝国应该是无敌可战、永恒不灭的，但
+
+89
+00:05:11,880 --> 00:05:15,240
+invincible and eternal but
+我们知道的事实是…
+
+90
+00:05:15,240 --> 00:05:17,960
+we know for a fact that
+we know for a fact that
+
+91
+00:05:17,960 --> 00:05:20,180
+all empires fall and
+所有帝国都会落败，且
+
+92
+00:05:20,180 --> 00:05:22,400
+they fall very very hard and
+它们的崩溃非常猛烈，且
+
+93
+00:05:22,400 --> 00:05:25,380
+quite honestly they don't last a very long time
+说实它们的寿命不算长
+
+94
+00:05:25,380 --> 00:05:30,540
+maybe 20 years maybe three years for most empires that's not a very long time
+也许20年，也许三年，对大多数帝国来说并不算很长的时间
+
+95
+00:05:30,540 --> 00:05:31,800
+so
+于是
+
+96
+00:05:31,800 --> 00:05:36,620
+we need to better understand what's going on okay why is it
+我们需要更好地理解发生了什么事
+
+97
+00:05:36,620 --> 00:05:40,900
+that an empire with these vast resources they all fall
+那种拥有这些庞大资源的帝国最终会在二十年、三十年内落败
+
+98
+00:05:41,540 --> 00:05:43,580
+in 20 years, 30 years, okay?
+二十年、三十年，明白吗
+
+99
+00:05:43,720 --> 00:05:45,120
+All right, so
+好的，接下来我来解释一下
+
+100
+00:05:45,120 --> 00:05:49,500
+what we need to understand is
+我们需要理解的是
+
+101
+00:05:49,500 --> 00:05:53,800
+that all these advantages are ultimately disadvantages in the long term,
+这些优势最终在长期内变成劣势，
+
+102
+00:05:53,900 --> 00:05:55,620
+all right? So let me explain what I mean.
+好的？让我来解释一下我的意思。
+
+103
+00:05:56,300 --> 00:05:58,660
+Math, you have a lot of people, okay?
+数学，你有很多人，明白吗？
+
+104
+00:05:58,860 --> 00:06:02,880
+When you have a lot of people, you create a lot of inequality.
+当你有很多人时，你就会产生很多不平等。
+
+105
+00:06:05,880 --> 00:06:09,740
+Why? Because there's competition for resources.
+为什么？因为资源竞争导致的。
+
+106
+00:06:09,740 --> 00:06:12,180
+There's too many people, okay?
+人太多了，明白吗？
+
+107
+00:06:12,300 --> 00:06:15,140
+And this often leads to debt and slavery.
+并且这常导致债务与奴役。
+
+108
+00:06:18,940 --> 00:06:22,760
+And as a result, your people become complacent,
+于是你的民众便会自满而安。
+
+109
+00:06:23,140 --> 00:06:24,360
+lazy, indifferent.
+懒散，漠然。
+
+110
+00:06:24,760 --> 00:06:26,320
+They're competing against each other.
+他们相互竞争。
+
+111
+00:06:26,400 --> 00:06:27,700
+They really don't like the government, okay?
+他们真的不喜欢政府，明白吗？
+
+112
+00:06:27,900 --> 00:06:32,560
+So they're not really that motivated to do anything,
+于是他们并不真正有动力去做任何事。
+
+113
+00:06:33,320 --> 00:06:36,040
+to work or to fight wars, but especially to fight wars.
+去工作或打仗，但尤其是打仗。
+
+114
+00:06:36,600 --> 00:06:40,400
+So this math looks like an advantage in the beginning,
+所以这算式在开始时看起来像是优势。
+
+115
+00:06:40,560 --> 00:06:42,520
+but over time, it becomes a disadvantage,
+但随着时间推移，它变成了劣势，
+
+116
+00:06:42,980 --> 00:06:47,540
+all right? Organization means an elite.
+对了吧？组织即是精英。
+
+117
+00:06:48,240 --> 00:06:51,040
+The problem with this is
+问题在于
+
+118
+00:06:51,040 --> 00:06:55,380
+that over time, the elite become parasites.
+随着时间推移，精英变成寄生者。
+
+119
+00:06:57,500 --> 00:07:02,020
+Why? Because the way they make their money is through rent -seeking.
+为什么？因为他们赚钱的方式是租金寻求。
+
+120
+00:07:03,260 --> 00:07:06,480
+Rent -seeking just means that you have power
+租金寻求就是指你拥有权力。
+
+121
+00:07:06,480 --> 00:07:09,500
+and you seek to monetize your power.
+并且你想把自己的权力变成金钱。
+
+122
+00:07:09,520 --> 00:07:12,460
+And you seek to monetize your power by exploiting the mass.
+并且你想把自己的权力变成金钱，靠掠夺大众来实现。
+
+123
+00:07:13,740 --> 00:07:15,000
+All right? So basically,
+对了吧？所以基本上，
+
+124
+00:07:15,060 --> 00:07:19,920
+landlords are a classic type of rent -seeking elite.
+地主是典型的租金寻求精英。
+
+125
+00:07:20,280 --> 00:07:22,880
+And so they don't really work, but
+于是他们不真正工作，但……
+
+126
+00:07:22,880 --> 00:07:26,020
+they make a lot of money because they own the land, because
+他们因为拥有土地而赚了很多钱。
+
+127
+00:07:26,020 --> 00:07:28,980
+they control all the resources, because they control all the capital.
+他们掌握所有资源，因为他们掌握所有资本。
+
+128
+00:07:29,160 --> 00:07:33,900
+And that forces the mass to go into slavery, to go into debt, which is what's happening in America today.
+于是大众被迫进入奴役、债务，这正是美国今天的现状。
+
+129
+00:07:34,360 --> 00:07:39,000
+The problem with this is that everyone wants to be part of the elite.
+问题是人人都想成为精英。
+
+130
+00:07:39,520 --> 00:07:43,340
+And there are too many elite over time, okay?
+于是又有太多的精英，行吗？
+
+131
+00:07:43,440 --> 00:07:46,660
+So even though the elite have many, many kids,
+所以即使精英有很多很多孩子，
+
+132
+00:07:47,440 --> 00:07:49,940
+the power is a zero -sum game.
+权力是零和游戏。
+
+133
+00:07:49,980 --> 00:07:54,440
+It's a hierarchy. And so this leads to the idea of elite overproduction,
+它是一个层级结构。于是这导致了精英过度生产的概念，
+
+134
+00:07:54,880 --> 00:07:56,680
+okay? Elite overproduction.
+好吧？精英过度生产。
+
+135
+00:07:58,120 --> 00:08:02,560
+This is a term coined by the historian Peter Turchin,
+这是历史学家彼得·图尔奇恩创造的术语。
+
+136
+00:08:02,640 --> 00:08:05,580
+okay? And his theory is that
+好吧？他的理论是……
+
+137
+00:08:05,580 --> 00:08:08,720
+you have turmoil, you have wars,
+你有动荡，你就有战争，
+
+138
+00:08:12,620 --> 00:08:17,860
+war, war,
+战争，战争
+
+139
+00:08:18,320 --> 00:08:19,940
+war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war, war,
+战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战,战
+
+140
+00:08:20,020 --> 00:08:28,020
+war, war,
+战，战，
+
+141
+00:08:28,020 --> 00:08:31,820
+war, war, war, war, war, war, war, war,
+战，战，战，战，战，战，战，战，
+
+142
+00:08:31,960 --> 00:08:40,320
+war okay
+战争，好吗
+
+143
+00:08:40,320 --> 00:08:43,340
+so another saying this is that
+于是又有人说这就是
+
+144
+00:08:43,340 --> 00:08:47,040
+an empire over time becomes insular they don't care about what
+一个帝国随着时间变得孤岛化，他们不关心外部世界的事；他们只关心华盛顿的事。
+
+145
+00:08:47,040 --> 00:08:50,380
+happens outside the world all they care about is what happens in Washington DC
+happens outside the world all they careabout is what happens in Washington DC
+
+146
+00:08:50,380 --> 00:08:51,840
+and
+和
+
+147
+00:08:51,840 --> 00:08:56,400
+as a result they make a lot of stupid mistakes okay
+于是他们犯了许多愚蠢的错误，好吗
+
+148
+00:08:57,100 --> 00:09:01,380
+right the last thing is death okay the problem with death is
+好了，最后一件事是死亡，好吗？死亡的问题是
+
+149
+00:09:01,380 --> 00:09:04,000
+that if there are no consequences to your
+如果你的行为没有后果的话
+
+150
+00:09:04,000 --> 00:09:08,400
+actions you become arrogant you become lazy
+行动让你自大、懒惰
+
+151
+00:09:08,400 --> 00:09:11,980
+and you become incompetent okay
+并且你变得无能，好吗
+
+152
+00:09:11,980 --> 00:09:14,500
+because you don't care it doesn't really matter
+因为你不在乎，没什么大不了
+
+153
+00:09:14,500 --> 00:09:15,420
+let's lease the idea
+让我们租个想法
+
+154
+00:09:15,420 --> 00:09:20,820
+of hubris okay hubris
+自大，好自大
+
+155
+00:09:20,820 --> 00:09:25,260
+is just blindness to your own arrogance of violent arrogance
+只是对自己大而已的盲目，才是大而已的盲目
+
+156
+00:09:25,260 --> 00:09:28,320
+that makes you make silly mistakes
+那使你犯愚蠢的错
+
+157
+00:09:28,320 --> 00:09:30,600
+but you don't recognize your mistakes and
+但你却不认识自己的错误并且不断重复同样的错误，直至一辈又一辈，好吗？
+
+158
+00:09:30,600 --> 00:09:35,360
+you keep on repeating the same mistakes throughout your life over and over again, right?
+于是，帝国似乎无敌可战，看来是如此吧？
+
+159
+00:09:35,440 --> 00:09:39,160
+So yes, it seems like the empire is invincible,
+So yes, it seems like the empire is invincible,
+
+160
+00:09:39,500 --> 00:09:42,200
+but if you actually think about it,
+但如果你真正思考它，
+
+161
+00:09:42,790 --> 00:09:46,600
+the empire, its advantages becomes over time,
+帝国的优势随时间而增大，
+
+162
+00:09:46,800 --> 00:09:48,860
+its disadvantages, which
+它的劣势则随之而增大
+
+163
+00:09:48,860 --> 00:09:52,340
+will lead ultimately to its downfall, okay?
+最终会导致其衰落，好吗？
+
+164
+00:09:52,440 --> 00:09:54,880
+So the mass leads to inequality,
+于是规模导致不平等，
+
+165
+00:09:55,400 --> 00:09:58,080
+the organization leads to overproduction,
+组织导致过度产出，
+
+166
+00:09:58,280 --> 00:10:01,580
+which leads to factionalism, and death leads to hubris.
+导致分裂，死亡则导致自大。
+
+167
+00:10:02,320 --> 00:10:05,240
+That's why an empire must fall over time.
+这就是帝国随时间必然衰落的原因。
+
+168
+00:10:06,500 --> 00:10:08,380
+But an empire cannot fall by itself.
+但帝国本身并不能自衰落。
+
+169
+00:10:08,580 --> 00:10:12,660
+It needs an enemy that forces it to collapse, okay?
+它需要一个敌人来迫使它崩溃，好吗？
+
+170
+00:10:13,260 --> 00:10:16,720
+And so what happens is that an enemy will emerge
+于是发生的事是会出现一个敌人
+
+171
+00:10:17,240 --> 00:10:20,580
+that will overwhelm the empire
+这个敌人将会压倒帝国
+
+172
+00:10:20,580 --> 00:10:25,020
+because it is able to take advantage of the weaknesses of the empire,
+因为它能利用帝国的弱点，
+
+173
+00:10:25,220 --> 00:10:27,340
+right? And so
+对吧？于是
+
+174
+00:10:27,340 --> 00:10:30,100
+what are the weaknesses of this empire?
+这个帝国的弱点是什么？
+
+175
+00:10:30,640 --> 00:10:33,480
+Well, the first major weakness of this empire is that
+好吧，这个帝国的第一个主要弱点是……
+
+176
+00:10:33,480 --> 00:10:36,040
+the people aren't really motivated.
+人们并不真正有动力。
+
+177
+00:10:36,420 --> 00:10:40,620
+So you, as people, are really motivated, you have a huge advantage, okay?
+所以你们，作为人民，真的很有动力，你们有很大的优势，好吗？
+
+178
+00:10:40,820 --> 00:10:46,740
+We call this energy. All right?
+我们把这叫做能量。好吗？
+
+179
+00:10:47,680 --> 00:10:50,520
+Now, as an empire, you become insular.
+现在，作为一个帝国，你变得孤岛化。
+
+180
+00:10:50,900 --> 00:10:53,460
+You refuse to admit your mistakes.
+你拒绝承认自己的错误。
+
+181
+00:10:53,540 --> 00:10:54,740
+You refuse to learn from others.
+你不愿意向他人学习。
+
+182
+00:10:56,020 --> 00:10:59,620
+Well, if you are willing to admit your mistakes,
+好吧，如果你愿意承认自己的错误，
+
+183
+00:10:59,840 --> 00:11:01,100
+if you're willing to learn,
+如果你愿意学习，
+
+184
+00:11:01,100 --> 00:11:04,760
+if you're willing to promote the best
+如果你愿意推广最优秀的
+
+185
+00:11:04,760 --> 00:11:08,120
+and brightest, if you're willing to be meritocratic, you have a huge advantage, okay?
+和最聪明的，若你愿意实行功绩制，你就拥有巨大的优势，好的？
+
+186
+00:11:08,300 --> 00:11:09,600
+And so this idea of openness.
+于是这就是开放性的想法。
+
+187
+00:11:13,680 --> 00:11:15,040
+Now, the last idea is this.
+现在，最后一个想法是这个。
+
+188
+00:11:15,340 --> 00:11:17,100
+An empire, it's fractured.
+一个帝国，它已经分裂。
+
+189
+00:11:17,780 --> 00:11:20,520
+So if you're able to maintain cohesion,
+所以如果你能保持团结，
+
+190
+00:11:22,280 --> 00:11:26,280
+if people are able to remain united, if they're able to have a common purpose,
+如果人们能保持团结，若他们能有共同目标，
+
+191
+00:11:27,500 --> 00:11:30,200
+they will be strong, okay? So,
+他们就会强大，好的？所以，
+
+192
+00:11:30,200 --> 00:11:34,680
+you know, if an enemy of the empire emerges with these three qualities, energy,
+你知道，如果一个帝国的敌人出现并具备这三种特质，能量，
+
+193
+00:11:35,040 --> 00:11:39,420
+openness, and cohesion, this enemy will defeat the empire.
+开放与团结，这个敌人将击败帝国。
+
+194
+00:11:40,320 --> 00:11:42,120
+It doesn't make sense, okay?
+不太通顺，好吗？
+
+195
+00:11:42,300 --> 00:11:47,760
+So what I want you to focus on as you follow the news in this war between United States
+所以我想让你在关注这场美中战争的新闻时聚焦于此。
+
+196
+00:11:47,760 --> 00:11:49,340
+and Iran is ask yourself a question.
+伊朗也请你自己问一个问题。
+
+197
+00:11:50,260 --> 00:11:54,660
+Will Iran become an energetic, open, and cohesive society?
+伊朗会成为一个充满活力、开放且团结的社会吗？
+
+198
+00:11:55,560 --> 00:11:59,080
+Because if it does, it will become invincible.
+如果是，它就会变得无敌可战。
+
+199
+00:11:59,980 --> 00:12:03,340
+The empire won't change because of hubris.
+帝国因自负而不变。
+
+200
+00:12:03,820 --> 00:12:05,480
+It's too static.
+它太静止。
+
+201
+00:12:05,640 --> 00:12:07,320
+It's too stagnant, too bureaucratic.
+它太停滞，太官僚。
+
+202
+00:12:07,480 --> 00:12:08,860
+So the empire won't change.
+于是帝国不变。
+
+203
+00:12:09,140 --> 00:12:11,220
+The empire will not admit its own mistakes.
+帝国不会承认自己的错误。
+
+204
+00:12:12,160 --> 00:12:13,660
+And quite honestly, Iran,
+而且，伊朗，
+
+205
+00:12:14,020 --> 00:12:17,260
+because it's still a country of 92 million people,
+因为它仍是一个9200万人的国家，
+
+206
+00:12:17,500 --> 00:12:21,140
+it still suffers from issues of mass organization and death.
+它仍然面临大规模组织与死亡问题，
+
+207
+00:12:22,220 --> 00:12:26,680
+And so if it's able to transform itself into an energetic,
+于是若它能把自己转变为充沛的国家，
+
+208
+00:12:26,880 --> 00:12:29,060
+open, and cohesive society, then it will be invincible.
+开放且团结的社会，便会无敌可战。
+
+209
+00:12:29,060 --> 00:12:31,580
+It will triumph over America.
+它将战胜美国。
+
+210
+00:12:31,820 --> 00:12:36,560
+That is the fundamental question in this war, okay?
+这就是这场战争的根本问题，行吗？
+
+211
+00:12:36,800 --> 00:12:40,700
+Don't worry about America, its technology.
+别担心美国的技术。
+
+212
+00:12:41,200 --> 00:12:42,980
+Don't worry about the economy.
+别担心经济。
+
+213
+00:12:43,340 --> 00:12:44,620
+Don't worry about these things, okay?
+别担心这些事，行吗？
+
+214
+00:12:45,300 --> 00:12:47,860
+Just ask yourself one question.
+只需问自己一个问题。
+
+215
+00:12:48,420 --> 00:12:52,020
+Is Iran transforming as a society?
+伊朗正以社会的方式转型吗？
+
+216
+00:12:52,280 --> 00:12:54,440
+Are people becoming much more motivated?
+人们的积极性是否大幅提升？
+
+217
+00:12:55,560 --> 00:12:59,040
+Are people in Iran learning from their mistakes?
+伊朗人们在从错误中学习吗？
+
+218
+00:12:59,060 --> 00:13:02,180
+And innovating and becoming resilient on the battlefield?
+并在战场上创新并变得更有韧性吗？
+
+219
+00:13:03,400 --> 00:13:06,460
+Are the Iranians sticking together as a people?
+伊朗人们作为一个民族团结在一起吗？
+
+220
+00:13:06,780 --> 00:13:10,540
+Okay? Because if the answer is yes to all three questions,
+好的？因为如果对这三个问题都回答是，伊朗就会赢，美方就会输。好的？这样说对吗？没问题。
+
+221
+00:13:10,740 --> 00:13:13,760
+then Iran will win and America will lose.
+好的？因为如果对这三个问题都回答是，伊朗就会赢，美方就会输。好的？这样说对吗？没问题。
+
+222
+00:13:14,580 --> 00:13:17,040
+Okay? Does that make sense? All right.
+好的？因为如果对这三个问题都回答是，伊朗就会赢，美方就会输。好的？这样说对吗？没问题。
+
+223
+00:13:17,840 --> 00:13:19,860
+So that's just a theory. So
+于是这只是个理论。于是
+
+224
+00:13:19,860 --> 00:13:23,500
+let's now talk
+接下来我们来聊聊
+
+225
+00:13:23,500 --> 00:13:27,860
+specifically about America and Iran, okay?
+具体说说美国和伊朗，好吗？
+
+226
+00:13:27,860 --> 00:13:32,200
+So America will have three
+于是美国在这场战争中将拥有三大优势，好的？
+
+227
+00:13:32,200 --> 00:13:36,700
+major advantages in this war, okay?
+这三大优势当然是，
+
+228
+00:13:36,840 --> 00:13:39,220
+These three advantages are, of course,
+These three advantages are, of course,
+
+229
+00:13:39,860 --> 00:13:44,080
+technology, propaganda,
+技术，宣传，
+
+230
+00:13:44,300 --> 00:13:48,200
+and
+和
+
+231
+00:13:48,200 --> 00:13:49,920
+money, wealth.
+金钱，财富。
+
+232
+00:13:51,540 --> 00:13:56,840
+These are the three major strengths of the American empire.
+这些是美国帝国的三大优势。
+
+233
+00:13:57,860 --> 00:14:01,120
+All right? Technology is just what you see every day, right?
+好的？技术就是你每天看到的东西，对吧？
+
+234
+00:14:01,420 --> 00:14:04,740
+The satellites that are able to position,
+能够定位的卫星，
+
+235
+00:14:05,060 --> 00:14:08,060
+target these airplanes
+目标这些飞机
+
+236
+00:14:08,060 --> 00:14:12,220
+that are the greatest war machines in the world.
+它们是世界上最强大的战争机器。
+
+237
+00:14:12,940 --> 00:14:18,000
+Okay? So America is home to the greatest scientists,
+好吧？所以美国是最伟大科学家的家园。
+
+238
+00:14:18,360 --> 00:14:21,120
+the most advanced weaponry, okay?
+最先进的武器，明白吗？
+
+239
+00:14:21,120 --> 00:14:24,660
+That's just technology. Propaganda means
+这只是技术。宣传就是…
+
+240
+00:14:24,660 --> 00:14:27,100
+that America controls information space.
+美国掌控信息空间。
+
+241
+00:14:27,100 --> 00:14:29,080
+It controls the internet.
+它掌控互联网。
+
+242
+00:14:29,760 --> 00:14:32,560
+It controls the world's most powerful media,
+它掌控全球最强大的媒体，
+
+243
+00:14:32,680 --> 00:14:35,080
+including the New York Times, CNN,
+包括《纽约时报》、CNN、
+
+244
+00:14:35,520 --> 00:14:39,180
+BBC. It controls YouTube.
+BBC。它掌控YouTube。
+
+245
+00:14:39,320 --> 00:14:41,900
+It controls Google. It controls information landscape.
+它掌控Google。它掌控信息景观。
+
+246
+00:14:42,280 --> 00:14:44,500
+America does not want you to know something.
+美国不想让你知道这件事。
+
+247
+00:14:44,600 --> 00:14:47,820
+It can hide it from you. America can control the discourse.
+它可以把它隐藏在你面前。美国可以掌控话语。
+
+248
+00:14:48,060 --> 00:14:49,980
+It can control how you think about the world.
+它能决定你对世界的看法。
+
+249
+00:14:50,280 --> 00:14:54,840
+That's propaganda. The last thing is money, okay?
+那是宣传。最后一件事是钱，行吗？
+
+250
+00:14:54,960 --> 00:14:58,620
+And it's a very simple idea. The United States controls the US dollar,
+美国掌控美元，
+
+251
+00:14:59,320 --> 00:15:02,700
+which is the reserve currency of the world. And
+它是世界的储备货币。
+
+252
+00:15:02,700 --> 00:15:06,380
+the United States can print as much US
+美国可以按需印制足够的美元，以赢得这场战争。
+
+253
+00:15:06,380 --> 00:15:09,280
+dollars as it needs in order to win this war.
+美国可以按需印制足够的美元，以赢得这场战争。
+
+254
+00:15:09,440 --> 00:15:11,800
+It has an infinite money printer.
+它有一台无限印钞机。
+
+255
+00:15:12,720 --> 00:15:13,840
+Okay? And then
+好了？然后呢？
+
+256
+00:15:13,840 --> 00:15:17,340
+it can use this money to
+它可以用这笔钱来
+
+257
+00:15:17,340 --> 00:15:20,120
+bribe people to fight this war.
+贿赂人们去打这场战争。
+
+258
+00:15:20,220 --> 00:15:22,120
+It can pay for mercenaries.
+它可以支付雇佣兵。
+
+259
+00:15:22,340 --> 00:15:25,720
+It can bribe ethnic minorities to rebel against the government.
+它可以贿赂少数民族反叛政府。
+
+260
+00:15:25,720 --> 00:15:30,200
+It can bribe Iranian officials to betray the government.
+它可以贿赂伊朗官员背叛政府。
+
+261
+00:15:30,460 --> 00:15:33,020
+Okay? So,
+好了？
+
+262
+00:15:33,020 --> 00:15:37,640
+looking at these three things, you would think that America is invisible.
+看着这三件事，你会觉得美国无形。
+
+263
+00:15:38,000 --> 00:15:39,680
+Right? But again,
+对吧？但再说一次，
+
+264
+00:15:39,980 --> 00:15:42,980
+we need to think about the law's asymmetry
+我们还得思考这条法则的非对称性。
+
+265
+00:15:42,980 --> 00:15:46,980
+and recognize that these advantages are also disadvantages.
+并且认识到这些优势也是劣势。
+
+266
+00:15:47,900 --> 00:15:50,680
+All right? So, let's discuss this.
+好的？那我们来讨论一下。
+
+267
+00:15:51,320 --> 00:15:53,900
+Technology. Well, you know,
+技术。嗯，你知道的。
+
+268
+00:15:53,960 --> 00:15:56,700
+if you have those advanced weaponry, in the world,
+如果你拥有世界上最先进的武器，
+
+269
+00:15:57,480 --> 00:15:59,560
+you become lazy,
+你会变得懒散，
+
+270
+00:16:00,000 --> 00:16:02,760
+arrogant, and dependent on the technology.
+自负自傲并依赖技术。
+
+271
+00:16:03,060 --> 00:16:06,220
+Right? So, the classic example, of course, is our school
+对吧？那么，经典例子当然是我们的学校。
+
+272
+00:16:06,220 --> 00:16:09,020
+where you have access to chat GPT.
+在那里你可以使用 ChatGPT。
+
+273
+00:16:09,920 --> 00:16:13,740
+Right? And like, you become smarter because you have access to chat GPT.
+对吧？于是你因为使用ChatGPT 而变得更聪明。
+
+274
+00:16:13,820 --> 00:16:17,140
+No, you become dumber because you become lazy.
+不，你会变得更笨，因为你变懒了。
+
+275
+00:16:18,080 --> 00:16:19,740
+Right? Same with technology.
+对吧？技术也是一样。
+
+276
+00:16:20,240 --> 00:16:23,040
+You would think that with the most advanced weaponry in the world,
+你会以为世界上最先进的武器而自以为傲。
+
+277
+00:16:23,580 --> 00:16:24,880
+America would become invincible.
+美国将变得无敌可战。
+
+278
+00:16:24,880 --> 00:16:27,080
+But instead, people become,
+但相反，人民变成了……
+
+279
+00:16:27,220 --> 00:16:31,460
+the American military becomes too dependent on the technology.
+美军对技术的依赖过重。
+
+280
+00:16:31,860 --> 00:16:34,440
+It becomes too arrogant, too complacent.
+它变得太自大，太自满。
+
+281
+00:16:35,380 --> 00:16:38,060
+Okay? It's like, well, you know, if we're in trouble,
+好了？就像，嗯，你知道，如果我们遇到麻烦，
+
+282
+00:16:38,420 --> 00:16:40,420
+then we'll just send in the Air Force.
+那我们就直接派空军来。
+
+283
+00:16:40,620 --> 00:16:44,560
+And we'll have enough. Okay? So, it leads to dependency.
+我们会有足够的。好了？于是就形成了依赖。
+
+284
+00:16:47,020 --> 00:16:50,800
+And this actually hampers innovation
+这实际上阻碍了创新
+
+285
+00:16:50,800 --> 00:16:53,300
+and resilience in the battlefield.
+并且在战场上造成了韧性不足。
+
+286
+00:16:54,880 --> 00:16:56,080
+And this is what you need to win. Okay?
+这就是你赢得胜利所需的。好吗？
+
+287
+00:16:56,280 --> 00:17:00,780
+You need to be innovative and you need to be resilient on the battlefield.
+你需要在战场上具备创新与韧性。
+
+288
+00:17:01,080 --> 00:17:05,460
+But because of technology, you become too lazy
+但因技术，便会变得懒散。
+
+289
+00:17:06,380 --> 00:17:09,340
+to think for yourself. All right?
+自己思考。好吗？
+
+290
+00:17:09,500 --> 00:17:11,780
+So, that's one problem. Propaganda.
+所以，这就是一个问题。宣传。
+
+291
+00:17:11,880 --> 00:17:15,280
+You would think that, oh, America controls the debate.
+你会想，哦，美国掌控了辩论。
+
+292
+00:17:15,740 --> 00:17:17,560
+Therefore, that's a huge advantage.
+因此，这就是一个巨大的优势。
+
+293
+00:17:17,860 --> 00:17:19,500
+It's actually not an advantage,
+其实这并不是优势，
+
+294
+00:17:19,980 --> 00:17:23,600
+guys. The reason why is that, in order for innovation
+伙计们。原因在于，为了创新
+
+295
+00:17:23,600 --> 00:17:27,500
+and resilience to happen, you need to have open debate.
+并且韧性得以发生，你需要有开放的辩论。
+
+296
+00:17:28,640 --> 00:17:33,360
+Right? You need people to voice dissenting opinions.
+对吧？你需要人们发声异议。
+
+297
+00:17:34,660 --> 00:17:36,180
+But if you control the information landscape,
+但若你掌控信息景观，
+
+298
+00:17:36,620 --> 00:17:38,820
+what you can do is censor.
+你可以做的就是进行审查。
+
+299
+00:17:39,440 --> 00:17:41,200
+And that's what America's doing right now.
+这正是美国现在正在做的事。
+
+300
+00:17:41,400 --> 00:17:42,940
+It's telling people to shut up and obey.
+它让人们闭嘴服从。
+
+301
+00:17:43,780 --> 00:17:47,020
+You're not allowed to point out that this war is stupid
+你们不能说这场战争是愚蠢的，美国也赢不了这场战争。
+
+302
+00:17:47,020 --> 00:17:48,880
+and America can't win this war.
+否则就会被踢出去。
+
+303
+00:17:49,100 --> 00:17:50,660
+Otherwise, you'll be kicked out.
+Otherwise, you'll be kicked out.
+
+304
+00:17:50,780 --> 00:17:53,920
+Okay? So,
+好的？所以，
+
+305
+00:17:53,920 --> 00:17:55,960
+this means that
+这意味着
+
+306
+00:17:55,960 --> 00:18:00,520
+there's really a lack of rigorous debate within the American government,
+美国政府内部确实缺乏严谨的辩论。
+
+307
+00:18:01,180 --> 00:18:03,520
+within the American military, within the American elite,
+在美国军队内部，在美国精英内部，
+
+308
+00:18:04,100 --> 00:18:06,620
+which, of course, will lead to hubris.
+这当然会导致自负。
+
+309
+00:18:06,780 --> 00:18:08,680
+It will lead to bad decision making.
+这将导致决策失误。
+
+310
+00:18:09,020 --> 00:18:12,680
+No one will point this out because they're too afraid of pissing off
+没人会指出这一点，因为他们怕惹到总统和他的团队。
+
+311
+00:18:13,240 --> 00:18:15,060
+the president and his people.
+于是他们闭嘴，结果美国又一次又一次犯同样的错。
+
+312
+00:18:15,240 --> 00:18:19,560
+So, they'll shut up and America will keep on making the same mistakes over and over again.
+So, they'll shut up and America will keep onmaking the same mistakes over and over again.
+
+313
+00:18:19,740 --> 00:18:23,440
+Okay? We call this the Okay?
+好的？我们把它叫做“好的”？
+
+314
+00:18:26,980 --> 00:18:31,700
+They're basically getting high on their own supply is another phrase that we use.
+他们基本上是靠自己的供应高兴，另外一句我们也用来形容。
+
+315
+00:18:32,360 --> 00:18:34,840
+All right. Money and wealth.
+好的。钱和财富。
+
+316
+00:18:35,160 --> 00:18:37,580
+You think, okay, well, this is it, man.
+你想，好的，嗯，就是这样，兄弟。
+
+317
+00:18:37,820 --> 00:18:41,160
+We just bribe everyone. We just bribe the entire world and
+我们只要贿赂所有人。我们只要贿赂全世界，然后就好了。
+
+318
+00:18:41,160 --> 00:18:43,580
+we're good.
+我们就好了。
+
+319
+00:18:43,740 --> 00:18:45,580
+Right? The problem is this.
+对吧？问题在于。
+
+320
+00:18:45,760 --> 00:18:49,600
+The problem is that if you bribe people,
+问题是如果你贿赂人，
+
+321
+00:18:51,140 --> 00:18:52,660
+they're not going to fight for you. Right?
+他们就不会为你而战。
+
+322
+00:18:52,960 --> 00:18:54,980
+Because all they want is your money.
+因为他们只想要你的钱。
+
+323
+00:18:55,160 --> 00:18:59,180
+So, you bribe them, but they'll probably take your money and run away.
+于是你贿赂他们，但他们很可能把钱拿走后逃跑。
+
+324
+00:19:00,240 --> 00:19:04,720
+Okay? Or they'll figure out how to get more money out of you by cheating you.
+或者他们会想办法再骗你取更多钱。
+
+325
+00:19:05,120 --> 00:19:09,980
+So, right now, the Americans are going to fund these militias
+于是，现在美国要资助这些民兵、少数民族和反对手对伊朗。
+
+326
+00:19:09,980 --> 00:19:12,920
+and ethnic minorities and opposition groups against Iran.
+好吗？猜猜看，伙计们？
+
+327
+00:19:13,120 --> 00:19:14,480
+Okay? Guess what, guys?
+Okay? Guess what, guys?
+
+328
+00:19:14,700 --> 00:19:17,080
+These guys are hustlers. Right?
+这些人是个贼人。对吧？
+
+329
+00:19:17,220 --> 00:19:21,600
+They're not fighting because they want more freedom.
+他们不是为了自由而战斗。
+
+330
+00:19:21,600 --> 00:19:24,100
+They're fighting because they want to rip off the US government.
+他们战斗是为了抢美国政府的钱。
+
+331
+00:19:26,380 --> 00:19:31,860
+And so, this money issue can be a problem in the long term
+于是，这笔钱的问题在长期里可能会出现。
+
+332
+00:19:31,860 --> 00:19:34,620
+because the people you're bribing, you can't even trust.
+因为你要贿赂的人，你根本就不可信。
+
+333
+00:19:35,140 --> 00:19:37,780
+And they're not motivated to actually win this war for you.
+他们也并非为了帮你赢得这场战争而努力。
+
+334
+00:19:37,900 --> 00:19:40,600
+They're actually motivated to scam you as much as possible.
+他们实际上会尽可能多地骗你。
+
+335
+00:19:40,880 --> 00:19:43,920
+And they could be actually a problem in the long term because
+而且这在长期里可能成为问题，因为
+
+336
+00:19:43,920 --> 00:19:47,140
+you're putting so much resources into these hustlers.
+你把这么多资源投入到这些贼人身上。
+
+337
+00:19:47,380 --> 00:19:49,440
+Okay? All right.
+好的？没问题。
+
+338
+00:19:50,200 --> 00:19:54,140
+So, what this means is
+所以，这意味着是
+
+339
+00:19:54,140 --> 00:19:59,200
+that America has three major problems.
+美国有三个主要问题。
+
+340
+00:19:59,700 --> 00:20:02,500
+Okay? It has three major problems.
+好的？它有三个主要问题。
+
+341
+00:20:03,320 --> 00:20:09,020
+The first major problem is the lack of political will.
+第一个主要问题是政治意愿的缺乏。
+
+342
+00:20:13,600 --> 00:20:15,460
+And all this is saying is that
+而这一切都说明的是
+
+343
+00:20:15,460 --> 00:20:18,980
+the American people don't want to fight this war.
+美国人民不想打这场战争。
+
+344
+00:20:19,980 --> 00:20:23,680
+The American government, doesn't even know why they're fighting this war.
+美国政府甚至不知道自己为什么打这场战争。
+
+345
+00:20:24,380 --> 00:20:26,800
+No one cares. Okay?
+谁也不在乎。
+
+346
+00:20:27,820 --> 00:20:29,160
+But for the Iranians,
+但对伊朗人来说，
+
+347
+00:20:29,700 --> 00:20:32,120
+it's a struggle of life and death.
+这是一场生死之争。
+
+348
+00:20:32,840 --> 00:20:36,960
+Right? If America loses this war, they just go home and forget about it.
+对吧？如果美国赢了这场战争，他们就回家忘了它。
+
+349
+00:20:37,200 --> 00:20:39,980
+But if the Iranians lose this war, they all get killed.
+但若伊朗人输掉这场战争，他们就全被杀死。
+
+350
+00:20:40,200 --> 00:20:43,860
+Or they lose their country, they lose their society, they lose their civilization,
+或者他们失去国家、社会、文明，
+
+351
+00:20:44,300 --> 00:20:46,920
+they lose their identity. They cannot afford to lose this war.
+失去身份。他们不能再输这场战争。
+
+352
+00:20:47,020 --> 00:20:50,360
+Okay? So, the first major problem that Americans are facing is,
+好的？那么，美国人面临的第一个主要问题是，
+
+353
+00:20:50,360 --> 00:20:54,580
+they don't have any political will to fight this war, but they're still fighting this war anyway.
+他们没有任何政治意愿去打这场战争，但仍然在打。
+
+354
+00:20:55,380 --> 00:20:57,300
+Okay? The question then, of course, is why?
+好吧？于是问题自然是，为什么会这样？
+
+355
+00:20:57,800 --> 00:21:02,160
+Why is this happening? This is actually the most important question, and it's the most complicated.
+为什么会这样？这才是最重要的问题，也是最复杂的。
+
+356
+00:21:02,320 --> 00:21:04,360
+So, we'll save this for later.
+所以，我们先留到后面来。
+
+357
+00:21:04,460 --> 00:21:09,060
+Okay? Second is the idea of logistics
+好吧？第二个是后勤的概念。
+
+358
+00:21:09,060 --> 00:21:10,840
+and manufacturing.
+和制造。
+
+359
+00:21:14,560 --> 00:21:17,940
+So, America is very good at fighting short wars.
+所以，美国在短期战争中非常擅长。
+
+360
+00:21:18,200 --> 00:21:21,040
+Okay? The reason why is, they're advanced,
+好吧？原因是它们很先进，
+
+361
+00:21:21,180 --> 00:21:24,920
+they have the most advanced weaponry, but they have manufacturing issues.
+他们拥有最先进的武器，但制造方面有问题。
+
+362
+00:21:25,140 --> 00:21:26,700
+Because, as we know,
+因为，正如我们所知，
+
+363
+00:21:27,000 --> 00:21:30,040
+America ships all its factories to China.
+美国把所有工厂运往中国。
+
+364
+00:21:30,740 --> 00:21:32,400
+So, America doesn't have that many factories.
+所以，美国没有那么多的工厂。
+
+365
+00:21:33,120 --> 00:21:36,280
+So, yes, it has the most advanced weaponry in the world, but
+所以，是的，它拥有世界上最先进的武器，但……
+
+366
+00:21:36,280 --> 00:21:39,380
+this weapon doesn't do any good if you don't have any munitions.
+如果没有弹药，这种武器也没什么用。
+
+367
+00:21:39,460 --> 00:21:42,700
+Right? If you don't have any munitions, bombs, bullets.
+对吧？如果没有弹药、炸弹、子弹。
+
+368
+00:21:43,080 --> 00:21:44,540
+And you need factories for that.
+你需要工厂来生产。
+
+369
+00:21:44,800 --> 00:21:47,500
+America doesn't really have these factories.
+美国确实没有这些工厂。
+
+370
+00:21:47,640 --> 00:21:51,970
+Now, I understand that America is trying to
+现在，我明白美国正试图提升其制造能力，
+
+371
+00:21:53,100 --> 00:21:54,760
+upgrade its manufacturing capacity,
+但进展有点慢。
+
+372
+00:21:55,820 --> 00:21:57,460
+but it's kind of slow.
+but it's kind ofslow.
+
+373
+00:21:58,440 --> 00:22:02,460
+So maybe five years from now, it will have manufacturing capacity to fight this war,
+也许在五年后，它将拥有足够的制造能力来打这场战争，但现在还没有。
+
+374
+00:22:02,580 --> 00:22:04,340
+but right now it doesn't. So
+这又是另一个主要问题，好的？
+
+375
+00:22:04,340 --> 00:22:08,340
+that's another major issue, okay?
+that's another major issue, okay?
+
+376
+00:22:08,640 --> 00:22:13,220
+And then the last issue, of course, is casualties.
+然后最后一个问题，当然是伤亡。
+
+377
+00:22:13,220 --> 00:22:16,960
+Specialties. All right,
+专业化。好了，
+
+378
+00:22:17,000 --> 00:22:20,680
+America, because it doesn't have the political will to fight this war,
+美国，因为它没有政治意愿去打这场战争。
+
+379
+00:22:20,900 --> 00:22:24,620
+cannot afford to lose soldiers on the battlefield.
+不能在战场上失去士兵。
+
+380
+00:22:26,180 --> 00:22:29,420
+All right? So
+好了？所以
+
+381
+00:22:29,420 --> 00:22:32,140
+it wants to minimize the death,
+它想减少死亡。
+
+382
+00:22:32,460 --> 00:22:35,420
+it wants to minimize battlefield losses, because
+它想在战场上减少损失，因为
+
+383
+00:22:35,420 --> 00:22:36,700
+if like a thousand,
+如果像一千人，
+
+384
+00:22:36,940 --> 00:22:41,140
+tens of thousands of American soldiers are going home to America dead in coffins,
+数万美军士兵回国时装在棺材里
+
+385
+00:22:41,280 --> 00:22:42,500
+I guarantee you,
+我向你保证，
+
+386
+00:22:43,220 --> 00:22:46,060
+because of lack of political will, the American people will revolt.
+因为缺乏政治意志，美国人民会起义。
+
+387
+00:22:46,280 --> 00:22:51,620
+You have protests, you will have a lot of violence in the streets.
+你会有示威，街头会有大乱。
+
+388
+00:22:51,700 --> 00:22:53,900
+It'll be like the Vietnam era again.
+就像越战时期一样。
+
+389
+00:22:54,720 --> 00:22:57,080
+All right? Okay, so,
+好的？那好，
+
+390
+00:22:58,460 --> 00:23:01,680
+yes, I understand that America has technology, propaganda,
+是的，我知道美国有技术、宣传，
+
+391
+00:23:01,820 --> 00:23:06,060
+and money, but as we discussed, these aren't really advantages.
+和钱，但正如我们讨论的那样，这些并不是真正的优势。
+
+392
+00:23:06,520 --> 00:23:09,040
+And these disadvantages are huge.
+这些劣势则非常巨大。
+
+393
+00:23:09,280 --> 00:23:11,200
+The lack of political will, the lack of manufacturing,
+缺乏政治意志，缺乏制造力。
+
+394
+00:23:11,860 --> 00:23:15,600
+and the lack of,
+和缺乏，
+
+395
+00:23:17,180 --> 00:23:21,940
+America cannot afford to lose that many soldiers in the battlefield, okay? And so,
+美国不能在战场上失去那么多士兵，好的？于是，
+
+396
+00:23:21,980 --> 00:23:27,940
+this situation now determines how America will fight this war.
+此情形现在决定美国将如何作战。
+
+397
+00:23:28,100 --> 00:23:29,540
+And we'll discuss this later on, okay?
+好的，稍后再讨论。
+
+398
+00:23:29,900 --> 00:23:31,480
+All right, now let's talk about Iran.
+好的，现在来聊聊伊朗。
+
+399
+00:23:41,280 --> 00:23:43,740
+Okay, so, the United States is a very, very, very, very, very, very,
+好的，接着说，美国是个非常非常非常非常非常非常…
+
+400
+00:23:46,200 --> 00:23:50,260
+very, very, very, very, very, very, very, very, very, very, very, very, very,
+非常，非常，非常，非常，非常，非常，非常，非常，非常，非常，非常，非常，非常，
+
+401
+00:23:50,260 --> 00:23:54,520
+very, very, very, very, very, very, very, very,
+非常，非常，非常，非常，非常，非常，非常，非常，
+
+402
+00:23:54,900 --> 00:23:57,180
+very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very,
+非常，非常，非常，非常，非常，非常，非常，非常，非常，非常，非常，非常，非常，
+
+403
+00:23:57,380 --> 00:24:01,860
+very, very,
+非常，非常，
+
+404
+00:24:01,860 --> 00:24:09,860
+very, of
+非常，
+
+405
+00:24:09,860 --> 00:24:15,460
+eschatology, of individual sacrifice for the greater good.
+末世论，个人牺牲为大义。
+
+406
+00:24:16,220 --> 00:24:19,000
+The Shia are not afraid to die.
+什叶派不怕死。
+
+407
+00:24:19,420 --> 00:24:21,940
+And because their great religious leader,
+并且因为他们伟大的宗教领袖，
+
+408
+00:24:22,200 --> 00:24:26,900
+the Ayatollah Khomeini was assassinated by the Americans and Israelis,
+阿亚图拉·霍梅尼被美以色两国暗杀。
+
+409
+00:24:27,260 --> 00:24:30,620
+they are motivated to seek vengeance,
+他们有寻仇的动机
+
+410
+00:24:31,440 --> 00:24:33,900
+to martyr themselves for the greater good,
+为更大善牺牲自己
+
+411
+00:24:34,080 --> 00:24:37,540
+to seek eternal paradise, okay, jihad.
+去寻永生之乐，好的，圣战。
+
+412
+00:24:42,040 --> 00:24:44,500
+All right, that's the first major advantage.
+好的，这就是第一个主要优势。
+
+413
+00:24:44,700 --> 00:24:46,840
+The second major advantage is terrain.
+第二个主要优势是地形。
+
+414
+00:24:49,420 --> 00:24:51,200
+And all this means is that
+而这一切都意味着是……
+
+415
+00:24:51,200 --> 00:24:57,100
+Iran is a mountainous country.
+伊朗是个山地国家。
+
+416
+00:24:58,220 --> 00:25:00,760
+And it's huge, it's three times the size of Iraq.
+它又很大，面积是伊拉克的三倍。
+
+417
+00:25:02,160 --> 00:25:07,340
+So it's very hard for America to invade the country.
+因此美国入侵伊朗非常困难。
+
+418
+00:25:07,900 --> 00:25:11,000
+In fact, most analysts will say,
+事实上，大多数分析师会说，
+
+419
+00:25:11,180 --> 00:25:17,060
+will tell you, it is suicidal for the American military to invade Iran.
+会告诉你，入侵伊朗对美军来说是自杀的事，
+
+420
+00:25:17,180 --> 00:25:19,400
+It is a mountain fortress, okay, it's a fortress.
+它是山地堡垒，好的，就是堡垒。
+
+421
+00:25:24,840 --> 00:25:26,980
+And the last issue is,
+还有最后一个问题，
+
+422
+00:25:27,380 --> 00:25:28,840
+the last advantage is nationalism.
+最后一个优势是民族主义。
+
+423
+00:25:30,580 --> 00:25:33,840
+Okay. All right.
+好的，全部完成。
+
+424
+00:25:35,360 --> 00:25:37,480
+So the Iranians are Persians.
+伊朗人是波斯人。
+
+425
+00:25:39,520 --> 00:25:42,780
+And the Persians go back 5,000 years.
+波斯人有五千年的历史。
+
+426
+00:25:43,020 --> 00:25:47,080
+It is one of the greatest civilizations in human history.
+它是人类历史上最伟大的文明之一。
+
+427
+00:25:47,320 --> 00:25:51,300
+And as we discussed last semester, in the ancient world, there were three great civilizations,
+正如上学期所说，古代有三大文明，
+
+428
+00:25:51,680 --> 00:25:54,320
+right, the Jews, the Greeks, and the Persians.
+对，犹太人、希腊人和波斯人。
+
+429
+00:25:55,600 --> 00:25:59,560
+And the Persian culture, it's vast, it's beautiful,
+波斯文化广阔而美丽。
+
+430
+00:26:00,160 --> 00:26:02,240
+and it's deep, and
+并且很深厚，且
+
+431
+00:26:02,240 --> 00:26:05,700
+that's what gives the Iranian people a lot of pride,
+这就是伊朗人自豪的原因，
+
+432
+00:26:05,920 --> 00:26:09,480
+okay? So, when they're fighting,
+好吧？所以他们打仗时，
+
+433
+00:26:09,620 --> 00:26:13,060
+they're not just fighting for their religion, they're not just fighting for their homes,
+他们不只是为宗教而战，也不只是为家园而战，
+
+434
+00:26:13,180 --> 00:26:14,980
+they're fighting for their entire civilization
+他们为整个文明而战
+
+435
+00:26:15,480 --> 00:26:16,860
+that goes back 5,000 years.
+这文明可追溯五千年前
+
+436
+00:26:17,580 --> 00:26:20,360
+Right, so these are the three major advantages
+好的，下面是伊朗人拥有的三大优势
+
+437
+00:26:21,500 --> 00:26:24,060
+that the Iranians have, okay?
+那就是伊朗人的三大优势，明白了吗？
+
+438
+00:26:24,120 --> 00:26:27,120
+Faith means that they're not afraid to die
+信仰意味着他们不怕牺
+
+439
+00:26:27,980 --> 00:26:29,600
+for what they believe in.
+为他们所信仰的事物。
+
+440
+00:26:30,140 --> 00:26:33,960
+Terrain means that the Americans will have a hard problem invading the country.
+地形意味着美国人入侵该国时会遇到大难。
+
+441
+00:26:35,140 --> 00:26:39,940
+Nationalism means that the people will be able to live, they will all be reigned, know what they're fighting for.
+民族主义让人民能自足，统一，明白自己在为之而战。
+
+442
+00:26:40,840 --> 00:26:44,020
+Alright? So, but again, remember,
+好的？那好，记住，
+
+443
+00:26:44,240 --> 00:26:47,520
+everything that seems like an advantage can be a disadvantage as well, alright?
+所有看似优势的事也可能是劣势，好吗？
+
+444
+00:26:47,920 --> 00:26:53,240
+So, let's go over what the problems are.
+好了，先说说问题在哪。
+
+445
+00:26:53,480 --> 00:26:57,560
+With faith, you might have an issue of blindness,
+凭信念，你可能会出现盲目之症，
+
+446
+00:26:57,920 --> 00:27:00,280
+okay? Or zealotry.
+好吗？或者是狂热。
+
+447
+00:27:03,000 --> 00:27:05,680
+Where you're not afraid to die,
+你不怕死的那一刻。
+
+448
+00:27:06,580 --> 00:27:09,140
+but that means that
+但那就意味着……
+
+449
+00:27:09,140 --> 00:27:11,420
+you're not thinking strategically, okay?
+你没有在思考战略，好吗？
+
+450
+00:27:12,220 --> 00:27:15,140
+Maybe you're gonna waste too many soldiers on the battlefield.
+你可能会在战场上浪费太多兵力。
+
+451
+00:27:15,620 --> 00:27:17,960
+They're brave, but they're kind of stupid as well.
+他们很勇敢，但也有点傻气。
+
+452
+00:27:18,480 --> 00:27:20,780
+Alright, so you might have an issue
+好了，可能会出现……
+
+453
+00:27:21,880 --> 00:27:26,080
+where Iran is not using the optimal strategy
+伊朗没有采用最优策略。
+
+454
+00:27:27,600 --> 00:27:30,440
+because their soldiers are not afraid of death.
+因为他们的士兵不怕死亡。
+
+455
+00:27:30,760 --> 00:27:32,960
+And we're already seeing that where
+而我们已经看到的情况是……
+
+456
+00:27:32,960 --> 00:27:36,400
+the Americans have already blown up and destroyed the Iranian navy.
+美国已经炸毁并摧毁了伊朗海军。
+
+457
+00:27:36,840 --> 00:27:39,220
+Now, any of you guys know that, right? I'm not saying that you're not afraid,
+现在，你们中有人知道这件事吧？我不是说你们不怕，
+
+458
+00:27:39,220 --> 00:27:42,360
+the first thing the Americans would do is go destroy the Iranian navy,
+美国首先会去摧毁伊朗海军，
+
+459
+00:27:42,560 --> 00:27:47,300
+so you should probably not use the navy, or hide the navy, or blow up the navy yourself,
+所以你们最好不要用海军，或者把海军隐藏起来，或者自己炸掉海军。
+
+460
+00:27:47,680 --> 00:27:50,400
+okay? Because you want to avoid as many casualties as possible,
+好的？因为你想尽量避免伤亡，
+
+461
+00:27:51,040 --> 00:27:55,140
+but they didn't do that, and the Americans have now destroyed the Iranian navy,
+但他们没这么做，结果美国又摧毁了伊朗海军，
+
+462
+00:27:55,320 --> 00:27:57,560
+alright? So, that's the issue of faith.
+好了？这就是信念的问题。
+
+463
+00:27:58,800 --> 00:28:00,680
+Terrain, yeah, it's a fortress,
+地形，嗯，是一座堡垒，
+
+464
+00:28:01,040 --> 00:28:04,080
+but it can also be a prison, right?
+它也可以是个牢房，没错吗？
+
+465
+00:28:04,880 --> 00:28:07,500
+Where you're just sort of stuck there, and because
+你就那样被卡住了，
+
+466
+00:28:07,500 --> 00:28:10,440
+it's a mountainous region, it doesn't have that many resources,
+它是个山地地区，资源不多，
+
+467
+00:28:10,700 --> 00:28:13,720
+so Americans can actually disrupt your water supply,
+美国人可以切断你的水源，
+
+468
+00:28:13,900 --> 00:28:17,600
+disrupt your electricity, okay, and cause general poverty
+切断电力，造成普遍贫困
+
+469
+00:28:17,600 --> 00:28:20,940
+and hardship for your people, okay?
+和你们人民的艰辛，没错吗？
+
+470
+00:28:21,380 --> 00:28:22,920
+And then nationalism,
+然后是民族主义，
+
+471
+00:28:23,280 --> 00:28:26,380
+yes, Persia is a great culture, but
+是的，波斯是伟大的文化，但
+
+472
+00:28:26,380 --> 00:28:32,180
+remember that Iran is an ethnically diverse country.
+记住伊朗是个民族多样的国家。
+
+473
+00:28:32,400 --> 00:28:37,520
+In fact, only 50% of the population of Iran in the Terrain are Persians.
+实际上，伊朗人口中只有50%是波斯人。
+
+474
+00:28:37,900 --> 00:28:40,860
+Others are different minorities, okay?
+其余者是各类少数民族，明白吗？
+
+475
+00:28:41,420 --> 00:28:44,580
+Alright? So, you have
+好的？那么，你有…
+
+476
+00:28:44,580 --> 00:28:48,800
+then ethnic divisions, right?
+然后是民族分裂，对吗？
+
+477
+00:28:51,500 --> 00:28:54,040
+Okay? So, looking at this,
+好的？看着这个…
+
+478
+00:28:54,340 --> 00:28:59,760
+now we know exactly what the American strategy will be.
+现在我们已经完全知道美国的战略是什么了。
+
+479
+00:29:00,000 --> 00:29:01,760
+Basically, the strategy will be
+基本上，这个战略就是……
+
+480
+00:29:02,760 --> 00:29:08,200
+to inflict as many casualties as possible on the Iranians,
+对伊朗人造成尽可能多的伤亡。
+
+481
+00:29:08,280 --> 00:29:09,480
+alright?
+好的？
+
+482
+00:29:09,580 --> 00:29:14,700
+To kill as many people as possible, destroy the infrastructure of Iran
+杀尽可能多的人，摧毁伊朗的基础设施，令人民缺水缺电缺粮，才能生存，好吗？
+
+483
+00:29:14,700 --> 00:29:19,360
+so that the people don't have enough water, electricity, food to survive, okay?
+好吧？
+
+484
+00:29:19,700 --> 00:29:20,680
+And the third, of course,
+第三点当然是
+
+485
+00:29:20,920 --> 00:29:26,100
+is to create as much ethnic tension in the country as possible by arming
+在国内通过武装和鼓动来制造尽可能多的民族紧张。
+
+486
+00:29:26,100 --> 00:29:27,400
+and encouraging and
+and encouragingand
+
+487
+00:29:27,400 --> 00:29:32,000
+bribing ethnic groups to rebel against the central government in Terrain,
+给各族群贿赂，让他们在领土上反叛中央政府
+
+488
+00:29:32,180 --> 00:29:34,600
+alright? Okay?
+好吧？
+
+489
+00:29:34,600 --> 00:29:36,220
+But again,
+再说一次，
+
+490
+00:29:37,760 --> 00:29:41,460
+what the law of symmetry, asymmetry tells us is
+什么是对称律与非对称律告诉我们的
+
+491
+00:29:41,460 --> 00:29:45,620
+that the empire ultimately is not as flexible
+帝国最终并不像其敌人那样灵活
+
+492
+00:29:45,620 --> 00:29:49,580
+and open and dynamic as its enemy,
+并且开放且动态
+
+493
+00:29:49,820 --> 00:29:50,760
+okay?
+好吧？
+
+494
+00:29:51,420 --> 00:29:56,200
+The weaker person is going to engage in much more self -reflection,
+弱者将会进行更多的自省思考，
+
+495
+00:29:56,460 --> 00:30:01,480
+self -debate than the empire,
+自我辩论
+
+496
+00:30:01,760 --> 00:30:03,600
+okay? Because the empire will become arrogant.
+好吧？因为帝国会变得自负。
+
+497
+00:30:03,600 --> 00:30:04,820
+And so ultimately,
+于是，最终，
+
+498
+00:30:06,280 --> 00:30:09,860
+Iran should triumph over America.
+伊朗应当战胜美国。
+
+499
+00:30:10,240 --> 00:30:13,200
+And in fact, what's going to happen is that
+而且，实际上会发生的事是
+
+500
+00:30:13,200 --> 00:30:16,820
+this strategy that America will use
+美国将会使用的这套策略
+
+501
+00:30:17,600 --> 00:30:23,520
+against the Iranians will lead to the Iranians becoming much more energetic,
+对伊朗人来说会使他们更为活跃
+
+502
+00:30:24,600 --> 00:30:26,260
+open, and cohesive,
+打开，并连贯，
+
+503
+00:30:26,720 --> 00:30:27,960
+okay?
+好吧？
+
+504
+00:30:28,300 --> 00:30:31,880
+So, let's look at the American strategy specifically.
+于是，让我们具体看看美国的策略。
+
+505
+00:30:39,880 --> 00:30:41,500
+And, anyway, we're gonna deal with that shortly.
+好吧，我们很快会处理这个。
+
+506
+00:30:41,500 --> 00:30:45,120
+we're gonna deal with that shortly. And, anyway, we're gonna deal with that shortly.
+我们很快会处理这个。好吧，我们很快会处理这个。
+
+507
+00:30:45,800 --> 00:30:48,060
+And, anyway, And, anyway, we're gonna deal with that shortly.
+好吧，好吧，我们很快会处理这个。
+
+508
+00:30:48,200 --> 00:30:51,080
+And, anyway, we're gonna deal with that shortly. And, anyway, And, anyway, we're gonna deal with that shortly.
+好吧，我们很快会处理这个。好吧，好吧，我们很快会处理这个。
+
+509
+00:30:51,740 --> 00:30:53,120
+And, anyway, we're gonna deal with that shortly.
+好吧，我们很快会处理这个。
+
+510
+00:30:53,640 --> 00:30:56,560
+And, anyway, we're gonna deal with that shortly.
+好吧，我们很快会处理这个。
+
+511
+00:30:58,400 --> 00:30:59,760
+And, anyway, we're gonna deal with that shortly.
+好吧，反正，咱们很快会处理这个。
+
+512
+00:31:00,280 --> 00:31:01,600
+And, anyway,
+好吧，反正，
+
+513
+00:31:03,580 --> 00:31:05,100
+and the Baliks.
+以及巴利克人。
+
+514
+00:31:06,390 --> 00:31:10,780
+Okay? These are the three major problem areas for Iran,
+好的？这就是伊朗的三大问题区。
+
+515
+00:31:11,100 --> 00:31:12,480
+and it's always been the case.
+而且这一直是事实。
+
+516
+00:31:12,620 --> 00:31:15,060
+Remember, the Persians are in the middle.
+记住，波斯人处于中间。
+
+517
+00:31:15,360 --> 00:31:18,860
+So, the Baliks are, first of all,
+于是，巴利克人首先是，
+
+518
+00:31:18,900 --> 00:31:20,400
+Sunni Muslims.
+逊尼穆斯林。
+
+519
+00:31:21,560 --> 00:31:24,480
+As we discussed last class, the Sunnis and
+正如上节所说，逊尼人和
+
+520
+00:31:24,480 --> 00:31:27,200
+the Shias have never really gotten along well together.
+什叶派从来就不太能和睦邻相处。
+
+521
+00:31:27,560 --> 00:31:31,000
+They have different, I mean, the same religion, Islam,
+他们有同宗教，伊斯兰，差别在信仰体系。
+
+522
+00:31:31,160 --> 00:31:32,380
+but they have different belief systems.
+但信仰体系各不相同。
+
+523
+00:31:32,380 --> 00:31:35,380
+That's led to a lot of conflicts in the past.
+这导致了过去的许多冲突。
+
+524
+00:31:35,620 --> 00:31:37,400
+It's almost like the Catholics and the Protestants, okay?
+就像天主教和新教一样，行吗？
+
+525
+00:31:37,740 --> 00:31:43,060
+And so, the Baliks have been trying to rebel against Iranians for a long time.
+于是，巴利克人长期试图反抗伊朗。
+
+526
+00:31:43,140 --> 00:31:46,200
+I guarantee you that there are already Israeli
+我向你保证，已经有以色列人和美军特种部队驻扎在此地，行吗？
+
+527
+00:31:46,200 --> 00:31:49,440
+and American special forces embedded in this area, okay?
+原因是……
+
+528
+00:31:49,560 --> 00:31:51,400
+The reason why is that
+The reason why is that
+
+529
+00:31:51,400 --> 00:31:55,380
+they want to encourage as much civil conflict as possible,
+他们想尽可能多地制造内战，但也想为地面入侵美国做准备。
+
+530
+00:31:55,580 --> 00:32:00,780
+but they also want to prepare the possibility for a ground invasion of America.
+好吧？所以，】
+
+531
+00:32:01,320 --> 00:32:03,260
+Okay? So,
+Okay? So,
+
+532
+00:32:03,360 --> 00:32:07,940
+they would need a forward operating base, and
+他们需要一个前进作战基地，而这片地区可以成为陆权入侵的起点。
+
+533
+00:32:07,940 --> 00:32:13,260
+this area could be a very good place for a beginning of a land invasion.
+然后你来到这里，你会遇到库尔德人。
+
+534
+00:32:13,980 --> 00:32:16,080
+Then you over here, you have the Kurds.
+Then you over here,you have the Kurds.
+
+535
+00:32:16,300 --> 00:32:19,560
+Okay? The Kurds are another minority that
+好的？库尔德人是另一支寻求民族主权的少数民族。
+
+536
+00:32:19,560 --> 00:32:21,160
+seeks national sovereignty.
+现在，正在发生的事是…
+
+537
+00:32:22,840 --> 00:32:25,800
+And right now, what's happening is
+And right now, what's happening is
+
+538
+00:32:25,800 --> 00:32:29,680
+that the Americans and Israelis are bombing this area heavily,
+美国和以色列人正在猛烈轰炸这片地区，
+
+539
+00:32:29,840 --> 00:32:32,180
+and they're targeting police stations.
+他们正瞄准警察局。
+
+540
+00:32:32,380 --> 00:32:35,560
+Why? Because they're trying to reduce and
+为什么？因为他们想要减少…
+
+541
+00:32:35,560 --> 00:32:38,360
+eliminate opposition so that
+消除对手，以便
+
+542
+00:32:38,360 --> 00:32:41,820
+they can arm the Kurds and have them come into this area
+他们可以给库尔德人武装，让他们进入此区
+
+543
+00:32:41,820 --> 00:32:45,000
+and threaten Iran.
+并威胁伊朗。
+
+544
+00:32:45,100 --> 00:32:47,700
+What's also happening is that in Iraq,
+在伊拉克也在发生同样的事，
+
+545
+00:32:47,860 --> 00:32:53,800
+there are these Sunni groups,
+有这些逊尼团体，
+
+546
+00:32:54,060 --> 00:32:58,340
+okay, that the Americans are basically bribing
+美国基本上在贿赐
+
+547
+00:32:58,340 --> 00:33:02,280
+and arming, and they're basically fanatics.
+并且武装，基本是狂热分子。
+
+548
+00:33:02,380 --> 00:33:04,620
+Okay? They're ISIS. And
+好？他们是ISIS。还有
+
+549
+00:33:04,620 --> 00:33:06,800
+what the Americans want to do is send
+美国想做的事是派
+
+550
+00:33:06,800 --> 00:33:11,260
+them into Iran to cause as much problems as possible.
+把他们送到伊朗，制造尽可能多的问题。
+
+551
+00:33:11,660 --> 00:33:14,280
+Okay? Then you over here, you have Azerbaijan.
+好？然后你在这里，你有阿塞拜疆。
+
+552
+00:33:16,860 --> 00:33:20,740
+Azerbaijan, it is an independent country.
+阿塞拜疆，它是一个独立的国家。
+
+553
+00:33:20,980 --> 00:33:22,920
+What's really odd is that
+真正奇怪的是
+
+554
+00:33:22,920 --> 00:33:27,580
+the majority of ethnic Azeris are actually in Iran.
+大多数阿塞拜疆族人实际上在伊朗。
+
+555
+00:33:28,080 --> 00:33:30,860
+Six percent are in the country.
+六个百分点在阿塞拜疆国。
+
+556
+00:33:30,960 --> 00:33:32,360
+Forty percent are...
+四十％在……
+
+557
+00:33:32,380 --> 00:33:35,060
+Forty percent are in the country of Azerbaijan, which means that
+四十％在阿塞拜疆国，这意味着……
+
+558
+00:33:35,060 --> 00:33:37,740
+from the perspective of the Azerbaijani people,
+从阿塞拜疆人的角度来看……
+
+559
+00:33:38,260 --> 00:33:41,980
+this war could be an
+这场战争可能是一个机会，
+
+560
+00:33:41,980 --> 00:33:45,360
+opportunity to reunite the people,
+可以让人们团聚，
+
+561
+00:33:45,680 --> 00:33:48,520
+okay, and create a greater Azerbaijan.
+好，形成更大的阿塞拜疆。
+
+562
+00:33:49,080 --> 00:33:51,860
+So these are the three problem areas
+于是这三大问题区间……
+
+563
+00:33:51,860 --> 00:33:57,260
+that you have to watch as this war develops over the next few weeks,
+你需要在接下来几周内跟踪……
+
+564
+00:33:57,320 --> 00:33:58,800
+over the next few months. Okay?
+以及接下来几个月内观察……
+
+565
+00:33:59,160 --> 00:34:02,360
+So, we already know what's happening.
+于是，我们已经知道发生了什么。
+
+566
+00:34:02,360 --> 00:34:06,120
+We already know what the American strategy will be because we've seen it in Libya,
+我们已经知道美国的策略是什么，因为我们已经在利比亚看到过。
+
+567
+00:34:06,420 --> 00:34:08,020
+in Syria before.
+我们已经知道美国的策略是什么，因为我们已经在叙利亚看到过。
+
+568
+00:34:08,960 --> 00:34:10,320
+Okay, so what is the strategy?
+好的，那策略是什么？
+
+569
+00:34:10,760 --> 00:34:13,200
+Right. So, again,
+对，回到起点。
+
+570
+00:34:13,360 --> 00:34:17,780
+the strategy is to both attack without,
+策略是从外部同时发动攻击，
+
+571
+00:34:18,200 --> 00:34:21,220
+okay, from outside, and inside as well.
+好的，从外部也从内部同时进行。
+
+572
+00:34:21,780 --> 00:34:23,260
+So, what you're going to do is this.
+于是，你接下来要做的事就是这样。
+
+573
+00:34:23,400 --> 00:34:26,400
+You're going to arm these people,
+你要给这些人配备武器。
+
+574
+00:34:26,600 --> 00:34:31,040
+embed special forces into these insurgent groups to lead them.
+嵌入特种部队到这些叛军团中，领其作战。
+
+575
+00:34:31,040 --> 00:34:32,940
+You're going to attack them and provide air cover so
+你将攻击他们并提供空中掩护。
+
+576
+00:34:32,940 --> 00:34:37,120
+they have a clear path into Iran and are able to limit opposition, okay?
+他们有一条清晰的路线进入伊朗，并能限制反对手，好吗？
+
+577
+00:34:38,040 --> 00:34:41,280
+All right? So, now you're attacking from without.
+好了，现在你从外部发动攻击。
+
+578
+00:34:42,540 --> 00:34:47,820
+With attacking from within means to cause as much pain
+从内部发动攻击意味着造成尽可能多的痛苦
+
+579
+00:34:47,820 --> 00:34:49,740
+and suffering in the interior
+以及内部的苦难
+
+580
+00:34:50,100 --> 00:34:52,320
+of Iran as possible. All right?
+伊朗的可能性。好吗？
+
+581
+00:34:52,340 --> 00:34:55,700
+And how do you do that? Well, you do that through decapitation.
+然后你怎么做？好吧，你通过去头部来做。
+
+582
+00:34:56,560 --> 00:34:57,800
+Okay, let's go over the strategies.
+好了，接下来我们来回顾一下策略。
+
+583
+00:34:59,300 --> 00:35:01,660
+Okay. Decapitation.
+好的。去头部。
+
+584
+00:35:03,580 --> 00:35:05,480
+Okay. And
+好的。还有
+
+585
+00:35:05,480 --> 00:35:09,320
+what you're doing is you're removing the elite,
+你正在做的就是去掉精英。
+
+586
+00:35:09,460 --> 00:35:13,560
+okay, or what we call command and control.
+好的，或者我们称之为指挥控制。
+
+587
+00:35:17,240 --> 00:35:22,280
+Okay? You're basically limiting the capacity of Iran to govern itself,
+好的？你基本上限制了伊朗自我治理的能力，拥有领导层，拥有精英。
+
+588
+00:35:22,400 --> 00:35:24,820
+to have a leadership, to have an elite. All right?
+好了，全部就这样。
+
+589
+00:35:24,880 --> 00:35:26,980
+Command and control. Okay? So, that's the first strategy.
+指挥控制。好吧？这就是第一个策略。
+
+590
+00:35:27,660 --> 00:35:29,760
+Second strategy. Okay.
+第二个策略。好。
+
+591
+00:35:32,520 --> 00:35:35,260
+And the third strategy is aerial bombardment, okay?
+第三个策略是空中轰炸，好吧？
+
+592
+00:35:35,320 --> 00:35:40,340
+Aerial supremacy. So,
+空中霸权。于是，
+
+593
+00:35:40,460 --> 00:35:44,420
+again, America has the most advanced airplanes in the world.
+再说一次，美国拥有世界上最先进的飞机。
+
+594
+00:35:44,560 --> 00:35:46,020
+And the way that
+而且方式是
+
+595
+00:35:46,020 --> 00:35:51,800
+it's using its airplanes is to destroy as much military installation as possible,
+它使用飞机的目的是尽可能摧毁军事设施，
+
+596
+00:35:52,000 --> 00:35:56,140
+but it's also engaging in acts of sabotage.
+它还在进行破坏行动。
+
+597
+00:35:56,360 --> 00:35:59,380
+Okay? So, what they're doing is they're carpet bombing.
+他们正在进行地毯轰炸。
+
+598
+00:36:03,980 --> 00:36:06,140
+Okay? So, they're carpet bombing Tehran.
+好的？于是，他们在对德黑兰进行地毯轰炸。
+
+599
+00:36:06,300 --> 00:36:11,480
+Okay? They're doing soft targeting.
+好的？他们在进行软目标打击。
+
+600
+00:36:13,580 --> 00:36:17,860
+Soft targeting. Soft targeting means that instead of attacking military installations, you attack hospitals.
+软目标打击是指不是攻击军事设施，而是攻击医院。
+
+601
+00:36:18,260 --> 00:36:19,540
+Why? Because
+为什么？因为
+
+602
+00:36:19,540 --> 00:36:24,220
+you're degrading the capacity to rejuvenate itself,
+你正在削弱自身的再生能力，
+
+603
+00:36:24,340 --> 00:36:28,420
+to be resilient. Okay? Now, the last thing is something called double tap.
+以便更具韧性。好了？最后一件事叫双击。
+
+604
+00:36:29,960 --> 00:36:31,220
+Double tap is this. Okay?
+双击就是这样。好吗？
+
+605
+00:36:31,880 --> 00:36:36,120
+And it's really illegal or against international law.
+它真的很不合法，或者说是违反国际法的。
+
+606
+00:36:36,320 --> 00:36:38,300
+What you do is this. You attack a place.
+你所做的就是这样。你先攻击一个地方。
+
+607
+00:36:38,780 --> 00:36:42,000
+Right? You kill some people. And then people try to come
+对吧？你先杀几个人。然后人们会去赶来救伤者。
+
+608
+00:36:42,000 --> 00:36:44,240
+and help the people who are injured.
+他们可能就是医生。
+
+609
+00:36:44,700 --> 00:36:47,300
+And they could be like doctors.
+And they could be like doctors.
+
+610
+00:36:47,600 --> 00:36:49,120
+It could be emergency personnel.
+它可能是急救人员。
+
+611
+00:36:49,420 --> 00:36:50,820
+It could be relatives. Right? And then
+它可能是亲属。对吧？然后
+
+612
+00:36:50,820 --> 00:36:54,720
+you strike again to create as many civilian casualties as possible.
+你再打一次，制造尽可能多的平民伤亡。
+
+613
+00:36:54,780 --> 00:36:59,220
+Okay? And the entire idea is to create as much fear
+好的？整个想法就是制造尽可能多的恐惧与焦虑
+
+614
+00:36:59,220 --> 00:37:02,520
+and anxiety in people as possible
+让人们失去抵抗的能力。
+
+615
+00:37:02,520 --> 00:37:06,120
+so that they lose the capacity to resist.
+so that they lose the capacity to resist.
+
+616
+00:37:07,260 --> 00:37:09,080
+And the last thing you do...
+然后你做的最后一件事……
+
+617
+00:37:09,080 --> 00:37:11,880
+And the last thing, of course,
+最后一件事，当然是……
+
+618
+00:37:12,000 --> 00:37:15,340
+is to arm
+就是武装
+
+619
+00:37:15,340 --> 00:37:18,780
+and bribe insurgents.
+并贿赂叛军。
+
+620
+00:37:20,020 --> 00:37:24,160
+Okay? So, these are the three main pillars of the American strategy.
+好吧？所以，这就是美国战略的三大支柱。
+
+621
+00:37:24,160 --> 00:37:26,520
+And you will see this over the next few weeks.
+接下来几周你会看到这一点。
+
+622
+00:37:28,180 --> 00:37:31,420
+The problem with this is
+问题在于……
+
+623
+00:37:31,420 --> 00:37:33,460
+that when you do these three things,
+当你做这三件事时，
+
+624
+00:37:33,700 --> 00:37:36,240
+you're not actually hurting the Iranians.
+你并没有真正伤害伊朗人。
+
+625
+00:37:36,340 --> 00:37:38,140
+You're actually helping them.
+你实际上在帮他们。
+
+626
+00:37:38,440 --> 00:37:41,420
+Because remember, the law of asymmetry states
+因为记得，非对称法则说……
+
+627
+00:37:41,420 --> 00:37:45,960
+that whichever group is able to create energy,
+……只要哪一方能创造能量，
+
+628
+00:37:46,260 --> 00:37:48,200
+openness, and cohesion will win.
+开放与凝聚将获胜。
+
+629
+00:37:48,400 --> 00:37:54,140
+And guess what, guys? This American strategy is going to create a more powerful
+猜猜怎么了，伙计们？这美国策略将造就更强大的……
+
+630
+00:37:54,140 --> 00:37:56,620
+and more powerful group. A more energetic, more open, and
+更有活力、更开放、更有活力的……
+
+631
+00:37:56,620 --> 00:37:59,640
+more cohesive Persian society.
+更具凝聚力的波斯社会。
+
+632
+00:38:00,180 --> 00:38:01,520
+All right? Let me show you how.
+好的？让我来演示。
+
+633
+00:38:01,980 --> 00:38:03,300
+All right. Decapitation.
+好的。去头术。
+
+634
+00:38:04,420 --> 00:38:09,000
+We just said that one major problem for America is elite overproduction.
+我们刚才说过，美国的一个主要问题是精英过剩。
+
+635
+00:38:09,280 --> 00:38:11,920
+Right? Well, with decapitation,
+对吧？好吧，去头术之后，
+
+636
+00:38:12,100 --> 00:38:17,000
+what you're doing is you're
+你正在做的就是你……
+
+637
+00:38:17,000 --> 00:38:19,180
+solving this problem for the Iranians.
+解决了伊朗人的这个问题。
+
+638
+00:38:19,540 --> 00:38:24,120
+Right? Before, the huge problem for the Iranians were you have too many leaders, too many leaders And now, you're doing this to the Iranians.
+之前，伊朗人的大问题是领导层过多，过多，过多。现在，你正在为伊朗人做这件事。
+
+639
+00:38:24,120 --> 00:38:28,260
+And they all have their own stupid opinion and they all want to lead this war.
+他们都有自己的傻瓜想法，都想带领这场战争。
+
+640
+00:38:28,400 --> 00:38:30,860
+Right? But by killing so many leaders,
+对吧？但杀掉这么多领导人，
+
+641
+00:38:31,140 --> 00:38:35,280
+you allow for more mobility,
+你就让他们更灵活，
+
+642
+00:38:35,640 --> 00:38:37,020
+for more meritocracy.
+更能体现才干的制度。
+
+643
+00:38:37,320 --> 00:38:41,240
+Right? You're solving the problem of elite overproduction for the Iranians.
+对吧？你正在解决伊朗人精英过剩的问题。
+
+644
+00:38:41,500 --> 00:38:43,640
+That's a huge, huge bonus, guys.
+这可是一个巨大的、巨大的加分，伙计们。
+
+645
+00:38:43,800 --> 00:38:46,520
+Okay? So,
+好吧？
+
+646
+00:38:46,520 --> 00:38:49,360
+the leadership will become much more lean,
+领导层将变得更精简，
+
+647
+00:38:49,540 --> 00:38:53,720
+much more mean, much more determined, and much more strategic.
+更有决断力，更有决意，且更具战略性。
+
+648
+00:38:54,420 --> 00:38:56,700
+Okay? That's number one.
+好的？这就是第一点。
+
+649
+00:38:56,820 --> 00:38:58,160
+Number two, Arab supremacy.
+第二点，阿拉伯霸权。
+
+650
+00:38:59,380 --> 00:39:02,340
+Well, when you do this to people, you cover bomb Tehran,
+好吧，当你把这件事做给人们时，覆盖德黑兰的炸弹，
+
+651
+00:39:02,580 --> 00:39:04,640
+you're creating a more cohesive society.
+你就能创造一个更团结的社会。
+
+652
+00:39:06,860 --> 00:39:08,760
+Why? Because
+为什么？因为
+
+653
+00:39:08,760 --> 00:39:13,940
+the major conflict in Iran for many decades was the conflict between the urban areas
+多年来伊朗的主要冲突是城市地区与乡村地区之间的冲突。
+
+654
+00:39:13,940 --> 00:39:16,860
+and the rural areas. The rural areas were very religious,
+乡村地区非常宗教化。
+
+655
+00:39:17,000 --> 00:39:18,820
+very poor, very backward.
+非常贫穷，十分落后。
+
+656
+00:39:19,080 --> 00:39:20,920
+And the urban areas were educated,
+而城市地区则受过教育，世俗化，且…
+
+657
+00:39:21,280 --> 00:39:23,340
+secular, and...
+secular, and...
+
+658
+00:39:23,340 --> 00:39:25,160
+Right? They were very progressive. Okay?
+对吗？他们很进步。好了？
+
+659
+00:39:25,300 --> 00:39:29,200
+And so, there's this huge conflict that led to a lot of riots,
+于是，出现了这场大冲突，导致伊朗发生了大量骚乱，
+
+660
+00:39:29,260 --> 00:39:31,900
+a lot of protests in Iran.
+随后出现了大量示威。
+
+661
+00:39:32,120 --> 00:39:35,000
+But when you cover bomb the cities,
+但当你轰炸城市时，
+
+662
+00:39:35,140 --> 00:39:39,880
+which are the main source of support for progressive Western policies,
+它们是支持进步西方政策的主要来源，
+
+663
+00:39:40,240 --> 00:39:43,840
+you make them united with the rural areas.
+你把他们与农村地区团结起来。
+
+664
+00:39:43,980 --> 00:39:45,360
+Okay? Does that make sense?
+好了？这样说通吗？
+
+665
+00:39:45,980 --> 00:39:48,940
+The Iranian people no longer see themselves, each other, as enemies.
+伊朗人民不再把彼此视为敌人。
+
+666
+00:39:49,160 --> 00:39:51,780
+They see the Americans, the Israelis, as enemies.
+他们把美国人、以色列人视为敌人。
+
+667
+00:39:52,000 --> 00:39:53,700
+You create a much more cohesive society.
+你创造了更为凝聚的社会。
+
+668
+00:39:53,700 --> 00:39:54,920
+Which are...
+它们是……
+
+669
+00:39:54,920 --> 00:39:57,400
+Who are willing to fight together.
+谁愿意一起作战
+
+670
+00:39:57,760 --> 00:39:59,080
+And that's a problem.
+这就是问题所在
+
+671
+00:39:59,380 --> 00:40:00,740
+Okay? All right.
+好的？没问题。
+
+672
+00:40:00,920 --> 00:40:04,740
+The last thing. Yes, you are arming the assertions,
+最后一件事。是的，你正在装备主张。
+
+673
+00:40:04,780 --> 00:40:07,040
+the Bullocks, the Kurds, the Israelis.
+布尔克人、库尔德人、以色列人。
+
+674
+00:40:07,600 --> 00:40:11,160
+Okay? That's fine. The problem with this is
+好？没问题。这个的难点在于
+
+675
+00:40:11,160 --> 00:40:14,460
+that you are now activating,
+你现在正把它们激活，
+
+676
+00:40:14,740 --> 00:40:17,520
+galvanizing Persian nationalism.
+激发波斯民族主义。
+
+677
+00:40:20,600 --> 00:40:23,680
+Right? For the longest time, you've been doing this.
+对吗？你已经做了很久。
+
+678
+00:40:23,680 --> 00:40:29,000
+For the longest time, the Persian national identity was suppressed by the theocracy.
+在很长一段时间里，波斯民族身份被神权统治压抑。
+
+679
+00:40:29,360 --> 00:40:31,520
+Because they want to create a more...
+因为他们想创造一个更…
+
+680
+00:40:31,520 --> 00:40:36,120
+They want to create a grand religion that unites all ethnicities.
+他们想创造一个统一所有民族的伟大宗教。
+
+681
+00:40:36,460 --> 00:40:41,080
+When you turn the other minorities against the Iranians,
+当你把其他少数民族拉到伊朗人对立时，
+
+682
+00:40:41,080 --> 00:40:43,660
+then the Persian people have to come together and
+然后波斯人要聚在一起，记住自己的历史，庆祝自己的身份。
+
+683
+00:40:43,660 --> 00:40:47,040
+remember their history, celebrate their identity.
+这才是关键。好吗？
+
+684
+00:40:47,540 --> 00:40:49,260
+And this is the key. Okay?
+And this is thekey. Okay?
+
+685
+00:40:49,260 --> 00:40:55,180
+Once the Persian people are able to activate their long -lost memories,
+一旦波斯人能够激活久失的记忆，
+
+686
+00:40:55,420 --> 00:40:57,800
+go back in the past and remember their greatness,
+回溯过去，记住他们的伟大，
+
+687
+00:40:58,100 --> 00:41:02,000
+they come together as an energetic, open, and cohesive society.
+便会聚成一支活力十足、开放且团结的社会。
+
+688
+00:41:04,280 --> 00:41:08,060
+So, yes, the Americans have this strategy
+所以，没错，美国人确实有这个策略
+
+689
+00:41:08,060 --> 00:41:12,640
+that worked in Libya and Syria and other places, but it's not going to work in Iran.
+那在利比亚、叙利亚等地奏效，但在伊朗却不会奏效。
+
+690
+00:41:13,000 --> 00:41:17,760
+In fact, it's going to do the opposite in Iran.
+实际上，它在伊朗会做相反的事。
+
+691
+00:41:17,840 --> 00:41:20,900
+Okay? And then you're like, well,
+好吧？然后你会说，嗯，
+
+692
+00:41:21,100 --> 00:41:23,160
+why don't the Americans not do this?
+美国人为什么不这么做呢？
+
+693
+00:41:23,420 --> 00:41:26,180
+And I already told you, because it is an empire, okay?
+我已经告诉你了，因为它是一个帝国，明白吗？
+
+694
+00:41:26,580 --> 00:41:28,840
+It doesn't care about Iran, it cares about itself.
+它不关心伊朗，关心的是自己。
+
+695
+00:41:29,580 --> 00:41:32,560
+And so, it's sort of stuck with this policy, because, remember,
+于是它就被这套政策卡住了，记得吗，
+
+696
+00:41:32,700 --> 00:41:36,020
+it's trying to win this war as quickly as possible,
+它正努力尽快赢得这场战争。
+
+697
+00:41:36,140 --> 00:41:40,160
+because it doesn't have the manufactured capacity to fight this war for a long time.
+因为它没有制造能力能持续作战
+
+698
+00:41:40,800 --> 00:41:42,960
+It's trying to reduce as many civilian casualties, sorry,
+它正努力减少尽可能多的平民伤亡
+
+699
+00:41:43,040 --> 00:41:46,140
+it's trying to reduce as many casualties among its soldiers as possible,
+它正努力尽可能减少士兵伤亡
+
+700
+00:41:46,300 --> 00:41:50,900
+because the Americans don't want to fight this war, they don't have the political will to fight this war.
+因为美国人不想打这场战争，缺乏政治意愿
+
+701
+00:41:51,060 --> 00:41:53,920
+Americans are trying to win this war cheaply and fast.
+美国人正试图以低成本、快速赢得这场战争。
+
+702
+00:41:54,320 --> 00:41:56,180
+If it doesn't, then Americans are in a lot of trouble.
+如果不行，美国人就会陷入大麻烦。
+
+703
+00:41:57,220 --> 00:41:59,440
+Okay? Does that make sense, guys? All right.
+好的？这样说通吗，大家？好的。
+
+704
+00:41:59,960 --> 00:42:02,880
+Let me now conclude,
+现在让我来总结一下，
+
+705
+00:42:03,620 --> 00:42:08,040
+oh, sorry, let me now discuss the Iranian strategy, okay?
+哦，抱歉，让我现在来讨论伊朗的策略，好吗？
+
+706
+00:42:08,180 --> 00:42:13,020
+So, what the Americans are using is a classic strategy called siege warfare.
+于是美国人采用的就是经典的围攻战术。
+
+707
+00:42:15,520 --> 00:42:17,380
+Okay? Okay? Okay?
+好？好？好？
+
+708
+00:42:18,240 --> 00:42:23,060
+And so, what the Iranians are going to do is they're going to respond with a classic strategy called guerrilla warfare.
+于是伊朗人将采取的就是经典的游击战术。
+
+709
+00:42:28,800 --> 00:42:31,520
+Okay? And guerrilla warfare, guys, it's this simple, it's hide and seek.
+好？游击战术，大家，就是这么简单，藏身与寻找。
+
+710
+00:42:32,880 --> 00:42:37,480
+All right? So, you come bomb me with all, everything you have, I'll just hide in my mountains.
+好的？所以，你们用全力轰炸我，我就藏在山里。
+
+711
+00:42:38,040 --> 00:42:40,020
+And then when you leave, what am I going to do?
+然后你们离开，我又该怎么办？
+
+712
+00:42:40,080 --> 00:42:42,660
+I'm going to attack your GCC countries.
+我要攻击你们的海合组织国家。
+
+713
+00:42:42,940 --> 00:42:45,120
+I'm going to lob drones, rockets at you.
+我要投掷无人机、火箭。
+
+714
+00:42:45,280 --> 00:42:47,860
+I'm going to lob rockets at Israel, okay?
+我要投掷火箭到以色列，行吗？
+
+715
+00:42:47,860 --> 00:42:50,700
+I don't have, I don't have to strike that hard,
+我没必要打得这么猛，
+
+716
+00:42:50,980 --> 00:42:53,040
+I just have to make, I just have to be a pain in the ass, okay?
+我只要制造点麻烦，搞点小麻烦，行吗？
+
+717
+00:42:53,240 --> 00:42:55,680
+Because then, what happens is you're forced to come back and
+于是你们就得回去应战，
+
+718
+00:42:55,680 --> 00:43:00,140
+bomb the living hell out of me, but guess what, I'll just hide in my mountains again, it's hide and seek, okay?
+把我炸成地狱吧，但你猜怎么了，我又会躲进山里，像捉迷藏一样，行吗？
+
+719
+00:43:00,940 --> 00:43:03,880
+So, Iran can do this for years, and years,
+于是伊朗可以这样做多年，几年，
+
+720
+00:43:04,000 --> 00:43:08,400
+and years, but again, remember, America is forced to win this war as fast as possible,
+几年，然而记得，阿美必须尽快赢得这场战争，
+
+721
+00:43:08,560 --> 00:43:10,120
+because there is no political will,
+因为没有政治意愿，
+
+722
+00:43:10,760 --> 00:43:12,820
+they don't have manufacturing capacity,
+他们没有制造能力，
+
+723
+00:43:13,260 --> 00:43:16,340
+and they don't want to,
+他们也不想这么做。
+
+724
+00:43:16,440 --> 00:43:19,040
+they don't want that many cats, they don't want to do any casualties, and they can make damage, okay?
+他们不想有那么多的猫，他们不想造成任何伤亡，而且他们能造成损失，好吗？
+
+725
+00:43:19,420 --> 00:43:21,860
+Does that make sense, guys? Alright, so
+这有道理吗，大家？好吧，接下来是这样：
+
+726
+00:43:21,860 --> 00:43:24,900
+that's all Iran's going to do, Iran's just going to be a pain in the ass, okay?
+这就是伊朗要做的全部，伊朗只会是个麻烦，行吗？
+
+727
+00:43:25,040 --> 00:43:26,580
+A pain in the ass.
+一个麻烦
+
+728
+00:43:26,780 --> 00:43:30,880
+It's trying to create as much economic damage as possible, it's trying to create as much fear as possible,
+它正试图造成尽可能多的经济损失，正试图制造尽可能多的恐慌。
+
+729
+00:43:31,060 --> 00:43:32,400
+alright?
+好吧？
+
+730
+00:43:32,600 --> 00:43:34,420
+Which will force America to attack.
+这将迫使美国发动攻击。
+
+731
+00:43:34,880 --> 00:43:38,200
+The grand question is this,
+大问题是这个，
+
+732
+00:43:38,460 --> 00:43:42,960
+will America launch a ground invasion, okay?
+美国会发动陆战吗，行吗？
+
+733
+00:43:43,160 --> 00:43:47,820
+Because if it does, then I'll be in the middle of a war.
+因为如果那样做，我就会陷入战争之中。
+
+734
+00:43:47,820 --> 00:43:49,900
+And, um, they've lost the war, okay?
+而且，他们已经输了战争，行吗？
+
+735
+00:43:50,540 --> 00:43:53,640
+Alright? Because, look, look, look at Iran, okay?
+好吧？因为，看看，看看伊朗，好吗？
+
+736
+00:43:53,940 --> 00:43:56,020
+Mountains and mountains, deserts,
+山山山，沙沙沙，
+
+737
+00:43:56,020 --> 00:44:00,540
+it is impossible to occupy this country,
+它占领这个国家不可能，
+
+738
+00:44:00,760 --> 00:44:03,300
+alright?
+好吧？
+
+739
+00:44:03,420 --> 00:44:06,300
+It's impossible to invade, and what Iran does want to do,
+不可能入侵，伊朗想做的事，
+
+740
+00:44:06,440 --> 00:44:09,020
+is be so, such a pain in the ass,
+就是这样，真是个大麻烦，
+
+741
+00:44:09,240 --> 00:44:11,700
+to commit so much guerrilla warfare, that
+去发动这么多游击战，
+
+742
+00:44:11,700 --> 00:44:14,400
+America is forced to invade, okay,
+美国被迫入侵，好吗，
+
+743
+00:44:14,460 --> 00:44:17,360
+from over here, and from over here, and from over here,
+从这里开始，从那里开始，从这里开始，
+
+744
+00:44:17,440 --> 00:44:20,400
+and from over here, and from over here, and over here and then eventually uh
+从那里开始，从这里开始，从那里开始，最终……
+
+745
+00:44:20,400 --> 00:44:21,400
+but the problem is that
+但问题是……
+
+746
+00:44:21,400 --> 00:44:24,400
+america doesn't have doesn't have the resources the political will
+美国没有足够的资源和政治意愿
+
+747
+00:44:24,400 --> 00:44:29,400
+the manufacturing capacity to fight this war okay doesn't make sense right
+制造能力去打这场战争，没道理吧
+
+748
+00:44:29,400 --> 00:44:32,660
+so now you're like okay i understand all this
+于是你说：好的，我明白了。
+
+749
+00:44:32,660 --> 00:44:37,040
+but why the hell is this war happening
+但这场战争到底为什么会爆发？
+
+750
+00:44:37,040 --> 00:44:40,980
+then if i can tell you this okay i'm sure
+如果我能告诉你，我很确定……
+
+751
+00:44:40,980 --> 00:44:44,460
+that their generals can tell them this as well i'm sure
+我确信他们的将军也能这么告诉他们
+
+752
+00:44:44,460 --> 00:44:46,340
+that they know that
+我确信他们知道这点
+
+753
+00:44:46,340 --> 00:44:51,820
+this was the case in fact for years america has been planning to invade iran
+这就是事实：多年来美国一直在筹划入侵伊朗
+
+754
+00:44:51,820 --> 00:44:55,460
+and for years the generals was like no that's suicidal let's not do this okay
+于是多年来将军们说：不，这很自杀，咱们不干吧。
+
+755
+00:44:55,460 --> 00:44:58,540
+so why is this happening
+那这为什么会发生？
+
+756
+00:44:58,540 --> 00:45:00,520
+and
+而且
+
+757
+00:45:00,520 --> 00:45:03,360
+unfortunately we don't know because
+不幸的是我们不知道，原因是
+
+758
+00:45:03,360 --> 00:45:06,640
+the administration is not telling us at first trump is like oh
+政府没有告诉我们，特朗普先说了“哦”，
+
+759
+00:45:06,640 --> 00:45:09,620
+because the nuclear talks didn't go well but
+因为核谈判不顺利
+
+760
+00:45:09,620 --> 00:45:10,980
+we know for a fact that
+我们知道的事实是
+
+761
+00:45:10,980 --> 00:45:16,040
+the iranians were willing to agree to all terms of the americans
+伊朗人愿意接受美国的全部条款
+
+762
+00:45:16,040 --> 00:45:17,680
+and then
+然后
+
+763
+00:45:17,680 --> 00:45:20,460
+uh marco rubio who's who's who's a secretary of state
+呃，马可·鲁比奥，谁，谁，谁，国务卿？
+
+764
+00:45:20,460 --> 00:45:25,020
+he came out yesterday he said something really moronic he said
+他昨天出来说了点很糊涂的话，叫他说了……
+
+765
+00:45:25,020 --> 00:45:27,500
+that why did we attack iran because
+他说，为什么我们要进攻伊朗？
+
+766
+00:45:27,500 --> 00:45:30,860
+we heard the israelis were gonna attack first
+我们听说以色列人会先发攻击
+
+767
+00:45:30,860 --> 00:45:34,980
+and then iranians were gonna respond by attacking both the israelis
+随后伊朗人会回应，先攻击以色列人再攻击我们美国人
+
+768
+00:45:34,980 --> 00:45:36,940
+and us the americans and therefore
+于是如此
+
+769
+00:45:36,940 --> 00:45:39,320
+we have to preempt the israelis by
+我们得先行先手打以色列
+
+770
+00:45:39,320 --> 00:45:43,400
+attacking first that's just retarded okay all right
+先发攻击就行，没啥大事，好的，没问题
+
+771
+00:45:43,400 --> 00:45:46,480
+so they don't they don't know why they're doing this
+他们也不知道自己为什么这么做
+
+772
+00:45:46,480 --> 00:45:51,560
+but there has to be a reason right okay well clue is this a clue is
+但一定有原因，嗯，好吧，线索是这样，线索是…
+
+773
+00:45:53,540 --> 00:45:58,460
+this the soldiers are being asked the american soldiers are being asked to fight this war
+士兵们被问到，美国士兵被问去打这场战争
+
+774
+00:45:58,460 --> 00:46:01,300
+and again no one knows why this war is happening
+再说一次，没人知道这场战争为何发生
+
+775
+00:46:01,300 --> 00:46:03,740
+but there's reporting that
+但有报道说
+
+776
+00:46:03,740 --> 00:46:06,060
+the generals are telling the soldiers
+将军官对士兵说
+
+777
+00:46:06,060 --> 00:46:07,700
+this is a war
+这是一场战争
+
+778
+00:46:07,700 --> 00:46:12,820
+for jesus this is
+对耶稣来说这就是
+
+779
+00:46:12,820 --> 00:46:17,480
+a war to create the second
+一场创造第二个
+
+780
+00:46:17,480 --> 00:46:21,160
+coming of jesus okay this is a German Larson and
+耶稣的到来，好的，这是一位德国拉森和
+
+781
+00:46:21,160 --> 00:46:24,220
+he's writing this on on self -stat okay US troops were
+他正在写这件事在自我-状态，好，美国军队是
+
+782
+00:46:24,220 --> 00:46:29,140
+told Iran war is for Armageddon the return of Jesus what is this all right
+被告知伊朗战争是阿玛格顿的归来，耶稣的回归，这到底是什么？
+
+783
+00:46:29,140 --> 00:46:31,680
+so so sorry so
+于是，我很抱歉，嗯……
+
+784
+00:46:33,140 --> 00:46:36,180
+so some soldiers
+于是有些士兵
+
+785
+00:46:36,180 --> 00:46:39,760
+who are not Christians were told
+他们不是基督徒被告知
+
+786
+00:46:39,760 --> 00:46:41,060
+that there's a war for Jesus and
+有一场为耶稣而战的战争，嗯
+
+787
+00:46:41,060 --> 00:46:45,640
+like wait a minute we're not we're not Christians we're Muslims or we're atheists why are we fighting this war
+等一下，我们不是基督徒，我们是穆斯林还是无神论者，为什么要打这场战争？
+
+788
+00:46:45,640 --> 00:46:50,220
+and so they let file complaint about the speech okay
+于是他们让文件投诉关于演讲，好吗？
+
+789
+00:46:50,220 --> 00:46:53,500
+and we're going to read a part of this email
+我们将阅读这封邮件的一部分
+
+790
+00:46:53,500 --> 00:46:55,520
+that the soldiers who
+那支士兵们
+
+791
+00:46:55,520 --> 00:46:59,940
+are dissenting sent to some other people to complain about this okay
+他们异议后被派给其他人去投诉，好吗
+
+792
+00:46:59,940 --> 00:47:02,100
+so um could you read please
+那么，呃，你能读一下吗
+
+793
+00:47:05,480 --> 00:47:08,800
+I am a NCO rank withheld in our unit
+我是我们部队的中士
+
+794
+00:47:08,800 --> 00:47:12,140
+this morning our commander opened up the combat readiness
+今天早上我们的指挥官展开了作战准备状态简报
+
+795
+00:47:12,140 --> 00:47:15,800
+status briefing by urging us to not be afraid as
+他鼓励我们不必怕
+
+796
+00:47:15,800 --> 00:47:18,440
+to what is happening with our combat operations in
+关于我们在伊朗的作战行动正在进行的事
+
+797
+00:47:18,440 --> 00:47:21,340
+Iran stop okay afraid that's what tells us
+停下来了，好的，害怕的那件事告诉我们了
+
+798
+00:47:21,340 --> 00:47:27,300
+they're losing the war okay right keep on going he urged us to tell our troops
+他们正在失去这场战争，好的，继续去吧，他鼓励我们去告诉我们的部队
+
+799
+00:47:27,300 --> 00:47:30,140
+that this was all part of God's Divine Plan and
+那是上帝神圣计划的一部分，且他特别说……
+
+800
+00:47:30,140 --> 00:47:35,320
+he specifically wait a minute here wait a minute God's Divine Plan God's not
+他特意停顿一下，等一下，上帝神圣计划不是……
+
+801
+00:47:36,220 --> 00:47:41,180
+the one ordering them to fight this war it's Trump or the American military okay this is kind of weird
+不是让他们打这场战争的命令是特朗普还是美国军方，这有点奇怪
+
+802
+00:47:41,180 --> 00:47:45,600
+and he specifically referenced numerous citations out of
+他特别引用了《启示录》中的多处引文，关于末日之战和耶稣的即将归来。
+
+803
+00:47:45,600 --> 00:47:48,600
+the book of Revelation referring to Armageddon and
+他提到《启示录》中的多处引文，关于末日之战和耶稣的即将归来。
+
+804
+00:47:48,600 --> 00:47:51,920
+the imminent return of Jesus Christ he said that
+他特别引用了《启示录》中的多处引文，关于末日之战和耶稣的即将归来。
+
+805
+00:47:51,920 --> 00:47:55,460
+President Trump has been anointed by Jesus to light
+特朗普总统已被耶稣膏油，点燃伊朗的火炬，发动末日之战，标志他归来
+
+806
+00:47:55,460 --> 00:47:58,520
+the signal fire in Iran to cause Armageddon and
+伊朗的火炬已被点燃，发动末日之战，标志他归来
+
+807
+00:47:58,520 --> 00:48:01,180
+mark his return to Earth oh my God
+哦，我的天啊
+
+808
+00:48:01,180 --> 00:48:05,040
+President Trump the fire in Iran it's all apart
+特朗普总统，伊朗的火焰只是更大计划的一部分
+
+809
+00:48:05,480 --> 00:48:08,660
+of a grand plan to destroy the world
+用来毁灭世界
+
+810
+00:48:08,660 --> 00:48:11,860
+so that Jesus will return what is this craft okay keep on going
+以便耶稣归来
+
+811
+00:48:11,860 --> 00:48:14,900
+he had a big grin on his face on his
+他脸上露出大笑容
+
+812
+00:48:14,900 --> 00:48:18,680
+face okay he's happy about this guys the world is ending yeah
+他很开心，世界要结束了，嗯
+
+813
+00:48:19,320 --> 00:48:22,420
+keep on going when he said all of this which
+继续说完这句
+
+814
+00:48:22,420 --> 00:48:25,600
+made his message seem even more crazy our
+让他的发言更显疯狂，我们的指挥官很可能被描述为最初的基督徒
+
+815
+00:48:25,600 --> 00:48:29,020
+commander would probably be described as a Christian first
+他已是这般很久了
+
+816
+00:48:29,020 --> 00:48:31,960
+supporter he's been this way for a very long time
+supporter he's been thisway for a very long time
+
+817
+00:48:31,960 --> 00:48:33,500
+and makes it clear that
+并且让人明白
+
+818
+00:48:33,500 --> 00:48:37,500
+he desires all of us under him to become just like him as a Christian
+他希望我们所有人都像他一样成为基督徒
+
+819
+00:48:37,500 --> 00:48:40,540
+but what he did this morning was so toxic
+但他今天早上所做的事真是毒气十足
+
+820
+00:48:40,540 --> 00:48:41,540
+and over the line that
+并且在那一行上
+
+821
+00:48:41,540 --> 00:48:42,900
+it shocks many of us in attendance
+它让在场合的许多人惊讶
+
+822
+00:48:42,900 --> 00:48:45,140
+at the ops readiness briefing
+在作战备会议中
+
+823
+00:48:45,140 --> 00:48:49,320
+besides myself I am reaching out
+我自己之外，我正在联系
+
+824
+00:48:49,320 --> 00:48:53,340
+to MRFF on behalf of 15 fellow troops I know
+我代表我认识的15名同袍军人联系MRFF
+
+825
+00:48:53,340 --> 00:48:55,880
+you asked me about the religious views of our group who
+你问我我们小组的宗教观点
+
+826
+00:48:55,880 --> 00:48:59,220
+has requested help from the MRFF I can only tell you
+已向MRFF请求帮助，我只能告诉你
+
+827
+00:48:59,220 --> 00:49:05,580
+that I am Christian and at least 10 of us are Muslim and
+我是基督徒，至少十人是穆斯林，另外一人是穆斯林，我不知宗教或…
+
+828
+00:49:05,580 --> 00:49:08,900
+one is Muslim I don't know the religious or
+one is Muslim I don'tknow the religious or
+
+829
+00:49:08,900 --> 00:49:12,400
+non -religious status for the other three at this time okay
+非宗教身份的另外三人目前情况已知
+
+830
+00:49:12,400 --> 00:49:14,000
+so what is happening is that
+于是发生的事是这样
+
+831
+00:49:14,000 --> 00:49:16,800
+there's some crazy Christians in American
+美国有些疯狂的基督徒
+
+832
+00:49:16,800 --> 00:49:20,100
+military in the American government okay
+军队在美国政府中，好的
+
+833
+00:49:20,100 --> 00:49:21,160
+that
+那
+
+834
+00:49:21,160 --> 00:49:26,260
+want to use this war to end the world
+想用这场战争结束世界
+
+835
+00:49:27,300 --> 00:49:31,220
+to force Jesus to return that
+让耶稣归来
+
+836
+00:49:31,220 --> 00:49:35,460
+is why this war is happening okay I'm not saying I'm not saying
+这就是这场战争发生的原因，好的，我不是说……
+
+837
+00:49:35,480 --> 00:49:39,180
+that this is a reason why I'm saying like this
+这就是我这么说的原因
+
+838
+00:49:39,180 --> 00:49:42,100
+is a possibility okay all right this is Trump
+是个可能，好吧，没问题，这就是特朗普
+
+839
+00:49:42,100 --> 00:49:45,860
+and these are all religious leaders that support Trump because
+而这些都是支持特朗普的宗教领袖
+
+840
+00:49:45,860 --> 00:49:51,540
+they see him as Messiah they see him as this as this great hero
+他们把他视为弥赛亚，视为伟大英雄
+
+841
+00:49:51,540 --> 00:49:54,680
+who will cause the time of Christianity and
+他将开启基督教时代
+
+842
+00:49:54,680 --> 00:49:56,420
+the return of Jesus and
+耶稣的再来
+
+843
+00:49:56,420 --> 00:50:01,360
+that's a possibility as to why this war is being fought okay because
+这就是这场战争打响的可能原因
+
+844
+00:50:01,360 --> 00:50:07,160
+quite honestly there's no other reason it's hard for me to come up with another reason okay all right
+相当诚实地说，除了这个之外没有别的理由，我想不出别的理由来，没问题。
+
+845
+00:50:07,160 --> 00:50:09,240
+so this is something that
+这就是其中一个要点。
+
+846
+00:50:09,240 --> 00:50:11,960
+we will look at as we go along what
+我们会在过程中看……
+
+847
+00:50:11,960 --> 00:50:16,200
+is this crap what is Christian Zionism why would they think
+这是什么玩意？基督教犹太复国主义是什么？他们为什么这么想？
+
+848
+00:50:16,200 --> 00:50:20,780
+that this war in the Middle East will cause the return of Jesus okay well we'll discuss this later on
+那场中东战争将导致耶稣的再来，稍后我们再讨论。
+
+849
+00:50:20,780 --> 00:50:23,420
+but I wanted to but
+我想说的是……
+
+850
+00:50:23,420 --> 00:50:25,800
+now it leads us to another problem which
+现在它把我们带到另一个问题上，
+
+851
+00:50:25,800 --> 00:50:29,720
+is our entire class is
+我们的整堂课就是这样，
+
+852
+00:50:29,720 --> 00:50:33,980
+on game theory right guys this is kind of weird because
+在游戏理论上，大家好，这有点奇怪，因为
+
+853
+00:50:35,480 --> 00:50:36,740
+what this suggests is that
+这说明了什么
+
+854
+00:50:36,740 --> 00:50:42,040
+religion is more important okay
+宗教更重要，好的
+
+855
+00:50:42,040 --> 00:50:45,900
+so what's the point of game theory if people
+那么游戏理论的意义是什么？
+
+856
+00:50:45,900 --> 00:50:50,080
+don't play by game theory it's all if they're just religious fanatics
+不按游戏理论来玩，全部是他们只是宗教狂热者
+
+857
+00:50:51,120 --> 00:50:52,980
+all right and the answer is this and
+好了，答案就是这样，答案是它仍然是游戏理论。
+
+858
+00:50:52,980 --> 00:50:56,300
+the answer is it's still game theory
+答案是它仍然是游戏理论。
+
+859
+00:50:56,300 --> 00:50:58,420
+but the problem is that
+但问题在于
+
+860
+00:50:59,860 --> 00:51:03,620
+what you think of the game
+你对游戏的看法
+
+861
+00:51:03,620 --> 00:51:06,660
+that you think they're playing is not the game they're playing the reward that
+你认为他们在玩的是游戏还是奖励
+
+862
+00:51:06,660 --> 00:51:08,820
+you think they want at what is not the reward that
+你认为他们想要的不是那份奖励
+
+863
+00:51:08,820 --> 00:51:13,080
+they want okay we think in terms of material things okay
+他们想要的，好的，我们从物质层面来想
+
+864
+00:51:13,080 --> 00:51:18,800
+so money resources power we think
+所以是钱、资源、力量
+
+865
+00:51:18,800 --> 00:51:23,240
+that the war is being fought over these things
+战争正因这些事物而展开
+
+866
+00:51:23,240 --> 00:51:24,740
+and
+而
+
+867
+00:51:24,740 --> 00:51:28,160
+it's not all right the
+并非全部正确
+
+868
+00:51:28,160 --> 00:51:31,760
+Grand secret The Grand reveal all the semester
+大秘密：大揭示整个学期
+
+869
+00:51:31,760 --> 00:51:35,460
+all this course is this the real power the real power of war it's not
+这一课的全部内容就是战争的真正力量，真正的战争力量不是战争本身，而是战争的战争，它是战争，它是战争，它是战争，你在世界上的货币不是金钱，
+
+870
+00:51:35,460 --> 00:51:38,840
+war it's war it's war it's war it's war Your currency in the world is not money,
+war it's war it's war it's war it's warYour currency in the world is not money,
+
+871
+00:51:40,340 --> 00:51:43,020
+it is human consciousness.
+它是人类意识。
+
+872
+00:51:46,420 --> 00:51:47,740
+Or basically attention.
+或者说是注意力。
+
+873
+00:51:52,240 --> 00:51:54,900
+Okay? This is it, guys, okay?
+好的？这就是了，大家，好的？
+
+874
+00:51:55,580 --> 00:51:58,020
+Once you understand this idea, you understand everything.
+一旦你理解了这个想法，你就理解了一切。
+
+875
+00:51:59,020 --> 00:52:00,720
+But this is a hard idea to understand, so
+但这个想法很难理解，所以……
+
+876
+00:52:00,720 --> 00:52:04,000
+I'll need some time to actually explain this, alright?
+我需要一点时间来真正解释它，好吗？
+
+877
+00:52:05,460 --> 00:52:08,120
+This war is being fought
+这场战争正在进行
+
+878
+00:52:08,120 --> 00:52:13,400
+to control the consciousness of the human race,
+为了掌控人类的意识
+
+879
+00:52:13,540 --> 00:52:16,440
+because it is our consciousness that creates reality itself.
+因为正是我们的意识创造了现实
+
+880
+00:52:16,840 --> 00:52:21,160
+That's the source of all wealth and all power in this world, okay?
+那是这个世界所有财富和力量的源泉，明白吗？
+
+881
+00:52:21,260 --> 00:52:22,720
+That's why this is happening.
+这就是事情发生的原因。
+
+882
+00:52:22,920 --> 00:52:26,940
+In other words, this is a war not just for Iran,
+换句话说，这场战争不只是为了伊朗。
+
+883
+00:52:27,180 --> 00:52:29,120
+this is a war not just for the Middle East,
+这是一场不只是中东的战争，
+
+884
+00:52:29,240 --> 00:52:32,220
+it is a war for the soul of humanity.
+它是一场为人类灵魂而战的战争。
+
+885
+00:52:32,920 --> 00:52:34,220
+This is what's happening, guys.
+这就是现在发生的事，大家。
+
+886
+00:52:34,900 --> 00:52:37,760
+Alright, this is what World War III is.
+好了，三战的样子就是这样。
+
+887
+00:52:37,940 --> 00:52:42,400
+World War III is meant to be the last and final war of all human history,
+三战本是人类历史上最后一次大冲突，
+
+888
+00:52:43,300 --> 00:52:48,100
+because whoever win this war will control the very soul of human existence,
+谁赢了它，谁就掌握了人类存在的灵魂。
+
+889
+00:52:48,380 --> 00:52:50,120
+for all eternity, okay?
+为永恒而已，行吗？
+
+890
+00:52:50,220 --> 00:52:51,440
+That is the end game.
+这就是终局。
+
+891
+00:52:52,960 --> 00:52:54,860
+And I know this is a hard idea to understand,
+我知道这很难懂。
+
+892
+00:52:55,260 --> 00:52:58,500
+but as we go along, I will explain this to you.
+但随着进展，我会向你们解释这一点。
+
+893
+00:52:58,780 --> 00:53:02,980
+That is the grand secret behind the world.
+那就是世界背后的大秘密。
+
+894
+00:53:03,160 --> 00:53:06,560
+And every night, you believe, every night, that, every night, everything that you see today, it's all an illusion.
+每晚，你相信，每晚，你认为，今天你看到的一切，都是幻觉。
+
+895
+00:53:07,620 --> 00:53:10,680
+The reality, the truth is
+现实，真相是
+
+896
+00:53:10,680 --> 00:53:15,360
+that consciousness is a source of all power of reality itself
+意识是现实自身所有力量的源泉
+
+897
+00:53:15,360 --> 00:53:20,440
+and so this is a war for human consciousness,
+于是这是一场人类意识的战争
+
+898
+00:53:20,720 --> 00:53:23,220
+it's a war for the very soul of humanity.
+这是一场为人类灵魂而战的战争。
+
+899
+00:53:24,540 --> 00:53:26,480
+Okay? Any questions?
+好的？还有问题吗？
+
+900
+00:53:28,580 --> 00:53:30,780
+Alright, I will see you guys next week.
+好的，我下周见你们。
+
+901
+00:53:34,300 --> 00:53:35,700
+Bye.
+再见

@@ -1,0 +1,737 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: English,Helvetica Neue,46,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,0,0,0,0,84,100,-0.4,0,1,3.2,0.0,2,20,20,52,1
+Style: Chinese,PingFang SC,56,&H00FFFFFF,&H000000FF,&H00101010,&H64000000,1,0,0,0,86,100,-0.2,0,1,3.6,0.0,2,20,20,52,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.72,0:00:02.14,English,,0,0,0,,Good morning YouTube.\N{\rChinese}早安，YouTube。
+Dialogue: 0,0:00:03.24,0:00:06.16,English,,0,0,0,,Professor Chiang here with another video.\N{\rChinese}钟江教授在此，带来新视频。
+Dialogue: 0,0:00:07.38,0:00:10.04,English,,0,0,0,,Now some of you in the comment section have\N{\rChinese}现在你们中有些人在评论区……
+Dialogue: 0,0:00:10.04,0:00:14.26,English,,0,0,0,,been asking me why World War III has not started.\N{\rChinese}有人问我为什么三战未爆发。
+Dialogue: 0,0:00:14.68,0:00:18.26,English,,0,0,0,,Why the conflict between the United States\N{\rChinese}为什么美国与伊朗的冲突。
+Dialogue: 0,0:00:18.26,0:00:20.26,English,,0,0,0,,and Iran has abated.\N{\rChinese}与伊朗已缓解。
+Dialogue: 0,0:00:20.78,0:00:23.02,English,,0,0,0,,The answer is because\N{\rChinese}答案是因为
+Dialogue: 0,0:00:23.02,0:00:26.84,English,,0,0,0,,modern warfare is hybrid warfare.\N{\rChinese}现代战争是混合战争。
+Dialogue: 0,0:00:26.84,0:00:29.60,English,,0,0,0,,9% of warfare you will not see.\N{\rChinese}9%的战争你看不到。
+Dialogue: 0,0:00:29.80,0:00:32.56,English,,0,0,0,,So much of warfare nowadays is informational,\N{\rChinese}如今战争的很大一部分是信息战，
+Dialogue: 0,0:00:32.94,0:00:37.48,English,,0,0,0,,controlling the media narrative, electronic cyber warfare, psychological,\N{\rChinese}控制媒体叙事、电子网络战、心理战，
+Dialogue: 0,0:00:37.90,0:00:41.20,English,,0,0,0,,weakening the will of the people to fight you,\N{\rChinese}削弱人们战斗意志。
+Dialogue: 0,0:00:41.40,0:00:44.68,English,,0,0,0,,and covert ops, economic sabotage,\N{\rChinese}和秘密行动、经济破坏，
+Dialogue: 0,0:00:44.94,0:00:47.00,English,,0,0,0,,imposing sanctions,\N{\rChinese}施加制裁，
+Dialogue: 0,0:00:47.34,0:00:51.42,English,,0,0,0,,trying to assassinate the leaders of Iran.\N{\rChinese}试图暗杀伊朗领袖。
+Dialogue: 0,0:00:51.68,0:00:54.32,English,,0,0,0,,So the United States and\N{\rChinese}于是美国和以色列都已投身于战争政策。
+Dialogue: 0,0:00:54.32,0:00:56.82,English,,0,0,0,,Israel are committed to a policy of war.\N{\rChinese}一个伊朗政权更迭。
+Dialogue: 0,0:00:56.82,0:01:00.20,English,,0,0,0,,A regime change in Iran.\N{\rChinese}A regime changein Iran.
+Dialogue: 0,0:01:00.74,0:01:05.30,English,,0,0,0,,Ideally, they would like to assassinate the Ayatollah Khomeini\N{\rChinese}理想中，他们想暗杀霍梅尼阿亚图拉
+Dialogue: 0,0:01:05.30,0:01:09.84,English,,0,0,0,,because that would trigger a succession crisis in Iran.\N{\rChinese}因为这会在伊朗引发继任危机
+Dialogue: 0,0:01:11.19,0:01:13.96,English,,0,0,0,,Right now their main strategy is\N{\rChinese}目前他们的主要策略是
+Dialogue: 0,0:01:13.96,0:01:19.52,English,,0,0,0,,to decrease the legitimacy of the regime in Iran.\N{\rChinese}降低伊朗政权的合法性。
+Dialogue: 0,0:01:19.84,0:01:21.50,English,,0,0,0,,And the best way to do that\N{\rChinese}最佳做法是……
+Dialogue: 0,0:01:21.50,0:01:26.80,English,,0,0,0,,is to decrease the capacity of the states.\N{\rChinese}就是降低各国的能力。
+Dialogue: 0,0:01:26.82,0:01:28.78,English,,0,0,0,,to deliver basic services.\N{\rChinese}提供基本服务。
+Dialogue: 0,0:01:29.50,0:01:31.18,English,,0,0,0,,For example, water.\N{\rChinese}例如，供水。
+Dialogue: 0,0:01:31.74,0:01:35.96,English,,0,0,0,,So what's happening in Tehran right now, a city of 10 million, is there's a water shortage.\N{\rChinese}所以现在德黑兰这座一千万人口的城市正面临缺水。
+Dialogue: 0,0:01:37.72,0:01:40.44,English,,0,0,0,,Because of heat, because\N{\rChinese}因为热，因而
+Dialogue: 0,0:01:40.44,0:01:42.62,English,,0,0,0,,of economic sanctions, because of overpopulation,\N{\rChinese}因经济制裁，因而
+Dialogue: 0,0:01:42.96,0:01:47.76,English,,0,0,0,,Tehran is having problems ensuring water supply to its people.\N{\rChinese}因人口过多，因而
+Dialogue: 0,0:01:48.40,0:01:51.38,English,,0,0,0,,You can bet good money\N{\rChinese}你可以打赌好几百美元
+Dialogue: 0,0:01:51.38,0:01:54.30,English,,0,0,0,,that the Israelis and Americans will take advantage of that\N{\rChinese}以色方和美方会利用这一点
+Dialogue: 0,0:01:54.30,0:01:56.80,English,,0,0,0,,to engage in economic sabotage.\N{\rChinese}去进行经济破坏
+Dialogue: 0,0:01:56.94,0:01:59.24,English,,0,0,0,,Basically trying to destroy as much of\N{\rChinese}基本上是想把伊朗的关键水利设施尽量摧毁。
+Dialogue: 0,0:01:59.24,0:02:03.18,English,,0,0,0,,Iran's critical water infrastructure as possible.\N{\rChinese}他们想基本上制造一次饥荒，一场旱灾。
+Dialogue: 0,0:02:03.44,0:02:07.82,English,,0,0,0,,They would want to basically create a famine, a drought.\N{\rChinese}They would want to basicallycreate a famine, a drought.
+Dialogue: 0,0:02:09.52,0:02:12.00,English,,0,0,0,,Now the irony of that is that\N{\rChinese}现在的讽刺是
+Dialogue: 0,0:02:12.00,0:02:14.10,English,,0,0,0,,by engaging in this economic sabotage,\N{\rChinese}通过进行这场经济破坏
+Dialogue: 0,0:02:14.20,0:02:17.44,English,,0,0,0,,the Iranian\N{\rChinese}伊朗的
+Dialogue: 0,0:02:18.08,0:02:24.06,English,,0,0,0,,people will develop a greater resolve for to resist.\N{\rChinese}人们会形成更强的抵抗决心。
+Dialogue: 0,0:02:24.94,0:02:28.02,English,,0,0,0,,And once the resolve,\N{\rChinese}一旦决心，
+Dialogue: 0,0:02:28.24,0:02:32.64,English,,0,0,0,,once the will to fight has been increased to a certain level,\N{\rChinese}一旦战斗意志提升到一定程度，
+Dialogue: 0,0:02:32.88,0:02:37.08,English,,0,0,0,,then the Iranian government can close off the Strait of Hormuz,\N{\rChinese}然后伊朗政府可以封锁霍尔木兹海峡，随后美国陆军将会进攻。
+Dialogue: 0,0:02:37.34,0:02:40.30,English,,0,0,0,,which would compel an American ground invasion.\N{\rChinese}如果美国真的这么做，美国将派遣陆军。
+Dialogue: 0,0:02:40.78,0:02:43.76,English,,0,0,0,,And if America were to do that, America would send in ground troops,\N{\rChinese}And if America were to do that, America would send in ground troops,
+Dialogue: 0,0:02:43.96,0:02:46.38,English,,0,0,0,,and as I've said in multiple videos before,\N{\rChinese}如我在之前多段视频中所说，
+Dialogue: 0,0:02:46.66,0:02:51.12,English,,0,0,0,,the American military would lose this war.\N{\rChinese}美国军方将在这场战争中失利。
+Dialogue: 0,0:02:51.36,0:02:57.20,English,,0,0,0,,Okay, so that's how I see the war developing over the next few months.\N{\rChinese}好了，这就是我对未来几个月战争发展的看法。
+Dialogue: 0,0:02:58.74,0:03:03.14,English,,0,0,0,,Today I want to talk about what the future is going to look like next 10 -20 years.\N{\rChinese}今天我想谈谈未来10到20年会是什么样子。
+Dialogue: 0,0:03:03.40,0:03:05.60,English,,0,0,0,,I want to take everything we've learned so far and\N{\rChinese}我想把到目前为止学到的全部内容，
+Dialogue: 0,0:03:05.60,0:03:10.70,English,,0,0,0,,combine it into a grand thesis about how the world will develop.\N{\rChinese}合成一个宏大的论点，说明世界将如何发展。
+Dialogue: 0,0:03:11.04,0:03:13.56,English,,0,0,0,,And the argument I want to make to you today is that\N{\rChinese}我今天想给你们说的论点是，
+Dialogue: 0,0:03:13.56,0:03:16.64,English,,0,0,0,,escatology drives geopolitics.\N{\rChinese}末世论推动着地缘政治。
+Dialogue: 0,0:03:16.80,0:03:19.26,English,,0,0,0,,And to make this argument I'm going to ask three questions.\N{\rChinese}为展开这个论点，我将提出三个问题。
+Dialogue: 0,0:03:19.76,0:03:23.44,English,,0,0,0,,First question is, why are escatologists so compelling?\N{\rChinese}第一问是，为什么末世论者如此吸引人？
+Dialogue: 0,0:03:23.98,0:03:26.36,English,,0,0,0,,Second question is what are\N{\rChinese}第二问是，什么是……
+Dialogue: 0,0:03:26.36,0:03:30.06,English,,0,0,0,,the major eschatological traditions\N{\rChinese}第三问是，主要的末世论传统是什么？
+Dialogue: 0,0:03:30.06,0:03:33.46,English,,0,0,0,,and how do they converge together? And\N{\rChinese}以及它们是如何相互汇聚的？然后
+Dialogue: 0,0:03:33.46,0:03:36.94,English,,0,0,0,,the third question is based on these convergence\N{\rChinese}第三个问题基于这些汇聚点，
+Dialogue: 0,0:03:36.94,0:03:39.78,English,,0,0,0,,points what can we predict about the future?\N{\rChinese}我们能预测未来会怎样？
+Dialogue: 0,0:03:40.56,0:03:42.76,English,,0,0,0,,Right so let's look at the first question which\N{\rChinese}好的，先看第一个问题：为什么末世论如此吸引人？
+Dialogue: 0,0:03:42.76,0:03:45.70,English,,0,0,0,,is why are eschatologies so compelling?\N{\rChinese}正如我之前所说，末世论之所以吸引人？
+Dialogue: 0,0:03:45.94,0:03:49.40,English,,0,0,0,,And as I've said before eschatologies are compelling\N{\rChinese}因为它们是叙述，捕捉人类想象。
+Dialogue: 0,0:03:49.40,0:03:52.78,English,,0,0,0,,because they are narratives that\N{\rChinese}因为它们是叙述，捕捉人类想象。
+Dialogue: 0,0:03:52.78,0:03:54.64,English,,0,0,0,,capture the human imagination.\N{\rChinese}它们回答了三个基本问题。
+Dialogue: 0,0:03:55.16,0:03:56.86,English,,0,0,0,,They answer three fundamental questions.\N{\rChinese}They answer three fundamental questions.
+Dialogue: 0,0:03:57.36,0:03:58.62,English,,0,0,0,,Where do we come from?\N{\rChinese}我们从哪里来？
+Dialogue: 0,0:03:58.90,0:04:01.32,English,,0,0,0,,What are we doing here? Where are we going?\N{\rChinese}我们在这里做什么？我们要去哪里？
+Dialogue: 0,0:04:01.44,0:04:03.80,English,,0,0,0,,It's a complete story on to itself.\N{\rChinese}它是一个完整的自足故事。
+Dialogue: 0,0:04:04.08,0:04:07.94,English,,0,0,0,,You can think of eschatologies as scripts really.\N{\rChinese}你可以把末世论想象成真正的剧本。
+Dialogue: 0,0:04:08.74,0:04:11.96,English,,0,0,0,,Scripts that have a momentum of their own.\N{\rChinese}剧本拥有自己的动量。
+Dialogue: 0,0:04:12.24,0:04:15.64,English,,0,0,0,,Scripts that allow for unconscious coordination.\N{\rChinese}剧本允许无意识的协调。
+Dialogue: 0,0:04:16.06,0:04:17.54,English,,0,0,0,,So what are the main characteristics of eschatology? Scripts that\N{\rChinese}那么，末世论的主要特征是什么？剧本为个体提供了表演的角色。
+Dialogue: 0,0:04:17.54,0:04:21.62,English,,0,0,0,,present roles for individuals to audition for.\N{\rChinese}于是，只是参与剧本就行。
+Dialogue: 0,0:04:21.86,0:04:25.58,English,,0,0,0,,So just by participating in a script\N{\rChinese}So just by participating in a script
+Dialogue: 0,0:04:25.58,0:04:30.04,English,,0,0,0,,you are helping the eschatology progress forward.\N{\rChinese}你正在帮助末世论向前推进。
+Dialogue: 0,0:04:30.52,0:04:34.26,English,,0,0,0,,And to understand why eschatologies are\N{\rChinese}并且要理解为什么末世论如此强大，请记住博弈理论的普遍定律。
+Dialogue: 0,0:04:34.26,0:04:39.26,English,,0,0,0,,so powerful please remember the universal law of game theory.\N{\rChinese}so powerful please remember the universal law of game theory.
+Dialogue: 0,0:04:39.56,0:04:41.64,English,,0,0,0,,In a previous video I discussed\N{\rChinese}在之前的视频里我谈到了
+Dialogue: 0,0:04:41.64,0:04:45.58,English,,0,0,0,,how people win in the game\N{\rChinese}人们如何在游戏中获胜
+Dialogue: 0,0:04:45.58,0:04:48.54,English,,0,0,0,,and how they compete for the game.\N{\rChinese}以及他们如何竞争这个游戏
+Dialogue: 0,0:04:50.08,0:04:52.02,English,,0,0,0,,So let me tell you how people compete for the game.\N{\rChinese}让我来告诉你们人们是如何竞争这场游戏的。
+Dialogue: 0,0:04:52.02,0:04:54.36,English,,0,0,0,,So let me tell you how people compete for the game. So let me tell you how people compete for the game.\N{\rChinese}让我来告诉你们人们是如何竞争这场游戏的。让我来告诉你们人们是如何竞争这场游戏的。
+Dialogue: 0,0:04:54.38,0:04:57.02,English,,0,0,0,,So let me tell you how people compete for the game.\N{\rChinese}让我来告诉你们人们是如何竞争这场游戏的。
+Dialogue: 0,0:04:57.02,0:04:58.80,English,,0,0,0,,So let me tell you how people compete for the game. So let me tell you how people compete for So let me tell you how people compete for the game.\N{\rChinese}让我来告诉你们人们是如何竞争这场游戏的。让我来告诉你们人们是如何竞争这场游戏的。让我来告诉你们人们是如何竞争这场游戏的。
+Dialogue: 0,0:04:58.80,0:05:01.12,English,,0,0,0,,So let me tell you how people compete for the game.\N{\rChinese}让我来告诉你们人们是如何竞争这场游戏的。
+Dialogue: 0,0:05:01.12,0:05:02.76,English,,0,0,0,,So let me tell you how people compete for the game.\N{\rChinese}让我来告诉你们人们是如何竞争这场游戏的。
+Dialogue: 0,0:05:03.06,0:05:07.24,English,,0,0,0,,So let me tell you how people compete for the game.\N{\rChinese}让我来告诉你们人们是如何竞争这场游戏的。
+Dialogue: 0,0:05:07.24,0:05:09.76,English,,0,0,0,,So let me tell you how people compete for the game.\N{\rChinese}让我来告诉你们人们是如何竞争这场游戏的。
+Dialogue: 0,0:05:09.76,0:05:15.66,English,,0,0,0,,So let me tell you how people compete for the game.\N{\rChinese}让我来告诉你们人们是如何竞争这场游戏的。
+Dialogue: 0,0:05:15.66,0:05:16.90,English,,0,0,0,,cooperation because\N{\rChinese}合作因为
+Dialogue: 0,0:05:16.90,0:05:20.94,English,,0,0,0,,everyone's fighting for his or her best self -interest.\N{\rChinese}每个人都在为自己的最佳利益而战斗。
+Dialogue: 0,0:05:21.40,0:05:25.56,English,,0,0,0,,But with an unconscious coordination, which is what an eschatology provides,\N{\rChinese}但有一种无意识的协调，这正是末世论所提供的。
+Dialogue: 0,0:05:26.10,0:05:28.98,English,,0,0,0,,that allows for secrecy,\N{\rChinese}那让人们可以保密，
+Dialogue: 0,0:05:29.00,0:05:31.44,English,,0,0,0,,possible deniability, and\N{\rChinese}可能的可否认性，和
+Dialogue: 0,0:05:31.44,0:05:33.88,English,,0,0,0,,frictionless cooperation.\N{\rChinese}无摩擦的合作。
+Dialogue: 0,0:05:34.40,0:05:36.64,English,,0,0,0,,And that's why eschatologists are so powerful.\N{\rChinese}于是，末世论者才显得如此强大。
+Dialogue: 0,0:05:37.70,0:05:40.46,English,,0,0,0,,Now some of you may hear this and\N{\rChinese}现在你们中的一些人可能会听到这句话并
+Dialogue: 0,0:05:40.46,0:05:43.96,English,,0,0,0,,think this doesn't make any sense because it's really individual self -interest\N{\rChinese}觉得这根本毫无意义，因为它确实是个人自利。
+Dialogue: 0,0:05:43.96,0:05:45.54,English,,0,0,0,,that motivates us.\N{\rChinese}那激励我们。
+Dialogue: 0,0:05:45.96,0:05:49.10,English,,0,0,0,,And what's really important to understand is these things,\N{\rChinese}而真正重要的是要理解这些事，
+Dialogue: 0,0:05:49.28,0:05:53.58,English,,0,0,0,,eschatologies, and individual self -interest are not in conflict with each other.\N{\rChinese}末世论与个人自利并不相互冲突。
+Dialogue: 0,0:05:53.68,0:05:55.60,English,,0,0,0,,In fact, they reinforce each other.\N{\rChinese}事实上，它们相互加强。
+Dialogue: 0,0:05:55.96,0:05:58.76,English,,0,0,0,,Now in school you may be taught that\N{\rChinese}现在在学校里你可能会被教到
+Dialogue: 0,0:05:58.76,0:06:01.28,English,,0,0,0,,to succeed in life you have to work hard,\N{\rChinese}要在生活中成功，你必须努力工作。
+Dialogue: 0,0:06:01.46,0:06:05.18,English,,0,0,0,,you have to be talented, you have to get good grades in school,\N{\rChinese}你要有才华，得在学校拿好成绩，并且要很聪明。
+Dialogue: 0,0:06:05.36,0:06:07.28,English,,0,0,0,,and you have to be very intelligent.\N{\rChinese}当然那是我曾经相信的，我花了二三十年才意识到自己错了。
+Dialogue: 0,0:06:07.52,0:06:12.08,English,,0,0,0,,Certainly that's what I believed and it took me 20 -30 years to recognize I was wrong.\N{\rChinese}Certainly that's what I believed and it took me 20 -30 years to recognize I was wrong.
+Dialogue: 0,0:06:12.24,0:06:14.04,English,,0,0,0,,It's not what you know.\N{\rChinese}这不是你知道的事。
+Dialogue: 0,0:06:14.14,0:06:15.20,English,,0,0,0,,It's who you are. It's who you know.\N{\rChinese}是你是谁。是你认识的人。
+Dialogue: 0,0:06:15.70,0:06:18.04,English,,0,0,0,,To succeed in life you have to be\N{\rChinese}要在生活中成功，你必须是…
+Dialogue: 0,0:06:18.04,0:06:23.10,English,,0,0,0,,able to work with others in a secretive, unconscious,\N{\rChinese}能够与他人秘密、无意识地合作
+Dialogue: 0,0:06:23.78,0:06:28.98,English,,0,0,0,,coordinated manner in order to achieve certain goals.\N{\rChinese}以协调的方式按顺序实现特定目标。
+Dialogue: 0,0:06:30.70,0:06:33.32,English,,0,0,0,,And that's what eschatology provides.\N{\rChinese}这就是预言学所提供的。
+Dialogue: 0,0:06:33.78,0:06:36.76,English,,0,0,0,,So when you subscribe to an eschatology, when you commit to an eschatology,\N{\rChinese}当你订阅一个终末论时，当你投身于终末论时，
+Dialogue: 0,0:06:36.96,0:06:40.52,English,,0,0,0,,others will help you achieve wealth\N{\rChinese}其他人会帮助你实现财富。
+Dialogue: 0,0:06:40.52,0:06:41.82,English,,0,0,0,,and power.\N{\rChinese}和权力。
+Dialogue: 0,0:06:42.30,0:06:44.80,English,,0,0,0,,Okay? So that's why I'm so proud of you.\N{\rChinese}好的？所以这就是我为你感到自豪的原因。
+Dialogue: 0,0:06:44.80,0:06:48.52,English,,0,0,0,,Thank you. Good job.\N{\rChinese}谢谢。干得好。
+Dialogue: 0,0:06:48.80,0:06:50.82,English,,0,0,0,,Good job. Good job.\N{\rChinese}干得好。干得好。
+Dialogue: 0,0:06:51.18,0:06:54.06,English,,0,0,0,,Good job. Good job. Good job. Good job.\N{\rChinese}干得好。干得好。干得好。干得好。
+Dialogue: 0,0:06:54.64,0:06:56.18,English,,0,0,0,,Good job. Good job.\N{\rChinese}干得好。干得好。
+Dialogue: 0,0:06:56.72,0:06:59.32,English,,0,0,0,,Good job. Good job.\N{\rChinese}干得好。干得好。
+Dialogue: 0,0:06:59.32,0:07:00.54,English,,0,0,0,,Good job. Good job. Good job. Good job. Good job. Good job.\N{\rChinese}干得好。干得好。干得好。干得好。干得好。干得好。
+Dialogue: 0,0:07:00.54,0:07:03.10,English,,0,0,0,,Good job. Good job. Good job. Good job. Good job. Good job.\N{\rChinese}干得好。干得好。干得好。干得好。干得好。干得好。
+Dialogue: 0,0:07:03.44,0:07:05.28,English,,0,0,0,,Good job. Good job.\N{\rChinese}干得好。干得好。
+Dialogue: 0,0:07:06.04,0:07:07.00,English,,0,0,0,,Good job.\N{\rChinese}干得好。
+Dialogue: 0,0:07:12.76,0:07:16.20,English,,0,0,0,,Good job. I want to remind everyone of three caveats.\N{\rChinese}干得好。我想提醒大家三个注意点。
+Dialogue: 0,0:07:16.32,0:07:20.81,English,,0,0,0,,The first caveat is that within each religion,\N{\rChinese}第一个注意点是每个宗教内部都有……
+Dialogue: 0,0:07:21.84,0:07:26.32,English,,0,0,0,,eschatology is only a minority extreme view.\N{\rChinese}末世论只是少数极端观点。
+Dialogue: 0,0:07:26.84,0:07:30.22,English,,0,0,0,,Only a small minority of religious\N{\rChinese}只有少数宗教
+Dialogue: 0,0:07:30.22,0:07:34.12,English,,0,0,0,,devotees will actually believe in the eschatology.\N{\rChinese}信徒才会真正相信末世论。
+Dialogue: 0,0:07:34.24,0:07:38.76,English,,0,0,0,,That's the first caveat. The second caveat is\N{\rChinese}那是第一个注意点。第二个注意点是
+Dialogue: 0,0:07:38.76,0:07:44.30,English,,0,0,0,,that there's tremendous diversity within each eschatology.\N{\rChinese}每个末世论内部都有巨大的多样性。
+Dialogue: 0,0:07:44.62,0:07:48.08,English,,0,0,0,,You can interpret the eschatology allegorically,\N{\rChinese}你可以把末世论解作比喻，
+Dialogue: 0,0:07:48.96,0:07:54.14,English,,0,0,0,,which is to say it's compelling you to a path of personal redemption\N{\rChinese}这就是说它把你推向个人救赎之路
+Dialogue: 0,0:07:54.14,0:07:56.28,English,,0,0,0,,and salvation in order to improve the world.\N{\rChinese}并以救赎为序，改善世界。
+Dialogue: 0,0:07:56.48,0:07:59.40,English,,0,0,0,,Or you can interpret it literally, which is that\N{\rChinese}或者你可以按字面解释，即是……
+Dialogue: 0,0:07:59.40,0:08:01.90,English,,0,0,0,,this is a true prophecy and\N{\rChinese}这是一条真实预言，且
+Dialogue: 0,0:08:01.90,0:08:04.98,English,,0,0,0,,everything in it will happen in order for\N{\rChinese}其中的一切都将按顺序发生
+Dialogue: 0,0:08:04.98,0:08:08.94,English,,0,0,0,,the world to end or for the world to become a better place.\N{\rChinese}世界终结或变为更好之地
+Dialogue: 0,0:08:09.54,0:08:11.12,English,,0,0,0,,And also, the second caveat is that\N{\rChinese}第二个要点是
+Dialogue: 0,0:08:11.58,0:08:16.14,English,,0,0,0,,there are different sequencing of events and different interpretations in the eschatology.\N{\rChinese}在末世论中，事件的顺序和解释各不相同。
+Dialogue: 0,0:08:16.38,0:08:17.90,English,,0,0,0,,So that's the second caveat.\N{\rChinese}所以那是第二个要点。
+Dialogue: 0,0:08:18.26,0:08:22.00,English,,0,0,0,,Eschatologies within each tradition are very diverse.\N{\rChinese}各传统中的末世论非常多样。
+Dialogue: 0,0:08:23.14,0:08:26.40,English,,0,0,0,,And the third caveat is that\N{\rChinese}第三个要点是
+Dialogue: 0,0:08:26.40,0:08:28.66,English,,0,0,0,,eschatologies are dynamic.\N{\rChinese}末世论是动态的。
+Dialogue: 0,0:08:29.12,0:08:33.50,English,,0,0,0,,And the reason why is eschatologies are in conflict,\N{\rChinese}原因是末世论相互冲突
+Dialogue: 0,0:08:33.58,0:08:35.44,English,,0,0,0,,are in competition in communication\N{\rChinese}在传播中相互竞争
+Dialogue: 0,0:08:36.14,0:08:37.36,English,,0,0,0,,with different eschatologies.\N{\rChinese}与不同的末世论相结合。
+Dialogue: 0,0:08:37.66,0:08:41.08,English,,0,0,0,,Think of eschatologies as stories,\N{\rChinese}把末世论想象成故事，
+Dialogue: 0,0:08:41.58,0:08:44.80,English,,0,0,0,,that are trying to be the best possible story\N{\rChinese}它们试图成为最好的故事
+Dialogue: 0,0:08:45.17,0:08:49.14,English,,0,0,0,,in order to capture the imagination of their believers.\N{\rChinese}按顺序捕捉信徒的想象。
+Dialogue: 0,0:08:49.38,0:08:52.82,English,,0,0,0,,And to do that, they're going to incorporate the best elements\N{\rChinese}为此，他们将融合最佳元素。
+Dialogue: 0,0:08:52.82,0:08:56.18,English,,0,0,0,,from different eschatologies into their own.\N{\rChinese}从不同的末世论转化为自己的。
+Dialogue: 0,0:08:56.38,0:08:58.84,English,,0,0,0,,And that's why so many of these eschatologies,\N{\rChinese}这就是为什么这么多的末世论，
+Dialogue: 0,0:08:59.08,0:09:01.80,English,,0,0,0,,they follow similar pattern because they've been learning\N{\rChinese}它们遵循相似模式，因为它们相互学习并适应。
+Dialogue: 0,0:09:01.80,0:09:05.81,English,,0,0,0,,and adapting from each other.\N{\rChinese}并相互学习并适应。
+Dialogue: 0,0:09:06.64,0:09:10.50,English,,0,0,0,,Okay. So having said these three caveats, let's go into the six,\N{\rChinese}好的。说完这三点后，让我们进入六大主要末世论。
+Dialogue: 0,0:09:11.58,0:09:13.64,English,,0,0,0,,the major eschatological traditions.\N{\rChinese}第一大类是祆罗波斯教。
+Dialogue: 0,0:09:14.08,0:09:19.40,English,,0,0,0,,And I'm going to focus on the most extreme version of each tradition,\N{\rChinese}我将聚焦每个传统最极端的版本，
+Dialogue: 0,0:09:19.64,0:09:21.54,English,,0,0,0,,because according to game theory,\N{\rChinese}因为按博弈论的说法，
+Dialogue: 0,0:09:22.18,0:09:23.80,English,,0,0,0,,it's the fanatics who matter.\N{\rChinese}是热心者才重要。
+Dialogue: 0,0:09:24.04,0:09:26.10,English,,0,0,0,,It's the fanatics who are the most energetic, who\N{\rChinese}是热心者最有活力，最有热情，才是……
+Dialogue: 0,0:09:26.10,0:09:29.96,English,,0,0,0,,are the most committed to achieving the eschatology.\N{\rChinese}他们最投入实现末世论。
+Dialogue: 0,0:09:30.38,0:09:34.20,English,,0,0,0,,So the first eschatology is Zoroastrianism,\N{\rChinese}于是第一个末世论是祆罗波斯教。
+Dialogue: 0,0:09:34.26,0:09:36.30,English,,0,0,0,,which was the original eschatology.\N{\rChinese}它是最初的末世论。
+Dialogue: 0,0:09:36.98,0:09:38.80,English,,0,0,0,,In the Zoroastrian tradition,\N{\rChinese}在祆罗波斯传统中，
+Dialogue: 0,0:09:40.16,0:09:44.34,English,,0,0,0,,there's the world is divided, there's the world is divided into good and evil,\N{\rChinese}世界被分为好与坏，光与暗，真与假。
+Dialogue: 0,0:09:46.28,0:09:49.84,English,,0,0,0,,the light and the darkness, the truth and the lie.\N{\rChinese}在日子终末，…
+Dialogue: 0,0:09:50.42,0:09:52.26,English,,0,0,0,,And at the end of the days,\N{\rChinese}And at the end of the days,
+Dialogue: 0,0:09:52.64,0:09:55.64,English,,0,0,0,,there'll be a final battle between these two cosmic forces.\N{\rChinese}将会有一次这两种宇宙力量的终极之战。
+Dialogue: 0,0:09:55.74,0:10:00.06,English,,0,0,0,,And as humans, we must choose which side to fight for.\N{\rChinese}于是人类必须选择站在哪一方。
+Dialogue: 0,0:10:00.28,0:10:05.02,English,,0,0,0,,At the end of this battle, when good has triumphed, there'll be a day of judgment.\N{\rChinese}战斗结束，善势胜时，将迎来审判之日。
+Dialogue: 0,0:10:05.38,0:10:07.66,English,,0,0,0,,Okay. And this structure,\N{\rChinese}好的。这个结构，
+Dialogue: 0,0:10:07.90,0:10:10.68,English,,0,0,0,,this cosmology heavily influenced,\N{\rChinese}这个宇宙观深受影响，
+Dialogue: 0,0:10:11.58,0:10:15.72,English,,0,0,0,,uh, Judaism. And so in the Judaic tradition,\N{\rChinese}呃，犹太教。于是犹太传统中，
+Dialogue: 0,0:10:16.54,0:10:18.50,English,,0,0,0,,because Jews have been persecuted for,\N{\rChinese}因为犹太人被迫害了千年，
+Dialogue: 0,0:10:19.10,0:10:21.18,English,,0,0,0,,um, thousands of years,\N{\rChinese}呃，几千年，
+Dialogue: 0,0:10:22.42,0:10:26.36,English,,0,0,0,,they believe that eventually a messiah of war will come to them.\N{\rChinese}他们相信最终会有一位战争的弥赛亚来临。
+Dialogue: 0,0:10:26.98,0:10:29.76,English,,0,0,0,,And he will lead the Jews\N{\rChinese}他将带领犹太人
+Dialogue: 0,0:10:29.76,0:10:33.72,English,,0,0,0,,to victory against all the enemies.\N{\rChinese}并取得对所有敌人的胜利
+Dialogue: 0,0:10:34.40,0:10:37.08,English,,0,0,0,,He will reconstitute the nation of Israel and\N{\rChinese}他将重组以色列民族
+Dialogue: 0,0:10:37.08,0:10:39.90,English,,0,0,0,,bring back all the Jews from the diaspora.\N{\rChinese}把犹太人从散居中召回
+Dialogue: 0,0:10:40.02,0:10:42.68,English,,0,0,0,,He will build the third temple and\N{\rChinese}他将建造第三座圣殿
+Dialogue: 0,0:10:42.68,0:10:45.56,English,,0,0,0,,he will usher in the messianic age\N{\rChinese}他将开启弥赛亚时代
+Dialogue: 0,0:10:46.13,0:10:48.38,English,,0,0,0,,of peace, prosperity,\N{\rChinese}和平、繁荣、真理、正义。
+Dialogue: 0,0:10:48.82,0:10:50.74,English,,0,0,0,,truth, justice.\N{\rChinese}对吧？那就是犹太传统。
+Dialogue: 0,0:10:51.39,0:10:53.36,English,,0,0,0,,Right? That's the Judaic tradition.\N{\rChinese}Right? That's the Judaic tradition.
+Dialogue: 0,0:10:53.94,0:10:59.70,English,,0,0,0,,The Judaic tradition went on to influence the Christian Zionists or the Protestant tradition.\N{\rChinese}犹太传统继续影响基督教犹太复国者或新教派。
+Dialogue: 0,0:11:00.00,0:11:03.90,English,,0,0,0,,Okay. So, uh, the Protestants believed that\N{\rChinese}好的。所以，呃，新教派认为……
+Dialogue: 0,0:11:04.29,0:11:06.48,English,,0,0,0,,the messiah is Jesus and he's already come.\N{\rChinese}弥赛亚是耶稣，他已经来临。
+Dialogue: 0,0:11:07.05,0:11:11.78,English,,0,0,0,,So in order to usher in his second coming, certain conditions have to be met.\N{\rChinese}为迎接第二次降临，必须满足若干条件。
+Dialogue: 0,0:11:12.32,0:11:16.62,English,,0,0,0,,First condition is the nation of Israel has to be reconstituted, and it was in 1948.\N{\rChinese}第一条条件是以色列民族国家必须重建，且已于1948年完成。
+Dialogue: 0,0:11:18.58,0:11:22.62,English,,0,0,0,,Um, then the third temple has to be built\N{\rChinese}随后，第三座圣殿需再度建造。
+Dialogue: 0,0:11:23.06,0:11:26.66,English,,0,0,0,,and there has to be a war, uh, of Gog and Magog.\N{\rChinese}并且必有戈格与玛各之战。
+Dialogue: 0,0:11:26.84,0:11:28.12,English,,0,0,0,,The Antichrist has to appear.\N{\rChinese}反基督将会出现。
+Dialogue: 0,0:11:28.32,0:11:30.96,English,,0,0,0,,And once these conditions are met, then\N{\rChinese}当这些条件满足后，
+Dialogue: 0,0:11:30.96,0:11:35.84,English,,0,0,0,,to save his people, Jesus will descend from heaven on a cloud,\N{\rChinese}为拯救其民，耶稣将从云中降临天上，
+Dialogue: 0,0:11:36.10,0:11:39.16,English,,0,0,0,,destroy all his enemies, and usher in a millennium\N{\rChinese}击败其敌人，开启千年和平、繁荣、真理、正义与安宁。
+Dialogue: 0,0:11:40.16,0:11:42.16,English,,0,0,0,,of peace, prosperity, truth, justice, and peace. and\N{\rChinese}of peace, prosperity, truth, justice, and peace. and
+Dialogue: 0,0:11:42.16,0:11:47.26,English,,0,0,0,,justice before the final judgment.\N{\rChinese}在最终审判之前的正义。
+Dialogue: 0,0:11:47.70,0:11:50.70,English,,0,0,0,,When Jesus returns, there would be a rapture where\N{\rChinese}当耶稣再来时，将有一次欢腾，届时所有基督徒将立即升天。
+Dialogue: 0,0:11:50.70,0:11:55.18,English,,0,0,0,,all Christians will immediately ascend to heaven.\N{\rChinese}all Christians will immediately ascend to heaven.
+Dialogue: 0,0:11:55.52,0:11:58.38,English,,0,0,0,,So that's the Christian Zionist Protestant tradition.\N{\rChinese}于是就是基督教犹太复国新教派的传统。
+Dialogue: 0,0:11:59.14,0:12:01.16,English,,0,0,0,,Um, and again, this is the most extreme form\N{\rChinese}嗯，再说一次，这就是该传统的最极端形式。
+Dialogue: 0,0:12:01.56,0:12:03.10,English,,0,0,0,,of that tradition.\N{\rChinese}这就是该传统的最极端形式。
+Dialogue: 0,0:12:04.62,0:12:07.56,English,,0,0,0,,Then you have the Islamic tradition, which\N{\rChinese}然后你会看到伊斯兰传统，
+Dialogue: 0,0:12:07.56,0:12:10.92,English,,0,0,0,,is based both on the Judaic and the Christian tradition.\N{\rChinese}它既基于犹太传统，也基于基督传统。
+Dialogue: 0,0:12:10.92,0:12:12.62,English,,0,0,0,,Um, and then you have the Islamic tradition, which is based both on the Judaic and the Christian tradition. Um, and again, this is the most extreme form of that tradition. Um, and again, this is the most extreme form of that tradition. And it's very similar.\N{\rChinese}嗯，再说一次，伊斯兰传统既基于犹太和基督传统，且是其最极端形式，且非常相似。
+Dialogue: 0,0:12:12.94,0:12:14.60,English,,0,0,0,,Um, so\N{\rChinese}嗯，算是
+Dialogue: 0,0:12:14.60,0:12:18.42,English,,0,0,0,,the Muslims believe that\N{\rChinese}穆斯林认为
+Dialogue: 0,0:12:19.36,0:12:21.94,English,,0,0,0,,after an age of tribulation, when\N{\rChinese}在经历一段苦难期后，
+Dialogue: 0,0:12:21.94,0:12:25.14,English,,0,0,0,,the world has turned its back on God, when the world is divided,\N{\rChinese}世界已背向上帝，万物分裂之时，
+Dialogue: 0,0:12:27.30,0:12:29.04,English,,0,0,0,,um, a great leader\N{\rChinese}嗯，一位伟大领袖
+Dialogue: 0,0:12:29.70,0:12:32.54,English,,0,0,0,,will come to unify the people\N{\rChinese}将会出现，统一众人
+Dialogue: 0,0:12:33.04,0:12:34.62,English,,0,0,0,,and lead the people,\N{\rChinese}并领领众人，
+Dialogue: 0,0:12:35.30,0:12:38.22,English,,0,0,0,,uh, to victory in the war of Gog and Magog.\N{\rChinese}嗬，去赢得古格与玛古的战争胜利。
+Dialogue: 0,0:12:38.40,0:12:41.12,English,,0,0,0,,Uh, Gog and Magog is interpreted as the Antichrist.\N{\rChinese}嗬，古格与玛古被解释为末世之敌。
+Dialogue: 0,0:12:41.12,0:12:43.18,English,,0,0,0,,Uh, Gog and Magog is interpreted as the Antichrist.\N{\rChinese}嗗，古格与玛古被解释为末世之敌。
+Dialogue: 0,0:12:43.18,0:12:45.00,English,,0,0,0,,And Gog and Magog can be interpreted as maybe Western civilization\N{\rChinese}嗗，古格与玛古也可解释为西方文明。
+Dialogue: 0,0:12:45.66,0:12:49.08,English,,0,0,0,,for its materialism, but it could also be a certain force.\N{\rChinese}嗗，因其物质主义，但亦可视为某种力量。
+Dialogue: 0,0:12:49.30,0:12:52.12,English,,0,0,0,,So, for example, maybe, uh, the city of London.\N{\rChinese}比如说，呃，伦敦这座城市。
+Dialogue: 0,0:12:54.52,0:12:56.20,English,,0,0,0,,Um, so that's the Islamic tradition.\N{\rChinese}嗯，所以那就是伊斯兰传统。
+Dialogue: 0,0:12:56.52,0:13:00.36,English,,0,0,0,,Then you have the Orthodox tradition, which is what we talked about in the last video.\N{\rChinese}然后你就有正教传统，这就是我们在上一段视频里讨论的内容。
+Dialogue: 0,0:13:00.48,0:13:04.06,English,,0,0,0,,The Orthodox tradition believes that Moscow is the third Rome.\N{\rChinese}正教传统认为莫斯科是第三罗马。
+Dialogue: 0,0:13:04.14,0:13:07.20,English,,0,0,0,,It has a destiny to restore the Byzantine Empire.\N{\rChinese}它有使命恢复拜占庭帝国。
+Dialogue: 0,0:13:07.48,0:13:10.54,English,,0,0,0,,And to achieve this destiny, uh, Moscow,\N{\rChinese}为实现此使命，呃，莫斯科，
+Dialogue: 0,0:13:10.54,0:13:12.68,English,,0,0,0,,Moscow, Moscow, will fight a war with Turkey.\N{\rChinese}莫斯科，莫斯科，将与土耳其开战。
+Dialogue: 0,0:13:12.84,0:13:14.48,English,,0,0,0,,It will destroy Turkey. And then\N{\rChinese}它将消灭土耳其。然后
+Dialogue: 0,0:13:14.48,0:13:17.82,English,,0,0,0,,return the Greeks to Constantinople,\N{\rChinese}把希腊人送回君士坦丁堡。
+Dialogue: 0,0:13:18.08,0:13:21.36,English,,0,0,0,,thus restoring the Byzantine Empire and\N{\rChinese}于是恢复拜占庭帝国，并统一正教世界。
+Dialogue: 0,0:13:21.36,0:13:25.60,English,,0,0,0,,thus unifying the Orthodox Christian world.\N{\rChinese}现在，真正有趣的事是……
+Dialogue: 0,0:13:26.36,0:13:28.72,English,,0,0,0,,Now, what's really interesting is that\N{\rChinese}Now, what's reallyinteresting is that
+Dialogue: 0,0:13:28.72,0:13:31.22,English,,0,0,0,,there is a geoblical theorist named Alexander Dugin,\N{\rChinese}有一位地缘史学家叫亚历山大·杜金，
+Dialogue: 0,0:13:31.34,0:13:35.36,English,,0,0,0,,who's turned this eschatology into a master plan\N{\rChinese}他把这场末世论变成了一个主计划
+Dialogue: 0,0:13:35.72,0:13:37.52,English,,0,0,0,,for Vladimir Putin to implement.\N{\rChinese}供弗拉基米尔·普京来实施。
+Dialogue: 0,0:13:37.94,0:13:40.34,English,,0,0,0,,If you don't know who Alexander Dugin is,\N{\rChinese}如果你还不知道亚历山大·杜金是谁，
+Dialogue: 0,0:13:40.54,0:13:43.90,English,,0,0,0,,you have to, um, watch his interviews.\N{\rChinese}你得先看他的访谈。
+Dialogue: 0,0:13:44.04,0:13:47.64,English,,0,0,0,,You have to read his books. Because he's probably the most important\N{\rChinese}你得读他的书。因为他大概是最重要的。
+Dialogue: 0,0:13:48.90,0:13:50.76,English,,0,0,0,,geostrategic thinker we have today.\N{\rChinese}我们今天拥有的地缘战略思想家。
+Dialogue: 0,0:13:51.00,0:13:53.94,English,,0,0,0,,I'm gonna put his videos and his books in the description below,\N{\rChinese}我会把他的影片和书放在下面的描述里，
+Dialogue: 0,0:13:54.14,0:13:58.76,English,,0,0,0,,so please make sure you spend the time to actually research him.\N{\rChinese}请务必花时间去研究他。
+Dialogue: 0,0:13:58.88,0:14:02.78,English,,0,0,0,,Because so much of what he says helps us understand the world as it is today\N{\rChinese}因为他所说的内容帮助我们理解今天的世界以及未来的发展。
+Dialogue: 0,0:14:03.42,0:14:05.64,English,,0,0,0,,and how the world will develop over time.\N{\rChinese}于是，在1997年，…
+Dialogue: 0,0:14:06.30,0:14:07.64,English,,0,0,0,,So, in 1997,\N{\rChinese}So, in 1997,
+Dialogue: 0,0:14:08.04,0:14:11.92,English,,0,0,0,,uh, Dugin published a book called, Foundations of Geopolitics,\N{\rChinese}呃，杜金出版了一本叫《地缘政治基础》的书，
+Dialogue: 0,0:14:11.98,0:14:13.96,English,,0,0,0,,where he describes his master plan\N{\rChinese}在书中他描述了他的总计划
+Dialogue: 0,0:14:14.50,0:14:16.10,English,,0,0,0,,for how, um,\N{\rChinese}来说明他是怎么做的，
+Dialogue: 0,0:14:16.24,0:14:19.98,English,,0,0,0,,Moscow can restore the Byzantine Empire.\N{\rChinese}莫斯科能恢复拜占庭帝国。
+Dialogue: 0,0:14:20.90,0:14:24.70,English,,0,0,0,,So, what he understands is\N{\rChinese}于是，他的理解是
+Dialogue: 0,0:14:24.70,0:14:30.42,English,,0,0,0,,that for the longest time, whoever controls the seas controls the world,\N{\rChinese}长久以来，谁掌握海权，谁掌握世界。
+Dialogue: 0,0:14:30.52,0:14:33.54,English,,0,0,0,,because most trade was done through sea.\N{\rChinese}因为大部分贸易都通过海路完成。
+Dialogue: 0,0:14:34.20,0:14:38.22,English,,0,0,0,,But in a time of nation states, in a time of railways,\N{\rChinese}但在民族国家时代，在铁路时代，
+Dialogue: 0,0:14:40.04,0:14:43.64,English,,0,0,0,,if one power can unite the Europe\N{\rChinese}如果一个力量能统一欧洲
+Dialogue: 0,0:14:43.64,0:14:46.92,English,,0,0,0,,and Asian continents into the Eurasian continent,\N{\rChinese}并把亚洲大陆纳入欧亚大陆，然后该力量可消除海权
+Dialogue: 0,0:14:47.32,0:14:50.04,English,,0,0,0,,then that power can negate sea power\N{\rChinese}然后该力量可消除海权
+Dialogue: 0,0:14:51.22,0:14:54.04,English,,0,0,0,,and, uh, become the global hegemon.\N{\rChinese}并且成为全球霸权
+Dialogue: 0,0:14:54.22,0:14:57.22,English,,0,0,0,,And, uh, and that's why the British,\N{\rChinese}于是，英国，嗯，正是因为这个原因，
+Dialogue: 0,0:14:57.86,0:14:59.96,English,,0,0,0,,the British Empire, are committed to two things.\N{\rChinese}英国帝国，已承诺两件事，
+Dialogue: 0,0:15:00.14,0:15:02.70,English,,0,0,0,,The first thing they're committed to is maintaining naval power.\N{\rChinese}首先，他们承诺保持海军力量。
+Dialogue: 0,0:15:02.84,0:15:05.36,English,,0,0,0,,And the second thing they're committed to is ensuring that\N{\rChinese}并且他们承诺的第二件事是确保
+Dialogue: 0,0:15:05.36,0:15:09.62,English,,0,0,0,,no major power would arise in the Eurasian,\N{\rChinese}在欧亚心脏地带没有大国崛起。
+Dialogue: 0,0:15:10.04,0:15:12.82,English,,0,0,0,,uh, heartland. And that's why, um,\N{\rChinese}这就是为什么，嗯，
+Dialogue: 0,0:15:12.96,0:15:15.64,English,,0,0,0,,the British basically provoked Germany into World War I,\N{\rChinese}英国基本上把德国逼入第一次世界大战，
+Dialogue: 0,0:15:15.78,0:15:18.86,English,,0,0,0,,because Germany was threatening to be this power.\N{\rChinese}因为德国正威胁要成为那股力量。
+Dialogue: 0,0:15:19.12,0:15:21.10,English,,0,0,0,,And, and that's why, uh,\N{\rChinese}于是，嗯，
+Dialogue: 0,0:15:21.22,0:15:24.42,English,,0,0,0,,Britain is now afraid of Russia, because\N{\rChinese}英国现在害怕俄罗斯，因为
+Dialogue: 0,0:15:24.42,0:15:25.98,English,,0,0,0,,Russia is trying to be that\N{\rChinese}俄罗斯正试图成为那股力量，
+Dialogue: 0,0:15:25.98,0:15:30.12,English,,0,0,0,,power to unify the entire Eurasian heartland.\N{\rChinese}统一整个欧亚心脏地带。
+Dialogue: 0,0:15:30.70,0:15:34.58,English,,0,0,0,,For Dugin, um, to unify the Eurasian heartland,\N{\rChinese}对杜金来说，嗯，要统一欧亚心脏地带，
+Dialogue: 0,0:15:34.80,0:15:37.88,English,,0,0,0,,uh, what Moscow needs to do is, first of all,\N{\rChinese}嗯，莫斯科需要做的第一件事是，
+Dialogue: 0,0:15:37.88,0:15:40.02,English,,0,0,0,,create the Berlin -Moscow border.\N{\rChinese}先建立柏林-莫斯科边界。
+Dialogue: 0,0:15:40.04,0:15:42.48,English,,0,0,0,,It must create the Moscow axis to reconcile itself with Europe.\N{\rChinese}它必须创建莫斯科轴线，以便与欧洲调和。
+Dialogue: 0,0:15:42.72,0:15:46.38,English,,0,0,0,,It must also create the Moscow\N{\rChinese}它还必须创建莫斯科-东京轴线，以便……
+Dialogue: 0,0:15:46.38,0:15:49.76,English,,0,0,0,,-Tokyo axis to reach out to, uh,\N{\rChinese}-Tokyo axis to reach out to, uh,
+Dialogue: 0,0:15:50.30,0:15:51.86,English,,0,0,0,,uh, Southeast Asia.\N{\rChinese}嗯，东南亚。
+Dialogue: 0,0:15:52.28,0:15:57.84,English,,0,0,0,,And also to create the Moscow terrain axis,\N{\rChinese}又要创建莫斯科地形轴线，
+Dialogue: 0,0:15:58.12,0:16:02.70,English,,0,0,0,,uh, to control the resources of the Middle East.\N{\rChinese}嗯，掌控中东资源。
+Dialogue: 0,0:16:03.02,0:16:06.84,English,,0,0,0,,And by building this alliance, what Moscow is doing is not only,\N{\rChinese}并且通过组建此联盟，莫斯科所做的事不只是
+Dialogue: 0,0:16:06.86,0:16:08.94,English,,0,0,0,,not only restoring the Besson Empire, but\N{\rChinese}恢复贝松帝国，
+Dialogue: 0,0:16:08.94,0:16:12.10,English,,0,0,0,,it's also restoring the Pax Mongolica, the Mongol Empire.\N{\rChinese}也恢复了蒙古帝国的和平秩序
+Dialogue: 0,0:16:12.42,0:16:14.88,English,,0,0,0,,So, Moscow sees itself as the, um,\N{\rChinese}于是，莫斯科把自己视为，呃，
+Dialogue: 0,0:16:15.18,0:16:18.92,English,,0,0,0,,heirs to both the Besson Empire as well as the Mongolian Empire.\N{\rChinese}贝松帝国与蒙古帝国的继承者。
+Dialogue: 0,0:16:19.86,0:16:23.68,English,,0,0,0,,Now, um, Dugin thinks this is entirely possible\N{\rChinese}现在，呃，杜金认为这完全可行。
+Dialogue: 0,0:16:25.04,0:16:27.82,English,,0,0,0,,because, uh, the Iranians, the Japanese,\N{\rChinese}因为，呃，伊朗人、日本人、德国人都觉得被英美帝国轻视，呃，受辱。
+Dialogue: 0,0:16:27.90,0:16:31.80,English,,0,0,0,,and the Germans all feel slighted, um,\N{\rChinese}因为，呃，伊朗人、日本人、德国人都觉得被英美帝国轻视，呃，受辱。
+Dialogue: 0,0:16:32.74,0:16:35.50,English,,0,0,0,,humiliated by the Anglo -American Empire.\N{\rChinese}因为，呃，伊朗人、日本人、德国人都觉得被英美帝国轻视，呃，受辱。
+Dialogue: 0,0:16:35.80,0:16:38.90,English,,0,0,0,,So, if you give them a choice between sticking with the\N{\rChinese}于是，如果给他们一个选择：继续留在英美帝国，还是加入新的俄罗斯联邦，给他们更多自由，他们会选择俄罗斯联邦。
+Dialogue: 0,0:16:38.90,0:16:42.58,English,,0,0,0,,Anglo -American Empire or joining the new Russian Confederation,\N{\rChinese}现在，显然，英美帝国会对此计划作出反应，
+Dialogue: 0,0:16:42.86,0:16:47.64,English,,0,0,0,,where they'll be given more freedom, then they will opt for the Russian Confederation.\N{\rChinese}于是，对杜金来说，重要的是在美国内部制造混乱、分裂与冲突。
+Dialogue: 0,0:16:48.16,0:16:49.66,English,,0,0,0,,So, that's the grand plan.\N{\rChinese}于是，这就是宏伟计划。
+Dialogue: 0,0:16:49.92,0:16:54.52,English,,0,0,0,,Now, obviously, the Anglo -American Empire is gonna oppose this,\N{\rChinese}现在，显然，英美帝国会对此计划作出反应，
+Dialogue: 0,0:16:54.58,0:16:57.12,English,,0,0,0,,uh, plan. And so, for Dugin,\N{\rChinese}呃，计划。
+Dialogue: 0,0:16:57.24,0:16:59.44,English,,0,0,0,,what's important is to create\N{\rChinese}重要的是制造内部混乱
+Dialogue: 0,0:17:00.00,0:17:02.90,English,,0,0,0,,internal chaos and dissent and\N{\rChinese}和分裂
+Dialogue: 0,0:17:02.90,0:17:05.28,English,,0,0,0,,conflict within America and\N{\rChinese}以及美国内部的冲突
+Dialogue: 0,0:17:05.28,0:17:08.50,English,,0,0,0,,within Britain to destroy the Anglo -American Empire.\N{\rChinese}在英国内部，消灭英美帝国。
+Dialogue: 0,0:17:08.72,0:17:11.74,English,,0,0,0,,And that's already happening right now because, um,\N{\rChinese}而这已经在现在发生了，因为，呃，
+Dialogue: 0,0:17:11.88,0:17:16.16,English,,0,0,0,,you have Brexit in Britain, and now you have this mass immigration, which is threatening the British identity.\N{\rChinese}你有英国脱欧，随后又有大规模移民，威胁英国身份。
+Dialogue: 0,0:17:16.48,0:17:19.94,English,,0,0,0,,In America, you have Donald Trump, who is proposing America first.\N{\rChinese}在美国，唐纳德·特朗普提出“美国优先”。
+Dialogue: 0,0:17:20.14,0:17:21.62,English,,0,0,0,,So, all is gonna plan.\N{\rChinese}于是，一切都将按计划进行。
+Dialogue: 0,0:17:22.06,0:17:24.98,English,,0,0,0,,This plan also recognizes that both Turkey\N{\rChinese}该计划也承认土耳其两者。
+Dialogue: 0,0:17:24.98,0:17:30.84,English,,0,0,0,,and China are also enemies to the rise of this,\N{\rChinese}和中国也是这场欧亚统一崛起的敌人。
+Dialogue: 0,0:17:31.06,0:17:34.20,English,,0,0,0,,um, Eurasian, uh, unification.\N{\rChinese}呃，然而正如我们在前一段视频里讨论的那样，
+Dialogue: 0,0:17:35.32,0:17:37.86,English,,0,0,0,,Um, but as we discussed in a previous video,\N{\rChinese}Um, but as we discussed in a previous video,
+Dialogue: 0,0:17:38.52,0:17:41.34,English,,0,0,0,,Turkey itself is not very stable.\N{\rChinese}土耳其本身不太稳定。
+Dialogue: 0,0:17:41.58,0:17:45.14,English,,0,0,0,,It's kept together, uh, for the political maneuvering of Erdogan.\N{\rChinese}它被维持在一起，呃，为埃尔多安的政治操作。
+Dialogue: 0,0:17:45.78,0:17:48.76,English,,0,0,0,,Once he's gone, then all these ethnic tensions,\N{\rChinese}一旦他离开，所有这些民族紧张就会出现。
+Dialogue: 0,0:17:49.58,0:17:52.52,English,,0,0,0,,these geopolitical tensions, these economic tensions that\N{\rChinese}这些地缘政治紧张，这些经济紧张
+Dialogue: 0,0:17:52.52,0:17:55.40,English,,0,0,0,,exist in Turkey will explode,\N{\rChinese}在土耳其出现的将会爆发
+Dialogue: 0,0:17:55.46,0:17:57.46,English,,0,0,0,,and it will overwhelm Turkey,\N{\rChinese}并且将把土耳其压垮
+Dialogue: 0,0:17:57.64,0:18:01.82,English,,0,0,0,,thus causing it to collapse, um, as a nation -state.\N{\rChinese}于是导致它崩溃，呃，成为一个民族国家。
+Dialogue: 0,0:18:01.92,0:18:03.84,English,,0,0,0,,It will lose its coherence as a nation -state.\N{\rChinese}它将失去作为民族国家的连贯性。
+Dialogue: 0,0:18:04.76,0:18:06.56,English,,0,0,0,,Dugin is not worried about China as well.\N{\rChinese}杜金也不太担心中国。
+Dialogue: 0,0:18:06.76,0:18:10.66,English,,0,0,0,,He understands that, uh, he understands that Russia and China can never be allies,\N{\rChinese}他明白，呃，他明白俄罗斯和中国永远是盟友不到的
+Dialogue: 0,0:18:11.08,0:18:12.24,English,,0,0,0,,uh, because\N{\rChinese}呃，因为
+Dialogue: 0,0:18:12.24,0:18:17.22,English,,0,0,0,,China is too economic dependent on the Anglo -American Empire.\N{\rChinese}中国对英美帝国的经济依赖太大了
+Dialogue: 0,0:18:17.78,0:18:21.68,English,,0,0,0,,Basically, the point is, Russia has nothing to offer China.\N{\rChinese}基本上，重点是俄罗斯对中国没有任何可提供的东西。
+Dialogue: 0,0:18:22.12,0:18:25.36,English,,0,0,0,,China is basically a manufacturing economy\N{\rChinese}中国基本上是一个制造业经济体。
+Dialogue: 0,0:18:25.36,0:18:29.60,English,,0,0,0,,which must sell its goods to the Anglo -American Empire.\N{\rChinese}它必须把产品卖给英美帝国。
+Dialogue: 0,0:18:29.82,0:18:32.84,English,,0,0,0,,Russia will, cannot absorb these goods.\N{\rChinese}俄罗斯将无法吸收这些货物。
+Dialogue: 0,0:18:33.10,0:18:35.10,English,,0,0,0,,Um, at the same time,\N{\rChinese}呃，在同一时间，
+Dialogue: 0,0:18:35.85,0:18:37.62,English,,0,0,0,,there are a lot of internal contradictions\N{\rChinese}内部矛盾很多。
+Dialogue: 0,0:18:37.98,0:18:39.18,English,,0,0,0,,in China.\N{\rChinese}在中国。
+Dialogue: 0,0:18:39.70,0:18:44.08,English,,0,0,0,,I can tell you, as someone who lives in China for many, many decades,\N{\rChinese}我可以告诉你，作为一个在中国生活了许多几十年的居民，
+Dialogue: 0,0:18:44.52,0:18:47.78,English,,0,0,0,,China is not going to survive an economic catastrophe.\N{\rChinese}中国将无法在经济灾难中存活。
+Dialogue: 0,0:18:48.16,0:18:51.16,English,,0,0,0,,It's not going to survive an ecological catastrophe.\N{\rChinese}它将无法在生态灾难中存活。
+Dialogue: 0,0:18:51.52,0:18:54.38,English,,0,0,0,,In fact, its economy is,\N{\rChinese}事实上，它的经济是，
+Dialogue: 0,0:18:54.52,0:18:57.06,English,,0,0,0,,uh, propelling its, its,\N{\rChinese}呃，推动它的，的，
+Dialogue: 0,0:18:57.12,0:19:00.24,English,,0,0,0,,the nation to a ecological catastrophe.\N{\rChinese}民族国家陷入生态灾难。
+Dialogue: 0,0:19:01.24,0:19:04.12,English,,0,0,0,,China is overpopulated, has very little resources,\N{\rChinese}中国人口众多，资源极少，
+Dialogue: 0,0:19:04.20,0:19:07.96,English,,0,0,0,,and it imports one -third of its goods.\N{\rChinese}并且其商品进口占三分之一。
+Dialogue: 0,0:19:07.98,0:19:10.44,English,,0,0,0,,Food. It imports most of its oil.\N{\rChinese}食品。它进口大部分油料。
+Dialogue: 0,0:19:11.30,0:19:13.70,English,,0,0,0,,These bonnet industries, EV,\N{\rChinese}这些帽子产业，电动车，
+Dialogue: 0,0:19:14.58,0:19:17.04,English,,0,0,0,,uh, AI, min, uh,\N{\rChinese}呃，人工智能，矿，呃，
+Dialogue: 0,0:19:17.12,0:19:18.40,English,,0,0,0,,rare minerals,\N{\rChinese}稀有矿物，
+Dialogue: 0,0:19:18.62,0:19:21.78,English,,0,0,0,,they're all contributing to massive\N{\rChinese}它们都在为中国的巨大
+Dialogue: 0,0:19:21.78,0:19:25.20,English,,0,0,0,,ecological destruction in China.\N{\rChinese}生态破坏贡献着
+Dialogue: 0,0:19:25.48,0:19:28.02,English,,0,0,0,,I mean, you can say it's unsustainable, but\N{\rChinese}我想说，你可以说它不持续，但也可以说这些经济政策，……又破坏环境，真是自杀式的，行吗？
+Dialogue: 0,0:19:28.02,0:19:31.04,English,,0,0,0,,you can also say these economic policies that,\N{\rChinese}这些经济政策，……又破坏环境，真是自杀式的，行吗？
+Dialogue: 0,0:19:31.04,0:19:34.54,English,,0,0,0,,um, destroy the environment, it's really suicidal, okay?\N{\rChinese}这些经济政策，……又破坏环境，真是自杀式的，行吗？
+Dialogue: 0,0:19:34.62,0:19:37.58,English,,0,0,0,,So, so, China does not have a very bright future.\N{\rChinese}于是，中国的未来并不算太光明。
+Dialogue: 0,0:19:37.98,0:19:40.70,English,,0,0,0,,It's not ahead of it. So Dugan's not worried about China either, okay?\N{\rChinese}它也没有领先。于是杜甘也不担心中国，行吗？
+Dialogue: 0,0:19:40.92,0:19:44.04,English,,0,0,0,,So, um, that\N{\rChinese}于是，嗯，那个。
+Dialogue: 0,0:19:44.04,0:19:46.76,English,,0,0,0,,is the master plan of,\N{\rChinese}是主计划，
+Dialogue: 0,0:19:46.76,0:19:48.86,English,,0,0,0,,um, Alexander Dugan.\N{\rChinese}嗯，亚历山大·杜甘。
+Dialogue: 0,0:19:48.96,0:19:53.06,English,,0,0,0,,And again, it is based on the Orthodox eschatology,\N{\rChinese}再一次，它基于正教的末世论。
+Dialogue: 0,0:19:53.30,0:19:56.24,English,,0,0,0,,which perceives Moscow as a third Rome\N{\rChinese}它把莫斯科视为第三罗马
+Dialogue: 0,0:19:56.24,0:19:59.16,English,,0,0,0,,and perceives Vladimir Putin as a last song,\N{\rChinese}并把弗拉基米尔·普京视为最后的歌声
+Dialogue: 0,0:19:59.20,0:20:03.68,English,,0,0,0,,as this great unifier of the world, of the world.\N{\rChinese}是这位伟大的世界统一者，世界的统一者
+Dialogue: 0,0:20:03.86,0:20:06.22,English,,0,0,0,,Um, in Dugan's terms,\N{\rChinese}嗯，在杜甘的说法里，
+Dialogue: 0,0:20:06.22,0:20:10.26,English,,0,0,0,,Putin is the catacomb, okay?\N{\rChinese}普京是坟墓，行吗？
+Dialogue: 0,0:20:10.32,0:20:13.54,English,,0,0,0,,The catacomb is Greek word meaning the force that\N{\rChinese}坟墓是希腊词，意为力量
+Dialogue: 0,0:20:13.54,0:20:15.76,English,,0,0,0,,restrains the Antichrist, okay?\N{\rChinese}约束了末日之敌，好吗？
+Dialogue: 0,0:20:15.88,0:20:18.32,English,,0,0,0,,So for Dugan, um,\N{\rChinese}所以对杜甘来说，好吧，
+Dialogue: 0,0:20:18.70,0:20:20.38,English,,0,0,0,,Moscow has responsibility\N{\rChinese}莫斯科承担责任
+Dialogue: 0,0:20:21.03,0:20:24.00,English,,0,0,0,,to be the force for civilization,\N{\rChinese}成为文明的力量，
+Dialogue: 0,0:20:24.40,0:20:26.28,English,,0,0,0,,for good, for God.\N{\rChinese}为善，为神。
+Dialogue: 0,0:20:27.00,0:20:32.12,English,,0,0,0,,Okay, now let's move on to the last eschatological tradition,\N{\rChinese}好了，接下来是最后一种末世传统。
+Dialogue: 0,0:20:32.38,0:20:35.58,English,,0,0,0,,which is the Catholic eschatology.\N{\rChinese}哪是天主教的末世论。
+Dialogue: 0,0:20:36.22,0:20:39.36,English,,0,0,0,,Now, it's interesting because, um,\N{\rChinese}现在很有趣，因为，好吧，
+Dialogue: 0,0:20:40.22,0:20:42.96,English,,0,0,0,,if you read Augustine and the City of God,\N{\rChinese}若你读《天主之城》
+Dialogue: 0,0:20:43.14,0:20:45.38,English,,0,0,0,,what he argues is that\N{\rChinese}他所论证的是
+Dialogue: 0,0:20:45.38,0:20:49.02,English,,0,0,0,,the church is the millennium.\N{\rChinese}教会即千年
+Dialogue: 0,0:20:49.22,0:20:53.48,English,,0,0,0,,Um, the church is the embodiment of the Mesenian age.\N{\rChinese}嗯，教会是梅森时代的化身
+Dialogue: 0,0:20:53.74,0:20:56.98,English,,0,0,0,,So with the coming of the church, the world has ended because\N{\rChinese}于是随着教会的到来，世界就结束了，因为
+Dialogue: 0,0:20:56.98,0:20:59.48,English,,0,0,0,,the church is able to step out of history\N{\rChinese}教会能够脱离历史
+Dialogue: 0,0:21:00.00,0:21:02.80,English,,0,0,0,,and ensure peace, truth,\N{\rChinese}并确保和平与真理
+Dialogue: 0,0:21:02.96,0:21:05.36,English,,0,0,0,,and justice in the world.\N{\rChinese}和世界的正义。
+Dialogue: 0,0:21:06.22,0:21:09.72,English,,0,0,0,,And that very much is still the, um,\N{\rChinese}而且这点仍然是，嗯，官方天主教会的主线。
+Dialogue: 0,0:21:11.44,0:21:14.04,English,,0,0,0,,official Catholic church line.\N{\rChinese}official Catholic church line.
+Dialogue: 0,0:21:14.62,0:21:17.58,English,,0,0,0,,Um, there are eschatological elements to,\N{\rChinese}嗯，有末世论的元素在……
+Dialogue: 0,0:21:17.74,0:21:19.90,English,,0,0,0,,um, the Catholic church.\N{\rChinese}嗯，天主教会。
+Dialogue: 0,0:21:20.06,0:21:22.82,English,,0,0,0,,For example, uh, Catholics do believe that\N{\rChinese}比如，嗯，天主教会认为……
+Dialogue: 0,0:21:22.82,0:21:25.98,English,,0,0,0,,there'll be a second coming of Jesus, and there'll be some certain signs\N{\rChinese}将会有第二次基督再来，并且会有若干确定的征兆
+Dialogue: 0,0:21:25.98,0:21:28.86,English,,0,0,0,,that precede the coming of, the second coming of Jesus, which\N{\rChinese}这些征兆在第二次基督再来之前出现
+Dialogue: 0,0:21:28.86,0:21:31.36,English,,0,0,0,,include the masculine conversion of Jews, which\N{\rChinese}其中包括犹太人男性的转变
+Dialogue: 0,0:21:31.36,0:21:33.60,English,,0,0,0,,include the age of tribulation, which\N{\rChinese}包括受苦难之年，且包括，嗯，反基督的来临。
+Dialogue: 0,0:21:33.60,0:21:37.00,English,,0,0,0,,include the coming of the, um, Antichrist.\N{\rChinese}但大体上，嗯，…。
+Dialogue: 0,0:21:37.16,0:21:40.36,English,,0,0,0,,But for the most part, the, um,\N{\rChinese}But for the mostpart, the, um,
+Dialogue: 0,0:21:40.42,0:21:45.12,English,,0,0,0,,Catholic church is committed to a policy of personal eschatology,\N{\rChinese}天主教会致力于个人末世论的方针，
+Dialogue: 0,0:21:45.36,0:21:48.86,English,,0,0,0,,which argues that it is for our own personal transformation,\N{\rChinese}其主张为个人转化之道，
+Dialogue: 0,0:21:49.02,0:21:51.72,English,,0,0,0,,our own personal salvation and redemption,\N{\rChinese}乃是为个人得救与复兴之策
+Dialogue: 0,0:21:52.08,0:21:54.76,English,,0,0,0,,uh, through the guidance of the church that\N{\rChinese}呃，通过教会的指引，能让世界更好。
+Dialogue: 0,0:21:54.76,0:21:57.12,English,,0,0,0,,allows for a better world.\N{\rChinese}这就是官方说法，但我们可以。
+Dialogue: 0,0:21:58.20,0:22:00.68,English,,0,0,0,,This is the official line, but we can,\N{\rChinese}This is the official line, but we can,
+Dialogue: 0,0:22:00.68,0:22:04.84,English,,0,0,0,,we can be suspicious that this is actually what they really believe.\N{\rChinese}我们可以怀疑这才是他们真正的信念。
+Dialogue: 0,0:22:05.02,0:22:08.58,English,,0,0,0,,Um, I'm sure that there are certain elements within the Catholic church\N{\rChinese}嗯，我确信天主教会内部有些元素确有末世论的世界观。
+Dialogue: 0,0:22:09.22,0:22:13.80,English,,0,0,0,,who do have an eschatological, uh, worldview.\N{\rChinese}who do have an eschatological, uh, worldview.
+Dialogue: 0,0:22:14.12,0:22:19.86,English,,0,0,0,,Okay? And there are three reasons why I would think the church,\N{\rChinese}好的？还有三个理由，我认为教会……
+Dialogue: 0,0:22:20.06,0:22:23.02,English,,0,0,0,,uh, many elements in the church, um,\N{\rChinese}呃，教会里有很多元素，嗯，……
+Dialogue: 0,0:22:23.40,0:22:25.84,English,,0,0,0,,want radical global transformation.\N{\rChinese}想要彻底的全球变革。
+Dialogue: 0,0:22:26.14,0:22:28.52,English,,0,0,0,,Okay? So let's look at these three reasons.\N{\rChinese}好的？那我们先看这三个理由。
+Dialogue: 0,0:22:28.80,0:22:31.28,English,,0,0,0,,First of all, we have to remember the origins of the Catholic church.\N{\rChinese}首先，我们要记住天主教会的起源。
+Dialogue: 0,0:22:31.44,0:22:34.88,English,,0,0,0,,It started out as a secret conspiracy against,\N{\rChinese}它最初是作为对……的秘密阴谋而起。
+Dialogue: 0,0:22:34.88,0:22:37.08,English,,0,0,0,,against the Roman Empire, and it succeeded.\N{\rChinese}对罗马帝国的阴谋，最终成功。
+Dialogue: 0,0:22:37.50,0:22:38.70,English,,0,0,0,,Okay? So\N{\rChinese}好？那么
+Dialogue: 0,0:22:38.70,0:22:43.02,English,,0,0,0,,the Catholic church is very good at conspiracies.\N{\rChinese}天主教会在阴谋方面非常擅长。
+Dialogue: 0,0:22:43.14,0:22:48.10,English,,0,0,0,,In fact, it really developed the world's first intelligence agency,\N{\rChinese}实际上，它确实发展了世界上第一家情报机构，
+Dialogue: 0,0:22:48.44,0:22:49.98,English,,0,0,0,,first global intelligence agency.\N{\rChinese}第一家全球情报机构。
+Dialogue: 0,0:22:50.78,0:22:53.38,English,,0,0,0,,Um, there are certain elements within the Catholic church,\N{\rChinese}嗯，天主教会内部有若干要素，
+Dialogue: 0,0:22:53.54,0:22:56.20,English,,0,0,0,,the Jesuits, Opus Dei, which are, which\N{\rChinese}耶稣会，Opus Dei，亦即…
+Dialogue: 0,0:22:56.20,0:22:59.78,English,,0,0,0,,are famous for their effectiveness, their organization,\N{\rChinese}以其高效、组织闻名
+Dialogue: 0,0:23:00.22,0:23:03.00,English,,0,0,0,,um, their, um, strategy.\N{\rChinese}嗯，他们的，呃，策略。
+Dialogue: 0,0:23:03.30,0:23:05.36,English,,0,0,0,,Okay? So, um,\N{\rChinese}好的？那么，呃，
+Dialogue: 0,0:23:06.18,0:23:08.56,English,,0,0,0,,that's the first thing we have to remember about the Catholic church.\N{\rChinese}首先要记住的是天主教会的这点。
+Dialogue: 0,0:23:08.76,0:23:10.92,English,,0,0,0,,They are very good at conspiracies.\N{\rChinese}他们在阴谋方面非常擅长。
+Dialogue: 0,0:23:11.00,0:23:14.82,English,,0,0,0,,In fact, they're so good, we don't even talk about,\N{\rChinese}事实上，他们做得如此好，甚至连谈他们的阴谋都不说，
+Dialogue: 0,0:23:15.38,0:23:16.88,English,,0,0,0,,uh, their conspiracies.\N{\rChinese}呃，
+Dialogue: 0,0:23:17.06,0:23:19.78,English,,0,0,0,,So if you go online, on Twitter, on social media,\N{\rChinese}所以如果你上网，去推特，去社交媒，大家都在聊深层政府。
+Dialogue: 0,0:23:20.42,0:23:23.18,English,,0,0,0,,everyone's talking about, uh, the deep state.\N{\rChinese}大家都在聊深层政府。
+Dialogue: 0,0:23:23.36,0:23:27.28,English,,0,0,0,,Everyone's talking about the Jews. Everyone's talking about, uh, the state of London.\N{\rChinese}大家都在聊犹太人。大家都在聊，呃，伦敦的状态。
+Dialogue: 0,0:23:27.36,0:23:28.70,English,,0,0,0,,But no one's talking about the Catholic church.\N{\rChinese}但没人聊天主教会。
+Dialogue: 0,0:23:29.22,0:23:30.54,English,,0,0,0,,That's really weird.\N{\rChinese}真是奇怪。
+Dialogue: 0,0:23:30.74,0:23:33.60,English,,0,0,0,,Uh, you have books and books and books of all,\N{\rChinese}呃，你有好多书，书，书，关于……
+Dialogue: 0,0:23:33.60,0:23:35.86,English,,0,0,0,,of, of how, uh,\N{\rChinese}呃，关于……
+Dialogue: 0,0:23:35.94,0:23:38.32,English,,0,0,0,,Jews have influenced history, but\N{\rChinese}犹太人影响了历史，但……
+Dialogue: 0,0:23:38.32,0:23:41.80,English,,0,0,0,,very few books on how the Catholic church influenced history.\N{\rChinese}关于天主教会影响历史的书很少。
+Dialogue: 0,0:23:41.92,0:23:43.92,English,,0,0,0,,I would think that, um,\N{\rChinese}我想……
+Dialogue: 0,0:23:44.10,0:23:46.44,English,,0,0,0,,the most powerful,\N{\rChinese}最强大的
+Dialogue: 0,0:23:46.58,0:23:49.20,English,,0,0,0,,wealthiest, and\N{\rChinese}最富有的
+Dialogue: 0,0:23:49.20,0:23:54.04,English,,0,0,0,,most secretive organization in human history for the past 2,000 years, they would,\N{\rChinese}最秘密的
+Dialogue: 0,0:23:54.04,0:23:59.56,English,,0,0,0,,would have a much greater impact on human history than the Jews.\N{\rChinese}会对人类历史产生更大的影响，比犹太人更重要。
+Dialogue: 0,0:23:59.98,0:24:02.96,English,,0,0,0,,Okay. So, there's, like,\N{\rChinese}好的。就是说，像是，
+Dialogue: 0,0:24:02.96,0:24:05.66,English,,0,0,0,,something, something to remember about the Catholic church is\N{\rChinese}关于天主教会的事，记得有点要点。
+Dialogue: 0,0:24:06.40,0:24:08.16,English,,0,0,0,,before the Anglo -American Empire,\N{\rChinese}在英美帝国之前，
+Dialogue: 0,0:24:09.22,0:24:10.66,English,,0,0,0,,they were the empire.\N{\rChinese}他们就是帝国。
+Dialogue: 0,0:24:11.04,0:24:14.54,English,,0,0,0,,Okay? They had, they had 1,000 years from the fall of Rome\N{\rChinese}好的？他们从罗马陨落起已有一千年。
+Dialogue: 0,0:24:15.50,0:24:18.30,English,,0,0,0,,until, uh, the rise of the, uh, British Empire\N{\rChinese}直到，呃，英国帝国崛起时
+Dialogue: 0,0:24:18.30,0:24:20.38,English,,0,0,0,,when they were in charge, when\N{\rChinese}当他们掌权时，当…
+Dialogue: 0,0:24:20.38,0:24:24.36,English,,0,0,0,,they were the de facto power in the world.\N{\rChinese}他们在世界上是事实上的强权
+Dialogue: 0,0:24:24.50,0:24:28.18,English,,0,0,0,,And for many, they believed that was the Mesitic age.\N{\rChinese}于是许多人认为那是米塞提时代。
+Dialogue: 0,0:24:28.36,0:24:31.66,English,,0,0,0,,That was the millennium. That was the most perfect age,\N{\rChinese}那是千年。那是最完美的时代，
+Dialogue: 0,0:24:31.66,0:24:33.20,English,,0,0,0,,the most golden age in human history.\N{\rChinese}人类历史上最金色的时代。
+Dialogue: 0,0:24:33.30,0:24:36.48,English,,0,0,0,,And we screwed it up. Uh, we threw it away, uh, with,\N{\rChinese}于是我们搞砸了。呃，我们把它抛了，呃，随着英国帝国的崛起。
+Dialogue: 0,0:24:36.58,0:24:39.12,English,,0,0,0,,with the rise of the British Empire.\N{\rChinese}于是我们把它抛了，呃，随着英国帝国的崛起。
+Dialogue: 0,0:24:39.32,0:24:43.04,English,,0,0,0,,And therefore, we, uh, must return to\N{\rChinese}于是我们把它抛了，呃，随着英国帝国的崛起。
+Dialogue: 0,0:24:43.04,0:24:44.56,English,,0,0,0,,that golden age when\N{\rChinese}那黄金时代，当……
+Dialogue: 0,0:24:44.56,0:24:49.20,English,,0,0,0,,the Catholic church was the dominant empire in the world.\N{\rChinese}天主教会成为世界主导帝国时。
+Dialogue: 0,0:24:50.44,0:24:53.80,English,,0,0,0,,And, um, the, um,\N{\rChinese}而且，呃，那个……
+Dialogue: 0,0:24:54.04,0:24:56.40,English,,0,0,0,,third thing to remember, remember about the Catholic church is\N{\rChinese}第三点要记住，关于天主教会的事是……
+Dialogue: 0,0:24:57.52,0:25:00.12,English,,0,0,0,,they really are the most powerful,\N{\rChinese}它们确实是最强大的……
+Dialogue: 0,0:25:00.12,0:25:04.08,English,,0,0,0,,powerful non -state organization in the whole world.\N{\rChinese}是全世界最强大的非国家组织。
+Dialogue: 0,0:25:04.16,0:25:07.28,English,,0,0,0,,They have a global network. They have 1 billion followers.\N{\rChinese}他们拥有全球网络，拥有10亿追随者。
+Dialogue: 0,0:25:07.92,0:25:10.08,English,,0,0,0,,If there is a global catastrophe,\N{\rChinese}若有全球灾难，
+Dialogue: 0,0:25:11.00,0:25:15.06,English,,0,0,0,,they are the most ready\N{\rChinese}他们最为准备。
+Dialogue: 0,0:25:15.06,0:25:18.76,English,,0,0,0,,to rebuild the world after it collapses.\N{\rChinese}重建世界在崩溃后。
+Dialogue: 0,0:25:19.18,0:25:23.54,English,,0,0,0,,So, these are major advantages for the Catholic church.\N{\rChinese}这些是天主教会的主要优势。
+Dialogue: 0,0:25:23.76,0:25:25.86,English,,0,0,0,,And that's why I think that, um,\N{\rChinese}这就是我认为的原因，呃。
+Dialogue: 0,0:25:25.94,0:25:28.78,English,,0,0,0,,there are many elements within the Catholic church who,\N{\rChinese}有许多天主教会内部的成员，
+Dialogue: 0,0:25:30.12,0:25:33.28,English,,0,0,0,,who do have an eschatological worldview.\N{\rChinese}他们确有末世论的世界观。
+Dialogue: 0,0:25:33.46,0:25:36.46,English,,0,0,0,,They have a plan to conquer the world. And they are slowly implemented.\N{\rChinese}他们有征服世界的计划，并且正在慢慢实施。
+Dialogue: 0,0:25:36.76,0:25:40.64,English,,0,0,0,,Okay? So, having said that, let's go over the major opposition,\N{\rChinese}好的？说完了，接下来我们来梳理一下主要对手，天主教会的对手。
+Dialogue: 0,0:25:41.36,0:25:42.94,English,,0,0,0,,the opponents of the Catholic church.\N{\rChinese}好吧，首个主要对手，当然是英美帝国。
+Dialogue: 0,0:25:43.26,0:25:47.96,English,,0,0,0,,Well, the first major opponent, of course, is the Anglo -American Empire.\N{\rChinese}Well, the first major opponent, of course, is the Anglo -American Empire.
+Dialogue: 0,0:25:48.30,0:25:50.62,English,,0,0,0,,And the Anglo -American Empire represents, of course,\N{\rChinese}英美帝国当然代表着……
+Dialogue: 0,0:25:51.64,0:25:53.54,English,,0,0,0,,enlightenment principles, uh,\N{\rChinese}启蒙原则，呃，
+Dialogue: 0,0:25:54.30,0:25:56.50,English,,0,0,0,,neoliberalism, uh, materialism, capitalism,\N{\rChinese}新自由主义，呃，物质主义，资本主义
+Dialogue: 0,0:25:57.70,0:26:02.08,English,,0,0,0,,Protestantism. Okay? And remember, the Protestants and Catholics hate each other.\N{\rChinese}新教派。好吧？记得，新教徒和天主教徒互相仇视。
+Dialogue: 0,0:26:02.24,0:26:05.76,English,,0,0,0,,Um, these are the two greatest rivals in human history.\N{\rChinese}呃，这两者是人类史上最大的两大对手。
+Dialogue: 0,0:26:06.00,0:26:09.64,English,,0,0,0,,Their wars have cost millions of lives.\N{\rChinese}他们的战争已付出数百万人的生命。
+Dialogue: 0,0:26:09.84,0:26:12.80,English,,0,0,0,,Okay? So, that's the first major opponent to the Catholic Empire.\N{\rChinese}好的？所以，这就是对天主教帝国的第一个主要对手。
+Dialogue: 0,0:26:13.32,0:26:16.08,English,,0,0,0,,Sorry, that the Catholic church must destroy.\N{\rChinese}抱歉，就是天主教会需要消灭的那一方。
+Dialogue: 0,0:26:16.28,0:26:17.62,English,,0,0,0,,Okay? The Anglo -American Empire.\N{\rChinese}好的？英美帝国。
+Dialogue: 0,0:26:18.26,0:26:21.36,English,,0,0,0,,Second opponent is the nation state.\N{\rChinese}第二个对手是民族国家。
+Dialogue: 0,0:26:21.66,0:26:23.76,English,,0,0,0,,Um, so, in Augustine's formulation,\N{\rChinese}呃，所以，在奥古斯丁的表述中，
+Dialogue: 0,0:26:24.82,0:26:26.78,English,,0,0,0,,the church is outside of history.\N{\rChinese}教会位于历史之外。
+Dialogue: 0,0:26:26.86,0:26:28.92,English,,0,0,0,,It is above history. It controls history.\N{\rChinese}它位于历史之上，掌控历史。
+Dialogue: 0,0:26:29.54,0:26:31.38,English,,0,0,0,,Um, but with the French Revolution,\N{\rChinese}呃，但在法国革命之后，
+Dialogue: 0,0:26:32.12,0:26:37.00,English,,0,0,0,,um, the idea of a nation state came into being.\N{\rChinese}呃，民族国家的概念才出现。
+Dialogue: 0,0:26:37.18,0:26:39.56,English,,0,0,0,,And the idea of a nation state is that it is above church.\N{\rChinese}并且，民族国家的概念是它位于教会之上。
+Dialogue: 0,0:26:40.10,0:26:44.34,English,,0,0,0,,Okay? And that's why, in France, there is such an emphasis on separation of church and state.\N{\rChinese}好的？这就是为什么在法国，强调教会与国家分离。
+Dialogue: 0,0:26:44.82,0:26:48.52,English,,0,0,0,,So, um, obviously, the Catholic church wants to reverse this order.\N{\rChinese}所以，呃，显然，天主教会想要逆转这一秩序。
+Dialogue: 0,0:26:48.68,0:26:52.38,English,,0,0,0,,And in order to reverse this order, it really has to destroy the concept of the nation state.\N{\rChinese}为了逆转这一秩序，它确实需要摧毁民族国家的概念。
+Dialogue: 0,0:26:52.88,0:26:55.20,English,,0,0,0,,Okay. And the third major opponent,\N{\rChinese}好的。第三个主要对手，嗯，是真正的现代主义。
+Dialogue: 0,0:26:55.70,0:26:57.66,English,,0,0,0,,um, is really modernism.\N{\rChinese}嗯，是真正的现代主义。
+Dialogue: 0,0:26:57.66,0:27:00.74,English,,0,0,0,,It is modernism in and of itself. The cult of the individual, uh, which\N{\rChinese}它是现代主义本身。个人崇拜，呃，哪一…
+Dialogue: 0,0:27:00.74,0:27:02.76,English,,0,0,0,,celebrates materialism,\N{\rChinese}庆祝物质主义，呃，哪一…
+Dialogue: 0,0:27:03.38,0:27:05.22,English,,0,0,0,,hedonism, pleasure,\N{\rChinese}享乐主义，喜悦，
+Dialogue: 0,0:27:05.94,0:27:07.92,English,,0,0,0,,um, multiculturalism.\N{\rChinese}呃，多元文化主义。
+Dialogue: 0,0:27:08.28,0:27:11.78,English,,0,0,0,,Okay? So, the church needs to destroy, uh,\N{\rChinese}好的？所以，教会需要消灭，呃，三方力量，若要恢复千年。
+Dialogue: 0,0:27:12.54,0:27:17.02,English,,0,0,0,,all three forces, if it is to resume the millennium.\N{\rChinese}all three forces, if it isto resume the millennium.
+Dialogue: 0,0:27:18.64,0:27:23.30,English,,0,0,0,,Um, and we can suspect that there is already a plan in place.\N{\rChinese}呃，且我们可以猜测已经有计划在进行。
+Dialogue: 0,0:27:23.56,0:27:27.64,English,,0,0,0,,And, the Catholic church stands a very good chance of achieving its eschatology.\N{\rChinese}而且天主教会有很大机会实现其末世论。
+Dialogue: 0,0:27:27.64,0:27:30.78,English,,0,0,0,,Um, so, let's look at the three signs\N{\rChinese}呃，先看一下天主教会的三大迹象
+Dialogue: 0,0:27:30.78,0:27:33.24,English,,0,0,0,,that the Catholic church is, has a plan in motion.\N{\rChinese}那就是它已经有计划在运作
+Dialogue: 0,0:27:33.50,0:27:37.36,English,,0,0,0,,Well, the current vice president of the United States, J.D.\N{\rChinese}好吧，现任美国副总统J.D. Vance，
+Dialogue: 0,0:27:37.36,0:27:40.10,English,,0,0,0,,Vance, he is a recent Catholic convert.\N{\rChinese}他是最近皈依天主教会的信徒。
+Dialogue: 0,0:27:40.56,0:27:43.30,English,,0,0,0,,The new pope is an American.\N{\rChinese}新的教皇是美国人。
+Dialogue: 0,0:27:43.52,0:27:45.30,English,,0,0,0,,Okay? I don't think these are coincidences.\N{\rChinese}好的？我觉得这不是巧合。
+Dialogue: 0,0:27:45.62,0:27:49.38,English,,0,0,0,,Um, I think this is March, this is all part of a,\N{\rChinese}呃，我想这就是三月，这一切都是一部分的。
+Dialogue: 0,0:27:49.40,0:27:52.04,English,,0,0,0,,uh, larger, uh, plan.\N{\rChinese}呃，更大一点，呃，计划。
+Dialogue: 0,0:27:54.08,0:27:57.62,English,,0,0,0,,We also have to remember that the Catholic church is in very,\N{\rChinese}我们还要记得，天主教会现在非常，
+Dialogue: 0,0:28:03.46,0:28:07.60,English,,0,0,0,,very poor condition right now.\N{\rChinese}非常糟糕的状态。
+Dialogue: 0,0:28:07.60,0:28:12.74,English,,0,0,0,,um, there has to be a way to trim\N{\rChinese}呃，必须有办法把那幅图裁剪一下
+Dialogue: 0,0:28:12.74,0:28:14.50,English,,0,0,0,,that image. Um, and then there has to be a way to trim that image.\N{\rChinese}呃，先裁剪那幅图，然后再有办法把那幅图裁剪一下
+Dialogue: 0,0:28:14.74,0:28:16.92,English,,0,0,0,,So, um, there has to be a way to trim that image.\N{\rChinese}呃，必须有办法把那幅图裁剪一下
+Dialogue: 0,0:28:16.92,0:28:19.62,English,,0,0,0,,and then there has to be a way to trim that image. So, um, there has to be a way to trim that image.\N{\rChinese}呃，先裁剪那幅图，然后再有办法把那幅图裁剪一下
+Dialogue: 0,0:28:19.78,0:28:21.96,English,,0,0,0,,Um, there has to be a way to trim that image.\N{\rChinese}呃，先裁剪那幅图，然后再有办法把那幅图裁剪一下
+Dialogue: 0,0:28:23.46,0:28:27.32,English,,0,0,0,,there has to be a way to trim that image.\N{\rChinese}呃，先裁剪那幅图，然后再有办法把那幅图裁剪一下
+Dialogue: 0,0:28:27.38,0:28:30.72,English,,0,0,0,,Um, around the world. The problem is, the problem was\N{\rChinese}呃，全球范围内。问题是，问题在于
+Dialogue: 0,0:28:30.72,0:28:32.58,English,,0,0,0,,that at that time the CIA didn't have a global network.\N{\rChinese}那时美国中央情报局还没有全球网络。
+Dialogue: 0,0:28:32.80,0:28:35.86,English,,0,0,0,,The Vatican did have a global intelligence network and\N{\rChinese}梵蒂克确实拥有全球情报网络。
+Dialogue: 0,0:28:35.86,0:28:40.16,English,,0,0,0,,so the CIA and the Vatican formed a holy alliance against communism.\N{\rChinese}于是美国中央情报局与梵蒂克结成了对抗共的圣盟。
+Dialogue: 0,0:28:40.70,0:28:43.98,English,,0,0,0,,And there have been\N{\rChinese}随后出现了
+Dialogue: 0,0:28:43.98,0:28:46.44,English,,0,0,0,,so many CIA directors who are Catholic\N{\rChinese}许多中央情报局局长都是天主教徒。
+Dialogue: 0,0:28:46.44,0:28:47.68,English,,0,0,0,,that\N{\rChinese}那时美国中央情报局被称为“行动中的天主”或“天主情报局”。
+Dialogue: 0,0:28:47.68,0:28:53.10,English,,0,0,0,,the CIA has been nicknamed Catholics in Action or the Catholic Intelligence Agency.\N{\rChinese}好的，梵蒂克与美国中央情报局关系非常紧密。
+Dialogue: 0,0:28:53.58,0:28:58.26,English,,0,0,0,,Okay, so the Vatican and the CIA are very very close.\N{\rChinese}Okay, so the Vatican and the CIA are very very close.
+Dialogue: 0,0:28:59.80,0:29:02.32,English,,0,0,0,,Another sign is that\N{\rChinese}另一个迹象是
+Dialogue: 0,0:29:02.32,0:29:07.42,English,,0,0,0,,the Catholic religion is growing very very fast in America.\N{\rChinese}天主教在美国迅速增长。
+Dialogue: 0,0:29:07.58,0:29:10.76,English,,0,0,0,,Right now it's about 22% of the American population\N{\rChinese}目前约占美国人口的22%。
+Dialogue: 0,0:29:10.76,0:29:13.62,English,,0,0,0,,but all those immigrants\N{\rChinese}但所有这些移民
+Dialogue: 0,0:29:13.62,0:29:16.94,English,,0,0,0,,that are coming to America, half of them are Catholic\N{\rChinese}他们来到美国，半数是天主教徒
+Dialogue: 0,0:29:16.94,0:29:18.46,English,,0,0,0,,and these are the legal immigrants.\N{\rChinese}而这些是合法移民
+Dialogue: 0,0:29:18.60,0:29:21.18,English,,0,0,0,,We're not counting the illegal immigrants who are majority Catholic.\N{\rChinese}我们没有算上多数为天主教徒的非法移民。
+Dialogue: 0,0:29:21.48,0:29:22.64,English,,0,0,0,,And also, remember,\N{\rChinese}另外，记住，
+Dialogue: 0,0:29:22.68,0:29:26.32,English,,0,0,0,,Catholics have more\N{\rChinese}天主教徒有更多
+Dialogue: 0,0:29:26.32,0:29:30.22,English,,0,0,0,,children than Protestant families. So\N{\rChinese}孩子比新教家庭多。于是
+Dialogue: 0,0:29:30.22,0:29:33.42,English,,0,0,0,,the demographic trend looks\N{\rChinese}人口趋势看起来
+Dialogue: 0,0:29:33.42,0:29:38.32,English,,0,0,0,,very good for the Catholic faith.\N{\rChinese}对天主教派非常有利。
+Dialogue: 0,0:29:38.62,0:29:41.32,English,,0,0,0,,But we can also argue that\N{\rChinese}但我们也可以说，
+Dialogue: 0,0:29:41.32,0:29:45.14,English,,0,0,0,,if there is American Civil War, a second Civil War,\N{\rChinese}如果出现美国内战，第二场内战，
+Dialogue: 0,0:29:45.28,0:29:47.50,English,,0,0,0,,and the institutions of authority are destroyed,\N{\rChinese}权力机构被摧毁。
+Dialogue: 0,0:29:47.80,0:29:52.66,English,,0,0,0,,the American Catholics are in the best position to be able to do anything.\N{\rChinese}美国天主教徒处于最佳位置，能够做任何事。
+Dialogue: 0,0:29:52.66,0:29:53.94,English,,0,0,0,,So they can't be able to capture the American state.\N{\rChinese}于是他们就能掌握美国国家。
+Dialogue: 0,0:29:54.32,0:29:58.74,English,,0,0,0,,And if they are able to capture the American state then they would control the world.\N{\rChinese}若他们能掌握美国国家，则可统领世界。
+Dialogue: 0,0:29:59.12,0:30:03.48,English,,0,0,0,,So I think there are some fanatics within the Catholic Church\N{\rChinese}于是我认为天主教会内部有些狂热者
+Dialogue: 0,0:30:03.48,0:30:04.76,English,,0,0,0,,who\N{\rChinese}他们
+Dialogue: 0,0:30:04.76,0:30:08.22,English,,0,0,0,,want to initiate a second American Civil War\N{\rChinese}想要发动第二场美国内战
+Dialogue: 0,0:30:08.22,0:30:10.36,English,,0,0,0,,because they believe that\N{\rChinese}因为他们认为
+Dialogue: 0,0:30:10.36,0:30:16.08,English,,0,0,0,,this war will create the opportunity for the Catholic Church to control America\N{\rChinese}这场战争将为天主教会掌控美国创造机会
+Dialogue: 0,0:30:16.08,0:30:19.42,English,,0,0,0,,and thus destroy all three of its major opponents.\N{\rChinese}并因此消灭其三大对手
+Dialogue: 0,0:30:19.62,0:30:22.64,English,,0,0,0,,The Anglo -American empire, the nation state, and\N{\rChinese}英美帝国、民族国家与克鲁萨德的克鲁萨德国家以及现代性本身。
+Dialogue: 0,0:30:22.64,0:30:25.94,English,,0,0,0,,the Crusaders' Crusaders' state and modernity itself.\N{\rChinese}好了，先看了主要的末世论传统，接下来……
+Dialogue: 0,0:30:26.80,0:30:30.94,English,,0,0,0,,Okay, so having looked at the major eschatological traditions,\N{\rChinese}Okay, so having looked at the major eschatological traditions,
+Dialogue: 0,0:30:31.20,0:30:33.34,English,,0,0,0,,I'm going to discuss where they converge.\N{\rChinese}我将讨论它们的汇聚点。
+Dialogue: 0,0:30:33.78,0:30:38.80,English,,0,0,0,,And what's really interesting is there's actually quite a few convergence points\N{\rChinese}而且真正有趣的是，实际上有不少汇聚点，且都很重要。
+Dialogue: 0,0:30:38.80,0:30:42.02,English,,0,0,0,,that are very important. The first convergence point is\N{\rChinese}第一个汇聚点是
+Dialogue: 0,0:30:42.02,0:30:45.92,English,,0,0,0,,that there will be a major conflict in the Middle East\N{\rChinese}有一场大冲突将在中东爆发
+Dialogue: 0,0:30:45.92,0:30:49.72,English,,0,0,0,,that will suck in the whole world.\N{\rChinese}它将把全世界卷入其中
+Dialogue: 0,0:30:49.78,0:30:50.98,English,,0,0,0,,It will be World War III, okay?\N{\rChinese}这将是第三次世界大战，明白吗？
+Dialogue: 0,0:30:51.30,0:30:53.44,English,,0,0,0,,Second convergence point is that\N{\rChinese}第二个汇聚点是
+Dialogue: 0,0:30:53.44,0:30:57.46,English,,0,0,0,,America will not be involved in this war.\N{\rChinese}美国将不参与这场战争。
+Dialogue: 0,0:30:57.60,0:31:00.70,English,,0,0,0,,And that's very interesting because America is right now the global hegemon.\N{\rChinese}而且这很有趣，因为美国正是全球霸权。
+Dialogue: 0,0:31:01.02,0:31:04.00,English,,0,0,0,,So why America isn't involved in this war?\N{\rChinese}那么美国为什么没参与这场战争？
+Dialogue: 0,0:31:04.14,0:31:07.02,English,,0,0,0,,We don't know. It could be because they launched a grunt invasion of Iran.\N{\rChinese}我们不知道。可能是因为他们发动了对伊朗的突击入侵。
+Dialogue: 0,0:31:07.20,0:31:09.00,English,,0,0,0,,It failed and they were forced to retreat.\N{\rChinese}入侵失败后他们被迫撤退。
+Dialogue: 0,0:31:09.26,0:31:12.26,English,,0,0,0,,It could be the Civil War going on in America, okay?\N{\rChinese}它可能是美国正在进行的内战，好吗？
+Dialogue: 0,0:31:12.36,0:31:14.30,English,,0,0,0,,But America is not involved in this war.\N{\rChinese}但美国并未参与这场战争。
+Dialogue: 0,0:31:14.80,0:31:16.64,English,,0,0,0,,The third convergent point is that\N{\rChinese}第三个汇聚点是
+Dialogue: 0,0:31:16.64,0:31:20.08,English,,0,0,0,,China is not involved in this war either.\N{\rChinese}中国也没有参与这场战争。
+Dialogue: 0,0:31:20.42,0:31:22.12,English,,0,0,0,,And I suspected that China has been involved in this war for days.\N{\rChinese}我猜想中国已经参与这场战争好几天了。
+Dialogue: 0,0:31:22.12,0:31:26.12,English,,0,0,0,,China has been involved that it's because China is facing an ecological catastrophe.\N{\rChinese}中国之所以参与是因为它正面临生态灾难。
+Dialogue: 0,0:31:26.50,0:31:28.42,English,,0,0,0,,It doesn't have enough water, it doesn't have enough food,\N{\rChinese}它没有足够的水，没有足够的食物，
+Dialogue: 0,0:31:28.52,0:31:33.88,English,,0,0,0,,it doesn't have enough resources for its people\N{\rChinese}它没有足够的资源供其人民使用，
+Dialogue: 0,0:31:33.88,0:31:36.28,English,,0,0,0,,and you have internal dissent throughout the nation.\N{\rChinese}并且全国各地都有内部纷争。
+Dialogue: 0,0:31:36.44,0:31:40.20,English,,0,0,0,,China is having a hard time keeping itself together.\N{\rChinese}中国正艰难维持统一。
+Dialogue: 0,0:31:42.26,0:31:46.26,English,,0,0,0,,The fourth convergence point is\N{\rChinese}第四个汇聚点是
+Dialogue: 0,0:31:46.26,0:31:47.56,English,,0,0,0,,that\N{\rChinese}那是……
+Dialogue: 0,0:31:47.56,0:31:51.90,English,,0,0,0,,the Antichrist will emerge\N{\rChinese}反基督将出现
+Dialogue: 0,0:31:51.90,0:31:55.94,English,,0,0,0,,and different traditions understand the Antichrist differently\N{\rChinese}不同传统对反基督的理解各异
+Dialogue: 0,0:31:55.94,0:31:58.46,English,,0,0,0,,but they all believe that\N{\rChinese}但他们都相信
+Dialogue: 0,0:31:58.46,0:32:01.62,English,,0,0,0,,this powerful force will emerge who\N{\rChinese}这股强大力量将出现，拥有魅力的领袖
+Dialogue: 0,0:32:01.62,0:32:02.94,English,,0,0,0,,is charismatic and who\N{\rChinese}他将统一世界。
+Dialogue: 0,0:32:02.94,0:32:06.68,English,,0,0,0,,will unify the world.\N{\rChinese}will unify the world.
+Dialogue: 0,0:32:07.78,0:32:10.90,English,,0,0,0,,Another convergence point is that\N{\rChinese}另一个汇聚点是
+Dialogue: 0,0:32:10.90,0:32:15.48,English,,0,0,0,,Israel will become the dominant power in the Middle East.\N{\rChinese}以色列将成为中东的主导力量。
+Dialogue: 0,0:32:15.48,0:32:19.08,English,,0,0,0,,Presumably after America leaves the Middle East\N{\rChinese}大概在美国离开中东之后。
+Dialogue: 0,0:32:19.08,0:32:21.98,English,,0,0,0,,and we can understand why because America leaves the Middle East\N{\rChinese}于是我们可以明白原因，因为美国离开中东
+Dialogue: 0,0:32:21.98,0:32:23.92,English,,0,0,0,,then all of America's military infrastructure,\N{\rChinese}随后美国的全部军工设施，
+Dialogue: 0,0:32:24.28,0:32:26.82,English,,0,0,0,,CENTCOM, will merge with the Greater Israel Project,\N{\rChinese}CENTCOM将与大以色列计划合并
+Dialogue: 0,0:32:27.16,0:32:29.28,English,,0,0,0,,thus creating the Israel Empire.\N{\rChinese}于是形成了以色列帝国。
+Dialogue: 0,0:32:29.86,0:32:32.68,English,,0,0,0,,Another convergence point is that\N{\rChinese}另一个汇聚点是
+Dialogue: 0,0:32:33.66,0:32:39.56,English,,0,0,0,,anti -semitism will grow around the world compelling Jews to return to Israel.\N{\rChinese}反犹太主义将在全球蔓延，迫使犹太人归回以色列。
+Dialogue: 0,0:32:40.08,0:32:43.36,English,,0,0,0,,Another convergence point is\N{\rChinese}另一个汇聚点是
+Dialogue: 0,0:32:43.36,0:32:46.32,English,,0,0,0,,that the Dome of the Rock will be destroyed and\N{\rChinese}岩顶会被摧毁，随后...
+Dialogue: 0,0:32:46.32,0:32:50.82,English,,0,0,0,,thus provoking the Muslim world to take arms against Israel\N{\rChinese}于是穆斯林世界会动手举兵对抗以色列。
+Dialogue: 0,0:32:50.82,0:32:54.00,English,,0,0,0,,and possibly initiating the war of Gog\N{\rChinese}并可能引发古古与玛古的战争
+Dialogue: 0,0:32:54.00,0:32:55.78,English,,0,0,0,,and Magog.\N{\rChinese}另一个汇聚点是动荡期。
+Dialogue: 0,0:32:56.46,0:32:59.82,English,,0,0,0,,Another convergence point is the Age of Tribulation\N{\rChinese}另一个汇聚点是动荡期。
+Dialogue: 0,0:32:59.82,0:33:02.86,English,,0,0,0,,when the world will face economic,\N{\rChinese}当世界面临经济，
+Dialogue: 0,0:33:03.24,0:33:08.02,English,,0,0,0,,ecological, geopolitical catastrophe after catastrophe after catastrophe\N{\rChinese}生态、地缘政治灾难后又灾难后又灾难
+Dialogue: 0,0:33:08.02,0:33:10.46,English,,0,0,0,,when people's faith will be tested.\N{\rChinese}当人们的信仰受到考验时
+Dialogue: 0,0:33:10.58,0:33:15.16,English,,0,0,0,,When the Antichrist will emerge to deceive people into believing that the Antichrist will emerge to deceive people into believing that the Antichrist will\N{\rChinese}当弥撒者出现，欺骗人们相信弥撒者出现，欺骗人们相信弥撒者出现，弥撒者出现，
+Dialogue: 0,0:33:15.68,0:33:18.72,English,,0,0,0,,rise to deceive people into believing that\N{\rChinese}升起欺骗人们相信
+Dialogue: 0,0:33:18.72,0:33:20.74,English,,0,0,0,,the Antichrist will rise to deceive people Antichrist will rise to deceive people into believing that the Antichrist will rise to deceive people into believing that\N{\rChinese}弥撒者将升起欺骗人们相信弥撒者将升起欺骗人们相信那样
+Dialogue: 0,0:33:20.74,0:33:23.78,English,,0,0,0,,the Antichrist will rise to deceive people into denying the lie\N{\rChinese}弥撒者将升起欺骗人们以否认谎言
+Dialogue: 0,0:33:23.78,0:33:27.92,English,,0,0,0,,and lie to deceive people into denying the lie and lie to deceive people into denying lie and lie to deceive people into denying the lie and lie to deceive people into denying lie and lie to deceive people into denying the lie and\N{\rChinese}又说谎以欺骗人们否认谎言，又说谎以欺骗人们否认谎言，又说谎以欺骗人们否认谎言，又说谎以欺骗人们否认谎言，又说谎以欺骗人们否认谎言，
+Dialogue: 0,0:33:27.92,0:33:31.54,English,,0,0,0,,lie to deceive people into denying lie and lie to deceive people into denying the lie and lie to deceive people into denying\N{\rChinese}说谎以欺骗人们否认谎言，说谎以欺骗人们否认谎言，说谎以欺骗人们否认
+Dialogue: 0,0:33:33.04,0:33:36.08,English,,0,0,0,,lie and lie to deceive people into denying the lie\N{\rChinese}说谎以欺骗人们否认谎言
+Dialogue: 0,0:33:36.08,0:33:40.06,English,,0,0,0,,and lie to deceive people into denying lie and lie to deceive people into denying the lie\N{\rChinese}又说谎以欺骗人们否认谎言
+Dialogue: 0,0:33:40.06,0:33:45.34,English,,0,0,0,,and lie to deceive people into denying in the future\N{\rChinese}又说谎以欺骗人们在未来否认
+Dialogue: 0,0:33:45.34,0:33:47.00,English,,0,0,0,,and what it looks like. And\N{\rChinese}以及它的样子。
+Dialogue: 0,0:33:47.00,0:33:51.02,English,,0,0,0,,some of these will not work out,\N{\rChinese}有些会落空
+Dialogue: 0,0:33:51.12,0:33:52.72,English,,0,0,0,,some of these will work out. But\N{\rChinese}有些会成功
+Dialogue: 0,0:33:52.72,0:33:54.72,English,,0,0,0,,it's an interesting framework for us to\N{\rChinese}这是一种有趣的框架，供我们思考地缘政治未来十到二十年可能的发展。
+Dialogue: 0,0:33:54.72,0:34:00.32,English,,0,0,0,,think about how geopolitics might develop over the next 10 to 20 years.\N{\rChinese}于是美国发动了对伊朗的地面入侵。
+Dialogue: 0,0:34:02.18,0:34:07.76,English,,0,0,0,,So the United States launched a ground invasion of Iran.\N{\rChinese}So the United States launched a ground invasion of Iran.
+Dialogue: 0,0:34:08.00,0:34:10.00,English,,0,0,0,,Iran is supported heavily by Russia.\N{\rChinese}伊朗得到俄罗斯的大力支持。
+Dialogue: 0,0:34:10.00,0:34:11.64,English,,0,0,0,,The United States,\N{\rChinese}美国，
+Dialogue: 0,0:34:11.70,0:34:14.80,English,,0,0,0,,after a few years of fighting,\N{\rChinese}经过数年的战斗后，
+Dialogue: 0,0:34:15.06,0:34:16.96,English,,0,0,0,,they give up and they retreat.\N{\rChinese}他们投降并撤退。
+Dialogue: 0,0:34:17.80,0:34:23.06,English,,0,0,0,,And so the American Empire retreats back into the Western continent.\N{\rChinese}于是美帝国撤回西方大洲。
+Dialogue: 0,0:34:23.26,0:34:27.18,English,,0,0,0,,But this triggers a civil war in America.\N{\rChinese}这导致美国内战爆发。
+Dialogue: 0,0:34:30.08,0:34:34.66,English,,0,0,0,,In Ukraine, NATO decides Odessa will be the last step.\N{\rChinese}在乌克兰，北约决定奥德萨是最后一步。
+Dialogue: 0,0:34:35.14,0:34:39.44,English,,0,0,0,,So Russia encircles Odessa.\N{\rChinese}于是俄国包围奥德萨。
+Dialogue: 0,0:34:40.16,0:34:41.56,English,,0,0,0,,And lays siege to it.\N{\rChinese}并对其展开围攻。
+Dialogue: 0,0:34:41.94,0:34:45.00,English,,0,0,0,,All of NATO is brought in to defend Odessa.\N{\rChinese}所有北约成员国都被调入去保卫奥德萨。
+Dialogue: 0,0:34:45.22,0:34:46.52,English,,0,0,0,,This is the very last step.\N{\rChinese}这就是最后一步。
+Dialogue: 0,0:34:47.06,0:34:49.52,English,,0,0,0,,And France,\N{\rChinese}法国也加入了。
+Dialogue: 0,0:34:49.90,0:34:51.78,English,,0,0,0,,Britain, Romania, Poland,\N{\rChinese}英国、罗马尼亚、波兰，所有北约成员国都被调入。
+Dialogue: 0,0:34:52.60,0:34:54.46,English,,0,0,0,,all the NATO countries are brought in.\N{\rChinese}土耳其也被调入。
+Dialogue: 0,0:34:54.56,0:34:55.76,English,,0,0,0,,Turkey is brought in as well.\N{\rChinese}Turkey is brought in as well.
+Dialogue: 0,0:34:57.44,0:34:59.02,English,,0,0,0,,And it's a stalemate.\N{\rChinese}并且是僵局。
+Dialogue: 0,0:34:59.48,0:35:01.70,English,,0,0,0,,This war is going nowhere. But\N{\rChinese}这场战争无进展。但
+Dialogue: 0,0:35:01.70,0:35:07.30,English,,0,0,0,,the Europeans don't understand why they're fighting this war.\N{\rChinese}欧洲人不明白为何要打这场战。
+Dialogue: 0,0:35:07.40,0:35:09.12,English,,0,0,0,,The European people revolt.\N{\rChinese}欧洲人民起义。
+Dialogue: 0,0:35:09.44,0:35:13.00,English,,0,0,0,,And this is a stalemate. This causes civil war in France, in Britain.\N{\rChinese}而这又是僵局。于是法国、英国爆发内战。
+Dialogue: 0,0:35:13.14,0:35:15.76,English,,0,0,0,,It causes political upheaval in Germany.\N{\rChinese}它导致德国政治动荡。
+Dialogue: 0,0:35:15.90,0:35:19.30,English,,0,0,0,,It causes a political revolution in Turkey.\N{\rChinese}它导致土耳其政治革命。
+Dialogue: 0,0:35:19.68,0:35:22.88,English,,0,0,0,,And after these civil wars\N{\rChinese}而在这些内战之后
+Dialogue: 0,0:35:22.88,0:35:27.54,English,,0,0,0,,and these revolutions, Europe becomes more pro -Russian.\N{\rChinese}以及这些革命后，欧洲变得更亲俄
+Dialogue: 0,0:35:27.74,0:35:31.18,English,,0,0,0,,Allowing for reconciliation between Putin\N{\rChinese}为普京与欧洲的和解提供可能。
+Dialogue: 0,0:35:31.18,0:35:33.08,English,,0,0,0,,and Europe.\N{\rChinese}and Europe.
+Dialogue: 0,0:35:33.26,0:35:34.98,English,,0,0,0,,Turkey is destroyed in this process.\N{\rChinese}土耳其在此过程中被摧毁。
+Dialogue: 0,0:35:35.98,0:35:39.38,English,,0,0,0,,Putin allows the Greeks to return to Constantinople.\N{\rChinese}普京允许希腊人返回君士坦丁堡。
+Dialogue: 0,0:35:39.38,0:35:40.68,English,,0,0,0,,Restoring the Byzantine Empire.\N{\rChinese}恢复拜占庭帝国。
+Dialogue: 0,0:35:40.94,0:35:44.04,English,,0,0,0,,And thus unifying the Orthodox world.\N{\rChinese}于是统一正教世界。
+Dialogue: 0,0:35:45.42,0:35:50.68,English,,0,0,0,,After the United States leaves the Middle East,\N{\rChinese}美国离开中东后，大以色列计划化为以色列帝国。
+Dialogue: 0,0:35:51.38,0:35:56.10,English,,0,0,0,,the Greater Israel Project becomes the Empire of Israel.\N{\rChinese}the Greater Israel Project becomes the Empire of Israel.
+Dialogue: 0,0:35:57.42,0:35:58.84,English,,0,0,0,,The Empire of Israel,\N{\rChinese}以色列帝国，
+Dialogue: 0,0:35:59.08,0:36:02.04,English,,0,0,0,,in order to restore the Davidic Kingdom,\N{\rChinese}为恢复大卫王国，
+Dialogue: 0,0:36:02.22,0:36:03.80,English,,0,0,0,,in order to usher in the Byzantine Age,\N{\rChinese}为迎来拜占庭时代，他们摧毁岩石穹顶以建造第三圣殿。
+Dialogue: 0,0:36:04.02,0:36:09.14,English,,0,0,0,,they destroy the Dome of the Rock to build the Third Temple.\N{\rChinese}他们摧毁岩石穹顶以建造第三圣殿。
+Dialogue: 0,0:36:10.16,0:36:15.24,English,,0,0,0,,This causes anti -Semitism to explode throughout the world.\N{\rChinese}这导致世界各地反犹太主义爆发。
+Dialogue: 0,0:36:15.32,0:36:19.26,English,,0,0,0,,Thus compelling Jews to return to Israel.\N{\rChinese}于是犹太人被迫返回以色列。
+Dialogue: 0,0:36:20.46,0:36:25.64,English,,0,0,0,,The entire Islamic world wants vengeance against Israel.\N{\rChinese}整个伊斯兰世界都想报复以色列。
+Dialogue: 0,0:36:26.16,0:36:28.90,English,,0,0,0,,But their leadership, their political elite,\N{\rChinese}但他们的领导层，他们的政治精英，
+Dialogue: 0,0:36:29.04,0:36:33.62,English,,0,0,0,,have been co -opted and compromised by the Anglo -American Empire and by the Israeli Empire.\N{\rChinese}已被英美帝国和以色列帝国兼并并妥协，
+Dialogue: 0,0:36:33.98,0:36:37.24,English,,0,0,0,,And so this forces revolutions and\N{\rChinese}于是这促成了革命与
+Dialogue: 0,0:36:37.24,0:36:40.94,English,,0,0,0,,civil conflict around the Islamic world. And\N{\rChinese}伊斯兰世界的内战。随后
+Dialogue: 0,0:36:40.94,0:36:44.92,English,,0,0,0,,now people are begging for\N{\rChinese}人们开始乞求
+Dialogue: 0,0:36:44.92,0:36:46.98,English,,0,0,0,,the Magni to return.\N{\rChinese}Magni归来。
+Dialogue: 0,0:36:47.16,0:36:51.22,English,,0,0,0,,The Magni is their world unifier.\N{\rChinese}马格尼是他们的世界统一者。
+Dialogue: 0,0:36:53.32,0:36:57.48,English,,0,0,0,,At this point, there are certain elements within the Islamic world\N{\rChinese}此时，伊斯兰世界中出现了若干要素
+Dialogue: 0,0:36:57.48,0:37:01.14,English,,0,0,0,,who see Putin as the great savior.\N{\rChinese}他们把普京视为伟大的救世主
+Dialogue: 0,0:37:01.82,0:37:04.40,English,,0,0,0,,And in the Islamic eschatology,\N{\rChinese}在伊斯兰末世论中，
+Dialogue: 0,0:37:04.68,0:37:08.04,English,,0,0,0,,the name for Putin\N{\rChinese}普京的名字
+Dialogue: 0,0:37:08.04,0:37:11.12,English,,0,0,0,,is Dao Kanaan,\N{\rChinese}道坎安，
+Dialogue: 0,0:37:11.30,0:37:16.80,English,,0,0,0,,which is the same concept as the Orthodox idea of the catacomb.\N{\rChinese}这与正教关于地下墓穴的概念相同。
+Dialogue: 0,0:37:17.02,0:37:21.76,English,,0,0,0,,The one who stops the Antichrist from emerging. And so\N{\rChinese}停止反基督出现的人。于是
+Dialogue: 0,0:37:21.76,0:37:27.28,English,,0,0,0,,Putin will initiate reconciliation between the Islamic world\N{\rChinese}普京将启动伊斯兰世界的和解
+Dialogue: 0,0:37:27.28,0:37:30.40,English,,0,0,0,,and the Orthodox world. It will be an alliance between the Orthodox\N{\rChinese}并且与正教世界。它将是正教与伊斯兰世界的联盟。
+Dialogue: 0,0:37:30.40,0:37:32.22,English,,0,0,0,,and the Islamic world.\N{\rChinese}并且与正教世界。它将是正教与伊斯兰世界的联盟。
+Dialogue: 0,0:37:33.54,0:37:35.66,English,,0,0,0,,And at this point,\N{\rChinese}此时，
+Dialogue: 0,0:37:36.58,0:37:40.34,English,,0,0,0,,Putin, can now seek reconciliation\N{\rChinese}普京现在可以寻求和解
+Dialogue: 0,0:37:41.01,0:37:43.76,English,,0,0,0,,between the Islamic world\N{\rChinese}与伊斯兰世界
+Dialogue: 0,0:37:43.76,0:37:46.40,English,,0,0,0,,and the Israeli Empire.\N{\rChinese}与以色列帝国
+Dialogue: 0,0:37:46.66,0:37:50.16,English,,0,0,0,,He can also seek reconciliation between the Orthodox world\N{\rChinese}他也可以寻求与正教世界的和解
+Dialogue: 0,0:37:50.16,0:37:51.68,English,,0,0,0,,and the Catholic world.\N{\rChinese}以及天主教世界。
+Dialogue: 0,0:37:51.82,0:37:55.04,English,,0,0,0,,And thus unifying the world under him.\N{\rChinese}于是把世界统一在他之下。
+Dialogue: 0,0:37:55.32,0:37:59.96,English,,0,0,0,,So this is the framework of the world for the next 10 -20 years.\N{\rChinese}于是这就是未来10-20年世界的框架。
+Dialogue: 0,0:38:00.96,0:38:03.70,English,,0,0,0,,Now, do I think this will actually happen?\N{\rChinese}现在，我认为这会真的发生吗？
+Dialogue: 0,0:38:03.94,0:38:08.28,English,,0,0,0,,Do I actually think that Putin will replace the Anglo -American Empire?\N{\rChinese}我真的认为普京会取代英美帝国吗？
+Dialogue: 0,0:38:10.56,0:38:13.06,English,,0,0,0,,He thinks he will succeed.\N{\rChinese}他认为自己会成功。
+Dialogue: 0,0:38:13.24,0:38:16.56,English,,0,0,0,,But I don't think he will succeed. And the reason why is because he's human.\N{\rChinese}但我认为他不会成功，原因是他是人。
+Dialogue: 0,0:38:17.26,0:38:19.84,English,,0,0,0,,And once he dies, then\N{\rChinese}而当他去世后，
+Dialogue: 0,0:38:19.84,0:38:22.50,English,,0,0,0,,civil conflict will arise\N{\rChinese}内战将爆发
+Dialogue: 0,0:38:23.18,0:38:25.54,English,,0,0,0,,within this grand alliance. And\N{\rChinese}在这大联盟之内。然后
+Dialogue: 0,0:38:25.54,0:38:31.48,English,,0,0,0,,this civil conflict will lead to catastrophe after catastrophe after catastrophe.\N{\rChinese}这场内战将接连不断的灾祸。
+Dialogue: 0,0:38:31.62,0:38:34.58,English,,0,0,0,,It will be the age of tribulation. Many,\N{\rChinese}将是动荡之世。众多
+Dialogue: 0,0:38:34.70,0:38:37.82,English,,0,0,0,,many people will die in this age of tribulation.\N{\rChinese}许多人将在这动荡之世中相继逝去。
+Dialogue: 0,0:38:38.02,0:38:42.56,English,,0,0,0,,So the outlook for humanity is not that great.\N{\rChinese}因此，人类的前景并不算太好。
+Dialogue: 0,0:38:42.82,0:38:45.72,English,,0,0,0,,And this is no different from what happened\N{\rChinese}而这与公元650-600年左右发生的情况无异。
+Dialogue: 0,0:38:45.72,0:38:49.42,English,,0,0,0,,in about 650 -600 Common Era\N{\rChinese}在公元650-600年左右发生的情况与此无异。
+Dialogue: 0,0:38:49.42,0:38:52.64,English,,0,0,0,,when Muhammad was this great charismatic figure who\N{\rChinese}当穆罕默德是那位伟大的有魅力人物时，
+Dialogue: 0,0:38:52.64,0:38:55.54,English,,0,0,0,,was supposed to unite the entire world.\N{\rChinese}他本应统一全世界。
+Dialogue: 0,0:38:55.58,0:38:57.66,English,,0,0,0,,And he would have if he lived another 10 years.\N{\rChinese}他若再活十年，便会如此。
+Dialogue: 0,0:38:57.84,0:38:59.48,English,,0,0,0,,Unfortunately, he died. And\N{\rChinese}不幸的是，他去世了。
+Dialogue: 0,0:38:59.48,0:39:04.26,English,,0,0,0,,this created civil conflict within the Muslim world.\N{\rChinese}这导致了穆斯林世界内部的内战。
+Dialogue: 0,0:39:05.46,0:39:07.48,English,,0,0,0,,Okay, so, those are my predictions.\N{\rChinese}好的，那就是我的预测。
+Dialogue: 0,0:39:07.80,0:39:09.20,English,,0,0,0,,And again, the thesis,\N{\rChinese}再说一次，论点是，
+Dialogue: 0,0:39:09.34,0:39:14.64,English,,0,0,0,,the grand idea is eschatology drives geopolitics.\N{\rChinese}大想法是，末世论驱动地缘政治。
+Dialogue: 0,0:39:14.72,0:39:17.88,English,,0,0,0,,So if things happen the way they do,\N{\rChinese}如果事情按预期发展，
+Dialogue: 0,0:39:18.16,0:39:19.96,English,,0,0,0,,then it's because of eschatology.\N{\rChinese}那就归因于末世论。
+Dialogue: 0,0:39:20.20,0:39:23.52,English,,0,0,0,,And that gives us proof, compelling proof\N{\rChinese}这给了我们充分的证明，足以证明。
+Dialogue: 0,0:39:23.52,0:39:27.80,English,,0,0,0,,that it's really eschatology that drives geopolitics.\N{\rChinese}那正是末世论驱动地缘政治。
+Dialogue: 0,0:39:27.92,0:39:30.08,English,,0,0,0,,So we'll see what happens in the next 10, 20 years.\N{\rChinese}接下来十、二十年会怎样，咱们拭目以待。
+Dialogue: 0,0:39:30.58,0:39:33.18,English,,0,0,0,,Now, having said all this,\N{\rChinese}说完这些，
+Dialogue: 0,0:39:33.86,0:39:35.48,English,,0,0,0,,I have to say, it's not\N{\rChinese}我得说，这不是……
+Dialogue: 0,0:39:36.40,0:39:39.68,English,,0,0,0,,I mean, it's not secret what I'm saying.\N{\rChinese}我的意思是，这不是我说的秘密。
+Dialogue: 0,0:39:39.90,0:39:42.86,English,,0,0,0,,It's not a great secret I've uncovered.\N{\rChinese}这不是我发现的大秘密。
+Dialogue: 0,0:39:43.28,0:39:48.36,English,,0,0,0,,I mean, if you read Alexander Dugin, he lays out this plan coherently in his interviews\N{\rChinese}我说的是，如果你读过亚历山大·杜金，他在访谈中和书里都把这个计划说得很连贯
+Dialogue: 0,0:39:48.36,0:39:51.16,English,,0,0,0,,and in his books. So then the question then is,\N{\rChinese}于是问题来了，
+Dialogue: 0,0:39:51.28,0:39:54.10,English,,0,0,0,,given that this is public domain knowledge,\N{\rChinese}既然这已是公开知识，
+Dialogue: 0,0:39:54.48,0:39:57.04,English,,0,0,0,,why doesn't the Anglo -American Empire\N{\rChinese}为什么英美帝国没有……
+Dialogue: 0,0:39:58.90,0:40:02.00,English,,0,0,0,,respond strategically to this?\N{\rChinese}回应战略性吗？
+Dialogue: 0,0:40:02.42,0:40:05.56,English,,0,0,0,,Why doesn't the Anglo -American Empire have countermeasures\N{\rChinese}英美帝国为什么没有反制措施？
+Dialogue: 0,0:40:05.56,0:40:08.44,English,,0,0,0,,and counter strategies Why isn't the Anglo -American Empire\N{\rChinese}以及反制策略，英美帝国为何不着手自保？
+Dialogue: 0,0:40:09.14,0:40:11.70,English,,0,0,0,,intent on its own self -preservation?\N{\rChinese}它们的意图是自保吗？
+Dialogue: 0,0:40:12.94,0:40:14.68,English,,0,0,0,,And the answer is\N{\rChinese}答案是
+Dialogue: 0,0:40:15.30,0:40:17.40,English,,0,0,0,,because the people who control the Anglo -American Empire\N{\rChinese}因为掌控英美帝国的人
+Dialogue: 0,0:40:18.44,0:40:19.80,English,,0,0,0,,today don't care.\N{\rChinese}他们今天不在乎。
+Dialogue: 0,0:40:19.92,0:40:23.86,English,,0,0,0,,Because they'll be dead in 10, 20, 30 years time.\N{\rChinese}因为他们十、二十、三十年后就会去世。
+Dialogue: 0,0:40:24.40,0:40:28.40,English,,0,0,0,,All they want to do until they die is enjoy their life.\N{\rChinese}他们只想在去世前享受人生。
+Dialogue: 0,0:40:28.54,0:40:33.18,English,,0,0,0,,And they don't care what will happen to the world after their death.\N{\rChinese}他们不在乎自己去世后世界会怎样。
+Dialogue: 0,0:40:33.38,0:40:35.40,English,,0,0,0,,These people, of course, are called the baby boomers.\N{\rChinese}这些人，当然被称为婴儿潮人。
+Dialogue: 0,0:40:35.40,0:40:39.30,English,,0,0,0,,They're the ones who control all the political power, the financial power,\N{\rChinese}他们是掌握所有政治权力、金融权力的人。
+Dialogue: 0,0:40:39.46,0:40:45.38,English,,0,0,0,,the influential power in America,\N{\rChinese}美国的影响力
+Dialogue: 0,0:40:45.54,0:40:48.78,English,,0,0,0,,the cultural power in America and in the West today.\N{\rChinese}美国和今天西方的文化力量
+Dialogue: 0,0:40:48.94,0:40:51.94,English,,0,0,0,,And that's why the West is dying.\N{\rChinese}于是西方才会衰亡。
+Dialogue: 0,0:40:52.20,0:40:55.38,English,,0,0,0,,So I'm going to talk about this topic in my next video.\N{\rChinese}我将在下一段视频里谈此题。
+Dialogue: 0,0:40:55.54,0:40:58.90,English,,0,0,0,,So I look forward to seeing everyone then.\N{\rChinese}我期待届时与大家相见。
+Dialogue: 0,0:41:01.58,0:41:05.52,English,,0,0,0,,If you're interested, please join my Discord server.\N{\rChinese}如果你感兴趣，请加入我的 Discord 服务器。
+Dialogue: 0,0:41:05.70,0:41:07.52,English,,0,0,0,,I'm going to put the link below. If you're the means,\N{\rChinese}我会把链接放在下面。若你有时间，
+Dialogue: 0,0:41:07.82,0:41:11.82,English,,0,0,0,,please support my work by donating to\N{\rChinese}请通过捐款支持我的工作。
+Dialogue: 0,0:41:11.82,0:41:13.86,English,,0,0,0,,me on Buy Me A Coffee.\N{\rChinese}在 Buy Me A Coffee上给我打赏。
+Dialogue: 0,0:41:14.10,0:41:16.64,English,,0,0,0,,I really appreciate all the donations.\N{\rChinese}我非常感谢所有的捐款。
+Dialogue: 0,0:41:17.84,0:41:20.56,English,,0,0,0,,It's real validation of my work.\N{\rChinese}这是真正对我的工作的肯定。
+Dialogue: 0,0:41:20.78,0:41:22.96,English,,0,0,0,,Okay. All right. So thank you so much.\N{\rChinese}好的。好了。非常感谢。
+Dialogue: 0,0:41:22.96,0:41:24.90,English,,0,0,0,,And I will see everyone next week.\N{\rChinese}下周见。
